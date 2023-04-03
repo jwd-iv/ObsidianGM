@@ -8,26 +8,27 @@ Alright, objectives of this vault:
 Things that will be tracked here: (trying to come up with a rough index before porting over all my existing stuff for Pathfinder)
 
 1. Campaigns
-2. Sessions
-3. Player notes
-4. Encounter ideas
-5. Monsters
-6. Rules
-7. Abilities
-8. Spells
-9. Items
-10. NPCs
-11. Big bads
-12. Encounter tables
-13. Item generators
-14. NPC generators
-15. Dungeon generators
-16. Maps
-17. Locations
-18. Worldbuilding
-19. Cities
-20. Kingdoms
-21. Gods
+	1. Sessions
+	2. Big bads
+	3. Player notes
+2. Encounter ideas
+	1. NPCs
+	2. Items
+3. Worldbuilding
+	1. Locations
+		1. Maps
+		2. Cities
+		3. Kingdoms
+	2. Gods
+4. Rules
+	1. Monsters
+	2. Abilities
+	3. Spells
+5. Generators
+	1. NPC generators
+	2. Encounter tables
+	3. Item generators
+	4. Dungeon generators
 
 Inspiration:
 

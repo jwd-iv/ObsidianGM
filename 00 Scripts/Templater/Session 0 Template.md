@@ -2,7 +2,6 @@
 aliases:
 tags:
 
-status: 🌰
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 # Session 0

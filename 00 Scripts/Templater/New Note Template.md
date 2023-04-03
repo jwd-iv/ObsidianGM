@@ -14,7 +14,6 @@ ${titles?.length
 }
 tags:
 
-status: 🌰
 created: ${tp.date.now("YYYY-MM-DD")}
 ---
 # ${titles.pop()}

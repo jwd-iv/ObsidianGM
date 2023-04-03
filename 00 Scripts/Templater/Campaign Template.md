@@ -2,7 +2,6 @@
 aliases: []
 <% "tags: [ campaign ]" %>
 
-status: 🌰
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 <%*
