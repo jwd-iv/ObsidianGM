@@ -1,4 +1,25 @@
 [
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "table-editor-obsidian",
+  "obsidian-admonition",
+  "alx-folder-note",
+  "better-fn",
+  "breadcrumbs",
+  "dataview",
+  "dbfolder",
+  "obsidian-dice-roller",
+  "customjs",
+  "extract-highlights-plugin",
+  "obsidian-5e-statblocks",
+  "folder-note-plugin",
+  "folder-note-core",
+  "initiative-tracker",
+  "obsidian-leaflet-plugin",
+  "obsidian-outliner",
+  "quickadd",
+  "obsidian-textgenerator-plugin",
+  "obsidian-timelines",
+  "workspaces-plus",
+  "obsidian-zoom"
 ]
