@@ -1,0 +1,76 @@
+---
+File: Asurendra
+Source: PFRPG Bestiary 3
+URL: 
+Group: Asura
+aliases: 
+Brief: This six-armed humanoid horror is garbed in golden armor and surrounded by a nimbus of floating, glowing weaponry.
+CR: 20
+XP: 307200
+Alignment: LE
+Size: Huge
+Type: outsider
+SubType: (asura, evil, extraplanar, lawful)
+Initiative: 12
+Senses: all-around vision, darkvision 60 ft., low-light vision, scent, true seeing; Perception +34
+Aura: dimensional lock (20 ft., enemies only), elusive (100 ft.)
+AC: 35, touch 25, flat-footed 26
+ACMods: (+5 deflection, +8 Dex, +1 dodge, +3 insight, +10 natural, -2 size)
+HP: 385
+HD: (22d10+264)
+HPMods: regeneration 10 (good weapons, good spells)
+Fortitude: 25
+Reflex: 17
+Will: 20
+SaveMods: +2 vs. enchantment spells,
+DefensiveAbilities: 
+DR: 15/chaotic and good
+Immunities: curse effects, disease, flanking, poison, polymorph
+Resist: acid 10, electricity 10
+SR: 31
+Weaknesses: 
+Space: 15 ft.
+Speed: 50 ft.
+MoveMods: 
+Burrow: 
+Climb: 50 ft.
+Fly: 50 ft.
+Maneuverability: perfect
+Swim: 50 ft.
+Melee: bite +33 (2d6+13 plus grab and poison), 6 claws +33 (2d6+13 plus curse)
+Reach: 15 ft.
+Ranged: 
+SpecialAttacks: curse of false wisdom, spirit blades (+29, 3d6+7/19-20), swallow whole (4d6+19 bludgeoning plus 4d8+12 acid damage, AC 15, 38 hp)
+SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +30) Constant-dimensional lock (enemies only), freedom of movement, tongues, true seeing At Will-death knell (DC 22), greater dispel magic, greater scrying, greater teleport (self plus 50 lbs. of objects only) 3/day-quickened baleful polymorph (DC 25), quickened blade barrier (DC 26), blasphemy (DC 27), quickened death knell (DC 22), deeper darkness, demand (DC 28) 1/day-power word stun, summon (level 9, any 1 CR 19 or lower asura 100%), time stop
+STR: 36
+DEX: 26
+CON: 34
+INT: 25
+WIS: 25
+CHA: 31
+BAB: 22
+CMB: +37 (+41 grapple)
+CMD: 64
+Feats: Awesome Blow, Cleave, Combat ReflexesB, Critical Focus, Deflect ArrowsB, DodgeB, Great Cleave, Improved Bull Rush, Improved Initiative, Lightning Reflexes, MobilityB, Power Attack, Quicken Spell-Like Ability (baleful polymorph, blade barrier, death knell), Snatch ArrowsB, Spring AttackB
+Skills: Acrobatics +31 (+39 when jumping), Bluff +33, Climb +21, Diplomacy +30, Escape Artist +14, Fly +35, Intimidate +33, Knowledge (arcana) +27, Knowledge (history) +13, Knowledge (planes) +30, Knowledge (religion) +27, Perception +34, Perform (dance) +33, Sense Motive +30, Spellcraft +27, Stealth +23, Swim +21, Use Magic Device +30
+RacialMods: +6 Escape Artist, +4 Perception
+Languages: Common, Infernal; tongues, telepathy 100 ft.
+SQ: 
+SpecialAbilities: Curse of False Wisdom (Su) Claw-contact; save Will DC 31; frequency 1 day; effect 1d6 Wis drain. Poison (Ex) Bite-injury; save Fort DC 33; frequency 1/round for 6 rounds; effect 1d6 Con; cure 2 consecutive saves. Spirit Blades (Su) As a swift action, an asurendra can call forth up to six longsword-shaped force effects that float near the asurendra until directed. The asurendra can use a standard action to direct one blade to attack a target up to a distance of 50 feet away, or use a full-attack action to cause all six blades to attack up to six different targets up to a distance of 50 feet away, each to a different location if desired. Once an asurendra directs a spirit blade to attack a foe, the blade continues to make a single attack against that foe each round on the asurendra's turn until directed otherwise by the asurendra and as long as the foe remains within 50 feet of the asurendra. As a move action, the asurendra can direct all currently attacking blades to switch targets to new foes within 50 feet. These weapons attack using the asurendra's base attack bonus modified by its Wisdom modifier (+29 for most asurendras), and deal 3d6 points of damage plus an amount of force damage equal to the asurendra's Wisdom modifier (3d6+7 for most asurendras). Physical attacks do no affect these blades, but disintegrate, a sphere of annihilation, or a rod of cancellation (touch AC 25) causes them to vanish. If a spirit blade's target dies or moves beyond a 50-foot range and the asurendra does not retarget that blade by the end of its turn, the blade vanishes. Likewise, any blades that are not within 50 feet of the asurendra at the end of its turn also vanish.
+SpellsKnown: 
+SpellsPrepared: 
+SpellDomains: 
+Bloodline: 
+Environment: any (Hell)
+Temperature: any
+Organization: solitary or pair
+Treasure: double
+Description: >
+  With the notable exception of the unique asura ranas, asurendras are the mightiest of their kind. Although few asurendras possess anything resembling an extended realm, in Hell or elsewhere, these asuras are the "wise ones" of asura kind. Most dwell within shrinelike fortresses in which they can practice their ruinous mysticism and command lesser asuras who seek their teachings. To most asuras, an asurendra's order is something akin to a deific edict. Each asurendra is a humanoid creature of immense proportions. Their exact appearance varies just as the appearances of humanoids vary, but all asurendras have six arms and multiple eyes and heads. An asurendra's body is an example of physical perfection, athletically and gracefully built, but its face has monstrous or inhuman features, such as tusks or bizarrely placed features. Most asurendras are 19 feet tall and weigh 8,000 pounds. Few asurendras were born to their might-they achieve their power only over the course of countless lifetimes spent as lesser asuras. Throughout each incarnation, these tenacious asuras sought unity with some concept of destruction. Eventually, through dark meditation and vile action, the asuras ascended to a state of being united with some aspect of unmaking. They also gained power over their own being and slowly reshaped themselves into a vision of their perfect selves, instruments of annihilation ideally suited to fell gods and their divine works. In battle, an asurendra does its best to destroy all enemies, taking a moment to ensure death when any foe falls. Asurendras enjoy eating the bodies of fallen foes, and some can even use the flesh and bone of those they consume to create new asuras to serve them. BLASPHEMOUS SAGES Each asurendra follows its own bliss toward a specific method of vengeance against the divine. Like philosophers dispensing wisdom, they teach their ways to others so that more asuras might ascend into perfection. Listed here are some ideas of the vile ways asurendras might use their "enlightened" hatred. Death: All living things can die. Instead of war, an asurendra can focus on the aftermath of war. Such an asurendra replaces quickened baleful polymorph with quickened slay living and quickened blade barrier with quickened circle of death. Its spirit blades deal negative energy damage, not force damage, and can thus be used to heal allied undead creatures as easily as they can serve as weapons against the living. Sacrilege: Blasphemy is joy to any asura, but truly impious asurendras learn talents that mimic divine miracles. Cults to these asurendras, which almost always seem benevolent on first glance, turn people from the worship of real deities. These asurendras do not possess a spirit blade special attack, but can use miracle as a spell-like ability once per day as long as the miracle granted is in keeping with their blasphemous design. Shaping: Some asurendras like to remake what the gods have created. Nothing escapes a shaper's vision, and its enemies find their bodies, minds, and souls are like clay in a shaper's hands. An asurendra sage of shaping lacks a spirit blade special attack, but gains the following special ability. Create Asura (Su): As a full-round action, an asurendra can turn a creature that it has eaten within the last 24 hours into a tripurasura (see page 26) that it then excretes into existence. Such tripurasuras remain loyal to the asurendra that created them as long as they remain tripurasuras. If an asurendra has enough tripurasuras at hand, it can consume them as well and transform them into more powerful asuras using this ability. An asurendra can transform any tripurasuras it has eaten within the last 24 hours into a number of Hit Dice worth of other asuras equal to the number of tripurasuras it has consumed. An asurendra can create as many tripurasuras as it wishes with this ability, but can only create more powerful asuras by combining multiple tripurasuras once per day. An asurendra cannot create another asurendra with this ability. A newly formed asura considers the asurendra to be its master. Not all of a creature's soul is consumed when it is used to create a tripurasura-beings swallowed and used to create asuras in this manner are dead, but can be restored to life as normal.
+Race: 
+Class: 
+MR: 
+---
+```dataviewjs
+customJS.Statblock.printMonsterWiki(dv)
+```

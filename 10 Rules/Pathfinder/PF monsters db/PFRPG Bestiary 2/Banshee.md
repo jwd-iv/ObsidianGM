@@ -1,0 +1,75 @@
+---
+File: Banshee
+Source: PFRPG Bestiary 2
+URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/banshee
+Group: 
+aliases: 
+Brief: This beautiful, ghostly elven woman glides through the air, her long hair flowing around a face knotted into a mask of rage.
+CR: 13
+XP: 25600
+Alignment: CE
+Size: Medium
+Type: undead
+SubType: (incorporeal)
+Initiative: 15
+Senses: darkvision 60 ft., hear heartbeat; Perception +31
+Aura: 
+AC: 26, touch 26, flat-footed 14
+ACMods: (+4 deflection, +11 Dex, +1 dodge)
+HP: 161
+HD: (19d8+76)
+HPMods: 
+Fortitude: 10
+Reflex: 19
+Will: 18
+SaveMods: 
+DefensiveAbilities: incorporeal
+DR: 
+Immunities: undead traits
+Resist: 
+SR: 
+Weaknesses: sunlight powerlessness
+Space: 5 ft.
+Speed: 
+MoveMods: 
+Burrow: 
+Climb: 
+Fly: 60 ft.
+Maneuverability: perfect
+Swim: 
+Melee: incorporeal touch +26 (14d6 negative energy plus terror)
+Reach: 5 ft.
+Ranged: 
+SpecialAttacks: wail
+SpellLikeAbilities: 
+STR: -
+DEX: 32
+CON: -
+INT: 5
+WIS: 20
+CHA: 19
+BAB: 14
+CMB: 25
+CMD: 40
+Feats: Alertness, Combat Reflexes, Dodge, Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Step Up, Weapon Focus (touch), Wind Stance
+Skills: Fly +19, Perception +31, Sense Motive +7
+RacialMods: 
+Languages: Common, Elven
+SQ: 
+SpecialAbilities: Hear Heartbeat (Ex) A banshee can sense the beating hearts of living creatures within 60 feet, as if it had the blindsight ability.  Terror (Su) A creature damaged by the banshee's touch attack must make a DC 23 Will save.  Failure means that the victim cowers in fear for 1d3 rounds. If a target is protected against fear by a dispellable effect (such as heroes' feast or mind blank), the banshee's touch attempts to dispel one such effect with greater dispel magic (CL 14th). Negative energy damage caused by a banshee's touch can only harm the living; it cannot heal undead.  This is a mind-affecting fear effect. The save DC is Charisma-based.  Wail (Su) Once per minute, a banshee may wail as a full-round action. The wail lasts until the beginning of her next turn. All creatures within 40 feet of the banshee when she begins her wail, as well as all creatures that end their turn within that radius, must make a DC 23 Fortitude save. (This save is only required once per wail.) Creatures under the effects of a fear effect take a -4 penalty on this save. Creatures that make their save are sickened for 1d6 rounds. Those that fail take 140 points of damage (as if affected by a CL 14 wail of the banshee). If a wailing banshee is damaged during a wail, she must make a Will save (DC 15 + damage taken) to maintain the wail; otherwise it ends. This is a sonic death effect. Banshee wails are supernaturally powerful, and penetrate the effect of any spell of 3rd level or lower that creates silence. The save DC is Charisma-based.
+SpellsKnown: 
+SpellsPrepared: 
+SpellDomains: 
+Bloodline: 
+Environment: any
+Temperature: any
+Organization: solitary
+Treasure: standard
+Description: A banshee is the enraged spirit of an elven woman who either betrayed those she loved or was herself betrayed.  Maddened by grief, a banshee visits her vengeance on all living creatures-innocent or guilty-with her fearsome touch and deadly wails.
+Race: 
+Class: 
+MR: 
+---
+```dataviewjs
+customJS.Statblock.printMonsterWiki(dv)
+```
