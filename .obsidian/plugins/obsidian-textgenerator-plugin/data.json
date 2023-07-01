@@ -1,4 +1,5 @@
 {
+  "endpoint": "https://api.openai.com",
   "api_key": "",
   "engine": "gpt-3.5-turbo",
   "max_tokens": 500,
@@ -8,6 +9,8 @@
   "showStatusBar": true,
   "outputToBlockQuote": false,
   "promptsPath": "textgenerator/prompts",
+  "prefix": "\n\n",
+  "stream": false,
   "context": {
     "includeTitle": false,
     "includeStaredBlocks": true,
@@ -17,6 +20,7 @@
     "includeMentions": false,
     "includeHighlights": true
   },
+  "requestTimeout": 300000,
   "options": {
     "generate-text": true,
     "generate-text-with-metadata": true,
@@ -40,6 +44,14 @@
     "triggerPhrase": "  ",
     "stop": ".",
     "showStatus": true
+  },
+  "extractorsOptions": {
+    "PDFExtractor": true,
+    "WebPageExtractor": true,
+    "YoutubeExtractor": true,
+    "AudioExtractor": false,
+    "ImageExtractorEmbded": true,
+    "ImageExtractor": true
   },
   "displayErrorInEditor": false,
   "models": {}
