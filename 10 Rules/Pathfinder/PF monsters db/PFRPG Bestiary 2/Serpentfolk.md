@@ -5,6 +5,8 @@ URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/serpe
 Group: 
 aliases: 
 Brief: This serpentine humanoid has bright scaly skin, a long sinuous tail, and a fanged serpent's head.
+Image: https://2e.aonprd.com/Images/Monsters/Serpentfolk_ZyssSerpentfolk.png
+ImageSource: Art © [Archives of Nethys](https://2e.aonprd.com/Monsters.aspx?ID=798)
 CR: 4
 XP: 1200
 Alignment: NE
