@@ -56,7 +56,13 @@ Skills: Acrobatics +19, Fly +23, Intimidate +21, Perception +20, Sense Motive +2
 RacialMods: +4 Intimidate, +4 Perception, +4 Sense Motive
 Languages: Common, Garuda
 SQ: 
-SpecialAbilities: Hatred (Ex) Garudas receive a +1 racial bonus on attack and damage rolls against nagas and other serpentine monsters of the aberration type.  Spells Garudas cast spells as 7th-level sorcerers.  Swooping Pounce (Ex) When a garuda makes a diving aerial charge, it can make a full attack with its natural weapons.  Talon or Wing (Ex) A garuda cannot use its wing attacks while flying, and cannot use its talon attacks while not flying.
+SpecialAbilities:
+  Hatred (Ex): >
+    Garudas receive a +1 racial bonus on attack and damage rolls against nagas and other serpentine monsters of the aberration type.  Spells Garudas cast spells as 7th-level sorcerers.
+  Swooping Pounce (Ex): >
+    When a garuda makes a diving aerial charge, it can make a full attack with its natural weapons.
+  Talon or Wing (Ex): >
+    A garuda cannot use its wing attacks while flying, and cannot use its talon attacks while not flying.
 SpellsKnown: Spells Known (CL 7th; concentration +10)   3rd (5/day)-displacement, haste   2nd (7/day)-alter self, protection from arrows, see invisibility   1st (7/day)-grease (DC 14), mage armor, shield, shocking grasp, true strike   0 (at will)-detect magic, detect poison, light, mage hand, mending, message, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

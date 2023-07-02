@@ -56,7 +56,9 @@ Skills: Climb +15, Perception +4, Stealth +18 (+28 when still)
 RacialMods: +12 Stealth (+22 when still)
 Languages: 
 SQ: 
-SpecialAbilities: Tongue (Ex) A giant chameleon can grab a foe with its tongue and draw the victim to its mouth. This tongue attack has a reach of 15 feet. The attack does no damage, but allows the creature to grab. A giant chameleon does not gain the grappled condition while using its tongue in this manner.
+SpecialAbilities:
+  Tongue (Ex): >
+    A giant chameleon can grab a foe with its tongue and draw the victim to its mouth. This tongue attack has a reach of 15 feet. The attack does no damage, but allows the creature to grab. A giant chameleon does not gain the grappled condition while using its tongue in this manner.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

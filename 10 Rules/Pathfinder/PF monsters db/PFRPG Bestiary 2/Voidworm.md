@@ -56,7 +56,9 @@ Skills: Acrobatics +9 (+5 jump), Bluff +7, Escape Artist +7, Fly +19, Knowledge 
 RacialMods: 
 Languages: Common, Protean
 SQ: change shape (2 forms, both of which must be Tiny animals; beast shape II)
-SpecialAbilities: Confusion (Su) A creature struck by a voidworm's tail slap must make a DC 12 Will save or become confused for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Confusion (Su): >
+    A creature struck by a voidworm's tail slap must make a DC 12 Will save or become confused for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Fly +35, Knowledge (arcana) +28, Knowledge (nature) +27, Knowledge (plan
 RacialMods: 
 Languages: Abyssal, Aklo, Celestial, Common
 SQ: 
-SpecialAbilities: Eclipse (Su) Anytime a tzitzimitl casts deeper darkness, any creatures in the area of darkness when it is created take 8d6 points of cold damage (Fortitude DC 31 half). Any creature that takes damage from this effect becomes staggered as long as it remains in the area of darkness and for 1d4 rounds after it leaves that area. The save DC is Charisma-based.  Eye Beam (Su) As a standard action, a tzitzimitl can fire a glowing beam of force from its eyes at a range of 100 feet as a ranged touch attack dealing 10d6 points of force damage and 10d6 points of electricity damage.  Light to Dark (Su) As an immediate action up to three times per day, a tzitzimitl can convert a positive energy effect that affects it into negative energy. Doing so transforms the entire effect, such that it affects other creatures as well. A tzitzimitl can transform channeled positive energy in this way even if the positive energy would not otherwise harm it.
+SpecialAbilities:
+  Eclipse (Su): >
+    Anytime a tzitzimitl casts deeper darkness, any creatures in the area of darkness when it is created take 8d6 points of cold damage (Fortitude DC 31 half). Any creature that takes damage from this effect becomes staggered as long as it remains in the area of darkness and for 1d4 rounds after it leaves that area. The save DC is Charisma-based.
+  Eye Beam (Su): >
+    As a standard action, a tzitzimitl can fire a glowing beam of force from its eyes at a range of 100 feet as a ranged touch attack dealing 10d6 points of force damage and 10d6 points of electricity damage.
+  Light to Dark (Su): >
+    As an immediate action up to three times per day, a tzitzimitl can convert a positive energy effect that affects it into negative energy. Doing so transforms the entire effect, such that it affects other creatures as well. A tzitzimitl can transform channeled positive energy in this way even if the positive energy would not otherwise harm it.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

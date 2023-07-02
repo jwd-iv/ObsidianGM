@@ -56,7 +56,9 @@ Skills: Acrobatics +7, Appraise +6, Bluff +4, Climb +3, Diplomacy +4, Knowledge 
 RacialMods: 
 Languages: Auran, Common, Elven, Halfling
 SQ: air affinity, trapfinding +1
-SpecialAbilities: Air Affinity (Ex) Sylph sorcerers with the elemental (air) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph clerics with the Air domain cast their domain powers and spells at +1 caster level.
+SpecialAbilities:
+  Air Affinity (Ex): >
+    Sylph sorcerers with the elemental (air) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph clerics with the Air domain cast their domain powers and spells at +1 caster level.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

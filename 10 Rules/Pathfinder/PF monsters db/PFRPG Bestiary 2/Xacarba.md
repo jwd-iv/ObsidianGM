@@ -56,8 +56,11 @@ Skills: Acrobatics +25 (+29 jump), Bluff +30, Climb +17, Diplomacy +27, Disguise
 RacialMods: 
 Languages: Abyssal, Common, Draconic; telepathy 100 ft.
 SQ: change shape (any humanoid as a swift action, but always retains one serpentine trait that negates the bonus to Disguise checks; alter self )
-SpecialAbilities: >
-  Poison (Su) Bite-injury; save Fort DC 25; frequency 1/ round for 6 rounds; effect one chosen by the xacarba from three options; cure 2 consecutive saves. The save DC is Constitution-based.  Fiendish Bile: effect 1d4 Str damage (good-aligned creatures also take 2d8 points of damage).  Mysterious Blood: effect 1d4 Dex and 1d4 Wis damage plus confusion for 1 round.  Vile Disjunction: effect targeted greater dispel magic (CL 18th) on the creature.  Redirect Spell (Su) Any creature that attempts to cast a spell within 30 feet of a xacarba must cast the spell defensively. If the caster fails the concentration check to do so (or if the caster opts to not cast defensively), the xacarba can choose the target of the spell as an immediate action. The new target must be a legal target-if there's no legal alternative target to choose from, this ability cannot be used.
+SpecialAbilities:
+  Poison (Su): >
+    Bite-injury; save Fort DC 25; frequency 1/ round for 6 rounds; effect one chosen by the xacarba from three options; cure 2 consecutive saves. The save DC is Constitution-based.  Fiendish Bile: effect 1d4 Str damage (good-aligned creatures also take 2d8 points of damage).  Mysterious Blood: effect 1d4 Dex and 1d4 Wis damage plus confusion for 1 round.  Vile Disjunction: effect targeted greater dispel magic (CL 18th) on the creature.
+  Redirect Spell (Su): >
+    Any creature that attempts to cast a spell within 30 feet of a xacarba must cast the spell defensively. If the caster fails the concentration check to do so (or if the caster opts to not cast defensively), the xacarba can choose the target of the spell as an immediate action. The new target must be a legal target-if there's no legal alternative target to choose from, this ability cannot be used.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

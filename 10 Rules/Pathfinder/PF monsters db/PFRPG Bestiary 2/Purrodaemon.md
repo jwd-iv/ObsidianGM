@@ -56,7 +56,9 @@ Skills: Acrobatics +28, Bluff +21, Diplomacy +17, Fly +16, Intimidate +27, Knowl
 RacialMods: 
 Languages: Abyssal, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Weapon Steep (Su) A purrodaemon can sheathe a weapon in its flesh as a swift action. This does no damage to the daemon. If a weapon remains sheathed in its body for at least 24 hours, the weapon absorbs some of its essence and gains magical enhancements. A purrodaemon can have up to a dozen weapons lodged in its body at a time, but only one can possess magical enhancements at a time. The total enhancements cannot exceed a +4 effective enhancement-most purrodaemons opt to create +2 wounding weapons in this manner. A weapon's enhancements vanish as soon as the purrodaemon dies or releases the weapon. A purrodaemon gains Weapon Focus and Improved Critical as bonus feats as long as it wields a weapon benefiting from its weapon steep ability.
+SpecialAbilities:
+  Weapon Steep (Su): >
+    A purrodaemon can sheathe a weapon in its flesh as a swift action. This does no damage to the daemon. If a weapon remains sheathed in its body for at least 24 hours, the weapon absorbs some of its essence and gains magical enhancements. A purrodaemon can have up to a dozen weapons lodged in its body at a time, but only one can possess magical enhancements at a time. The total enhancements cannot exceed a +4 effective enhancement-most purrodaemons opt to create +2 wounding weapons in this manner. A weapon's enhancements vanish as soon as the purrodaemon dies or releases the weapon. A purrodaemon gains Weapon Focus and Improved Critical as bonus feats as long as it wields a weapon benefiting from its weapon steep ability.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

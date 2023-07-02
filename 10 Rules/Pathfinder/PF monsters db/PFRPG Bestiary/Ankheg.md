@@ -56,7 +56,9 @@ Skills: Climb +8, Perception +8
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Spit Acid (Ex) Once every 6 hours, an ankheg can spit a 30-foot line of acid. Creatures struck by this acid take 4d4 points of acid damage (Reflex DC 14 halves). Once an ankheg uses this attack, it must wait 6 hours before using it again. Additionally, during this time period, its bite attack does not inflict any additional acid damage.  As a result, an ankheg does not use this ability unless it is desperate or frustrated, most often spitting acid when reduced to fewer than half its full normal hit points or when it cannot not successfully grab an opponent. The save DC is Constitution-based.
+SpecialAbilities:
+  Spit Acid (Ex): >
+    Once every 6 hours, an ankheg can spit a 30-foot line of acid. Creatures struck by this acid take 4d4 points of acid damage (Reflex DC 14 halves). Once an ankheg uses this attack, it must wait 6 hours before using it again. Additionally, during this time period, its bite attack does not inflict any additional acid damage.  As a result, an ankheg does not use this ability unless it is desperate or frustrated, most often spitting acid when reduced to fewer than half its full normal hit points or when it cannot not successfully grab an opponent. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

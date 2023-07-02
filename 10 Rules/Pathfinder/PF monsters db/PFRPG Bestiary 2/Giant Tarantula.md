@@ -56,7 +56,11 @@ Skills: Climb +28, Perception +4, Stealth -7 (-3 in webs)
 RacialMods: +8 Climb,+4 Perception,+4 Stealth (+8 in webs)
 Languages: 
 SQ: 
-SpecialAbilities: Barbed Hairs (Ex) A tarantula can throw barbed hairs from its back at a creature as a ranged touch attack (range increment 20 feet).  A creature struck by these hairs must make a DC 22 Fort save or be nauseated for 1d6 rounds. A creature that attacks a giant tarantula with a non-reach melee weapon must make a DC 22 Reflex save to avoid being struck by these hairs. The save DC is Con-based.  Poison (Ex) Bite- injury; save Fort DC 24; frequency 1/ round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves.  Save DC is Con-based with a +2 racial bonus.
+SpecialAbilities:
+  Barbed Hairs (Ex): >
+    A tarantula can throw barbed hairs from its back at a creature as a ranged touch attack (range increment 20 feet).  A creature struck by these hairs must make a DC 22 Fort save or be nauseated for 1d6 rounds. A creature that attacks a giant tarantula with a non-reach melee weapon must make a DC 22 Reflex save to avoid being struck by these hairs. The save DC is Con-based.
+  Poison (Ex): >
+    Bite- injury; save Fort DC 24; frequency 1/ round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves.  Save DC is Con-based with a +2 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

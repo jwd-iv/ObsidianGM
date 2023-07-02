@@ -56,7 +56,9 @@ Skills: Climb +21, Escape Artist +10, Intimidate +14, Knowledge (arcana) +15, Pe
 RacialMods: +8 Perception
 Languages: Abyssal, Celestial, Draconic; telepathy 100 ft.
 SQ: amphibious
-SpecialAbilities: Nausea (Ex) The noxious vapors and foul fluids that constantly weep and seethe from a hezrou's body are particularly heinous to those the creature grapples. Each round a creature is grappled by a hezrou, the grappled foe must make a DC 24 Fortitude save to avoid becoming nauseated. A creature nauseated in this manner remains nauseated until he succeeds on a DC 24 Fortitude save, or until a minute has passed during which he is not grappled by the hezrou, whichever condition comes first. The save DC is Constitution-based.
+SpecialAbilities:
+  Nausea (Ex): >
+    The noxious vapors and foul fluids that constantly weep and seethe from a hezrou's body are particularly heinous to those the creature grapples. Each round a creature is grappled by a hezrou, the grappled foe must make a DC 24 Fortitude save to avoid becoming nauseated. A creature nauseated in this manner remains nauseated until he succeeds on a DC 24 Fortitude save, or until a minute has passed during which he is not grappled by the hezrou, whichever condition comes first. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

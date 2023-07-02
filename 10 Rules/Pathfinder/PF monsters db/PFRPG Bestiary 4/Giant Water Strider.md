@@ -56,7 +56,11 @@ Skills: Fly -5, Perception +4, Swim +5
 RacialMods: +4 Perception, +4 Swim
 Languages: 
 SQ: water skating
-SpecialAbilities: Tremorsense (Ex) A water strider's tremorsense functions only when the creature is in contact with the water's surface.  Water Skating (Ex) A water strider can move on the surface of water as if it were on land. A water strider swimming at the water's surface can pull itself onto the water with a successful Swim check.
+SpecialAbilities:
+  Tremorsense (Ex): >
+    A water strider's tremorsense functions only when the creature is in contact with the water's surface.
+  Water Skating (Ex): >
+    A water strider can move on the surface of water as if it were on land. A water strider swimming at the water's surface can pull itself onto the water with a successful Swim check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

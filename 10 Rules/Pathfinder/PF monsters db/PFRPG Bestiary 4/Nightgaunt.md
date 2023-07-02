@@ -56,7 +56,13 @@ Skills: Fly +7, Perception +6, Stealth +11
 RacialMods: +4 Stealth
 Languages: Aklo (can't speak)
 SQ: no breath
-SpecialAbilities: Clutches (Ex) A nightgaunt has a +4 racial bonus on grapple combat maneuver checks. If a nightgaunt uses its fly speed to move itself and a grappled target, it can fly at full speed.  Faceless (Ex) A nightgaunt has no face, but can still see in all directions as if its entire body were an eye. It is immune to gaze attacks, but not to illusions that rely upon vision to function. It has no need to breathe, and is immune to all inhaled and scent-based effects.  Tickle (Ex) As a swift action, a nightgaunt can use its tail to tickle a grappled or helpless foe with horrible efficiency. The target must succeed at a DC 14 Fortitude save or be nauseated for 1 round. The save DC is Dexterity-based.
+SpecialAbilities:
+  Clutches (Ex): >
+    A nightgaunt has a +4 racial bonus on grapple combat maneuver checks. If a nightgaunt uses its fly speed to move itself and a grappled target, it can fly at full speed.
+  Faceless (Ex): >
+    A nightgaunt has no face, but can still see in all directions as if its entire body were an eye. It is immune to gaze attacks, but not to illusions that rely upon vision to function. It has no need to breathe, and is immune to all inhaled and scent-based effects.
+  Tickle (Ex): >
+    As a swift action, a nightgaunt can use its tail to tickle a grappled or helpless foe with horrible efficiency. The target must succeed at a DC 14 Fortitude save or be nauseated for 1 round. The save DC is Dexterity-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

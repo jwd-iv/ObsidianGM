@@ -56,7 +56,13 @@ Skills: Climb +22, Diplomacy +20, Heal +16, Intimidate +10, Knowledge (arcana, g
 RacialMods: 
 Languages: Celestial, Common, Sylvan; speak with animals
 SQ: token of fortune
-SpecialAbilities: Positive Energy Aura (Su) Living creatures within the manitou's aura heal 5 hit points on its turn each round. A manitou can exclude a number of creatures equal to its Charisma modifier (typically 7) from the aura's effect, and can cease or resume the aura as a free action. Spirit Stampede (Su) Every 1d4 rounds, a manitou can call upon animal spirits to attack, affecting a 60-foot cone and dealing 10d6 points of force damage (Reflex DC 26 half). Using this ability temporarily weakens the manitou's connection with the natural world, halting its positive energy aura until the stampede is ready to be used again.  Token of Fortune (Su) A manitou can imbue an small object, such as a stone or necklace, with its blessing. The object's bearer and any allies within 10 feet gain a +2 luck bonus on saving throws. The manitou can use scrying on the token at will. The manitou can teleport to it (without error) once per day as a swift action. These abilities are lost if the token leaves the manitou's territory. A manitou may only have one token active at a time.
+SpecialAbilities:
+  Positive Energy Aura (Su): >
+    Living creatures within the manitou's aura heal 5 hit points on its turn each round. A manitou can exclude a number of creatures equal to its Charisma modifier (typically 7) from the aura's effect, and can cease or resume the aura as a free action.
+  Spirit Stampede (Su): >
+    Every 1d4 rounds, a manitou can call upon animal spirits to attack, affecting a 60-foot cone and dealing 10d6 points of force damage (Reflex DC 26 half). Using this ability temporarily weakens the manitou's connection with the natural world, halting its positive energy aura until the stampede is ready to be used again.
+  Token of Fortune (Su): >
+    A manitou can imbue an small object, such as a stone or necklace, with its blessing. The object's bearer and any allies within 10 feet gain a +2 luck bonus on saving throws. The manitou can use scrying on the token at will. The manitou can teleport to it (without error) once per day as a swift action. These abilities are lost if the token leaves the manitou's territory. A manitou may only have one token active at a time.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

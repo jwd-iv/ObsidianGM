@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Alchemy (Ex) When an alchemical golem strikes a foe, the attack has an additional random effect, chosen from the options below.  The attack can either deal 1d6 points of acid, cold, electricity, or fire damage, or cause the target to become sickened (Fortitude DC 16 negates) or entangled (Reflex DC 16 negates) for 1d4 rounds. These save DCs are Constitution-based.  Bombs (Ex) As a standard action, an alchemical golem can throw a bomb as a ranged touch attack to a distance of 60 feet (no range increment). If the attack misses, treat it as a thrown splash weapon to determine where it lands. Anyone struck by an alchemical golem's bomb takes 8d6 points of acid, cold, electricity, or fire damage (determine type randomly). All creatures adjacent to the location where the bomb hits take 1d6 points of energy damage of the same type.  Immunity to Magic (Ex) An alchemical golem is immune to spells or spell-like abilities that allow spell resistance, save for spells with the sonic descriptor. Shatter damages an alchemical golem as if it were a crystalline creature.  Splash (Ex) Any strike on an alchemical golem with a non-reach melee weapon deals 1 point of acid, cold, electricity, or fire damage (determine type randomly) to the attacker. This amount increases to 1d6 points of damage if the attack is a critical hit.
+SpecialAbilities:
+  Alchemy (Ex): >
+    When an alchemical golem strikes a foe, the attack has an additional random effect, chosen from the options below.  The attack can either deal 1d6 points of acid, cold, electricity, or fire damage, or cause the target to become sickened (Fortitude DC 16 negates) or entangled (Reflex DC 16 negates) for 1d4 rounds. These save DCs are Constitution-based.
+  Bombs (Ex): >
+    As a standard action, an alchemical golem can throw a bomb as a ranged touch attack to a distance of 60 feet (no range increment). If the attack misses, treat it as a thrown splash weapon to determine where it lands. Anyone struck by an alchemical golem's bomb takes 8d6 points of acid, cold, electricity, or fire damage (determine type randomly). All creatures adjacent to the location where the bomb hits take 1d6 points of energy damage of the same type.
+  Immunity to Magic (Ex): >
+    An alchemical golem is immune to spells or spell-like abilities that allow spell resistance, save for spells with the sonic descriptor. Shatter damages an alchemical golem as if it were a crystalline creature.
+  Splash (Ex): >
+    Any strike on an alchemical golem with a non-reach melee weapon deals 1 point of acid, cold, electricity, or fire damage (determine type randomly) to the attacker. This amount increases to 1d6 points of damage if the attack is a critical hit.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Fly +2, Perception +10, Stealth +4 (+8 in scrubland or brush)
 RacialMods: +2 Perception, +4 Stealth in scrubland or brush
 Languages: Draconic
 SQ: 
-SpecialAbilities: Breath Weapon (Su) A chimera's breath weapon depends on the color of its dragon head, as summarized on the table below. Regardless of its type, a chimera's breath weapon is usable once every 1d4 rounds, deals 6d8 points of damage, and allows a DC 17 Reflex save for half damage. The save DC is Constitution-based. To determine a chimera's head color and breath weapon randomly, roll 1d10 and consult the table below. d10 Head Color Breath Weapon 1-2 Black 40-foot line of acid 3-4 Blue 40-foot line of lightning 5-6 Green 20-foot cone of acid 7-8 Red 20-foot cone of fire 9-10 White 20-foot cone of cold
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A chimera's breath weapon depends on the color of its dragon head, as summarized on the table below. Regardless of its type, a chimera's breath weapon is usable once every 1d4 rounds, deals 6d8 points of damage, and allows a DC 17 Reflex save for half damage. The save DC is Constitution-based. To determine a chimera's head color and breath weapon randomly, roll 1d10 and consult the table below. d10 Head Color Breath Weapon 1-2 Black 40-foot line of acid 3-4 Blue 40-foot line of lightning 5-6 Green 20-foot cone of acid 7-8 Red 20-foot cone of fire 9-10 White 20-foot cone of cold
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

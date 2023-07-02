@@ -56,7 +56,11 @@ Skills: Acrobatics +14, Climb +19, Intimidate +16, Knowledge (planes) +15, Perce
 RacialMods: +8 Perception
 Languages: Abyssal, Celestial,  Common, Draconic;  telepathy 100 ft.
 SQ: 
-SpecialAbilities: Enslave Soul (Su) A kalavakus can attempt to enslave the soul of any mortal creature within 60 feet as a swift action. The kalavakus must have line of sight to the target.  The target can resist this special attack with a DC 18 Will save, but is staggered for 1 round even if the save is successful. If the save is successful, the creature is immune to this ability for 24 hours. If the save is a failure, the target's soul is enslaved-this creature takes a -6 penalty on all attack rolls and saving throws against that kalavakus. If a creature with an enslaved soul is slain by that kalavakus, the soul immediately infuses the demon's body, affecting it with a heal spell (CL 12th). A kalavakus can have only one mortal soul enslaved at a time-if it enslaves a second soul, the first is released. This is a mind-affecting death effect. The save DC is Charisma-based.  Horns (Ex) The kalavakus's numerous horns can easily catch weapons and yank them away from opponents. The demon gains a +4 racial bonus on all disarm attempts as a result.
+SpecialAbilities:
+  Enslave Soul (Su): >
+    A kalavakus can attempt to enslave the soul of any mortal creature within 60 feet as a swift action. The kalavakus must have line of sight to the target.  The target can resist this special attack with a DC 18 Will save, but is staggered for 1 round even if the save is successful. If the save is successful, the creature is immune to this ability for 24 hours. If the save is a failure, the target's soul is enslaved-this creature takes a -6 penalty on all attack rolls and saving throws against that kalavakus. If a creature with an enslaved soul is slain by that kalavakus, the soul immediately infuses the demon's body, affecting it with a heal spell (CL 12th). A kalavakus can have only one mortal soul enslaved at a time-if it enslaves a second soul, the first is released. This is a mind-affecting death effect. The save DC is Charisma-based.
+  Horns (Ex): >
+    The kalavakus's numerous horns can easily catch weapons and yank them away from opponents. The demon gains a +4 racial bonus on all disarm attempts as a result.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

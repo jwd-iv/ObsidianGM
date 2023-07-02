@@ -56,8 +56,11 @@ Skills: Bluff +28, Fly -12, Heal +26, Intimidate +28, Knowledge (arcana) +27, Kn
 RacialMods: 
 Languages: Common, Draconic, Undercommon
 SQ: 
-SpecialAbilities: >
-  Breath Weapon (Ex) A taniniver's breath weapon is a hideous gray cloud of disease particles. Any creature in the area must succeed at a DC 27 Fortitude save or contract mummy rot (Pathfinder RPG Bestiary 210). The disease is contracted immediately (the onset period does not apply) and is an instantaneous effect. Ongoing saving throws against the disease use the dragon's breath weapon DC. The save DC is Constitution-based.  Disease (Ex) A taniniver's natural attacks infect its opponent with a random disease from the following list: blinding sickness, bubonic plague, cackle fever, leprosy, mindfire, or shakes. The initial saving throw against these diseases uses the breath weapon's DC.
+SpecialAbilities:
+  Breath Weapon (Ex): >
+    A taniniver's breath weapon is a hideous gray cloud of disease particles. Any creature in the area must succeed at a DC 27 Fortitude save or contract mummy rot (Pathfinder RPG Bestiary 210). The disease is contracted immediately (the onset period does not apply) and is an instantaneous effect. Ongoing saving throws against the disease use the dragon's breath weapon DC. The save DC is Constitution-based.
+  Disease (Ex): >
+    A taniniver's natural attacks infect its opponent with a random disease from the following list: blinding sickness, bubonic plague, cackle fever, leprosy, mindfire, or shakes. The initial saving throw against these diseases uses the breath weapon's DC.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

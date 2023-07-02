@@ -56,7 +56,9 @@ Skills: Perception +10, Swim +22
 RacialMods: +8 Perception
 Languages: 
 SQ: powerful claws
-SpecialAbilities: Powerful Claws (Ex) A shipwrecker crab's claw attacks deal damage equal to 1-1/2 times its Strength modifier. In addition, a shipwrecker crab ignores up to 5 points of hardness when damaging objects.
+SpecialAbilities:
+  Powerful Claws (Ex): >
+    A shipwrecker crab's claw attacks deal damage equal to 1-1/2 times its Strength modifier. In addition, a shipwrecker crab ignores up to 5 points of hardness when damaging objects.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

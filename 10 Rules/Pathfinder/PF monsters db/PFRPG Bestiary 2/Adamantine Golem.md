@@ -56,7 +56,13 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Destructive Strike (Ex) An adamantine golem's slam attacks threaten a critical hit on a 19 or 20. In addition, whenever an adamantine golem scores a critical hit, it deals 6d10+13 points of damage to the target's armor or shield in addition to the normal damage, as if it had also made a successful sunder combat maneuver.  Indestructible (Ex) An adamantine golem is nearly impossible to destroy. Even if reduced below 0 hit points, its fast healing continues to restore hit points, though the golem is helpless unless above 0 hit points. It can only be permanently destroyed if reduced to negative hit points and then decapitated using an adamantine vorpal weapon- alternatively, miracle or wish can be used to slay it while it is at negative hit points.  Immunity to Magic (Ex) An adamantine golem is immune to any spell or spell-like ability that allows spell resistance, except as noted below.  • Transmute metal to wood slows an adamantine golem for 1d4 rounds, during which time its damage reduction is reduced to 15/adamantine (no save).
+SpecialAbilities:
+  Destructive Strike (Ex): >
+    An adamantine golem's slam attacks threaten a critical hit on a 19 or 20. In addition, whenever an adamantine golem scores a critical hit, it deals 6d10+13 points of damage to the target's armor or shield in addition to the normal damage, as if it had also made a successful sunder combat maneuver.
+  Indestructible (Ex): >
+    An adamantine golem is nearly impossible to destroy. Even if reduced below 0 hit points, its fast healing continues to restore hit points, though the golem is helpless unless above 0 hit points. It can only be permanently destroyed if reduced to negative hit points and then decapitated using an adamantine vorpal weapon- alternatively, miracle or wish can be used to slay it while it is at negative hit points.
+  Immunity to Magic (Ex): >
+    An adamantine golem is immune to any spell or spell-like ability that allows spell resistance, except as noted below.  • Transmute metal to wood slows an adamantine golem for 1d4 rounds, during which time its damage reduction is reduced to 15/adamantine (no save).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

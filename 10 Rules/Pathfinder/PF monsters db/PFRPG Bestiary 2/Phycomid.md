@@ -56,8 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Acid Pellet (Ex) A phycomid attacks by firing a glob of acid from one of its several mushroom-like stalks. This attack has a range increment of 10 feet. A phycomid can fire up to six acid pellets per minute-during rounds in which the fungus has no acid pellets, it has no method of attacking at all and must wait until its acid stores replenish in 4 rounds before continuing a battle.  Spores (Ex) Any creature that takes damage from a phycomid's acid pellet (or consumes even a small portion of the fungus) becomes exposed to the fungus's spores. These spores grow quickly in living creatures. This affliction is a disease effect, although its course runs much faster than most diseases and is more poison-like in its speed, and like a poison, the spores "burn out" after a short period. A creature that is slain by a phycomid spore infestation bursts open in 1d4 rounds as a fully grown new phycomid emerges.  Phycomid Spores: Disease-injury or ingested; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Acid Pellet (Ex): >
+    A phycomid attacks by firing a glob of acid from one of its several mushroom-like stalks. This attack has a range increment of 10 feet. A phycomid can fire up to six acid pellets per minute-during rounds in which the fungus has no acid pellets, it has no method of attacking at all and must wait until its acid stores replenish in 4 rounds before continuing a battle.
+  Spores (Ex): >
+    Any creature that takes damage from a phycomid's acid pellet (or consumes even a small portion of the fungus) becomes exposed to the fungus's spores. These spores grow quickly in living creatures. This affliction is a disease effect, although its course runs much faster than most diseases and is more poison-like in its speed, and like a poison, the spores "burn out" after a short period. A creature that is slain by a phycomid spore infestation bursts open in 1d4 rounds as a fully grown new phycomid emerges.  Phycomid Spores: Disease-injury or ingested; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

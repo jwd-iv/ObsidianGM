@@ -56,7 +56,15 @@ Skills: Bluff +18, Craft (alchemy) +11, Diplomacy +9, Disguise +11, Intimidate +
 RacialMods: +4 Stealth in snow
 Languages: Aklo, Common, Giant
 SQ: ice staff, icewalking
-SpecialAbilities: Breath Weapon (Su) A creature that successfully saves against the hag's breath weapon takes half damage and is not blinded.  Ice Staff (Su) Once per week, a winter hag can perform an hour-long ritual to create a staff made of black ice that is as hard as steel and functions as a +2 frost quarterstaff. A winter hag holding her ice staff can use cone of cold once per day as a spell-like ability. The staff melts after 1 week.  Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the hag climbs must be icy. The hag can move across icy surfaces without penalty and doesn't need to make Acrobatics checks to run or charge on ice.  Snow Vision (Ex) A winter hag can see perfectly well in snowy conditions and doesn't take any penalties on Perception checks while in snow.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A creature that successfully saves against the hag's breath weapon takes half damage and is not blinded.
+  Ice Staff (Su): >
+    Once per week, a winter hag can perform an hour-long ritual to create a staff made of black ice that is as hard as steel and functions as a +2 frost quarterstaff. A winter hag holding her ice staff can use cone of cold once per day as a spell-like ability. The staff melts after 1 week.
+  Icewalking (Ex): >
+    This ability works like the spider climb spell, but the surfaces the hag climbs must be icy. The hag can move across icy surfaces without penalty and doesn't need to make Acrobatics checks to run or charge on ice.
+  Snow Vision (Ex): >
+    A winter hag can see perfectly well in snowy conditions and doesn't take any penalties on Perception checks while in snow.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

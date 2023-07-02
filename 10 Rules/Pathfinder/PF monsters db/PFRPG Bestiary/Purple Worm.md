@@ -56,7 +56,9 @@ Skills: Perception +18, Swim +20
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 25; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 3 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 25; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 3 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

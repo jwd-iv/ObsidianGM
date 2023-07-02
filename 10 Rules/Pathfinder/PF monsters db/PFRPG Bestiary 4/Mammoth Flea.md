@@ -56,7 +56,9 @@ Skills: Acrobatics +0 (+20 when jumping)
 RacialMods: +20 Acrobatics when jumping
 Languages: 
 SQ: uncanny leap (see giant flea)
-SpecialAbilities: Disease (Ex) Bite-injury; save Fort DC 13; onset 1d3 days; frequency 1 day; effect 1 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Disease (Ex): >
+    Bite-injury; save Fort DC 13; onset 1d3 days; frequency 1 day; effect 1 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

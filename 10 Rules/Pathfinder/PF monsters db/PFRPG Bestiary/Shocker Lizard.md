@@ -56,7 +56,11 @@ Skills: Climb +8, Perception +8, Stealth +17, Swim +8
 RacialMods: +2 Perception, +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Electricity Sense (Ex) Shocker lizards automatically detect any electrical discharges within 100 feet.  Shock (Su) Shocker lizards can deliver an electrical shock to a single opponent within 5 feet. This attack deals 1d8 points of nonlethal electricity damage to living opponents (Reflex DC 12 half ). This save DC is Constitution-based. Additionally, if two or more shocker lizards are within 20 feet of each other, they can work together to create a lethal shock once every 1d4 rounds. This effect has a radius of 20 feet, centered on any one contributing lizard. All creatures within that radius take 2d8 points of lethal electricity damage for each lizard contributing to the shock, to a maximum of 12d8. A Reflex save (DC 10 + the number of lizards contributing) halves the damage.
+SpecialAbilities:
+  Electricity Sense (Ex): >
+    Shocker lizards automatically detect any electrical discharges within 100 feet.
+  Shock (Su): >
+    Shocker lizards can deliver an electrical shock to a single opponent within 5 feet. This attack deals 1d8 points of nonlethal electricity damage to living opponents (Reflex DC 12 half ). This save DC is Constitution-based. Additionally, if two or more shocker lizards are within 20 feet of each other, they can work together to create a lethal shock once every 1d4 rounds. This effect has a radius of 20 feet, centered on any one contributing lizard. All creatures within that radius take 2d8 points of lethal electricity damage for each lizard contributing to the shock, to a maximum of 12d8. A Reflex save (DC 10 + the number of lizards contributing) halves the damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

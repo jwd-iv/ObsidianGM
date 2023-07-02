@@ -56,8 +56,17 @@ Skills: Climb +43, Fly +19, Perception +26, Swim +22
 RacialMods: 
 Languages: Aklo, Draconic, Sylvan
 SQ: 
-SpecialAbilities: >
-  Breath Weapon (Su) Once every 1d4 rounds as a standard action, an ice linnorm can expel a 60-foot cone of freezing, viscous ooze, dealing 18d8 points of cold damage to all creatures struck (Reflex DC 28 halves). The freezing ooze clings to those struck, and 1 round later the ooze hardens into thick sheets of ice. Creatures that were damaged are frozen motionless unless they can break free with a DC 25 Strength, Escape Artist, or combat maneuver check. Each round a creature remains frozen it takes 1d6 points of cold damage.  Another creature can free a frozen target by tearing away the ice (this takes 1d4 rounds) or dealing at least 20 points of fire damage to the frozen target. Left unattended, the ice crumbles away in 2d4 rounds on its own. Creatures with the fire subtype cannot be frozen in place by this breath weapon. Flying creatures that don't have supernatural flight fall if frozen, and swimming creatures that are frozen rise toward the surface of the water at a speed of 60 feetper round. The save DC is Constitution-based.  Death Curse (Su) When a creature slays an ice linnorm, the slayer is affected by the curse of frost.  Curse of Frost: save Will DC 25; effect creature gains vulnerability to cold. The save DC is Charisma-based.  Freedom of Movement (Ex) An ice linnorm is under the constant effect of freedom of movement, as per the spell of the same name. This effect cannot be dispelled.  Poison (Su) Bite-injury; save Fort DC 28; frequency 1/round for 10 rounds; effect 4d6 cold damage and 1d6 Con drain; cure 3 consecutive saves. The save DC is Constitution-based.  True Seeing (Ex) An ice linnorm has true seeing, as the spell of the same name. This effect cannot be dispelled.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Once every 1d4 rounds as a standard action, an ice linnorm can expel a 60-foot cone of freezing, viscous ooze, dealing 18d8 points of cold damage to all creatures struck (Reflex DC 28 halves). The freezing ooze clings to those struck, and 1 round later the ooze hardens into thick sheets of ice. Creatures that were damaged are frozen motionless unless they can break free with a DC 25 Strength, Escape Artist, or combat maneuver check. Each round a creature remains frozen it takes 1d6 points of cold damage.  Another creature can free a frozen target by tearing away the ice (this takes 1d4 rounds) or dealing at least 20 points of fire damage to the frozen target. Left unattended, the ice crumbles away in 2d4 rounds on its own. Creatures with the fire subtype cannot be frozen in place by this breath weapon. Flying creatures that don't have supernatural flight fall if frozen, and swimming creatures that are frozen rise toward the surface of the water at a speed of 60 feetper round. The save DC is Constitution-based.
+  Death Curse (Su): >
+    When a creature slays an ice linnorm, the slayer is affected by the curse of frost.  Curse of Frost: save Will DC 25; effect creature gains vulnerability to cold. The save DC is Charisma-based.
+  Freedom of Movement (Ex): >
+    An ice linnorm is under the constant effect of freedom of movement, as per the spell of the same name. This effect cannot be dispelled.
+  Poison (Su): >
+    Bite-injury; save Fort DC 28; frequency 1/round for 10 rounds; effect 4d6 cold damage and 1d6 Con drain; cure 3 consecutive saves. The save DC is Constitution-based.
+  True Seeing (Ex): >
+    An ice linnorm has true seeing, as the spell of the same name. This effect cannot be dispelled.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

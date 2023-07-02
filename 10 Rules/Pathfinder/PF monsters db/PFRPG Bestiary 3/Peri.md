@@ -56,7 +56,13 @@ Skills: Acrobatics +29, Diplomacy +30, Fly +33, Heal +23, Knowledge (planes) +27
 RacialMods: 
 Languages: Celestial, Common, Draconic, Elven, Ignan; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Flame Jump (Sp) A peri can enter any fire equal to the peri's size or larger and travel any distance to another fire in a single round, regardless of the distance between the two. This ability otherwise functions as greater teleport (caster level 14th), but the peri can transport only itself and up to 50 pounds of objects.  Smoke Sight (Su) A peri can see through fire, fog, and smoke without penalty.  Whirlwind Dance (Su) Once per day as a full-round action, a peri can spin in an ever-faster, whirling dance, transforming  itself into a spinning vortex of flame 10 to 40 feet high for up to 9 rounds. This ability functions as the whirlwind ability (DC 26 Reflex save), but any creature that comes in contact with the whirlwind or is caught inside it takes 2d6+6 points of fire damage and is subject to the peri's burn special attack. The save DC is Dexterity-based.
+SpecialAbilities:
+  Flame Jump (Sp): >
+    A peri can enter any fire equal to the peri's size or larger and travel any distance to another fire in a single round, regardless of the distance between the two. This ability otherwise functions as greater teleport (caster level 14th), but the peri can transport only itself and up to 50 pounds of objects.
+  Smoke Sight (Su): >
+    A peri can see through fire, fog, and smoke without penalty.
+  Whirlwind Dance (Su): >
+    Once per day as a full-round action, a peri can spin in an ever-faster, whirling dance, transforming  itself into a spinning vortex of flame 10 to 40 feet high for up to 9 rounds. This ability functions as the whirlwind ability (DC 26 Reflex save), but any creature that comes in contact with the whirlwind or is caught inside it takes 2d6+6 points of fire damage and is subject to the peri's burn special attack. The save DC is Dexterity-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

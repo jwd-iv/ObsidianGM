@@ -56,7 +56,11 @@ Skills: Intimidate +11, Perception +14, Stealth +10
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Death Gaze (Su) 1d4 negative levels, 30 feet; Fortitude DC 18 negates. The save DC is Charisma-based. A humanoid slain by a bodak's death gaze rises as a bodak 24 hours later. This is a death effect.  Vulnerability to Sunlight (Ex) Bodaks loathe sunlight, for its merest touch burns their impure flesh.  Each round of exposure to direct sunlight deals 2d6 points of damage to a bodak.
+SpecialAbilities:
+  Death Gaze (Su): >
+    1d4 negative levels, 30 feet; Fortitude DC 18 negates. The save DC is Charisma-based. A humanoid slain by a bodak's death gaze rises as a bodak 24 hours later. This is a death effect.
+  Vulnerability to Sunlight (Ex): >
+    Bodaks loathe sunlight, for its merest touch burns their impure flesh.  Each round of exposure to direct sunlight deals 2d6 points of damage to a bodak.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

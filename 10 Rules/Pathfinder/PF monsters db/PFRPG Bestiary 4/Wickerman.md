@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: constant blaze
-SpecialAbilities: Burning Brand (Ex) Once per round, a wickerman can draw forth pieces of its own body and throw them as a ranged attack with a range increment of 60 feet.  Constant Blaze (Su) A wickerman constantly burns but is never consumed. Its flames are magical. Immersion in water only suppresses the flames, and only for as long as the wickerman is immersed. While its flames are suppressed, the wickerman loses its burn ability, and its wicker cage ability doesn't deal fire damage or cause creatures to catch on fire.  Fire Healing (Ex) A magical attack that deals fire damage heals the wickerman 1 point of damage for every 3 points of damage the attack would otherwise deal.  Wicker Cage (Su) If a wickerman successfully grapples a creature, as a move action it can shove the grabbed creature into the cage built into its chest. This works like swallow whole (4d6 fire damage plus the target automatically catches on fire [Pathfinder RPG Core Rulebook 444], AC 17, 15 hp). The DC to put out this fire is 17. If a creature cuts its way free, the wickerman can't use this ability again until it is fully healed. The save DC is Constitution-based.
+SpecialAbilities:
+  Burning Brand (Ex): >
+    Once per round, a wickerman can draw forth pieces of its own body and throw them as a ranged attack with a range increment of 60 feet.
+  Constant Blaze (Su): >
+    A wickerman constantly burns but is never consumed. Its flames are magical. Immersion in water only suppresses the flames, and only for as long as the wickerman is immersed. While its flames are suppressed, the wickerman loses its burn ability, and its wicker cage ability doesn't deal fire damage or cause creatures to catch on fire.
+  Fire Healing (Ex): >
+    A magical attack that deals fire damage heals the wickerman 1 point of damage for every 3 points of damage the attack would otherwise deal.
+  Wicker Cage (Su): >
+    If a wickerman successfully grapples a creature, as a move action it can shove the grabbed creature into the cage built into its chest. This works like swallow whole (4d6 fire damage plus the target automatically catches on fire [Pathfinder RPG Core Rulebook 444], AC 17, 15 hp). The DC to put out this fire is 17. If a creature cuts its way free, the wickerman can't use this ability again until it is fully healed. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

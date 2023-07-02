@@ -56,7 +56,17 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: alloyed, blasting critical, gun training
-SpecialAbilities: Alloyed (Ex) A cannon golem's slam and cannon attacks count as adamantine, cold iron, and silver for the purpose of overcoming damage reduction.  Blasting Critical (Ex) When a cannon golem confirms a critical hit with a slam attack, it can make one cannon attack against that target as a free action (as long as the cannon is loaded).  Cannon (Ex) The golem's cannon has a range increment of 100 feet and deals 6d6 points of bludgeoning and piercing damage on a hit with a x4 critical modifier. The cannon's magazine can hold up to 20 cannonballs at a time-reloading a single cannonball into this magazine is a standard action for the golem, while loading a cannonball into the cannon itself to fire it is a swift action; this allows the golem to take two shots per round with the cannon.  Gun Training (Ex) A cannon golem adds its Dex modifier to the damage dealt by its cannon.  Immunity to Magic (Ex) A cannon golem is immune to spells and spell-like abilities that allow spell resistance. Certain spells and effects function differently against it, as noted below.  • Any spell with the water descriptor that affects a cannon golem renders its cannon unusable for 1 round (no save).  • A heat metal spell causes the golem's cannon to instantly backfire, dealing 6d6 points of damage to the golem and staggering it for 1 round (no save).
+SpecialAbilities:
+  Alloyed (Ex): >
+    A cannon golem's slam and cannon attacks count as adamantine, cold iron, and silver for the purpose of overcoming damage reduction.
+  Blasting Critical (Ex): >
+    When a cannon golem confirms a critical hit with a slam attack, it can make one cannon attack against that target as a free action (as long as the cannon is loaded).
+  Cannon (Ex): >
+    The golem's cannon has a range increment of 100 feet and deals 6d6 points of bludgeoning and piercing damage on a hit with a x4 critical modifier. The cannon's magazine can hold up to 20 cannonballs at a time-reloading a single cannonball into this magazine is a standard action for the golem, while loading a cannonball into the cannon itself to fire it is a swift action; this allows the golem to take two shots per round with the cannon.
+  Gun Training (Ex): >
+    A cannon golem adds its Dex modifier to the damage dealt by its cannon.
+  Immunity to Magic (Ex): >
+    A cannon golem is immune to spells and spell-like abilities that allow spell resistance. Certain spells and effects function differently against it, as noted below.  • Any spell with the water descriptor that affects a cannon golem renders its cannon unusable for 1 round (no save).  • A heat metal spell causes the golem's cannon to instantly backfire, dealing 6d6 points of damage to the golem and staggering it for 1 round (no save).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Fly +0, Intimidate +14, Knowledge (planes) +10, Perception +15, Sense Mo
 RacialMods: 
 Languages: Abyssal, Infernal; telepathy 100 ft.
 SQ: amphibious, glide
-SpecialAbilities: Glide (Ex) A hydrodaemon can launch itself into the air and glide along for 1 minute, gaining a fly speed of 40 feet with average maneuverability. While gliding, the hydrodaemon gains the pounce ability.  Sleep Spittle (Su) A hydrodaemon can spit at a single target within 20 feet, making a ranged touch attack as a standard action. A target hit by this spittle must succeed on a DC 19 Will save or fall asleep for 6 rounds. The save DC is Constitution-based.
+SpecialAbilities:
+  Glide (Ex): >
+    A hydrodaemon can launch itself into the air and glide along for 1 minute, gaining a fly speed of 40 feet with average maneuverability. While gliding, the hydrodaemon gains the pounce ability.
+  Sleep Spittle (Su): >
+    A hydrodaemon can spit at a single target within 20 feet, making a ranged touch attack as a standard action. A target hit by this spittle must succeed on a DC 19 Will save or fall asleep for 6 rounds. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

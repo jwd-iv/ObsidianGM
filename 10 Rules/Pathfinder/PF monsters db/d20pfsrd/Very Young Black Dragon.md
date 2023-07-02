@@ -56,7 +56,11 @@ Skills: Fly +13, Handle Animal +6, Intimidate +9, Perception +12, Stealth +18, S
 RacialMods: +8 Swim
 Languages: Draconic
 SQ: swamp stride, water breathing
-SpecialAbilities: Swamp Stride (Ex) A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.  Water Breathing (Ex) A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+SpecialAbilities:
+  Swamp Stride (Ex): >
+    A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.
+  Water Breathing (Ex): >
+    A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

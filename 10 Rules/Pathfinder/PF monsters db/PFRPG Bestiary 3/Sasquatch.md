@@ -56,7 +56,11 @@ Skills: Heal +2, Perception +5, Stealth +10 (+14 in forested areas), Survival +1
 RacialMods: +4 Perception, +4 Stealth (+8 in forested areas), +4 Survival
 Languages: Sasquatch
 SQ: pungency, woodland stride
-SpecialAbilities: Pungency (Ex) A sasquatch's odor is quite powerful, and can be detected at twice the normal distance by scent.  Woodland Stride (Ex) A sasquatch can move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at normal speed and without taking damage or suffering any other impairment. Undergrowth that has been magically manipulated to impede movement still affects the sasquatch.
+SpecialAbilities:
+  Pungency (Ex): >
+    A sasquatch's odor is quite powerful, and can be detected at twice the normal distance by scent.
+  Woodland Stride (Ex): >
+    A sasquatch can move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at normal speed and without taking damage or suffering any other impairment. Undergrowth that has been magically manipulated to impede movement still affects the sasquatch.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

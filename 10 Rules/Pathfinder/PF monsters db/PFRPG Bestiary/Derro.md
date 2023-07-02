@@ -56,7 +56,13 @@ Skills: Perception +0, Stealth +9
 RacialMods: 
 Languages: Aklo, Undercommon
 SQ: madness, poison use
-SpecialAbilities: Madness (Ex) Derros use their Charisma modifier on Will saves instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a miracle or wish can remove a derro's madness. If this occurs, the derro gains 6 points of Wisdom and loses 6 points of Charisma. Poison Use (Ex) Derros are not at risk of poisoning themselves when handling poison. They use Medium spider venom to poison their crossbow bolts, and generally carry 10 prepoisoned bolts at all times. Vulnerability to Sunlight (Ex) A derro takes 1 point of Con damage after every hour it is exposed to sunlight.
+SpecialAbilities:
+  Madness (Ex): >
+    Derros use their Charisma modifier on Will saves instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a miracle or wish can remove a derro's madness. If this occurs, the derro gains 6 points of Wisdom and loses 6 points of Charisma.
+  Poison Use (Ex): >
+    Derros are not at risk of poisoning themselves when handling poison. They use Medium spider venom to poison their crossbow bolts, and generally carry 10 prepoisoned bolts at all times.
+  Vulnerability to Sunlight (Ex): >
+    A derro takes 1 point of Con damage after every hour it is exposed to sunlight.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

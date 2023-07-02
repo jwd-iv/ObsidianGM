@@ -56,7 +56,9 @@ Skills: Acrobatics +16 (+12 when jumping), Climb +10, Fly +4
 RacialMods: +12 Acrobatics, +8 Climb
 Languages: 
 SQ: glide
-SpecialAbilities: Glide (Ex) A flying squirrel cannot use its fly speed to hover. When flying, a flying squirrel must end its movement at least 5 feet lower in elevation than where it started.
+SpecialAbilities:
+  Glide (Ex): >
+    A flying squirrel cannot use its fly speed to hover. When flying, a flying squirrel must end its movement at least 5 feet lower in elevation than where it started.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

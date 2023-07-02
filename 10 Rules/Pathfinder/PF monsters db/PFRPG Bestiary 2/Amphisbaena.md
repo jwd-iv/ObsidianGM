@@ -56,7 +56,11 @@ Skills: Acrobatics +10 (+6 jump), Climb +10, Perception +11, Stealth +11, Swim +
 RacialMods: +8 Acrobatics, +4 Perception, +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d3 Con; cure 1 save.  Split (Su) An amphisbaena functions normally even if cut in half. If dealt a critical hit with a slashing weapon, the creature is cut in half but continues to function as two separate creatures, each with half the original amphisbaena's current hit points (rounded down) after the damage from the critical hit is applied. Once split, an amphisbaena cannot be split again. If left alone for 1 minute, the split amphisbaena can rejoin its two halves and become a single whole creature again (add the two creatures' hit points together). If one of the split creatures is slain, the amphisbaena can regrow the lost portion over the course of 1d3 weeks.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d3 Con; cure 1 save.
+  Split (Su): >
+    An amphisbaena functions normally even if cut in half. If dealt a critical hit with a slashing weapon, the creature is cut in half but continues to function as two separate creatures, each with half the original amphisbaena's current hit points (rounded down) after the damage from the critical hit is applied. Once split, an amphisbaena cannot be split again. If left alone for 1 minute, the split amphisbaena can rejoin its two halves and become a single whole creature again (add the two creatures' hit points together). If one of the split creatures is slain, the amphisbaena can regrow the lost portion over the course of 1d3 weeks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

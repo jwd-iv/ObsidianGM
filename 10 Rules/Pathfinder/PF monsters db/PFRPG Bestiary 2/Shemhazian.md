@@ -56,7 +56,11 @@ Skills: Bluff +23, Climb +20, Fly +2, Heal +28, Intimidate +23, Knowledge (relig
 RacialMods: +8 Perception
 Languages: Abyssal, Celestial,  Draconic; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Paralyzing Gaze (Su) Paralysis for 1 round, 30 feet, Fortitude DC 21 negates. Evil creatures are immune to this effect. The save DC is Charisma-based.  Strength Drain (Su) A shemhazian demon deals 2d4 points of Strength drain with each successful bite. A DC 27 Fortitude save reduces this amount to 1d4 points of Strength damage.  The save DC is Constitution-based.
+SpecialAbilities:
+  Paralyzing Gaze (Su): >
+    Paralysis for 1 round, 30 feet, Fortitude DC 21 negates. Evil creatures are immune to this effect. The save DC is Charisma-based.
+  Strength Drain (Su): >
+    A shemhazian demon deals 2d4 points of Strength drain with each successful bite. A DC 27 Fortitude save reduces this amount to 1d4 points of Strength damage.  The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

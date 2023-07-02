@@ -56,7 +56,13 @@ Skills: Bluff +25, Diplomacy +25, Fly +19, Intimidate +28, Perception +29, Sense
 RacialMods: 
 Languages: Abyssal, Celestial, Common
 SQ: 
-SpecialAbilities: Malevolence (Su) Once per round, a dybbuk can merge itself with a creature on the Material Plane. This ability is similar to a magic jar spell (caster level 18th), except that  it does not require a receptacle. To use this ability, the dybbuk must be adjacent to the target. The target can resist the attack with a successful DC 26 Will save. A creature that successfully saves is immune to that same dybbuk's malevolence for 24 hours. The save DC is Charisma-based.  Pain Touch (Su) With a successful touch attack, a dybbuk causes painful spasms throughout the target's body, dealing 7d6 points of damage. Creatures that are immune to pain take no damage from this touch.  Possess Object (Su) A dybbuk can use its malevolence ability to possess a Large or smaller unattended object, animating it as if using animate objects, except the dybbuk merges with and controls the object as if it were a living creature. The dybbuk cannot speak or use its other special abilities while possessing the object.
+SpecialAbilities:
+  Malevolence (Su): >
+    Once per round, a dybbuk can merge itself with a creature on the Material Plane. This ability is similar to a magic jar spell (caster level 18th), except that  it does not require a receptacle. To use this ability, the dybbuk must be adjacent to the target. The target can resist the attack with a successful DC 26 Will save. A creature that successfully saves is immune to that same dybbuk's malevolence for 24 hours. The save DC is Charisma-based.
+  Pain Touch (Su): >
+    With a successful touch attack, a dybbuk causes painful spasms throughout the target's body, dealing 7d6 points of damage. Creatures that are immune to pain take no damage from this touch.
+  Possess Object (Su): >
+    A dybbuk can use its malevolence ability to possess a Large or smaller unattended object, animating it as if using animate objects, except the dybbuk merges with and controls the object as if it were a living creature. The dybbuk cannot speak or use its other special abilities while possessing the object.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

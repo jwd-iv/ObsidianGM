@@ -56,7 +56,11 @@ Skills: Climb +19, Fly +20, Intimidate +16, Perception +23, Sense Motive +15, St
 RacialMods: 
 Languages: Draconic
 SQ: compression, piercing beak
-SpecialAbilities: Piercing Beak (Ex) A kongamato's beak is extremely hard and adept at breaking objects. When attempting to damage an item, a kongamato's beak attack does double damage and is treated as if it were adamantine for the purposes of overcoming the object's hardness.  Wailing Dive (Su) When a kongamato makes a charge while flying or uses its Flyby Attack feat, the creature's body becomes infused with energy, causing its bite to deal an extra +1d6 points of sonic damage on that attack.
+SpecialAbilities:
+  Piercing Beak (Ex): >
+    A kongamato's beak is extremely hard and adept at breaking objects. When attempting to damage an item, a kongamato's beak attack does double damage and is treated as if it were adamantine for the purposes of overcoming the object's hardness.
+  Wailing Dive (Su): >
+    When a kongamato makes a charge while flying or uses its Flyby Attack feat, the creature's body becomes infused with energy, causing its bite to deal an extra +1d6 points of sonic damage on that attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

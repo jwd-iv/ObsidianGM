@@ -56,7 +56,9 @@ Skills: Bluff +17, Diplomacy +17, Fly +21, Intimidate +17, Knowledge (planes) +1
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal;  telepathy 100 ft.
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 20; frequency 1/ round for 6 rounds; effect 1d3 Str damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 20; frequency 1/ round for 6 rounds; effect 1d3 Str damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

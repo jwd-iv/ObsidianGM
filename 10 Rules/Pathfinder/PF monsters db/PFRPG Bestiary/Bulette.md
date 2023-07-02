@@ -56,7 +56,11 @@ Skills: Acrobatics +9 (+17 jumping), Perception +11
 RacialMods: +4 on Acrobatics checks made to jump
 Languages: 
 SQ: 
-SpecialAbilities: Leap (Ex) A bulette can perform a special kind of pounce attack by jumping into combat. When a bulette charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can follow up with four claw attacks against foes in reach, but cannot make a bite attack.  Savage Bite (Ex) A bulette's bite is particularly dangerous. It applies 1-1/2 times its Strength modifier to damage inflicted with its bite attack, and threatens a critical hit on a 19-20.
+SpecialAbilities:
+  Leap (Ex): >
+    A bulette can perform a special kind of pounce attack by jumping into combat. When a bulette charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can follow up with four claw attacks against foes in reach, but cannot make a bite attack.
+  Savage Bite (Ex): >
+    A bulette's bite is particularly dangerous. It applies 1-1/2 times its Strength modifier to damage inflicted with its bite attack, and threatens a critical hit on a 19-20.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

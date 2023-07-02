@@ -56,7 +56,9 @@ Skills: Fly +7, Perception +5
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

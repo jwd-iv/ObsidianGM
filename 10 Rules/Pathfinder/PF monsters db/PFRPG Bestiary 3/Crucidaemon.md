@@ -56,7 +56,11 @@ Skills: Bluff +29, Craft (traps) +31, Disable Device +25, Escape Artist +7, Inti
 RacialMods: +8 Craft (traps)
 Languages: Abyssal, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Chained Daggers (Su) A crucidaemon fights with the two daggers chained to its wrists as if dual wielding daggers with a reach of 10 feet (although it can also attack adjacent foes with no penalty). It takes no penalty on attack or damage rolls while wielding both of these daggers at once. These daggers are considered to be +2 daggers that deal 2d6 points of bleed damage. The daggers become nonmagical upon the daemon's death, and cannot be disarmed. A crucidaemon may remanifest a destroyed dagger as a standard action.  Trap Making (Ex) A crucidaemon can use Disable Device to disarm magic traps. When it uses its greater glyph of warding spell-like ability to create a spell glyph, it may utilize any 6th-level or lower spell from the cleric or the wizard spell list, even though it otherwise can't cast these spells. The Perception and Disable Device DCs for any traps a crucidaemon creates gain a +2 bonus.
+SpecialAbilities:
+  Chained Daggers (Su): >
+    A crucidaemon fights with the two daggers chained to its wrists as if dual wielding daggers with a reach of 10 feet (although it can also attack adjacent foes with no penalty). It takes no penalty on attack or damage rolls while wielding both of these daggers at once. These daggers are considered to be +2 daggers that deal 2d6 points of bleed damage. The daggers become nonmagical upon the daemon's death, and cannot be disarmed. A crucidaemon may remanifest a destroyed dagger as a standard action.
+  Trap Making (Ex): >
+    A crucidaemon can use Disable Device to disarm magic traps. When it uses its greater glyph of warding spell-like ability to create a spell glyph, it may utilize any 6th-level or lower spell from the cleric or the wizard spell list, even though it otherwise can't cast these spells. The Perception and Disable Device DCs for any traps a crucidaemon creates gain a +2 bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

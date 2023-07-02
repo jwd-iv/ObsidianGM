@@ -56,7 +56,9 @@ Skills: Bluff +19, Climb +24, Disguise +16, Fly +14, Intimidate +17, Knowledge (
 RacialMods: +8 Climb
 Languages: Common, Draconic, Undercommon
 SQ: razor sharp
-SpecialAbilities: Razor Sharp (Sp) All of a crystal dragon's natural attacks deal slashing damage.
+SpecialAbilities:
+  Razor Sharp (Sp): >
+    All of a crystal dragon's natural attacks deal slashing damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

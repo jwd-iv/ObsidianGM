@@ -56,7 +56,11 @@ Skills: Appraise +2, Climb +13, Craft (traps) +5, Disable Device +9, Knowledge (
 RacialMods: +4 Disable Device, +4 Stealth in metal or stony areas, -4 Stealth when moving
 Languages: Undercommon
 SQ: 
-SpecialAbilities: Speedy Sabotage (Su) Vexgits are adept at disassembling machinery, reducing even complex devices to trash with shocking speed. When using the Disable Device skill, these gremlins treat all devices as being one category simpler for the purposes of determining how long it takes to use the skill. Thus, difficult devices count as tricky, tricky devices count as simple, and simple devices can be dismantled as a free action.  Wrecking Crew (Su) A group of up to six vexgits can work together to dismantle a device. This ability functions like the aid another action, but a single vexgit can receive help from up to five other vexgits, granting it up to a +10 bonus on its Disable Device check.
+SpecialAbilities:
+  Speedy Sabotage (Su): >
+    Vexgits are adept at disassembling machinery, reducing even complex devices to trash with shocking speed. When using the Disable Device skill, these gremlins treat all devices as being one category simpler for the purposes of determining how long it takes to use the skill. Thus, difficult devices count as tricky, tricky devices count as simple, and simple devices can be dismantled as a free action.
+  Wrecking Crew (Su): >
+    A group of up to six vexgits can work together to dismantle a device. This ability functions like the aid another action, but a single vexgit can receive help from up to five other vexgits, granting it up to a +10 bonus on its Disable Device check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

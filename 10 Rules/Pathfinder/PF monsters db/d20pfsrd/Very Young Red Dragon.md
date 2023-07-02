@@ -56,7 +56,9 @@ Skills: Appraise +13, Bluff +13, Fly +13, Intimidate +13, Perception +13, Sense 
 RacialMods: 
 Languages: Common, Draconic
 SQ: 
-SpecialAbilities: Smoke Vision (Ex) A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+SpecialAbilities:
+  Smoke Vision (Ex): >
+    A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

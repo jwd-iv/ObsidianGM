@@ -56,7 +56,13 @@ Skills: Fly +9, Intimidate +14, Perception +19, Spellcraft +14, Stealth +11, Swi
 RacialMods: +8 Swim
 Languages: Draconic
 SQ: icewalking, ice shape
-SpecialAbilities: Ice Shape (Su) A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon's caster level for this effect is equal to its Hit Dice.  Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.  Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
+SpecialAbilities:
+  Ice Shape (Su): >
+    A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon's caster level for this effect is equal to its Hit Dice.
+  Icewalking (Ex): >
+    This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+  Snow Vision (Ex): >
+    A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

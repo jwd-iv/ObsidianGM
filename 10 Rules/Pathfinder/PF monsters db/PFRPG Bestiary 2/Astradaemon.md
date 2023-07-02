@@ -56,7 +56,11 @@ Skills: Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Kn
 RacialMods: 
 Languages: Abyssal, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Devour Soul (Su) As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).  Soul Siphon (Su) If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using astral projection or magic jar) take 1d8 points of damage each round within the daemon's aura.
+SpecialAbilities:
+  Devour Soul (Su): >
+    As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, which may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).
+  Soul Siphon (Su): >
+    If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using astral projection or magic jar) take 1d8 points of damage each round within the daemon's aura.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

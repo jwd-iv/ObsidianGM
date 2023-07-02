@@ -56,7 +56,11 @@ Skills: Perception +7, Swim +10
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Ink Cloud (Ex) A squid can emit a 5-foot-radius cloud of ink once per minute as a free action while underwater. This cloud provides total concealment. The ink persists for 1 minute. Jet (Ex) A squid can jet in a straight line as a full-round action. It does not provoke attacks of opportunity while jetting.
+SpecialAbilities:
+  Ink Cloud (Ex): >
+    A squid can emit a 5-foot-radius cloud of ink once per minute as a free action while underwater. This cloud provides total concealment. The ink persists for 1 minute.
+  Jet (Ex): >
+    A squid can jet in a straight line as a full-round action. It does not provoke attacks of opportunity while jetting.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

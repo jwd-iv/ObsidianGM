@@ -56,7 +56,9 @@ Skills: Perception +14
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Stun (Ex) The ankylosaurus's tail can deliver a powerful, stunning blow. A creature struck by this attack must make a DC 23 save or be dazed for 1 round. If the strike is a critical hit and the target fails its save, it is instead stunned for 1d4 rounds. The save DC is Strength-based.
+SpecialAbilities:
+  Stun (Ex): >
+    The ankylosaurus's tail can deliver a powerful, stunning blow. A creature struck by this attack must make a DC 23 save or be dazed for 1 round. If the strike is a critical hit and the target fails its save, it is instead stunned for 1d4 rounds. The save DC is Strength-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

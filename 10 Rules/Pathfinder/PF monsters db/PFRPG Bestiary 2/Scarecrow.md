@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: freeze
-SpecialAbilities: Fascinating Gaze (Su) Target is fascinated, 30 feet, Will DC 14 negates. Fascination lasts as long as the scarecrow remains within 300 feet of the fascinated creature. The approach or animation of the scarecrow does not count as an obvious threat to the victim of this particular fascination effect (although the scarecrow's attack does count as an obvious threat and ends the fascination immediately). This is a mind-affecting effect. The save DC is Charisma-based.  Fear (Su) A scarecrow's touch infuses its target with overwhelming waves of fear. If the victim fails a DC 14 Will save, she cowers and can take no actions other than attempting a new DC 14 Will save at the end of the following round (and each round thereafter) to end this fear. A successful first save leaves the victim shaken for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Fascinating Gaze (Su): >
+    Target is fascinated, 30 feet, Will DC 14 negates. Fascination lasts as long as the scarecrow remains within 300 feet of the fascinated creature. The approach or animation of the scarecrow does not count as an obvious threat to the victim of this particular fascination effect (although the scarecrow's attack does count as an obvious threat and ends the fascination immediately). This is a mind-affecting effect. The save DC is Charisma-based.
+  Fear (Su): >
+    A scarecrow's touch infuses its target with overwhelming waves of fear. If the victim fails a DC 14 Will save, she cowers and can take no actions other than attempting a new DC 14 Will save at the end of the following round (and each round thereafter) to end this fear. A successful first save leaves the victim shaken for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

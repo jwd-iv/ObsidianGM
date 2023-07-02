@@ -56,7 +56,9 @@ Skills: Acrobatics +18 (+38 when jumping), Perception +16, Swim +16
 RacialMods: 
 Languages: Auran (cannot speak)
 SQ: 
-SpecialAbilities: Breath Weapon (Su) As a standard action, a sleipnir can exhale a 30- foot cone of shimmering, rainbow-colored light. Every creature in the area is randomly struck by one or more beams, as a prismatic spray spell (DC 22 half or negates). The sleipnir may use this ability once every 1d6 rounds, up to 3 times per day. The save DC is Constitution-based.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    As a standard action, a sleipnir can exhale a 30- foot cone of shimmering, rainbow-colored light. Every creature in the area is randomly struck by one or more beams, as a prismatic spray spell (DC 22 half or negates). The sleipnir may use this ability once every 1d6 rounds, up to 3 times per day. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

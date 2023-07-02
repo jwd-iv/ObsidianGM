@@ -56,7 +56,13 @@ Skills: Perception +4, Stealth +6 (+10 in plains and undergrowth), Survival +0 (
 RacialMods: +4 Stealth and Survival in plains and undergrowth
 Languages: Druidic, Sylvan; plantspeech (gourds)
 SQ: change shape (Small gourd; tree shape), keepsake, verdant burst
-SpecialAbilities: Ensnare (Ex) The seeds and slam attack of a gourd leshy entangle the target in vines for 2d4 rounds unless the target makes a DC 12 Reflex save. The target can attempt to burst these entangling vines before the duration expires with a DC 12 Strength check as a full-round action. The save and burst DCs are Constitution-based.  Keepsake (Su) Gourd leshys can pop off the top of their heads and store a single Fine-sized object such as a dagger or potion inside While within the leshy's head, the item is warded by nondetection. In addition, after 24 hours, the item within is cleaned and polished, and, if damaged, repaired as if by a mending spell. Both spell effects have a caster level equal to twice the leshy's Hit Dice (CL 2nd for most gourd leshys).  Seed (Ex) A gourd leshy can hurl its seeds as a ranged attack. If it hits, this attack deals 1 point of damage (this damage is not modified by Strength) and affects the target with the gourd leshy's ensnare ability. This attack has a 10-foot range increment.
+SpecialAbilities:
+  Ensnare (Ex): >
+    The seeds and slam attack of a gourd leshy entangle the target in vines for 2d4 rounds unless the target makes a DC 12 Reflex save. The target can attempt to burst these entangling vines before the duration expires with a DC 12 Strength check as a full-round action. The save and burst DCs are Constitution-based.
+  Keepsake (Su): >
+    Gourd leshys can pop off the top of their heads and store a single Fine-sized object such as a dagger or potion inside While within the leshy's head, the item is warded by nondetection. In addition, after 24 hours, the item within is cleaned and polished, and, if damaged, repaired as if by a mending spell. Both spell effects have a caster level equal to twice the leshy's Hit Dice (CL 2nd for most gourd leshys).
+  Seed (Ex): >
+    A gourd leshy can hurl its seeds as a ranged attack. If it hits, this attack deals 1 point of damage (this damage is not modified by Strength) and affects the target with the gourd leshy's ensnare ability. This attack has a 10-foot range increment.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

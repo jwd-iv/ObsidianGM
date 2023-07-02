@@ -56,7 +56,11 @@ Skills: Climb +17, Perception +4, Stealth -12
 RacialMods: +4 Climb, +4 Perception, +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 27; frequency 1/round for 6 rounds; effect 1d4 Str, 1d4 Dex, and 1d4 Con; cure 3 saves.  Rapid Stinging (Ex) A black scorpion's stinger strikes with astounding speed; it can make one additional attack in a round with its sting as a swift action.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 27; frequency 1/round for 6 rounds; effect 1d4 Str, 1d4 Dex, and 1d4 Con; cure 3 saves.
+  Rapid Stinging (Ex): >
+    A black scorpion's stinger strikes with astounding speed; it can make one additional attack in a round with its sting as a swift action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

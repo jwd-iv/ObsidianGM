@@ -56,7 +56,9 @@ Skills: Bluff +9, Craft (any one) +5, Escape Artist +8, Handle Animal +6, Percep
 RacialMods: 
 Languages: Aquan, Sylvan
 SQ: amphibious, wild empathy +14
-SpecialAbilities: Wild Empathy (Ex) This ability works like the druid ability of the same name. The nixie's total includes a +8 racial bonus on wild empathy checks.
+SpecialAbilities:
+  Wild Empathy (Ex): >
+    This ability works like the druid ability of the same name. The nixie's total includes a +8 racial bonus on wild empathy checks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

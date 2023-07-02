@@ -56,7 +56,11 @@ Skills: Fly +2
 RacialMods: 
 Languages: 
 SQ: no breath
-SpecialAbilities: Magnetic Pulse (Su) A plasma ooze is surrounded by an aura of magnetism that allows it to attract metallic objects and creatures. At the start of the ooze's turn as a free action, the ooze makes a combat maneuver check against all metallic creatures, all creatures wearing metal armor, and all creatures wielding metal weapons within 30 feet. If it beats the CMD of a  metal or armored creature with this check, that creature is pulled 10 feet closer to the ooze and cannot move away from the ooze for 1 round. If this causes the creature to move into a square occupied by the plasma ooze, the ooze can attempt to engulf that creature as a free action. If it beats the CMD of a creature wielding a metal weapon, that weapon is disarmed and pulled 10 feet closer to the ooze. Unattended metal objects of size Large or smaller are automatically pulled toward a plasma ooze. This magnetism is supernatural in nature and affects all metal objects.  Plasma Ray (Su) As a standard action, a plasma ooze can fire 1d4 plasma rays at up to 4 separate targets within 60 feet (no more than one ray can attack a single creature). Each ray deals 4d6 points of electricity damage and 4d6 points of fire damage on a hit.
+SpecialAbilities:
+  Magnetic Pulse (Su): >
+    A plasma ooze is surrounded by an aura of magnetism that allows it to attract metallic objects and creatures. At the start of the ooze's turn as a free action, the ooze makes a combat maneuver check against all metallic creatures, all creatures wearing metal armor, and all creatures wielding metal weapons within 30 feet. If it beats the CMD of a  metal or armored creature with this check, that creature is pulled 10 feet closer to the ooze and cannot move away from the ooze for 1 round. If this causes the creature to move into a square occupied by the plasma ooze, the ooze can attempt to engulf that creature as a free action. If it beats the CMD of a creature wielding a metal weapon, that weapon is disarmed and pulled 10 feet closer to the ooze. Unattended metal objects of size Large or smaller are automatically pulled toward a plasma ooze. This magnetism is supernatural in nature and affects all metal objects.
+  Plasma Ray (Su): >
+    As a standard action, a plasma ooze can fire 1d4 plasma rays at up to 4 separate targets within 60 feet (no more than one ray can attack a single creature). Each ray deals 4d6 points of electricity damage and 4d6 points of fire damage on a hit.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

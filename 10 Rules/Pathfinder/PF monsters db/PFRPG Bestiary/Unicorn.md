@@ -56,7 +56,13 @@ Skills: Acrobatics +8, Perception +10, Stealth +8, Survival +7 (+10 in forests)
 RacialMods: +3 Survival in forests, +4 Stealth
 Languages: Common, Sylvan
 SQ: magical strike, wild empathy +17
-SpecialAbilities: Magic Circle against Evil (Su) This ability continually duplicates the effect of the spell. The unicorn cannot suppress this ability.  Magical Strike (Ex) A unicorn's gore attack is treated as a magic good weapon for the purposes of damage reduction.  Wild Empathy (Su) This works like the druid's wild empathy class feature, except the unicorn has a +6 racial bonus on the check. Unicorns with druid levels add this racial modifier to their wild empathy checks.
+SpecialAbilities:
+  Magic Circle against Evil (Su): >
+    This ability continually duplicates the effect of the spell. The unicorn cannot suppress this ability.
+  Magical Strike (Ex): >
+    A unicorn's gore attack is treated as a magic good weapon for the purposes of damage reduction.
+  Wild Empathy (Su): >
+    This works like the druid's wild empathy class feature, except the unicorn has a +6 racial bonus on the check. Unicorns with druid levels add this racial modifier to their wild empathy checks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

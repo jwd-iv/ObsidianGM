@@ -56,7 +56,17 @@ Skills: Climb +24, Handle Animal +6, Intimidate +30, Knowledge (history) +10, Pe
 RacialMods: +8 on vision-based Perception checks
 Languages: Aklo, Celestial, Common
 SQ: 
-SpecialAbilities: Absolute Readiness (Ex) An argus is never surprised or flat-footed. It can act in the surprise round as if it were a normal round.  Accurate Strikes (Ex) An argus's attacks ignore the AC bonus granted to targets by any cover less than total cover, and the miss chance granted to targets by any concealment less than total concealment.  Eye Gouge (Ex) If an argus rends or pins an opponent, as a swift action it can attempt a dirty trick maneuver to blind the target. If its combat maneuver check exceeds the DC by 10 or more, the opponent is permanently blinded.   Fascinating Gaze (Su) A creature within 40 feet of an argus must succeed at a DC 16 Will saving throw or be fascinated for 5d6 rounds. If the creature has 4 or fewer Hit Dice, it is instead dazed for 5d6 rounds. An argus can't use this ability in the same round it uses frightful presence. The save DC is Charisma-based.  Limitless Vision (Ex) An argus takes no distance penalties on Perception checks.
+SpecialAbilities:
+  Absolute Readiness (Ex): >
+    An argus is never surprised or flat-footed. It can act in the surprise round as if it were a normal round.
+  Accurate Strikes (Ex): >
+    An argus's attacks ignore the AC bonus granted to targets by any cover less than total cover, and the miss chance granted to targets by any concealment less than total concealment.
+  Eye Gouge (Ex): >
+    If an argus rends or pins an opponent, as a swift action it can attempt a dirty trick maneuver to blind the target. If its combat maneuver check exceeds the DC by 10 or more, the opponent is permanently blinded.
+  Fascinating Gaze (Su): >
+    A creature within 40 feet of an argus must succeed at a DC 16 Will saving throw or be fascinated for 5d6 rounds. If the creature has 4 or fewer Hit Dice, it is instead dazed for 5d6 rounds. An argus can't use this ability in the same round it uses frightful presence. The save DC is Charisma-based.
+  Limitless Vision (Ex): >
+    An argus takes no distance penalties on Perception checks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Swim +14
 RacialMods: 
 Languages: 
 SQ: decompose, water dependency
-SpecialAbilities: Create Spawn (Ex) When a globster eats a living creature, it only digests a small portion of the remains. As the undigested remains accumulate inside of it, the globster grows more and more bloated. As a full-round action that does not provoke attacks of opportunity, a globster can regurgitate these foul remains along with portions of its own mass. Doing so causes the globster 1d6 points of damage, but creates a new, fully grown globster that immediately attacks the nearest non-globster target. A globster can create spawn up to once per day, though only after it has fed upon at least four Medium-sized creatures (or the equivalent number of creatures of other sizes).  Decompose (Ex) A slain globster decays into a mass of goo in the span of 24 hours. However, the  corpse retains the creature's stench aura for 1d10 days after its death.  Nausea (Ex) Any creature struck by a globster must make a DC 18 Fortitude save to avoid being nauseated for 1 round. Once a creature makes this saving throw, it is immune to further nausea effects from that particular globster for 24 hours. This is a poison effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Create Spawn (Ex): >
+    When a globster eats a living creature, it only digests a small portion of the remains. As the undigested remains accumulate inside of it, the globster grows more and more bloated. As a full-round action that does not provoke attacks of opportunity, a globster can regurgitate these foul remains along with portions of its own mass. Doing so causes the globster 1d6 points of damage, but creates a new, fully grown globster that immediately attacks the nearest non-globster target. A globster can create spawn up to once per day, though only after it has fed upon at least four Medium-sized creatures (or the equivalent number of creatures of other sizes).
+  Decompose (Ex): >
+    A slain globster decays into a mass of goo in the span of 24 hours. However, the  corpse retains the creature's stench aura for 1d10 days after its death.
+  Nausea (Ex): >
+    Any creature struck by a globster must make a DC 18 Fortitude save to avoid being nauseated for 1 round. Once a creature makes this saving throw, it is immune to further nausea effects from that particular globster for 24 hours. This is a poison effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

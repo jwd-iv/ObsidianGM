@@ -56,7 +56,9 @@ Skills: Perception +9, Swim +13
 RacialMods: +4 Perception
 Languages: 
 SQ: hold breath
-SpecialAbilities: Hold Breath (Ex) A dolphin can hold its breath for a number of minutes equal to 6 times its Constitution score before it risks drowning.
+SpecialAbilities:
+  Hold Breath (Ex): >
+    A dolphin can hold its breath for a number of minutes equal to 6 times its Constitution score before it risks drowning.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

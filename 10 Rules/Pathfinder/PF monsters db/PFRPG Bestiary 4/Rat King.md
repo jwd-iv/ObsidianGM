@@ -56,8 +56,13 @@ Skills: Climb +9, Diplomacy +0 (+4 when influencing rats), Knowledge (local) -2,
 RacialMods: +4 Diplomacy when influencing rats
 Languages: 
 SQ: compression, speak with rats
-SpecialAbilities: >
-  Disease (Ex) Bubonic plague: Inhaled or bite-injury; save Fort DC 19; onset 1d3 days; frequency 1/day; effect 1d4 Str damage, 1 Cha damage, and fatigue; cure 2 consecutive saves. The save DC is Constitution-based and includes the +2 from the rat king's plaguebringer ability.  Plaguebringer (Ex) A rat king increases the disease DC of rats (including rat kings, rat swarms, and dire rats) within 100 feet by +2.  Speak with Rats (Ex) A rat king can communicate with normal rats (including rat swarms and dire rats) as if using speak with animals. It can use Diplomacy to alter a rat's attitude, and when so doing gains a +4 racial bonus on the check. Any ability that allows a creature to communicate with rats (such as speak with animals or a wererat's rat empathy) allows for communication with a rat king.
+SpecialAbilities:
+  Disease (Ex): >
+    Bubonic plague: Inhaled or bite-injury; save Fort DC 19; onset 1d3 days; frequency 1/day; effect 1d4 Str damage, 1 Cha damage, and fatigue; cure 2 consecutive saves. The save DC is Constitution-based and includes the +2 from the rat king's plaguebringer ability.
+  Plaguebringer (Ex): >
+    A rat king increases the disease DC of rats (including rat kings, rat swarms, and dire rats) within 100 feet by +2.
+  Speak with Rats (Ex): >
+    A rat king can communicate with normal rats (including rat swarms and dire rats) as if using speak with animals. It can use Diplomacy to alter a rat's attitude, and when so doing gains a +4 racial bonus on the check. Any ability that allows a creature to communicate with rats (such as speak with animals or a wererat's rat empathy) allows for communication with a rat king.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

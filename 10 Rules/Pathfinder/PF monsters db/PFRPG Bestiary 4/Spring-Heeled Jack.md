@@ -56,7 +56,11 @@ Skills: Acrobatics +12 (+16 when jumping), Bluff +6, Climb +9, Escape Artist +12
 RacialMods: +4 Acrobatics when jumping
 Languages: Common, Sylvan
 SQ: 
-SpecialAbilities: Frightening Gaze (Su) Any creature within a 10-ft. radius upon whom Spring-Heeled Jack's gaze falls is panicked for 1d6 rounds. A successful DC 13 Will save negates. The save DC is Charisma-based.  Vault (Su) Spring-Heeled Jack can jump up to 20 feet (vertically or horizontally in any combination) as a move action without provoking attacks of opportunity.
+SpecialAbilities:
+  Frightening Gaze (Su): >
+    Any creature within a 10-ft. radius upon whom Spring-Heeled Jack's gaze falls is panicked for 1d6 rounds. A successful DC 13 Will save negates. The save DC is Charisma-based.
+  Vault (Su): >
+    Spring-Heeled Jack can jump up to 20 feet (vertically or horizontally in any combination) as a move action without provoking attacks of opportunity.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

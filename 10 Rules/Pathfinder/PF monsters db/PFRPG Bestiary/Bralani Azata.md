@@ -56,7 +56,11 @@ Skills: Bluff +12, Fly +22, Handle Animal +12, Perception +15, Ride +14, Sense M
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: wind form
-SpecialAbilities: Whirlwind Blast (Su) When in wind form, a bralani can attack with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot line (Reflex DC 17 half ). The save DC is Constitution-based. Wind Form (Su) A bralani can shift between its humanoid body and a body made of wind and mist as a standard action. In humanoid form, it cannot fly or use its whirlwind blast. In wind form, it functions as if under the effects of a wind walk spell. It can make slam attacks and use spelllike abilities in either form. A bralani remains in one form until it chooses to assume its other form. A change in form cannot be dispelled, nor does the bralani revert to any particular form when killed (both shapes are its true form). A true seeing spell reveals both forms simultaneously.
+SpecialAbilities:
+  Whirlwind Blast (Su): >
+    When in wind form, a bralani can attack with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot line (Reflex DC 17 half ). The save DC is Constitution-based.
+  Wind Form (Su): >
+    A bralani can shift between its humanoid body and a body made of wind and mist as a standard action. In humanoid form, it cannot fly or use its whirlwind blast. In wind form, it functions as if under the effects of a wind walk spell. It can make slam attacks and use spelllike abilities in either form. A bralani remains in one form until it chooses to assume its other form. A change in form cannot be dispelled, nor does the bralani revert to any particular form when killed (both shapes are its true form). A true seeing spell reveals both forms simultaneously.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Fly +17, Knowledge (history) +6, Knowledge (planes) +6, Perception +9, P
 RacialMods: 
 Languages: Abyssal, Celestial, Infernal
 SQ: change shape (raven or songbird [same statistics], beast shape II), spirit touch
-SpecialAbilities: Haunting Melody (Su) A nosoi's song has the power to grip the spirits of those that hear it. All living and undead creatures within a 60-foot spread must succeed at a DC 14 Will saving throw or be fascinated. A creature that successfully saves is not subject to that nosoi's song for 24 hours. This effect continues for as long as the nosoi sings and for 1 round thereafter. A nosoi can sing for a number or rounds per day equal to twice its Hit Dice. This is a sonic mind-affecting charm effect. This ability can affect undead creatures, even though the undead subtype makes such creatures immune to mind-affecting effects (though undead creatures with immunity to mind-affecting effects from a source other than their creature type are still immune). The save DC is Charisma-based.
+SpecialAbilities:
+  Haunting Melody (Su): >
+    A nosoi's song has the power to grip the spirits of those that hear it. All living and undead creatures within a 60-foot spread must succeed at a DC 14 Will saving throw or be fascinated. A creature that successfully saves is not subject to that nosoi's song for 24 hours. This effect continues for as long as the nosoi sings and for 1 round thereafter. A nosoi can sing for a number or rounds per day equal to twice its Hit Dice. This is a sonic mind-affecting charm effect. This ability can affect undead creatures, even though the undead subtype makes such creatures immune to mind-affecting effects (though undead creatures with immunity to mind-affecting effects from a source other than their creature type are still immune). The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

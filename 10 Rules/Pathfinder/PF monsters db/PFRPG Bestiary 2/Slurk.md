@@ -56,7 +56,13 @@ Skills: Acrobatics +16, Climb +14, Escape Artist +6
 RacialMods: +10 Acrobatics, +4 Escape Artist
 Languages: Boggard (can't speak)
 SQ: hunker
-SpecialAbilities: Belly Grease (Ex) The slurk exudes a slippery grease from its belly that grants it a +4 bonus on Escape Artist skill checks and to its CMD versus grapples. Once per minute, a slurk may wallow on a solid surface as a full-round action to coat the floor in a 5-foot radius with this grease. The smear created turns that area of floor into difficult terrain for 10 minutes, after which the grease dries to a nasty crust.  Hunker (Ex) The slurk gains a +4 bonus to its CMD to avoid bull rush or overrun attempts.  Slime (Ex) A slurk's back is crusted with thick, dry slime and dozens of nodules. As a standard action at will, a slurk can squirt a jet of this slime from one of these nodules as a ranged touch attack against any target within 30 feet. The slime quickly hardens to the texture of cold tar, entangling the foe. Anyone the slurk successfully bull rushes or overruns is automatically squirted with back slime. The hardened slime can be removed as a full-round action with a DC 15 Strength check. The slurk's back slime grants a creature riding it a +8 bonus on Ride checks made to stay in the saddle, but a -8 penalty on Ride checks to dismount.
+SpecialAbilities:
+  Belly Grease (Ex): >
+    The slurk exudes a slippery grease from its belly that grants it a +4 bonus on Escape Artist skill checks and to its CMD versus grapples. Once per minute, a slurk may wallow on a solid surface as a full-round action to coat the floor in a 5-foot radius with this grease. The smear created turns that area of floor into difficult terrain for 10 minutes, after which the grease dries to a nasty crust.
+  Hunker (Ex): >
+    The slurk gains a +4 bonus to its CMD to avoid bull rush or overrun attempts.
+  Slime (Ex): >
+    A slurk's back is crusted with thick, dry slime and dozens of nodules. As a standard action at will, a slurk can squirt a jet of this slime from one of these nodules as a ranged touch attack against any target within 30 feet. The slime quickly hardens to the texture of cold tar, entangling the foe. Anyone the slurk successfully bull rushes or overruns is automatically squirted with back slime. The hardened slime can be removed as a full-round action with a DC 15 Strength check. The slurk's back slime grants a creature riding it a +8 bonus on Ride checks made to stay in the saddle, but a -8 penalty on Ride checks to dismount.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

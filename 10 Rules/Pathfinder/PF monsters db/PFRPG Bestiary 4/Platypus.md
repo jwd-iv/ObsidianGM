@@ -56,7 +56,13 @@ Skills: Perception +1 (+5 while underwater), Swim +14
 RacialMods: +4 Perception while underwater
 Languages: 
 SQ: semiaquatic
-SpecialAbilities: Electrolocation (Ex) While underwater, platypuses can sense the tiny electrical currents that trigger muscle movement. This allows them to locate living prey and to distinguish it from inanimate objects. Treat electrolocation as lifesense with a range of 30 feet, but that functions only underwater.  Poison (Ex) Spur-injury; save Fort DC 9; frequency 1/round for 4 rounds; effect 1 nonlethal damage; cure 1 save.  Semiaquatic (Ex) Platypuses can hold their breath underwater for up to 5 minutes before they must start attempting Constitution checks to avoid suffocation.
+SpecialAbilities:
+  Electrolocation (Ex): >
+    While underwater, platypuses can sense the tiny electrical currents that trigger muscle movement. This allows them to locate living prey and to distinguish it from inanimate objects. Treat electrolocation as lifesense with a range of 30 feet, but that functions only underwater.
+  Poison (Ex): >
+    Spur-injury; save Fort DC 9; frequency 1/round for 4 rounds; effect 1 nonlethal damage; cure 1 save.
+  Semiaquatic (Ex): >
+    Platypuses can hold their breath underwater for up to 5 minutes before they must start attempting Constitution checks to avoid suffocation.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

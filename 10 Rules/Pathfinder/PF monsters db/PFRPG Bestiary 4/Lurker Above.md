@@ -56,7 +56,9 @@ Skills: Climb +18, Fly +1, Perception +5, Stealth +8 (+16 in rocky areas)
 RacialMods: +4 Stealth (+12 in rocky areas)
 Languages: 
 SQ: 
-SpecialAbilities: Smother (Ex) When a lurker above grapples a target, it forms an airtight seal around its prey. A grappled target cannot speak or cast spells with verbal components, and must hold its breath (see Suffocation, Pathfinder RPG Core Rulebook 445).
+SpecialAbilities:
+  Smother (Ex): >
+    When a lurker above grapples a target, it forms an airtight seal around its prey. A grappled target cannot speak or cast spells with verbal components, and must hold its breath (see Suffocation, Pathfinder RPG Core Rulebook 445).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

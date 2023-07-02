@@ -56,7 +56,9 @@ Skills: Acrobatics +10, Climb +10, Escape Artist +3, Stealth +14
 RacialMods: +4 Stealth, +8 Acrobatics
 Languages: 
 SQ: 
-SpecialAbilities: Attach (Ex) When a weasel hits with a bite attack, it automatically grapples its foe, inflicting automatic bite damage each round.
+SpecialAbilities:
+  Attach (Ex): >
+    When a weasel hits with a bite attack, it automatically grapples its foe, inflicting automatic bite damage each round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

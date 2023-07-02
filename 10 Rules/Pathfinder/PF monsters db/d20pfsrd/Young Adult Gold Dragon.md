@@ -56,7 +56,15 @@ Skills: Diplomacy +23, Fly +11, Heal +23, Knowledge (arcana) +23, Knowledge (loc
 RacialMods: +8 Swim
 Languages: Celestial, Common, Draconic, Elven, Halfling
 SQ: change shape, detect gems, fast flight
-SpecialAbilities: Change Shape (Su) A very young or older gold dragon can assume any animal or humanoid form three times per day as if using polymorph.  Detect Gems (Sp) A young or older gold dragon can detect gems three times per day. This functions as locate object, but can only be used to locate gemstones.  Fast Flight (Ex) A young or older gold dragon is treated as one size category larger when determining his fly speed.  Weakening Breath (Su) Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
+SpecialAbilities:
+  Change Shape (Su): >
+    A very young or older gold dragon can assume any animal or humanoid form three times per day as if using polymorph.
+  Detect Gems (Sp): >
+    A young or older gold dragon can detect gems three times per day. This functions as locate object, but can only be used to locate gemstones.
+  Fast Flight (Ex): >
+    A young or older gold dragon is treated as one size category larger when determining his fly speed.
+  Weakening Breath (Su): >
+    Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
 SpellsKnown: Spells Known (CL 5th; concentration +9)  2nd (5/day)-cure moderate wounds, resist energy  1st (7/day)-divine favor, mage armor, shield, shield of faith  0 (at will)-detect magic, light, mage hand, mending, prestidigitation, stabilize
 SpellsPrepared: 
 SpellDomains: 

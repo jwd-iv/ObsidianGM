@@ -56,7 +56,9 @@ Skills: Perception +8, Stealth +5 (+13 in sand or mud), Swim +8
 RacialMods: +8 Stealth in sand or mud
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1d2 Dex and 1 Con; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1d2 Dex and 1 Con; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

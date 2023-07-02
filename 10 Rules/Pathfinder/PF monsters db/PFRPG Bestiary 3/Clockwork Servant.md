@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: repair clockwork, swift reactions, winding
-SpecialAbilities: Net (Ex) As a standard action, a clockwork servant can launch a net from its shoulder. The launcher itself can contain up to five nets-loading a folded net into the launcher is a standard action. Some clockwork servants are outfitted with masterwork or even magic nets, although the clockwork servant presented here is armed with standard nets.  Repair Clockwork (Ex) Clockwork servants are adept at repairing other clockwork constructs. As a standard action that does not provoke an attack of opportunity, a clockwork servant can repair damage done to either itself or an adjacent clockwork creature, healing 1d10 points of damage to the target.
+SpecialAbilities:
+  Net (Ex): >
+    As a standard action, a clockwork servant can launch a net from its shoulder. The launcher itself can contain up to five nets-loading a folded net into the launcher is a standard action. Some clockwork servants are outfitted with masterwork or even magic nets, although the clockwork servant presented here is armed with standard nets.
+  Repair Clockwork (Ex): >
+    Clockwork servants are adept at repairing other clockwork constructs. As a standard action that does not provoke an attack of opportunity, a clockwork servant can repair damage done to either itself or an adjacent clockwork creature, healing 1d10 points of damage to the target.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

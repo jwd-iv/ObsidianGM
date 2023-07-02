@@ -56,7 +56,15 @@ Skills: Bluff +26, Diplomacy +23, Fly +11, Intimidate +26, Knowledge (arcana) +2
 RacialMods: 
 Languages: telepathy 120 ft.
 SQ: radiant armor
-SpecialAbilities: Blinding Light (Ex) A shining child can radiate a 60-foot-radius aura of blinding light as a free action. Creatures within the affected area must succeed on a DC 25 Fortitude save or be permanently blinded. A creature that successfully saves cannot be affected again by the same shining child's aura for 24 hours. The save is Constitution-based.  Burning Touch (Su) A shining child corrupts the positive energy within a living creature into an unnatural burning light. For the next 5 rounds after a successful touch attack by a shining child, the target takes 2d6 points of fire damage. The burning light can be "extinguished" by casting darkness or deeper darkness on the target, or by entering an area of natural darkness (not counting the light from the burning target).  Radiant Armor (Su) The light that surrounds a shining child grants a deflection bonus to its AC equal to its Charisma bonus. The bonus is negated as long as the shining child is in the area of effect of a spell with the darkness descriptor that is at least 3rd level.  Searing Ray (Su) A shining child's primary attack is a ray of searing light. This attack has a range of 120 feet. The ray deals double damage to undead creatures.
+SpecialAbilities:
+  Blinding Light (Ex): >
+    A shining child can radiate a 60-foot-radius aura of blinding light as a free action. Creatures within the affected area must succeed on a DC 25 Fortitude save or be permanently blinded. A creature that successfully saves cannot be affected again by the same shining child's aura for 24 hours. The save is Constitution-based.
+  Burning Touch (Su): >
+    A shining child corrupts the positive energy within a living creature into an unnatural burning light. For the next 5 rounds after a successful touch attack by a shining child, the target takes 2d6 points of fire damage. The burning light can be "extinguished" by casting darkness or deeper darkness on the target, or by entering an area of natural darkness (not counting the light from the burning target).
+  Radiant Armor (Su): >
+    The light that surrounds a shining child grants a deflection bonus to its AC equal to its Charisma bonus. The bonus is negated as long as the shining child is in the area of effect of a spell with the darkness descriptor that is at least 3rd level.
+  Searing Ray (Su): >
+    A shining child's primary attack is a ray of searing light. This attack has a range of 120 feet. The ray deals double damage to undead creatures.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

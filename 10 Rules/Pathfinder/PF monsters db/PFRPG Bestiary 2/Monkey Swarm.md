@@ -56,7 +56,9 @@ Skills: Acrobatics +11, Climb +10, Perception +5
 RacialMods: +4 Acrobatics
 Languages: 
 SQ: coordinated swarm
-SpecialAbilities: Coordinated Swarm (Ex) A monkey swarm coordinates its attacks more than a typical swarm, and deals swarm damage one step higher than a swarm of its HD would normally cause.
+SpecialAbilities:
+  Coordinated Swarm (Ex): >
+    A monkey swarm coordinates its attacks more than a typical swarm, and deals swarm damage one step higher than a swarm of its HD would normally cause.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

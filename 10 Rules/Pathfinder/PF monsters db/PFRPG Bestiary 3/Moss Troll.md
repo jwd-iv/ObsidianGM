@@ -56,7 +56,11 @@ Skills: Acrobatics +7, Climb +11, Intimidate +5, Perception +5, Stealth +5 (+9 i
 RacialMods: +2 Acrobatics, +4 Stealth (+8 in vegetation)
 Languages: Giant
 SQ: change shape (mossy tree; tree shape), tree climber
-SpecialAbilities: Fear of Fire (Ex) A moss troll is shaken as long as it is within 30 feet of a visible fire or an open flame of at least torch size.  Tree Climber (Ex) When climbing trees and other foliage, a moss troll's climb speed increases to 30 feet. If a moss troll falls while climbing in trees, it ignores the first 30 feet it falls for the purposes of calculating total damage from the fall. While climbing in trees, a moss troll gains a +4 racial bonus on initiative checks.
+SpecialAbilities:
+  Fear of Fire (Ex): >
+    A moss troll is shaken as long as it is within 30 feet of a visible fire or an open flame of at least torch size.
+  Tree Climber (Ex): >
+    When climbing trees and other foliage, a moss troll's climb speed increases to 30 feet. If a moss troll falls while climbing in trees, it ignores the first 30 feet it falls for the purposes of calculating total damage from the fall. While climbing in trees, a moss troll gains a +4 racial bonus on initiative checks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

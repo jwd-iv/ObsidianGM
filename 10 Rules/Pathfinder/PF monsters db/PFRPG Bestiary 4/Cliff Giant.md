@@ -56,7 +56,9 @@ Skills: Climb +18, Diplomacy +8, Handle Animal +11, Knowledge (geography) +5, Kn
 RacialMods: +4 Knowledge (geography)
 Languages: Common, Giant, Terran
 SQ: earth attunement
-SpecialAbilities: Earth Attunement (Su) A cliff giant has tremorsense 30 feet when standing on unworked stone or natural earth. Knowledge (nature) is a class skill for cliff giants.
+SpecialAbilities:
+  Earth Attunement (Su): >
+    A cliff giant has tremorsense 30 feet when standing on unworked stone or natural earth. Knowledge (nature) is a class skill for cliff giants.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

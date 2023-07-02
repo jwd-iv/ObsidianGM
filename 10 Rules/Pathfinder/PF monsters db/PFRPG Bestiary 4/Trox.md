@@ -56,7 +56,11 @@ Skills: Climb +11, Intimidate +2, Survival +4
 RacialMods: 
 Languages: Terran
 SQ: fast movement, grabbing appendages
-SpecialAbilities: Frenzy (Ex) Once per day when a trox takes damage, it flies into a frenzy for 1 minute, gaining a +2 racial bonus to Constitution and Strength, but a -2 penalty to AC.  Grabbing Appendages (Ex) A trox's smaller arms are useful for little more than aiding grappling. Trox gain Improved Grapple as a bonus feat, and can maintain a grapple and still make attacks with their main arms.
+SpecialAbilities:
+  Frenzy (Ex): >
+    Once per day when a trox takes damage, it flies into a frenzy for 1 minute, gaining a +2 racial bonus to Constitution and Strength, but a -2 penalty to AC.
+  Grabbing Appendages (Ex): >
+    A trox's smaller arms are useful for little more than aiding grappling. Trox gain Improved Grapple as a bonus feat, and can maintain a grapple and still make attacks with their main arms.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

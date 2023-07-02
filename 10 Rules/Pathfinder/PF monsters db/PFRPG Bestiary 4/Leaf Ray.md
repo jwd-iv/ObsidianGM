@@ -56,7 +56,11 @@ Skills: Fly +9, Perception +5
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.  Seed (Ex) Once per day, a leaf ray can implant a seed into a helpless target with its stinger. As a full-round action, the leaf ray stings its victim, depositing a seed into the victim's flesh. This process deals 1 hit point of damage to the victim, but the implanted creature isn't subject to the leaf ray's poison in this process. The seed germinates inside the victim, making it sickened while it harbors the leaf ray seed, and dealing 1d2 points of Constitution damage to the victim each day the seed grows within. This damage is negated with a successful DC 14 Fortitude save. The seed feeds off the victim's body and only grows into a new leaf ray tree when the victim dies from Constitution damage. Removing an implanted seed requires a successful DC 20 Heal check (a full-round action); each attempt deals 1 hit point of damage. Although immunity to disease offers no special protection against a leaf ray seed's implantation, remove disease, heal, or similar effects automatically destroy any implanted seeds.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
+  Seed (Ex): >
+    Once per day, a leaf ray can implant a seed into a helpless target with its stinger. As a full-round action, the leaf ray stings its victim, depositing a seed into the victim's flesh. This process deals 1 hit point of damage to the victim, but the implanted creature isn't subject to the leaf ray's poison in this process. The seed germinates inside the victim, making it sickened while it harbors the leaf ray seed, and dealing 1d2 points of Constitution damage to the victim each day the seed grows within. This damage is negated with a successful DC 14 Fortitude save. The seed feeds off the victim's body and only grows into a new leaf ray tree when the victim dies from Constitution damage. Removing an implanted seed requires a successful DC 20 Heal check (a full-round action); each attempt deals 1 hit point of damage. Although immunity to disease offers no special protection against a leaf ray seed's implantation, remove disease, heal, or similar effects automatically destroy any implanted seeds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

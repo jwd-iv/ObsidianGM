@@ -56,7 +56,13 @@ Skills: Acrobatics +15 (+23 jump), Craft (any one) +25, Knowledge (history) +12,
 RacialMods: 
 Languages: Common, Giant, Terran
 SQ: 
-SpecialAbilities: Command Giant (Su) A rune giant gains a +4 racial bonus on the save DC of charm or compulsion effects used against giants.  Runes (Ex) As a free action, whenever a rune giant uses its spark shower or spell-like abilities, it can cause the runes on its body to flash with light. All creatures within 10 feet of the giant must make a DC 24 Fortitude save or be blinded for 1 round. The saving throw is Charisma-based.  Spark Shower (Su) As a standard action, a rune giant can cause a shower of sparks to erupt out of one of the runes on its body. These sparks function as a breath weapon (30-ft.  cone; 10d6 fire and 10d6 electricity damage; Reflex DC 29 half; usable once every 1d4 rounds). The save DC is Constitution-based.
+SpecialAbilities:
+  Command Giant (Su): >
+    A rune giant gains a +4 racial bonus on the save DC of charm or compulsion effects used against giants.
+  Runes (Ex): >
+    As a free action, whenever a rune giant uses its spark shower or spell-like abilities, it can cause the runes on its body to flash with light. All creatures within 10 feet of the giant must make a DC 24 Fortitude save or be blinded for 1 round. The saving throw is Charisma-based.
+  Spark Shower (Su): >
+    As a standard action, a rune giant can cause a shower of sparks to erupt out of one of the runes on its body. These sparks function as a breath weapon (30-ft.  cone; 10d6 fire and 10d6 electricity damage; Reflex DC 29 half; usable once every 1d4 rounds). The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

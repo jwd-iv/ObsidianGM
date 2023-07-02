@@ -56,7 +56,9 @@ Skills: Acrobatics +10 (+18 jump), Bluff +13, Knowledge (any one) +21, Knowledge
 RacialMods: +8 Acrobatics when jumping
 Languages: Celestial, Common, Draconic, Infernal; speak with animals, truespeech
 SQ: bardic knowledge +7, lay on hands (3d6, 6/day, as a 7th-level paladin)
-SpecialAbilities: Calm Emotions Aura (Su) A vulpinal's aura acts like a calm emotions spell with a radius of 30 feet. Any creature entering this area must make a Will save (DC 16) to resist the effect. A creature that makes its save is immune to that vulpinal's aura for 24 hours. The save DC is Charisma-based.
+SpecialAbilities:
+  Calm Emotions Aura (Su): >
+    A vulpinal's aura acts like a calm emotions spell with a radius of 30 feet. Any creature entering this area must make a Will save (DC 16) to resist the effect. A creature that makes its save is immune to that vulpinal's aura for 24 hours. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

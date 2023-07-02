@@ -56,7 +56,17 @@ Skills: Diplomacy +17, Fly +10, Knowledge (arcana) +16, Knowledge (history) +16,
 RacialMods: 
 Languages: Celestial, Common, Draconic
 SQ: no breath, starflight
-SpecialAbilities: Alien Presence (Su) A creature that fails its saving throw against a solar dragon's alien presence is blinded for 5d6 rounds (or permanently if it has 4 Hit Dice or fewer).  Beam of Light (Su) A great wyrm solar dragon can transform itself into a beam of pure light and travel to any location it can see as a move action. This travel must be in a straight line, but otherwise the dragon can travel anywhere that light can enter.  Channel Life (Su) A solar dragon can channel positive energy a number of times per day equal to 3 + its Charisma modifier, using its age category + 2 as its cleric level. This energy can be used only to heal living creatures.  Channel Radiation (Su) An old or older solar dragon can use its channel life ability to instead channel radiation that deals an equal amount of damage to living creatures. A living creature that succeeds at a Fortitude save takes half damage.  Primal Fire (Su) A very young or older solar dragon's breath weapon can affect creatures normally immune or resistant to fire damage. A creature immune to fire damage still takes half damage from the breath weapon (no damage with a successful saving throw). A resistant creature's fire resistance is treated as 10 less than normal.
+SpecialAbilities:
+  Alien Presence (Su): >
+    A creature that fails its saving throw against a solar dragon's alien presence is blinded for 5d6 rounds (or permanently if it has 4 Hit Dice or fewer).
+  Beam of Light (Su): >
+    A great wyrm solar dragon can transform itself into a beam of pure light and travel to any location it can see as a move action. This travel must be in a straight line, but otherwise the dragon can travel anywhere that light can enter.
+  Channel Life (Su): >
+    A solar dragon can channel positive energy a number of times per day equal to 3 + its Charisma modifier, using its age category + 2 as its cleric level. This energy can be used only to heal living creatures.
+  Channel Radiation (Su): >
+    An old or older solar dragon can use its channel life ability to instead channel radiation that deals an equal amount of damage to living creatures. A living creature that succeeds at a Fortitude save takes half damage.
+  Primal Fire (Su): >
+    A very young or older solar dragon's breath weapon can affect creatures normally immune or resistant to fire damage. A creature immune to fire damage still takes half damage from the breath weapon (no damage with a successful saving throw). A resistant creature's fire resistance is treated as 10 less than normal.
 SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +4)  1st (4/day)-color spray (DC 14), mage armor  0 (at will)-bleed (DC 13), detect poison, flare (DC 13), read magic
 SpellsPrepared: 
 SpellDomains: 

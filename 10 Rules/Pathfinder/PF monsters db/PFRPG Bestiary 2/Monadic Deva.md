@@ -56,7 +56,9 @@ Skills: Diplomacy +21, Fly +25, Intimidate +21, Knowledge (planes) +21, Knowledg
 RacialMods: +4 Perception
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: amphibious
-SpecialAbilities: Solid Blow (Su) If a monadic deva strikes an opponent twice in 1 round with its mace, that creature takes an extra 1d8+10 points of damage.
+SpecialAbilities:
+  Solid Blow (Su): >
+    If a monadic deva strikes an opponent twice in 1 round with its mace, that creature takes an extra 1d8+10 points of damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Escape Artist +17, Knowledge (religion) +14, Perception +15, Sense Motiv
 RacialMods: 
 Languages: Aklo, Undercommon; telepathy 100 ft.
 SQ: item use
-SpecialAbilities: Aura of Madness (Su) Any sane being within 30 feet of a conscious seugathi must make a DC 20 Will save each round or become confused for 1 round. A creature that fails 5 saves in a row becomes permanently insane, as per the insanity spell. A seugathi can suppress or activate this aura as a free action. This is a mind-affecting effect. The save DC is Charisma-based.  Confusion Command (Su) As an immediate action, a seugathi can issue a telepathic command to a confused creature within 30 feet. This allows the seugathi to pick a result from the confusion behavior table, rather than the confused creature rolling randomly for its actions that round.  Item Use (Ex) A seugathi can utilize spell trigger devices as if it were a spellcaster of the appropriate class. As a free action by touch, it can identify all spell trigger properties an item has. Use Magic Device is a class skill for seugathis.  Poison (Ex) Bite-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d2 Wis and deafness; cure 2 consecutive saves. Deafness persists as long as the ability damage caused by the poison lasts. The save DC is Constitution-based.
+SpecialAbilities:
+  Aura of Madness (Su): >
+    Any sane being within 30 feet of a conscious seugathi must make a DC 20 Will save each round or become confused for 1 round. A creature that fails 5 saves in a row becomes permanently insane, as per the insanity spell. A seugathi can suppress or activate this aura as a free action. This is a mind-affecting effect. The save DC is Charisma-based.
+  Confusion Command (Su): >
+    As an immediate action, a seugathi can issue a telepathic command to a confused creature within 30 feet. This allows the seugathi to pick a result from the confusion behavior table, rather than the confused creature rolling randomly for its actions that round.
+  Item Use (Ex): >
+    A seugathi can utilize spell trigger devices as if it were a spellcaster of the appropriate class. As a free action by touch, it can identify all spell trigger properties an item has. Use Magic Device is a class skill for seugathis.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d2 Wis and deafness; cure 2 consecutive saves. Deafness persists as long as the ability damage caused by the poison lasts. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

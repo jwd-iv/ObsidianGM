@@ -56,7 +56,13 @@ Skills: Acrobatics +23 (+27 jump), Climb +32, Escape Artist +23, Knowledge (dung
 RacialMods: +16 Escape Artist, +8 Perception, +10 Stealth when submerged
 Languages: Abyssal, Celestial, Draconic; telepathy 100 ft.
 SQ: amorphous, amphibious, compression
-SpecialAbilities: Liquid Leap (Sp) As long as an omox is in contact with liquid, it can use dimension door as a swift action (CL 12th); its starting and ending points must be connected by a contiguous mass of liquid.  Slime (Su) An omox's nauseating body is composed of sticky, acidic slime. As an attack action, it can hurl a glob of slime (range increment 20 feet). Any creature that is struck by the glob must make a DC 23 Reflex save or become entangled for 1d6 rounds. The save DC is Constitution-based.  Smothering (Ex) An omox can use its grab ability against a creature of any size. When it grabs a foe, it attempts to flow over and into the victim's mouth and nose to smother it. Each round the omox maintains its grapple, its victim cannot breathe or speak. See page 445 of the Pathfinder RPG Core Rulebook for rules on how long a victim can hold its breath and the consequences of suffocation.
+SpecialAbilities:
+  Liquid Leap (Sp): >
+    As long as an omox is in contact with liquid, it can use dimension door as a swift action (CL 12th); its starting and ending points must be connected by a contiguous mass of liquid.
+  Slime (Su): >
+    An omox's nauseating body is composed of sticky, acidic slime. As an attack action, it can hurl a glob of slime (range increment 20 feet). Any creature that is struck by the glob must make a DC 23 Reflex save or become entangled for 1d6 rounds. The save DC is Constitution-based.
+  Smothering (Ex): >
+    An omox can use its grab ability against a creature of any size. When it grabs a foe, it attempts to flow over and into the victim's mouth and nose to smother it. Each round the omox maintains its grapple, its victim cannot breathe or speak. See page 445 of the Pathfinder RPG Core Rulebook for rules on how long a victim can hold its breath and the consequences of suffocation.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

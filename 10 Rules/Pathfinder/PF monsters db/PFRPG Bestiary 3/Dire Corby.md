@@ -56,7 +56,9 @@ Skills: Acrobatics +10, Climb +13, Perception +6, Stealth +8
 RacialMods: +8 Acrobatics, +2 Perception
 Languages: Undercommon
 SQ: 
-SpecialAbilities: Leap (Ex) A dire corby can perform a special kind of pounce attack by jumping into combat. When a dire corby charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it succeeds at this Acrobatics check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.
+SpecialAbilities:
+  Leap (Ex): >
+    A dire corby can perform a special kind of pounce attack by jumping into combat. When a dire corby charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it succeeds at this Acrobatics check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

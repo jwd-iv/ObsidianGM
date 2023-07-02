@@ -56,7 +56,13 @@ Skills: Bluff +18, Climb +14, Fly +27, Knowledge (dungeoneering) +17, Perception
 RacialMods: 
 Languages: Aklo; chemical communication
 SQ: 
-SpecialAbilities: Bloodsense (Su) A ghorazagh notices living creatures within 60 feet just as if it possessed the blindsight ability.  Bloodspray (Su) Once every 1d4 rounds, a ghorazagh can unleash a 20-foot cone of blood and eldritch enzymes. Any living creature struck by a ghorazagh's bloodspray must make a DC 25 Fortitude save or be affected as by the spell slow. A slowed creature struck by a ghorazagh's bloodspray a second time must make an additional save or be paralyzed. These effects last for 2d6 rounds. A ghorazagh can also consciously alter its enzymes, producing a spray that removes all effects of this ability. The save DC is Constitution-based.  Chemical Communication (Ex) Ghorazaghs can communicate with other ghorazaghs within 60 feet via pheromone transmission. In a ghorazagh hive, this range extends to cover the entire hive. This is a silent and instantaneous mode of communication that only ghorazaghs can understand.
+SpecialAbilities:
+  Bloodsense (Su): >
+    A ghorazagh notices living creatures within 60 feet just as if it possessed the blindsight ability.
+  Bloodspray (Su): >
+    Once every 1d4 rounds, a ghorazagh can unleash a 20-foot cone of blood and eldritch enzymes. Any living creature struck by a ghorazagh's bloodspray must make a DC 25 Fortitude save or be affected as by the spell slow. A slowed creature struck by a ghorazagh's bloodspray a second time must make an additional save or be paralyzed. These effects last for 2d6 rounds. A ghorazagh can also consciously alter its enzymes, producing a spray that removes all effects of this ability. The save DC is Constitution-based.
+  Chemical Communication (Ex): >
+    Ghorazaghs can communicate with other ghorazaghs within 60 feet via pheromone transmission. In a ghorazagh hive, this range extends to cover the entire hive. This is a silent and instantaneous mode of communication that only ghorazaghs can understand.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

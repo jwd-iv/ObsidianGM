@@ -56,8 +56,11 @@ Skills: Bluff +10, Disguise +12, Intimidate +10, Knowledge (arcana) +7, Knowledg
 RacialMods: 
 Languages: Abyssal, Celestial, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: >
-  Cursed Gaze (Su) Aghash's choice: confused for 1 round, shaken for 1 round, stunned for 1 round, or deals 1d4 points of damage, 30 feet, Fortitude DC 16 negates. Any creature under the effects of protection from evil is immune to an aghash's gaze. The save DC is Charisma-based.  Sandstorm (Su) Once per day, as a full-round action, an aghash can create a temporary sandstorm. This storm has a radius of 100 feet centered on the aghash and lasts for 1 minute per Hit Die the aghash possesses (typically 5). This functions as a sandstorm (Core Rulebook 431).
+SpecialAbilities:
+  Cursed Gaze (Su): >
+    Aghash's choice: confused for 1 round, shaken for 1 round, stunned for 1 round, or deals 1d4 points of damage, 30 feet, Fortitude DC 16 negates. Any creature under the effects of protection from evil is immune to an aghash's gaze. The save DC is Charisma-based.
+  Sandstorm (Su): >
+    Once per day, as a full-round action, an aghash can create a temporary sandstorm. This storm has a radius of 100 feet centered on the aghash and lasts for 1 minute per Hit Die the aghash possesses (typically 5). This functions as a sandstorm (Core Rulebook 431).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Acrobatics +9, Intimidate +10, Perception +10, Sense Motive +10, Stealth
 RacialMods: +4 Stealth, +4 Survival
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: change shape (beast shape II)
-SpecialAbilities: Change Shape (Su) A hound archon can assume any canine form of Small to Large size, as if using beast shape II. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any dog-like or wolf-like creature of the animal type.
+SpecialAbilities:
+  Change Shape (Su): >
+    A hound archon can assume any canine form of Small to Large size, as if using beast shape II. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any dog-like or wolf-like creature of the animal type.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

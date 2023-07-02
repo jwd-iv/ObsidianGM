@@ -56,7 +56,13 @@ Skills: Fly +27, Handle Animal +25, Heal +24, Knowledge (planes) +20, Perception
 RacialMods: 
 Languages: Celestial, Common; tongues
 SQ: battle trained, choose the slain, holy zeal
-SpecialAbilities: Battle Trained (Ex) A valkyrie is proficient with all armor. Armor never impacts a valkyrie's speed, nor does a valkyrie take armor check penalties on Ride checks.  Choose the Slain (Su) A valkyrie can draw the soul from a newly dead body and store it in her spear for transport to the Outer Planes. This functions as soul bind, but the dead creature must be willing to have its soul taken. If the creature is unwilling, this ability has no effect.  Holy Zeal (Su) A valkyrie adds her Charisma modifier as a deflection bonus to her Armor Class.
+SpecialAbilities:
+  Battle Trained (Ex): >
+    A valkyrie is proficient with all armor. Armor never impacts a valkyrie's speed, nor does a valkyrie take armor check penalties on Ride checks.
+  Choose the Slain (Su): >
+    A valkyrie can draw the soul from a newly dead body and store it in her spear for transport to the Outer Planes. This functions as soul bind, but the dead creature must be willing to have its soul taken. If the creature is unwilling, this ability has no effect.
+  Holy Zeal (Su): >
+    A valkyrie adds her Charisma modifier as a deflection bonus to her Armor Class.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

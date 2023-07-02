@@ -56,7 +56,9 @@ Skills: Bluff +10, Diplomacy +7, Fly +22, Handle Animal +9, Intimidate +15, Know
 RacialMods: Perception +8
 Languages: Celestial, Draconic, Infernal; speak with animals, truespeech
 SQ: lay on hands (4d6, 7/day, as a 9th-level paladin)
-SpecialAbilities: True Seeing (Su) This ability works like the spell (caster level 14th), except it only affects the avoral, the avoral must concentrate for 1 full round before it takes effect, and it remains as long as the avoral concentrates.
+SpecialAbilities:
+  True Seeing (Su): >
+    This ability works like the spell (caster level 14th), except it only affects the avoral, the avoral must concentrate for 1 full round before it takes effect, and it remains as long as the avoral concentrates.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

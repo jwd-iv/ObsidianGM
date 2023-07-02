@@ -56,7 +56,11 @@ Skills: Climb +17, Craft (any one) +8, Knowledge (history) +5, Perception +14, S
 RacialMods: +4 Climb, +4 Perception, +4 Stealth
 Languages: Common, Girtablilu
 SQ: scorpion empathy +10, undersized weapons
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves.  Scorpion Empathy (Ex) This ability functions as a druid's wild empathy ability, save that it works only on scorpions. A girtablilu gains a racial bonus on this check equal to its Hit Dice (normally +10). Scorpions are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing girtablilus to train scorpions and use them as guardians (though it does not grant them skills or feats).
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves.
+  Scorpion Empathy (Ex): >
+    This ability functions as a druid's wild empathy ability, save that it works only on scorpions. A girtablilu gains a racial bonus on this check equal to its Hit Dice (normally +10). Scorpions are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing girtablilus to train scorpions and use them as guardians (though it does not grant them skills or feats).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

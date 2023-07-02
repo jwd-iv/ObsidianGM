@@ -56,7 +56,13 @@ Skills: Climb +33, Perception +27, Swim +30
 RacialMods: 
 Languages: Common (can't speak)
 SQ: profane magic
-SpecialAbilities: Absorb Dying Creature (Su) A warsworn can consume any dying creature by moving into the same space. This immediately kills the creature, absorbs the corpse into the warsworn, and heals the warsworn by an amount equal to the creature's Constitution score. Absorbed corpses can't be resurrected by any effect short of a miracle or wish until the warsworn that consumed them is destroyed.  Profane Magic (Su) Protection from evil blocks attacks from a warsworn's spell-like abilities. Weapons animated by the warsworn are damaged by channeled energy as if undead.  Scrap Ball (Ex) The warsworn can throw a mass of broken weapons and armor. This deals an amount of damage equal to 2d6 + the warsworn's Strength modifier, and has a range increment of 20 feet.
+SpecialAbilities:
+  Absorb Dying Creature (Su): >
+    A warsworn can consume any dying creature by moving into the same space. This immediately kills the creature, absorbs the corpse into the warsworn, and heals the warsworn by an amount equal to the creature's Constitution score. Absorbed corpses can't be resurrected by any effect short of a miracle or wish until the warsworn that consumed them is destroyed.
+  Profane Magic (Su): >
+    Protection from evil blocks attacks from a warsworn's spell-like abilities. Weapons animated by the warsworn are damaged by channeled energy as if undead.
+  Scrap Ball (Ex): >
+    The warsworn can throw a mass of broken weapons and armor. This deals an amount of damage equal to 2d6 + the warsworn's Strength modifier, and has a range increment of 20 feet.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

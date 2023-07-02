@@ -56,7 +56,11 @@ Skills: Acrobatics +13 (+17 when jumping), Climb +12, Handle Animal +9, Heal +5,
 RacialMods: +8 Stealth in snow
 Languages: Adlet, Common
 SQ: arctic stride
-SpecialAbilities: Arctic Stride (Ex) An adlet can move through any sort of difficult terrain at its normal speed while within arctic or snowy terrain. Magically altered terrain affects an adlet normally.  Frozen Breath (Su) An adlet's breath is supernaturally cold, and deals an additional 1d6 points of cold damage with its bite. Once every 1d4 rounds as a swift action, it can exhale, filling a 10-footradius spread around it with frigid air that deals 2d6 points of cold damage and staggers those in the area with numbing cold for 1d6 rounds. A DC 21 Fortitude save negates the staggered effect but not the cold damage.  The save DC is Constitution-based.
+SpecialAbilities:
+  Arctic Stride (Ex): >
+    An adlet can move through any sort of difficult terrain at its normal speed while within arctic or snowy terrain. Magically altered terrain affects an adlet normally.
+  Frozen Breath (Su): >
+    An adlet's breath is supernaturally cold, and deals an additional 1d6 points of cold damage with its bite. Once every 1d4 rounds as a swift action, it can exhale, filling a 10-footradius spread around it with frigid air that deals 2d6 points of cold damage and staggers those in the area with numbing cold for 1d6 rounds. A DC 21 Fortitude save negates the staggered effect but not the cold damage.  The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

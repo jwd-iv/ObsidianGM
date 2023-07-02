@@ -56,7 +56,11 @@ Skills: Bluff +11, Intimidate +14, Knowledge (any one) +13, Perception +14, Spel
 RacialMods: 
 Languages: Aboleth, Aklo, Aquan, Undercommon
 SQ: 
-SpecialAbilities: Mucus Cloud (Ex) While underwater, an aboleth exudes a cloud of transparent slime. All creatures adjacent to an aboleth must succeed on a DC 20 Fortitude save each round or lose the ability to breathe air (but gain the ability to breathe water) for 3 hours. Renewed contact with an aboleth's mucus cloud and failing another save extends the effect for another 3 hours.  The save DC is Constitution-based.  Slime (Ex) A creature hit by an aboleth's tentacle must succeed on a DC 20 Fortitude save or his skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature's new "flesh" is soft and tender, reducing its Constitution score by 4 as long as it persists. If the creature's flesh isn't kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. Remove disease and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack. The save DC is Constitution-based.
+SpecialAbilities:
+  Mucus Cloud (Ex): >
+    While underwater, an aboleth exudes a cloud of transparent slime. All creatures adjacent to an aboleth must succeed on a DC 20 Fortitude save each round or lose the ability to breathe air (but gain the ability to breathe water) for 3 hours. Renewed contact with an aboleth's mucus cloud and failing another save extends the effect for another 3 hours.  The save DC is Constitution-based.
+  Slime (Ex): >
+    A creature hit by an aboleth's tentacle must succeed on a DC 20 Fortitude save or his skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature's new "flesh" is soft and tender, reducing its Constitution score by 4 as long as it persists. If the creature's flesh isn't kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. Remove disease and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

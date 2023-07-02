@@ -56,7 +56,9 @@ Skills: Climb +27, Knowledge (dungeoneering) +16, Knowledge (religion) +13, Perc
 RacialMods: +8 Stealth in stony or icy areas
 Languages: Aklo, Undercommon
 SQ: 
-SpecialAbilities: Strands (Ex) A roper can extend up to six thin, sticky strands from its body at a time, launching them to a maximum range of 50 feet. A roper's attacks with its strands resolve as ranged touch attacks. These strands are quite strong, but can be severed by any amount of slashing damage (a strand is AC 20). A creature struck by a strand is numbed and weakened by the strange material, and must make a DC 25 Fortitude save or take 1d6 points of Strength damage. The save DC is Constitution-based.
+SpecialAbilities:
+  Strands (Ex): >
+    A roper can extend up to six thin, sticky strands from its body at a time, launching them to a maximum range of 50 feet. A roper's attacks with its strands resolve as ranged touch attacks. These strands are quite strong, but can be severed by any amount of slashing damage (a strand is AC 20). A creature struck by a strand is numbed and weakened by the strange material, and must make a DC 25 Fortitude save or take 1d6 points of Strength damage. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

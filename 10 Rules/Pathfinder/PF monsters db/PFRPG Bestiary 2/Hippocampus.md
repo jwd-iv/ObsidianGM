@@ -56,7 +56,9 @@ Skills: Perception +6, Swim +11
 RacialMods: 
 Languages: 
 SQ: water dependency
-SpecialAbilities: Water Dependency (Ex) A hippocampus can survive out of the water for 1 minute per point of Constitution.  Beyond this limit, a hippocampus runs the risk of suffocation, as if it were drowning.
+SpecialAbilities:
+  Water Dependency (Ex): >
+    A hippocampus can survive out of the water for 1 minute per point of Constitution.  Beyond this limit, a hippocampus runs the risk of suffocation, as if it were drowning.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

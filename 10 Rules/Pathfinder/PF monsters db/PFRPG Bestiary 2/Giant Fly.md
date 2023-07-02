@@ -56,8 +56,9 @@ Skills: Climb +9, Fly +7, Perception +2
 RacialMods: +4 Perception
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Disease (Ex) Filth Fever: Bite-injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. Some flies might carry other diseases, at the GM's discretion. The save DC is Constitution-based.
+SpecialAbilities:
+  Disease (Ex): >
+    Filth Fever: Bite-injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. Some flies might carry other diseases, at the GM's discretion. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Perception +11, Swim +13
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Anchor (Ex) As a move action, a seahorse can wrap its tail around a stationary object. The seahorse remains anchored to the object until it releases its grip (a free action) or is forcibly moved. An anchored seahorse gains a +4 bonus to its combat maneuver defense and on checks and saving throws against effects that would move it against its will.
+SpecialAbilities:
+  Anchor (Ex): >
+    As a move action, a seahorse can wrap its tail around a stationary object. The seahorse remains anchored to the object until it releases its grip (a free action) or is forcibly moved. An anchored seahorse gains a +4 bonus to its combat maneuver defense and on checks and saving throws against effects that would move it against its will.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Appraise +12, Bluff +13, Diplomacy +11, Intimidate +18, Knowledge (arcan
 RacialMods: 
 Languages: Common, Draconic, one or more planar  languages; tongues
 SQ: 
-SpecialAbilities: Absorb Force (Su) Once per round, a witchwyrd can use a free hand to "catch" a magic missile fired at it. This absorbs the missile and manifests as a glowing nimbus around that hand (which is no longer considered free). The energy lasts 6 rounds or until it is used to create a force bolt. To use this ability, the witchwyrd must be aware of the incoming magic missile and cannot be flat-footed.  Force Bolt (Su) A witchwyrd can "throw" a magic missile (1d4+1 damage) from each free hand as a free action (maximum of two per round). If it has absorbed a magic missile, it can throw an additional force bolt that round, expending the absorbed energy (maximum of two additional bolts per round).
+SpecialAbilities:
+  Absorb Force (Su): >
+    Once per round, a witchwyrd can use a free hand to "catch" a magic missile fired at it. This absorbs the missile and manifests as a glowing nimbus around that hand (which is no longer considered free). The energy lasts 6 rounds or until it is used to create a force bolt. To use this ability, the witchwyrd must be aware of the incoming magic missile and cannot be flat-footed.
+  Force Bolt (Su): >
+    A witchwyrd can "throw" a magic missile (1d4+1 damage) from each free hand as a free action (maximum of two per round). If it has absorbed a magic missile, it can throw an additional force bolt that round, expending the absorbed energy (maximum of two additional bolts per round).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Escape Artist +17, Fly +9, Intimidate +15, Knowledge (nature) +13, Knowl
 RacialMods: +4 Knowledge (planes), +8 Stealth
 Languages: Aklo, Common
 SQ: 
-SpecialAbilities: Entropic Flesh (Ex) Any creature that hits a sceaduinar with a melee attack takes 1d6 points of negative energy damage. Attacking with a weapon that provides reach allows a creature to avoid taking this damage.  Entropic Touch (Ex) A sceaduinar's natural attacks can strike incorporeal creatures as if they were ghost touch weapons. All of a sceaduinar's natural attacks deal +1d6 points of negative energy damage to the target. This energy does not heal creatures healed by inflict spells.  Void Child (Ex) Sceaduinars are immune to effects that target souls (such as trap the soul) or require knowledge of a creature's identity (such as scrying). When one is slain, it cannot be restored to life by magic save by a miracle or wish, or by divine intervention.
+SpecialAbilities:
+  Entropic Flesh (Ex): >
+    Any creature that hits a sceaduinar with a melee attack takes 1d6 points of negative energy damage. Attacking with a weapon that provides reach allows a creature to avoid taking this damage.
+  Entropic Touch (Ex): >
+    A sceaduinar's natural attacks can strike incorporeal creatures as if they were ghost touch weapons. All of a sceaduinar's natural attacks deal +1d6 points of negative energy damage to the target. This energy does not heal creatures healed by inflict spells.
+  Void Child (Ex): >
+    Sceaduinars are immune to effects that target souls (such as trap the soul) or require knowledge of a creature's identity (such as scrying). When one is slain, it cannot be restored to life by magic save by a miracle or wish, or by divine intervention.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

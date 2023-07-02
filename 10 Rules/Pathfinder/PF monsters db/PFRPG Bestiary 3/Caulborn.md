@@ -56,7 +56,17 @@ Skills: Acrobatics +12, Appraise +12, Bluff +14, Intimidate +14, Knowledge (all)
 RacialMods: 
 Languages: Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Giant, Infernal; telepathy 100 ft.
 SQ: cooperative scrying, hive mind
-SpecialAbilities: Consume Thoughts (Ex) A caulborn can consume the thoughts of  a willing, helpless, or fascinated creature with a touch attack. If the target fails a DC 18 Will save, the caulborn can alter the victim's memory as if using modify memory. This process deals 1d4 points of Intelligence and Wisdom damage to the target. The save DC is Charisma-based.  Cooperative Scrying (Sp) Three or more caulborn joining hands can scry on a place or creature as if using the scrying spell (DC 20), but with no limit to the spell's duration so long as at least three of the caulborn involved continue to join hands and concentrate. This ability functions at CL 7th (or at the highest CL available to the most powerful caulborn in the group). The save DC is Charisma-based, adjusted by the modifier of the caulborn with the highest Charisma score.  Hive Mind (Ex) As long as there are at least two caulborn within 300 feet of each other, if one caulborn in the group is aware of a particular danger, they all are. No caulborn in a group is considered flanked or flat-footed unless all of them are.  Psychic Deflection (Su) A caulborn adds its Charisma modifier as a deflection bonus to its AC. The caulborn loses this bonus when unconscious.  Thoughtsense (Su) A caulborn notices and locates living, conscious creatures within 60 feet, just as if it possessed the blindsight ability. Spells such as nondetection or mind blank make an affected creature undetectable by this sense.
+SpecialAbilities:
+  Consume Thoughts (Ex): >
+    A caulborn can consume the thoughts of  a willing, helpless, or fascinated creature with a touch attack. If the target fails a DC 18 Will save, the caulborn can alter the victim's memory as if using modify memory. This process deals 1d4 points of Intelligence and Wisdom damage to the target. The save DC is Charisma-based.
+  Cooperative Scrying (Sp): >
+    Three or more caulborn joining hands can scry on a place or creature as if using the scrying spell (DC 20), but with no limit to the spell's duration so long as at least three of the caulborn involved continue to join hands and concentrate. This ability functions at CL 7th (or at the highest CL available to the most powerful caulborn in the group). The save DC is Charisma-based, adjusted by the modifier of the caulborn with the highest Charisma score.
+  Hive Mind (Ex): >
+    As long as there are at least two caulborn within 300 feet of each other, if one caulborn in the group is aware of a particular danger, they all are. No caulborn in a group is considered flanked or flat-footed unless all of them are.
+  Psychic Deflection (Su): >
+    A caulborn adds its Charisma modifier as a deflection bonus to its AC. The caulborn loses this bonus when unconscious.
+  Thoughtsense (Su): >
+    A caulborn notices and locates living, conscious creatures within 60 feet, just as if it possessed the blindsight ability. Spells such as nondetection or mind blank make an affected creature undetectable by this sense.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

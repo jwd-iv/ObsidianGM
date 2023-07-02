@@ -56,7 +56,11 @@ Skills: Perception +5, Stealth +16
 RacialMods: +8 Stealth
 Languages: Common,  Undercommon
 SQ: camouflaged step, chameleon skin
-SpecialAbilities: Camouflaged Step (Ex) Skulks can pass through forest and subterranean settings almost without a trace. Add +10 to the DC to track a skulk in these environments.  Chameleon Skin (Ex) A skulk's racial bonus to Stealth comes from his ability to change the color of his skin to match his surroundings, even complex or regular patterns like bricks and mortar. A skulk loses this conditional bonus if he is wearing armor, or if he wears any clothing that covers more than one-quarter of his body, as skulks can only change their own flesh, not things they carry. A skulk normally conceals small items behind his body; by putting his back to a wall and changing his front half, he can hide the item because observers don't have line of sight to the item.
+SpecialAbilities:
+  Camouflaged Step (Ex): >
+    Skulks can pass through forest and subterranean settings almost without a trace. Add +10 to the DC to track a skulk in these environments.
+  Chameleon Skin (Ex): >
+    A skulk's racial bonus to Stealth comes from his ability to change the color of his skin to match his surroundings, even complex or regular patterns like bricks and mortar. A skulk loses this conditional bonus if he is wearing armor, or if he wears any clothing that covers more than one-quarter of his body, as skulks can only change their own flesh, not things they carry. A skulk normally conceals small items behind his body; by putting his back to a wall and changing his front half, he can hide the item because observers don't have line of sight to the item.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

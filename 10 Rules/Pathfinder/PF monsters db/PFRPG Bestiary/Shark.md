@@ -56,7 +56,9 @@ Skills: Perception +8, Swim +11
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Keen Scent (Ex) A shark can notice creatures by scent in a 180-foot radius underwater and can detect blood in the water at ranges of up to a mile.
+SpecialAbilities:
+  Keen Scent (Ex): >
+    A shark can notice creatures by scent in a 180-foot radius underwater and can detect blood in the water at ranges of up to a mile.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

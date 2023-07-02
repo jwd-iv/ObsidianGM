@@ -56,7 +56,9 @@ Skills: Climb +10, Perception +10
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Steam Cloud (Ex) As a standard action, a steam hog can emit a cloud of steam from its snout in a 10-foot-radius spread. The initial burst of steam deals 2d6 points of fire damage to any creature in the area. The cloud remains for 1d4 rounds once created, acting as a 10-foot-radius obscuring mist. Any creature that begins its turn in the area of the steam must succeed at a DC 18 Fortitude save or take 1d6 points of fire damage. A steam hog can use its steam cloud only once every 1d6 rounds. The save DC is Constitution-based.
+SpecialAbilities:
+  Steam Cloud (Ex): >
+    As a standard action, a steam hog can emit a cloud of steam from its snout in a 10-foot-radius spread. The initial burst of steam deals 2d6 points of fire damage to any creature in the area. The cloud remains for 1d4 rounds once created, acting as a 10-foot-radius obscuring mist. Any creature that begins its turn in the area of the steam must succeed at a DC 18 Fortitude save or take 1d6 points of fire damage. A steam hog can use its steam cloud only once every 1d6 rounds. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Bluff +9 (+13 while using change shape ability), Diplomacy +4, Disguise 
 RacialMods: +4 Bluff, +4 Disguise
 Languages: Common
 SQ: change shape (alter self ), perfect copy,  mimicry
-SpecialAbilities: Mimicry (Ex) A doppelganger is proficient in all weapons, armor, and shields. In addition, a doppelganger can use any spell trigger or spell completion item as if the spells were on its spell list.  Its caster level is equal to its racial Hit Dice.  Perfect Copy (Su) When a doppelganger uses change shape, it can assume the appearance of specific individuals.
+SpecialAbilities:
+  Mimicry (Ex): >
+    A doppelganger is proficient in all weapons, armor, and shields. In addition, a doppelganger can use any spell trigger or spell completion item as if the spells were on its spell list.  Its caster level is equal to its racial Hit Dice.
+  Perfect Copy (Su): >
+    When a doppelganger uses change shape, it can assume the appearance of specific individuals.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

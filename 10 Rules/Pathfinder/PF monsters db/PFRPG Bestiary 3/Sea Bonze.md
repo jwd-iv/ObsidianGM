@@ -56,7 +56,9 @@ Skills: Intimidate +41, Perception +33, Sense Motive +33, Stealth +13, Swim +47
 RacialMods: +4 Swim
 Languages: Aquan, Common
 SQ: 
-SpecialAbilities: Dooming Gaze (Su) Paralyzed with fear for 1 round, 60 feet, Will DC 27 negates. A creature that is already paralyzed by this gaze attack and fails a saving throw to resist being paralyzed for 1 more round gains 1 negative level (Fortitude DC 27 to remove after 24 hours). The paralysis effect of this gaze is a mind-affecting fear effect, but the negative level is not. The save DC is Charisma-based.
+SpecialAbilities:
+  Dooming Gaze (Su): >
+    Paralyzed with fear for 1 round, 60 feet, Will DC 27 negates. A creature that is already paralyzed by this gaze attack and fails a saving throw to resist being paralyzed for 1 more round gains 1 negative level (Fortitude DC 27 to remove after 24 hours). The paralysis effect of this gaze is a mind-affecting fear effect, but the negative level is not. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,11 @@ Skills: Climb +10
 RacialMods: uses Dex on Climb checks
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Cling (Ex) If a creature leaves a tick swarm's square, the swarm takes 1d6 points of damage to reflect the loss of its numbers as several ticks cling to the victim. A creature with ticks clinging to it takes swarm damage at the end of its turn each round. As a full round action, the creature can remove the ticks with a DC 20 Reflex save. At least 10 points of damage from any area effect destroys all clinging ticks. The save DC is Dexterity-based.  Disease (Ex) Bubonic Plague: Bite- injury; save Fort DC 21; onset 1 day; frequency 1/day; effect 1d4 Con damage, 1 Cha damage, fatigue; cure 2 consecutive saves. The DC is Con-based.
+SpecialAbilities:
+  Cling (Ex): >
+    If a creature leaves a tick swarm's square, the swarm takes 1d6 points of damage to reflect the loss of its numbers as several ticks cling to the victim. A creature with ticks clinging to it takes swarm damage at the end of its turn each round. As a full round action, the creature can remove the ticks with a DC 20 Reflex save. At least 10 points of damage from any area effect destroys all clinging ticks. The save DC is Dexterity-based.
+  Disease (Ex): >
+    Bubonic Plague: Bite- injury; save Fort DC 21; onset 1 day; frequency 1/day; effect 1d4 Con damage, 1 Cha damage, fatigue; cure 2 consecutive saves. The DC is Con-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

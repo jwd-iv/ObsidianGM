@@ -56,7 +56,11 @@ Skills: Climb +23, Perception +33, Swim +23
 RacialMods: +4 Perception
 Languages: Aklo
 SQ: amphibious
-SpecialAbilities: All-Around Vision (Ex) A shoggoth's many sense organs grant a +4 racial bonus on Perception and immunity to flanking.  Maddening Cacophony (Su) As a free action, a shoggoth can give voice to sounds and words sane life was not meant to hear. All creatures in a 60-foot radius must make a DC 22 Will save or be confused for 1d6 rounds. Each round a creature is affected it takes 1d6 points of Wisdom damage. A creature that saves cannot be affected by this shoggoth's maddening cacophony for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.  Engulf (Ex) To use this ability, the shoggoth must begin its turn grappling a creature or must trample. A shoggoth may attempt to engulf as many creatures as it grapples or tramples in a round. This ability otherwise functions as swallow whole, save that a creature that cuts is way out of a shoggoth leaves no hole in the protoplasmic creature's body.
+SpecialAbilities: All-Around Vision (Ex) A shoggoth's many sense organs grant a +4 racial bonus on Perception and immunity to flanking.
+  Maddening Cacophony (Su): >
+    As a free action, a shoggoth can give voice to sounds and words sane life was not meant to hear. All creatures in a 60-foot radius must make a DC 22 Will save or be confused for 1d6 rounds. Each round a creature is affected it takes 1d6 points of Wisdom damage. A creature that saves cannot be affected by this shoggoth's maddening cacophony for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+  Engulf (Ex): >
+    To use this ability, the shoggoth must begin its turn grappling a creature or must trample. A shoggoth may attempt to engulf as many creatures as it grapples or tramples in a round. This ability otherwise functions as swallow whole, save that a creature that cuts is way out of a shoggoth leaves no hole in the protoplasmic creature's body.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

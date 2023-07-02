@@ -56,7 +56,11 @@ Skills: Fly -1, Stealth +5 (+9 in forests and jungles), Survival +1 (+5 in fores
 RacialMods: +4 Stealth and Survival in forests and jungles
 Languages: Druidic, Sylvan; plantspeech (trees)
 SQ: change shape (Small tree; tree shape), verdant burst
-SpecialAbilities: Glide (Ex) A leaf leshy cannot use its fly speed to hover. When flying, a leaf leshy must end its movement at least 5 feet lower in elevation than it started.  Seedpods (Ex) Leaf leshys sprout explosive acorns, pine cones, or other seedpods, and can hurl these as ranged attacks. A seedpod has a range increment of 10 feet and detonates on contact to deal 1 point of bludgeoning damage (this damage is not modified by Strength). Anyone struck by a seedpod must succeed at a DC 11 Fortitude save or be deafened for 1 round. The save DC is Constitution-based.
+SpecialAbilities:
+  Glide (Ex): >
+    A leaf leshy cannot use its fly speed to hover. When flying, a leaf leshy must end its movement at least 5 feet lower in elevation than it started.
+  Seedpods (Ex): >
+    Leaf leshys sprout explosive acorns, pine cones, or other seedpods, and can hurl these as ranged attacks. A seedpod has a range increment of 10 feet and detonates on contact to deal 1 point of bludgeoning damage (this damage is not modified by Strength). Anyone struck by a seedpod must succeed at a DC 11 Fortitude save or be deafened for 1 round. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

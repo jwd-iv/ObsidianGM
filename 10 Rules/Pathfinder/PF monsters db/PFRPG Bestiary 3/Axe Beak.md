@@ -56,7 +56,9 @@ Skills: Perception +9
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Sudden Charge (Ex) When making a charge attack, an axe beak makes a single bite attack. If successful, it may also attempt to trip its opponent as a free action without provoking an attack of opportunity. If the attempt fails, the axe beak cannot be tripped in return.
+SpecialAbilities:
+  Sudden Charge (Ex): >
+    When making a charge attack, an axe beak makes a single bite attack. If successful, it may also attempt to trip its opponent as a free action without provoking an attack of opportunity. If the attempt fails, the axe beak cannot be tripped in return.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

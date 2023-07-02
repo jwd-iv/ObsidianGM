@@ -56,7 +56,11 @@ Skills: Climb +11
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Filament (Ex) A cave fisher can fire a thin filament of sticky silk as a standard action. This touch attack has a range of 60 feet and no range increment. A creature struck by a cave fisher's filament becomes attached to the sticky thread. As a standard action, a creature can rip the filament free with a DC 20 Strength check. A caught creature can also attempt to escape a filament by making a DC 25 Escape Artist check. A filament is AC 14 (touch 12), has 5 hit points, and has DR 15/slashing. An application of liquid with high alcohol content (or a dose of universal solvent) dissolves the adhesive and releases the creature caught by the filament. A cave fisher can have only one filament active at a time.  Pull (Ex) A cave fisher has a +4 racial bonus on CMB checks made using its pull special attack.
+SpecialAbilities:
+  Filament (Ex): >
+    A cave fisher can fire a thin filament of sticky silk as a standard action. This touch attack has a range of 60 feet and no range increment. A creature struck by a cave fisher's filament becomes attached to the sticky thread. As a standard action, a creature can rip the filament free with a DC 20 Strength check. A caught creature can also attempt to escape a filament by making a DC 25 Escape Artist check. A filament is AC 14 (touch 12), has 5 hit points, and has DR 15/slashing. An application of liquid with high alcohol content (or a dose of universal solvent) dissolves the adhesive and releases the creature caught by the filament. A cave fisher can have only one filament active at a time.
+  Pull (Ex): >
+    A cave fisher has a +4 racial bonus on CMB checks made using its pull special attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

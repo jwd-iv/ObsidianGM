@@ -56,7 +56,13 @@ Skills: Climb +18, Perception +6, Stealth +7
 RacialMods: 
 Languages: Aklo
 SQ: 
-SpecialAbilities: Ethereal Ambush (Ex) A phase spider that attacks foes on the Material Plane in a surprise round can take a full round of actions if it begins the combat by phasing into the Material Plane from the Ethereal Plane.  Ethereal Jaunt (Su) A phase spider can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action (or as part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).  Poison (Ex) Bite-injury; save Fort DC 18; frequency 1/round for 8 rounds; effect 1d2 Constitution damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Ethereal Ambush (Ex): >
+    A phase spider that attacks foes on the Material Plane in a surprise round can take a full round of actions if it begins the combat by phasing into the Material Plane from the Ethereal Plane.
+  Ethereal Jaunt (Su): >
+    A phase spider can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action (or as part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
+  Poison (Ex): >
+    Bite-injury; save Fort DC 18; frequency 1/round for 8 rounds; effect 1d2 Constitution damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

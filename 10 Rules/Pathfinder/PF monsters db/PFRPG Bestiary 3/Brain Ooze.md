@@ -56,7 +56,13 @@ Skills: Bluff +10, Diplomacy +5, Fly +25, Perception +11, Sense Motive +11, Stea
 RacialMods: 
 Languages: Aklo (cannot speak); telepathy 100 ft.
 SQ: 
-SpecialAbilities: Neural Pulse (Su) Creatures hit by a brain ooze's tentacle must succeed at a DC 18 Fortitude save or take 1d6 points of Intelligence damage and be staggered for 1d4 rounds. Each time a brain ooze causes Intelligence damage, it gains 5 temporary hit points. The save DC is Constitution-based.  Prescience (Su) Limited precognitive abilities grant a brain ooze a +2 insight bonus on initiative checks, on Reflex saves, and to its Armor Class. Brain oozes are never surprised or flat-footed.  Psychic Noise (Su) The discordant psychic noise emitted by  a brain ooze dazes nearby creatures for 1d4 rounds. When a creature begins its turn within the aura, it must succeed at a DC 19 Will save to negate this effect. Whether or not the save is successful, that creature cannot be affected again by the same brain ooze's psychic noise for 24 hours. An affected creature may attempt a new save to shake off the effect at the end of each of its turns. This is a mind-affecting effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Neural Pulse (Su): >
+    Creatures hit by a brain ooze's tentacle must succeed at a DC 18 Fortitude save or take 1d6 points of Intelligence damage and be staggered for 1d4 rounds. Each time a brain ooze causes Intelligence damage, it gains 5 temporary hit points. The save DC is Constitution-based.
+  Prescience (Su): >
+    Limited precognitive abilities grant a brain ooze a +2 insight bonus on initiative checks, on Reflex saves, and to its Armor Class. Brain oozes are never surprised or flat-footed.
+  Psychic Noise (Su): >
+    The discordant psychic noise emitted by  a brain ooze dazes nearby creatures for 1d4 rounds. When a creature begins its turn within the aura, it must succeed at a DC 19 Will save to negate this effect. Whether or not the save is successful, that creature cannot be affected again by the same brain ooze's psychic noise for 24 hours. An affected creature may attempt a new save to shake off the effect at the end of each of its turns. This is a mind-affecting effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

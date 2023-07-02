@@ -56,7 +56,15 @@ Skills: Acrobatics +19 (+23 jump), Escape Artist +19, Intimidate +19, Knowledge 
 RacialMods: 
 Languages: Abyssal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Aura of Misfortune (Su) A chernobue radiates an aura of evil malaise to a radius of 30 feet. All lawful or good creatures in this area take a -1 penalty on attack rolls and weapon damage rolls. Lawful good creatures take a -3 penalty and upon first entering the aura must make a DC 20 Fortitude save or be sickened for as long as they remain in the area.  This ability is Charisma-based.  Horrific Appearance (Su) Creatures that succumb to a chernobue's horrific appearance become paralyzed with disgust for 2d6 rounds; a paralyzed creature gets a new save each round to recover from the effect, provided he is no longer aware of the chernobue or within 30 feet of it.  Light Vulnerability (Ex) A chernobue within an area of bright light takes 1 point of Constitution damage per minute it remains in the area.  Poison (Su) Bite-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d2 Con drain; cure 1 save. The thick, orange poison injected by a chernobue is semi-alive. As soon as the poisoned victim is cured of the poison (by making a save, being targeted with an effect like neutralize poison, or enduring the full duration of the poison), the orange fluid bursts from the victim's body, causing 1d6 Charisma damage and rendering the victim unconscious for 2d6 rounds unless he makes a final DC 23 Fortitude save. The save DC is Constitution-based.
+SpecialAbilities:
+  Aura of Misfortune (Su): >
+    A chernobue radiates an aura of evil malaise to a radius of 30 feet. All lawful or good creatures in this area take a -1 penalty on attack rolls and weapon damage rolls. Lawful good creatures take a -3 penalty and upon first entering the aura must make a DC 20 Fortitude save or be sickened for as long as they remain in the area.  This ability is Charisma-based.
+  Horrific Appearance (Su): >
+    Creatures that succumb to a chernobue's horrific appearance become paralyzed with disgust for 2d6 rounds; a paralyzed creature gets a new save each round to recover from the effect, provided he is no longer aware of the chernobue or within 30 feet of it.
+  Light Vulnerability (Ex): >
+    A chernobue within an area of bright light takes 1 point of Constitution damage per minute it remains in the area.
+  Poison (Su): >
+    Bite-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d2 Con drain; cure 1 save. The thick, orange poison injected by a chernobue is semi-alive. As soon as the poisoned victim is cured of the poison (by making a save, being targeted with an effect like neutralize poison, or enduring the full duration of the poison), the orange fluid bursts from the victim's body, causing 1d6 Charisma damage and rendering the victim unconscious for 2d6 rounds unless he makes a final DC 23 Fortitude save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

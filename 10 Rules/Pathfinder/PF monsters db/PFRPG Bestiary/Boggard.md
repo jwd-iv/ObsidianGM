@@ -56,7 +56,15 @@ Skills: Acrobatics +2 (+14 jumping), Stealth -1 (+7 in swamps), Swim +10
 RacialMods: +16 Acrobatics when jumping, +4 Perception, +8 Stealth in swamps
 Languages: Boggard
 SQ: hold breath, swamp stride
-SpecialAbilities: Hold Breath (Ex) A boggard can hold its breath for a number of rounds equal to four times its Constitution score before it risks drowning or suffocating. Sticky Tongue (Ex) A creature hit by a boggard's tongue attack cannot move more than 10 feet away from the boggard and takes a -2 penalty to AC as long as the tongue is attached (this penalty does not stack if multiple tongues are attached). The tongue can be removed by making an opposed Strength check as a standard action or by dealing 2 points of slashing damage to the tongue (AC 11, damage does not deplete the boggard's actual hit points). The boggard cannot move more than 10 feet away from the target, but the boggard can release its tongue as a free action. Unlike a giant frog, a boggard cannot pull targets toward it with its tongue. Swamp Stride (Ex) A boggard can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a boggard normally. Terrifying Croak (Su) Once per hour, a boggard can, as a standard action, emit a loud and horrifying croak. Any nonboggard creature within 30 feet of the boggard must make a DC 13 Will save or become shaken for 1d4 rounds. Creatures that succeed at this save cannot be affected again by the same boggard's croak for 24 hours. Creatures that are already shaken become frightened for 1d4 rounds instead. The save DC is Charisma-based and includes a +2 racial bonus.
+SpecialAbilities:
+  Hold Breath (Ex): >
+    A boggard can hold its breath for a number of rounds equal to four times its Constitution score before it risks drowning or suffocating.
+  Sticky Tongue (Ex): >
+    A creature hit by a boggard's tongue attack cannot move more than 10 feet away from the boggard and takes a -2 penalty to AC as long as the tongue is attached (this penalty does not stack if multiple tongues are attached). The tongue can be removed by making an opposed Strength check as a standard action or by dealing 2 points of slashing damage to the tongue (AC 11, damage does not deplete the boggard's actual hit points). The boggard cannot move more than 10 feet away from the target, but the boggard can release its tongue as a free action. Unlike a giant frog, a boggard cannot pull targets toward it with its tongue.
+  Swamp Stride (Ex): >
+    A boggard can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a boggard normally.
+  Terrifying Croak (Su): >
+    Once per hour, a boggard can, as a standard action, emit a loud and horrifying croak. Any nonboggard creature within 30 feet of the boggard must make a DC 13 Will save or become shaken for 1d4 rounds. Creatures that succeed at this save cannot be affected again by the same boggard's croak for 24 hours. Creatures that are already shaken become frightened for 1d4 rounds instead. The save DC is Charisma-based and includes a +2 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

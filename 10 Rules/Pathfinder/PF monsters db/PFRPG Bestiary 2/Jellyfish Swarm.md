@@ -56,7 +56,9 @@ Skills: Swim +9, Stealth +29
 RacialMods: Stealth +16
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Swarm-injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves.
+SpecialAbilities:
+  Poison (Ex): >
+    Swarm-injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

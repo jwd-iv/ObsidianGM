@@ -56,7 +56,13 @@ Skills: Fly +5, Perception +10, Stealth +7
 RacialMods: 
 Languages: Common (can't speak); telepathy 120 ft. (other lunarma only)
 SQ: no breath
-SpecialAbilities: Barbed Carapace (Ex) A lunarma's carapace is covered in jagged barbs. Any creature that grapples a lunarma or attacks it with unarmed strikes or natural weapons takes 1d4 points of damage from the vicious barbs. Using a reach weapon does not endanger the attacker this way.  Breath Weapon (Su) The acid from a lunarma's breath weapon lasts for 1d4 additional rounds, dealing 2d6 points of acid damage on its turn to any creature that took damage from the breath weapon. Washing off the acid with water or other liquid is a full-round action that ends the continuing damage.  Implant Eggs (Ex) As a full-round action, a lunarma can lay 2d6 eggs in a helpless creature. The eggs hatch after 24 hours and each deals 1 point of Con damage per hour as they feed on the host. After 1d2 days of eating, the larvae crawl out and find a safe place to mature into adults. A remove disease spell rids a creature of all implanted eggs or larvae, or they can be removed one at a time by using the Heal skill to treat deadly wounds.
+SpecialAbilities:
+  Barbed Carapace (Ex): >
+    A lunarma's carapace is covered in jagged barbs. Any creature that grapples a lunarma or attacks it with unarmed strikes or natural weapons takes 1d4 points of damage from the vicious barbs. Using a reach weapon does not endanger the attacker this way.
+  Breath Weapon (Su): >
+    The acid from a lunarma's breath weapon lasts for 1d4 additional rounds, dealing 2d6 points of acid damage on its turn to any creature that took damage from the breath weapon. Washing off the acid with water or other liquid is a full-round action that ends the continuing damage.
+  Implant Eggs (Ex): >
+    As a full-round action, a lunarma can lay 2d6 eggs in a helpless creature. The eggs hatch after 24 hours and each deals 1 point of Con damage per hour as they feed on the host. After 1d2 days of eating, the larvae crawl out and find a safe place to mature into adults. A remove disease spell rids a creature of all implanted eggs or larvae, or they can be removed one at a time by using the Heal skill to treat deadly wounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

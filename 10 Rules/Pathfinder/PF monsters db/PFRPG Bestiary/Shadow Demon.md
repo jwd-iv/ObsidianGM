@@ -56,7 +56,13 @@ Skills: Acrobatics +14, Bluff +14, Fly +22, Knowledge (local) +12, Knowledge (pl
 RacialMods: +8 Perception
 Languages: Abyssal, Common; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Sprint (Ex) Once per minute, a shadow demon increase its fly speed to 240 feet for 1 round. Shadow Blend (Su) During any conditions other than bright light, a shadow demon can disappear into the shadows as a moveequivalent action, effectively becoming invisible. Artificial illumination or light spells of 2nd level or lower do not negate this ability. Sunlight Powerlessness (Ex) A shadow demon is utterly powerless in bright light or natural sunlight and flees from it. A shadow demon caught in such light cannot attack and can take only a single move or standard action. A shadow demon that is possessing a creature using magic jar is not harmed by sunlight, but if it is struck by a sunbeam or sunburst spell while possessing a creature, the shadow demon is driven out of its host automatically.
+SpecialAbilities:
+  Sprint (Ex): >
+    Once per minute, a shadow demon increase its fly speed to 240 feet for 1 round.
+  Shadow Blend (Su): >
+    During any conditions other than bright light, a shadow demon can disappear into the shadows as a moveequivalent action, effectively becoming invisible. Artificial illumination or light spells of 2nd level or lower do not negate this ability.
+  Sunlight Powerlessness (Ex): >
+    A shadow demon is utterly powerless in bright light or natural sunlight and flees from it. A shadow demon caught in such light cannot attack and can take only a single move or standard action. A shadow demon that is possessing a creature using magic jar is not harmed by sunlight, but if it is struck by a sunbeam or sunburst spell while possessing a creature, the shadow demon is driven out of its host automatically.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

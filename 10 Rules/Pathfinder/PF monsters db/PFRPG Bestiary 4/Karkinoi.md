@@ -56,7 +56,11 @@ Skills: Intimidate +9, Perception +11, Swim +21
 RacialMods: 
 Languages: Aquan
 SQ: water dependency
-SpecialAbilities: Sideways Scuttle (Ex) When a karkinoi takes a 5-foot step, it can move up to 10 feet instead of 5 feet as long as it does so in a straight line. It can do this whether it is walking or swimming.  Water Dependency (Ex) A karkinoi can survive out of the water for 1 hour per point of Constitution. Beyond this limit, it runs the risk of suffocation, as if it were drowning.
+SpecialAbilities:
+  Sideways Scuttle (Ex): >
+    When a karkinoi takes a 5-foot step, it can move up to 10 feet instead of 5 feet as long as it does so in a straight line. It can do this whether it is walking or swimming.
+  Water Dependency (Ex): >
+    A karkinoi can survive out of the water for 1 hour per point of Constitution. Beyond this limit, it runs the risk of suffocation, as if it were drowning.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

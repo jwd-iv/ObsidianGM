@@ -56,7 +56,11 @@ Skills: Acrobatics +24 (+36 jump), Handle Animal +19, Intimidate +19, Knowledge 
 RacialMods: +4 Acrobatics, +4 Stealth
 Languages: Celestial, Draconic, Infernal; speak with animals, truespeech
 SQ: lay on hands (7d6, 9/day, as a 14th-level paladin)
-SpecialAbilities: Protective Aura (Su) Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the leonal. Otherwise, it functions as a magic circle against evil effect and a lesser globe of invulnerability, both with a radius of 20 feet (caster level equals leonal's HD). The defensive benefits from the circle are not included in a leonal's stat block.  Roar (Su) Up to three times per day, a leonal can emit a powerful roar as a standard action. Each roar affects a 60- foot cone with the effects of a holy word spell and also deals 2d6 points of sonic damage to all creatures in the area (DC 21 Fortitude negates). This is a sonic effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Protective Aura (Su): >
+    Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the leonal. Otherwise, it functions as a magic circle against evil effect and a lesser globe of invulnerability, both with a radius of 20 feet (caster level equals leonal's HD). The defensive benefits from the circle are not included in a leonal's stat block.
+  Roar (Su): >
+    Up to three times per day, a leonal can emit a powerful roar as a standard action. Each roar affects a 60- foot cone with the effects of a holy word spell and also deals 2d6 points of sonic damage to all creatures in the area (DC 21 Fortitude negates). This is a sonic effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

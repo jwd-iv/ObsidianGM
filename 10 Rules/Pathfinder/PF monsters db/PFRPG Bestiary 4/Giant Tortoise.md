@@ -56,7 +56,13 @@ Skills: Perception +7 (+3 for sound-based checks)
 RacialMods: -4 Perception for sound-based checks
 Languages: 
 SQ: buoyant, shell, slow and steady
-SpecialAbilities: Buoyant (Ex) A tortoise that fails a Swim check by 5 or more does not sink.  Shell (Ex) As a move action, a tortoise can pull its extremities and head into its shell. It can't move or attack as long as it remains in this state, but its armor bonus from natural armor increases by 4 as long as it does. It may end this state as a move action.  Slow and Steady (Ex) A tortoise's speed is never modified by armor or encumbrance.
+SpecialAbilities:
+  Buoyant (Ex): >
+    A tortoise that fails a Swim check by 5 or more does not sink.
+  Shell (Ex): >
+    As a move action, a tortoise can pull its extremities and head into its shell. It can't move or attack as long as it remains in this state, but its armor bonus from natural armor increases by 4 as long as it does. It may end this state as a move action.
+  Slow and Steady (Ex): >
+    A tortoise's speed is never modified by armor or encumbrance.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

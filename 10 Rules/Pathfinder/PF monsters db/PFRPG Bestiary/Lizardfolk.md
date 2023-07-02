@@ -56,7 +56,9 @@ Skills: Acrobatics +2, Perception +1, Swim +10
 RacialMods: +4 Acrobatics
 Languages: Draconic
 SQ: hold breath
-SpecialAbilities: Hold Breath (Ex) A lizardfolk can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
+SpecialAbilities:
+  Hold Breath (Ex): >
+    A lizardfolk can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

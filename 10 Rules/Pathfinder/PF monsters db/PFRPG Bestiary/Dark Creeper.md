@@ -56,7 +56,15 @@ Skills: Climb +8, Perception +4, Sleight of Hand +7, Stealth +12
 RacialMods: +4 Climb, +4 Perception, +4 Stealth
 Languages: Dark Folk
 SQ: poison use, rag armor
-SpecialAbilities: Death Throes (Su) When a dark creeper is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst must make a DC 13 Fortitude save or be blinded for 1d6 rounds. Other dark creepers within 10 feet are automatically blinded for at least 1 round, due to their light blindness. The save is Constitution-based. Poison Use (Ex) Dark creepers are skilled in the use of poison and never risk accidentally poisoning themselves. Dark creepers favor a foul-smelling black paste distilled from certain deep-underground fungi known as black smear- injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save. Rag Armor (Ex) A dark creeper's multiple layers of filthy rags function as leather armor when worn by one of their kind. See in Darkness (Su) A dark creeper can see perfectly in darkness of any kind, including that created by deeper darkness.
+SpecialAbilities:
+  Death Throes (Su): >
+    When a dark creeper is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst must make a DC 13 Fortitude save or be blinded for 1d6 rounds. Other dark creepers within 10 feet are automatically blinded for at least 1 round, due to their light blindness. The save is Constitution-based.
+  Poison Use (Ex): >
+    Dark creepers are skilled in the use of poison and never risk accidentally poisoning themselves. Dark creepers favor a foul-smelling black paste distilled from certain deep-underground fungi known as black smear- injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save.
+  Rag Armor (Ex): >
+    A dark creeper's multiple layers of filthy rags function as leather armor when worn by one of their kind.
+  See in Darkness (Su): >
+    A dark creeper can see perfectly in darkness of any kind, including that created by deeper darkness.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

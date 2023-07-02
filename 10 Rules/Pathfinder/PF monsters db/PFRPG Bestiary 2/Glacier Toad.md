@@ -56,7 +56,9 @@ Skills: Acrobatics +9 (+13 jumping), Perception +11, Stealth +6 (+14 in snow), S
 RacialMods: +4 Acrobatics, (+8 jumping), +4 Stealth (+12 in snow)
 Languages: Aklo
 SQ: 
-SpecialAbilities: Bitter Cold (Su) All creatures within 20 feet of a glacier toad take 1d6 points of cold damage each round on the toad's turn.
+SpecialAbilities:
+  Bitter Cold (Su): >
+    All creatures within 20 feet of a glacier toad take 1d6 points of cold damage each round on the toad's turn.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

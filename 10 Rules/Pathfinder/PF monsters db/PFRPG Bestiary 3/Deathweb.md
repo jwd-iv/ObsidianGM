@@ -56,7 +56,11 @@ Skills: Climb +16, Perception +15, Stealth +16
 RacialMods: +4 Stealth
 Languages: 
 SQ: compression
-SpecialAbilities: Poison (Ex) Infestation-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Str damage; cure 2 consecutive saves. The save DC is Charisma-based.  Infestation (Su) An infestation of poisonous spiders, which nest within this creature's exoskeleton, constantly surrounds a deathweb, to a radius of 5 feet. Any creature within the infestation takes 1d6 points of damage at the end of each round it remains in the area. A creature that takes this damage must make a DC 17 Fortitude save or be nauseated for 1 round. In addition, those damaged by this infestation are poisoned as well. Any area effect attack that deals 10 or more points of damage to a deathweb destroys its infesting spiders, removing its aura for 3 rounds, after which a new batch of spiders swarms out of the undead's body to replenish the infestation. The save DC is Charisma-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Infestation-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Str damage; cure 2 consecutive saves. The save DC is Charisma-based.
+  Infestation (Su): >
+    An infestation of poisonous spiders, which nest within this creature's exoskeleton, constantly surrounds a deathweb, to a radius of 5 feet. Any creature within the infestation takes 1d6 points of damage at the end of each round it remains in the area. A creature that takes this damage must make a DC 17 Fortitude save or be nauseated for 1 round. In addition, those damaged by this infestation are poisoned as well. Any area effect attack that deals 10 or more points of damage to a deathweb destroys its infesting spiders, removing its aura for 3 rounds, after which a new batch of spiders swarms out of the undead's body to replenish the infestation. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

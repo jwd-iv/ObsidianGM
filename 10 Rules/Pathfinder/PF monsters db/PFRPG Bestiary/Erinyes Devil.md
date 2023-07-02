@@ -56,7 +56,9 @@ Skills: Acrobatics +18, Bluff +17, Diplomacy +14, Escape Artist +12, Fly +19, In
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal;  telepathy 100 ft.
 SQ: 
-SpecialAbilities: Entangle (Su) Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an animate rope spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes's rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.
+SpecialAbilities:
+  Entangle (Su): >
+    Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an animate rope spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes's rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

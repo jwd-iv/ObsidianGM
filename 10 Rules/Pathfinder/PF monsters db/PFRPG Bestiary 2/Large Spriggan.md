@@ -56,7 +56,13 @@ Skills: Climb +7, Disable Device +10, Perception +7, Sleight of Hand +10, Stealt
 RacialMods: +2 Climb, +2 Disable Device, +2 Perception, +2 Sleight of Hand, +2 Stealth
 Languages: Aklo, Gnome
 SQ: size alteration, spriggan magic, spriggan skills
-SpecialAbilities: Size Alteration (Su) At will as a standard action, a spriggan can change his size between Small and Large. Weapons, armor, and other objects on the spriggan's person grow proportionally when he changes size (objects revert to normal size 1 round after a spriggan releases them). When a spriggan becomes Large, his speed increases to 30 feet, he gains +12 Strength, -2 Dexterity, and +6 Constitution, and he takes a -2 size penalty to his AC. While Large, a spriggan cannot use his sneak attack or his racial spell-like abilities (although if he possesses either from class levels or templates, he retains their use in both sizes).  Spriggan Magic (Ex) A spriggan gains a +1 racial bonus on concentration checks and to save DCs for all of its racial spell-like abilities.  Spriggan Skills (Ex) Climb, Disable Device, Perception, Sleight of Hand, and Stealth are class skills for spriggans.
+SpecialAbilities:
+  Size Alteration (Su): >
+    At will as a standard action, a spriggan can change his size between Small and Large. Weapons, armor, and other objects on the spriggan's person grow proportionally when he changes size (objects revert to normal size 1 round after a spriggan releases them). When a spriggan becomes Large, his speed increases to 30 feet, he gains +12 Strength, -2 Dexterity, and +6 Constitution, and he takes a -2 size penalty to his AC. While Large, a spriggan cannot use his sneak attack or his racial spell-like abilities (although if he possesses either from class levels or templates, he retains their use in both sizes).
+  Spriggan Magic (Ex): >
+    A spriggan gains a +1 racial bonus on concentration checks and to save DCs for all of its racial spell-like abilities.
+  Spriggan Skills (Ex): >
+    Climb, Disable Device, Perception, Sleight of Hand, and Stealth are class skills for spriggans.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

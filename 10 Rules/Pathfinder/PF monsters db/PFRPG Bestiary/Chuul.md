@@ -56,7 +56,9 @@ Skills: Knowledge (nature) +8, Perception +19, Sense Motive +9, Stealth +9, Swim
 RacialMods: 
 Languages: Common (sometimes Undercommon for  subterranean variants)
 SQ: amphibious
-SpecialAbilities: Paralytic Tentacles (Ex) A chuul can transfer a grappled victim from a claw to its tentacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage, instead exuding a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul's turn or be paralyzed for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+7 points of damage each round from the creature's mandibles.
+SpecialAbilities:
+  Paralytic Tentacles (Ex): >
+    A chuul can transfer a grappled victim from a claw to its tentacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage, instead exuding a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul's turn or be paralyzed for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+7 points of damage each round from the creature's mandibles.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Bluff +9, Stealth +9, Swim +20
 RacialMods: +6 Bluff
 Languages: Common
 SQ: amphibious, tenacious grapple, voice mimicry
-SpecialAbilities: Tenacious Grapple (Ex) An ahuizotl does not gain the grappled condition when it grapples a foe.  Voice Mimicry (Ex) An ahuizotl can perfectly mimic the sound of humanoid sobbing and can even attempt to mimic voices it has heard. When mimicking a voice, an ahuizotl must make a Bluff check opposed by its listener's Sense Motive check. If the listener has never heard the voice the ahuizotl is attempting to mimic, the listener takes a -8 penalty on the Sense Motive check.
+SpecialAbilities:
+  Tenacious Grapple (Ex): >
+    An ahuizotl does not gain the grappled condition when it grapples a foe.
+  Voice Mimicry (Ex): >
+    An ahuizotl can perfectly mimic the sound of humanoid sobbing and can even attempt to mimic voices it has heard. When mimicking a voice, an ahuizotl must make a Bluff check opposed by its listener's Sense Motive check. If the listener has never heard the voice the ahuizotl is attempting to mimic, the listener takes a -8 penalty on the Sense Motive check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

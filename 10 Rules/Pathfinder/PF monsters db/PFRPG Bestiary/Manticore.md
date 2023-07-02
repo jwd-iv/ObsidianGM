@@ -56,7 +56,9 @@ Skills: Fly -3, Perception +9, Survival +4 (+8 tracking)
 RacialMods: +4 Perception, +4 Survival when tracking
 Languages: Common
 SQ: 
-SpecialAbilities: Spikes (Ex) With a snap of its tail, a manticore can loose a volley of four spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period.
+SpecialAbilities:
+  Spikes (Ex): >
+    With a snap of its tail, a manticore can loose a volley of four spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

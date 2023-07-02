@@ -56,7 +56,11 @@ Skills: Acrobatics +18, Climb +17, Craft (any one) +13, Intimidate +20, Percepti
 RacialMods: 
 Languages: Auran, Common, Draconic,  Giant
 SQ: militant, water breathing
-SpecialAbilities: Militant (Ex) Storm giants are proficient with all simple and all martial weapons.  Water Breathing (Ex) Storm giants can breathe water as well as air.
+SpecialAbilities:
+  Militant (Ex): >
+    Storm giants are proficient with all simple and all martial weapons.
+  Water Breathing (Ex): >
+    Storm giants can breathe water as well as air.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

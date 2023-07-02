@@ -56,7 +56,15 @@ Skills: Fly +12, Intimidate +13, Perception +12, Stealth +10, Survival +12
 RacialMods: 
 Languages: Draconic
 SQ: speed surge
-SpecialAbilities: Dazzling Emergence (Ex) During a surprise round, a desert drake can use Dazzling Display as a standard action.  Sandstorm Breath (Su) As a standard action, a desert drake can spit a ball of electrically charged sand that bursts into a cloud. This attack has a range of 60 feet and deals 3d6 points of slashing damage plus 4d8 points of electricity damage in a 15-foot-radius spread (Reflex DC 19 half ). The cloud  remains for 1d4 rounds, dealing no damage but otherwise acting as obscuring mist. Once a desert drake uses its breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.  Savage Bite (Ex) A desert drake applies 1-1/2 times its Strength modifier to damage dealt with its bite attack, and it threatens a critical hit on a 19-20.  Speed Surge (Ex) Three times per day as a swift action, a desert drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.
+SpecialAbilities:
+  Dazzling Emergence (Ex): >
+    During a surprise round, a desert drake can use Dazzling Display as a standard action.
+  Sandstorm Breath (Su): >
+    As a standard action, a desert drake can spit a ball of electrically charged sand that bursts into a cloud. This attack has a range of 60 feet and deals 3d6 points of slashing damage plus 4d8 points of electricity damage in a 15-foot-radius spread (Reflex DC 19 half ). The cloud  remains for 1d4 rounds, dealing no damage but otherwise acting as obscuring mist. Once a desert drake uses its breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+  Savage Bite (Ex): >
+    A desert drake applies 1-1/2 times its Strength modifier to damage dealt with its bite attack, and it threatens a critical hit on a 19-20.
+  Speed Surge (Ex): >
+    Three times per day as a swift action, a desert drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

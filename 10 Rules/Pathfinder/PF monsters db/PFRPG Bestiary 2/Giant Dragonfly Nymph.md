@@ -56,7 +56,9 @@ Skills: Stealth +5 (+13 in shallow water) , Swim +10
 RacialMods: +8 Stealth in shallow water
 Languages: 
 SQ: 
-SpecialAbilities: Extending Jaw (Ex) A giant dragonfly nymph can extend its jaws with surprising speed. Not only does this extend the nymph's reach with its bite attack, but during the surprise round, a nymph gains a +4 bonus on attack rolls with its bite.
+SpecialAbilities:
+  Extending Jaw (Ex): >
+    A giant dragonfly nymph can extend its jaws with surprising speed. Not only does this extend the nymph's reach with its bite attack, but during the surprise round, a nymph gains a +4 bonus on attack rolls with its bite.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

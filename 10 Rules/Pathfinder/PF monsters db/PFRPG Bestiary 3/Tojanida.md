@@ -56,7 +56,9 @@ Skills: Bluff +5, Escape Artist +10, Knowledge (planes) +9, Perception +14, Perf
 RacialMods: +4 Perception
 Languages: Aquan
 SQ: 
-SpecialAbilities: Ink Cloud (Ex) A tojanida can emit a 30-foot-radius sphere of ink once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute. If used out of the water, the jet of ink is a line 30 feet long, and creatures in the area must succeed at a DC 16 Reflex save or be blinded for 1 round. The save DC is Constitution-based.
+SpecialAbilities:
+  Ink Cloud (Ex): >
+    A tojanida can emit a 30-foot-radius sphere of ink once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute. If used out of the water, the jet of ink is a line 30 feet long, and creatures in the area must succeed at a DC 16 Reflex save or be blinded for 1 round. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

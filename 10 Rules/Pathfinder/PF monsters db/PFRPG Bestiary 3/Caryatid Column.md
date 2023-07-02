@@ -56,7 +56,13 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: statue
-SpecialAbilities: Immunity to Magic (Ex) A caryatid column is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.  • A transmute rock to mud spell deals 1d6 points of damage per caster level to a caryatid column, with no saving throw.  • Transmute mud to rock immediately heals any and all damage currently suffered by a caryatid column.  • A stone to flesh spell does not actually change the column's structure but negates its damage reduction and immunity to magic for 1 round.  Shatter Weapons (Ex) Whenever a character strikes a caryatid column with a weapon (magical or nonmagical), the weapon takes 3d6 points of damage. Apply the weapon's hardness normally. Weapons that take any amount of damage in excess of their hardness gain the broken quality.  Statue (Ex) A caryatid column can stand perfectly still, emulating a statue (usually one that is holding up the ceiling, like a carved column). An observer must succeed at a DC 20 Perception check to notice the caryatid column is alive. If a caryatid column initiates combat from this pose, it gains a +6 bonus on its initiative check.
+SpecialAbilities:
+  Immunity to Magic (Ex): >
+    A caryatid column is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.  • A transmute rock to mud spell deals 1d6 points of damage per caster level to a caryatid column, with no saving throw.  • Transmute mud to rock immediately heals any and all damage currently suffered by a caryatid column.  • A stone to flesh spell does not actually change the column's structure but negates its damage reduction and immunity to magic for 1 round.
+  Shatter Weapons (Ex): >
+    Whenever a character strikes a caryatid column with a weapon (magical or nonmagical), the weapon takes 3d6 points of damage. Apply the weapon's hardness normally. Weapons that take any amount of damage in excess of their hardness gain the broken quality.
+  Statue (Ex): >
+    A caryatid column can stand perfectly still, emulating a statue (usually one that is holding up the ceiling, like a carved column). An observer must succeed at a DC 20 Perception check to notice the caryatid column is alive. If a caryatid column initiates combat from this pose, it gains a +6 bonus on its initiative check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

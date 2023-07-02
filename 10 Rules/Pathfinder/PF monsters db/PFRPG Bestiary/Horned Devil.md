@@ -56,7 +56,11 @@ Skills: Bluff +24, Diplomacy +21, Fly +15, Intimidate +24, Knowledge (planes) +2
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal; telepathy  100 ft.
 SQ: 
-SpecialAbilities: Infernal Wound (Su) The damage a horned devil deals with its tail causes persistent wounds that deal 2d6 points of bleed damage. Bleeding caused in this way is difficult to staunch-a DC 26 Heal check stops the damage, and any attempt to heal a creature suffering from an infernal wound must succeed on a DC 26 caster level check or the spell does not function. Success indicates the healing works normally and stops all bleed effects.  Stun (Su) Whenever a horned devil hits with a spiked chain attack, the opponent must succeed on a DC 27 Fortitude save or be stunned for 1d4 rounds. This ability is a function of the horned devil, not of the spiked chain. The save DC is Strength-based.
+SpecialAbilities:
+  Infernal Wound (Su): >
+    The damage a horned devil deals with its tail causes persistent wounds that deal 2d6 points of bleed damage. Bleeding caused in this way is difficult to staunch-a DC 26 Heal check stops the damage, and any attempt to heal a creature suffering from an infernal wound must succeed on a DC 26 caster level check or the spell does not function. Success indicates the healing works normally and stops all bleed effects.
+  Stun (Su): >
+    Whenever a horned devil hits with a spiked chain attack, the opponent must succeed on a DC 27 Fortitude save or be stunned for 1d4 rounds. This ability is a function of the horned devil, not of the spiked chain. The save DC is Strength-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

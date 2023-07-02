@@ -56,7 +56,11 @@ Skills: Stealth +13, Survival +10, Swim +20
 RacialMods: 
 Languages: Aquan, Common
 SQ: amphibious
-SpecialAbilities: Ink Cloud (Ex) Once per hour as a standard action, a cecaelia can emit a 10-foot-radius sphere of ink while underwater. This ink cloud provides total concealment and persists for 1 minute.  Tentacle Sense (Ex) As a swift action while swimming and while it is not grappled or grappling, the cecaelia can spread its tentacles wide to form a sensory net around it. This grants blindsight to a range of 10 feet and lasts as long as the cecaelia concentrates. While this effect lasts, the creature cannot attack with its tentacles or move.
+SpecialAbilities:
+  Ink Cloud (Ex): >
+    Once per hour as a standard action, a cecaelia can emit a 10-foot-radius sphere of ink while underwater. This ink cloud provides total concealment and persists for 1 minute.
+  Tentacle Sense (Ex): >
+    As a swift action while swimming and while it is not grappled or grappling, the cecaelia can spread its tentacles wide to form a sensory net around it. This grants blindsight to a range of 10 feet and lasts as long as the cecaelia concentrates. While this effect lasts, the creature cannot attack with its tentacles or move.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Acrobatics +18 (+22 jump), Intimidate +16, Knowledge (arcana) +16, Knowl
 RacialMods: 
 Languages: Aklo
 SQ: angled entry, otherworldly mind
-SpecialAbilities: Angled Entry (Su) Hounds of Tindalos move through the dimensions in ways other creatures cannot comprehend. They may use greater teleport (self only) once per round as a swift action and plane shift (self only) 3/day as a standard action (caster level 10th). A hound of Tindalos can use these powers anywhere, but its destination point must be adjacent to a fixed angle or corner in the physical environment, such as a wall, floor, or ceiling (as determined by the GM); temporary angles created by cloth, flesh, or small items are not sufficient. It cannot use these abilities to enter curved architecture or open outdoor environments.  Otherworldly Mind (Ex) Any non-outsider attempting to read the thoughts of a hound of Tindalos or communicate with it telepathically takes 5d6 points of nonlethal damage and must make a DC 18 Will save or become confused for 2d4 rounds.  This is a mind-affecting effect. The save DC is Charisma-based.  Ripping Gaze (Su) 5d6 slashing damage, 30 feet, Fortitude DC 18 negates. A creature that succeeds on its save is immune to that hound's gaze for 24 hours. Damage caused by a ripping gaze can be defeated by damage reduction, but it bypasses DR/magic and slashing. The save DC is Charisma-based.
+SpecialAbilities:
+  Angled Entry (Su): >
+    Hounds of Tindalos move through the dimensions in ways other creatures cannot comprehend. They may use greater teleport (self only) once per round as a swift action and plane shift (self only) 3/day as a standard action (caster level 10th). A hound of Tindalos can use these powers anywhere, but its destination point must be adjacent to a fixed angle or corner in the physical environment, such as a wall, floor, or ceiling (as determined by the GM); temporary angles created by cloth, flesh, or small items are not sufficient. It cannot use these abilities to enter curved architecture or open outdoor environments.
+  Otherworldly Mind (Ex): >
+    Any non-outsider attempting to read the thoughts of a hound of Tindalos or communicate with it telepathically takes 5d6 points of nonlethal damage and must make a DC 18 Will save or become confused for 2d4 rounds.  This is a mind-affecting effect. The save DC is Charisma-based.
+  Ripping Gaze (Su): >
+    5d6 slashing damage, 30 feet, Fortitude DC 18 negates. A creature that succeeds on its save is immune to that hound's gaze for 24 hours. Damage caused by a ripping gaze can be defeated by damage reduction, but it bypasses DR/magic and slashing. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

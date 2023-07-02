@@ -56,8 +56,9 @@ Skills: Perception +8, Stealth +5, Survival +1 (+5 scent tracking)
 RacialMods: +4 Survival while scent tracking
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Disease (Ex) A trollhound's saliva is an infectious brew of contagion. Creatures bitten by a trollhound are often afflicted with bloodfire fever, a disease characterized by deep internal pain, as if the victim's blood were on fire. Additional symptoms include loss of muscular coordination, pus-filled blisters, and overall lethargy and fatigue. Trolls and trollhounds alike are immune to bloodfire fever, even though trollhounds often exhibit the pus-filled blisters that come with the disease.  Bloodfire fever: Bite-injury; save Fort DC 14; onset 1 day; frequency 1/day; effect 1d3 Str damage, 1d3 Dex damage, and target is fatigued; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Disease (Ex): >
+    A trollhound's saliva is an infectious brew of contagion. Creatures bitten by a trollhound are often afflicted with bloodfire fever, a disease characterized by deep internal pain, as if the victim's blood were on fire. Additional symptoms include loss of muscular coordination, pus-filled blisters, and overall lethargy and fatigue. Trolls and trollhounds alike are immune to bloodfire fever, even though trollhounds often exhibit the pus-filled blisters that come with the disease.  Bloodfire fever: Bite-injury; save Fort DC 14; onset 1 day; frequency 1/day; effect 1d3 Str damage, 1d3 Dex damage, and target is fatigued; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

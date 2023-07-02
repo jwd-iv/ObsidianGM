@@ -56,7 +56,9 @@ Skills: Acrobatics +9, Bluff +8, Fly +21, Knowledge (arcana) +7, Knowledge (plan
 RacialMods: 
 Languages: Common, Infernal
 SQ: change shape (boar, giant spider, rat, or raven, beast shape I)
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 13; frequency 1/ round for 6 rounds; effect 1d2 Dex; cure 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 13; frequency 1/ round for 6 rounds; effect 1d2 Dex; cure 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

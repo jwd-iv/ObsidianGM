@@ -56,7 +56,9 @@ Skills: Perception +16, Stealth +14 (+22 in marshes), Swim +18
 RacialMods: +8 Perception, +8 Stealth in marshes
 Languages: 
 SQ: 
-SpecialAbilities: All-Around Vision (Ex) A froghemoth's stalked eyes allow it to see in all directions at once. It cannot be flanked. Slowed by Electricity (Ex) Although a froghemoth is immune to damage from electricity, whenever it would otherwise take such damage it is instead slowed for 1 round.
+SpecialAbilities: All-Around Vision (Ex) A froghemoth's stalked eyes allow it to see in all directions at once. It cannot be flanked.
+  Slowed by Electricity (Ex): >
+    Although a froghemoth is immune to damage from electricity, whenever it would otherwise take such damage it is instead slowed for 1 round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Acrobatics +15, Knowledge (nature) +12, Perception +18, Sense Motive +18
 RacialMods: 
 Languages: Abyssal, Common
 SQ: 
-SpecialAbilities: Broken Ground (Su) The ground in a 30-foot radius around a guecubu ripples and shudders unnaturally. This transforms the area surrounding a guecubu into difficult terrain. A guecubu can move through this area with no penalty. Consecrated ground cannot be affected by this ability, nor can any area warded by a magic circle against chaos or a magic circle against evil.  Misfortune (Su) A creature struck by a guecubu must make a DC 20 Will save or become permanently cursed with misfortune. The victim of this curse takes a -4 penalty on all attack rolls, saving throws, and skill checks, and any critical threat against the victim automatically confirms. If a guecubu hits a creature already suffering from this curse, the victim must make a DC 20 Will save or be staggered for 1 round. This is a curse effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Broken Ground (Su): >
+    The ground in a 30-foot radius around a guecubu ripples and shudders unnaturally. This transforms the area surrounding a guecubu into difficult terrain. A guecubu can move through this area with no penalty. Consecrated ground cannot be affected by this ability, nor can any area warded by a magic circle against chaos or a magic circle against evil.
+  Misfortune (Su): >
+    A creature struck by a guecubu must make a DC 20 Will save or become permanently cursed with misfortune. The victim of this curse takes a -4 penalty on all attack rolls, saving throws, and skill checks, and any critical threat against the victim automatically confirms. If a guecubu hits a creature already suffering from this curse, the victim must make a DC 20 Will save or be staggered for 1 round. This is a curse effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

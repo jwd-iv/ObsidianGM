@@ -56,7 +56,9 @@ Skills: Craft (any one) +31, Diplomacy +32, Fly +32, Knowledge (history) +31, Kn
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: change shape (alter self )
-SpecialAbilities: Spells Solars can cast divine spells as 20th-level clerics. They do not gain access to domains or other cleric abilities. Slaying Arrow (Su) A solar's bow needs no ammunition, and automatically creates a slaying arrow of the solar's choice when drawn.
+SpecialAbilities: Spells Solars can cast divine spells as 20th-level clerics. They do not gain access to domains or other cleric abilities.
+  Slaying Arrow (Su): >
+    A solar's bow needs no ammunition, and automatically creates a slaying arrow of the solar's choice when drawn.
 SpellsKnown: 
 SpellsPrepared: Spells Prepared (CL 20th) 9th-etherealness, mass heal, miracle, storm of vengeance (DC 27) 8th-fire storm (DC 26), holy aura (2) (DC 26), mass cure critical wounds (2) 7th-destruction (DC 25), dictum (DC 25), ethereal jaunt, holy word (DC 25), regenerate 6th-banishment (DC 24), heroes' feast, mass cure moderate wounds, undeath to death (DC 24), word of recall 5th-break enchantment, breath of life, dispel evil (DC 23), plane shift (DC 23), righteous might, symbol of sleep (DC 23) 4th-cure critical wounds (3), death ward, dismissal (DC 22), neutralize poison (2) (DC 22) 3rd-cure serious wounds, daylight, invisibility purge, magic circle against evil, prayer, protection from energy, wind wall 2nd-align weapon, bear's endurance, bull's strength, consecrate, cure moderate wounds (2), eagle's splendor 1st-bless, cure light wounds (3), divine favor, entropic shield, shield of faith 0 (at will)-detect magic, purify food and drink, stabilize, virtue
 SpellDomains: 

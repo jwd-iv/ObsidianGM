@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Create Yellow Musk Zombie (Su) As a full-round action, a yellow musk creeper can bore dozens of tendrils into the brain of a helpless creature within reach, such as a creature entranced by its pollen. This attack inflicts 1d4 points of Intelligence damage per round. When a creature is reduced to 0 Intelligence, it dies, and the tendrils break off inside its brain. One hour later, the creature animates as a yellow musk zombie (see below). Pollen Spray (Ex) As a standard action, a yellow musk creeper can spray a cloud of pollen at a single creature within 30 feet. It must make a +4 ranged touch attack to strike the target, who must then succeed on a DC 14 Will save or be entranced for 1d6 rounds. An entranced creature can take no action other than to move at its normal speed into a space within the yellow musk creeper's reach, at which point an entranced creature remains motionless and allows the creeper to insert tendrils into its brain. The save DC is Constitution-based.
+SpecialAbilities:
+  Create Yellow Musk Zombie (Su): >
+    As a full-round action, a yellow musk creeper can bore dozens of tendrils into the brain of a helpless creature within reach, such as a creature entranced by its pollen. This attack inflicts 1d4 points of Intelligence damage per round. When a creature is reduced to 0 Intelligence, it dies, and the tendrils break off inside its brain. One hour later, the creature animates as a yellow musk zombie (see below).
+  Pollen Spray (Ex): >
+    As a standard action, a yellow musk creeper can spray a cloud of pollen at a single creature within 30 feet. It must make a +4 ranged touch attack to strike the target, who must then succeed on a DC 14 Will save or be entranced for 1d6 rounds. An entranced creature can take no action other than to move at its normal speed into a space within the yellow musk creeper's reach, at which point an entranced creature remains motionless and allows the creeper to insert tendrils into its brain. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

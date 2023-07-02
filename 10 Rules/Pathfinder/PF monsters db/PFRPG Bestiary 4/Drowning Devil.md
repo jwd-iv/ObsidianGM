@@ -56,7 +56,13 @@ Skills: Bluff +16, Diplomacy +16, Fly +5, Intimidate +16, Knowledge (nature) +15
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Drown (Su) As a full-round action, a drowning devil can summon murky water into the lungs of a single target within 30 feet. If the target can't breathe water, it's unable hold its breath and immediately begins to drown. At the start of its next turn, the target must succeed at a DC 18 Fortitude save to cough up this water or it falls unconscious and is brought to 0 hit points. On the next round, the target must save successfully again or drop to -1 hit point and start dying; on the third round it must save successfully again or die. The save DC is Charisma-based.  Heavy Aura (Su) Whenever a creature enters the drowning devil's heavy aura, it must succeed at a DC 18 Will save or reduce its speed as if carrying a load one step higher or wearing armor one category heavier (whichever is worse), and its armor check penalty increases by 2. A creature already carrying a heavy load or wearing heavy armor that fails its save can't move as long as it remains in the affected area. A creature that saves against a drowning devil's heavy aura is immune to that devil's aura for 24 hours. The save DC is Charisma-based.  Poison (Ex) Slam-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Str; cure 2 consecutive saves.
+SpecialAbilities:
+  Drown (Su): >
+    As a full-round action, a drowning devil can summon murky water into the lungs of a single target within 30 feet. If the target can't breathe water, it's unable hold its breath and immediately begins to drown. At the start of its next turn, the target must succeed at a DC 18 Fortitude save to cough up this water or it falls unconscious and is brought to 0 hit points. On the next round, the target must save successfully again or drop to -1 hit point and start dying; on the third round it must save successfully again or die. The save DC is Charisma-based.
+  Heavy Aura (Su): >
+    Whenever a creature enters the drowning devil's heavy aura, it must succeed at a DC 18 Will save or reduce its speed as if carrying a load one step higher or wearing armor one category heavier (whichever is worse), and its armor check penalty increases by 2. A creature already carrying a heavy load or wearing heavy armor that fails its save can't move as long as it remains in the affected area. A creature that saves against a drowning devil's heavy aura is immune to that devil's aura for 24 hours. The save DC is Charisma-based.
+  Poison (Ex): >
+    Slam-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Str; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

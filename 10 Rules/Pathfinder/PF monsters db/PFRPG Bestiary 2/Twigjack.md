@@ -56,7 +56,11 @@ Skills: Acrobatics +11, Climb +7, Disable Device +8, Knowledge (nature) +8, Perc
 RacialMods: 
 Languages: Common, Sylvan
 SQ: bramble jump, woodland stride
-SpecialAbilities: Bramble Jump (Su) A twigjack can travel short distances between brambles, shrubs, or thickets as if via dimension door as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in this manner up to 60 feet per day. This movement must be used in 10-foot increments and does not provoke attacks of opportunity.  Splinterspray (Ex) A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. A DC 14 Reflex saving throw halves this damage. The save DC is Constitution-based.
+SpecialAbilities:
+  Bramble Jump (Su): >
+    A twigjack can travel short distances between brambles, shrubs, or thickets as if via dimension door as part of a move action. The twigjack must begin and end this movement while in an area of at least light undergrowth. The twigjack can travel in this manner up to 60 feet per day. This movement must be used in 10-foot increments and does not provoke attacks of opportunity.
+  Splinterspray (Ex): >
+    A twigjack can eject a barrage of splinters and brambles from its body three times per day as a standard action. This effect creates a 15-foot conical burst of jagged splinters, dealing 4d6 points of piercing damage to all creatures in the area. A DC 14 Reflex saving throw halves this damage. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

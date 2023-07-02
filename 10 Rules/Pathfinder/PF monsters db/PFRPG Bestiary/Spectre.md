@@ -56,7 +56,15 @@ Skills: Fly +11, Intimidate +13, Knowledge (history) +10, Knowledge (religion) +
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Create Spawn (Su) Any humanoids slain by a spectre become spectres themselves in 1d4 rounds. Spawn so created are less powerful than typical spectres, and suffer a -2 penalty on all d20 rolls and checks, receive -2 hp per HD, and only drain one level on a touch. Spawn are under the command of the spectre that created them and remain enslaved until its death, at which point they lose their spawn penalties and become full-fledged and free-willed spectres. They do not possess any of the abilities they had in life. Resurrection Vulnerability (Su) A raise dead or similar spell cast on a spectre destroys it (Will negates). Using the spell in this way does not require a material component. Sunlight Powerlessness (Ex) Spectres are powerless in natural sunlight (not merely a daylight spell) and flee from it. A spectre caught in sunlight cannot attack and is staggered. Unnatural Aura (Su) Animals, whether wild or domesticated, can sense the unnatural presence of a spectre at a distance of 30 feet. They do not willingly approach nearer than that and panic if forced to do so unless a master succeeds at a DC 25 Handle Animal, Ride, or wild empathy check. A panicked animal remains so as long as it is within 30 feet of the spectre.
+SpecialAbilities:
+  Create Spawn (Su): >
+    Any humanoids slain by a spectre become spectres themselves in 1d4 rounds. Spawn so created are less powerful than typical spectres, and suffer a -2 penalty on all d20 rolls and checks, receive -2 hp per HD, and only drain one level on a touch. Spawn are under the command of the spectre that created them and remain enslaved until its death, at which point they lose their spawn penalties and become full-fledged and free-willed spectres. They do not possess any of the abilities they had in life.
+  Resurrection Vulnerability (Su): >
+    A raise dead or similar spell cast on a spectre destroys it (Will negates). Using the spell in this way does not require a material component.
+  Sunlight Powerlessness (Ex): >
+    Spectres are powerless in natural sunlight (not merely a daylight spell) and flee from it. A spectre caught in sunlight cannot attack and is staggered.
+  Unnatural Aura (Su): >
+    Animals, whether wild or domesticated, can sense the unnatural presence of a spectre at a distance of 30 feet. They do not willingly approach nearer than that and panic if forced to do so unless a master succeeds at a DC 25 Handle Animal, Ride, or wild empathy check. A panicked animal remains so as long as it is within 30 feet of the spectre.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Handle Animal +1, Perception +6, Ride +6, Stealth +6, Survival +6, Swim 
 RacialMods: 
 Languages: Aquan, Common; speak with sharks
 SQ: 
-SpecialAbilities: Blood Frenzy (Ex) Once per day, a sahuagin that takes damage in combat can fly into a frenzy in the following round. It gains +2 Constitution and +2 Strength, but takes a -2 penalty to its AC. The frenzy lasts as long as the battle or 1 minute, whichever is shorter.  Speak with Sharks (Su) A sahuagin can communicate telepathically with sharks to a distance of 150 feet. This communication is limited to simple concepts, such as "come here," "defend me," or "attack this target."
+SpecialAbilities:
+  Blood Frenzy (Ex): >
+    Once per day, a sahuagin that takes damage in combat can fly into a frenzy in the following round. It gains +2 Constitution and +2 Strength, but takes a -2 penalty to its AC. The frenzy lasts as long as the battle or 1 minute, whichever is shorter.
+  Speak with Sharks (Su): >
+    A sahuagin can communicate telepathically with sharks to a distance of 150 feet. This communication is limited to simple concepts, such as "come here," "defend me," or "attack this target."
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

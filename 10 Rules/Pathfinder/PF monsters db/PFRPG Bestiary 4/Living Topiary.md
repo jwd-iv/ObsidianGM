@@ -56,7 +56,15 @@ Skills: Escape Artist +10, Perception +6, Stealth +9 (+15 in undergrowth)
 RacialMods: +8 Escape Artist, +2 Stealth (+8 in undergrowth)
 Languages: Common, Sylvan (can't speak any language)
 SQ: assimilate, move through hedges, sculpt shape
-SpecialAbilities: Assimilate (Ex) As a full-round action, a living topiary can consume undergrowth or bushy plant matter it's currently touching and incorporate that material into its form. It can do this at a rate of 5 cubic feet per round, healing 1d8 points of damage each time. If the topiary is at maximum hit points, this ability has no effect.  Hedge Stride (Sp) This ability functions as tree stride, but rather than allowing for teleportation from tree to tree, it permits the living topiary to teleport from one area of brush or hedges to another area of similar vegetation within 1,500 feet.  Move through Hedges (Ex) A living topiary may move through any mass of brambles or other dense plant growth without penalty. It must begin and end its turn outside of the mass.  Sculpt Shape (Ex) As a standard action, a living topiary can alter itself to take on the basic form of any creature. The change is purely cosmetic, and does not change its size, grant it any special powers, or alter its abilities.
+SpecialAbilities:
+  Assimilate (Ex): >
+    As a full-round action, a living topiary can consume undergrowth or bushy plant matter it's currently touching and incorporate that material into its form. It can do this at a rate of 5 cubic feet per round, healing 1d8 points of damage each time. If the topiary is at maximum hit points, this ability has no effect.
+  Hedge Stride (Sp): >
+    This ability functions as tree stride, but rather than allowing for teleportation from tree to tree, it permits the living topiary to teleport from one area of brush or hedges to another area of similar vegetation within 1,500 feet.
+  Move through Hedges (Ex): >
+    A living topiary may move through any mass of brambles or other dense plant growth without penalty. It must begin and end its turn outside of the mass.
+  Sculpt Shape (Ex): >
+    As a standard action, a living topiary can alter itself to take on the basic form of any creature. The change is purely cosmetic, and does not change its size, grant it any special powers, or alter its abilities.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

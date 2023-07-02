@@ -56,7 +56,11 @@ Skills: Perception +11, Stealth +14, Swim +16
 RacialMods: +4 Perception
 Languages: Aquan (cannot speak)
 SQ: water travel
-SpecialAbilities: Elusive (Su) Water orms are rarely discovered except by their own choice. As a full-round action while in water, a water orm can move up to its run speed (200 ft.) without leaving any trace of its passage (identical in effect to pass without trace). An elusive water orm gains a +40 circumstance bonus to its Stealth check. In addition, when not in combat, a water orm is considered to be under the effects of a nondetection spell. These effects function at caster level 20th and cannot be dispelled.  Water Travel (Su) As a full-round action once per day, a water orm can dissolve into water, appearing only as a long, dark, serpentine stretch of water that looks similar to the passage of a school of fish when viewed from above the water. While in this form, the water orm swims at a speed of 600 feet per round (60 mph) and gains a +40 bonus on all Swim checks. It cannot attack or take any action other than swimming in this form, and can remain in this form for up to 8 hours at a time. A water orm can revert to its solid form from this state as a free action. Water orms are unable to pass into or through salt water when using this ability.
+SpecialAbilities:
+  Elusive (Su): >
+    Water orms are rarely discovered except by their own choice. As a full-round action while in water, a water orm can move up to its run speed (200 ft.) without leaving any trace of its passage (identical in effect to pass without trace). An elusive water orm gains a +40 circumstance bonus to its Stealth check. In addition, when not in combat, a water orm is considered to be under the effects of a nondetection spell. These effects function at caster level 20th and cannot be dispelled.
+  Water Travel (Su): >
+    As a full-round action once per day, a water orm can dissolve into water, appearing only as a long, dark, serpentine stretch of water that looks similar to the passage of a school of fish when viewed from above the water. While in this form, the water orm swims at a speed of 600 feet per round (60 mph) and gains a +40 bonus on all Swim checks. It cannot attack or take any action other than swimming in this form, and can remain in this form for up to 8 hours at a time. A water orm can revert to its solid form from this state as a free action. Water orms are unable to pass into or through salt water when using this ability.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

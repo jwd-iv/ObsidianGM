@@ -56,7 +56,9 @@ Skills: Bluff +20, Fly +12, Intimidate +20, Knowledge (planes) +15, Perception +
 RacialMods: 
 Languages: telepathy 100 ft.
 SQ: 
-SpecialAbilities: Nightmare Curse (Ex) An animate dream's touch puts horrifying visions in the target's mind. Curse- incorporeal touch; save Will DC 21; frequency 1/day; effect 1d4 Wisdom drain and target is fatigued; cure 3 consecutive saves or dispel evil, dream, or remove curse.
+SpecialAbilities:
+  Nightmare Curse (Ex): >
+    An animate dream's touch puts horrifying visions in the target's mind. Curse- incorporeal touch; save Will DC 21; frequency 1/day; effect 1d4 Wisdom drain and target is fatigued; cure 3 consecutive saves or dispel evil, dream, or remove curse.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

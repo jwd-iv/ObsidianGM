@@ -56,7 +56,9 @@ Skills: Perception +12, Stealth +4
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Thumb Spikes (Ex) An iguanodon's thumb spikes can inflict grievous wounds-they deal triple damage on a successful critical hit.
+SpecialAbilities:
+  Thumb Spikes (Ex): >
+    An iguanodon's thumb spikes can inflict grievous wounds-they deal triple damage on a successful critical hit.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

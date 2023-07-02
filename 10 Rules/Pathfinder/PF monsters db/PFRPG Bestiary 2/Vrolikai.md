@@ -56,7 +56,11 @@ Skills: Acrobatics +25 (+29 jump), Bluff +30, Fly +34, Intimidate +27, Knowledge
 RacialMods: +8 Perception, +8 Stealth in shadowy areas
 Languages: Abyssal, Celestial, Draconic; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Black Flame Knives (Su) A vrolikai can manifest daggers made of crystallized black flames in each of its four hands as a free action. These weapons function as +1 daggers that bestow one permanent negative level on a successful hit. A DC 27 Fortitude negates the negative level, although on a critical hit, no save is allowed. The save DC is Charisma-based.  Death-Stealing Gaze (Su) 1 permanent negative level, 30 ft., Fort DC 27 negates. Creatures slain by these negative levels become juju zombies (see page 291) under the vrolikai's control. The save DC is Charisma-based.  Madness (Su) A creature stung by a vrolikai's tail must make a DC 27 Will save to resist taking 1d6 points of Charisma drain and becoming confused for 1d4 rounds. On a successful save, the victim is instead staggered for 1d4 rounds as strange visions assault its mind. This is a mind-affecting effect. The save DC is Charisma-based.  Multiweapon Mastery (Ex) A vrolikai never takes penalties on its attack roll when fighting with multiple weapons.
+SpecialAbilities: Black Flame Knives (Su) A vrolikai can manifest daggers made of crystallized black flames in each of its four hands as a free action. These weapons function as +1 daggers that bestow one permanent negative level on a successful hit. A DC 27 Fortitude negates the negative level, although on a critical hit, no save is allowed. The save DC is Charisma-based.  Death-Stealing Gaze (Su) 1 permanent negative level, 30 ft., Fort DC 27 negates. Creatures slain by these negative levels become juju zombies (see page 291) under the vrolikai's control. The save DC is Charisma-based.
+  Madness (Su): >
+    A creature stung by a vrolikai's tail must make a DC 27 Will save to resist taking 1d6 points of Charisma drain and becoming confused for 1d4 rounds. On a successful save, the victim is instead staggered for 1d4 rounds as strange visions assault its mind. This is a mind-affecting effect. The save DC is Charisma-based.
+  Multiweapon Mastery (Ex): >
+    A vrolikai never takes penalties on its attack roll when fighting with multiple weapons.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

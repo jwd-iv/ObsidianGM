@@ -56,7 +56,11 @@ Skills: Fly +12, Perception +10, Stealth +9
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Horrific Critical (Ex) A peryton's gore attack threatens a critical hit on an 18-20. If a peryton kills a humanoid foe with a critical hit, it can tear out the victim's heart with its wolf-like teeth as a free action. Any creature that witnesses this savage event must make a DC 13 Fortitude save or be shaken for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.  Shadow Mark (Su) As a free action, a peryton can make a ranged touch attack by flying over a humanoid target-the maximum range of this attack is 300 feet.  If the peryton hits, its shadow transforms to match the shadow of the creature struck. Once a peryton has established this link, it gains a +2 morale bonus on attack rolls and damage rolls made against that target, and every time the peryton hits that target with an attack, the creature must make a DC 13 Will save or become frightened for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Horrific Critical (Ex): >
+    A peryton's gore attack threatens a critical hit on an 18-20. If a peryton kills a humanoid foe with a critical hit, it can tear out the victim's heart with its wolf-like teeth as a free action. Any creature that witnesses this savage event must make a DC 13 Fortitude save or be shaken for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
+  Shadow Mark (Su): >
+    As a free action, a peryton can make a ranged touch attack by flying over a humanoid target-the maximum range of this attack is 300 feet.  If the peryton hits, its shadow transforms to match the shadow of the creature struck. Once a peryton has established this link, it gains a +2 morale bonus on attack rolls and damage rolls made against that target, and every time the peryton hits that target with an attack, the creature must make a DC 13 Will save or become frightened for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

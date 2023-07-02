@@ -56,7 +56,11 @@ Skills: Acrobatics +16 (+24 when jumping), Intimidate +11, Perception +9, Surviv
 RacialMods: 
 Languages: Common, Giant
 SQ: sandwalking
-SpecialAbilities: Sandwalking (Ex) A desert giant travels at full speed across sand, rocky ground, or dust, and leaves no trail behind unless it chooses to.  Scimitar Training (Ex) All desert giants are proficient with scimitars, and can wield them as if they were light weapons. A desert giant adds its full Strength bonus to attacks made with a scimitar wielded in its off hand, and gains a +4 bonus to CMD versus disarm and sunder attempts when fighting with a scimitar in each hand.
+SpecialAbilities:
+  Sandwalking (Ex): >
+    A desert giant travels at full speed across sand, rocky ground, or dust, and leaves no trail behind unless it chooses to.
+  Scimitar Training (Ex): >
+    All desert giants are proficient with scimitars, and can wield them as if they were light weapons. A desert giant adds its full Strength bonus to attacks made with a scimitar wielded in its off hand, and gains a +4 bonus to CMD versus disarm and sunder attempts when fighting with a scimitar in each hand.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

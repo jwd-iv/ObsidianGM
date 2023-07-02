@@ -56,7 +56,9 @@ Skills: Acrobatics +13 (+17 when jumping), Perception +15, Sense Motive +4, Stea
 RacialMods: +4 Survival when tracking undead
 Languages: Infernal (cannot speak)
 SQ: 
-SpecialAbilities: Cerberus's Jaws (Su) Curse-bite; save Fort DC 18; effect dimensional anchoring. A creature affected by this curse cannot utilize extradimensional travel such as teleport, as if it were under the effect of a dimensional anchor spell. The save DC is Constitution-based.  Soul Scent (Su) This ability functions as the scent ability, save that it also grants the cerberi a +4 racial bonus on Survival checks made to track undead. This ability even allows a cerberi to track the passage of an incorporeal creature.
+SpecialAbilities: Cerberus's Jaws (Su) Curse-bite; save Fort DC 18; effect dimensional anchoring. A creature affected by this curse cannot utilize extradimensional travel such as teleport, as if it were under the effect of a dimensional anchor spell. The save DC is Constitution-based.
+  Soul Scent (Su): >
+    This ability functions as the scent ability, save that it also grants the cerberi a +4 racial bonus on Survival checks made to track undead. This ability even allows a cerberi to track the passage of an incorporeal creature.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

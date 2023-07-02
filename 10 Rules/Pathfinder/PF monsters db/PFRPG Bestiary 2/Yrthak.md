@@ -56,7 +56,13 @@ Skills: Fly +7, Perception +18
 RacialMods: +4 Perception
 Languages: Draconic
 SQ: 
-SpecialAbilities: Blind (Ex) A yrthak sees and senses exclusively through its blindsight ability, which is based on sound and movement-beyond 120 feet, it is considered blind. A deaf yrthak is effectively blinded as well except against adjacent foes-its weak eyesight functions enough for it to attack targets this close, although in such cases these creatures still gain the benefit of concealment (20% miss chance) because of the creature's poor vision. It is invulnerable to all sight-based effects and attacks, including gaze attacks.  Explosion (Ex) As a standard action, a yrthak can fire its sonic lance at the ground, a large rock, a stone wall, or a similar nonmagical object within 60 feet to create an explosion.  This attack deals 2d6 points of piercing damage to all within 10 feet of the effect's center.  Sonic Lance (Ex) Once per round, a yrthak can focus sonic energy in a 60-foot ray that deals 8d6 sonic damage to one target.
+SpecialAbilities:
+  Blind (Ex): >
+    A yrthak sees and senses exclusively through its blindsight ability, which is based on sound and movement-beyond 120 feet, it is considered blind. A deaf yrthak is effectively blinded as well except against adjacent foes-its weak eyesight functions enough for it to attack targets this close, although in such cases these creatures still gain the benefit of concealment (20% miss chance) because of the creature's poor vision. It is invulnerable to all sight-based effects and attacks, including gaze attacks.
+  Explosion (Ex): >
+    As a standard action, a yrthak can fire its sonic lance at the ground, a large rock, a stone wall, or a similar nonmagical object within 60 feet to create an explosion.  This attack deals 2d6 points of piercing damage to all within 10 feet of the effect's center.
+  Sonic Lance (Ex): >
+    Once per round, a yrthak can focus sonic energy in a 60-foot ray that deals 8d6 sonic damage to one target.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

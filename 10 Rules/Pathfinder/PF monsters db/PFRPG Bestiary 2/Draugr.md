@@ -56,7 +56,9 @@ Skills: Climb +9, Perception +6, Stealth +6, Swim +11
 RacialMods: 
 Languages: Common (cannot speak)
 SQ: 
-SpecialAbilities: Nausea (Su) A creature that is damaged by a draugr must make a DC 12 Fortitude save or be nauseated for 1 round. The save DC is Charisma-based.
+SpecialAbilities:
+  Nausea (Su): >
+    A creature that is damaged by a draugr must make a DC 12 Fortitude save or be nauseated for 1 round. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

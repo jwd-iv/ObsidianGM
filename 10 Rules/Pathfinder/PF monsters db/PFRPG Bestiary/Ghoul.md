@@ -56,8 +56,9 @@ Skills: Acrobatics +4, Climb +6, Perception +7, Stealth +7, Swim +3
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: >
-  Disease (Su) Ghoul Fever: Bite-injury; save Fort DC 13; onset 1/day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.
+SpecialAbilities:
+  Disease (Su): >
+    Ghoul Fever: Bite-injury; save Fort DC 13; onset 1/day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

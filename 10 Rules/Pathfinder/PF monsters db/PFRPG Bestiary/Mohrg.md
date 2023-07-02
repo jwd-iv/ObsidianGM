@@ -56,7 +56,9 @@ Skills: Climb +22, Perception +23, Stealth +21, Swim +19
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Create Spawn (Su) Humanoid creatures killed by a mohrg rise immediately as fast zombies under the mohrg's control. The sudden bloom of unlife when a mohrg's victim dies and becomes a zombie causes a surge of negative energy to flow through the mohrg. Whenever a mohrg creates a zombie in this manner, it is healed 1d6 hit points per HD possessed by the slain creature and acts as if hasted for the round immediately following the spawn's creation.
+SpecialAbilities:
+  Create Spawn (Su): >
+    Humanoid creatures killed by a mohrg rise immediately as fast zombies under the mohrg's control. The sudden bloom of unlife when a mohrg's victim dies and becomes a zombie causes a surge of negative energy to flow through the mohrg. Whenever a mohrg creates a zombie in this manner, it is healed 1d6 hit points per HD possessed by the slain creature and acts as if hasted for the round immediately following the spawn's creation.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

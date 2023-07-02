@@ -56,7 +56,9 @@ Skills: Climb +34, Intimidate +45, Perception +32, Survival +32
 RacialMods: 
 Languages: Abyssal, Common, Giant
 SQ: 
-SpecialAbilities: Prismatic Aura (Su) As a swift action once per day, a humbaba can activate its prismatic aura. Doing so causes brilliant light to radiate from the humbaba to a radius of 30 feet. Each round at the start of the humbaba's turn, roll 1d8 and consult the table of prismatic spray effects on page 325 of the Core Rulebook to determine the color and effect of the light (reroll results of 8). If a creature begins its turn in the prismatic aura's area, it must make the appropriate saving throw (DC 26) against that effect. Once activated, a humbaba's prismatic aura lasts for 7 rounds. The save DC is Charisma-based.
+SpecialAbilities:
+  Prismatic Aura (Su): >
+    As a swift action once per day, a humbaba can activate its prismatic aura. Doing so causes brilliant light to radiate from the humbaba to a radius of 30 feet. Each round at the start of the humbaba's turn, roll 1d8 and consult the table of prismatic spray effects on page 325 of the Core Rulebook to determine the color and effect of the light (reroll results of 8). If a creature begins its turn in the prismatic aura's area, it must make the appropriate saving throw (DC 26) against that effect. Once activated, a humbaba's prismatic aura lasts for 7 rounds. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Perception +2, Stealth +2
 RacialMods: +2 Perception
 Languages: Elven, Undercommon
 SQ: poison use
-SpecialAbilities: Poison Use (Ex) Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness- this poison allows drow to capture slaves with great ease. Drow Poison-injury; save Fort DC 13; frequency 1/minute for 2 minutes; initial effect unconsciousness for 1 minute; secondary effect unconsciousness for 2d4 hours; cure 1 save. Although related to the elves, the drow are a vile and evil cousin at best. Sometimes called dark elves, these cunning creatures prowl the caves and tunnels of the world below, ruling vast subterranean cities through fear and might. Worshiping demons and enslaving most races they encounter, the drow are among the underworld's most feared and hated denizens.
+SpecialAbilities:
+  Poison Use (Ex): >
+    Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness- this poison allows drow to capture slaves with great ease. Drow Poison-injury; save Fort DC 13; frequency 1/minute for 2 minutes; initial effect unconsciousness for 1 minute; secondary effect unconsciousness for 2d4 hours; cure 1 save. Although related to the elves, the drow are a vile and evil cousin at best. Sometimes called dark elves, these cunning creatures prowl the caves and tunnels of the world below, ruling vast subterranean cities through fear and might. Worshiping demons and enslaving most races they encounter, the drow are among the underworld's most feared and hated denizens.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Acrobatics +11 (+23 when jumping), Perception +10, Stealth +15
 RacialMods: +4 Acrobatics (+16 when jumping), +4 Perception, +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Leaping Charge (Ex) A velociraptor can jump while charging, allowing it to ignore difficult terrain when it charges. When a velociraptor makes a charge in this way, it deals double damage with its talons.
+SpecialAbilities:
+  Leaping Charge (Ex): >
+    A velociraptor can jump while charging, allowing it to ignore difficult terrain when it charges. When a velociraptor makes a charge in this way, it deals double damage with its talons.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

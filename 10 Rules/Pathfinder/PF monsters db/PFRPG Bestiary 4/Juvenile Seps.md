@@ -56,7 +56,9 @@ Skills: Perception +9, Stealth +10
 RacialMods: +4 Perception, +4 Stealth
 Languages: 
 SQ: liquefaction (see seps)
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 13; frequency 1/round for 10 rounds; effect 1d4 acid and 1d2 Con damage; cure 2 consecutive saves.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 13; frequency 1/round for 10 rounds; effect 1d4 acid and 1d2 Con damage; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

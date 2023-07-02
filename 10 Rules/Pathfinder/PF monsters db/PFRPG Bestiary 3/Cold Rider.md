@@ -56,7 +56,13 @@ Skills: Acrobatics +19, Handle Animal +16, Intimidate +16, Knowledge (nature) +1
 RacialMods: 
 Languages: Common, Elven, Sylvan
 SQ: 
-SpecialAbilities: Icewalking (Ex) A cold rider and any creature it rides can move across icy surfaces without penalty and do not need to make Acrobatics checks to run or charge on ice. They may climb icy surfaces as if under the effects of the spider climb spell.  Implements of Ice (Su) A cold rider wears full plate armor and wields a +2 icy burst glaive made of magical ice as hard as steel. Its armor does not restrict it in any way. When a cold rider dies, its armor and glaive melt into water in 1d6 rounds.  Susceptible to Shatter (Ex) A shatter spell deals 3d6 points of damage to a cold rider (no save) and reduces its armor bonus by 2 for 1 minute. Shatter spells automatically overcome a cold rider's spell resistance.
+SpecialAbilities:
+  Icewalking (Ex): >
+    A cold rider and any creature it rides can move across icy surfaces without penalty and do not need to make Acrobatics checks to run or charge on ice. They may climb icy surfaces as if under the effects of the spider climb spell.
+  Implements of Ice (Su): >
+    A cold rider wears full plate armor and wields a +2 icy burst glaive made of magical ice as hard as steel. Its armor does not restrict it in any way. When a cold rider dies, its armor and glaive melt into water in 1d6 rounds.
+  Susceptible to Shatter (Ex): >
+    A shatter spell deals 3d6 points of damage to a cold rider (no save) and reduces its armor bonus by 2 for 1 minute. Shatter spells automatically overcome a cold rider's spell resistance.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

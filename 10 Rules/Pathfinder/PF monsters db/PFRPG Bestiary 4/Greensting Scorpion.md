@@ -56,7 +56,9 @@ Skills: Climb +7, Perception +4, Stealth +15
 RacialMods: +4 Climb, +4 Perception, +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 10; frequency 1/round for 6 rounds; effect sickened for 1 round; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 10; frequency 1/round for 6 rounds; effect sickened for 1 round; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Perception +4, Stealth +8
 RacialMods: +4 Perception, +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1 Str damage; cure 1 save.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1 Str damage; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

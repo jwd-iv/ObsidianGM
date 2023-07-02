@@ -56,7 +56,11 @@ Skills: Acrobatics +14, Bluff +10, Fly +22, Knowledge (planes) +12, Perception +
 RacialMods: 
 Languages: Auran, Common
 SQ: improved tracking
-SpecialAbilities: Improved Tracking (Ex) An invisible stalker takes no penalty to Survival checks when tracking and moving at any speed. Natural Invisibility (Ex) This ability is constant-an invisible stalker remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the invisibility purge spell. Against foes that cannot pinpoint it, the invisible stalker gains a +20 bonus on Stealth checks when moving, or +40 when standing still-these bonuses are not included in the statistics above.
+SpecialAbilities:
+  Improved Tracking (Ex): >
+    An invisible stalker takes no penalty to Survival checks when tracking and moving at any speed.
+  Natural Invisibility (Ex): >
+    This ability is constant-an invisible stalker remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the invisibility purge spell. Against foes that cannot pinpoint it, the invisible stalker gains a +20 bonus on Stealth checks when moving, or +40 when standing still-these bonuses are not included in the statistics above.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

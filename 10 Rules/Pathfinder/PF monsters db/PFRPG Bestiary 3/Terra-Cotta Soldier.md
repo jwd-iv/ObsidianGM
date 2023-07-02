@@ -56,7 +56,11 @@ Skills: Perception +8
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Keen Weapons (Su) After it has engaged in at least 1 round of combat, a terra-cotta soldier's weapons automatically gain the benefits of keen weapon (CL 6th). This effect persists until the end of the battle.  Rank Fighting (Ex) Whenever a terra-cotta soldier is adjacent to another terra-cotta soldier, it gains a +2 dodge bonus to its AC and a +2 bonus on saving throws, attack rolls, and damage rolls.
+SpecialAbilities:
+  Keen Weapons (Su): >
+    After it has engaged in at least 1 round of combat, a terra-cotta soldier's weapons automatically gain the benefits of keen weapon (CL 6th). This effect persists until the end of the battle.
+  Rank Fighting (Ex): >
+    Whenever a terra-cotta soldier is adjacent to another terra-cotta soldier, it gains a +2 dodge bonus to its AC and a +2 bonus on saving throws, attack rolls, and damage rolls.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

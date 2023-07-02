@@ -56,7 +56,13 @@ Skills: Perception +17, Stealth +11
 RacialMods: +4 Perception, +4 Stealth
 Languages: 
 SQ: liquefaction
-SpecialAbilities: Acid Blood (Ex) A metal, wooden, or natural weapon that deals piercing or slashing damage to a seps takes 4d6 points of acid damage unless the weapon's wielder succeeds at a DC 22 Reflex save at the listed DC. The DC is Constitution-based.  Liquefaction (Su) Any creature killed by seps poison dissolves into an acidic liquid that deals 2d6 points of acid damage per round to anything in its square (including the dead creature's equipment).  Poison (Ex) Bite-injury; save Fort DC 22; frequency 1/round for 10 rounds; effect 1d8 acid damage and 1d4 Con drain; cure 2 consecutive saves.
+SpecialAbilities:
+  Acid Blood (Ex): >
+    A metal, wooden, or natural weapon that deals piercing or slashing damage to a seps takes 4d6 points of acid damage unless the weapon's wielder succeeds at a DC 22 Reflex save at the listed DC. The DC is Constitution-based.
+  Liquefaction (Su): >
+    Any creature killed by seps poison dissolves into an acidic liquid that deals 2d6 points of acid damage per round to anything in its square (including the dead creature's equipment).
+  Poison (Ex): >
+    Bite-injury; save Fort DC 22; frequency 1/round for 10 rounds; effect 1d8 acid damage and 1d4 Con drain; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

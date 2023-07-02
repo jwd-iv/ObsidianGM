@@ -56,7 +56,13 @@ Skills: Escape Artist +11, Fly +13
 RacialMods: +8 Escape Artist
 Languages: Aklo
 SQ: no breath, share defenses, starflight
-SpecialAbilities: Share Defenses (Su) As a free action, a shantak can extend its no breath ability and cold immunity to a single creature touching it. It can withdraw this protection as a free action.  Slippery (Ex) A shantak's scales seep slippery slime.  This grants the creature a +8 bonus on all Escape Artist checks and to its CMD against grapples, and imparts a -5 penalty on all Ride checks made by creatures attempting to ride a shantak.  Starflight (Su) A shantak can survive in the void of outer space. It flies through space at an incredible speed. Although exact travel times vary, a trip within a single solar system should take 3d20 hours, while a trip beyond should take 3d20 days (or more, at the GM's discretion)- provided the shantak knows the way to its destination.
+SpecialAbilities:
+  Share Defenses (Su): >
+    As a free action, a shantak can extend its no breath ability and cold immunity to a single creature touching it. It can withdraw this protection as a free action.
+  Slippery (Ex): >
+    A shantak's scales seep slippery slime.  This grants the creature a +8 bonus on all Escape Artist checks and to its CMD against grapples, and imparts a -5 penalty on all Ride checks made by creatures attempting to ride a shantak.
+  Starflight (Su): >
+    A shantak can survive in the void of outer space. It flies through space at an incredible speed. Although exact travel times vary, a trip within a single solar system should take 3d20 hours, while a trip beyond should take 3d20 days (or more, at the GM's discretion)- provided the shantak knows the way to its destination.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

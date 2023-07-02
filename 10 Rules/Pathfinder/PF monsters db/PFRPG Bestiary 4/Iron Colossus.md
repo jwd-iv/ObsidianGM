@@ -56,8 +56,17 @@ Skills: Intimidate +14, Perception +11
 RacialMods: 
 Languages: Common
 SQ: alternate form, mythic creation, mythic resilience, siege tower
-SpecialAbilities: >
-  Alternate Form (Ex) As a full-round action, an iron colossus can transform its legs into a massive, destructive track. Its speed becomes 80 ft., it can't be tripped, and it gains a trample attack that deals 4d8+30 damage. It loses its stomp attack. It can resume its base form as a full-round action.  Deadly Fumes (Ex) An iron colossus emits a 30-foot-radius cloud of poisonous gas, exposing creatures that start their turn in this area. Deadly Fumes: inhaled-save Fort DC 21; frequency 1/round for 2 rounds; effect 1d4 Constitution damage and sickened; cure 1 save.  Fire Absorption (Ex) Not only is a flesh colossus immune to fire, but when targeted or hit by a spell or attack that would deal fire damage, it heals half the fire damage it would be dealt.  Selective Antimagic Aura (Su) Spells with the fire descriptor and fire effects are unaffected by this field.  Siege Tower (Ex) An iron colossus's ballistae don't provoke attacks of opportunity, and they reload themselves at the start of the colossus's turn.
+SpecialAbilities:
+  Alternate Form (Ex): >
+    As a full-round action, an iron colossus can transform its legs into a massive, destructive track. Its speed becomes 80 ft., it can't be tripped, and it gains a trample attack that deals 4d8+30 damage. It loses its stomp attack. It can resume its base form as a full-round action.
+  Deadly Fumes (Ex): >
+    An iron colossus emits a 30-foot-radius cloud of poisonous gas, exposing creatures that start their turn in this area. Deadly Fumes: inhaled-save Fort DC 21; frequency 1/round for 2 rounds; effect 1d4 Constitution damage and sickened; cure 1 save.
+  Fire Absorption (Ex): >
+    Not only is a flesh colossus immune to fire, but when targeted or hit by a spell or attack that would deal fire damage, it heals half the fire damage it would be dealt.
+  Selective Antimagic Aura (Su): >
+    Spells with the fire descriptor and fire effects are unaffected by this field.
+  Siege Tower (Ex): >
+    An iron colossus's ballistae don't provoke attacks of opportunity, and they reload themselves at the start of the colossus's turn.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

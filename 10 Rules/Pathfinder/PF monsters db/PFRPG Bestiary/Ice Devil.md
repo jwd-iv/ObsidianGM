@@ -56,7 +56,9 @@ Skills: Acrobatics +22, Bluff +22, Diplomacy +22, Fly +13, Intimidate +19, Knowl
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal; telepathy  100 ft.
 SQ: 
-SpecialAbilities: Slow (Su) A hit from an ice devil's tail or spear induces numbing cold. The opponent must succeed on a DC 23 Fortitude save or be affected as though by a slow spell for 1d6 rounds. This effect comes from the devil in the case of its weapon; it is not a quality possessed by the spear itself.  The save DC is Constitution-based.
+SpecialAbilities:
+  Slow (Su): >
+    A hit from an ice devil's tail or spear induces numbing cold. The opponent must succeed on a DC 23 Fortitude save or be affected as though by a slow spell for 1d6 rounds. This effect comes from the devil in the case of its weapon; it is not a quality possessed by the spear itself.  The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

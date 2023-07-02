@@ -56,7 +56,15 @@ Skills: Bluff +27, Fly +8, Intimidate +27, Knowledge (arcana) +27, Knowledge (ge
 RacialMods: 
 Languages: Auran, Common, Draconic, Giant, Ignan
 SQ: sound imitation
-SpecialAbilities: Desert Thirst (Su) A blue dragon can cast create water at will (CL 20). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 26) or be destroyed.  Electricity Aura (Su) An old blue dragon is surrounded by an aura of electricity. Creatures within 10 feet take 1d6 points of electricity damage at the beginning of the dragon's turn.  Mirage (Su) An old blue dragon can make itself appear to be in two places at once as a free action for 20 rounds per day. This ability functions as project image but the dragon can use its breath weapon through the mirage.  Sound Imitation (Ex) A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
+SpecialAbilities:
+  Desert Thirst (Su): >
+    A blue dragon can cast create water at will (CL 20). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 26) or be destroyed.
+  Electricity Aura (Su): >
+    An old blue dragon is surrounded by an aura of electricity. Creatures within 10 feet take 1d6 points of electricity damage at the beginning of the dragon's turn.
+  Mirage (Su): >
+    An old blue dragon can make itself appear to be in two places at once as a free action for 20 rounds per day. This ability functions as project image but the dragon can use its breath weapon through the mirage.
+  Sound Imitation (Ex): >
+    A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
 SpellsKnown: Spells Known (CL 9th; concentration +13)  4th (5/day)-dimension door, enervation  3rd (7/day)-dispel magic, haste, vampiric touch  2nd (7/day)-darkness, invisibility, resist energy, shatter  1st (7/day)-alarm, mage armor, shield, true strike, unseen servant  0 (at will)-arcane mark, bleed (DC 14), detect magic, light, mage hand, mending, read magic, resistance
 SpellsPrepared: 
 SpellDomains: 

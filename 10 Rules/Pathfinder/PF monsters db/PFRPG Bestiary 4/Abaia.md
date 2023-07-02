@@ -56,7 +56,13 @@ Skills: Knowledge (arcana) +17, Knowledge (nature) +17, Perception +19, Spellcra
 RacialMods: +12 Stealth in water
 Languages: Aquan, Sylvan; speak with animals
 SQ: eldritch gizzard, wave rider
-SpecialAbilities: Eldritch Gizzard (Su) An abaia can activate arcane spell trigger items as if it were a 14th-level sorcerer. It can store items in a special compartment within its stomach and activate them as if it were holding them. It can swallow or regurgitate an item as a standard action.  Endless Coils (Ex) As a full-round action, an abaia can attempt a single combat maneuver check to grapple up to two Large or four Medium or smaller creatures within its reach. Any targets successfully grabbed take constrict damage. The abaia only needs to succeed at one grapple check to maintain a grapple against multiple opponents.  Wave Rider (Su) An abaia moving onto land brings a sheath of water with it, allowing it to swim on land. Its swim speed drops by 10 feet at the start of its turn if it is out of the water, and the sheath dissipates entirely when the abaia's swim speed reaches 20 feet. An abaia wave riding on land retains its spell resistance but loses its bonus to Stealth.
+SpecialAbilities:
+  Eldritch Gizzard (Su): >
+    An abaia can activate arcane spell trigger items as if it were a 14th-level sorcerer. It can store items in a special compartment within its stomach and activate them as if it were holding them. It can swallow or regurgitate an item as a standard action.
+  Endless Coils (Ex): >
+    As a full-round action, an abaia can attempt a single combat maneuver check to grapple up to two Large or four Medium or smaller creatures within its reach. Any targets successfully grabbed take constrict damage. The abaia only needs to succeed at one grapple check to maintain a grapple against multiple opponents.
+  Wave Rider (Su): >
+    An abaia moving onto land brings a sheath of water with it, allowing it to swim on land. Its swim speed drops by 10 feet at the start of its turn if it is out of the water, and the sheath dissipates entirely when the abaia's swim speed reaches 20 feet. An abaia wave riding on land retains its spell resistance but loses its bonus to Stealth.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

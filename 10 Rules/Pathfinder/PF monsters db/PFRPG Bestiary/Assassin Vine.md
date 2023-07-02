@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: camouflage
-SpecialAbilities: Camouflage (Ex) Since an assassin vine looks like a normal plant when at rest, a DC 20 Perception check is required to notice it before it attacks for the first time. Anyone with ranks in Survival or Knowledge (nature) can use either of those skills instead of Perception to notice the plant.  Entangle (Su) An assassin vine can, as a free action, cause plants within 30 feet of it to animate and grasp at foes. This ability is otherwise similar to entangle (CL 4th, DC 13). The save DC is Wisdom-based.
+SpecialAbilities:
+  Camouflage (Ex): >
+    Since an assassin vine looks like a normal plant when at rest, a DC 20 Perception check is required to notice it before it attacks for the first time. Anyone with ranks in Survival or Knowledge (nature) can use either of those skills instead of Perception to notice the plant.
+  Entangle (Su): >
+    An assassin vine can, as a free action, cause plants within 30 feet of it to animate and grasp at foes. This ability is otherwise similar to entangle (CL 4th, DC 13). The save DC is Wisdom-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Appraise +14, Bluff +11, Diplomacy +8, Intimidate +8, Knowledge (arcana)
 RacialMods: 
 Languages: Abyssal, Celestial, Common,  Draconic, Infernal; telepathy 100 ft.
 SQ: secret chest
-SpecialAbilities: Secret Chest (Sp) A mercane can retrieve or hide an extradimensional storage chest, as the secret chest spell (caster level 5th). The mercane does not need an expensive replica chest to use this ability; any chest will do. It can only use this ability on one chest at a time.
+SpecialAbilities:
+  Secret Chest (Sp): >
+    A mercane can retrieve or hide an extradimensional storage chest, as the secret chest spell (caster level 5th). The mercane does not need an expensive replica chest to use this ability; any chest will do. It can only use this ability on one chest at a time.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,9 @@ Skills: Climb +14, Escape Artist +5, Intimidate +4, Perception +8, Stealth +10 (
 RacialMods: +6 Stealth in dense vegetation
 Languages: Draconic
 SQ: 
-SpecialAbilities: >
-  Poison Gasp (Ex) A tatzlwyrm's breath contains a poisonous vapor. While grappling, instead of making a bite or rake attack, a tatzlwyrm can breathe poison into its victim's face. A tatzlwyrm must begin its turn grappling to use this ability-it can't begin a grapple and use its poison gasp in the same turn.  Tatzlwyrm poison: Breath-inhaled; save Fort DC 12; frequency 1/round for 2 rounds; effect 1d2 Str damage; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison Gasp (Ex): >
+    A tatzlwyrm's breath contains a poisonous vapor. While grappling, instead of making a bite or rake attack, a tatzlwyrm can breathe poison into its victim's face. A tatzlwyrm must begin its turn grappling to use this ability-it can't begin a grapple and use its poison gasp in the same turn.  Tatzlwyrm poison: Breath-inhaled; save Fort DC 12; frequency 1/round for 2 rounds; effect 1d2 Str damage; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

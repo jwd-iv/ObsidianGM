@@ -56,7 +56,11 @@ Skills: Craft (any one) +18, Diplomacy +18, Fly +8, Knowledge (any three) +15, K
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Draconic, Infernal
 SQ: crystalline dust form
-SpecialAbilities: Crystalline Dust Form (Su) An axiomite can shift between its solid body and one made of golden, crystalline dust as a free action once per round. In dust form, the axiomite looks like a shifting mass of glowing mathematical symbols and equations. In this form it can fly and gains the incorporeal quality; it can use spell-like abilities but cannot make physical attacks. In its solid form, an axiomite cannot fly. Both shapes are the axiomite's true form, and it does not revert to a different form if killed. A true seeing spell reveals both forms simultaneously.  Summon Inevitable (Sp) Once per day, four axiomites may join hands to summon a single zelekhut inevitable as a full-round action.
+SpecialAbilities:
+  Crystalline Dust Form (Su): >
+    An axiomite can shift between its solid body and one made of golden, crystalline dust as a free action once per round. In dust form, the axiomite looks like a shifting mass of glowing mathematical symbols and equations. In this form it can fly and gains the incorporeal quality; it can use spell-like abilities but cannot make physical attacks. In its solid form, an axiomite cannot fly. Both shapes are the axiomite's true form, and it does not revert to a different form if killed. A true seeing spell reveals both forms simultaneously.
+  Summon Inevitable (Sp): >
+    Once per day, four axiomites may join hands to summon a single zelekhut inevitable as a full-round action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

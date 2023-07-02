@@ -56,7 +56,11 @@ Skills: Climb +19, Escape Artist +4, Perception +11, Stealth +7, Swim +15
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Grab (Ex) A sargassum fiend can grab Huge or smaller foes, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with grab possess.  Mirage (Su) A sargassum fiend emits a powerful scent that causes specific, miragelike hallucinations. All creatures within 300 feet of a sargassum fiend must make a DC 18 Will save or become enraptured by the scent. An enraptured creature sees the monster as whatever would most compel it to approach. This might be a lost loved one, a child in need of help, an enchanting mermaid, the promise of dry land, and so on. The extent of this illusion functions as mirage arcana (CL equals the sargassum's CR), but is a mind-affecting phantasm, not a glamer. This effect ends immediately if the plant makes an attack against any target. The save DC is Charisma-based.
+SpecialAbilities:
+  Grab (Ex): >
+    A sargassum fiend can grab Huge or smaller foes, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with grab possess.
+  Mirage (Su): >
+    A sargassum fiend emits a powerful scent that causes specific, miragelike hallucinations. All creatures within 300 feet of a sargassum fiend must make a DC 18 Will save or become enraptured by the scent. An enraptured creature sees the monster as whatever would most compel it to approach. This might be a lost loved one, a child in need of help, an enchanting mermaid, the promise of dry land, and so on. The extent of this illusion functions as mirage arcana (CL equals the sargassum's CR), but is a mind-affecting phantasm, not a glamer. This effect ends immediately if the plant makes an attack against any target. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

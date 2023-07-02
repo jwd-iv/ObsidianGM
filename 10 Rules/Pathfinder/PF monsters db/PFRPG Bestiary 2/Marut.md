@@ -56,7 +56,9 @@ Skills: Diplomacy +26, Intimidate +26, Knowledge (planes) +20, Knowledge (religi
 RacialMods: +4 Perception
 Languages: truespeech
 SQ: 
-SpecialAbilities: Fists of Lightning and Thunder (Su) A marut's fists strike with the power of a thunderstorm. For any given slam attack, a marut can choose whether that attack uses lightning or thunder. A lightning attack deals an additional 3d6 points of electricity damage, and the resulting flash blinds the target for 2d6 rounds (Fortitude DC 26 negates the blindness). A thunder attack deals an additional 3d6 points of sonic damage, and the resulting thunderclap deafens the target for 2d6 rounds (Fortitude DC 26 negates the deafness). The save DCs are Constitution-based.
+SpecialAbilities:
+  Fists of Lightning and Thunder (Su): >
+    A marut's fists strike with the power of a thunderstorm. For any given slam attack, a marut can choose whether that attack uses lightning or thunder. A lightning attack deals an additional 3d6 points of electricity damage, and the resulting flash blinds the target for 2d6 rounds (Fortitude DC 26 negates the blindness). A thunder attack deals an additional 3d6 points of sonic damage, and the resulting thunderclap deafens the target for 2d6 rounds (Fortitude DC 26 negates the deafness). The save DCs are Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

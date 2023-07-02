@@ -56,7 +56,11 @@ Skills: Acrobatics +19 (+27 when jumping), Bluff +16, Diplomacy +13, Escape Arti
 RacialMods: +6 Escape Artist, +4 Perception
 Languages: Common, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Infused Weapons (Su) In addition to being evil and lawful, weapons an upasunda wields are considered to be magic for the purposes of overcoming damage reduction.  Multiweapon Mastery (Ex) An upasunda takes no penalties when fighting with multiple weapons.
+SpecialAbilities:
+  Infused Weapons (Su): >
+    In addition to being evil and lawful, weapons an upasunda wields are considered to be magic for the purposes of overcoming damage reduction.
+  Multiweapon Mastery (Ex): >
+    An upasunda takes no penalties when fighting with multiple weapons.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

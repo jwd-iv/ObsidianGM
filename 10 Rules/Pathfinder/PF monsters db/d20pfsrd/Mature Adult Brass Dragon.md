@@ -56,7 +56,13 @@ Skills: Bluff +22, Diplomacy +22, Fly +14, Heal +22, Linguistics +22, Perception
 RacialMods: 
 Languages: Common, Draconic, plus any 17 more
 SQ: move sand
-SpecialAbilities: Desert Wind (Su) A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save (DC 23) or be blinded for 1d4 rounds by the sand.  Move Sand (Su) A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.  Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a 40 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+7 rounds.
+SpecialAbilities:
+  Desert Wind (Su): >
+    A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save (DC 23) or be blinded for 1d4 rounds by the sand.
+  Move Sand (Su): >
+    A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.
+  Sleep Breath (Su): >
+    Instead of a line of fire, a brass dragon can breathe a 40 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+7 rounds.
 SpellsKnown: Sorcerer Spells Known (CL 9th; concentration +12)  4th (4/day)--charm monster (DC 19), confusion (DC 19)  3rd (7/day)--displacement, hold person (DC 18), tongues  2nd (7/day)--alter self, detect thoughts (DC 15), resist energy, see invisibility  1st (7/day)--alarm, charm person (DC 16), protection from evil, shield, ventriloquism  0 (at will)--arcane mark, dancing lights, detect magic, ghost sound (DC 13), mage hand, message, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

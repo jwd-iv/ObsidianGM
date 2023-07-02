@@ -56,7 +56,9 @@ Skills: Fly +12, Perception +5, Stealth +11 (+17 in stony areas)
 RacialMods: +2 Stealth (+6 in stony environs)
 Languages: Common, Terran
 SQ: freeze
-SpecialAbilities: Freeze (Ex) A gargoyle can hold itself so still it appears to be a statue. A gargoyle that uses freeze can take 20 on its Stealth check to hide in plain sight as a stone statue.
+SpecialAbilities:
+  Freeze (Ex): >
+    A gargoyle can hold itself so still it appears to be a statue. A gargoyle that uses freeze can take 20 on its Stealth check to hide in plain sight as a stone statue.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

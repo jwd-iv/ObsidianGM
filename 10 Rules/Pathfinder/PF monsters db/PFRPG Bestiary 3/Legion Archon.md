@@ -56,7 +56,11 @@ Skills: Diplomacy +14, Fly +12, Intimidate +14, Knowledge (religion) +11, Percep
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: second skin
-SpecialAbilities: Flames of Faith (Ex) A legion archon can manifest a +1 flaming burst greatsword or +1 flaming javelin as a move-equivalent action. The legion archon's sword vanishes if it leaves its hand, and its javelin vanishes after striking or missing its target.  Second Skin (Ex) A legion archon is proficient in all forms of armor. It takes no reduction to its speed or any armor check penalties from wearing any sort of armor. Most legion archons wear full plate armor.
+SpecialAbilities:
+  Flames of Faith (Ex): >
+    A legion archon can manifest a +1 flaming burst greatsword or +1 flaming javelin as a move-equivalent action. The legion archon's sword vanishes if it leaves its hand, and its javelin vanishes after striking or missing its target.
+  Second Skin (Ex): >
+    A legion archon is proficient in all forms of armor. It takes no reduction to its speed or any armor check penalties from wearing any sort of armor. Most legion archons wear full plate armor.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

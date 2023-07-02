@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: nest, repair
-SpecialAbilities: Nest (Su) A skinstitch's body is a haven for a swarm of snakes, spiders, and wasps. Any swarm that shares a space with a skinstitch gains fast healing equal to the swarm's Hit Dice.  Repair (Ex) A skinstitch can repair itself by sewing additional fabric, leather, or hide to its body. Doing so requires at least 1 square foot of material and a full-round action, which restores 1 hit point to the skinstitch.
+SpecialAbilities:
+  Nest (Su): >
+    A skinstitch's body is a haven for a swarm of snakes, spiders, and wasps. Any swarm that shares a space with a skinstitch gains fast healing equal to the swarm's Hit Dice.
+  Repair (Ex): >
+    A skinstitch can repair itself by sewing additional fabric, leather, or hide to its body. Doing so requires at least 1 square foot of material and a full-round action, which restores 1 hit point to the skinstitch.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

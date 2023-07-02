@@ -56,7 +56,11 @@ Skills: Appraise +25, Bluff +25, Fly +14, Intimidate +25, Knowledge (arcana) +25
 RacialMods: 
 Languages: Common, Draconic, Dwarven, Orc
 SQ: 
-SpecialAbilities: Fire Aura (Su) An adult red dragon is surrounded by an aura of intense heat. All creatures within 5 feet take 1d6 points of fire damage at the beginning of the dragon's turn. An old dragon's aura extends to 10 feet. An ancient dragon's damage increases to 2d6.  Smoke Vision (Ex) A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+SpecialAbilities:
+  Fire Aura (Su): >
+    An adult red dragon is surrounded by an aura of intense heat. All creatures within 5 feet take 1d6 points of fire damage at the beginning of the dragon's turn. An old dragon's aura extends to 10 feet. An ancient dragon's damage increases to 2d6.
+  Smoke Vision (Ex): >
+    A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
 SpellsKnown: Spells Known (CL 9th; concentration +12)  4th (4/day)-greater invisibility, stoneskin  3rd (7/day)-dispel magic, displacement, haste  2nd (7/day)-alter self, misdirection, resist energy, see invisibility  1st (7/day)-alarm, grease (DC 14), magic missile, shield, true strike  0 (at will)-arcane mark, bleed, light, magehand, mending, message, prestidigitation, read magic
 SpellsPrepared: 
 SpellDomains: 

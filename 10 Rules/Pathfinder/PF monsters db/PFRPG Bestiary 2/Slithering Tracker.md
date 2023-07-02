@@ -56,7 +56,11 @@ Skills: Climb +11, Perception +7, Stealth +20
 RacialMods: +8 Stealth
 Languages: Undercommon (cannot speak)
 SQ: transparent
-SpecialAbilities: Paralysis (Ex) Any creature that is hit by a slithering tracker's slam attack comes into contact with the anesthetizing slime it secretes. The opponent must succeed on a DC 18 Fortitude save or be paralyzed-at the end of each round thereafter, the paralyzed victim can attempt a new Fortitude save to recover from this paralysis. When a victim recovers from a slithering tracker's paralysis, the victim is staggered for 1d6 rounds. This DC is Constitution-based.  Transparent (Ex) Because of its lack of coloration, a slithering tracker is difficult to discern from its surroundings in most environments. The slithering tracker gains a +8 racial bonus on Stealth checks as a result, and can move at full speed without taking a penalty on Stealth checks. A creature that fails to notice a slithering tracker and walks into it automatically takes damage as if struck by the slithering tracker's slam attack and is immediately subject to a grab attempt and paralysis by the ooze.
+SpecialAbilities:
+  Paralysis (Ex): >
+    Any creature that is hit by a slithering tracker's slam attack comes into contact with the anesthetizing slime it secretes. The opponent must succeed on a DC 18 Fortitude save or be paralyzed-at the end of each round thereafter, the paralyzed victim can attempt a new Fortitude save to recover from this paralysis. When a victim recovers from a slithering tracker's paralysis, the victim is staggered for 1d6 rounds. This DC is Constitution-based.
+  Transparent (Ex): >
+    Because of its lack of coloration, a slithering tracker is difficult to discern from its surroundings in most environments. The slithering tracker gains a +8 racial bonus on Stealth checks as a result, and can move at full speed without taking a penalty on Stealth checks. A creature that fails to notice a slithering tracker and walks into it automatically takes damage as if struck by the slithering tracker's slam attack and is immediately subject to a grab attempt and paralysis by the ooze.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

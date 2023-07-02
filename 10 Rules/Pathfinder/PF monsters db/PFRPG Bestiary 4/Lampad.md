@@ -56,7 +56,13 @@ Skills: Diplomacy +13, Knowledge (dungeoneering) +9, Knowledge (nature) +12, Lin
 RacialMods: 
 Languages: Aklo, Common, Undercommon
 SQ: guarded
-SpecialAbilities: Guarded (Su) A lampad adds her Charisma modifier as a deflection bonus to her Armor Class.  Insane Beauty (Su) This ability affects all humanoids within 30 feet who are viewing a lampad in conditions brighter than dim light. Those who look directly upon the lampad must succeed at a DC 18 Will save or gain the confused condition for 1d6 rounds. A creature that succeeds at the save is immune to the same lampad's insane beauty for 24 hours. A lampad can suppress or resume this ability as a free action. The save DC is Charisma-based.  Spells A lampad casts spells as a 5th-level druid, but can't swap out prepared spells to cast summon spells.  Weep (Su) As a standard action, a lampad can unsettle those near her when she cries. Any creature within 30 feet who can hear a lampad weeping becomes shaken unless it succeeds at a DC 18 Will saving throw. This ability can't cause a creature to become frightened or panicked. This is a mind-affecting fear effect that relies on audible components. The save DC is Charisma-based.
+SpecialAbilities:
+  Guarded (Su): >
+    A lampad adds her Charisma modifier as a deflection bonus to her Armor Class.
+  Insane Beauty (Su): >
+    This ability affects all humanoids within 30 feet who are viewing a lampad in conditions brighter than dim light. Those who look directly upon the lampad must succeed at a DC 18 Will save or gain the confused condition for 1d6 rounds. A creature that succeeds at the save is immune to the same lampad's insane beauty for 24 hours. A lampad can suppress or resume this ability as a free action. The save DC is Charisma-based.  Spells A lampad casts spells as a 5th-level druid, but can't swap out prepared spells to cast summon spells.
+  Weep (Su): >
+    As a standard action, a lampad can unsettle those near her when she cries. Any creature within 30 feet who can hear a lampad weeping becomes shaken unless it succeeds at a DC 18 Will saving throw. This ability can't cause a creature to become frightened or panicked. This is a mind-affecting fear effect that relies on audible components. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: Druid Spells Prepared (CL 5th; concentration +8)   3rd-stone shape   2nd-spider climb, stone callAPG   1st-cure light wounds, faerie fire, magic stone   0-detect magic, detect poison, light, mending
 SpellDomains: 

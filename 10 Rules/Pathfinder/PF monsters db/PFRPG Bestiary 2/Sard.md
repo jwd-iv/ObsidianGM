@@ -56,7 +56,17 @@ Skills: Climb +24, Perception +32
 RacialMods: 
 Languages: Aklo, Sylvan
 SQ: planar acclimation
-SpecialAbilities: Death Throes (Su) When a sard dies, its remains explode with a blast of lightning into razor-sharp splinters of wood. All creatures within 30 feet of a sard when it explodes in this manner take 12d6 points of electricity damage and 12d6 points of piercing damage. A DC 31 Reflex save halves this damage. The save DC is Constitution-based.  Electrical Jolt (Su) Every time a creature strikes a sard with a metal melee weapon, arcs of electricity deal 1d10 points of damage to the attacker.  Planar Acclimation (Ex) A sard is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.  Poison (Ex) Thorn-injury; save Fort DC 31; frequency 1/ round for 6 rounds; effect 1d2 Dex and 4d6 electricity; cure 2 consecutive saves.  Thorns (Ex) A sard's thorns have a range of 180 ft. with no range increment.
+SpecialAbilities:
+  Death Throes (Su): >
+    When a sard dies, its remains explode with a blast of lightning into razor-sharp splinters of wood. All creatures within 30 feet of a sard when it explodes in this manner take 12d6 points of electricity damage and 12d6 points of piercing damage. A DC 31 Reflex save halves this damage. The save DC is Constitution-based.
+  Electrical Jolt (Su): >
+    Every time a creature strikes a sard with a metal melee weapon, arcs of electricity deal 1d10 points of damage to the attacker.
+  Planar Acclimation (Ex): >
+    A sard is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.
+  Poison (Ex): >
+    Thorn-injury; save Fort DC 31; frequency 1/ round for 6 rounds; effect 1d2 Dex and 4d6 electricity; cure 2 consecutive saves.
+  Thorns (Ex): >
+    A sard's thorns have a range of 180 ft. with no range increment.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

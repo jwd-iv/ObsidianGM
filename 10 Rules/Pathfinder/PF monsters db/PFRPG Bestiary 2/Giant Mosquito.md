@@ -56,8 +56,9 @@ Skills: Fly +11, Perception +9
 RacialMods: Perception+8
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Disease (Ex) Malaria: Bite-injury; save Fortitude DC 17; onset 1d3 days; frequency 1 day; effect 1d3 Con damage and 1d3 Wis Damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Disease (Ex): >
+    Malaria: Bite-injury; save Fortitude DC 17; onset 1d3 days; frequency 1 day; effect 1d3 Con damage and 1d3 Wis Damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

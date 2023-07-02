@@ -56,7 +56,11 @@ Skills: Diplomacy +31, Intimidate +34, Knowledge (arcana) +28, Knowledge (nature
 RacialMods: 
 Languages: Common, Dwarven, Terran, Undercommon; telepathy 200 ft.
 SQ: formian traits, hive frenzy
-SpecialAbilities: Hive Frenzy (Su) Once per day as a standard action, the queen can send out a command to all formians within range of her telepathy. Those formians are affected as if by a haste spell (CL 20th).  Telepathic Feedback (Su) As a standard action, a queen can unleash debilitating telepathic feedback. Those within her telepathic range who are not members of her hive must succeed at a DC 29 Will save or take a -2 penalty on attack rolls, saving throws, ability checks, and skill checks for 1 minute. A creature that succeeds at the save cannot be affected by telepathic feedback for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Hive Frenzy (Su): >
+    Once per day as a standard action, the queen can send out a command to all formians within range of her telepathy. Those formians are affected as if by a haste spell (CL 20th).
+  Telepathic Feedback (Su): >
+    As a standard action, a queen can unleash debilitating telepathic feedback. Those within her telepathic range who are not members of her hive must succeed at a DC 29 Will save or take a -2 penalty on attack rolls, saving throws, ability checks, and skill checks for 1 minute. A creature that succeeds at the save cannot be affected by telepathic feedback for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

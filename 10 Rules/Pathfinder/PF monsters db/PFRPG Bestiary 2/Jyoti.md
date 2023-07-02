@@ -56,7 +56,15 @@ Skills: Fly +9, Heal +16, Intimidate +16, Knowledge (planes) +19, Knowledge (rel
 RacialMods: +4 Knowledge (planes), +4 Knowledge (religion), +4 Perception
 Languages: Aquan, Auran, Common, Ignan, Terran
 SQ: 
-SpecialAbilities: Breath Weapon (Su) A jyoti's breath weapon is a focused burst of searing fire infused with positive energy. Undead in the area take 11d8 damage rather than 11d6.  Divine Aversion (Su) Jyoti dislike deities and are never divine spellcasters. Jyoti gain a +2 racial bonus on saves against divine magical effects.  Positive Energy (Su) A jyoti's natural weapons and any weapons it wields strike as if they were ghost touch weapons. In addition, any weapon (natural or manufactured) a jyoti uses deals +1d6 fire damage on a hit.  Positive Energy Affinity (Ex) A jyoti can exist comfortably on the Positive Energy Plane, and does not benefit (or suffer) from that plane's overwhelming infusions of life-giving energies. Whenever a jyoti is subjected to a magical healing effect, that effect functions at its full potential, as if enhanced by Maximize Spell.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A jyoti's breath weapon is a focused burst of searing fire infused with positive energy. Undead in the area take 11d8 damage rather than 11d6.
+  Divine Aversion (Su): >
+    Jyoti dislike deities and are never divine spellcasters. Jyoti gain a +2 racial bonus on saves against divine magical effects.
+  Positive Energy (Su): >
+    A jyoti's natural weapons and any weapons it wields strike as if they were ghost touch weapons. In addition, any weapon (natural or manufactured) a jyoti uses deals +1d6 fire damage on a hit.
+  Positive Energy Affinity (Ex): >
+    A jyoti can exist comfortably on the Positive Energy Plane, and does not benefit (or suffer) from that plane's overwhelming infusions of life-giving energies. Whenever a jyoti is subjected to a magical healing effect, that effect functions at its full potential, as if enhanced by Maximize Spell.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

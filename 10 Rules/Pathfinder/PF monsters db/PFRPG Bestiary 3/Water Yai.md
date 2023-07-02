@@ -56,7 +56,13 @@ Skills: Acrobatics +21 (+29 when jumping), Bluff +30, Disguise +30, Fly +24, Int
 RacialMods: 
 Languages: Common, Giant
 SQ: amphibious, change shape (Medium, Large, or Huge humanoid; alter self or giant form II)
-SpecialAbilities: Acidic Missile (Su) As a swift action, a water yai can launch a bolt of acid from its third eye. Any creature struck by this bolt must also succeed at a DC 29 Fortitude save or be nauseated for 1 round by the overwhelming stench of the acid. This attack has a range of 180 feet with no range increment. The save DC is Constitution-based.  Flowing Robes (Su) A water yai wears a special silk kimono  infused with magical water. This kimono grants a +6 armor bonus. These robes function as armor only for water yai.  Liquid Form (Sp) As a standard action, a water yai can turn into a mobile pool of water. This functions like gaseous form, except that the yai cannot fly in this form. It retains its own base speed, and its swim speed doubles to 120 feet. The water yai can end this ability as a standard action.
+SpecialAbilities:
+  Acidic Missile (Su): >
+    As a swift action, a water yai can launch a bolt of acid from its third eye. Any creature struck by this bolt must also succeed at a DC 29 Fortitude save or be nauseated for 1 round by the overwhelming stench of the acid. This attack has a range of 180 feet with no range increment. The save DC is Constitution-based.
+  Flowing Robes (Su): >
+    A water yai wears a special silk kimono  infused with magical water. This kimono grants a +6 armor bonus. These robes function as armor only for water yai.
+  Liquid Form (Sp): >
+    As a standard action, a water yai can turn into a mobile pool of water. This functions like gaseous form, except that the yai cannot fly in this form. It retains its own base speed, and its swim speed doubles to 120 feet. The water yai can end this ability as a standard action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

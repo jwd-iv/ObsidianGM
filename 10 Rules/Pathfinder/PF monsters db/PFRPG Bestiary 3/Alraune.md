@@ -56,7 +56,11 @@ Skills: Bluff +16, Disguise +9, Knowledge (nature) +9, Perception +17, Sense Mot
 RacialMods: 
 Languages: Aklo, Common, Elven, Sylvan
 SQ: 
-SpecialAbilities: Calming Fragrance (Su) A supernaturally sweet perfume that calms the nerves and blunts aggression constantly surrounds an alraune to a radius of 60 feet. Any creature in this area of effect must make a DC 24 Will save at the start of its turn to avoid falling under the effects of calm emotions for 1 round. Creatures that could be attracted to the alraune's current apparent gender take a -2 penalty on this Will save, while all other creatures gain a +2 bonus on the save. This is a mind-affecting effect.  The save DC is Charisma-based.  Feed (Ex) An alraune's roots can feed on a helpless or willing target. At the end of an hour of feeding, the victim takes 1d6 points of both Constitution and Intelligence drain, and the alraune heals 3d6 points of damage.
+SpecialAbilities:
+  Calming Fragrance (Su): >
+    A supernaturally sweet perfume that calms the nerves and blunts aggression constantly surrounds an alraune to a radius of 60 feet. Any creature in this area of effect must make a DC 24 Will save at the start of its turn to avoid falling under the effects of calm emotions for 1 round. Creatures that could be attracted to the alraune's current apparent gender take a -2 penalty on this Will save, while all other creatures gain a +2 bonus on the save. This is a mind-affecting effect.  The save DC is Charisma-based.
+  Feed (Ex): >
+    An alraune's roots can feed on a helpless or willing target. At the end of an hour of feeding, the victim takes 1d6 points of both Constitution and Intelligence drain, and the alraune heals 3d6 points of damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

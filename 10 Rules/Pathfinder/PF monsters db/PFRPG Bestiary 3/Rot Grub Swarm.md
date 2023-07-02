@@ -56,7 +56,9 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Infestation (Ex) Any living creature that takes damage from a rot grub swarm becomes infested unless it succeeds at a DC 19 Reflex save. On a failed save, the infested creature takes 1d4 points of Constitution damage per round as the rot grubs burrow through and consume its flesh-this effect continues as long as the victim remains in the swarm and continues for 1d6 rounds after it leaves the swarm. Any energy-based attack (including damage from negative energy) that deals at least 5 points of damage to the victim automatically destroys all of the rot grubs infesting it, ending the effect prematurely. Additionally, any effect that removes disease instantly ends a rot grub infestation. Immunity to disease offers no defense. The save DC is Constitution-based.
+SpecialAbilities:
+  Infestation (Ex): >
+    Any living creature that takes damage from a rot grub swarm becomes infested unless it succeeds at a DC 19 Reflex save. On a failed save, the infested creature takes 1d4 points of Constitution damage per round as the rot grubs burrow through and consume its flesh-this effect continues as long as the victim remains in the swarm and continues for 1d6 rounds after it leaves the swarm. Any energy-based attack (including damage from negative energy) that deals at least 5 points of damage to the victim automatically destroys all of the rot grubs infesting it, ending the effect prematurely. Additionally, any effect that removes disease instantly ends a rot grub infestation. Immunity to disease offers no defense. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

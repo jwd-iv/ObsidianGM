@@ -56,7 +56,15 @@ Skills: Bluff +14, Diplomacy +14, Disguise +17, Knowledge (nobility) +8, Percept
 RacialMods: 
 Languages: Abyssal, Common, Infernal
 SQ: create spawn, living form
-SpecialAbilities: Absorb Blood (Su) A sayona adjacent to a bleeding creature automatically accelerates the bleeding, dealing 1 point of Con damage to that creature once per round on its turn and absorbing the blood through its skin.  Create Spawn (Su) When a sayona kills a humanoid or fey of Medium or Small size with its absorb blood or blood drain ability, the victim rises 24 hours later as a ghoul with the advanced creature simple template and the blood drain ability. The spawn is the sayona's slave until its master is destroyed.   Living Form (Su) As a standard action, a sayona can transform into a young, beautiful person for 24 hours. It can only use this ability if it has absorbed or drained blood in the past hour. In this form, the sayona has the aura of a living creature instead of an undead (for the purpose of detect undead and similar effects), its fast healing increases to 10, positive energy attacks (such as channel energy) deal half damage to it, and it cannot use its fear cone or gaze attack. Exposure to holy water or positive energy attacks in this form reduces the duration of this transformation by 1d4 hours.  Staggering Gaze (Su) Staggered for 1d4 rounds, 30 feet, Fortitude DC 23 negates. This is a mind-affecting effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Absorb Blood (Su): >
+    A sayona adjacent to a bleeding creature automatically accelerates the bleeding, dealing 1 point of Con damage to that creature once per round on its turn and absorbing the blood through its skin.
+  Create Spawn (Su): >
+    When a sayona kills a humanoid or fey of Medium or Small size with its absorb blood or blood drain ability, the victim rises 24 hours later as a ghoul with the advanced creature simple template and the blood drain ability. The spawn is the sayona's slave until its master is destroyed.
+  Living Form (Su): >
+    As a standard action, a sayona can transform into a young, beautiful person for 24 hours. It can only use this ability if it has absorbed or drained blood in the past hour. In this form, the sayona has the aura of a living creature instead of an undead (for the purpose of detect undead and similar effects), its fast healing increases to 10, positive energy attacks (such as channel energy) deal half damage to it, and it cannot use its fear cone or gaze attack. Exposure to holy water or positive energy attacks in this form reduces the duration of this transformation by 1d4 hours.
+  Staggering Gaze (Su): >
+    Staggered for 1d4 rounds, 30 feet, Fortitude DC 23 negates. This is a mind-affecting effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

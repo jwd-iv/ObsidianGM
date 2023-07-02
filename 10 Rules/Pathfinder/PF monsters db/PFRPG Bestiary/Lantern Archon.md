@@ -57,8 +57,11 @@ Skills: Diplomacy +5, Fly +14, Knowledge (planes) +3, Perception +4, Sense Motiv
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: gestalt
-SpecialAbilities: >
-  Gestalt (Su) Nine lantern archons can fuse together as a full-round action, becoming a single Large entity that is more powerful than the individual archons that make up its parts. Looking like a whirlwind of dancing firefly lights, the gestalt has all the powers and abilities of a Large air elemental plus the following: archon, good, and lawful subtypes; archon traits (aura of menace DC 16); 2 light rays (2d6); DR 5/evil and magic. The archons can remain in this form for 2d4 rounds. When the gestalt separates back into individual lantern archons, its remaining hit points are divided evenly among them; if it had less than 9 hit points, some of the component archons die when the gestalt ends. Light Ray (Ex) A lantern archon can fire beams of light to damage foes. These light rays have a maximum range of 30 feet. This attack overcomes damage reduction of any type.
+SpecialAbilities:
+  Gestalt (Su): >
+    Nine lantern archons can fuse together as a full-round action, becoming a single Large entity that is more powerful than the individual archons that make up its parts. Looking like a whirlwind of dancing firefly lights, the gestalt has all the powers and abilities of a Large air elemental plus the following: archon, good, and lawful subtypes; archon traits (aura of menace DC 16); 2 light rays (2d6); DR 5/evil and magic. The archons can remain in this form for 2d4 rounds. When the gestalt separates back into individual lantern archons, its remaining hit points are divided evenly among them; if it had less than 9 hit points, some of the component archons die when the gestalt ends.
+  Light Ray (Ex): >
+    A lantern archon can fire beams of light to damage foes. These light rays have a maximum range of 30 feet. This attack overcomes damage reduction of any type.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Acrobatics +15, Diplomacy +13, Intimidate +19, Knowledge (planes) +16, P
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Barbed Defense (Su) A creature that strikes a hamatula with a melee weapon, an unarmed strike, or a natural weapon takes 1d8+6 points of piercing damage from the devil's barbs. Melee weapons with reach do not endanger a user in this way. Fear (Su) A barbed devil's fear attack affects any creature it damages with its claws. A DC 20 Will save resists this effect, otherwise the victim becomes frightened for 1d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based. Grab (Ex) A barbed devil can use its grab attack against a foe of up to Medium size. Impale (Ex) A barbed devil deals 3d8+9 points of piercing damage to a grabbed opponent with a successful grapple check.
+SpecialAbilities:
+  Barbed Defense (Su): >
+    A creature that strikes a hamatula with a melee weapon, an unarmed strike, or a natural weapon takes 1d8+6 points of piercing damage from the devil's barbs. Melee weapons with reach do not endanger a user in this way.
+  Fear (Su): >
+    A barbed devil's fear attack affects any creature it damages with its claws. A DC 20 Will save resists this effect, otherwise the victim becomes frightened for 1d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based.
+  Grab (Ex): >
+    A barbed devil can use its grab attack against a foe of up to Medium size.
+  Impale (Ex): >
+    A barbed devil deals 3d8+9 points of piercing damage to a grabbed opponent with a successful grapple check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

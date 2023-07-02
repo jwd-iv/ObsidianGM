@@ -56,7 +56,13 @@ Skills: Diplomacy +13, Heal +8, Knowledge (planes) +10, Knowledge (religion) +10
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Infernal; tongues, telepathy 100 ft.
 SQ: spirit touch
-SpecialAbilities: Calm Emotions Aura (Su) A catrina's aura acts like a calm emotions spell with a radius of 30 feet. A creature that succeeds at its save is immune to that catrina's aura for 24 hours. The save DC is Charisma-based.  Compel Condemned (Su) As a standard action, a catrina can force one humanoid within 30 feet to make a DC 17 Will save or be affected as per the spell dominate person. This ability functions exactly as that spell, but the catrina can only command an affected creature to approach and kiss her. This action is not considered to be against the target's nature or self-destructive. Any damage taken by the target (other than damage the catrina deals) immediately ends this effect.  Kiss of Death (Su) A catrina can kill a grappled, helpless, or willing target with a long, passionate kiss. The target must succeed at a DC 17 Fortitude save or take 5d6 points of damage. Any creature damaged by the same catrina's kiss for three consecutive rounds instantly dies, regardless of how many hit points it has remaining. Creatures of the old age category take a -2 penalty on saving throws to resist this ability, while those in the venerable age category take a -4 penalty. This is a death effect. The save DCs are Charisma-based.
+SpecialAbilities:
+  Calm Emotions Aura (Su): >
+    A catrina's aura acts like a calm emotions spell with a radius of 30 feet. A creature that succeeds at its save is immune to that catrina's aura for 24 hours. The save DC is Charisma-based.
+  Compel Condemned (Su): >
+    As a standard action, a catrina can force one humanoid within 30 feet to make a DC 17 Will save or be affected as per the spell dominate person. This ability functions exactly as that spell, but the catrina can only command an affected creature to approach and kiss her. This action is not considered to be against the target's nature or self-destructive. Any damage taken by the target (other than damage the catrina deals) immediately ends this effect.
+  Kiss of Death (Su): >
+    A catrina can kill a grappled, helpless, or willing target with a long, passionate kiss. The target must succeed at a DC 17 Fortitude save or take 5d6 points of damage. Any creature damaged by the same catrina's kiss for three consecutive rounds instantly dies, regardless of how many hit points it has remaining. Creatures of the old age category take a -2 penalty on saving throws to resist this ability, while those in the venerable age category take a -4 penalty. This is a death effect. The save DCs are Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,9 @@ Skills: Climb +23, Perception +14
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Selective Mind (Su): To anyone but duergar, these beetles count as mindless. Duergar can affect them with mind-affecting effects, and train and control them as if the beetles were animals.
+SpecialAbilities:
+  Selective Mind (Su): >
+    : To anyone but duergar, these beetles count as mindless. Duergar can affect them with mind-affecting effects, and train and control them as if the beetles were animals.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

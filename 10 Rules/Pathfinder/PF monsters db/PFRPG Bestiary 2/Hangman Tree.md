@@ -56,7 +56,11 @@ Skills: Perception +11, Stealth -2
 RacialMods: 
 Languages: Sylvan
 SQ: 
-SpecialAbilities: Hallucinatory Spores (Ex) Once per day as a standard action, a hangman tree can release a cloud of spores in a 50-foot-radius spread. Creatures in the area must make a DC 20 Will save or believe the hangman tree to be a perfectly ordinary tree- or at worst, a treant or some other friendly tree-like creature. An affected creature becomes passive for 2d6 minutes and refuses to attack the hangman tree during this time. An affected creature can attempt a new Will save each round that the tree attacks an ally-if a hallucinating creature is attacked by the tree, it gains a +4 bonus on its Will save to see through the hallucination. This is a mind-affecting compulsion effect. The save DC is Constitution-based.  Vines (Ex) A hangman tree's vines are primary attacks that deal bludgeoning damage. When a hangman tree grapples a foe with its vines, the tree does not gain the grappled condition. A hangman tree that uses swallow whole transfers a pinned creature from a vine to inside its trunk.
+SpecialAbilities:
+  Hallucinatory Spores (Ex): >
+    Once per day as a standard action, a hangman tree can release a cloud of spores in a 50-foot-radius spread. Creatures in the area must make a DC 20 Will save or believe the hangman tree to be a perfectly ordinary tree- or at worst, a treant or some other friendly tree-like creature. An affected creature becomes passive for 2d6 minutes and refuses to attack the hangman tree during this time. An affected creature can attempt a new Will save each round that the tree attacks an ally-if a hallucinating creature is attacked by the tree, it gains a +4 bonus on its Will save to see through the hallucination. This is a mind-affecting compulsion effect. The save DC is Constitution-based.
+  Vines (Ex): >
+    A hangman tree's vines are primary attacks that deal bludgeoning damage. When a hangman tree grapples a foe with its vines, the tree does not gain the grappled condition. A hangman tree that uses swallow whole transfers a pinned creature from a vine to inside its trunk.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

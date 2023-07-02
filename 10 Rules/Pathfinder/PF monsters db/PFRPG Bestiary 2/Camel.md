@@ -56,7 +56,9 @@ Skills: Perception +5
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Spit (Ex) Once per hour, a camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet. The target must make a DC 13 Fortitude save or be sickened for 1d4 rounds. The save DC is Constitution-based.
+SpecialAbilities:
+  Spit (Ex): >
+    Once per hour, a camel can regurgitate the contents of its stomach, spitting the foul material at a single target within 10 feet. The target must make a DC 13 Fortitude save or be sickened for 1d4 rounds. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

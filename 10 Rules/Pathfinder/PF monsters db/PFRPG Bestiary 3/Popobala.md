@@ -56,8 +56,15 @@ Skills: Acrobatics +15, Bluff +24, Climb +14, Disguise +15, Intimidate +33, Know
 RacialMods: 
 Languages: Common
 SQ: horrid haunting, change shape (bat, dire bat, or humanoid; polymorph)
-SpecialAbilities: >
-  Change Shape (Su) A popobala loses its frightful presence, popobala fever, and stench abilities when not in its true form.  Harvester of Sorrow (Su) A popobala heals as a result of the suffering of others. It gains fast healing 10 if at least one creature within 15 feet has one or more of the following conditions: confused, cowering, dying, exhausted, fatigued, frightened, nauseated, panicked, shaken, sickened, staggered, or stunned.  Horrid Haunting (Su) A popobala may use ghost sound or ventriloquism as a free action whenever it manipulates a creature or object with animate objects, dominate person, or telekinesis. The ghost sound or ventriloquism originates from the controlled object or creature.  Popobala Fever (Su) A creature wounded by a popobala's talons becomes sickened for 1d6 minutes unless it makes a DC 25 Fortitude save. A creature already sickened by the fever becomes nauseated for 1d6 rounds. One already nauseated by the fever is helpless for 1d6 rounds. This is a disease effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Change Shape (Su): >
+    A popobala loses its frightful presence, popobala fever, and stench abilities when not in its true form.
+  Harvester of Sorrow (Su): >
+    A popobala heals as a result of the suffering of others. It gains fast healing 10 if at least one creature within 15 feet has one or more of the following conditions: confused, cowering, dying, exhausted, fatigued, frightened, nauseated, panicked, shaken, sickened, staggered, or stunned.
+  Horrid Haunting (Su): >
+    A popobala may use ghost sound or ventriloquism as a free action whenever it manipulates a creature or object with animate objects, dominate person, or telekinesis. The ghost sound or ventriloquism originates from the controlled object or creature.
+  Popobala Fever (Su): >
+    A creature wounded by a popobala's talons becomes sickened for 1d6 minutes unless it makes a DC 25 Fortitude save. A creature already sickened by the fever becomes nauseated for 1d6 rounds. One already nauseated by the fever is helpless for 1d6 rounds. This is a disease effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

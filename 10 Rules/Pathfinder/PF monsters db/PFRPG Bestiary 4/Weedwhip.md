@@ -56,7 +56,17 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: camouflage
-SpecialAbilities: Camouflage (Ex) Since a weedwhip looks like a normal plant when at rest, a successful DC 15 Perception check is required to notice it before it attacks for the first time. Anyone with ranks in Survival or Knowledge (nature) can use either of those skills instead of Perception to notice the plant.  Dig In (Ex) A weedwhip can bury its central bulb in earth or sand as a move action, granting it partial cover against all attacks (Pathfinder RPG Core Rulebook 196), but preventing it from moving. It can extract itself from the ground as a move action.  Languid Whips (Ex) A weedwhip's tentacles don't threaten any squares, and doesn't make attacks of opportunity.  Poison (Ex) Tentacle-contact; save Fort DC 12; frequency 1/round for 6 rounds; effect nauseated 1 round; cure 2 consecutive saves. The save DC is Constitution-based.  Poisonous (Ex) Any creature that attacks a weedwhip with a natural piercing or slashing weapon is exposed to its poison.
+SpecialAbilities:
+  Camouflage (Ex): >
+    Since a weedwhip looks like a normal plant when at rest, a successful DC 15 Perception check is required to notice it before it attacks for the first time. Anyone with ranks in Survival or Knowledge (nature) can use either of those skills instead of Perception to notice the plant.
+  Dig In (Ex): >
+    A weedwhip can bury its central bulb in earth or sand as a move action, granting it partial cover against all attacks (Pathfinder RPG Core Rulebook 196), but preventing it from moving. It can extract itself from the ground as a move action.
+  Languid Whips (Ex): >
+    A weedwhip's tentacles don't threaten any squares, and doesn't make attacks of opportunity.
+  Poison (Ex): >
+    Tentacle-contact; save Fort DC 12; frequency 1/round for 6 rounds; effect nauseated 1 round; cure 2 consecutive saves. The save DC is Constitution-based.
+  Poisonous (Ex): >
+    Any creature that attacks a weedwhip with a natural piercing or slashing weapon is exposed to its poison.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Climb +10, Perception +11
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 15; frequency 2 rounds; effect 1d4 Con plus nausea; cure 1 save.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 15; frequency 2 rounds; effect 1d4 Con plus nausea; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

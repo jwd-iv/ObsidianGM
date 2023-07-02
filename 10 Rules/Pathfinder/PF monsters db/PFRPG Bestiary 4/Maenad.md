@@ -56,7 +56,13 @@ Skills: Bluff +14, Diplomacy +13, Disguise +11, Intimidate +19, Perception +15, 
 RacialMods: 
 Languages: Common, Sylvan
 SQ: mad feast
-SpecialAbilities: Infectious Dance (Su) Any creature viewing a dancing maenad from within 60 feet of her must succeed at a DC 19 Will save or be affected as if by confusion for 1 hour. For every four creatures affected by this ability, the maenad gains 1d10 temporary hit points and her Charisma score increases by 1; these benefits end if the affected creatures break free of the dance.  Mad Feast (Su) As a full-round action, a maenad can conjure a supernatural feast. Creatures eating from this feast gain a +2 bonus to Strength and Constitution, 1d8 temporary hit points, and a +4 morale bonus on fear saves for 12 hours. Creatures affected also take a -4 penalty on Will saving throws (this penalty does not apply on saves against fear), and find it more compelling to engage in debauchery, excess, and violence.  Poison (Ex) Bite-injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d3 Con; cure 2 consecutive saves.
+SpecialAbilities:
+  Infectious Dance (Su): >
+    Any creature viewing a dancing maenad from within 60 feet of her must succeed at a DC 19 Will save or be affected as if by confusion for 1 hour. For every four creatures affected by this ability, the maenad gains 1d10 temporary hit points and her Charisma score increases by 1; these benefits end if the affected creatures break free of the dance.
+  Mad Feast (Su): >
+    As a full-round action, a maenad can conjure a supernatural feast. Creatures eating from this feast gain a +2 bonus to Strength and Constitution, 1d8 temporary hit points, and a +4 morale bonus on fear saves for 12 hours. Creatures affected also take a -4 penalty on Will saving throws (this penalty does not apply on saves against fear), and find it more compelling to engage in debauchery, excess, and violence.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d3 Con; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Bluff +33, Craft (any one) +34, Diplomacy +30, Intimidate +30, Knowledge
 RacialMods: 
 Languages: Abyssal, Celestial, Common; telepathy 300 ft.
 SQ: change shape (any humanoid, alter self )
-SpecialAbilities: Godslayer (Su) When a thanatotic titan damages a creature capable of casting divine spells, that creature must make a DC 28 Will save or be unable to cast any divine spells for 1d4 rounds and be shaken. If the save is successful, the creature struck is merely shaken for 1 round. A thanatotic titan's attacks are treated as epic and evil for the purposes of overcoming damage reduction. The save DC is Charisma-based.
+SpecialAbilities:
+  Godslayer (Su): >
+    When a thanatotic titan damages a creature capable of casting divine spells, that creature must make a DC 28 Will save or be unable to cast any divine spells for 1d4 rounds and be shaken. If the save is successful, the creature struck is merely shaken for 1 round. A thanatotic titan's attacks are treated as epic and evil for the purposes of overcoming damage reduction. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Fly -6, Intimidate +22, Knowledge (planes) +21, Perception +31, Survival
 RacialMods: 
 Languages: telepathy 30 ft.
 SQ: 
-SpecialAbilities: Astral Locating (Su) An astral leviathan automatically knows the distance and direction to any place on the Astral Plane it has ever visited. Once per day it can use this ability to determine the location of a creature on the Astral Plane (as if using locate creature with unlimited range).  Gulping Tide (Ex) An astral leviathan can create a 60-foot cone of roiling astral material, pulling all Large or smaller creatures and objects into its mouth so it can swallow them. Any creature in the area that succeeds at a DC 30 Fortitude save moves up to 60 feet toward the cone's origin; creatures that fail are swallowed. The leviathan can use this ability only once per minute. The save DC is Constitution-based.
+SpecialAbilities:
+  Astral Locating (Su): >
+    An astral leviathan automatically knows the distance and direction to any place on the Astral Plane it has ever visited. Once per day it can use this ability to determine the location of a creature on the Astral Plane (as if using locate creature with unlimited range).
+  Gulping Tide (Ex): >
+    An astral leviathan can create a 60-foot cone of roiling astral material, pulling all Large or smaller creatures and objects into its mouth so it can swallow them. Any creature in the area that succeeds at a DC 30 Fortitude save moves up to 60 feet toward the cone's origin; creatures that fail are swallowed. The leviathan can use this ability only once per minute. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

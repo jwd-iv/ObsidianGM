@@ -56,7 +56,9 @@ Skills: Acrobatics +17 (+21 jump), Climb +17, Perception +18, Stealth +17, Survi
 RacialMods: +4 Perception, +4 Stealth
 Languages: Infernal (can't speak); telepathy 100 ft.
 SQ: 
-SpecialAbilities: Invisible in Light (Su) In bright light, a hellcat has natural invisibility. In normal light, a hellcat has partial concealment (20% miss chance). In dim light, it has no concealment. In darkness, a hellcat's flickering glow limits it to partial concealment, unless the darkness is magical in nature.
+SpecialAbilities:
+  Invisible in Light (Su): >
+    In bright light, a hellcat has natural invisibility. In normal light, a hellcat has partial concealment (20% miss chance). In dim light, it has no concealment. In darkness, a hellcat's flickering glow limits it to partial concealment, unless the darkness is magical in nature.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

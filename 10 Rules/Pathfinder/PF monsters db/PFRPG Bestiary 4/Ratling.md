@@ -56,7 +56,9 @@ Skills: Climb +6, Knowledge (planes) +4, Perception +6, Stealth +16, Swim +6
 RacialMods: 
 Languages: Aklo; speak with animals (rodents only), tongues
 SQ: scroll use
-SpecialAbilities: Scroll Use (Ex) A ratling can cast spells from any magic scroll as if it had the spell on its spell list.
+SpecialAbilities:
+  Scroll Use (Ex): >
+    A ratling can cast spells from any magic scroll as if it had the spell on its spell list.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

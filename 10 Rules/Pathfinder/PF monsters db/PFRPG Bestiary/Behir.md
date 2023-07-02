@@ -56,7 +56,9 @@ Skills: Climb +14, Perception +8, Stealth +5
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Grab (Ex) A behir's grab attack works against creatures of any size category. It can constrict the same round it establishes a hold. On any round thereafter that it maintains its hold, the behir can choose to rake the grappled target or swallow it whole.
+SpecialAbilities:
+  Grab (Ex): >
+    A behir's grab attack works against creatures of any size category. It can constrict the same round it establishes a hold. On any round thereafter that it maintains its hold, the behir can choose to rake the grappled target or swallow it whole.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

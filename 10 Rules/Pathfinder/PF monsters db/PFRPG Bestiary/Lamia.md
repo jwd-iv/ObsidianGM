@@ -56,7 +56,11 @@ Skills: Bluff +9, Diplomacy +4, Disguise +6, Intimidate +10, Knowledge (religion
 RacialMods: +4 Bluff, +4 Stealth
 Languages: Abyssal, Common
 SQ: undersized weapons
-SpecialAbilities: Undersized Weapons (Ex) Although a lamia is Large, its upper torso is the same size as that of a Medium humanoid. As a result, lamias wield weapons as if they were one size category smaller than their actual size (Medium for most lamias). Wisdom Drain (Su) A lamia drains 1d4 points of Wisdom each time it hits with its melee touch attack. (Unlike with other kinds of ability drain attacks, a lamia does not heal any damage when it uses its Wisdom drain.) Lamias try to use this power early in an encounter to make foes more susceptible to charm monster and suggestion.
+SpecialAbilities:
+  Undersized Weapons (Ex): >
+    Although a lamia is Large, its upper torso is the same size as that of a Medium humanoid. As a result, lamias wield weapons as if they were one size category smaller than their actual size (Medium for most lamias).
+  Wisdom Drain (Su): >
+    A lamia drains 1d4 points of Wisdom each time it hits with its melee touch attack. (Unlike with other kinds of ability drain attacks, a lamia does not heal any damage when it uses its Wisdom drain.) Lamias try to use this power early in an encounter to make foes more susceptible to charm monster and suggestion.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

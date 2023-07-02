@@ -56,8 +56,15 @@ Skills: Acrobatics +37 (+41 when jumping), Bluff +38, Diplomacy +35, Fly +40, In
 RacialMods: +4 Acrobatics when jumping
 Languages: Abyssal, Aklo, Celestial, Common, Draconic, Infernal
 SQ: final judgment, spirit touch
-SpecialAbilities: >
-  Breath Weapon (Su) In addition to its cold breath weapon, a yamaraj can breath a 60-foot cone of beetles and other insectile scavengers. Creatures in the breath weapon's area take 16d6 points of slashing damage and are nauseated for 1d4 rounds (Reflex 30 halves damage and negates nausea). The scavengers persist as a swarm around the affected creature that is closest to the breath weapon's point of origin; this swarm has the same statistics as an army ant swarm, but its distraction DC is the same as the yamaraj's breath weapon DC. The save DC is Constitution-based.  Final Judgment (Su) A yamaraj can only use its miracle spell-like ability to restore a slain outsider to life or to reproduce the following spell effects: banishment, dimensional anchor, greater restoration, plane shift, true resurrection.  Lightning Drinker (Su) A yamaraj absorbs electricity to strengthen itself. If struck by an electrical attack, it heals 1 hit point per 3 points of electricity damage the attack would otherwise deal. If the amount of healing would cause the yamaraj to exceed its full normal hit points, it gains any excess as temporary hit points (up to a maximum of 100), which last up to 1 hour.  Poison (Ex) Bite-injury; save Fort DC 30; frequency 1/round for 6 rounds; effect 1d4 Dex drain; cure 3 consecutive saves.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    In addition to its cold breath weapon, a yamaraj can breath a 60-foot cone of beetles and other insectile scavengers. Creatures in the breath weapon's area take 16d6 points of slashing damage and are nauseated for 1d4 rounds (Reflex 30 halves damage and negates nausea). The scavengers persist as a swarm around the affected creature that is closest to the breath weapon's point of origin; this swarm has the same statistics as an army ant swarm, but its distraction DC is the same as the yamaraj's breath weapon DC. The save DC is Constitution-based.
+  Final Judgment (Su): >
+    A yamaraj can only use its miracle spell-like ability to restore a slain outsider to life or to reproduce the following spell effects: banishment, dimensional anchor, greater restoration, plane shift, true resurrection.
+  Lightning Drinker (Su): >
+    A yamaraj absorbs electricity to strengthen itself. If struck by an electrical attack, it heals 1 hit point per 3 points of electricity damage the attack would otherwise deal. If the amount of healing would cause the yamaraj to exceed its full normal hit points, it gains any excess as temporary hit points (up to a maximum of 100), which last up to 1 hour.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 30; frequency 1/round for 6 rounds; effect 1d4 Dex drain; cure 3 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

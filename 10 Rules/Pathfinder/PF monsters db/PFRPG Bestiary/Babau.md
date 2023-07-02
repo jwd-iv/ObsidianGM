@@ -56,7 +56,9 @@ Skills: Acrobatics +11, Climb +12, Disable Device +11, Escape Artist +11, Percep
 RacialMods: +8 Perception, +8 Stealth
 Languages: Abyssal, Celestial, Draconic; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Protective Slime (Su) A layer of acidic slime coats a babau's skin. Any creature that strikes a babau with a natural attack or unarmed strike takes 1d8 points of acid damage from this slime if it fails a DC 18 Reflex save. A creature that strikes a babau with a melee weapon must make a DC 18 Reflex save or the weapon takes 1d8 points of acid damage; if this damage penetrates the weapon's hardness, the weapon gains the broken condition. Ammunition that strikes a babau is automatically destroyed after it inflicts its damage.
+SpecialAbilities:
+  Protective Slime (Su): >
+    A layer of acidic slime coats a babau's skin. Any creature that strikes a babau with a natural attack or unarmed strike takes 1d8 points of acid damage from this slime if it fails a DC 18 Reflex save. A creature that strikes a babau with a melee weapon must make a DC 18 Reflex save or the weapon takes 1d8 points of acid damage; if this damage penetrates the weapon's hardness, the weapon gains the broken condition. Ammunition that strikes a babau is automatically destroyed after it inflicts its damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

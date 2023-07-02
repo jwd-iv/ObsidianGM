@@ -56,7 +56,9 @@ Skills: Climb +11, Escape Artist +10, Perception +11, Sense Motive +11, Stealth 
 RacialMods: 
 Languages: Common; speak with plants, telepathy 100 ft.
 SQ: merge with ward, ward (wild trees)
-SpecialAbilities: Distracting Gaze (Su) Staggered for 1d4 rounds, 30 feet, Will DC 16 negates. This is a mind-affecting effect that requires the kodama to be visible to those it wishes to affect. The save DC is Charisma-based.
+SpecialAbilities:
+  Distracting Gaze (Su): >
+    Staggered for 1d4 rounds, 30 feet, Will DC 16 negates. This is a mind-affecting effect that requires the kodama to be visible to those it wishes to affect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

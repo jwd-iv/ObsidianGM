@@ -56,7 +56,9 @@ Skills: Acrobatics +9 (+13 jumping), Perception +3, Stealth +5, Swim +10
 RacialMods: +4 Acrobatics (+8 jumping), +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Tongue (Ex) A giant frog's tongue is a primary attack with reach equal to three times the frog's normal reach (15 feet for a Medium giant frog). A giant frog's tongue deals no damage on a hit, but can be used to grab. A giant frog does not gain the grappled condition while using its tongue in this manner.
+SpecialAbilities:
+  Tongue (Ex): >
+    A giant frog's tongue is a primary attack with reach equal to three times the frog's normal reach (15 feet for a Medium giant frog). A giant frog's tongue deals no damage on a hit, but can be used to grab. A giant frog does not gain the grappled condition while using its tongue in this manner.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

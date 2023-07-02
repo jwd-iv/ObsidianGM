@@ -56,7 +56,9 @@ Skills: Climb +12, Perception +10, Stealth +10 (+14 in rocks or undergrowth), Sw
 RacialMods: +4 Stealth (+8 in rocks or undergrowth)
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d4 Dex damage; cure 2 consecutive saves.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d4 Dex damage; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

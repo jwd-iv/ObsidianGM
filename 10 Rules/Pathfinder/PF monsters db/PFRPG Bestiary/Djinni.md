@@ -56,7 +56,9 @@ Skills: Appraise +12, Craft (any one) +12, Fly +20, Knowledge (planes) +12, Perc
 RacialMods: 
 Languages: Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Air Mastery (Ex) Airborne creatures take a -1 penalty on attack and damage rolls against a djinni. The djinn (singular djinni) are genies from the Plane of Air. They are said to be made of the stuff of clouds, with the strength of the mightiest storms. A djinni is about 10 feet tall and weighs about 1,000 pounds.
+SpecialAbilities:
+  Air Mastery (Ex): >
+    Airborne creatures take a -1 penalty on attack and damage rolls against a djinni. The djinn (singular djinni) are genies from the Plane of Air. They are said to be made of the stuff of clouds, with the strength of the mightiest storms. A djinni is about 10 feet tall and weighs about 1,000 pounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

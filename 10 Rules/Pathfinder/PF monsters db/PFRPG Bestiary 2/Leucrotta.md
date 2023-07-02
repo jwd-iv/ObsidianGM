@@ -56,7 +56,11 @@ Skills: Bluff +12, Climb +13, Stealth +9
 RacialMods: 
 Languages: Common
 SQ: sound mimicry (voices)
-SpecialAbilities: Lure (Su) At any point that a leucrotta's targets are unaware of it (for example, if the leucrotta is hiding or concealed in darkness), the leucrotta can call out to the targets, who must be in line of sight and within 60 feet. When the leucrotta calls out, the targets must make a DC 16 Will save or fall under the effects of a suggestion to approach the sound of the leucrotta's voice. This effect functions identically to a mass suggestion spell with a caster level equal to the leucrotta's Hit Dice. A creature that saves cannot be affected again by the same leucrotta's lure for 24 hours. The lure is a language-dependant effect, and if the leucrotta uses the victim's name during the lure, the victim takes a -4 penalty on its saving throw. This is a sonic mind-affecting charm effect. The save DC is Charisma-based. Powerful Bite (Ex) A leucrotta's bite attack always applies 1-1/2 times its Strength modifier on damage rolls and threatens a critical hit on a roll of 19-20. When a leucrotta bites an object, its bite treats the object as having a hardness of 5 less than the object's actual hardness rating.
+SpecialAbilities:
+  Lure (Su): >
+    At any point that a leucrotta's targets are unaware of it (for example, if the leucrotta is hiding or concealed in darkness), the leucrotta can call out to the targets, who must be in line of sight and within 60 feet. When the leucrotta calls out, the targets must make a DC 16 Will save or fall under the effects of a suggestion to approach the sound of the leucrotta's voice. This effect functions identically to a mass suggestion spell with a caster level equal to the leucrotta's Hit Dice. A creature that saves cannot be affected again by the same leucrotta's lure for 24 hours. The lure is a language-dependant effect, and if the leucrotta uses the victim's name during the lure, the victim takes a -4 penalty on its saving throw. This is a sonic mind-affecting charm effect. The save DC is Charisma-based.
+  Powerful Bite (Ex): >
+    A leucrotta's bite attack always applies 1-1/2 times its Strength modifier on damage rolls and threatens a critical hit on a roll of 19-20. When a leucrotta bites an object, its bite treats the object as having a hardness of 5 less than the object's actual hardness rating.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

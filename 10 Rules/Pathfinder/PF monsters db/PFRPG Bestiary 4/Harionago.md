@@ -56,7 +56,9 @@ Skills: Bluff +20, Disguise +23, Intimidate +16, Knowledge (nobility) +5, Percep
 RacialMods: 
 Languages: Common, Elven, Sylvan
 SQ: 
-SpecialAbilities: Infectious Laughter (Su) As a full-round action, a harionago can emit a scornful laugh ringing out in a 60-foot burst. A creature that hears the laughter must succeed at a DC 23 Will saving thrown or be affected as the hideous laughter spell (CL 14th), except that a laughing creature is considered helpless to the harionago. A creature that successfully saves against a harionago's scornful laughter can't be affected by that same harionago's laughter for 24 hours. This is a mind-affecting effect that can be countered with the countersong class feature. Its save DC is Charisma-based.
+SpecialAbilities:
+  Infectious Laughter (Su): >
+    As a full-round action, a harionago can emit a scornful laugh ringing out in a 60-foot burst. A creature that hears the laughter must succeed at a DC 23 Will saving thrown or be affected as the hideous laughter spell (CL 14th), except that a laughing creature is considered helpless to the harionago. A creature that successfully saves against a harionago's scornful laughter can't be affected by that same harionago's laughter for 24 hours. This is a mind-affecting effect that can be countered with the countersong class feature. Its save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

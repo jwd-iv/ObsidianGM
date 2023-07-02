@@ -56,7 +56,9 @@ Skills: Perception +11, Stealth +8 (+16 in swamps or forest), Swim +13
 RacialMods: +4 Stealth (+12 in swamps or forests), +4 Perception
 Languages: Common, Sylvan (cannot speak)
 SQ: electric fortitude
-SpecialAbilities: Electric Fortitude (Ex) Shambling mounds take no damage from electricity. Instead, any electricity attack used against a shambling mound temporarily increases its Constitution score by 1d4 points. The shambling mound loses these temporary points at the rate of 1 per hour.
+SpecialAbilities:
+  Electric Fortitude (Ex): >
+    Shambling mounds take no damage from electricity. Instead, any electricity attack used against a shambling mound temporarily increases its Constitution score by 1d4 points. The shambling mound loses these temporary points at the rate of 1 per hour.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

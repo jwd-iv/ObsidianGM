@@ -56,7 +56,17 @@ Skills: Diplomacy +10, Fly +7, Intimidate +13, Knowledge (planes) +7, Perception
 RacialMods: 
 Languages: Common, Infernal
 SQ: 
-SpecialAbilities: Create Spawn (Su) A humanoid slain by a wraith becomes a wraith in 1d4 rounds. These spawn are less powerful than typical wraiths, and suffer a -2 penalty on all d20 rolls and checks, receive -2 hp per HD, and only drain 1d2 points of Constitution on a touch. Spawn are under the command of the wraith that created them until its death, at which point they lose their spawn penalties and become free-willed wraiths. They do not possess any of the abilities they had in life. Constitution Drain (Su) Creatures hit by a wraith's touch attack must succeed on a DC 17 Fortitude save or take 1d6 points of Constitution drain. On each successful attack, the wraith gains 5 temporary hit points. The save DC is Charisma-based. Lifesense (Su) A wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability. Sunlight Powerlessness (Ex) A wraith caught in sunlight cannot attack and is staggered. Unnatural Aura (Su) Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 Handle Animal, Ride, or wild empathy check.
+SpecialAbilities:
+  Create Spawn (Su): >
+    A humanoid slain by a wraith becomes a wraith in 1d4 rounds. These spawn are less powerful than typical wraiths, and suffer a -2 penalty on all d20 rolls and checks, receive -2 hp per HD, and only drain 1d2 points of Constitution on a touch. Spawn are under the command of the wraith that created them until its death, at which point they lose their spawn penalties and become free-willed wraiths. They do not possess any of the abilities they had in life.
+  Constitution Drain (Su): >
+    Creatures hit by a wraith's touch attack must succeed on a DC 17 Fortitude save or take 1d6 points of Constitution drain. On each successful attack, the wraith gains 5 temporary hit points. The save DC is Charisma-based.
+  Lifesense (Su): >
+    A wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability.
+  Sunlight Powerlessness (Ex): >
+    A wraith caught in sunlight cannot attack and is staggered.
+  Unnatural Aura (Su): >
+    Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 Handle Animal, Ride, or wild empathy check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

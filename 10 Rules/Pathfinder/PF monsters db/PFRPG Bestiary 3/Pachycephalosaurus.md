@@ -56,7 +56,9 @@ Skills: Perception +8, Stealth +2
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Clobbering Charge (Ex) When a pachycephalosaurus hits a target with its slam attack at the end of a charge, it can initiate a bull rush as a free action to move the struck target back in the same direction as the dinosaur's charge. The pachycephalosaurus cannot move with the target of the bull rush. If a pachycephalosaurus scores a critical hit against a creature with its slam attack at the end of a charge, it also staggers the target for 1 round. If the victim succeeds at a DC 18 Fortitude save, the stagger effect is negated, but the victim still suffers the effects of the dinosaur's bull rush attempt. The save DC is Strength-based.
+SpecialAbilities:
+  Clobbering Charge (Ex): >
+    When a pachycephalosaurus hits a target with its slam attack at the end of a charge, it can initiate a bull rush as a free action to move the struck target back in the same direction as the dinosaur's charge. The pachycephalosaurus cannot move with the target of the bull rush. If a pachycephalosaurus scores a critical hit against a creature with its slam attack at the end of a charge, it also staggers the target for 1 round. If the victim succeeds at a DC 18 Fortitude save, the stagger effect is negated, but the victim still suffers the effects of the dinosaur's bull rush attempt. The save DC is Strength-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

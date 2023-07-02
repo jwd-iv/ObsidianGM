@@ -56,7 +56,11 @@ Skills: Perception +6, Stealth +5 (+13 in forests)
 RacialMods: +4 Perception, +8 Stealth (+16 in forests)
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Str damage; cure 2 consecutive saves.  Sudden Strike (Ex) A deadfall scorpion is adept at moving quickly when its foes are surprised. During a surprise round, a deadfall scorpion may act as if it had a full round to act, rather than just one standard action.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Str damage; cure 2 consecutive saves.
+  Sudden Strike (Ex): >
+    A deadfall scorpion is adept at moving quickly when its foes are surprised. During a surprise round, a deadfall scorpion may act as if it had a full round to act, rather than just one standard action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

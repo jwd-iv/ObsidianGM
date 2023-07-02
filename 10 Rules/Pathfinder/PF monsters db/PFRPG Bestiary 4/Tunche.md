@@ -56,7 +56,11 @@ Skills: Acrobatics +21 (+29 when jumping), Bluff +22, Climb +19, Intimidate +32,
 RacialMods: +8 Acrobatics when jumping, +8 Stealth in forests
 Languages: Aklo, Sylvan; speak with plants, tongues
 SQ: change shape (Small or Medium humanoid; alter self), sound mimicry (sounds and voices)
-SpecialAbilities: Feather Step (Su) A tunche in a forest ignores the adverse movement effects of difficult terrain, and can even take 5-foot steps in difficult terrain.  Poison (Ex) Bite-injury; save Fort DC 29; frequency 1/round for 6 rounds; effect 1d4 Con and 1d4 Wis plus nauseated for 1 round; cure 2 consecutive saves.
+SpecialAbilities:
+  Feather Step (Su): >
+    A tunche in a forest ignores the adverse movement effects of difficult terrain, and can even take 5-foot steps in difficult terrain.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 29; frequency 1/round for 6 rounds; effect 1d4 Con and 1d4 Wis plus nauseated for 1 round; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

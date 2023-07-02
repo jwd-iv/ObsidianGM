@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Bewitching Brume (Su) Any creature within 10 feet of a hungry fog or currently being affected by its enveloping mists must succeed on a DC 8 Will save at the start of that creature's turn or become shaken for 1 round at the half-glimpsed shapes of phantoms floating within the fog. This is a mind-affecting fear effect. The save DC is Charisma-based.  Enveloping Mists (Ex) A hungry fog can engulf foes (see Universal Monster Rules in the Appendices). A creature engulfed by a hungry fog does not gain the pinned condition and may move normally-such a creature is not in danger of suffocating, but as long as it begins its turn engulfed, it is  staggered in addition to the damage the attack causes. The save DC to avoid the enveloping mists is Constitution-based.  Gaseous (Ex) A hungry fog has a body composed of eerie mist. It can pass through small holes or narrow openings, even mere cracks, but cannot enter water or other liquid. It has no Strength score, and cannot manipulate objects as a result.  Vulnerable to Wind (Ex) A hungry fog is treated as a Tiny creature for the purposes of determining the effects high wind has upon it (see page 439 of the Core Rulebook).
+SpecialAbilities:
+  Bewitching Brume (Su): >
+    Any creature within 10 feet of a hungry fog or currently being affected by its enveloping mists must succeed on a DC 8 Will save at the start of that creature's turn or become shaken for 1 round at the half-glimpsed shapes of phantoms floating within the fog. This is a mind-affecting fear effect. The save DC is Charisma-based.
+  Enveloping Mists (Ex): >
+    A hungry fog can engulf foes (see Universal Monster Rules in the Appendices). A creature engulfed by a hungry fog does not gain the pinned condition and may move normally-such a creature is not in danger of suffocating, but as long as it begins its turn engulfed, it is  staggered in addition to the damage the attack causes. The save DC to avoid the enveloping mists is Constitution-based.
+  Gaseous (Ex): >
+    A hungry fog has a body composed of eerie mist. It can pass through small holes or narrow openings, even mere cracks, but cannot enter water or other liquid. It has no Strength score, and cannot manipulate objects as a result.
+  Vulnerable to Wind (Ex): >
+    A hungry fog is treated as a Tiny creature for the purposes of determining the effects high wind has upon it (see page 439 of the Core Rulebook).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

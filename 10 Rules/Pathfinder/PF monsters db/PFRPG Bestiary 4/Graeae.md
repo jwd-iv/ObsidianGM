@@ -56,8 +56,15 @@ Skills: Bluff +5, Craft (alchemy) +15, Fly +15, Intimidate +8, Knowledge (arcana
 RacialMods: 
 Languages: Aklo, Common, Giant, Goblin, Sylvan
 SQ: coven, fate casting
-SpecialAbilities: >
-  Coven (Ex) Like hags, graeaes also form covens. A graeae coven can be composed entirely of graeaes, or could or include hags or witches with the coven hex. A hag or witch with the coven hex counts as a graeae for purposes of joining a graeae's coven. Likewise, a graeae counts as a hag for purposes of joining a hag's coven.  Eye of the Graeae (Su) Each graeae possesses a mystic eyeball. A graeae can sense the location of her eyeball from anywhere on the same plane. She must remain within 30 feet of her eyeball or she becomes completely blind and cannot use any of her spell-like or supernatural abilities. The eyeball only works for its graeae. If a graeae is slain, her mystic eye instantly turns to dust. Fate Casting (Su) A graeae has the ability to predict future events. On a creature's request, a graeae can expend a use of mythic power as a full-round action to answer a single question as if by the divination spell.  Luck Ripple (Su) A graeae can use her mystic eye to alter the circumstances of any creature within 30 feet. As a swift action, she can cast her eye on a single creature, causing the target to take a -2 penalty or gain a +2 bonus to one of the following (graeae's choice): AC, ability checks, attack rolls, saving throws, or skill checks. A successful DC 19 Will save negates the effect, which otherwise lasts for 1d6 rounds. This is a mind-affecting gaze effect. The DC of the save is Intelligence-based.
+SpecialAbilities:
+  Coven (Ex): >
+    Like hags, graeaes also form covens. A graeae coven can be composed entirely of graeaes, or could or include hags or witches with the coven hex. A hag or witch with the coven hex counts as a graeae for purposes of joining a graeae's coven. Likewise, a graeae counts as a hag for purposes of joining a hag's coven.
+  Eye of the Graeae (Su): >
+    Each graeae possesses a mystic eyeball. A graeae can sense the location of her eyeball from anywhere on the same plane. She must remain within 30 feet of her eyeball or she becomes completely blind and cannot use any of her spell-like or supernatural abilities. The eyeball only works for its graeae. If a graeae is slain, her mystic eye instantly turns to dust.
+  Fate Casting (Su): >
+    A graeae has the ability to predict future events. On a creature's request, a graeae can expend a use of mythic power as a full-round action to answer a single question as if by the divination spell.
+  Luck Ripple (Su): >
+    A graeae can use her mystic eye to alter the circumstances of any creature within 30 feet. As a swift action, she can cast her eye on a single creature, causing the target to take a -2 penalty or gain a +2 bonus to one of the following (graeae's choice): AC, ability checks, attack rolls, saving throws, or skill checks. A successful DC 19 Will save negates the effect, which otherwise lasts for 1d6 rounds. This is a mind-affecting gaze effect. The DC of the save is Intelligence-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

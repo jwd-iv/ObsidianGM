@@ -56,8 +56,9 @@ Skills: Fly -7, Handle Animal +16, Heal +27, Intimidate +27, Knowledge (nature) 
 RacialMods: 
 Languages: Celestial, Druidic, Sylvan; telepathy 100 ft.
 SQ: amphibious, change shape (any snake; polymorph), compression
-SpecialAbilities: >
-  Fascination Aura (Su) Any creature within 100 feet of the julunggali who can see it must succeed at a Will save (DC 26) or be fascinated as long as it remains within range. A creature that saves against the julunggali's aura is immune to it for 24 hours. The save DC is Charisma-based.  Poison (Ex or Su) A julunggali has three different poisons. Each time it bites, it decides which poison to inject. Julunggali Venom: Bite-injury; save Fort DC 30; frequency 1/round for 6 rounds; effect 1d6 Con or 1d6 Dex or age one age category (julunggali's choice); cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Fascination Aura (Su): >
+    Any creature within 100 feet of the julunggali who can see it must succeed at a Will save (DC 26) or be fascinated as long as it remains within range. A creature that saves against the julunggali's aura is immune to it for 24 hours. The save DC is Charisma-based.  Poison (Ex or Su) A julunggali has three different poisons. Each time it bites, it decides which poison to inject. Julunggali Venom: Bite-injury; save Fort DC 30; frequency 1/round for 6 rounds; effect 1d6 Con or 1d6 Dex or age one age category (julunggali's choice); cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

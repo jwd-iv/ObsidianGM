@@ -56,7 +56,15 @@ Skills: Climb +12, Perception +11
 RacialMods: 
 Languages: 
 SQ: compression, control vermin, create spawn, vermin empathy
-SpecialAbilities: Control Vermin (Ex) A tyrant jelly's spell-like abilities work on mindless vermin that have exoskeletons (bees, centipedes, crabs, flies, wasps, and so on), but not soft-bodied creatures such as leeches, slugs, or worms.  Create Spawn (Ex) Slashing weapons, piercing weapons, and electricity attacks deal no damage to a tyrant jelly. Instead, part of the creature splits off into an ochre jelly. This new jelly has 30 hit points and fast healing 5; the tyrant jelly loses 30 hit points when it splits off. The new jelly is under the control of the tyrant jelly. A tyrant jelly with 30 hit points or fewer can't split again, and dies if reduced to 0 hit points. A tyrant jelly can reabsorb an adjacent spawn as a full-round action, destroying the spawn and adding the spawn's current hit points to its own.  Poison (Ex) Slam-injury; save Fort DC 21; frequency 1/round for 4 rounds; effect 1d4 Con; cure 2 consecutive saves.  Vermin Empathy (Su) A tyrant jelly can improve the attitude of vermin as a druid can with animals. Vermin have a starting attitude of unfriendly.
+SpecialAbilities:
+  Control Vermin (Ex): >
+    A tyrant jelly's spell-like abilities work on mindless vermin that have exoskeletons (bees, centipedes, crabs, flies, wasps, and so on), but not soft-bodied creatures such as leeches, slugs, or worms.
+  Create Spawn (Ex): >
+    Slashing weapons, piercing weapons, and electricity attacks deal no damage to a tyrant jelly. Instead, part of the creature splits off into an ochre jelly. This new jelly has 30 hit points and fast healing 5; the tyrant jelly loses 30 hit points when it splits off. The new jelly is under the control of the tyrant jelly. A tyrant jelly with 30 hit points or fewer can't split again, and dies if reduced to 0 hit points. A tyrant jelly can reabsorb an adjacent spawn as a full-round action, destroying the spawn and adding the spawn's current hit points to its own.
+  Poison (Ex): >
+    Slam-injury; save Fort DC 21; frequency 1/round for 4 rounds; effect 1d4 Con; cure 2 consecutive saves.
+  Vermin Empathy (Su): >
+    A tyrant jelly can improve the attitude of vermin as a druid can with animals. Vermin have a starting attitude of unfriendly.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

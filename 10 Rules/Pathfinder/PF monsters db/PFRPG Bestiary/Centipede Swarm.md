@@ -56,7 +56,9 @@ Skills: Climb +12, Perception +4
 RacialMods: +4 Perception
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 13; frequency 1/round for 6 rounds; effect 1d4 Dex damage; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 13; frequency 1/round for 6 rounds; effect 1d4 Dex damage; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Immunity to Magic (Ex) A wood golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below.  • Warp wood or wood shape slows a wood golem (as the slow spell) for 2d6 rounds (no save).  • Repel wood drives the golem back 60 feet and deals 2d12 points of damage to it (no save).  • A magical attack that deals cold damage breaks any slow effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal.  If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A wood golem gets no saving throw against attacks that deal cold damage.  Splintering (Su) As a free action once every 1d4+1 rounds, a wood golem can launch a barrage of razor-sharp wooden splinters from its body in a 20-foot-radius burst.  All creatures caught within this area take 6d6 points of slashing damage (Reflex DC 14 halves). The save DC is Constitution-based.
+SpecialAbilities:
+  Immunity to Magic (Ex): >
+    A wood golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below.  • Warp wood or wood shape slows a wood golem (as the slow spell) for 2d6 rounds (no save).  • Repel wood drives the golem back 60 feet and deals 2d12 points of damage to it (no save).  • A magical attack that deals cold damage breaks any slow effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal.  If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A wood golem gets no saving throw against attacks that deal cold damage.
+  Splintering (Su): >
+    As a free action once every 1d4+1 rounds, a wood golem can launch a barrage of razor-sharp wooden splinters from its body in a 20-foot-radius burst.  All creatures caught within this area take 6d6 points of slashing damage (Reflex DC 14 halves). The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

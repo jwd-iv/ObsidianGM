@@ -56,7 +56,9 @@ Skills: Acrobatics +10, Disguise +8, Escape Artist +18, Knowledge (arcana) +9, P
 RacialMods: +4 Use Magic Device, +8 Escape Artist
 Languages: Aklo, Common, Draconic, Undercommon; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

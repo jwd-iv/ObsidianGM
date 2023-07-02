@@ -56,7 +56,13 @@ Skills: Bluff +27, Diplomacy +20, Disable Device +15, Escape Artist +18, Intimid
 RacialMods: +4 Intimidate, +4 Stealth
 Languages: Aklo, Common; tongues
 SQ: 
-SpecialAbilities: Deepest Fear (Su) A bogeyman is cloaked in a 30-foot aura of fear. This aura manifests as a shifting haze of images that reflect the viewer's deepest fears. The first time it  ends its turn within the aura, a creature must make a DC 25 Will save or become shaken for as long as it stays within the aura. If the creature succeeds at the saving throw, it cannot be affected again by the aura for another 24 hours. This is a fear effect. The DC is Charisma-based.  Striking Fear (Su) If a bogeyman confirms a critical hit or a sneak attack with one of its claws on a target currently suffering a fear effect, that effect automatically becomes one step more severe (shaken creatures become frightened, frightened creatures become panicked, and panicked creatures cower in fear). A DC 25 Will save negates this increase. In addition, a critical hit from the bogeyman's claw forces any target that has successfully saved against the creature's fear aura to make another Will save against its effects, even if 24 hours have not yet passed. This is a fear effect. The DC is Charisma-based.  Terrible Rejuvenation (Su) A bogeyman gains fast healing 5 while any creature within its deepest fear aura is suffering from a fear effect, including any fear effect created by the aura itself.
+SpecialAbilities:
+  Deepest Fear (Su): >
+    A bogeyman is cloaked in a 30-foot aura of fear. This aura manifests as a shifting haze of images that reflect the viewer's deepest fears. The first time it  ends its turn within the aura, a creature must make a DC 25 Will save or become shaken for as long as it stays within the aura. If the creature succeeds at the saving throw, it cannot be affected again by the aura for another 24 hours. This is a fear effect. The DC is Charisma-based.
+  Striking Fear (Su): >
+    If a bogeyman confirms a critical hit or a sneak attack with one of its claws on a target currently suffering a fear effect, that effect automatically becomes one step more severe (shaken creatures become frightened, frightened creatures become panicked, and panicked creatures cower in fear). A DC 25 Will save negates this increase. In addition, a critical hit from the bogeyman's claw forces any target that has successfully saved against the creature's fear aura to make another Will save against its effects, even if 24 hours have not yet passed. This is a fear effect. The DC is Charisma-based.
+  Terrible Rejuvenation (Su): >
+    A bogeyman gains fast healing 5 while any creature within its deepest fear aura is suffering from a fear effect, including any fear effect created by the aura itself.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

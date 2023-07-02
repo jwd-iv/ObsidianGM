@@ -56,7 +56,9 @@ Skills: Diplomacy +5, Fly +15, Perception +6, Sense Motive +6, Stealth +19 (+23 
 RacialMods: +4 Stealth (improves to +8 in forests)
 Languages: Draconic; telepathy (60 ft.)
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 14; frequency 1/minute for 10 minutes; effect sleep for 1 minute; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 14; frequency 1/minute for 10 minutes; effect sleep for 1 minute; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

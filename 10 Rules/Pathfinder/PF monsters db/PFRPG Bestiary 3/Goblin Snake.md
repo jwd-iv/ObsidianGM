@@ -56,7 +56,11 @@ Skills: Bluff +6, Intimidate +5, Knowledge (local) +3, Perception +5, Stealth +1
 RacialMods: 
 Languages: Common, Goblin
 SQ: snake empathy +7
-SpecialAbilities: Goblin Breath (Ex) Once every 1d4 rounds, a goblin snake can release a disgusting belch as a standard action. Any creature within 5 feet of the goblin snake must succeed at a DC 13 Fortitude save or be sickened for 1d6 rounds by the stench. Creatures that successfully save cannot be affected by the same goblin snake's goblin breath for 24 hours. Goblin snakes and goblins are immune to this effect. This is a poison effect. The save DC is Constitution-based.  Snake Empathy (Ex) This ability functions similarly to a druid's wild empathy ability, but allows a goblin snake to verbally communicate with and be understood by snakes and similar serpentine reptiles. The bonus equals the goblin snake's racial Hit Dice plus its Charisma modifier and a +4 racial bonus.
+SpecialAbilities:
+  Goblin Breath (Ex): >
+    Once every 1d4 rounds, a goblin snake can release a disgusting belch as a standard action. Any creature within 5 feet of the goblin snake must succeed at a DC 13 Fortitude save or be sickened for 1d6 rounds by the stench. Creatures that successfully save cannot be affected by the same goblin snake's goblin breath for 24 hours. Goblin snakes and goblins are immune to this effect. This is a poison effect. The save DC is Constitution-based.
+  Snake Empathy (Ex): >
+    This ability functions similarly to a druid's wild empathy ability, but allows a goblin snake to verbally communicate with and be understood by snakes and similar serpentine reptiles. The bonus equals the goblin snake's racial Hit Dice plus its Charisma modifier and a +4 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

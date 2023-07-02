@@ -56,7 +56,15 @@ Skills: Bluff +29, Fly +10, Intimidate +29, Knowledge (arcana) +29, Knowledge (g
 RacialMods: 
 Languages: Auran, Common, Draconic, Giant, Ignan
 SQ: sound imitation
-SpecialAbilities: Desert Thirst (Su) A blue dragon can cast create water at will (CL 22). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 27) or be destroyed.  Electricity Aura (Su) A very old blue dragon is surrounded by an aura of electricity. Creatures within 10 feet take 1d6 points of electricity damage at the beginning of the dragon's turn.  Mirage (Su) A very old blue dragon can make itself appear to be in two places at once as a free action for 22 rounds per day. This ability functions as project image but the dragon can use its breath weapon through the mirage.  Sound Imitation (Ex) A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
+SpecialAbilities:
+  Desert Thirst (Su): >
+    A blue dragon can cast create water at will (CL 22). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 27) or be destroyed.
+  Electricity Aura (Su): >
+    A very old blue dragon is surrounded by an aura of electricity. Creatures within 10 feet take 1d6 points of electricity damage at the beginning of the dragon's turn.
+  Mirage (Su): >
+    A very old blue dragon can make itself appear to be in two places at once as a free action for 22 rounds per day. This ability functions as project image but the dragon can use its breath weapon through the mirage.
+  Sound Imitation (Ex): >
+    A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
 SpellsKnown: Spells Known (CL 11th; concentration +15)  5th (4/day) -persistent image, hold monster (DC 19)  4th (7/day) -dimension door, enervation, fire shield  3rd (7/day) -dispel magic, displacement, haste, vampiric touch  2nd (7/day) -darkness, false life, invisibility, resist energy, shatter  1st (7/day) -alarm, mage armor, shield, true strike, unseen servant  0 (at will) -arcane mark, bleed (DC 14), detect magic, light, mage hand, mending, message, read magic, resistance
 SpellsPrepared: 
 SpellDomains: 

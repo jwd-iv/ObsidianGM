@@ -56,7 +56,13 @@ Skills: Climb +19, Perception +23
 RacialMods: 
 Languages: Aklo
 SQ: 
-SpecialAbilities: Breath Weapon (Su) A vemerak's acidic breath weapon has no effect on inorganic or undead material. If the breath weapon deals damage to a living fleshy creature, the acid creates a transparent cloud of foul-smelling vapor that fills that creature's space and persists for 1 round. Any creature in or passing through the cloud must make a DC 24 Fortitude save or be nauseated for 1d4 rounds. This cloud is a poison effect. The save DCs are Constitution-based.  Earthquake (Su) As a full-round action, a vemerak can burrow its tentacles, legs, and mouth into the ground-this action does not provoke attacks of opportunity. At the start of the next round, it creates an effect identical to an earthquake spell (CL 17th). A vemerak can maintain this zone of trembling earth indefinitely, as long as it continues to take full-round actions to maintain the effect.  Spore Cloud (Su) A unique form of magic-resistant mold grows upon the body of a vemerak. This mold is the source of the vemerak's spell resistance. When the vemerak moves, the mold exudes a cloud of spores in a 30-foot radius that acts as a targeted greater dispel magic (CL 17th) against the highest caster level magical effect the cloud touches as part of the vemerak's move that turn.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A vemerak's acidic breath weapon has no effect on inorganic or undead material. If the breath weapon deals damage to a living fleshy creature, the acid creates a transparent cloud of foul-smelling vapor that fills that creature's space and persists for 1 round. Any creature in or passing through the cloud must make a DC 24 Fortitude save or be nauseated for 1d4 rounds. This cloud is a poison effect. The save DCs are Constitution-based.
+  Earthquake (Su): >
+    As a full-round action, a vemerak can burrow its tentacles, legs, and mouth into the ground-this action does not provoke attacks of opportunity. At the start of the next round, it creates an effect identical to an earthquake spell (CL 17th). A vemerak can maintain this zone of trembling earth indefinitely, as long as it continues to take full-round actions to maintain the effect.
+  Spore Cloud (Su): >
+    A unique form of magic-resistant mold grows upon the body of a vemerak. This mold is the source of the vemerak's spell resistance. When the vemerak moves, the mold exudes a cloud of spores in a 30-foot radius that acts as a targeted greater dispel magic (CL 17th) against the highest caster level magical effect the cloud touches as part of the vemerak's move that turn.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

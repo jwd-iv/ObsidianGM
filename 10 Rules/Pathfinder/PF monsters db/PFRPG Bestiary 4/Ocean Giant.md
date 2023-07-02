@@ -56,7 +56,9 @@ Skills: Intimidate +17, Knowledge (nature) +11, Perception +24, Perform (wind) +
 RacialMods: 
 Languages: Aquan, Common, Giant
 SQ: amphibious
-SpecialAbilities: Conch Focus (Su) When holding its conch, an ocean giant can cast great shout (DC 22) instead of shout, and gains Augment Summoning as a bonus feat. If the conch is destroyed (hardness 5, 20 hp), the giant can spend 1 week to craft a replacement.
+SpecialAbilities:
+  Conch Focus (Su): >
+    When holding its conch, an ocean giant can cast great shout (DC 22) instead of shout, and gains Augment Summoning as a bonus feat. If the conch is destroyed (hardness 5, 20 hp), the giant can spend 1 week to craft a replacement.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

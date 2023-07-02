@@ -56,7 +56,11 @@ Skills: Acrobatics +7, Climb +9, Perception +7, Sense Motive +7, Stealth +11
 RacialMods: 
 Languages: Ignan
 SQ: heated flesh
-SpecialAbilities: Heated Flesh (Ex) Any metal weapon striking a magmin must succeed at a DC 14 Fortitude save or melt and gain the broken condition. Another strike by the same weapon causes the metal weapon to be destroyed if it fails a second save. Wood weapons are destroyed after only one failed save. Unarmed and natural attacks made against the magmin deal 1 point of fire damage to the attacker. The save DC is Constitution-based.  Searing Aura (Ex) A magmin radiates extremely high temperatures, and any creature that starts its turn within 20 feet of a magmin must  succeed at a DC 14 Fortitude save or take 1d6 points of fire damage. The save DC is Constitution-based.
+SpecialAbilities:
+  Heated Flesh (Ex): >
+    Any metal weapon striking a magmin must succeed at a DC 14 Fortitude save or melt and gain the broken condition. Another strike by the same weapon causes the metal weapon to be destroyed if it fails a second save. Wood weapons are destroyed after only one failed save. Unarmed and natural attacks made against the magmin deal 1 point of fire damage to the attacker. The save DC is Constitution-based.
+  Searing Aura (Ex): >
+    A magmin radiates extremely high temperatures, and any creature that starts its turn within 20 feet of a magmin must  succeed at a DC 14 Fortitude save or take 1d6 points of fire damage. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

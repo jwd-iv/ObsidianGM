@@ -56,8 +56,11 @@ Skills: Acrobatics +7, Bluff +7, Disguise +7, Escape Artist +9, Perception +6, S
 RacialMods: +2 Escape Artist, +2 Perception, +2 Stealth
 Languages: , Common, Vishkanya
 SQ: poison use, toxic
-SpecialAbilities: >
-  Poison Use (Ex) Vishkanyas are skilled with poison and never accidentally poison themselves when using or applying poison.  Toxic (Ex) A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action.  Vishkanya Venom: Injury; save Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
+SpecialAbilities:
+  Poison Use (Ex): >
+    Vishkanyas are skilled with poison and never accidentally poison themselves when using or applying poison.
+  Toxic (Ex): >
+    A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action.  Vishkanya Venom: Injury; save Fort DC 10 + 1/2 the vishkanya's Hit Dice + the vishkanya's Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

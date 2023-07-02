@@ -56,7 +56,11 @@ Skills: Bluff +10, Disguise +10, Intimidate +13, Perception +16, Stealth +13
 RacialMods: +4 Perception
 Languages: Common
 SQ: 
-SpecialAbilities: All-Around Vision (Ex) A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to Perception checks and cannot be flanked.  Petrifying Gaze (Su) Turn to stone permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.  Poison (Ex) Bite-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d3 Str; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities: All-Around Vision (Ex) A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to Perception checks and cannot be flanked.
+  Petrifying Gaze (Su): >
+    Turn to stone permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d3 Str; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

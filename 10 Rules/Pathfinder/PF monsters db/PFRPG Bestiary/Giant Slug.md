@@ -56,7 +56,13 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: malleable
-SpecialAbilities: Spit Acid (Ex) A giant slug can spit acid at an opponent within 60 feet (no range increment). With a successful ranged touch attack, the target takes 10d6 points of acid damage (no save).  Malleable (Ex) A giant slug's body is very malleable, allowing it to fit into narrow areas with ease.  A giant slug takes no penalty to its speed or checks when squeezing in an area that is one size category smaller than its actual size (10 feet wide for most giant slugs). A giant slug can squeeze normally through an area two size categories smaller than its actual size (5 feet wide for most giant slugs).  Susceptible to Salt (Ex) A handful of salt burns a giant slug as if it were a flask of acid, causing 1d6 points of damage per use.
+SpecialAbilities:
+  Spit Acid (Ex): >
+    A giant slug can spit acid at an opponent within 60 feet (no range increment). With a successful ranged touch attack, the target takes 10d6 points of acid damage (no save).
+  Malleable (Ex): >
+    A giant slug's body is very malleable, allowing it to fit into narrow areas with ease.  A giant slug takes no penalty to its speed or checks when squeezing in an area that is one size category smaller than its actual size (10 feet wide for most giant slugs). A giant slug can squeeze normally through an area two size categories smaller than its actual size (5 feet wide for most giant slugs).
+  Susceptible to Salt (Ex): >
+    A handful of salt burns a giant slug as if it were a flask of acid, causing 1d6 points of damage per use.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

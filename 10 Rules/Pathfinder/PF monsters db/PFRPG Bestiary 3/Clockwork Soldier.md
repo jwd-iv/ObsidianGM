@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: efficient winding, proficient, standby, swift reactions
-SpecialAbilities: Efficient Winding (Ex) A clockwork soldier can function for 2 days per Hit Die every time it is wound.  Latch (Ex) Clockwork soldiers have specially designed hands that easily grasp and lock onto weapons and objects. A soldier can attempt to disarm or grapple as a standard action without provoking an attack of opportunity, and it receives a +2 bonus on disarm checks. In addition, it receives a +2 bonus to CMD against attempts to disarm it.  Proficient (Ex) A clockwork soldier is proficient with all simple and martial weapons.  Standby (Ex) A clockwork soldier can place itself on standby as a standard action. While on standby, a clockwork soldier cannot move or take any actions. It remains aware of its surroundings but takes a -4 penalty on Perception checks. Time spent on standby does not count against the soldier's wind-down duration. A clockwork soldier can exit standby as a swift action-if it does so to initiate combat, it gains a +4 racial bonus on its Initiative check.
+SpecialAbilities:
+  Efficient Winding (Ex): >
+    A clockwork soldier can function for 2 days per Hit Die every time it is wound.
+  Latch (Ex): >
+    Clockwork soldiers have specially designed hands that easily grasp and lock onto weapons and objects. A soldier can attempt to disarm or grapple as a standard action without provoking an attack of opportunity, and it receives a +2 bonus on disarm checks. In addition, it receives a +2 bonus to CMD against attempts to disarm it.
+  Proficient (Ex): >
+    A clockwork soldier is proficient with all simple and martial weapons.
+  Standby (Ex): >
+    A clockwork soldier can place itself on standby as a standard action. While on standby, a clockwork soldier cannot move or take any actions. It remains aware of its surroundings but takes a -4 penalty on Perception checks. Time spent on standby does not count against the soldier's wind-down duration. A clockwork soldier can exit standby as a swift action-if it does so to initiate combat, it gains a +4 racial bonus on its Initiative check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

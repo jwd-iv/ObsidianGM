@@ -56,8 +56,11 @@ Skills: Bluff +8, Fly +21, Knowledge (planes) +6, Perception +9, Stealth +15
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; telepathy 100 ft.
 SQ: infernal eye
-SpecialAbilities: >
-  Disease (Ex) Devil Chills: Bite-injury; save Fort DC 14; onset 1d4 days; frequency 1 day; effect 1d4 Str damage; cure 3 consecutive saves.  Infernal Eye (Su) A zebub records all that it sees and may pass its visions on to another creature. By remaining in contact with a willing creature, it can replay up to 24 hours of witnessed events, or shorter incidents if it so chooses. It takes a zebub 1 round to replay 1 hour of recorded images, which the target receives in a flash of information, without sound or other sensory information. After relaying its findings, the zebub cannot replay its visions of those events again. A zebub cannot replay its visions for an unwilling creature or as an attack, no matter how horrific the events it might have witnessed.
+SpecialAbilities:
+  Disease (Ex): >
+    Devil Chills: Bite-injury; save Fort DC 14; onset 1d4 days; frequency 1 day; effect 1d4 Str damage; cure 3 consecutive saves.
+  Infernal Eye (Su): >
+    A zebub records all that it sees and may pass its visions on to another creature. By remaining in contact with a willing creature, it can replay up to 24 hours of witnessed events, or shorter incidents if it so chooses. It takes a zebub 1 round to replay 1 hour of recorded images, which the target receives in a flash of information, without sound or other sensory information. After relaying its findings, the zebub cannot replay its visions of those events again. A zebub cannot replay its visions for an unwilling creature or as an attack, no matter how horrific the events it might have witnessed.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

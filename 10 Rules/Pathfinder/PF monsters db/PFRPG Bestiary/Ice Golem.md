@@ -56,7 +56,13 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Cold (Ex) An ice golem's body generates intense cold, dealing 1d6 points of damage with its touch. Creatures attacking an ice golem with unarmed strikes or natural weapons take this same cold damage each time one of their attacks hits. Icy Destruction (Ex) When reduced to 0 hit points, an ice golem shatters in an explosion of jagged shards of ice. All creatures within a 10-foot burst take 3d6 points of slashing damage and 2d6 points of cold damage; a DC 13 Reflex save halves the damage. The save DC is Constitution-based. Immunity to Magic (Ex) An ice golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below. • A magical attack that deals electricity damage slows an ice golem (as the slow spell) for 2d6 rounds, with no saving throw. • A magical attack that deals cold damage breaks any slow effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An ice golem gets no saving throw against cold effects.
+SpecialAbilities:
+  Cold (Ex): >
+    An ice golem's body generates intense cold, dealing 1d6 points of damage with its touch. Creatures attacking an ice golem with unarmed strikes or natural weapons take this same cold damage each time one of their attacks hits.
+  Icy Destruction (Ex): >
+    When reduced to 0 hit points, an ice golem shatters in an explosion of jagged shards of ice. All creatures within a 10-foot burst take 3d6 points of slashing damage and 2d6 points of cold damage; a DC 13 Reflex save halves the damage. The save DC is Constitution-based.
+  Immunity to Magic (Ex): >
+    An ice golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below. • A magical attack that deals electricity damage slows an ice golem (as the slow spell) for 2d6 rounds, with no saving throw. • A magical attack that deals cold damage breaks any slow effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An ice golem gets no saving throw against cold effects.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

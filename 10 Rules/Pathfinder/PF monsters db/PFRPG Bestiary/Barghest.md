@@ -56,7 +56,9 @@ Skills: Acrobatics +11, Bluff +11, Diplomacy +11, Intimidate +11, Perception +11
 RacialMods: 
 Languages: Infernal, Goblin, Worg
 SQ: change shape (goblin or wolf, polymorph)
-SpecialAbilities: Feed (Su) Once per month, a barghest can devour a nonevil humanoid's corpse as a full-round action to gain a growth point. It gains a bonus equal to its growth point total on attack rolls, CMB rolls, saving throws, and skill checks. Its maximum hit points increase by 5 for each growth point it gains. For every 2 growth points, a barghest's caster level for its spell-like abilities and its CR increase by +1. When a barghest reaches 4 growth points, it sheds its skin and becomes a greater barghest, losing all of its growth points (and bonuses) but gaining the stats presented on this page for a greater barghest.
+SpecialAbilities:
+  Feed (Su): >
+    Once per month, a barghest can devour a nonevil humanoid's corpse as a full-round action to gain a growth point. It gains a bonus equal to its growth point total on attack rolls, CMB rolls, saving throws, and skill checks. Its maximum hit points increase by 5 for each growth point it gains. For every 2 growth points, a barghest's caster level for its spell-like abilities and its CR increase by +1. When a barghest reaches 4 growth points, it sheds its skin and becomes a greater barghest, losing all of its growth points (and bonuses) but gaining the stats presented on this page for a greater barghest.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Bluff +12, Craft (traps) +12, Fly +14, Perception +12, Perform (comedy) 
 RacialMods: 
 Languages: Common, Draconic, Gnome
 SQ: 
-SpecialAbilities: Climb Stone (Ex) A copper dragon can climb on stone surfaces as though using the spider climb spell.  Slow Breath (Su) Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
+SpecialAbilities:
+  Climb Stone (Ex): >
+    A copper dragon can climb on stone surfaces as though using the spider climb spell.
+  Slow Breath (Su): >
+    Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Intimidate +3, Perception +5
 RacialMods: 
 Languages: Celestial, Common
 SQ: armor and weapon training, fighter training
-SpecialAbilities: Armor and Weapon Training (Ex) Udaeoi are proficient with simple weapons, martial weapons, light armor, medium armor, heavy armor, and shields (including tower shields).  Energy Resistance (Ex) An udaeus has resistance 30 against one type of energy. By performing a ritual that takes one day, an udaeus can change its energy resistance to a different energy type (either acid, cold, electricity, or fire). Most udaeoi choose fire resistance unless they expect to fight a creature using a specific energy type.  Fighter Training (Ex) An udaeus counts its racial Hit Dice as fighter levels for the purpose of qualifying for feats. If it has levels in fighter, these HIt Dice stack.  Infuse Arms and Armor (Ex) Any improvised weapon an udaeus wields is treated as a comparable normal weapon. Any normal weapon an udaeus wields is treated as a masterwork weapon. Any masterwork weapon it wields is treated as a weapon with a magical +1 enhancement bonus. Any weapon with a magical enhancement bonus it wields is treated as though its enhancement bonus were 1 higher than its actual value (to a maximum of +6). This ability also applies to armor and shields (normal is treated as masterwork, masterwork is treated as +1, and +1 or higher is treated as 1 higher than actual).
+SpecialAbilities:
+  Armor and Weapon Training (Ex): >
+    Udaeoi are proficient with simple weapons, martial weapons, light armor, medium armor, heavy armor, and shields (including tower shields).
+  Energy Resistance (Ex): >
+    An udaeus has resistance 30 against one type of energy. By performing a ritual that takes one day, an udaeus can change its energy resistance to a different energy type (either acid, cold, electricity, or fire). Most udaeoi choose fire resistance unless they expect to fight a creature using a specific energy type.
+  Fighter Training (Ex): >
+    An udaeus counts its racial Hit Dice as fighter levels for the purpose of qualifying for feats. If it has levels in fighter, these HIt Dice stack.
+  Infuse Arms and Armor (Ex): >
+    Any improvised weapon an udaeus wields is treated as a comparable normal weapon. Any normal weapon an udaeus wields is treated as a masterwork weapon. Any masterwork weapon it wields is treated as a weapon with a magical +1 enhancement bonus. Any weapon with a magical enhancement bonus it wields is treated as though its enhancement bonus were 1 higher than its actual value (to a maximum of +6). This ability also applies to armor and shields (normal is treated as masterwork, masterwork is treated as +1, and +1 or higher is treated as 1 higher than actual).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

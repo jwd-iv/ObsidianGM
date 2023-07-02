@@ -56,7 +56,11 @@ Skills: Bluff +22, Diplomacy +22, Fly +26, Knowledge (arcana) +18, Perception +2
 RacialMods: 
 Languages: Common, Sylvan, Thriae
 SQ: 
-SpecialAbilities: Merope Consumption (Su) Three times per day as a standard action, a thriae seer can consume a dose of merope in order to further tap into her spiritual powers for 1d6+3 rounds. Starting on the round after she consumes the merope, the  thriae seer gains an insight bonus to her AC and on damage done with melee attacks equal to her Wisdom modifier (+6 for most thriae seers).  Mind Sting (Su) A target stung by a thriae seer becomes confused for 1d4 rounds unless it makes a successful DC 21 Will save. This is a mind-affecting effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Merope Consumption (Su): >
+    Three times per day as a standard action, a thriae seer can consume a dose of merope in order to further tap into her spiritual powers for 1d6+3 rounds. Starting on the round after she consumes the merope, the  thriae seer gains an insight bonus to her AC and on damage done with melee attacks equal to her Wisdom modifier (+6 for most thriae seers).
+  Mind Sting (Su): >
+    A target stung by a thriae seer becomes confused for 1d4 rounds unless it makes a successful DC 21 Will save. This is a mind-affecting effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

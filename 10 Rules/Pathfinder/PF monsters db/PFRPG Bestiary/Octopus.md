@@ -56,7 +56,13 @@ Skills: Escape Artist +13, Stealth +20, Swim +9
 RacialMods: +8 Stealth, +10 Escape Artist
 Languages: 
 SQ: 
-SpecialAbilities: Ink Cloud (Ex) An octopus can emit a 10-foot-radius sphere of ink once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute. Jet (Ex) An octopus can jet backward once per round as a full-round action, at a speed of 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so. Poison (Ex) Bite-injury; save Fort DC 13; frequency 1/round for 6 rounds; effect 1 Str; cure 1 save.
+SpecialAbilities:
+  Ink Cloud (Ex): >
+    An octopus can emit a 10-foot-radius sphere of ink once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute.
+  Jet (Ex): >
+    An octopus can jet backward once per round as a full-round action, at a speed of 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 13; frequency 1/round for 6 rounds; effect 1 Str; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

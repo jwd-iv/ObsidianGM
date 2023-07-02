@@ -56,7 +56,13 @@ Skills: Perception +10, Sense Motive +5, Survival +5
 RacialMods: 
 Languages: Sylvan
 SQ: freeze, produce water
-SpecialAbilities: Needle Cone (Ex) Three times per day, as a standard action a saguaroi can eject a barrage of needles from its body. This effect creates a 15-foot-cone burst of needles that deals 4d6 points of piercing damage to all creatures in the area (Reflex DC 20 for half). The save DC is Constitution-based.  Needle Hide (Ex) A saguaroi is covered with needles and spines, and its slam attacks deal both bludgeoning and piercing damage. Any creature grappling a saguaroi or attacking it with a natural attack or unarmed strike takes 1d4 points of piercing damage (manufactured weapons with the reach special feature do not endanger the user this way). A creature grappling a saguaroi takes this damage each round of the grapple.  Produce Water (Ex) As a standard action once per hour, a saguaroi can cut itself (taking 1 point of damage) to produce 1 gallon of water. After producing 4 gallons, it becomes fatigued. After producing 8 gallons, it becomes exhausted and cannot produce more water for 24 hours.
+SpecialAbilities:
+  Needle Cone (Ex): >
+    Three times per day, as a standard action a saguaroi can eject a barrage of needles from its body. This effect creates a 15-foot-cone burst of needles that deals 4d6 points of piercing damage to all creatures in the area (Reflex DC 20 for half). The save DC is Constitution-based.
+  Needle Hide (Ex): >
+    A saguaroi is covered with needles and spines, and its slam attacks deal both bludgeoning and piercing damage. Any creature grappling a saguaroi or attacking it with a natural attack or unarmed strike takes 1d4 points of piercing damage (manufactured weapons with the reach special feature do not endanger the user this way). A creature grappling a saguaroi takes this damage each round of the grapple.
+  Produce Water (Ex): >
+    As a standard action once per hour, a saguaroi can cut itself (taking 1 point of damage) to produce 1 gallon of water. After producing 4 gallons, it becomes fatigued. After producing 8 gallons, it becomes exhausted and cannot produce more water for 24 hours.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

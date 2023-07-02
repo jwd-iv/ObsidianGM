@@ -56,7 +56,11 @@ Skills: Climb +20, Diplomacy +15, Knowledge (arcana) +15, Perception +18 (+22 wi
 RacialMods: 
 Languages: Common, telepathy 150 ft.
 SQ: formian traits, inspire hive, undersized weapons
-SpecialAbilities: Inspire Hive (Su) Once per day, a myrmarch can affect all warriors and workers in its telepathic range as if they were under the effect of a greater heroism spell (CL 12th).  Poison (Ex) Javelin or sting-injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Dex and sickened; cure 2 saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Inspire Hive (Su): >
+    Once per day, a myrmarch can affect all warriors and workers in its telepathic range as if they were under the effect of a greater heroism spell (CL 12th).
+  Poison (Ex): >
+    Javelin or sting-injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Dex and sickened; cure 2 saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

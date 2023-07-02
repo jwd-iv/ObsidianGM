@@ -56,7 +56,9 @@ Skills: Climb +7, Perception +6
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Quills (Ex) Any creature attacking a giant porcupine with light or one-handed melee weapons, natural weapons, or an unarmed strike takes 1d3 points of piercing damage. A creature that grapples a giant porcupine takes 2d4 points of piercing damage each round it does so.
+SpecialAbilities:
+  Quills (Ex): >
+    Any creature attacking a giant porcupine with light or one-handed melee weapons, natural weapons, or an unarmed strike takes 1d3 points of piercing damage. A creature that grapples a giant porcupine takes 2d4 points of piercing damage each round it does so.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

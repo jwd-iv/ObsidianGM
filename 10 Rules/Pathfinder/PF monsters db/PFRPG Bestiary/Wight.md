@@ -56,7 +56,11 @@ Skills: Intimidate +9, Knowledge (religion) +7, Perception +11, Stealth +16
 RacialMods: +8 Stealth
 Languages: Common
 SQ: create spawn
-SpecialAbilities: Create Spawn (Su) Any humanoid creature that is slain by a wight becomes a wight itself in only 1d4 rounds. Spawn so created are less powerful than typical wights, and suffer a -2 penalty on all d20 rolls and checks, as well as -2 hp per HD. Spawn are under the command of the wight that created them and remain enslaved until its death, at which point they lose their spawn penalties and become fullfledged and free-willed wights. They do not possess any of the abilities they had in life. Resurrection Vulnerability (Su) A raise dead or similar spell cast on a wight destroys it (Will negates). Using the spell in this way does not require a material component.
+SpecialAbilities:
+  Create Spawn (Su): >
+    Any humanoid creature that is slain by a wight becomes a wight itself in only 1d4 rounds. Spawn so created are less powerful than typical wights, and suffer a -2 penalty on all d20 rolls and checks, as well as -2 hp per HD. Spawn are under the command of the wight that created them and remain enslaved until its death, at which point they lose their spawn penalties and become fullfledged and free-willed wights. They do not possess any of the abilities they had in life.
+  Resurrection Vulnerability (Su): >
+    A raise dead or similar spell cast on a wight destroys it (Will negates). Using the spell in this way does not require a material component.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

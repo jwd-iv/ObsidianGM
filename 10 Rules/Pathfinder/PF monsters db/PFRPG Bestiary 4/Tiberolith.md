@@ -56,7 +56,13 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Corrosive Strikes (Ex) A tiberolith reduced to 30 or fewer hit points leaks acid, and deals an additional 1d6 points of acid damage with its slam attacks.  Shockwave (Su) Three times per day, a tiberolith can unleash a burst of electricity. This blast deals 12d6 points of electricity damage to all creatures within 30 feet (Reflex DC 16 half). A tiberolith is immune to its shockwave and that of other tiberoliths. The save DC is Constitution-based.  Spell Trap (Su) When a tiberolith is targeted by a spell that allows spell resistance and its spell resistance fails to protect it against that spell, the spell instead becomes trapped in the tiberolith's magical runes. The runes can only trap one spell at a time; if a second spell would become trapped, the first spell affects the tiberolith normally (including allowing a saving throw, if appropriate) and the second spell is trapped. A trapped spell dissipates harmlessly after 24 hours.
+SpecialAbilities:
+  Corrosive Strikes (Ex): >
+    A tiberolith reduced to 30 or fewer hit points leaks acid, and deals an additional 1d6 points of acid damage with its slam attacks.
+  Shockwave (Su): >
+    Three times per day, a tiberolith can unleash a burst of electricity. This blast deals 12d6 points of electricity damage to all creatures within 30 feet (Reflex DC 16 half). A tiberolith is immune to its shockwave and that of other tiberoliths. The save DC is Constitution-based.
+  Spell Trap (Su): >
+    When a tiberolith is targeted by a spell that allows spell resistance and its spell resistance fails to protect it against that spell, the spell instead becomes trapped in the tiberolith's magical runes. The runes can only trap one spell at a time; if a second spell would become trapped, the first spell affects the tiberolith normally (including allowing a saving throw, if appropriate) and the second spell is trapped. A trapped spell dissipates harmlessly after 24 hours.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

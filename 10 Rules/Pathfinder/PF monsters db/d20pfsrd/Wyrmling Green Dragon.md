@@ -56,7 +56,9 @@ Skills: Fly +12, Knowledge (nature) +8, Perception +10, Stealth +14, Survival +8
 RacialMods: +8 Swim
 Languages: Draconic
 SQ: 
-SpecialAbilities: Water Breathing (Ex) A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+SpecialAbilities:
+  Water Breathing (Ex): >
+    A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

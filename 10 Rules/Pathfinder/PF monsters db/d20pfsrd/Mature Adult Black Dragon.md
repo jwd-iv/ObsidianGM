@@ -56,7 +56,15 @@ Skills: Fly +14, Handle Animal +18, Intimidate +21, Knowledge (arcana) +21, Perc
 RacialMods: +8 Swim
 Languages: Common, Draconic, Giant
 SQ: corrupt water, speak with reptiles, swamp stride, water breathing
-SpecialAbilities: Corrupt Water (Sp) Once per day an adult or older black dragon can stagnate 10 cubic feet of still water, making it foul and unable to support water-breathing life. The ability spoils liquids containing water. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC equal to the dragon's frightful presence) or become ruined. This ability is the equivalent of a 1st-level spell. Its range is equal to that of the dragon's frightful presence. Speak with Reptiles (Sp) A young or older black dragon gains the constant spell-like ability to speak with reptiles. This functions as speak with animals, but only with reptilian animals. Swamp Stride (Ex) A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed. Water Breathing (Ex) A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+SpecialAbilities:
+  Corrupt Water (Sp): >
+    Once per day an adult or older black dragon can stagnate 10 cubic feet of still water, making it foul and unable to support water-breathing life. The ability spoils liquids containing water. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC equal to the dragon's frightful presence) or become ruined. This ability is the equivalent of a 1st-level spell. Its range is equal to that of the dragon's frightful presence.
+  Speak with Reptiles (Sp): >
+    A young or older black dragon gains the constant spell-like ability to speak with reptiles. This functions as speak with animals, but only with reptilian animals.
+  Swamp Stride (Ex): >
+    A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.
+  Water Breathing (Ex): >
+    A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 SpellsKnown: Spells Known (CL 5th, concentration +7) 2nd (5/day)-blur, summon swarm 1st (7/day)-alarm, mage armor, magic missile, obscuring mist 0 (at will)-dancing lights, detect magic, mending, message, read magic, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

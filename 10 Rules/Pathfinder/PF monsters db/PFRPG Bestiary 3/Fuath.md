@@ -56,7 +56,11 @@ Skills: Climb +9, Escape Artist +5, Handle Animal +4, Perception +5, Stealth +13
 RacialMods: +4 Handle Animal
 Languages: Aquan
 SQ: amphibious
-SpecialAbilities: Congeal Water (Su) Once per day, a fuath can surround a creature in a thin layer of magically viscous water as a standard action at a range of 30 feet. A target that fails a DC 10 Reflex save becomes entangled and must hold its breath or risk drowning. The target or an adjacent creature can spend a full-round action on its turn scraping off the clinging fluid, allowing a new Reflex save with a +2 bonus; otherwise, the effect lasts for 1d4 minutes. A fuath can use this ability even if there is no source of water nearby. The save DC is Charisma-based and includes a +1 racial bonus.  Vulnerable to Sunlight (Ex) A fuath takes 1 point of Constitution damage after every hour it is exposed to sunlight. Water of a depth of at least 1 foot negates this harmful effect.
+SpecialAbilities:
+  Congeal Water (Su): >
+    Once per day, a fuath can surround a creature in a thin layer of magically viscous water as a standard action at a range of 30 feet. A target that fails a DC 10 Reflex save becomes entangled and must hold its breath or risk drowning. The target or an adjacent creature can spend a full-round action on its turn scraping off the clinging fluid, allowing a new Reflex save with a +2 bonus; otherwise, the effect lasts for 1d4 minutes. A fuath can use this ability even if there is no source of water nearby. The save DC is Charisma-based and includes a +1 racial bonus.
+  Vulnerable to Sunlight (Ex): >
+    A fuath takes 1 point of Constitution damage after every hour it is exposed to sunlight. Water of a depth of at least 1 foot negates this harmful effect.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

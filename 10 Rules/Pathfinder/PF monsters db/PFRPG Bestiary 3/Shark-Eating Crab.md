@@ -56,7 +56,9 @@ Skills: Perception +5, Swim +17
 RacialMods: +4 Perception
 Languages: 
 SQ: water dependency
-SpecialAbilities: Darting Claw (Ex) Evolved for snatching fast prey, a shark-eating crab is exceptionally quick with its claws. When making a full attack, if a shark-eating crab misses with both of its claw attacks, it can make an additional claw attack at a -2 penalty against any creature within its reach.
+SpecialAbilities:
+  Darting Claw (Ex): >
+    Evolved for snatching fast prey, a shark-eating crab is exceptionally quick with its claws. When making a full attack, if a shark-eating crab misses with both of its claw attacks, it can make an additional claw attack at a -2 penalty against any creature within its reach.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

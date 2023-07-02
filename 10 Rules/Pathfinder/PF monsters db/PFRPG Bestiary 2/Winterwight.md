@@ -56,7 +56,11 @@ Skills: Acrobatics +26, Intimidate +32, Perception +27, Stealth +29
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Aura of Cold (Su) Winterwights are surrounded by a 10-foot radius of deathly chill. Any creatures within this area during the winterwight's turn takes 2d10 points of cold damage. All creatures of the cold subtype within this area (including the winterwight) are treated as having fast healing 10.  Blightfire (Su) Whenever a winterwight damages a creature with a bite or claw, the wound erupts with tongues of black fire. For the next 5 rounds, the victim must make a DC 29 Fortitude saving throw at the start of its turn or take 1d6 points of Constitution drain. The winterwight gains 10 temporary hit points each time the creature fails a saving throw against blightfire. A creature cannot be affected by more than one instance of blightfire at a time. The save DC is Charisma-based.
+SpecialAbilities:
+  Aura of Cold (Su): >
+    Winterwights are surrounded by a 10-foot radius of deathly chill. Any creatures within this area during the winterwight's turn takes 2d10 points of cold damage. All creatures of the cold subtype within this area (including the winterwight) are treated as having fast healing 10.
+  Blightfire (Su): >
+    Whenever a winterwight damages a creature with a bite or claw, the wound erupts with tongues of black fire. For the next 5 rounds, the victim must make a DC 29 Fortitude saving throw at the start of its turn or take 1d6 points of Constitution drain. The winterwight gains 10 temporary hit points each time the creature fails a saving throw against blightfire. A creature cannot be affected by more than one instance of blightfire at a time. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

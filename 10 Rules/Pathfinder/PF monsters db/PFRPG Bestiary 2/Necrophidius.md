@@ -56,7 +56,11 @@ Skills: Stealth +15
 RacialMods: +12 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Dance of Death (Ex) A necrophidius can entrance opponents by swaying back and forth as a full-round action. All creatures within 30 feet who can see the necrophidius when it uses its dance of death must succeed on a DC 15 Will save or be dazed for 2d4 rounds. This is a mind-affecting effect. The save DC is Constitution-based and includes a +4 racial bonus.  Paralysis (Su) Any living creature that is bitten by a necrophidius must succeed on a DC 13 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Constitution-based and includes a +2 racial bonus.
+SpecialAbilities:
+  Dance of Death (Ex): >
+    A necrophidius can entrance opponents by swaying back and forth as a full-round action. All creatures within 30 feet who can see the necrophidius when it uses its dance of death must succeed on a DC 15 Will save or be dazed for 2d4 rounds. This is a mind-affecting effect. The save DC is Constitution-based and includes a +4 racial bonus.
+  Paralysis (Su): >
+    Any living creature that is bitten by a necrophidius must succeed on a DC 13 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Constitution-based and includes a +2 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

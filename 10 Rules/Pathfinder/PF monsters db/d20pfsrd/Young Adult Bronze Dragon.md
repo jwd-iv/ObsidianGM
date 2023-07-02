@@ -56,7 +56,13 @@ Skills: Diplomacy +21, Fly +9, Handle Animal +18, Intimidate +21, Knowledge (arc
 RacialMods: +8 Swim
 Languages: Aquan, Common, Draconic, Elven, Gnome
 SQ: change shape (animal or humanoid, polymorph), water breathing, wave mastery (50 min)
-SpecialAbilities: Repulsion Breath (Su) Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.  Water Breathing (Ex) A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.  Wave Mastery (Su) For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
+SpecialAbilities:
+  Repulsion Breath (Su): >
+    Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.
+  Water Breathing (Ex): >
+    A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
+  Wave Mastery (Su): >
+    For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
 SpellsKnown: Sorcerer Spells Known (CL 5th; concentration +9)  2nd (5/day)- blur, mirror image  1st (7/day)- alarm, mage armor, obscuring mist, true strike  0 (at will)- detect magic, light, mage hand, message, resistance, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

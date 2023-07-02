@@ -56,7 +56,9 @@ Skills: Acrobatics +11 (+19 jump), Climb +14, Fly +0, Perception +12, Sense Moti
 RacialMods: 
 Languages: Infernal
 SQ: 
-SpecialAbilities: Black Cloud (Su) An achaierai can exhale a cloud of choking, toxic smoke three times per day. All creatures within 10 feet of the achaierai immediately take 2d6 points of damage as their flesh melts and rots away. The cloud erodes sanity as well as flesh, and anyone who takes damage from the black cloud must also make a DC 15 Fortitude save or become confused. Every round, the victim may attempt another DC 15 Fortitude save to recover from the confusion; otherwise it persists, lasting indefinitely until the condition is removed or the victim eventually makes her saving throw. The confusion element of a black cloud is a mind-affecting effect. The save DC is Constitution-based. This is a poison effect.  Achaierais are immune to this ability.
+SpecialAbilities:
+  Black Cloud (Su): >
+    An achaierai can exhale a cloud of choking, toxic smoke three times per day. All creatures within 10 feet of the achaierai immediately take 2d6 points of damage as their flesh melts and rots away. The cloud erodes sanity as well as flesh, and anyone who takes damage from the black cloud must also make a DC 15 Fortitude save or become confused. Every round, the victim may attempt another DC 15 Fortitude save to recover from the confusion; otherwise it persists, lasting indefinitely until the condition is removed or the victim eventually makes her saving throw. The confusion element of a black cloud is a mind-affecting effect. The save DC is Constitution-based. This is a poison effect.  Achaierais are immune to this ability.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

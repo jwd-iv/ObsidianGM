@@ -56,7 +56,9 @@ Skills: Acrobatics +18 (+22 when jumping), Bluff +23, Climb +17, Disguise +26, I
 RacialMods: +4 Bluff, +8 Disguise
 Languages: Common, Infernal, Undercommon
 SQ: change shape (any humanoid; alter self or giant form I)
-SpecialAbilities: Martial Artist (Su) A tataka's unarmed strikes deal 2d6 points of damage. If a tataka gains monk levels, it uses its tataka unarmed strike damage or its monk unarmed strike damage, whichever is higher. Its unarmed strikes function as lawful and evil weapons for overcoming damage reduction.  Spells A tataka casts spells as a 12th-level sorcerer. A tataka can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a tataka.
+SpecialAbilities:
+  Martial Artist (Su): >
+    A tataka's unarmed strikes deal 2d6 points of damage. If a tataka gains monk levels, it uses its tataka unarmed strike damage or its monk unarmed strike damage, whichever is higher. Its unarmed strikes function as lawful and evil weapons for overcoming damage reduction.  Spells A tataka casts spells as a 12th-level sorcerer. A tataka can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a tataka.
 SpellsKnown: Spells Known (CL 12th; concentration +17)   6th (3/day)-heal   5th (6/day)-flame strike (DC 20), telekinesis (DC 20)   4th (7/day)-charm monster (DC 19), dimension door, freedom of movement   3rd (7/day)-dispel magic, fireball (DC 18), haste, rage   2nd (7/day)-acid arrow, cure moderate wounds, death knell (DC 17), invisibility, misdirection   1st (8/day)-command (DC 16), mage armor, magic missile, ray of enfeeblement (DC 16), shield of faith   0 (at will)-acid splash, bleed (DC 15), light, mage hand, mending, message, open/close, prestidigitation, read magic
 SpellsPrepared: 
 SpellDomains: 

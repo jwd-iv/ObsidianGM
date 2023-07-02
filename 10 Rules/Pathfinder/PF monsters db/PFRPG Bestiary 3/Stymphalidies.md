@@ -56,7 +56,11 @@ Skills: Fly +4, Perception +12
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Glare (Su) As a standard action, in any area of normal or brighter light, a stymphalidies can ruffle its metallic feathers in such a way as to blind all creatures nearby. Any creature within 30 feet must succeed at a DC 19 Fortitude save or be blinded for 1d6 minutes. A creature can defend against this effect in the same way it would a gaze attack. This is a sight-based effect. The save DC is Constitution-based.  Wing Razors (Ex) A stymphalidies's metallic feathers are razor-sharp. In addition to being able to slash creatures with its wings as a melee attack, it may beat its wings, flinging two large, feathered shards at a single target. These wing razors deal 2d6 points of damage and cause bleed, with a range increment of 50 feet. A stymphalidies can use this attack a number of times per day equal to its Constitution modifier (5 times per day for most stymphalidies).
+SpecialAbilities:
+  Glare (Su): >
+    As a standard action, in any area of normal or brighter light, a stymphalidies can ruffle its metallic feathers in such a way as to blind all creatures nearby. Any creature within 30 feet must succeed at a DC 19 Fortitude save or be blinded for 1d6 minutes. A creature can defend against this effect in the same way it would a gaze attack. This is a sight-based effect. The save DC is Constitution-based.
+  Wing Razors (Ex): >
+    A stymphalidies's metallic feathers are razor-sharp. In addition to being able to slash creatures with its wings as a melee attack, it may beat its wings, flinging two large, feathered shards at a single target. These wing razors deal 2d6 points of damage and cause bleed, with a range increment of 50 feet. A stymphalidies can use this attack a number of times per day equal to its Constitution modifier (5 times per day for most stymphalidies).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

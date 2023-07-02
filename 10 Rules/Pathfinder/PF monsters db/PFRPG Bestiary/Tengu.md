@@ -56,7 +56,11 @@ Skills: Acrobatics +7, Appraise +4, Bluff +3, Climb +5, Knowledge (local) +4, Li
 RacialMods: +2 Perception, +2 Stealth, +4 Linguistics
 Languages: Common, Goblin, Halfling, Tengu
 SQ: gifted linguist, swordtrained, trapfinding
-SpecialAbilities: Gifted Linguist (Ex) Tengus gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language. Swordtrained (Ex) Tengus are trained from birth in swordplay, and as a result are automatically proficient with sword-like weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).
+SpecialAbilities:
+  Gifted Linguist (Ex): >
+    Tengus gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language.
+  Swordtrained (Ex): >
+    Tengus are trained from birth in swordplay, and as a result are automatically proficient with sword-like weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

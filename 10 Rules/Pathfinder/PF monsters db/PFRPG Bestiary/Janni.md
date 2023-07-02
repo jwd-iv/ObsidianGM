@@ -56,7 +56,11 @@ Skills: Appraise +11, Craft (any one-usually weaponsmith) +11, Fly +14, Percepti
 RacialMods: 
 Languages: Common, one elemental language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal); telepathy 100 ft.
 SQ: elemental endurance
-SpecialAbilities: Change Size (Sp) Twice per day, a janni can magically change a creature's size. This works just like an enlarge person This regal figure looks like a tall, well-proportioned human, save that its eyes sparkle with strange light. or reduce person spell (the janni chooses when using the ability), except that the ability can work on the janni. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell. Elemental Endurance (Ex) Jann can remain on the Planes of Air, Earth, Fire, or Water for up to 48 hours at a time. Failure to return to the Material Plane before that time expires causes a janni to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
+SpecialAbilities:
+  Change Size (Sp): >
+    Twice per day, a janni can magically change a creature's size. This works just like an enlarge person This regal figure looks like a tall, well-proportioned human, save that its eyes sparkle with strange light. or reduce person spell (the janni chooses when using the ability), except that the ability can work on the janni. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+  Elemental Endurance (Ex): >
+    Jann can remain on the Planes of Air, Earth, Fire, or Water for up to 48 hours at a time. Failure to return to the Material Plane before that time expires causes a janni to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

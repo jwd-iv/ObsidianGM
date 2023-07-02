@@ -56,7 +56,11 @@ Skills: Bluff +7, Fly +4, Perception +10, Stealth +10 (+14 in rocky areas)
 RacialMods: +4 Bluff, +4 Perception
 Languages: Aklo, Common (can't speak any language); telepathy 60 ft.
 SQ: 
-SpecialAbilities: Poison (Ex) Bite or spit venom-injury; save Fort DC 15; frequency 1/minute for 6 minutes; effect 1 Con damage plus blindness for 1 minute; cure 1 save.  Spit Venom (Ex) As a standard action, a seru can spit venom up to 30 feet. This is a ranged touch attack with no range increment. Any opponent hit by this attack is exposed to the seru's poison.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite or spit venom-injury; save Fort DC 15; frequency 1/minute for 6 minutes; effect 1 Con damage plus blindness for 1 minute; cure 1 save.
+  Spit Venom (Ex): >
+    As a standard action, a seru can spit venom up to 30 feet. This is a ranged touch attack with no range increment. Any opponent hit by this attack is exposed to the seru's poison.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

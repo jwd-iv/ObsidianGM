@@ -56,8 +56,13 @@ Skills: Perception +5, Stealth +7
 RacialMods: 
 Languages: Common
 SQ: false humanity
-SpecialAbilities: >
-  Aura of Faithlessness (Su) The huecuva and all undead creatures within 30 feet receive a +2 profane bonus on Will saves made to resist channeled energy and positive energy effects.  Disease (Ex) Filth fever: Injury; save Fort DC 12; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Str damage; cure 2 consecutive saves. The save DC is Charisma-based.  False Humanity (Su) During the day, a huecuva is cloaked in an illusion that makes it look, sound, and feel like the living creature it once was. This effect functions similarly to  disguise self-if a creature interacts directly with a huecuva, it can attempt a DC 12 Will save to see through the illusion. Regardless, the huecuva's scent never changes-it always exudes a faint stench of grave dust and decay. Creatures with the scent ability receive a +4 bonus on any Will saving throw made to see through this illusion. At night (regardless of whether the huecuva itself knows night has fallen) this illusion fades and reveals the creature for what it truly is. The save DC is Charisma-based.
+SpecialAbilities:
+  Aura of Faithlessness (Su): >
+    The huecuva and all undead creatures within 30 feet receive a +2 profane bonus on Will saves made to resist channeled energy and positive energy effects.
+  Disease (Ex): >
+    Filth fever: Injury; save Fort DC 12; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Str damage; cure 2 consecutive saves. The save DC is Charisma-based.
+  False Humanity (Su): >
+    During the day, a huecuva is cloaked in an illusion that makes it look, sound, and feel like the living creature it once was. This effect functions similarly to  disguise self-if a creature interacts directly with a huecuva, it can attempt a DC 12 Will save to see through the illusion. Regardless, the huecuva's scent never changes-it always exudes a faint stench of grave dust and decay. Creatures with the scent ability receive a +4 bonus on any Will saving throw made to see through this illusion. At night (regardless of whether the huecuva itself knows night has fallen) this illusion fades and reveals the creature for what it truly is. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

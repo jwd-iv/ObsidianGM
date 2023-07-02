@@ -56,7 +56,11 @@ Skills: Fly +10, Perception +3, Stealth +12
 RacialMods: 
 Languages: Common (cannot speak);  telepathic link
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 13; frequency 1/minute for 60 minutes; effect sleep for 1 minute; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.  Telepathic Link (Su) A homunculus cannot speak, but the process of creating one links it telepathically with its creator. A homunculus knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 13; frequency 1/minute for 60 minutes; effect sleep for 1 minute; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+  Telepathic Link (Su): >
+    A homunculus cannot speak, but the process of creating one links it telepathically with its creator. A homunculus knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

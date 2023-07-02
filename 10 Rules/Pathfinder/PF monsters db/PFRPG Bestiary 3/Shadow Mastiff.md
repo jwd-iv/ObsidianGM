@@ -56,7 +56,11 @@ Skills: Perception +10, Stealth +11, Survival +10
 RacialMods: 
 Languages: Common (cannot speak)
 SQ: 
-SpecialAbilities: Bay (Su) When a shadow mastiff howls or barks, all creatures within a 300-foot spread except evil outsiders must succeed at a DC 16 Will save or become panicked for 1d4 rounds. This is a sonic, mind-affecting fear effect. A creature that successfully saves cannot be affected by the same mastiff's bay for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based and includes a +2 racial bonus.  Shadow Blend (Su) In any condition of illumination other than full daylight, a shadow mastiff disappears into the shadows, giving it concealment (50% miss chance). Artificial illumination, even a light or continual flame spell, does not negate this ability; a daylight spell, however, does. A shadow mastiff can suspend or resume this ability as a free action.
+SpecialAbilities:
+  Bay (Su): >
+    When a shadow mastiff howls or barks, all creatures within a 300-foot spread except evil outsiders must succeed at a DC 16 Will save or become panicked for 1d4 rounds. This is a sonic, mind-affecting fear effect. A creature that successfully saves cannot be affected by the same mastiff's bay for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based and includes a +2 racial bonus.
+  Shadow Blend (Su): >
+    In any condition of illumination other than full daylight, a shadow mastiff disappears into the shadows, giving it concealment (50% miss chance). Artificial illumination, even a light or continual flame spell, does not negate this ability; a daylight spell, however, does. A shadow mastiff can suspend or resume this ability as a free action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

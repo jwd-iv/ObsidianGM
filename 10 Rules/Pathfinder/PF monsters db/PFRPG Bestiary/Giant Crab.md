@@ -56,7 +56,9 @@ Skills: Perception +4, Swim +10
 RacialMods: +4 Perception
 Languages: 
 SQ: water dependency
-SpecialAbilities: Water Dependency (Ex) Giant crabs can survive out of the water for 1 hour per point of Constitution. Beyond this limit, a giant crab runs the risk of suffocation, as if it were drowning.
+SpecialAbilities:
+  Water Dependency (Ex): >
+    Giant crabs can survive out of the water for 1 hour per point of Constitution. Beyond this limit, a giant crab runs the risk of suffocation, as if it were drowning.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

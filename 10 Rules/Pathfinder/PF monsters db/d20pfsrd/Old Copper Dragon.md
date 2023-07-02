@@ -56,7 +56,15 @@ Skills: Bluff +27, Craft (traps) +35, Diplomacy +27, Fly +14, Knowledge (geograp
 RacialMods: 
 Languages: Common, Draconic, Dwarven, Elven, Gnome, Halfling
 SQ: trap master
-SpecialAbilities: Climb Stone (Ex) A copper dragon can climb on stone surfaces as though using the spider climb spell.  Slow Aura (Su) An old or older copper dragon is surrounded by an aura of slowness. All creatures within 5 feet of the dragon must make a Will save or be affected as per slow for 1 round. An ancient dragon's aura extends to 10 feet. For great wyrm copper dragons, those opponents that fail their saves are slowed for 1d4 rounds. The DC of this save is equal to the dragon's breath weapon. A copper dragon can suppress or activate this aura at will as a free action.  Slow Breath (Su) Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.  Trap Master (Ex) A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
+SpecialAbilities:
+  Climb Stone (Ex): >
+    A copper dragon can climb on stone surfaces as though using the spider climb spell.
+  Slow Aura (Su): >
+    An old or older copper dragon is surrounded by an aura of slowness. All creatures within 5 feet of the dragon must make a Will save or be affected as per slow for 1 round. An ancient dragon's aura extends to 10 feet. For great wyrm copper dragons, those opponents that fail their saves are slowed for 1d4 rounds. The DC of this save is equal to the dragon's breath weapon. A copper dragon can suppress or activate this aura at will as a free action.
+  Slow Breath (Su): >
+    Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
+  Trap Master (Ex): >
+    A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
 SpellsKnown: Sorcerer Spells Known (CL 11th; concentration +16)  5th (5/day)-mind fog (DC 20), teleport  4th (7/day)-confusion (DC 19), rainbow pattern (DC 20), stone shape  3rd (7/day)-dispel magic, haste, major image (DC 19), tongues  2nd (7/day)-glitterdust (DC 17), invisibility, phantom trap, pyrotechnics, see invisibility  1st (8/day)-alarm, identify, magic missile, shield, silent image (DC 17)  0 (at will)-dancing lights, detect magic, ghost sound (DC 16), light, mage hand, message, open/close, prestidigitation, read magic
 SpellsPrepared: 
 SpellDomains: 

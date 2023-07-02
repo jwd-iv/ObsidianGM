@@ -56,7 +56,11 @@ Skills: Escape Artist +19, Handle Animal +20, Intimidate +20, Knowledge (arcana)
 RacialMods: 
 Languages: 
 SQ: change shape (elk [Pathfinder RPG Bestiary 3 147], beast shape II), hide in plain sight
-SpecialAbilities: Disorienting Gaze (Su) An ijiraq can level an icy stare at a creature within 30 feet. That creature takes a -20 penalty on Perception checks and Survival checks for 24 hours (Fortitude DC 23 negates). The save DC is Charisma-based. An ijiraq can use this ability while in the shape of an elk.  Hide in Plain Sight (Su) An ijiraq can use the Stealth skill even while being observed. As long as it's standing in terrain covered in ice or snow, an ijiraq can hide itself from view in the open without actually hiding behind anything. An ijiraq can't use this ability while flying, and the ability has no effect when the ijiraq isn't in icy terrain.
+SpecialAbilities:
+  Disorienting Gaze (Su): >
+    An ijiraq can level an icy stare at a creature within 30 feet. That creature takes a -20 penalty on Perception checks and Survival checks for 24 hours (Fortitude DC 23 negates). The save DC is Charisma-based. An ijiraq can use this ability while in the shape of an elk.
+  Hide in Plain Sight (Su): >
+    An ijiraq can use the Stealth skill even while being observed. As long as it's standing in terrain covered in ice or snow, an ijiraq can hide itself from view in the open without actually hiding behind anything. An ijiraq can't use this ability while flying, and the ability has no effect when the ijiraq isn't in icy terrain.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

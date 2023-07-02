@@ -56,7 +56,11 @@ Skills: Intimidate +20, Perception +28, Sense Motive +20, Stealth +18
 RacialMods: +4 Perception
 Languages: Abyssal, Draconic, Infernal; telepathy 100 ft.
 SQ: swarmwalking
-SpecialAbilities: Feeblemind Aura (Su) By grinding and clicking its mandibles and chitinous plates together (a free action), a derghodaemon can affect all creatures within 30 feet as if by a feeblemind spell. Daemons are immune to this effect, but all other creatures must make a DC 20 Will save to resist the effects. A creature that makes this save is immune to the effect for 24 hours. A creature that fails remains affected as long as the derghodaemon continues to maintain the aura and the subject remains within 30 feet of the derghodaemon. Once either condition ends, the victim of this effect can attempt a new DC 20 Will save once per minute to recover from the effect; otherwise, it can be cured by a heal, limited wish, miracle, or wish spell. A derghodaemon cannot use its spell-like abilities or rend attack in any round in which it uses its feeblemind aura. This is a sonic mind-affecting effect. The save DC is Charisma-based.  Swarmwalking (Su) A derghodaemon is immune to damage or distraction effects caused by swarms.
+SpecialAbilities:
+  Feeblemind Aura (Su): >
+    By grinding and clicking its mandibles and chitinous plates together (a free action), a derghodaemon can affect all creatures within 30 feet as if by a feeblemind spell. Daemons are immune to this effect, but all other creatures must make a DC 20 Will save to resist the effects. A creature that makes this save is immune to the effect for 24 hours. A creature that fails remains affected as long as the derghodaemon continues to maintain the aura and the subject remains within 30 feet of the derghodaemon. Once either condition ends, the victim of this effect can attempt a new DC 20 Will save once per minute to recover from the effect; otherwise, it can be cured by a heal, limited wish, miracle, or wish spell. A derghodaemon cannot use its spell-like abilities or rend attack in any round in which it uses its feeblemind aura. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+  Swarmwalking (Su): >
+    A derghodaemon is immune to damage or distraction effects caused by swarms.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

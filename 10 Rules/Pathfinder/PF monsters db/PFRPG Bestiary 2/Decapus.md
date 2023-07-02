@@ -56,7 +56,9 @@ Skills: Acrobatics +7 (-1 jump), Bluff +7, Climb +16, Escape Artist +5, Intimida
 RacialMods: +4 Perception
 Languages: Aklo
 SQ: sound mimicry (voices), tentacles
-SpecialAbilities: Tentacles (Ex) A decapus's tentacles must all strike at a single target, but they do so as a primary attack.
+SpecialAbilities:
+  Tentacles (Ex): >
+    A decapus's tentacles must all strike at a single target, but they do so as a primary attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

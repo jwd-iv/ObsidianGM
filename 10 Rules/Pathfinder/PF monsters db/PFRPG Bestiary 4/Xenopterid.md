@@ -56,7 +56,11 @@ Skills: Climb +13, Disguise +6 (+14 when disguised as a humanoid), Fly -5, Steal
 RacialMods: +8 Disguise (+16 when disguised as a humanoid), +8 Stealth
 Languages: 
 SQ: entangling slime
-SpecialAbilities: Entangling Slime (Ex) A xenopterid can produce a sticky, slimy secretion it uses to protect its territory and eggs. The xenopterid can slime up to a 10-foot-square area per day at a rate of 1 square foot per minute. For 1 week thereafter, any creature coming in direct contact with the slime must succeed at a DC 19 Strength check or be entangled and glued to it as if it had failed its save against a tanglefoot bag. The save DC is Constitution-based.  Poison (Ex) Bite-injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Entangling Slime (Ex): >
+    A xenopterid can produce a sticky, slimy secretion it uses to protect its territory and eggs. The xenopterid can slime up to a 10-foot-square area per day at a rate of 1 square foot per minute. For 1 week thereafter, any creature coming in direct contact with the slime must succeed at a DC 19 Strength check or be entangled and glued to it as if it had failed its save against a tanglefoot bag. The save DC is Constitution-based.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

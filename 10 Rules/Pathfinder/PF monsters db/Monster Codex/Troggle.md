@@ -56,7 +56,9 @@ Skills: Climb +9, Perception +6, Stealth +1 (+5 in dim light or darkness)
 RacialMods: +4 Stealth in dim light or darkness
 Languages: Giant
 SQ: ogre blood
-SpecialAbilities: Ogre Blood (Ex) Troggles count as ogres for the purpose of any effects related to race.
+SpecialAbilities:
+  Ogre Blood (Ex): >
+    Troggles count as ogres for the purpose of any effects related to race.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

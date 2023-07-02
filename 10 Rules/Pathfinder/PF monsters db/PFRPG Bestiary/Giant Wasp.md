@@ -56,7 +56,9 @@ Skills: Fly +3, Perception +9
 RacialMods: +8 Perception
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d2 Dexterity damage; cure 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d2 Dexterity damage; cure 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

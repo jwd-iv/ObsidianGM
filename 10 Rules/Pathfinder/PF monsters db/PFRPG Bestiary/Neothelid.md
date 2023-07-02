@@ -56,7 +56,13 @@ Skills: Bluff +25, Climb +33, Diplomacy +25, Fly -4, Intimidate +28, Knowledge (
 RacialMods: 
 Languages: Aklo, Terran, Undercommon;  telepathy 100 ft.
 SQ: 
-SpecialAbilities: Mind Thrust (Su) As a standard action up to three times a day, a neothelid can deliver a massive blast of mental energy at any one target within 60 feet, inflicting 15d10 points of damage. A successful DC 25 Will save negates the effect. This effect can only harm creatures with Intelligence scores. This is a mind-affecting effect. The save DC is Charisma-based.  Psychic Crush (Su) As a standard action up to three times a day, a neothelid can attempt to crush the mind of a single creature within 60 feet. The target must make a DC 25 Will save or collapse, becoming unconscious and dying at -1 hit points. If the target succeeds on the save, it takes 6d6 points of damage and is sickened for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.  Trace Teleport (Ex) A neothelid telepathically and reflexively learns the mental coordinates of the destination, of all creatures that teleport within 60 feet of it, gaining an awareness of the location equivalent to "seen casually." This knowledge fades and is lost after 1 minute. This power does not grant any environmental information about the conditions of the destination.
+SpecialAbilities:
+  Mind Thrust (Su): >
+    As a standard action up to three times a day, a neothelid can deliver a massive blast of mental energy at any one target within 60 feet, inflicting 15d10 points of damage. A successful DC 25 Will save negates the effect. This effect can only harm creatures with Intelligence scores. This is a mind-affecting effect. The save DC is Charisma-based.
+  Psychic Crush (Su): >
+    As a standard action up to three times a day, a neothelid can attempt to crush the mind of a single creature within 60 feet. The target must make a DC 25 Will save or collapse, becoming unconscious and dying at -1 hit points. If the target succeeds on the save, it takes 6d6 points of damage and is sickened for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.
+  Trace Teleport (Ex): >
+    A neothelid telepathically and reflexively learns the mental coordinates of the destination, of all creatures that teleport within 60 feet of it, gaining an awareness of the location equivalent to "seen casually." This knowledge fades and is lost after 1 minute. This power does not grant any environmental information about the conditions of the destination.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

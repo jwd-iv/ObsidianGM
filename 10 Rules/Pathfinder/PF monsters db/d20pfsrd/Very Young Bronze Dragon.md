@@ -56,7 +56,11 @@ Skills: Diplomacy +14, Fly +12, Intimidate +14, Knowledge (arcana) +14, Percepti
 RacialMods: +8 Swim
 Languages: Aquan, Common, Draconic, Elven
 SQ: water breathing
-SpecialAbilities: Repulsion Breath (Su) Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.  Water Breathing (Ex) A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
+SpecialAbilities:
+  Repulsion Breath (Su): >
+    Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.
+  Water Breathing (Ex): >
+    A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

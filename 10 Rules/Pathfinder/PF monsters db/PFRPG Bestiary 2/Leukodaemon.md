@@ -56,7 +56,13 @@ Skills: Fly +18, Heal +18, Intimidate +16, Knowledge (planes) +16, Perception +2
 RacialMods: 
 Languages: Abyssal, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Breath of Flies (Su) Once per minute as a standard action, a leukodaemon can unleash a cloud of corpse-bloated, biting black flies in a 20-foot cone. Those caught in the cone take 8d6 points of slashing damage. A DC 21 Reflex save halves this damage. Those who take any damage are also sickened for 1 minute. In addition, the flies linger for 1d4+1 rounds, congealing into a buzzing 20-foot-square cloud centered on the cone's original point of origin. Any creature that ends its turn in this cloud must make a DC 21 Reflex save to avoid taking 4d6 points of damage and becoming sickened for 1 minute. This cloud of flies may be dispersed by any area effect that does damage or creates wind of at least strong wind force. All daemons are immune to this effect. The save DCs are Constitution-based.  Contagion (Su) Any arrow a leukodaemon fires from a bow is tainted with disease. If a creature is damaged by a leukodaemon's arrow, it must make a DC 19 Fortitude save or be affected as if by the spell contagion. A leukodaemon can manifest arrows at will and never runs out of ammunition.  Infectious Aura (Su) All creatures within 50 feet of a leukodaemon take a -4 penalty on Fortitude saves against disease effects.
+SpecialAbilities:
+  Breath of Flies (Su): >
+    Once per minute as a standard action, a leukodaemon can unleash a cloud of corpse-bloated, biting black flies in a 20-foot cone. Those caught in the cone take 8d6 points of slashing damage. A DC 21 Reflex save halves this damage. Those who take any damage are also sickened for 1 minute. In addition, the flies linger for 1d4+1 rounds, congealing into a buzzing 20-foot-square cloud centered on the cone's original point of origin. Any creature that ends its turn in this cloud must make a DC 21 Reflex save to avoid taking 4d6 points of damage and becoming sickened for 1 minute. This cloud of flies may be dispersed by any area effect that does damage or creates wind of at least strong wind force. All daemons are immune to this effect. The save DCs are Constitution-based.
+  Contagion (Su): >
+    Any arrow a leukodaemon fires from a bow is tainted with disease. If a creature is damaged by a leukodaemon's arrow, it must make a DC 19 Fortitude save or be affected as if by the spell contagion. A leukodaemon can manifest arrows at will and never runs out of ammunition.
+  Infectious Aura (Su): >
+    All creatures within 50 feet of a leukodaemon take a -4 penalty on Fortitude saves against disease effects.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

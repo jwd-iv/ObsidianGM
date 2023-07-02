@@ -56,7 +56,11 @@ Skills: Climb +13, Fly +1, Perception +4, Sleight of Hand +5, Stealth +16, Swim 
 RacialMods: 
 Languages: Undercommon
 SQ: gremlin lice
-SpecialAbilities: Gremlin Lice (Ex) All grimples are infested with gremlin lice. Whenever a warm-blooded creature comes in physical contact with a grimple, there is a 25% chance it contracts gremlin lice. 1d4 rounds later, the creature begins to itch. The itch proves so distracting that for the duration of the infestation, the individual takes a -1 penalty on all concentration and initiative checks. Fortunately, these annoying parasites cannot live long on non-gremlins, and only survive for 24 hours. Submersion in water or exposure to freezing temperatures also kills a gremlin lice infestation.  Putrid Vomit (Ex) Every 1d4 rounds, a grimple can spew a 30-foot line of vomit as a standard action. Treat this as a ranged touch attack with no range increment. Anyone struck must succeed at a DC 11 Fortitude save or be nauseated for 1d4 rounds. The save DC is Constitution-based.
+SpecialAbilities:
+  Gremlin Lice (Ex): >
+    All grimples are infested with gremlin lice. Whenever a warm-blooded creature comes in physical contact with a grimple, there is a 25% chance it contracts gremlin lice. 1d4 rounds later, the creature begins to itch. The itch proves so distracting that for the duration of the infestation, the individual takes a -1 penalty on all concentration and initiative checks. Fortunately, these annoying parasites cannot live long on non-gremlins, and only survive for 24 hours. Submersion in water or exposure to freezing temperatures also kills a gremlin lice infestation.
+  Putrid Vomit (Ex): >
+    Every 1d4 rounds, a grimple can spew a 30-foot line of vomit as a standard action. Treat this as a ranged touch attack with no range increment. Anyone struck must succeed at a DC 11 Fortitude save or be nauseated for 1d4 rounds. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

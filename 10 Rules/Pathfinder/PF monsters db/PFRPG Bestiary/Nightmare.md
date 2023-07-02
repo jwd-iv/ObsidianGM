@@ -56,7 +56,9 @@ Skills: Fly +13, Intimidate +10, Knowledge (planes) +10, Perception +12, Sense M
 RacialMods: 
 Languages: Abyssal, Infernal
 SQ: 
-SpecialAbilities: Smoke (Su) In battle, a nightmare exhales smoke that chokes and blinds foes, filling a 15-foot cone each round as a free action.  Anyone in the cone must succeed on a DC 16 Fortitude save or become sickened until 1d6 minutes after leaving the area. This smoke acts as obscuring mist for the purposes of concealment. The smoke persists for 1 round.  The save DC is Constitution-based.
+SpecialAbilities:
+  Smoke (Su): >
+    In battle, a nightmare exhales smoke that chokes and blinds foes, filling a 15-foot cone each round as a free action.  Anyone in the cone must succeed on a DC 16 Fortitude save or become sickened until 1d6 minutes after leaving the area. This smoke acts as obscuring mist for the purposes of concealment. The smoke persists for 1 round.  The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Climb +10, Perception +7, Stealth +2, Swim +8
 RacialMods: 
 Languages: Common (cannot speak)
 SQ: trackless
-SpecialAbilities: Spiked Tail (Ex) A hodag's tail spikes allow the creature's tail slap to deal both bludgeoning and piercing damage. A hodag's tail slap is a primary attack.  Toss (Ex) A hodag charging 20 feet or more that damages a foe with an attack can throw its foe with a special combat maneuver check. The opponent must be corporeal and at least one size category smaller than the hodag. If the combat maneuver check succeeds, the hodag's opponent is thrown 10 feet through the air in a direction chosen by the hodag and falls prone. The hodag can only toss its opponent in a straight line.  If an obstacle prevents the creature's movement, both the creature tossed and the object struck take 1d6 points of damage, and the creature falls prone in the space adjacent to the obstacle. A hodag can also toss an opponent 10 feet up into the air. The victim lands in the same square it started in, falls prone, and takes 1d6 points of damage.  Trackless (Ex) A hodag sweeps its tail behind itself in a way that obscures its tracks. Attempts to track a hodag have their normal DC increased by +10.
+SpecialAbilities:
+  Spiked Tail (Ex): >
+    A hodag's tail spikes allow the creature's tail slap to deal both bludgeoning and piercing damage. A hodag's tail slap is a primary attack.
+  Toss (Ex): >
+    A hodag charging 20 feet or more that damages a foe with an attack can throw its foe with a special combat maneuver check. The opponent must be corporeal and at least one size category smaller than the hodag. If the combat maneuver check succeeds, the hodag's opponent is thrown 10 feet through the air in a direction chosen by the hodag and falls prone. The hodag can only toss its opponent in a straight line.  If an obstacle prevents the creature's movement, both the creature tossed and the object struck take 1d6 points of damage, and the creature falls prone in the space adjacent to the obstacle. A hodag can also toss an opponent 10 feet up into the air. The victim lands in the same square it started in, falls prone, and takes 1d6 points of damage.
+  Trackless (Ex): >
+    A hodag sweeps its tail behind itself in a way that obscures its tracks. Attempts to track a hodag have their normal DC increased by +10.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

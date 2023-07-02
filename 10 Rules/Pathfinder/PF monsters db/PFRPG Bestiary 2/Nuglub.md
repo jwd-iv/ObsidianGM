@@ -56,7 +56,9 @@ Skills: Acrobatics +10, Climb +9, Craft (traps) +9, Intimidate +8, Perception +9
 RacialMods: +4 Craft (traps), +4 Intimidate, +4 Perception
 Languages: Undercommon
 SQ: kneecapper
-SpecialAbilities: Kneecapper (Ex) A nuglub has a +4 racial bonus on combat maneuver checks to trip an opponent.
+SpecialAbilities:
+  Kneecapper (Ex): >
+    A nuglub has a +4 racial bonus on combat maneuver checks to trip an opponent.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

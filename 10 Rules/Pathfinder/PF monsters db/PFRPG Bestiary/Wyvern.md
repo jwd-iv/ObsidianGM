@@ -56,7 +56,9 @@ Skills: Fly +5, Perception +18, Sense Motive +11, Stealth +7
 RacialMods: +4 Perception
 Languages: Draconic
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save DC 17; frequency 1/ round for 6 rounds; effect 1d4 Constitution damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save DC 17; frequency 1/ round for 6 rounds; effect 1d4 Constitution damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

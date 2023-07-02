@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: aquatic reconstruction, powerful blows (slam)
-SpecialAbilities: Aquatic Reconstruction (Ex) Whenever a coral golem is touching a body of saltwater of a size equal to or greater than its own size, it gains fast healing 5.  Immunity to Magic (Ex) A coral golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below. • Any spell with the water descriptor heals a coral golem 1d6 points of damage per level of the caster (maximum 10d6). • Transmute rock to mud slows a coral golem (as the slow spell) for 1d6 rounds (no save). • Transmute mud to rock increases the golem's bleed damage to 2d6 for 3 rounds. • Soften earth and stone causes a coral golem to lose its damage reduction for 3 rounds.
+SpecialAbilities:
+  Aquatic Reconstruction (Ex): >
+    Whenever a coral golem is touching a body of saltwater of a size equal to or greater than its own size, it gains fast healing 5.
+  Immunity to Magic (Ex): >
+    A coral golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below. • Any spell with the water descriptor heals a coral golem 1d6 points of damage per level of the caster (maximum 10d6). • Transmute rock to mud slows a coral golem (as the slow spell) for 1d6 rounds (no save). • Transmute mud to rock increases the golem's bleed damage to 2d6 for 3 rounds. • Soften earth and stone causes a coral golem to lose its damage reduction for 3 rounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,11 @@ Skills: Intimidate +22, Knowledge (history) +8, Perception +19, Sense Motive +11
 RacialMods: 
 Languages: Giant
 SQ: 
-SpecialAbilities: >
-  Blinding Breath (Su) Once every 1d4 rounds, a gholdako can exhale its noxious breath in a 20-foot cone, permanently blinding any creatures in the affected area unless they succeed at a DC 21 Fortitude save. The save DC is Charisma-based.  Disease (Ex) Seaside rot: Injury; save Fort DC 21; onset 1 minute; frequency 1/day; effect 1d4 Str and 1d4 Dex; cure 2 consecutive saves. The save DC is Charisma-based.
+SpecialAbilities:
+  Blinding Breath (Su): >
+    Once every 1d4 rounds, a gholdako can exhale its noxious breath in a 20-foot cone, permanently blinding any creatures in the affected area unless they succeed at a DC 21 Fortitude save. The save DC is Charisma-based.
+  Disease (Ex): >
+    Seaside rot: Injury; save Fort DC 21; onset 1 minute; frequency 1/day; effect 1d4 Str and 1d4 Dex; cure 2 consecutive saves. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

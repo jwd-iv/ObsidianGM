@@ -56,8 +56,17 @@ Skills: Fly +16, Perception +22, Swim +38
 RacialMods: 
 Languages: Aklo, Draconic, Sylvan
 SQ: 
-SpecialAbilities: >
-  Breath Weapon (Su) Once every 1d4 rounds as a standard action, a crag linnorm can expel a 120-foot line of magma, dealing 15d8 points of fire damage to all creatures struck (Reflex DC 24 halves). This line of magma remains red-hot for 1 round after the linnorm creates it. Creatures that took damage on the first round take 6d6 fire damage the second round (Reflex DC 24 negates), as does any creature that walks across the line of magma. If the magma was expelled while the linnorm was airborne, it instead rains downward during the second round as a sheet of fire no more than 60 feet high that does 6d6 damage (Reflex DC 24 negates) to any creature that passes through it. On the third round, the line of magma cools to a thin layer of brittle stone that quickly degrades to powder and sand over the course of several hours; magma that's turned to a sheet of fire is consumed entirely during the second round, leaving behind only a stain of smoke in the air that swiftly disperses. The save DC is Constitution-based.  Death Curse (Su) When a creature slays a crag linnorm, the slayer is affected by the curse of fire.  Curse of Fire: save Will DC 22; effect creature gains vulnerability to fire. The save DC is Charisma-based.  Freedom of Movement (Ex) A crag linnorm is under the constant effect of freedom of movement, as per the spell of the same name. This effect cannot be dispelled.  Poison (Su) Bite-injury; save Fort DC 24; frequency 1/round for 10 rounds; effect 2d6 fire damage and 1d4 Con drain; cure 2 consecutive saves. The save DC is Constitution-based.  True Seeing (Ex) A crag linnorm has constant true seeing, as per the spell of the same name.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Once every 1d4 rounds as a standard action, a crag linnorm can expel a 120-foot line of magma, dealing 15d8 points of fire damage to all creatures struck (Reflex DC 24 halves). This line of magma remains red-hot for 1 round after the linnorm creates it. Creatures that took damage on the first round take 6d6 fire damage the second round (Reflex DC 24 negates), as does any creature that walks across the line of magma. If the magma was expelled while the linnorm was airborne, it instead rains downward during the second round as a sheet of fire no more than 60 feet high that does 6d6 damage (Reflex DC 24 negates) to any creature that passes through it. On the third round, the line of magma cools to a thin layer of brittle stone that quickly degrades to powder and sand over the course of several hours; magma that's turned to a sheet of fire is consumed entirely during the second round, leaving behind only a stain of smoke in the air that swiftly disperses. The save DC is Constitution-based.
+  Death Curse (Su): >
+    When a creature slays a crag linnorm, the slayer is affected by the curse of fire.  Curse of Fire: save Will DC 22; effect creature gains vulnerability to fire. The save DC is Charisma-based.
+  Freedom of Movement (Ex): >
+    A crag linnorm is under the constant effect of freedom of movement, as per the spell of the same name. This effect cannot be dispelled.
+  Poison (Su): >
+    Bite-injury; save Fort DC 24; frequency 1/round for 10 rounds; effect 2d6 fire damage and 1d4 Con drain; cure 2 consecutive saves. The save DC is Constitution-based.
+  True Seeing (Ex): >
+    A crag linnorm has constant true seeing, as per the spell of the same name.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,13 @@ Skills: Fly +15, Perception +7, Stealth +18
 RacialMods: 
 Languages: Common (can't speak)
 SQ: visual sensor
-SpecialAbilities: >
-  Daze (Ex) An isitoq's nerves form grotesque wings. Any creature struck by the creature's wings must succeed at a DC 11 Will save or be dazed for 1 round as the target's mind is flooded with images of the last seconds of the isitoq's existence as a living creature. This is a mind-affecting fear effect. The save DC is Charisma-based.  Tears of Anguish (Su) As a full-round action, an isitoq can make a ranged touch attack to squirt tears into the eyes of a creature within 30 feet. If the target fails a DC 11 saving throw, it experiences the effect of the isitoq's daze ability. The save DC is Charisma-based.  Visual Sensor (Su) An isitoq's creator or master can see through its eye at a range of 60 feet, using the eye's normal vision and darkvision. The following spells have a 5% chance per caster level of the isitoq's creator of operating through the isitoq: detect chaos, detect evil, detect good, detect law, detect magic, and message. If the creator is 15th level or higher, the following spells have the same chance of functioning through the isitoq: read magic and tongues.
+SpecialAbilities:
+  Daze (Ex): >
+    An isitoq's nerves form grotesque wings. Any creature struck by the creature's wings must succeed at a DC 11 Will save or be dazed for 1 round as the target's mind is flooded with images of the last seconds of the isitoq's existence as a living creature. This is a mind-affecting fear effect. The save DC is Charisma-based.
+  Tears of Anguish (Su): >
+    As a full-round action, an isitoq can make a ranged touch attack to squirt tears into the eyes of a creature within 30 feet. If the target fails a DC 11 saving throw, it experiences the effect of the isitoq's daze ability. The save DC is Charisma-based.
+  Visual Sensor (Su): >
+    An isitoq's creator or master can see through its eye at a range of 60 feet, using the eye's normal vision and darkvision. The following spells have a 5% chance per caster level of the isitoq's creator of operating through the isitoq: detect chaos, detect evil, detect good, detect law, detect magic, and message. If the creator is 15th level or higher, the following spells have the same chance of functioning through the isitoq: read magic and tongues.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

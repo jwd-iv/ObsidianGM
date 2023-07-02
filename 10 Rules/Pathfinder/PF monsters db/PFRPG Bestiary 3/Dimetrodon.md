@@ -56,7 +56,9 @@ Skills: Perception +6, Stealth +3
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Tearing Bite (Ex) A dimetrodon's jaws are filled with razor-sharp teeth of two different sizes. This gives the creature a threat range of 19-20 with its bite attack.
+SpecialAbilities:
+  Tearing Bite (Ex): >
+    A dimetrodon's jaws are filled with razor-sharp teeth of two different sizes. This gives the creature a threat range of 19-20 with its bite attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

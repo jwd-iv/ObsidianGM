@@ -57,7 +57,13 @@ Skills: Acrobatics +45, Bluff +41, Fly +26, Heal +23, Intimidate +41, Knowledge 
 RacialMods: 
 Languages: Celestial, Draconic; truespeech
 SQ: lay on hands (16d6, 25/day), seed of life
-SpecialAbilities: Primal Aura (Su) Whenever Vildeis would be affected by a bleed effect, all enemies within 30 feet gain that bleeding condition instead, as though they were the effect's original targets (no saving throw, creatures immune to bleeding are immune to this effect). The Heal DC to stop this bleeding is 25.  Smite Evil (Su) Vildeis can smite evil as a 20th-level paladin. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to disintegrate, using Vildeis's paladin level as the caster level. After the disintegrate effect and the damage from the attack are resolved, the smite effect immediately ends.  Spells Vildeis casts spells as a 20th-level paladin.  Zealous Vision (Su) Vildeis automatically pinpoints the location of any evil creature within 1,000 feet of her.
+SpecialAbilities:
+  Primal Aura (Su): >
+    Whenever Vildeis would be affected by a bleed effect, all enemies within 30 feet gain that bleeding condition instead, as though they were the effect's original targets (no saving throw, creatures immune to bleeding are immune to this effect). The Heal DC to stop this bleeding is 25.
+  Smite Evil (Su): >
+    Vildeis can smite evil as a 20th-level paladin. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to disintegrate, using Vildeis's paladin level as the caster level. After the disintegrate effect and the damage from the attack are resolved, the smite effect immediately ends.  Spells Vildeis casts spells as a 20th-level paladin.
+  Zealous Vision (Su): >
+    Vildeis automatically pinpoints the location of any evil creature within 1,000 feet of her.
 SpellsKnown: 
 SpellsPrepared: Paladin Spells Prepared (CL 20th; concentration +25)  4th-blaze of gloryAPG (DC 19), break enchantment, death ward, king's castleAPG  3rd-dispel magic, fires of judgmentAPG (DC 18), prayer, righteous vigorAPG  2nd-bull's strength, corruption resistanceAPG, litany of wardingUC, remove paralysis, shield other  1st-divine favor (3), hero's defianceAPG, lesser restoration (2)
 SpellDomains: 

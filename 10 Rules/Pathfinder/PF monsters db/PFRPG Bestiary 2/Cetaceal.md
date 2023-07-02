@@ -56,7 +56,13 @@ Skills: Diplomacy +12, Handle Animal +14, Heal +21, Knowledge (arcana) +22, Know
 RacialMods: +4 Perception
 Languages: Celestial, Draconic, Infernal; speak with  animals, truespeech
 SQ: amphibious, lay on hands (8d6, 11/day, as a 17th-level paladin)
-SpecialAbilities: Protective Aura (Su) Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the cetaceal. Otherwise, it functions as a magic circle against evil effect and a lesser globe of invulnerability, both with a radius of 20 feet (caster level equals cetaceal's HD). The defensive benefits from the circle are not included in the above stat block.  Shockwave (Su) Once per day, a cetaceal can release a 100-footradius burst of energy.  All creatures in the area take 17d6 damage; half of this damage is cold, and half is electricity (DC 25 Reflex save halves). The save DC is Constitution-based.  Stun (Ex) Any creature moved by a cetaceal's push attack must make a DC 25 Fortitude saving throw or be stunned for 1 round. The DC is Constitution-based.
+SpecialAbilities:
+  Protective Aura (Su): >
+    Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the cetaceal. Otherwise, it functions as a magic circle against evil effect and a lesser globe of invulnerability, both with a radius of 20 feet (caster level equals cetaceal's HD). The defensive benefits from the circle are not included in the above stat block.
+  Shockwave (Su): >
+    Once per day, a cetaceal can release a 100-footradius burst of energy.  All creatures in the area take 17d6 damage; half of this damage is cold, and half is electricity (DC 25 Reflex save halves). The save DC is Constitution-based.
+  Stun (Ex): >
+    Any creature moved by a cetaceal's push attack must make a DC 25 Fortitude saving throw or be stunned for 1 round. The DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

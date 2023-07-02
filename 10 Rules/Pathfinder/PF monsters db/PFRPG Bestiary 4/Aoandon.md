@@ -56,7 +56,9 @@ Skills: Acrobatics +22, Bluff +25, Diplomacy +19, Fly +40, Intimidate +31, Knowl
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Draconic, Giant, Infernal
 SQ: 
-SpecialAbilities: Touch of Madness (Su) The touch of an aoandon causes maddening fear. As a standard action it can make an incorporeal touch attack that deals 10d6 damage. Any living creature damaged by an aoandon's touch attack must succeed at a DC 24 Will save or be confused for 1d4 rounds. A creature that succeeds at this saving throw can't be confused again by this aoandon's touch of madness for 10 minutes. This is a mind-affecting fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Touch of Madness (Su): >
+    The touch of an aoandon causes maddening fear. As a standard action it can make an incorporeal touch attack that deals 10d6 damage. Any living creature damaged by an aoandon's touch attack must succeed at a DC 24 Will save or be confused for 1d4 rounds. A creature that succeeds at this saving throw can't be confused again by this aoandon's touch of madness for 10 minutes. This is a mind-affecting fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

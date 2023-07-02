@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: transparent
-SpecialAbilities: Acid (Ex) A gelatinous cube's acid does not harm metal or stone. Engulf (Ex) Although it moves slowly, a gelatinous cube can simply engulf Large or smaller creatures in its path as a standard action. It cannot make a slam attack during a round in which it engulfs. The gelatinous cube merely has to move over the opponents, affecting as many as it can cover. Opponents can make attacks of opportunity against the cube, but if they do so they are not entitled to a saving throw. Those who do not attempt attacks of opportunity can attempt a DC 12 Reflex save to avoid being engulfed-on a success, they are pushed back or aside (opponent's choice) as the cube moves forward. Engulfed creatures are subject to the cube's paralysis and acid, gain the pinned condition, are in danger of suffocating, and are trapped within its body until they are no longer pinned. The save DC is Strength-based. Paralysis (Ex) A gelatinous cube secretes an anesthetizing slime. A target hit by a cube's melee or engulf attack must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds. The cube can automatically engulf a paralyzed opponent. The save DC is Constitution-based. Transparent (Ex) Due to its lack of coloration, a gelatinous cube is difficult to discern. A DC 15 Perception check is required to notice a motionless gelatinous cube. Any creature that fails to notice a gelatinous cube and walks into it is automatically engulfed.
+SpecialAbilities:
+  Acid (Ex): >
+    A gelatinous cube's acid does not harm metal or stone.
+  Engulf (Ex): >
+    Although it moves slowly, a gelatinous cube can simply engulf Large or smaller creatures in its path as a standard action. It cannot make a slam attack during a round in which it engulfs. The gelatinous cube merely has to move over the opponents, affecting as many as it can cover. Opponents can make attacks of opportunity against the cube, but if they do so they are not entitled to a saving throw. Those who do not attempt attacks of opportunity can attempt a DC 12 Reflex save to avoid being engulfed-on a success, they are pushed back or aside (opponent's choice) as the cube moves forward. Engulfed creatures are subject to the cube's paralysis and acid, gain the pinned condition, are in danger of suffocating, and are trapped within its body until they are no longer pinned. The save DC is Strength-based.
+  Paralysis (Ex): >
+    A gelatinous cube secretes an anesthetizing slime. A target hit by a cube's melee or engulf attack must succeed on a DC 20 Fortitude save or be paralyzed for 3d6 rounds. The cube can automatically engulf a paralyzed opponent. The save DC is Constitution-based.
+  Transparent (Ex): >
+    Due to its lack of coloration, a gelatinous cube is difficult to discern. A DC 15 Perception check is required to notice a motionless gelatinous cube. Any creature that fails to notice a gelatinous cube and walks into it is automatically engulfed.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

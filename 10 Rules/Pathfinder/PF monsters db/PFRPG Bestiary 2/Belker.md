@@ -56,7 +56,11 @@ Skills: Acrobatics +16, Fly +22, Perception +11, Stealth +16
 RacialMods: +4 Stealth
 Languages: Auran
 SQ: smoke form
-SpecialAbilities: Smoke Claws (Ex) A belker using its smoke form ability can enter a target's square as a standard action that does not provoke attacks of opportunity. The target must make a DC 17 Fortitude save or inhale part of the creature.  Smoke inside the victim solidifies into a claw and attacks the target from within, dealing 3d4 points of damage per round as a swift action. If the target moves, the belker may automatically move with the target (this movement does not count toward the belker's movement and does not provoke attacks of opportunity against the belker). Each round, the target can attempt another DC 17 Fortitude to cough out the belker's smoke, which ends the smoke claws attack and forces the belker into an adjacent square. Creatures that do not need to breathe are immune to this attack.  The save DC is Constitution-based.  Smoke Form (Su) A belker can switch from its normal form to one of pure smoke or back again a swift action. It can spend up to 20 rounds per day in smoke form. In smoke form, the belker acts as if under the effects of a gaseous form spell, except that it retains its natural fly speed of 50 feet (perfect).
+SpecialAbilities:
+  Smoke Claws (Ex): >
+    A belker using its smoke form ability can enter a target's square as a standard action that does not provoke attacks of opportunity. The target must make a DC 17 Fortitude save or inhale part of the creature.  Smoke inside the victim solidifies into a claw and attacks the target from within, dealing 3d4 points of damage per round as a swift action. If the target moves, the belker may automatically move with the target (this movement does not count toward the belker's movement and does not provoke attacks of opportunity against the belker). Each round, the target can attempt another DC 17 Fortitude to cough out the belker's smoke, which ends the smoke claws attack and forces the belker into an adjacent square. Creatures that do not need to breathe are immune to this attack.  The save DC is Constitution-based.
+  Smoke Form (Su): >
+    A belker can switch from its normal form to one of pure smoke or back again a swift action. It can spend up to 20 rounds per day in smoke form. In smoke form, the belker acts as if under the effects of a gaseous form spell, except that it retains its natural fly speed of 50 feet (perfect).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Acrobatics +19, Bluff +21, Diplomacy +25, Disable Device +16, Fly +9, In
 RacialMods: 
 Languages: Abyssal, Protean; tongues
 SQ: change shape (greater polymorph)
-SpecialAbilities: Inflict Warpwave (Su) As a standard action, an imentesh can inflict a warpwave upon any corporeal creature within 100 feet. The target can resist the warpwave's effects with a DC 20 Fortitude save. If the imentesh wishes, it can use this ability as a swift action, but if it does so, it is affected by the warpwave as well unless it resists the effects with its own Fortitude save. See page 213 for a list of possible effects caused by a warpwave. The save DC is Constitution-based.
+SpecialAbilities:
+  Inflict Warpwave (Su): >
+    As a standard action, an imentesh can inflict a warpwave upon any corporeal creature within 100 feet. The target can resist the warpwave's effects with a DC 20 Fortitude save. If the imentesh wishes, it can use this ability as a swift action, but if it does so, it is affected by the warpwave as well unless it resists the effects with its own Fortitude save. See page 213 for a list of possible effects caused by a warpwave. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

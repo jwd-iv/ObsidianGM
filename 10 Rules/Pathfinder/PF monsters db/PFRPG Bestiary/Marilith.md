@@ -56,7 +56,13 @@ Skills: Acrobatics +23, Bluff +26, Diplomacy +26, Fly +18, Intimidate +26, Knowl
 RacialMods: +8 Perception
 Languages: Abyssal, Celestial, Draconic; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Crushing Coils (Ex) A creature that takes damage from a marilith's constrict attack must succeed on a DC 25 Fortitude save or lose consciousness for 1d8 rounds. The save DC is Strength-based. Infuse Weapon (Su) Any weapon a marilith wields gains a +1 enhancement bonus to attack and damage, and strikes as if it were a chaotic and evil cold iron weapon (in addition to retaining the qualities of its actual composition). Multiweapon Mastery (Ex) A marilith never takes penalties to her attack roll when fighting with multiple weapons.
+SpecialAbilities:
+  Crushing Coils (Ex): >
+    A creature that takes damage from a marilith's constrict attack must succeed on a DC 25 Fortitude save or lose consciousness for 1d8 rounds. The save DC is Strength-based.
+  Infuse Weapon (Su): >
+    Any weapon a marilith wields gains a +1 enhancement bonus to attack and damage, and strikes as if it were a chaotic and evil cold iron weapon (in addition to retaining the qualities of its actual composition).
+  Multiweapon Mastery (Ex): >
+    A marilith never takes penalties to her attack roll when fighting with multiple weapons.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

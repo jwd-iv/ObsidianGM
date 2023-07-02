@@ -56,8 +56,11 @@ Skills: Acrobatics +21 (+25 when jumping), Bluff +21, Escape Artist +25, Intimid
 RacialMods: +4 Acrobatics when jumping
 Languages: Aklo, Common, Elven, Sylvan
 SQ: 
-SpecialAbilities: >
-  Bane (Su) Once per day as a swift action, a svartalfar can imbue one of its weapons with the bane weapon special ability. It must select one creature type (and subtype, if choosing humanoid or outsider) when it uses this ability. This lasts for 1 hour. This ability only functions while the svartalfar wields the weapon.  Quickened Spell Strike (Su) Three times per day as a free action after hitting with a melee weapon, a svartalfar can cast and deliver one of the following of its spell-like abilities through the weapon: chill touch, corrosive touch, force punch, frigid touch, or ray of exhaustion. If the attack is a critical hit and the spell-like ability deals damage, it deals double damage.
+SpecialAbilities:
+  Bane (Su): >
+    Once per day as a swift action, a svartalfar can imbue one of its weapons with the bane weapon special ability. It must select one creature type (and subtype, if choosing humanoid or outsider) when it uses this ability. This lasts for 1 hour. This ability only functions while the svartalfar wields the weapon.
+  Quickened Spell Strike (Su): >
+    Three times per day as a free action after hitting with a melee weapon, a svartalfar can cast and deliver one of the following of its spell-like abilities through the weapon: chill touch, corrosive touch, force punch, frigid touch, or ray of exhaustion. If the attack is a critical hit and the spell-like ability deals damage, it deals double damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

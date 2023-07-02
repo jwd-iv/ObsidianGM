@@ -56,7 +56,13 @@ Skills: Bluff +22, Diplomacy +7, Disable Device +14, Disguise +12 (+16 as humano
 RacialMods: +4 Disguise when disguised as a Medium humanoid
 Languages: Aklo; tongues
 SQ: 
-SpecialAbilities: Dexterity Drain (Su) The otherworldly teeth and tongues of a denizen of Leng deal 1d6 points of Dexterity drain with a bite. Constructs, elementals, and other creatures that do not possess flesh are immune to this effect. A successful DC 19 Fortitude save reduces the Dexterity drain to 1 point. The save DC is Constitution-based.  Planar Fast Healing (Su) A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, it has fast healing 5. It loses this ability on Leng or in areas where planar connections do not function. If killed, a denizen's body dissolves into nothingness in 1d4 rounds, leaving behind its equipment. A slain denizen reforms in Leng, similar to a slain summoned creature; it can only be permanently killed if its fast healing is negated.  Unusual Anatomy (Ex) A denizen's internal anatomy varies from individual to individual, and has a 50% chance to treat any critical hit or sneak attack against it as a normal hit.
+SpecialAbilities:
+  Dexterity Drain (Su): >
+    The otherworldly teeth and tongues of a denizen of Leng deal 1d6 points of Dexterity drain with a bite. Constructs, elementals, and other creatures that do not possess flesh are immune to this effect. A successful DC 19 Fortitude save reduces the Dexterity drain to 1 point. The save DC is Constitution-based.
+  Planar Fast Healing (Su): >
+    A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, it has fast healing 5. It loses this ability on Leng or in areas where planar connections do not function. If killed, a denizen's body dissolves into nothingness in 1d4 rounds, leaving behind its equipment. A slain denizen reforms in Leng, similar to a slain summoned creature; it can only be permanently killed if its fast healing is negated.
+  Unusual Anatomy (Ex): >
+    A denizen's internal anatomy varies from individual to individual, and has a 50% chance to treat any critical hit or sneak attack against it as a normal hit.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

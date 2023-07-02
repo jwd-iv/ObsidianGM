@@ -56,7 +56,13 @@ Skills: Stealth +6
 RacialMods: +8 Stealth
 Languages: 
 SQ: anchored, sightless
-SpecialAbilities: Anchored (Ex) As a full-round action, a giant sea anemone can affix itself to a solid surface. While anchored, it cannot move, and it gains a +4 bonus to its CMD on all checks to resist being bull-rushed, dragged, overrun, or repositioned. This bonus increases by +4 for each size category larger the sea anemone is compared to the opponent attempting the maneuver. The creature can unanchor itself as a full-round action.  Poison (Ex) Tentacle-injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Dex damage; cure 2 consecutive saves.  Sightless (Ex) A sea anemone is blind and is not affected by any effect that relies on sight, such as gaze attacks or blindness.
+SpecialAbilities:
+  Anchored (Ex): >
+    As a full-round action, a giant sea anemone can affix itself to a solid surface. While anchored, it cannot move, and it gains a +4 bonus to its CMD on all checks to resist being bull-rushed, dragged, overrun, or repositioned. This bonus increases by +4 for each size category larger the sea anemone is compared to the opponent attempting the maneuver. The creature can unanchor itself as a full-round action.
+  Poison (Ex): >
+    Tentacle-injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Dex damage; cure 2 consecutive saves.
+  Sightless (Ex): >
+    A sea anemone is blind and is not affected by any effect that relies on sight, such as gaze attacks or blindness.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

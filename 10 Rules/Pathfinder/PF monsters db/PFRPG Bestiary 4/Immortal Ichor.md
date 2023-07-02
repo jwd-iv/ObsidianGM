@@ -56,7 +56,9 @@ Skills: Fly +3, Intimidate +25, Knowledge (arcana, history, planes) +25, Percept
 RacialMods: 
 Languages: Abyssal, Aklo, Infernal, Undercommon (can't speak any language); telepathy 100 ft.
 SQ: compression, corrupt ally, no breath
-SpecialAbilities: Corrupt Ally (Su) Any creature charmed by an immortal ichor takes 1d6 points of Wisdom damage per day. When a charmed creature's Wisdom damage equals its Wisdom score, it becomes completely subservient to the immortal ichor (as dominate monster, except it even obeys self-destructive orders) and loses the Wisdom damage it has taken from this ability. A subservient ally who is killed rises the next round as a juju zombie under the immortal ichor's control. If the ichor is killed, these zombies are immediately destroyed.
+SpecialAbilities:
+  Corrupt Ally (Su): >
+    Any creature charmed by an immortal ichor takes 1d6 points of Wisdom damage per day. When a charmed creature's Wisdom damage equals its Wisdom score, it becomes completely subservient to the immortal ichor (as dominate monster, except it even obeys self-destructive orders) and loses the Wisdom damage it has taken from this ability. A subservient ally who is killed rises the next round as a juju zombie under the immortal ichor's control. If the ichor is killed, these zombies are immediately destroyed.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

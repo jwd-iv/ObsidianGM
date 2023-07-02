@@ -56,8 +56,9 @@ Skills: Bluff +7, Diplomacy +6, Knowledge (nature) +5, Perception +8, Perform (p
 RacialMods: 
 Languages: Common, Tanuki
 SQ: change shape (raccoon; beast shape II), sake affinity
-SpecialAbilities: >
-  Sake Affinity (Su) As a swift action, a tanuki can take a swig of sake from the gourd it always carries at its side. When it does so, it gains the effect of one of the following spells at caster level 7th: divine favor, false life, haste, or rage. Unusual tanukis might have additional spell effect choices at the GM's discretion. Each time a tanuki takes a swig of sake, it becomes progressively drunker and takes a -1 penalty to its AC and on Reflex saves for 1 minute. These penalties stack.
+SpecialAbilities:
+  Sake Affinity (Su): >
+    As a swift action, a tanuki can take a swig of sake from the gourd it always carries at its side. When it does so, it gains the effect of one of the following spells at caster level 7th: divine favor, false life, haste, or rage. Unusual tanukis might have additional spell effect choices at the GM's discretion. Each time a tanuki takes a swig of sake, it becomes progressively drunker and takes a -1 penalty to its AC and on Reflex saves for 1 minute. These penalties stack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

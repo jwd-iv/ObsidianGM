@@ -56,7 +56,11 @@ Skills: Climb +15, Perception +4, Stealth +0
 RacialMods: +4 Perception, +8 Stealth
 Languages: 
 SQ: compression
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 1 save. The save DC is Constitution-based.  Tail Slap (Ex) A giant whiptail centipede's tail slap deals nonlethal damage and gains no bonus from its Strength score on damage dealt.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 1 save. The save DC is Constitution-based.
+  Tail Slap (Ex): >
+    A giant whiptail centipede's tail slap deals nonlethal damage and gains no bonus from its Strength score on damage dealt.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

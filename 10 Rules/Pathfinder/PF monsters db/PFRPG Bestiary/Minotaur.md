@@ -56,7 +56,9 @@ Skills: Intimidate +5, Perception +10, Stealth +2, Survival +10
 RacialMods: +4 Perception, +4 Survival
 Languages: Giant
 SQ: 
-SpecialAbilities: Natural Cunning (Ex) Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to maze spells and prevents them from ever becoming lost. Further, they are never caught flat-footed.
+SpecialAbilities:
+  Natural Cunning (Ex): >
+    Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to maze spells and prevents them from ever becoming lost. Further, they are never caught flat-footed.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

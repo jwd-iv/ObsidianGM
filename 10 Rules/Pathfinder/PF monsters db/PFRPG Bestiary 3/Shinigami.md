@@ -56,7 +56,9 @@ Skills: Acrobatics +30, Diplomacy +34, Fly +36, Intimidate +34, Knowledge (plane
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal; tongues
 SQ: 
-SpecialAbilities: Destroy Soul (Su) A shinigami possesses six gems in which it encapsulates souls with its soul bind spell-like ability. These gems are only useful to the shinigami that owns them, and if the shinigami dies, the gems are destroyed as well. As a standard action once per day, a shinigami can hold up a gem that currently contains a soul and crush it, permanently destroying the soul within and releasing a 30-foot-radius burst of negative energy that inflicts 1d6 negative levels on all creatures in the area of effect. A successful DC 30 Fortitude save reduces this to 1 negative level. The soul destroyed in the process of using this ability can only be brought back to life by means of a miracle or wish spell. This is a death effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Destroy Soul (Su): >
+    A shinigami possesses six gems in which it encapsulates souls with its soul bind spell-like ability. These gems are only useful to the shinigami that owns them, and if the shinigami dies, the gems are destroyed as well. As a standard action once per day, a shinigami can hold up a gem that currently contains a soul and crush it, permanently destroying the soul within and releasing a 30-foot-radius burst of negative energy that inflicts 1d6 negative levels on all creatures in the area of effect. A successful DC 30 Fortitude save reduces this to 1 negative level. The soul destroyed in the process of using this ability can only be brought back to life by means of a miracle or wish spell. This is a death effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

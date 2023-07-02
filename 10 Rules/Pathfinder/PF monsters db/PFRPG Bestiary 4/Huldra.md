@@ -56,7 +56,11 @@ Skills: Bluff +16, Disguise +16, Escape Artist +13, Knowledge (nature) +11, Perc
 RacialMods: 
 Languages: Common, Giant, Sylvan
 SQ: 
-SpecialAbilities: Lashing Tail (Su) A huldra's tail slap is a primary attack. In addition, each time a huldra damages a creature with her tail slap, she deals 1d4 points of Charisma damage, causing her target to grow progressively more deformed and ugly with each strike. A successful DC 15 Fortitude save negates the Charisma damage. The save DC is Constitution-based.  Manipulate Luck (Su) Once per day, a huldra can manipulate another creature's luck by spending a full-round action, during which the huldra must remain in physical contact with the target creature. When the huldra uses this ability, she must choose whether she is imparting good luck or bad luck. A creature granted good luck gains a +2 luck bonus on all saving throws, attack rolls, and skill checks, while a creature afflicted with bad luck takes a -4 penalty on all saving throws, attack rolls, and skill checks. A successful DC 17 Will save negates the effect. Huldras cannot be the target of this ability. This effect lasts for 24 hours and is a curse effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Lashing Tail (Su): >
+    A huldra's tail slap is a primary attack. In addition, each time a huldra damages a creature with her tail slap, she deals 1d4 points of Charisma damage, causing her target to grow progressively more deformed and ugly with each strike. A successful DC 15 Fortitude save negates the Charisma damage. The save DC is Constitution-based.
+  Manipulate Luck (Su): >
+    Once per day, a huldra can manipulate another creature's luck by spending a full-round action, during which the huldra must remain in physical contact with the target creature. When the huldra uses this ability, she must choose whether she is imparting good luck or bad luck. A creature granted good luck gains a +2 luck bonus on all saving throws, attack rolls, and skill checks, while a creature afflicted with bad luck takes a -4 penalty on all saving throws, attack rolls, and skill checks. A successful DC 17 Will save negates the effect. Huldras cannot be the target of this ability. This effect lasts for 24 hours and is a curse effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

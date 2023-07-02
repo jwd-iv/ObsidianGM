@@ -56,7 +56,11 @@ Skills: Fly +33, Knowledge (dungeoneering) +35, Knowledge (geography) +35, Knowl
 RacialMods: 
 Languages: Aklo, Common, Terran, Undercommon
 SQ: 
-SpecialAbilities: Grasping Tendrils (Ex) Sticky, arm-length tendrils cover a mu spore. A mu spore can use these tendrils to attempt a grab as an immediate action when an adjacent creature hits it with a melee attack. As it is only using the tendrils (instead of conducting the grapple normally), it takes a -20 penalty to its CMB to make and maintain the grapple (+31 CMB with tendrils). The mu spore does not gain the grappled condition while grappling a creature with its tendrils.  Spore Cough (Su) Once every 1d4 rounds as a standard action, a mu spore can release a cloud of burrowing spores in a 100- foot cone. The burrowing spores deal 20d8 points of damage to all creatures and wooden structures in the area, or half damage to any creatures that make a DC 34 Reflex save. Plants and plant creatures are immune to this damage. The save DC is Constitution-based.
+SpecialAbilities:
+  Grasping Tendrils (Ex): >
+    Sticky, arm-length tendrils cover a mu spore. A mu spore can use these tendrils to attempt a grab as an immediate action when an adjacent creature hits it with a melee attack. As it is only using the tendrils (instead of conducting the grapple normally), it takes a -20 penalty to its CMB to make and maintain the grapple (+31 CMB with tendrils). The mu spore does not gain the grappled condition while grappling a creature with its tendrils.
+  Spore Cough (Su): >
+    Once every 1d4 rounds as a standard action, a mu spore can release a cloud of burrowing spores in a 100- foot cone. The burrowing spores deal 20d8 points of damage to all creatures and wooden structures in the area, or half damage to any creatures that make a DC 34 Reflex save. Plants and plant creatures are immune to this damage. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,19 @@ Skills: Fly +30, Intimidate +30, Knowledge (arcana) +24, Knowledge (geography) +
 RacialMods: +4 Perception
 Languages: truespeech
 SQ: perfect prediction
-SpecialAbilities: Cunning Reflexes (Ex) A lhaksharut uses its Wisdom modifier, rather than its Dexterity modifier, to determine how many additional attacks of opportunity it gains with the Combat Reflexes feat. For most lhaksharut inevitables, this benefit equates to 5 additional attacks of opportunity per round.  Energy Bolt (Su) A lhaksharut can fire bolts of elemental energy from two of its six arms-it never wields weapons in these hands. These attacks have a range increment of 100 feet and deal 10d6 energy damage of the inevitable's choice (acid, cold, electricity, or fire, chosen for each bolt as it is thrown). It can throw two bolts of energy as a standard action, and cannot attack with these hands when it makes weapon or slam attacks with its other limbs.  Immunity to Energy Spells (Ex) A lhaksharut is immune to any spell or spell-like ability with the acid, cold, electricity, fire, or sonic descriptor that allows spell resistance.  Multiweapon Mastery (Ex) A lhaksharut never takes penalties on its attack rolls when fighting with multiple weapons.  Perfect Prediction (Su) A lhaksharut gains an insight bonus to AC equal to its Wisdom bonus.  Wounding Weapons (Su) Any weapon wielded by a lhaksharut gains the wounding weapon quality as long as it remains in the creature's grasp.
+SpecialAbilities:
+  Cunning Reflexes (Ex): >
+    A lhaksharut uses its Wisdom modifier, rather than its Dexterity modifier, to determine how many additional attacks of opportunity it gains with the Combat Reflexes feat. For most lhaksharut inevitables, this benefit equates to 5 additional attacks of opportunity per round.
+  Energy Bolt (Su): >
+    A lhaksharut can fire bolts of elemental energy from two of its six arms-it never wields weapons in these hands. These attacks have a range increment of 100 feet and deal 10d6 energy damage of the inevitable's choice (acid, cold, electricity, or fire, chosen for each bolt as it is thrown). It can throw two bolts of energy as a standard action, and cannot attack with these hands when it makes weapon or slam attacks with its other limbs.
+  Immunity to Energy Spells (Ex): >
+    A lhaksharut is immune to any spell or spell-like ability with the acid, cold, electricity, fire, or sonic descriptor that allows spell resistance.
+  Multiweapon Mastery (Ex): >
+    A lhaksharut never takes penalties on its attack rolls when fighting with multiple weapons.
+  Perfect Prediction (Su): >
+    A lhaksharut gains an insight bonus to AC equal to its Wisdom bonus.
+  Wounding Weapons (Su): >
+    Any weapon wielded by a lhaksharut gains the wounding weapon quality as long as it remains in the creature's grasp.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

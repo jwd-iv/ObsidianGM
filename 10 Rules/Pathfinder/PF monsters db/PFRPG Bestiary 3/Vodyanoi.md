@@ -56,7 +56,9 @@ Skills: Diplomacy +3, Heal +18, Knowledge (arcana) +3, Knowledge (nature) +5, Pe
 RacialMods: +4 Heal
 Languages: Aquan, Common, Sylvan
 SQ: amphibious
-SpecialAbilities: Suffocating Water (Su) Once per day as a standard action, a vodyanoi can cause the water surrounding it up to a radius of 30 feet to grow thick and slimy, making it difficult for water-breathing creatures within the area other than vodyanois to breathe. A vodyanoi can control narrow currents of breathable water to provide oxygen to up to 3 other creatures in the area of effect-vodyanois themselves are immune to this effect. All other creatures in an area of suffocating water must hold their breath or risk suffocation. Once created, an area of suffocating water does not move-it persists for a number of minutes equal to the vodyanoi's Hit Dice. The slimy water does not impact swim speeds or visibility in any significant manner. A creature can make a DC 20 Perception check to notice the difference between suffocating water and any normal water that may surround it.
+SpecialAbilities:
+  Suffocating Water (Su): >
+    Once per day as a standard action, a vodyanoi can cause the water surrounding it up to a radius of 30 feet to grow thick and slimy, making it difficult for water-breathing creatures within the area other than vodyanois to breathe. A vodyanoi can control narrow currents of breathable water to provide oxygen to up to 3 other creatures in the area of effect-vodyanois themselves are immune to this effect. All other creatures in an area of suffocating water must hold their breath or risk suffocation. Once created, an area of suffocating water does not move-it persists for a number of minutes equal to the vodyanoi's Hit Dice. The slimy water does not impact swim speeds or visibility in any significant manner. A creature can make a DC 20 Perception check to notice the difference between suffocating water and any normal water that may surround it.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

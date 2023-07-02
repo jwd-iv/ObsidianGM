@@ -56,7 +56,11 @@ Skills: Acrobatics +11, Bluff +10, Fly +20, Knowledge (nature) +8, Perception +1
 RacialMods: +4 Stealth
 Languages: Common, Sylvan
 SQ: change shape (trumpeter swan, beast shape I), feather cloak, trackless step, transformation ritual
-SpecialAbilities: Feather Cloak (Su) Without her feather cloak, a swan maiden can't use her change shape ability.  Transformation Ritual (Su) A swan maiden can transform a willing good female humanoid into a swan maiden via a ritual that takes 24 hours. The humanoid loses her class and racial abilities.
+SpecialAbilities:
+  Feather Cloak (Su): >
+    Without her feather cloak, a swan maiden can't use her change shape ability.
+  Transformation Ritual (Su): >
+    A swan maiden can transform a willing good female humanoid into a swan maiden via a ritual that takes 24 hours. The humanoid loses her class and racial abilities.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Acrobatics +7, Bluff +8, Fly +16, Knowledge (arcana) +7, Perception +7, 
 RacialMods: 
 Languages: Common
 SQ: mask symbiosis
-SpecialAbilities: Mask Symbiosis (Ex) A spirit oni can be worn as a mask by a willing Small or Medium creature. While worn in this way, the wearer can see through the oni's eyes and speak through its mouth, although the wearer retains its own senses and voice. The spirit oni remains a separate creature, and must detach from its host's face (as a move action) if it wishes to take any action of its own (including attacking or using a spell-like ability). While a spirit oni is worn as a mask, it grants a +2 insight bonus on its host's Perception checks.  Poison (Ex) Gore-injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d2 Cha; cure 2 consecutive saves.
+SpecialAbilities:
+  Mask Symbiosis (Ex): >
+    A spirit oni can be worn as a mask by a willing Small or Medium creature. While worn in this way, the wearer can see through the oni's eyes and speak through its mouth, although the wearer retains its own senses and voice. The spirit oni remains a separate creature, and must detach from its host's face (as a move action) if it wishes to take any action of its own (including attacking or using a spell-like ability). While a spirit oni is worn as a mask, it grants a +2 insight bonus on its host's Perception checks.
+  Poison (Ex): >
+    Gore-injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d2 Cha; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

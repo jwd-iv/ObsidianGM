@@ -56,7 +56,11 @@ Skills: Acrobatics +1 (+9 jump), Climb +20, Perception +12, Stealth -7
 RacialMods: 
 Languages: Giant
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 24; frequency 1/round for 6 rounds; effect 1d4 Str; cure 2 consecutive saves.  Swift Claw (Ex) An athach can attack with its claw as a swift action, even when the creature's movement would normally restrict it to one attack. This attack is made at a +19 bonus and deals 1d10+11 points of damage, regardless of what other attacks are made on the athach's turn.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 24; frequency 1/round for 6 rounds; effect 1d4 Str; cure 2 consecutive saves.
+  Swift Claw (Ex): >
+    An athach can attack with its claw as a swift action, even when the creature's movement would normally restrict it to one attack. This attack is made at a +19 bonus and deals 1d10+11 points of damage, regardless of what other attacks are made on the athach's turn.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

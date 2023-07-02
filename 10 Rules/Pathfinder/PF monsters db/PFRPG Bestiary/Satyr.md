@@ -56,7 +56,9 @@ Skills: Bluff +15, Diplomacy +15, Disguise +9, Intimidate +9, Knowledge (nature)
 RacialMods: +4 Perception, +4 Perform, +4 Stealth
 Languages: Common, Sylvan
 SQ: 
-SpecialAbilities: Pipes (Su) A satyr can focus and empower his magic by playing haunting melodies on his panpipes. When he plays, all creatures within a 60-foot radius must make a DC 18 Will save or be affected by charm person, fear, sleep, or suggestion, depending on what tune the satyr chooses. A creature that successfully saves against any of the pipes' effects cannot be affected by the same set of pipes for 24 hours, but can still be affected by the satyr's other spell-like abilities as normal. The satyr's use of his pipes does not count toward his uses per day of his spelllike abilities, and if separated from them he may continue to use his standard abilities. The pipes themselves are masterwork, and a satyr can craft a replacement with 1 week of labor. The save DC is Charisma-based.
+SpecialAbilities:
+  Pipes (Su): >
+    A satyr can focus and empower his magic by playing haunting melodies on his panpipes. When he plays, all creatures within a 60-foot radius must make a DC 18 Will save or be affected by charm person, fear, sleep, or suggestion, depending on what tune the satyr chooses. A creature that successfully saves against any of the pipes' effects cannot be affected by the same set of pipes for 24 hours, but can still be affected by the satyr's other spell-like abilities as normal. The satyr's use of his pipes does not count toward his uses per day of his spelllike abilities, and if separated from them he may continue to use his standard abilities. The pipes themselves are masterwork, and a satyr can craft a replacement with 1 week of labor. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

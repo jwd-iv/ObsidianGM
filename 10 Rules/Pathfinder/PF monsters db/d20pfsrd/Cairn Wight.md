@@ -56,7 +56,11 @@ Skills: Climb +10, Intimidate +11, Knowledge (religion) +9, Perception +13, Sens
 RacialMods: +8 Stealth
 Languages: Common
 SQ: create spawn
-SpecialAbilities: Create Spawn (Su)Any humanoid creature that is slain by a cairn wight becomes a ordinary wight itself in only 1d4 rounds. Spawn are under the command of the cairn wight that created them and remain enslaved until its death, at which point they become full-fledged and free-willed cairn wights. They do not possess any of the abilities they had in life.  Resurrection Vulnerability (Su)A raise dead or similar spell cast on a cairn wight destroys it (Will negates). Using the spell in this way does not require a material component.
+SpecialAbilities:
+  Create Spawn (Su): >
+    Any humanoid creature that is slain by a cairn wight becomes a ordinary wight itself in only 1d4 rounds. Spawn are under the command of the cairn wight that created them and remain enslaved until its death, at which point they become full-fledged and free-willed cairn wights. They do not possess any of the abilities they had in life.
+  Resurrection Vulnerability (Su): >
+    A raise dead or similar spell cast on a cairn wight destroys it (Will negates). Using the spell in this way does not require a material component.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

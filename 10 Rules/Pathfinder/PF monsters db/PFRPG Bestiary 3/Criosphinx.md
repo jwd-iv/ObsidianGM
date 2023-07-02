@@ -56,7 +56,9 @@ Skills: Bluff +10, Fly +1, Intimidate +16, Perception +10
 RacialMods: 
 Languages: Common, Sphinx; speak with animals
 SQ: 
-SpecialAbilities: Swooping Charge (Ex) A charging criosphinx deals 4d4+12 points of damage with its gore attack. A flying criosphinx who drops at least 20 feet in altitude as part of a charge deals 6d4+18 points instead.
+SpecialAbilities:
+  Swooping Charge (Ex): >
+    A charging criosphinx deals 4d4+12 points of damage with its gore attack. A flying criosphinx who drops at least 20 feet in altitude as part of a charge deals 6d4+18 points instead.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

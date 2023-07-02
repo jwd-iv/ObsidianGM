@@ -56,7 +56,9 @@ Skills: Craft (armor) +12, Craft (weapons) +12, Intimidate +8, Perception +9
 RacialMods: +4 Craft (armor), +4 Craft (weapons)
 Languages: Common, Giant
 SQ: shattering blow
-SpecialAbilities: Shattering Blow (Ex) A slag giant who makes a full attack against a metal or stone object or structure deals double damage.
+SpecialAbilities:
+  Shattering Blow (Ex): >
+    A slag giant who makes a full attack against a metal or stone object or structure deals double damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

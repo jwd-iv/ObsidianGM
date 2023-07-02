@@ -56,7 +56,9 @@ Skills: Climb +5, Handle Animal +5, Knowledge (nature) +3, Perception +2, Stealt
 RacialMods: +2 Perception, +2 Stealth, +2 Survival
 Languages: Catfolk, Common
 SQ: cat's luck, sprinter, track +1, wild empathy +2
-SpecialAbilities: Cat's Luck (Ex) Once per day when a catfolk makes a Reflex saving throw, it can roll the saving throw twice and take the better result. It must decide to use this ability before the saving throw is attempted.  Sprinter (Ex) A catfolk gains a 10-foot racial bonus to its speed when using the charge, run, or withdraw actions.
+SpecialAbilities: Cat's Luck (Ex) Once per day when a catfolk makes a Reflex saving throw, it can roll the saving throw twice and take the better result. It must decide to use this ability before the saving throw is attempted.
+  Sprinter (Ex): >
+    A catfolk gains a 10-foot racial bonus to its speed when using the charge, run, or withdraw actions.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

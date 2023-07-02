@@ -56,7 +56,9 @@ Skills: Climb +12, Intimidate +12, Perception +12, Stealth +4 (+12 in rocky terr
 RacialMods: +8 Stealth in rocky terrain
 Languages: Common, Giant
 SQ: 
-SpecialAbilities: Improved Rock Catching (Ex) A stone giant gains a +4 racial bonus on its Reflex save when attempting to catch a thrown rock with rock catching. This ability otherwise works like the rock catching ability (see page 303).
+SpecialAbilities:
+  Improved Rock Catching (Ex): >
+    A stone giant gains a +4 racial bonus on its Reflex save when attempting to catch a thrown rock with rock catching. This ability otherwise works like the rock catching ability (see page 303).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

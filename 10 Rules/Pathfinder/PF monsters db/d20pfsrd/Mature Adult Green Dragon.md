@@ -56,7 +56,13 @@ Skills: Fly +12, Knowledge (arcana) +23, Knowledge (nature) +23, Perception +27,
 RacialMods: +8 Swim
 Languages: Common, Draconic, Elven, Sylvan
 SQ: trackless step, water breathing, woodland stride
-SpecialAbilities: Trackless Step (Ex) An adult or older green dragon does not leave a trail in natural surroundings and cannot be tracked. A green dragon can choose to leave a trail, if it so desires.  Water Breathing (Ex) A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.  Woodland Stride (Ex) A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
+SpecialAbilities:
+  Trackless Step (Ex): >
+    An adult or older green dragon does not leave a trail in natural surroundings and cannot be tracked. A green dragon can choose to leave a trail, if it so desires.
+  Water Breathing (Ex): >
+    A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+  Woodland Stride (Ex): >
+    A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
 SpellsKnown: Spells Known (CL 7th; concentration +10)  3rd (5/day)-fireball (DC 16), haste  2nd (7/day)-alter self, detect thoughts (DC 15), mirror image  1st (7/day)-magic missile, shield, silent image (DC 14), summon monster I, ventriloquism (DC 14)  0 (at will)-dancing lights, detect magic, ghost sound, mage hand, message, resistance, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

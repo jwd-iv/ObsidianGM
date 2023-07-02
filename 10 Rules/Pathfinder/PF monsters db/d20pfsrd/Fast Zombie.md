@@ -56,7 +56,9 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Quick Strikes (Ex) Whenever a fast zombie takes a full-attack action, it can make one additional slam attack at its highest base attack bonus.
+SpecialAbilities:
+  Quick Strikes (Ex): >
+    Whenever a fast zombie takes a full-attack action, it can make one additional slam attack at its highest base attack bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

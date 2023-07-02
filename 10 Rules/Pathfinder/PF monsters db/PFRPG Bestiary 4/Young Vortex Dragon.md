@@ -56,7 +56,17 @@ Skills: Bluff +17, Diplomacy +17, Fly +18, Intimidate +17, Knowledge (arcana) +1
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Draconic, Infernal
 SQ: agile, galactic emissary, no breath, starflight
-SpecialAbilities: Agile (Ex) Vortex dragons have good maneuverability when flying regardless of their age or size.  Alien Presence (Su) A vortex dragon's alien presence bends space. A creature that fails its saving throw treats all other creatures as if they were under the effects of blur (or displacement if the target has 4 or fewer Hit Dice) for 5d6 rounds.  Collapsing Breath (Su) Instead of a cone of fire, an ancient or older vortex dragon can suck a single target into its maw. If the target fails its Reflex save (DC equal to breath weapon), it is swallowed whole and takes 6d6 points of bludgeoning damage per round. A creature can cut itself out by dealing 30 points of damage with a light or one-handed piercing or slashing weapon. A vortex dragon's interior has an AC of 26.  Fragmented Strike (Su) An adult or older vortex dragon can strike with its bite through a rift in space. This allows it to make its bite attack against a target anywhere within the radius of its alien presence as long as the dragon can see the creature. This doesn't apply to attacks of opportunity.  Galactic Emissary (Su) A young or older vortex dragon halves the time of any starflight journey. In addition, it's immune to any effect that bars extradimensional travel.
+SpecialAbilities:
+  Agile (Ex): >
+    Vortex dragons have good maneuverability when flying regardless of their age or size.
+  Alien Presence (Su): >
+    A vortex dragon's alien presence bends space. A creature that fails its saving throw treats all other creatures as if they were under the effects of blur (or displacement if the target has 4 or fewer Hit Dice) for 5d6 rounds.
+  Collapsing Breath (Su): >
+    Instead of a cone of fire, an ancient or older vortex dragon can suck a single target into its maw. If the target fails its Reflex save (DC equal to breath weapon), it is swallowed whole and takes 6d6 points of bludgeoning damage per round. A creature can cut itself out by dealing 30 points of damage with a light or one-handed piercing or slashing weapon. A vortex dragon's interior has an AC of 26.
+  Fragmented Strike (Su): >
+    An adult or older vortex dragon can strike with its bite through a rift in space. This allows it to make its bite attack against a target anywhere within the radius of its alien presence as long as the dragon can see the creature. This doesn't apply to attacks of opportunity.
+  Galactic Emissary (Su): >
+    A young or older vortex dragon halves the time of any starflight journey. In addition, it's immune to any effect that bars extradimensional travel.
 SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +4)  1st (4/day)-feather fall, true strike  0 (at will)-arcane mark, detect magic, message, read magic
 SpellsPrepared: 
 SpellDomains: 

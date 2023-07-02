@@ -56,7 +56,13 @@ Skills: Climb +16, Stealth +13
 RacialMods: 
 Languages: Undercommon
 SQ: quickness
-SpecialAbilities: Grab (Ex) A choker can use its grab attack against a foe of up to Large size. Strangle (Ex) Chokers have an unerring talent for seizing their victims by the neck. A creature that is grappled by a choker cannot speak or cast spells with verbal components. Quickness (Su) A choker is supernaturally quick. It can take an extra move action during its turn each round.
+SpecialAbilities:
+  Grab (Ex): >
+    A choker can use its grab attack against a foe of up to Large size.
+  Strangle (Ex): >
+    Chokers have an unerring talent for seizing their victims by the neck. A creature that is grappled by a choker cannot speak or cast spells with verbal components.
+  Quickness (Su): >
+    A choker is supernaturally quick. It can take an extra move action during its turn each round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

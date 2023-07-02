@@ -57,7 +57,9 @@ RacialMods:
 Languages: Abyssal, Common; telepathy (touch)
 SQ: >
   change shape (2 of the following forms: bat, Small centipede, toad, or wolf; polmorph)
-SpecialAbilities: Poison (Ex) Claw-injury; save Fortitude DC 13; frequency 1/round for 6 rounds; effect 1d2 Dexterity; cure 2 consecutive saves.
+SpecialAbilities:
+  Poison (Ex): >
+    Claw-injury; save Fortitude DC 13; frequency 1/round for 6 rounds; effect 1d2 Dexterity; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

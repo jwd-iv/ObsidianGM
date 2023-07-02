@@ -56,7 +56,9 @@ Skills: Diplomacy +15, Fly +17, Knowledge (planes) +15, Knowledge (religion) +15
 RacialMods: 
 Languages: Auran, Celestial, Common; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Prescience (Su) A shedu can  see all the possible outcomes of any of its own futures. This grants the creature an insight bonus to its AC and on initiative checks and Reflex saves equal to its Wisdom bonus (+6 for most shedus).
+SpecialAbilities:
+  Prescience (Su): >
+    A shedu can  see all the possible outcomes of any of its own futures. This grants the creature an insight bonus to its AC and on initiative checks and Reflex saves equal to its Wisdom bonus (+6 for most shedus).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

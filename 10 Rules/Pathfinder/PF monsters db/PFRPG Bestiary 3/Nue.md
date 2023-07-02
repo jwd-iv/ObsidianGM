@@ -56,7 +56,11 @@ Skills: Climb +13, Perception +10, Stealth +11
 RacialMods: 
 Languages: Common
 SQ: cloud form
-SpecialAbilities: Cloud Form (Su) A nue can change into the form of a 10-foot black cloud or back to its normal form as a standard action. A nue in cloud form is otherwise treated as if under the effects of gaseous form, except that it obscures vision like fog cloud.  Poison (Ex) Bite-injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Cloud Form (Su): >
+    A nue can change into the form of a 10-foot black cloud or back to its normal form as a standard action. A nue in cloud form is otherwise treated as if under the effects of gaseous form, except that it obscures vision like fog cloud.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Fly +13, Intimidate +10, Perception +9, Stealth +9, Survival +9
 RacialMods: 
 Languages: Common, Sylvan
 SQ: 
-SpecialAbilities: Merope Consumption (Su) Once per day as a standard action, a thriae soldier can consume a dose of merope in order to enhance her combat abilities for 1d6+3 rounds. Starting on the round after the merope is consumed, the thriae soldier gains a +2 insight bonus on attack rolls and saving throws, and gains fast healing 3.  Poison (Ex) Sting or arrow-injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save. As a free action, a thriae soldier can apply her venom to an arrow as she fires the shot. The save DC is Constitution-based.
+SpecialAbilities:
+  Merope Consumption (Su): >
+    Once per day as a standard action, a thriae soldier can consume a dose of merope in order to enhance her combat abilities for 1d6+3 rounds. Starting on the round after the merope is consumed, the thriae soldier gains a +2 insight bonus on attack rolls and saving throws, and gains fast healing 3.
+  Poison (Ex): >
+    Sting or arrow-injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save. As a free action, a thriae soldier can apply her venom to an arrow as she fires the shot. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

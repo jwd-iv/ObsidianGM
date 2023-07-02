@@ -56,7 +56,9 @@ Skills: Climb +10, Perception +9
 RacialMods: 
 Languages: Draconic
 SQ: 
-SpecialAbilities: Fiery Regeneration (Su) A kyrana does not take damage from fire-based attacks. Additionally, when a kyrana would normally take fire damage, it heals that number of hit points, to a maximum of 5 hit points per round. A kyrana can't use its breath weapon to heal itself.
+SpecialAbilities:
+  Fiery Regeneration (Su): >
+    A kyrana does not take damage from fire-based attacks. Additionally, when a kyrana would normally take fire damage, it heals that number of hit points, to a maximum of 5 hit points per round. A kyrana can't use its breath weapon to heal itself.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

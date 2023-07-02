@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: conductive
-SpecialAbilities: Conductive (Ex) Anytime a tophet is affected by an effect that deals fire damage, determine how much damage the construct would have taken if it were not immune to fire. Creatures currently swallowed whole by the construct take fire damage equal to half of this amount.  Swallow Whole (Ex) Once swallowed by a tophet, an opponent takes no damage, but is trapped inside the creature's hollow interior. The construct's maw locks down, preventing creatures from climbing back out. A creature can attempt to hack or smash its way out as normal, but a tophet's stomach has hit points equal to one-tenth its actual hit points plus its bonus hit  points for being a construct (totalling 40 hit points for most tophets). Alternatively, a swallowed creature can attempt to pick the lock on the iron hatch in the tophet's stomach by making a DC 30 Disable Device check. If a creature exits by picking the lock, the tophet closes its hatch and can swallow whole again. These locks can also be picked from the outside, but only after the tophet is slain. A Large tophet's belly can hold 1 Medium creature at a time.
+SpecialAbilities:
+  Conductive (Ex): >
+    Anytime a tophet is affected by an effect that deals fire damage, determine how much damage the construct would have taken if it were not immune to fire. Creatures currently swallowed whole by the construct take fire damage equal to half of this amount.
+  Swallow Whole (Ex): >
+    Once swallowed by a tophet, an opponent takes no damage, but is trapped inside the creature's hollow interior. The construct's maw locks down, preventing creatures from climbing back out. A creature can attempt to hack or smash its way out as normal, but a tophet's stomach has hit points equal to one-tenth its actual hit points plus its bonus hit  points for being a construct (totalling 40 hit points for most tophets). Alternatively, a swallowed creature can attempt to pick the lock on the iron hatch in the tophet's stomach by making a DC 30 Disable Device check. If a creature exits by picking the lock, the tophet closes its hatch and can swallow whole again. These locks can also be picked from the outside, but only after the tophet is slain. A Large tophet's belly can hold 1 Medium creature at a time.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

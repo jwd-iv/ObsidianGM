@@ -56,7 +56,15 @@ Skills: Climb +11
 RacialMods: 
 Languages: 
 SQ: ooze traits, suction
-SpecialAbilities: Acid (Ex) A black pudding secretes a digestive acid that dissolves organic material and metal quickly, but does not affect stone.  Each time a creature suffers damage from a black pudding's acid, its clothing and armor take the same amount of damage from the acid. A DC 21 Reflex save prevents damage to clothing and armor. A metal or wooden weapon that strikes a black pudding takes 2d6 acid damage unless the weapon's wielder succeeds on a DC 21 Reflex save. If a black pudding remains in contact with a wooden or metal object for 1 full round, it inflicts 21 points of acid damage (no save) to the object. The save DCs are Constitution-based.  Corrosion (Ex) An opponent that is being constricted by a black pudding suffers a -4 penalty on Reflex saves made to resist acid damage applying to clothing and armor.  Split (Ex) Slashing and piercing weapons deal no damage to a black pudding. Instead, the creature splits into two identical puddings, each with half of the original's current hit points (round down). A pudding with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.  Suction (Ex) The black pudding can create powerful suction against any surface as it climbs, allowing it to cling to inverted surfaces with ease. A black pudding can establish or release suction as a swift action, and as long as it is using suction, it moves at half speed. Because of the suction, a black pudding's CMD score gets a +10 circumstance bonus to resist bull rush, awesome blows, and other attacks and effects that attempt to physically move it from its location.
+SpecialAbilities:
+  Acid (Ex): >
+    A black pudding secretes a digestive acid that dissolves organic material and metal quickly, but does not affect stone.  Each time a creature suffers damage from a black pudding's acid, its clothing and armor take the same amount of damage from the acid. A DC 21 Reflex save prevents damage to clothing and armor. A metal or wooden weapon that strikes a black pudding takes 2d6 acid damage unless the weapon's wielder succeeds on a DC 21 Reflex save. If a black pudding remains in contact with a wooden or metal object for 1 full round, it inflicts 21 points of acid damage (no save) to the object. The save DCs are Constitution-based.
+  Corrosion (Ex): >
+    An opponent that is being constricted by a black pudding suffers a -4 penalty on Reflex saves made to resist acid damage applying to clothing and armor.
+  Split (Ex): >
+    Slashing and piercing weapons deal no damage to a black pudding. Instead, the creature splits into two identical puddings, each with half of the original's current hit points (round down). A pudding with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.
+  Suction (Ex): >
+    The black pudding can create powerful suction against any surface as it climbs, allowing it to cling to inverted surfaces with ease. A black pudding can establish or release suction as a swift action, and as long as it is using suction, it moves at half speed. Because of the suction, a black pudding's CMD score gets a +10 circumstance bonus to resist bull rush, awesome blows, and other attacks and effects that attempt to physically move it from its location.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

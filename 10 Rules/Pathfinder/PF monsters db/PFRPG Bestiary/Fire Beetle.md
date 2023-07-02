@@ -56,7 +56,9 @@ Skills: Fly -2
 RacialMods: 
 Languages: 
 SQ: luminescence
-SpecialAbilities: Luminescence (Ex) A fire beetle's glowing glands provide light in a 10-foot radius. A dead fire beetle's luminescent glands continue to glow for 1d6 days after its death.
+SpecialAbilities:
+  Luminescence (Ex): >
+    A fire beetle's glowing glands provide light in a 10-foot radius. A dead fire beetle's luminescent glands continue to glow for 1d6 days after its death.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

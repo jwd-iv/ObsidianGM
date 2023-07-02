@@ -56,7 +56,9 @@ Skills: Perception +13, Swim +39
 RacialMods: 
 Languages: 
 SQ: hold breath
-SpecialAbilities: Smashing Breach (Ex) As a full-round action, a great white whale can make a special charge attack against creatures on the surface of the water. At the end of its charge, the whale breaches, then slams down onto the target with incredible force. Any Huge or smaller creatures in the whale's space must make a DC 27 Reflex save or take 4d8+30 points of bludgeoning damage and be forced into the nearest square that is adjacent to the whale. This breach automatically attempts to capsize any boats caught wholly or partially in this area. The save DC is Constitution-based.
+SpecialAbilities:
+  Smashing Breach (Ex): >
+    As a full-round action, a great white whale can make a special charge attack against creatures on the surface of the water. At the end of its charge, the whale breaches, then slams down onto the target with incredible force. Any Huge or smaller creatures in the whale's space must make a DC 27 Reflex save or take 4d8+30 points of bludgeoning damage and be forced into the nearest square that is adjacent to the whale. This breach automatically attempts to capsize any boats caught wholly or partially in this area. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

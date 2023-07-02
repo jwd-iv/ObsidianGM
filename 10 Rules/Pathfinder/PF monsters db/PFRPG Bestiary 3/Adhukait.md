@@ -56,7 +56,11 @@ Skills: Acrobatics +15 (+19 when jumping), Bluff +15, Escape Artist +21, Intimid
 RacialMods: Acrobatics (+4 when jumping), +6 Escape Artist, +4 Perception
 Languages: Common, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Dance of Disaster (Su) Whenever an adhukait hits with a melee attack during a full-attack action, it can move 10 feet before making its next attack. The adhukait's normal speed does not limit this movement-it can move 10 feet after any successful hit among its four attacks, as long as it has another attack to make.  Dual Mind (Su) An adhukait is a single creature with two distinct minds, so it can attempt two saving throws against mind-affecting effects. If either saving throw succeeds, the mind-affecting effect fails to affect the adhukait.
+SpecialAbilities:
+  Dance of Disaster (Su): >
+    Whenever an adhukait hits with a melee attack during a full-attack action, it can move 10 feet before making its next attack. The adhukait's normal speed does not limit this movement-it can move 10 feet after any successful hit among its four attacks, as long as it has another attack to make.
+  Dual Mind (Su): >
+    An adhukait is a single creature with two distinct minds, so it can attempt two saving throws against mind-affecting effects. If either saving throw succeeds, the mind-affecting effect fails to affect the adhukait.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

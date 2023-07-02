@@ -56,7 +56,9 @@ Skills: Climb +10, Fly +6
 RacialMods: 
 Languages: 
 SQ: weak flier
-SpecialAbilities: Weak Flier (Ex) An archaeopteryx can't hover or fly up at an angle greater than 45 degrees while flying.
+SpecialAbilities:
+  Weak Flier (Ex): >
+    An archaeopteryx can't hover or fly up at an angle greater than 45 degrees while flying.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

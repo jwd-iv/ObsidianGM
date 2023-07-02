@@ -56,7 +56,11 @@ Skills: Bluff +23, Disguise +14, Fly +25, Intimidate +23, Knowledge (arcana) +11
 RacialMods: +4 Stealth in snow
 Languages: Common, Giant
 SQ: change shape (Medium or Large humanoid; alter self or giant form I)
-SpecialAbilities: Icy Missile (Su) As a swift action, the ice yai can fire a dart of ice from its third eye. This dart is a ranged touch attack (+20 attack bonus), dealing 4d6 points of cold damage on a hit. This attack has a range of 180 feet with no range increment.  Staggering Strikes (Ex) An ice yai can strike twice per round with its two slam attacks. A creature struck  by more than two of these slam attacks in a round must succeed at a DC 27 Fortitude save or be staggered for 1 round. The save DC is Strength-based.
+SpecialAbilities:
+  Icy Missile (Su): >
+    As a swift action, the ice yai can fire a dart of ice from its third eye. This dart is a ranged touch attack (+20 attack bonus), dealing 4d6 points of cold damage on a hit. This attack has a range of 180 feet with no range increment.
+  Staggering Strikes (Ex): >
+    An ice yai can strike twice per round with its two slam attacks. A creature struck  by more than two of these slam attacks in a round must succeed at a DC 27 Fortitude save or be staggered for 1 round. The save DC is Strength-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

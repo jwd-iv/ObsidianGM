@@ -56,7 +56,13 @@ Skills: Acrobatics +9 (+17 when jumping), Fly -6, Perception +19, Stealth +0 (+8
 RacialMods: +8 Acrobatics when jumping, +8 Perception, +8 Stealth in swamps
 Languages: Boggard; speak with animals
 SQ: amphibious, swamp stride
-SpecialAbilities: Swamp Stride (Ex) A mobogo can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects it normally.  Tongue (Ex) A mobogo's tongue is a primary attack with reach equal to three times the mobogo's normal reach (45 feet for a typical mobogo). A mobogo does not gain the  grappled condition when using its tongue to grapple a foe.  Vile Croak (Su) As a standard action once every 1d4 rounds, a mobogo can unleash a thunderous croak. Any non-boggard or non-mobogo within 50 feet of the mobogo must make a DC 19 Will save or become staggered for 1d4 rounds. Once a creature makes its saving throw against a particular mobogo's vile croak, it is immune to that mobogo's croak for 24 hours. Any boggards or mobogos within the area of a mobogo's vile croak gains a +2 morale bonus on attack rolls and saving throws against fear effects for 1 round. The save DC is Charisma-based.
+SpecialAbilities:
+  Swamp Stride (Ex): >
+    A mobogo can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects it normally.
+  Tongue (Ex): >
+    A mobogo's tongue is a primary attack with reach equal to three times the mobogo's normal reach (45 feet for a typical mobogo). A mobogo does not gain the  grappled condition when using its tongue to grapple a foe.
+  Vile Croak (Su): >
+    As a standard action once every 1d4 rounds, a mobogo can unleash a thunderous croak. Any non-boggard or non-mobogo within 50 feet of the mobogo must make a DC 19 Will save or become staggered for 1d4 rounds. Once a creature makes its saving throw against a particular mobogo's vile croak, it is immune to that mobogo's croak for 24 hours. Any boggards or mobogos within the area of a mobogo's vile croak gains a +2 morale bonus on attack rolls and saving throws against fear effects for 1 round. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

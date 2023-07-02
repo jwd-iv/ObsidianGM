@@ -56,7 +56,9 @@ Skills: Perception +21, Swim +19
 RacialMods: 
 Languages: 
 SQ: armored stomach, hold breath, shell
-SpecialAbilities: Armored Stomach (Ex) A giant snapping turtle's body is difficult to cut through-its stomach gains a +4 bonus to its AC and has double the normal hit points when determining the success of a creature attempting to cut its way free.
+SpecialAbilities:
+  Armored Stomach (Ex): >
+    A giant snapping turtle's body is difficult to cut through-its stomach gains a +4 bonus to its AC and has double the normal hit points when determining the success of a creature attempting to cut its way free.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

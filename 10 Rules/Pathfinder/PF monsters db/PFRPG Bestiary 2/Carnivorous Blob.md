@@ -56,7 +56,13 @@ Skills: Climb +21, Swim +21
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Absorb Flesh (Ex) A carnivorous blob cannot eat plant matter or inorganic matter, but it devours living flesh with a voracious speed by dealing Constitution drain on creatures it slams or constricts. Whenever the blob deals Constitution drain in this manner, it heals 10 hit points for each point of Constitution it drains. Excess hit points above its normal maximum are gained as temporary hit points. As soon as a carnivorous blob has at least 50 temporary hit points, it loses those temporary hit points and splits as an immediate action.  Reactive Strike (Ex) Whenever a carnivorous blob takes damage, it reflexively lashes out with a slam attack. This ability effectively grants the carnivorous blob an attack of opportunity against any adjacent foe that deals it damage. These attacks of opportunity do not count against the normal limit the creature can make in a round. Attacks that deal sonic or slashing damage do not trigger a reactive strike-rather, they cause the creature to split. Whenever a carnivorous blob takes cold damage, the creature cannot use its reactive strike ability until after it takes its next action in combat.  Vulnerable to Cold (Ex) A carnivorous blob takes half again as much damage (+50%) from cold attacks.
+SpecialAbilities:
+  Absorb Flesh (Ex): >
+    A carnivorous blob cannot eat plant matter or inorganic matter, but it devours living flesh with a voracious speed by dealing Constitution drain on creatures it slams or constricts. Whenever the blob deals Constitution drain in this manner, it heals 10 hit points for each point of Constitution it drains. Excess hit points above its normal maximum are gained as temporary hit points. As soon as a carnivorous blob has at least 50 temporary hit points, it loses those temporary hit points and splits as an immediate action.
+  Reactive Strike (Ex): >
+    Whenever a carnivorous blob takes damage, it reflexively lashes out with a slam attack. This ability effectively grants the carnivorous blob an attack of opportunity against any adjacent foe that deals it damage. These attacks of opportunity do not count against the normal limit the creature can make in a round. Attacks that deal sonic or slashing damage do not trigger a reactive strike-rather, they cause the creature to split. Whenever a carnivorous blob takes cold damage, the creature cannot use its reactive strike ability until after it takes its next action in combat.
+  Vulnerable to Cold (Ex): >
+    A carnivorous blob takes half again as much damage (+50%) from cold attacks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

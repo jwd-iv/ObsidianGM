@@ -56,7 +56,11 @@ Skills: Escape Artist +5, Perception +8, Stealth +10, Swim +9
 RacialMods: 
 Languages: 
 SQ: amphibious
-SpecialAbilities: Blood Rage (Ex) A bunyip's blood rage ability activates whenever it detects blood in the water using its keen scent, but otherwise functions as the universal monster rule of the same name.  Roar (Su) A bunyip's roar is supernaturally loud and horrifying.  When a bunyip roars (a standard action the creature can perform at will), all hearing creatures with 4 or fewer HD within a 100-foot spread must succeed on a DC 13 Will save or become panicked for 2d4 rounds. Whether or not the save is successful, creatures in the area are immune to the roar of that bunyip for 24 hours. This is a sonic, mindaffecting fear effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Blood Rage (Ex): >
+    A bunyip's blood rage ability activates whenever it detects blood in the water using its keen scent, but otherwise functions as the universal monster rule of the same name.
+  Roar (Su): >
+    A bunyip's roar is supernaturally loud and horrifying.  When a bunyip roars (a standard action the creature can perform at will), all hearing creatures with 4 or fewer HD within a 100-foot spread must succeed on a DC 13 Will save or become panicked for 2d4 rounds. Whether or not the save is successful, creatures in the area are immune to the roar of that bunyip for 24 hours. This is a sonic, mindaffecting fear effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

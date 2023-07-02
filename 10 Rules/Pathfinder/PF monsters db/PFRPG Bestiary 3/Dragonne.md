@@ -56,7 +56,9 @@ Skills: Fly +5, Perception +12
 RacialMods: +4 Perception
 Languages: Draconic
 SQ: 
-SpecialAbilities: Roar (Su) A dragonne can unleash a devastating roar every 1d4 rounds as a standard action. All creatures except dragonnes within 120 feet must succeed at a DC 17 Fortitude save or become fatigued. Those within 30 feet who fail their saves are also deafened for 2d4 rounds. This is a sonic effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Roar (Su): >
+    A dragonne can unleash a devastating roar every 1d4 rounds as a standard action. All creatures except dragonnes within 120 feet must succeed at a DC 17 Fortitude save or become fatigued. Those within 30 feet who fail their saves are also deafened for 2d4 rounds. This is a sonic effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

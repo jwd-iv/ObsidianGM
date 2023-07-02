@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: fleshy link
-SpecialAbilities: Crushing Push (Ex) A living wall adjacent to a creature that is also adjacent to a barrier (such as a dungeon wall, gate, or another living wall) can spend a standard action to crush that creature against the barrier, dealing 1d8+6 points of damage. If the living wall is grappling the target, as part of this attack it can attempt a free combat maneuver check to pin the target.  Fleshy Link (Ex) A living wall that is adjacent to another living wall automatically links with it, forming an impassible solid barrier. Linked living walls coordinate their attacks and move as one creature. Any linked wall can unlink itself as a free action. Any damage to one linked living wall is divided evenly among all linked living walls (for example, if three walls are linked and one takes 15 points of damage, each wall instead takes 5 points of damage). Two or three linked living walls count as a Huge creature for the purpose of effects affected or limited by size (such as bull rush), four or five count as Gargantuan, and six or more count as Colossal. A living wall is a construct built out of the bodies of many creatures and mortared together with liquefied f lesh.
+SpecialAbilities:
+  Crushing Push (Ex): >
+    A living wall adjacent to a creature that is also adjacent to a barrier (such as a dungeon wall, gate, or another living wall) can spend a standard action to crush that creature against the barrier, dealing 1d8+6 points of damage. If the living wall is grappling the target, as part of this attack it can attempt a free combat maneuver check to pin the target.
+  Fleshy Link (Ex): >
+    A living wall that is adjacent to another living wall automatically links with it, forming an impassible solid barrier. Linked living walls coordinate their attacks and move as one creature. Any linked wall can unlink itself as a free action. Any damage to one linked living wall is divided evenly among all linked living walls (for example, if three walls are linked and one takes 15 points of damage, each wall instead takes 5 points of damage). Two or three linked living walls count as a Huge creature for the purpose of effects affected or limited by size (such as bull rush), four or five count as Gargantuan, and six or more count as Colossal. A living wall is a construct built out of the bodies of many creatures and mortared together with liquefied f lesh.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

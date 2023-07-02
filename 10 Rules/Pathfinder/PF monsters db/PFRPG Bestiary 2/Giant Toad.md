@@ -56,7 +56,9 @@ Skills: Acrobatics +5 (+9 jump), Perception +8, Stealth +5, Swim +12
 RacialMods: +4 Acrobatics (+8 jump), +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Poison Skin (Ex) A creature that strikes a giant toad with an unarmed strike or natural weapon exposes itself to the toad's poisonous skin.  Skin-contact; save Fort DC 14; frequency 1/ round for 4 rounds; effect 1d2 Wisdom damage; cure 1 save.
+SpecialAbilities:
+  Poison Skin (Ex): >
+    A creature that strikes a giant toad with an unarmed strike or natural weapon exposes itself to the toad's poisonous skin.  Skin-contact; save Fort DC 14; frequency 1/ round for 4 rounds; effect 1d2 Wisdom damage; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

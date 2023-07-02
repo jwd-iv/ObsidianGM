@@ -56,7 +56,11 @@ Skills: Acrobatics +22, Craft (any one) +22, Diplomacy +24, Fly +26, Intimidate 
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: change shape (alter self )
-SpecialAbilities: Stun (Su) If an astral deva strikes an opponent twice in one round with its warhammer, that creature must succeed on a DC 25 Fortitude save or be stunned for 1d6 rounds. The save DC is Strength-based. Uncanny Dodge (Ex) This ability functions identically to the rogue ability. If a deva gains uncanny dodge from a class level, he instead gains improved uncanny dodge.
+SpecialAbilities:
+  Stun (Su): >
+    If an astral deva strikes an opponent twice in one round with its warhammer, that creature must succeed on a DC 25 Fortitude save or be stunned for 1d6 rounds. The save DC is Strength-based.
+  Uncanny Dodge (Ex): >
+    This ability functions identically to the rogue ability. If a deva gains uncanny dodge from a class level, he instead gains improved uncanny dodge.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,17 @@ Skills: Fly +17, Intimidate +29, Knowledge (arcana) +29, Knowledge (history) +29
 RacialMods: +8 Swim
 Languages: Common, Draconic, Giant, Orc
 SQ: icewalking, ice shape
-SpecialAbilities: Blizzard (Su) An ancient white dragon can use its breath weapon to create a blizzard in the area around it as a standard action. This creates heavy snow conditions in a 50-foot radius for 1 minute, centered on the dragon. This snow slows movement (4 squares of movement per square entered) and limits vision as fog does.  Freezing Fog (Sp) An old white dragon can use this ability three times per day. It is similar to an acid fog spell but deals cold damage instead of acid damage. It also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a grease spell. The dragon is immune to the grease effect because of its icewalking ability. This ability is the equivalent of a 6th-level spell.  Ice Shape (Su) A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon's caster level for this effect is equal to its Hit Dice.  Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.  Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
+SpecialAbilities:
+  Blizzard (Su): >
+    An ancient white dragon can use its breath weapon to create a blizzard in the area around it as a standard action. This creates heavy snow conditions in a 50-foot radius for 1 minute, centered on the dragon. This snow slows movement (4 squares of movement per square entered) and limits vision as fog does.
+  Freezing Fog (Sp): >
+    An old white dragon can use this ability three times per day. It is similar to an acid fog spell but deals cold damage instead of acid damage. It also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a grease spell. The dragon is immune to the grease effect because of its icewalking ability. This ability is the equivalent of a 6th-level spell.
+  Ice Shape (Su): >
+    A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon's caster level for this effect is equal to its Hit Dice.
+  Icewalking (Ex): >
+    This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+  Snow Vision (Ex): >
+    A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
 SpellsKnown: Spells Known (CL 11th; concentration +14, touch +33)  5th (4/day)-feeblemind, wall of force  4th (6/day)-charm monster (DC 17), dimension door, stoneskin  3rd (7/day)-dispel magic, displacement, lightning bolt (DC 16), slow  2nd (7/day)-blur, fog cloud, invisibility, resist energy, see invisibility  1st (7/day)-alarm, grease (DC 14), magic aura, shield, true strike  0 (at will)-acid splash, dancing lights, detect magic, ghost sound, mage hand, mending, message, ray of frost, resistance
 SpellsPrepared: 
 SpellDomains: 

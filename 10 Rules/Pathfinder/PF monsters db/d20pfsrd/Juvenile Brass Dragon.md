@@ -56,7 +56,13 @@ Skills: Bluff +15, Diplomacy +15, Fly +15, Heal +15, Linguistics +15, Perception
 RacialMods: 
 Languages: Common, Draconic, and 11 others
 SQ: Move Sand
-SpecialAbilities: Desert Wind (Su) A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save (DC 19) or be blinded for 1d4 rounds by the sand.  Move Sand (Su) A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.  Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+4 rounds.
+SpecialAbilities:
+  Desert Wind (Su): >
+    A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save (DC 19) or be blinded for 1d4 rounds by the sand.
+  Move Sand (Su): >
+    A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.
+  Sleep Breath (Su): >
+    Instead of a line of fire, a brass dragon can breathe a cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+4 rounds.
 SpellsKnown: Sorcerer Spells Known (CL 3rd, concentration +5)  1st (6/day)-charm person (DC 14), comprehend languages, shield  0 (at will)-arcane mark, dancing lights, detect magic, mage hand, message
 SpellsPrepared: 
 SpellDomains: 

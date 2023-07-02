@@ -56,7 +56,9 @@ Skills: Perception +25, Swim +13
 RacialMods: 
 Languages: Aklo
 SQ: 
-SpecialAbilities: Poison Breath (Ex) A catoblepas's horrid, stinking breath is 60-foot cone of poison gas. Breath-contact; save Fort DC 23; frequency 1/ round for 6 rounds; effect 1d6 Con damage; cure 3 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison Breath (Ex): >
+    A catoblepas's horrid, stinking breath is 60-foot cone of poison gas. Breath-contact; save Fort DC 23; frequency 1/ round for 6 rounds; effect 1d6 Con damage; cure 3 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

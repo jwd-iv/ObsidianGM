@@ -56,8 +56,9 @@ Skills: Climb +11, Perception +4, Stealth +11, Swim +11
 RacialMods: uses Dex to modify Climb and Swim
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Disease (Ex) Filth fever: Bite-injury; save Fort DC 11; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Disease (Ex): >
+    Filth fever: Bite-injury; save Fort DC 11; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

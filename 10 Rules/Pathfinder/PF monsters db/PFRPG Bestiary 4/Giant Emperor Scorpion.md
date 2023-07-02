@@ -56,7 +56,11 @@ Skills: Climb +15, Perception +5, Stealth -3 (+1 in deserts)
 RacialMods: +4 Climb, +4 Perception, +8 Stealth (+12 in deserts)
 Languages: 
 SQ: 
-SpecialAbilities: Ambush Pit (Ex) A giant emperor scorpion can spend 1 minute digging itself into the soil or other ground debris. It then waits for its tremorsense to detect prey. When a creature comes within range, it can erupt from the ground as a free action as part of a charge, allowing it to use its pounce ability. When dug in, the scorpion has improved cover granting it a +10 bonus on Stealth checks.  Poison (Ex) Sting-injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d4 Str and 1d4 Dex; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Ambush Pit (Ex): >
+    A giant emperor scorpion can spend 1 minute digging itself into the soil or other ground debris. It then waits for its tremorsense to detect prey. When a creature comes within range, it can erupt from the ground as a free action as part of a charge, allowing it to use its pounce ability. When dug in, the scorpion has improved cover granting it a +10 bonus on Stealth checks.
+  Poison (Ex): >
+    Sting-injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d4 Str and 1d4 Dex; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Fly +14, Perception +4, Stealth +14
 RacialMods: 
 Languages: Aklo
 SQ: flight
-SpecialAbilities: Baleful Whinny (Su) As a standard action, a sagari can emit a monstrous whinny. Any creature within 60 feet must succeed at a DC 12 Will save or become sickened for 1d4 rounds by the hideous sound. This is a sonic, mind-affecting effect. Whether or not the save is successful, the affected creature is immune to the same sagari's baleful whinny for 24 hours. The save DC is Charisma-based.  Flight (Su) A sagari's flight is supernatural in nature.  Lashing Strike (Ex) Although a sagari is Tiny, it does not provoke attacks of opportunity when it makes melee attacks. In addition, its tentacle attack is a primary attack.
+SpecialAbilities:
+  Baleful Whinny (Su): >
+    As a standard action, a sagari can emit a monstrous whinny. Any creature within 60 feet must succeed at a DC 12 Will save or become sickened for 1d4 rounds by the hideous sound. This is a sonic, mind-affecting effect. Whether or not the save is successful, the affected creature is immune to the same sagari's baleful whinny for 24 hours. The save DC is Charisma-based.
+  Flight (Su): >
+    A sagari's flight is supernatural in nature.
+  Lashing Strike (Ex): >
+    Although a sagari is Tiny, it does not provoke attacks of opportunity when it makes melee attacks. In addition, its tentacle attack is a primary attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

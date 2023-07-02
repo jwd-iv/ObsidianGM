@@ -56,7 +56,15 @@ Skills: Climb +17, Perception +5
 RacialMods: +8 Climb
 Languages: Aklo
 SQ: 
-SpecialAbilities: Burrow (Ex) A dossenus can burrow through stone (or weaker materials such as wood) as easily as dirt.  Devastating Maw (Ex) A dossenus' bite attack counts as adamantine for the purposes of overcoming DR and bypassing hardness.  Hydrophobia (Ex) A dossenus cannot swim and always fails Swim checks. If a dossenus becomes completely submerged in water, it must succeed at a DC 15 Will save on its turn each round or be paralyzed with fear until it is no longer submerged.  Swarming (Ex) Dossenuses are brutally efficient at swarming foes and often skitter atop one another in their haste to overwhelm and devour prey. Up to two dossenuses can share the same square at the same time. If two dossenuses sharing the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
+SpecialAbilities:
+  Burrow (Ex): >
+    A dossenus can burrow through stone (or weaker materials such as wood) as easily as dirt.
+  Devastating Maw (Ex): >
+    A dossenus' bite attack counts as adamantine for the purposes of overcoming DR and bypassing hardness.
+  Hydrophobia (Ex): >
+    A dossenus cannot swim and always fails Swim checks. If a dossenus becomes completely submerged in water, it must succeed at a DC 15 Will save on its turn each round or be paralyzed with fear until it is no longer submerged.
+  Swarming (Ex): >
+    Dossenuses are brutally efficient at swarming foes and often skitter atop one another in their haste to overwhelm and devour prey. Up to two dossenuses can share the same square at the same time. If two dossenuses sharing the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

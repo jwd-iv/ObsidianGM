@@ -287,8 +287,10 @@ class Statblock
 
 		if (data.SpecialAbilities)
 		{
-			dv.header(5, "special abilities")
-			text += `${data.SpecialAbilities}`
+			Object.keys(data.SpecialAbilities)
+				.map(key => dv.paragraph(
+					`*${key}* - ` + data.SpecialAbilities[key]
+				))
 		}
 
 		print()

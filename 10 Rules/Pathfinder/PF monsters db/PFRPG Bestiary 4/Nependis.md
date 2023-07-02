@@ -56,7 +56,11 @@ Skills: Acrobatics +3 (+11 when jumping), Climb +18, Perception +15, Stealth +17
 RacialMods: +8 Acrobatics when jumping
 Languages: Giant
 SQ: 
-SpecialAbilities: Abduct (Ex) When a nependis successfully grabs a Medium or smaller opponent, on that turn it can spend a swift action to move up to its speed. This movement provokes attacks of opportunity as normal. A nependis that succeeds at a second grapple check against the opponent can move up to its full speed as a swift action instead of up to half its speed.  Roar (Su) A nependis can let out a savage roar. Nependises within 60 feet gain a +2 morale bonus on attack rolls, saving throws, and weapon damage rolls for 1d4 rounds. All other creatures other within range of the roar become shaken for 1d4 rounds (Will DC 14 negates); this is a mind-affecting sonic fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Abduct (Ex): >
+    When a nependis successfully grabs a Medium or smaller opponent, on that turn it can spend a swift action to move up to its speed. This movement provokes attacks of opportunity as normal. A nependis that succeeds at a second grapple check against the opponent can move up to its full speed as a swift action instead of up to half its speed.
+  Roar (Su): >
+    A nependis can let out a savage roar. Nependises within 60 feet gain a +2 morale bonus on attack rolls, saving throws, and weapon damage rolls for 1d4 rounds. All other creatures other within range of the roar become shaken for 1d4 rounds (Will DC 14 negates); this is a mind-affecting sonic fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

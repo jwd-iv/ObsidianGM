@@ -56,7 +56,13 @@ Skills: Fly +16, Perception +9, Stealth +9, Survival +9
 RacialMods: 
 Languages: Abyssal or Infernal (cannot speak)
 SQ: 
-SpecialAbilities: Bay (Su) When a yeth hound howls or barks, all creatures except other evil outsiders within a 300-foot spread must succeed on a DC 12 Will save or become panicked for 2d4 rounds. This is a sonic mindaffecting fear effect. Whether or not the save is successful, an affected creature is immune to the same hound's bay for 24 hours. The save DC is Charisma-based.  Flight (Su) A yeth hound can cease or resume its flight as a free action.  Sinister Bite (Su) A yeth hound's bite is treated as evil-aligned for the purpose of overcoming damage reduction. In addition, a good-aligned creature bitten by a yeth hound must make a DC 14 Will save or be shaken for 1 round. If the victim is already suffering from a fear effect (such as the hound's bay attack), the victim is instead completely overcome with fear and can do nothing but cower for 1 round. This is a mind-affecting fear effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Bay (Su): >
+    When a yeth hound howls or barks, all creatures except other evil outsiders within a 300-foot spread must succeed on a DC 12 Will save or become panicked for 2d4 rounds. This is a sonic mindaffecting fear effect. Whether or not the save is successful, an affected creature is immune to the same hound's bay for 24 hours. The save DC is Charisma-based.
+  Flight (Su): >
+    A yeth hound can cease or resume its flight as a free action.
+  Sinister Bite (Su): >
+    A yeth hound's bite is treated as evil-aligned for the purpose of overcoming damage reduction. In addition, a good-aligned creature bitten by a yeth hound must make a DC 14 Will save or be shaken for 1 round. If the victim is already suffering from a fear effect (such as the hound's bay attack), the victim is instead completely overcome with fear and can do nothing but cower for 1 round. This is a mind-affecting fear effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

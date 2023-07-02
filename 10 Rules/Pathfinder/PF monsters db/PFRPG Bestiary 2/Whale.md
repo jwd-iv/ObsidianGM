@@ -56,7 +56,9 @@ Skills: Perception +23, Swim +30
 RacialMods: +4 Perception
 Languages: 
 SQ: hold breath
-SpecialAbilities: Capsize (Ex) A whale can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check.  The DC of this check is 25, or the result of the captain's Profession (sail0r) check, whichever is higher. For each size category the ship is larger than the whale's size, the whale takes a cumulative -10 penalty on this CMB check.
+SpecialAbilities:
+  Capsize (Ex): >
+    A whale can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check.  The DC of this check is 25, or the result of the captain's Profession (sail0r) check, whichever is higher. For each size category the ship is larger than the whale's size, the whale takes a cumulative -10 penalty on this CMB check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

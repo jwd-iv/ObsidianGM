@@ -56,7 +56,13 @@ Skills: Bluff +10, Heal +10, Knowledge (arcana) +11, Knowledge (religion) +11, P
 RacialMods: 
 Languages: Common, Draconic, Infernal
 SQ: change shape (porcupine, beast shape II)
-SpecialAbilities: Spawn Undead (Su) Any creature slain by a pukwudgie's poisonous quills rises in 24 hours as a zombie. Undead created by this ability are not immediately under the control of a pukwudgie, but they receive a -4 penalty on saves against a pukwudgie's control undead spell-like ability.  Poison (Su) Claw or quill-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.  Quills (Ex) A pukwudgie can fire two of its quills as a ranged attack as a standard action. These quills have a range increment of 40 feet. Any creature attacking a pukwudgie with light or one-handed melee weapons, natural weapons, or an unarmed strike takes 1d3 points of piercing damage. A creature that grapples a pukwudgie takes 2d4 points of piercing damage. Anyone who takes damage from these quills is also exposed to the pukwudgie's poison.
+SpecialAbilities:
+  Spawn Undead (Su): >
+    Any creature slain by a pukwudgie's poisonous quills rises in 24 hours as a zombie. Undead created by this ability are not immediately under the control of a pukwudgie, but they receive a -4 penalty on saves against a pukwudgie's control undead spell-like ability.
+  Poison (Su): >
+    Claw or quill-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+  Quills (Ex): >
+    A pukwudgie can fire two of its quills as a ranged attack as a standard action. These quills have a range increment of 40 feet. Any creature attacking a pukwudgie with light or one-handed melee weapons, natural weapons, or an unarmed strike takes 1d3 points of piercing damage. A creature that grapples a pukwudgie takes 2d4 points of piercing damage. Anyone who takes damage from these quills is also exposed to the pukwudgie's poison.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

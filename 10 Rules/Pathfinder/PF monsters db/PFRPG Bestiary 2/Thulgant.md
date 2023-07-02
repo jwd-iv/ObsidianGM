@@ -56,7 +56,15 @@ Skills: Acrobatics +35 (+39 jump), Bluff +30, Climb +36, Fly +33, Intimidate +27
 RacialMods: 
 Languages: Abyssal; telepathy 100 ft.
 SQ: demon hunter
-SpecialAbilities: Ability Drain (Su) A thulgant's stingers each drain a different ability score on a hit. One stinger drains 1d4 points of Strength, another drains 1d4 points of Dexterity, and the third drains 1d4 points of Charisma. Any sting's drain is negated by a DC 29 Fortitude save. The save DC is Constitution-based.  Demon Hunter (Ex) A thulgant gains a +10 racial bonus on caster level checks to penetrate the spell resistance of any demon. Its attacks are treated as cold iron and good against demons.  Horrific Appearance (Su) Creatures that succumb to a thulgant's horrific appearance are stunned for 1d4 rounds and take 1d6 points of Wisdom damage.  Savage Stingers (Ex) If a thulgant hits a single target with all three stings in the same round, it tears through the victim's body, dealing an extra 3d6+12 points of damage and draining an additional 2 ability points from all six of the victim's ability scores. A single DC 29 Fortitude save negates all of this additional ability drain. The save DC is Constitution-based.
+SpecialAbilities:
+  Ability Drain (Su): >
+    A thulgant's stingers each drain a different ability score on a hit. One stinger drains 1d4 points of Strength, another drains 1d4 points of Dexterity, and the third drains 1d4 points of Charisma. Any sting's drain is negated by a DC 29 Fortitude save. The save DC is Constitution-based.
+  Demon Hunter (Ex): >
+    A thulgant gains a +10 racial bonus on caster level checks to penetrate the spell resistance of any demon. Its attacks are treated as cold iron and good against demons.
+  Horrific Appearance (Su): >
+    Creatures that succumb to a thulgant's horrific appearance are stunned for 1d4 rounds and take 1d6 points of Wisdom damage.
+  Savage Stingers (Ex): >
+    If a thulgant hits a single target with all three stings in the same round, it tears through the victim's body, dealing an extra 3d6+12 points of damage and draining an additional 2 ability points from all six of the victim's ability scores. A single DC 29 Fortitude save negates all of this additional ability drain. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

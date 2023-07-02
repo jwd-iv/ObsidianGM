@@ -56,7 +56,11 @@ Skills: Climb +7, Handle Animal +0, Perception +5, Ride +2, Sleight of Hand +9, 
 RacialMods: +4 Sleight of Hand, +4 Stealth
 Languages: Undercommon
 SQ: vermin empathy +4
-SpecialAbilities: Hatred (Ex) Mites receive a +1 bonus on attack rolls against humanoid creatures of the dwarf or gnome subtype due to special training against these hated foes.  Vermin Empathy (Ex) This ability functions as a druid's wild empathy, save that a mite can only use this ability on vermin. A mite gains a +4 racial bonus on this check.  Vermin are normally mindless, but this empathic communication imparts on them a modicum of implanted intelligence, allowing mites to train Medium vermin and use them as mounts. Vermin empathy treats swarms as if they were one creature possessing a single mind-a mite can thus use this ability to influence and direct the actions of swarms with relative ease.
+SpecialAbilities:
+  Hatred (Ex): >
+    Mites receive a +1 bonus on attack rolls against humanoid creatures of the dwarf or gnome subtype due to special training against these hated foes.
+  Vermin Empathy (Ex): >
+    This ability functions as a druid's wild empathy, save that a mite can only use this ability on vermin. A mite gains a +4 racial bonus on this check.  Vermin are normally mindless, but this empathic communication imparts on them a modicum of implanted intelligence, allowing mites to train Medium vermin and use them as mounts. Vermin empathy treats swarms as if they were one creature possessing a single mind-a mite can thus use this ability to influence and direct the actions of swarms with relative ease.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

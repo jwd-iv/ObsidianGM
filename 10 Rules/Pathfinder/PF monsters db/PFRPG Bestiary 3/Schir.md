@@ -56,8 +56,9 @@ Skills: Acrobatics +10 (+18 jumping), Climb +11, Intimidate +6, Perception +13, 
 RacialMods: +8 Acrobatics when jumping, +8 Perception
 Languages: Abyssal; telepathy 100 ft., tongues
 SQ: 
-SpecialAbilities: >
-  Disease (Ex) A schir gnaws constantly at the ends of its halberd. This infuses the blades with disease from the demon's filthy spittle. Any creature struck by a schir's halberd must succeed at a DC 14 Fortitude save or contract gray pox-a frightening disease that causes weakness, gray splotches on the skin, and eventual catatonia. The save DC is Constitution-based.  Gray Pox: Halberd-injury; save Fort DC 15; onset 1 day; frequency 1/day; effect 1d6 Str damage; cure 2 consecutive saves.
+SpecialAbilities:
+  Disease (Ex): >
+    A schir gnaws constantly at the ends of its halberd. This infuses the blades with disease from the demon's filthy spittle. Any creature struck by a schir's halberd must succeed at a DC 14 Fortitude save or contract gray pox-a frightening disease that causes weakness, gray splotches on the skin, and eventual catatonia. The save DC is Constitution-based.  Gray Pox: Halberd-injury; save Fort DC 15; onset 1 day; frequency 1/day; effect 1d6 Str damage; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Perception +9, Stealth +0, Swim +30
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Damage Reduction (Ex) A lukwata's damage reduction is penetrated only by nonmagical weapons (temporary magical weapons, such as those created by the spell magic weapon and similar effects, count as magical weapons).  Digest Magic (Su) A magic item swallowed by a lukwata must make a DC 22 Fortitude save after an hour or become permanently nonmagical. Artifacts are immune to this effect. The save DC is Constitution-based.  Dispelling Bite (Su) When a lukwata scores a critical hit with its bite, the victim is affected as if targeted by a greater dispel magic spell. The caster level for this effect is equal to the lukwata's Hit Dice (CL 14th for most lukwatas).  Eldritch Encrustation (Su) Crystalline growths along the lukwata's digestive tract contain large deposits of magical energy. These nodes are responsible for the magical feedback that surrounds each lukwata, granting it its spell resistance, damage reduction, dispelling bite, and digest magic abilities. Dispel magic cast on a lukwata can negate these powers for 1 minute-the CL of the effect is treated as the lukwata's Hit Dice (CL 11th for most lukwatas).
+SpecialAbilities:
+  Damage Reduction (Ex): >
+    A lukwata's damage reduction is penetrated only by nonmagical weapons (temporary magical weapons, such as those created by the spell magic weapon and similar effects, count as magical weapons).
+  Digest Magic (Su): >
+    A magic item swallowed by a lukwata must make a DC 22 Fortitude save after an hour or become permanently nonmagical. Artifacts are immune to this effect. The save DC is Constitution-based.
+  Dispelling Bite (Su): >
+    When a lukwata scores a critical hit with its bite, the victim is affected as if targeted by a greater dispel magic spell. The caster level for this effect is equal to the lukwata's Hit Dice (CL 14th for most lukwatas).
+  Eldritch Encrustation (Su): >
+    Crystalline growths along the lukwata's digestive tract contain large deposits of magical energy. These nodes are responsible for the magical feedback that surrounds each lukwata, granting it its spell resistance, damage reduction, dispelling bite, and digest magic abilities. Dispel magic cast on a lukwata can negate these powers for 1 minute-the CL of the effect is treated as the lukwata's Hit Dice (CL 11th for most lukwatas).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

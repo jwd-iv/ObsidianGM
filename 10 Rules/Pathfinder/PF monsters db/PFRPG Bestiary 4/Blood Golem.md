@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: clotted skin, compression
-SpecialAbilities: Blood Drain (Su) A blood golem heals 5 hit points each round it drains blood.  Clotted Skin (Ex) A blood golem can congeal its surface into a hard skin as a full-round action, allowing it to assume a vaguely humanoid form. With its skin, it gains DR 5/bludgeoning, natural armor +6, and speed 30, but loses its amorphous and compression abilities. It can liquefy this skin as a full-round action, losing its DR and natural armor, changing its speed to 10 feet, and regaining the amorphous and compression abilities. The golem normally maintains its congealed skin, liquefying itself only when it has to pass through obstacles that would hinder its solid form.  Immunity to Magic (Ex) A blood golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature. • Cure spells affect it as if it were a living creature, but only cure the minimum amount of damage. • Spells and effects that specifically affect blood (such as boiling bloodAPG) affect it normally.  Vulnerable to Bleed (Ex) Bleed effects, blood drain, and attacks that target a creature's blood affect a blood golem normally. The golem can spend a full-round action to harden its clotted outer shell to end a bleed effect.
+SpecialAbilities:
+  Blood Drain (Su): >
+    A blood golem heals 5 hit points each round it drains blood.
+  Clotted Skin (Ex): >
+    A blood golem can congeal its surface into a hard skin as a full-round action, allowing it to assume a vaguely humanoid form. With its skin, it gains DR 5/bludgeoning, natural armor +6, and speed 30, but loses its amorphous and compression abilities. It can liquefy this skin as a full-round action, losing its DR and natural armor, changing its speed to 10 feet, and regaining the amorphous and compression abilities. The golem normally maintains its congealed skin, liquefying itself only when it has to pass through obstacles that would hinder its solid form.
+  Immunity to Magic (Ex): >
+    A blood golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature. • Cure spells affect it as if it were a living creature, but only cure the minimum amount of damage. • Spells and effects that specifically affect blood (such as boiling bloodAPG) affect it normally.
+  Vulnerable to Bleed (Ex): >
+    Bleed effects, blood drain, and attacks that target a creature's blood affect a blood golem normally. The golem can spend a full-round action to harden its clotted outer shell to end a bleed effect.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

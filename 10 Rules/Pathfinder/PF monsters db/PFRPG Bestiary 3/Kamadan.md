@@ -56,7 +56,11 @@ Skills: Acrobatics +6 (+10 when jumping), Perception +8, Stealth +6
 RacialMods: +4 Stealth
 Languages: Aklo
 SQ: 
-SpecialAbilities: Breath Weapon (Su) A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (Fortitude DC 15 negates). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The save DC is Constitution-based.  Snakes (Ex) A kamadan's snakes attack simultaneously; this is always a secondary attack.  Kamadans are wicked hunters that enjoy stalking and toying with prey, especially when their quarry is relatively intelligent. When a kamadan attacks, it first uses its soporific breath, then pounces on any targets that remain awake. Kamadans stand about 3 feet at the shoulder, about 9 feet long and weighing up to 500 pounds.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (Fortitude DC 15 negates). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The save DC is Constitution-based.
+  Snakes (Ex): >
+    A kamadan's snakes attack simultaneously; this is always a secondary attack.  Kamadans are wicked hunters that enjoy stalking and toying with prey, especially when their quarry is relatively intelligent. When a kamadan attacks, it first uses its soporific breath, then pounces on any targets that remain awake. Kamadans stand about 3 feet at the shoulder, about 9 feet long and weighing up to 500 pounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Bluff +15, Fly +12, Intimidate +18, Perception +17, Sense Motive +17, Sp
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Chilling Touch (Su) A yuki-onna's touch causes 4d6 cold damage. Whenever a creature takes cold damage in this manner, it must make a DC 20 Fortitude save to avoid being staggered by the supernatural cold for 1 round. This duration stacks. The save DC is Charisma-based.  Fascinating Gaze (Su) Fascinated for 1d4 rounds, 30 feet, Will DC 20 negates. The save DC is Charisma-based.  Snow Dependency (Ex) A yuki-onna is staggered if she is ever in an area without snow while her snowstorm aura is suppressed or otherwise not functioning.  Snowstorm (Su) A yuki-onna is surrounded by whirling blasts of snow, even in areas that wouldn't allow for such weather, that comprise a 200-foot-radius spread. Within this area, the snowfall and wind gusts cause a -4 penalty on Perception checks and ranged attacks. The wind itself blows in a clockwise rotation around the yuki-onna, and functions as severe wind (Core Rulebook 439). A yuki-onna is unaffected by snowstorms or blizzards of any kind. Any effect that causes these winds to drop below severe (such as control weather or control winds) cancels the snowstorm effect entirely.
+SpecialAbilities:
+  Chilling Touch (Su): >
+    A yuki-onna's touch causes 4d6 cold damage. Whenever a creature takes cold damage in this manner, it must make a DC 20 Fortitude save to avoid being staggered by the supernatural cold for 1 round. This duration stacks. The save DC is Charisma-based.
+  Fascinating Gaze (Su): >
+    Fascinated for 1d4 rounds, 30 feet, Will DC 20 negates. The save DC is Charisma-based.
+  Snow Dependency (Ex): >
+    A yuki-onna is staggered if she is ever in an area without snow while her snowstorm aura is suppressed or otherwise not functioning.
+  Snowstorm (Su): >
+    A yuki-onna is surrounded by whirling blasts of snow, even in areas that wouldn't allow for such weather, that comprise a 200-foot-radius spread. Within this area, the snowfall and wind gusts cause a -4 penalty on Perception checks and ranged attacks. The wind itself blows in a clockwise rotation around the yuki-onna, and functions as severe wind (Core Rulebook 439). A yuki-onna is unaffected by snowstorms or blizzards of any kind. Any effect that causes these winds to drop below severe (such as control weather or control winds) cancels the snowstorm effect entirely.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

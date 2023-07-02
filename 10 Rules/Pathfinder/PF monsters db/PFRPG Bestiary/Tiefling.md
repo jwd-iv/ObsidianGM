@@ -56,7 +56,9 @@ Skills: Acrobatics +6, Bluff +4, Disable Device +6, Escape Artist +6, Intimidate
 RacialMods: +2 Bluff, +2 Stealth
 Languages: Abyssal, Common, Infernal
 SQ: fiendish sorcery, trapfinding
-SpecialAbilities: Fiendish Sorcery (Ex) Tiefling sorcerers with the Abyssal or Infernal bloodline treat their Charisma score as 2 points higher for all sorcerer class abilities.
+SpecialAbilities:
+  Fiendish Sorcery (Ex): >
+    Tiefling sorcerers with the Abyssal or Infernal bloodline treat their Charisma score as 2 points higher for all sorcerer class abilities.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

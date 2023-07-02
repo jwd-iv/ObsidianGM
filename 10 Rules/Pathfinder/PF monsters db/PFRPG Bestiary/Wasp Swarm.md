@@ -56,7 +56,9 @@ Skills: Fly +11, Perception +9
 RacialMods: +8 Perception
 Languages: 
 SQ: swarm traits, vermin traits
-SpecialAbilities: Poison (Ex) Swarm-injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1 Dexterity damage; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Swarm-injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1 Dexterity damage; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

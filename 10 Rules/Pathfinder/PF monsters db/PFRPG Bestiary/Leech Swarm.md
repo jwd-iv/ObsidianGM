@@ -56,7 +56,11 @@ Skills: Stealth +16 (+24 in swamps), Swim +12
 RacialMods: +8 Stealth in swamps, uses Dexterity to modify Swim checks
 Languages: 
 SQ: 
-SpecialAbilities: Blood Drain (Ex) Any living creature that begins its turn with a leech swarm in its space is drained of its blood and takes 1d3 points of Str and Con damage.  Poison (Ex) Swarm-injury; save Fort DC 15; frequency 1/round for 2 rounds; effect 1d4 Dexterity drain; cure 1 save.
+SpecialAbilities:
+  Blood Drain (Ex): >
+    Any living creature that begins its turn with a leech swarm in its space is drained of its blood and takes 1d3 points of Str and Con damage.
+  Poison (Ex): >
+    Swarm-injury; save Fort DC 15; frequency 1/round for 2 rounds; effect 1d4 Dexterity drain; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

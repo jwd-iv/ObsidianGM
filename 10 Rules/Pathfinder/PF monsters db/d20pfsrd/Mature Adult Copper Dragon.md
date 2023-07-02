@@ -56,7 +56,13 @@ Skills: Bluff +24, Craft (traps) +31, Diplomacy +24, Fly +15, Knowledge (history
 RacialMods: 
 Languages: Common, Draconic, Elven, Gnome, Halfling
 SQ: trap master
-SpecialAbilities: Climb Stone (Ex) A copper dragon can climb on stone surfaces as though using the spider climb spell.  Slow Breath (Su) Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.  Trap Master (Ex) A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
+SpecialAbilities:
+  Climb Stone (Ex): >
+    A copper dragon can climb on stone surfaces as though using the spider climb spell.
+  Slow Breath (Su): >
+    Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
+  Trap Master (Ex): >
+    A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
 SpellsKnown: Sorcerer Spells Known (CL 9th; concentration +13)  4th (5/day)-confusion, rainbow pattern  3rd (7/day)-dispel magic, haste, major image (DC 17)  2nd (7/day)-glitterdust (DC 16), invisibility, phantom trap, see invisibility  1st (7/day)-alarm, identify, magic missile, shield, silent image (DC 15)  0 (at will)-detect magic, ghost sound (DC 14), light, mage hand, message, open/close, prestidigitation, read magic
 SpellsPrepared: 
 SpellDomains: 

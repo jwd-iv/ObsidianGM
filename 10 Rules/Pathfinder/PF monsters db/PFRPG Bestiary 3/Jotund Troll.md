@@ -56,7 +56,11 @@ Skills: Climb +29, Perception +26
 RacialMods: +4 Perception
 Languages: Giant
 SQ: 
-SpecialAbilities: All-Seeing Attacks (Ex) A jotund troll can make nine additional attacks of opportunity in a round, one for each head, although no more than a single attack for any given opportunity.  Cacophonous Roar (Su) Once every 1d4 rounds as a standard action, a jotund troll can emit a cacophonous roar from its nine heads. All creatures within a 60-foot spread of the troll must make a DC 20 Will save or become confused for 1d4 rounds. This is a mind-affecting effect. The save DC is Charisma-based and includes a +4 racial bonus.  Multiple Minds (Ex) A jotund troll has nine different minds that are in constant communication with each other. The resulting jumble of  tangled thoughts grants the troll a +4 racial bonus on all Will saving throws against mind-affecting effects. In addition, whenever a jotund troll must make a Will save, it can roll the saving throw twice and take the better of the two results.
+SpecialAbilities: All-Seeing Attacks (Ex) A jotund troll can make nine additional attacks of opportunity in a round, one for each head, although no more than a single attack for any given opportunity.
+  Cacophonous Roar (Su): >
+    Once every 1d4 rounds as a standard action, a jotund troll can emit a cacophonous roar from its nine heads. All creatures within a 60-foot spread of the troll must make a DC 20 Will save or become confused for 1d4 rounds. This is a mind-affecting effect. The save DC is Charisma-based and includes a +4 racial bonus.
+  Multiple Minds (Ex): >
+    A jotund troll has nine different minds that are in constant communication with each other. The resulting jumble of  tangled thoughts grants the troll a +4 racial bonus on all Will saving throws against mind-affecting effects. In addition, whenever a jotund troll must make a Will save, it can roll the saving throw twice and take the better of the two results.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

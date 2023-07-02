@@ -56,7 +56,11 @@ Skills: Bluff +16, Escape Artist +9, Fly +15, Handle Animal +14, Knowledge (natu
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Blood Drain (Su) As a standard action, a bhuta can suck blood from an adjacent opponent that is taking bleed damage. The target takes 1d6 points of Constitution damage (Fort DC 23 half). The bhuta heals 5 hit points when it drains blood.  Cold Iron Weakness (Su) A cold iron weapon is considered to be magical when used against a bhuta. A magic cold iron weapon always functions as a ghost touch weapon when used against a bhuta.
+SpecialAbilities:
+  Blood Drain (Su): >
+    As a standard action, a bhuta can suck blood from an adjacent opponent that is taking bleed damage. The target takes 1d6 points of Constitution damage (Fort DC 23 half). The bhuta heals 5 hit points when it drains blood.
+  Cold Iron Weakness (Su): >
+    A cold iron weapon is considered to be magical when used against a bhuta. A magic cold iron weapon always functions as a ghost touch weapon when used against a bhuta.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

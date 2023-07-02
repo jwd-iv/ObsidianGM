@@ -56,7 +56,13 @@ Skills: Acrobatics +9 (+13 when jumping), Bluff +7, Disguise +7 (+11 when using 
 RacialMods: +4 Acrobatics when jumping, +4 Disguise when using change shape
 Languages: Aklo, Common
 SQ: change shape (any humanoid, alter self), compression, mirror travel, perfect copy, sound mimicry (voices)
-SpecialAbilities: Death Throes (Su) When a soulsliver is killed, its body explodes into jagged glass shards that deal 2d6 points of piercing and slashing damage to creatures within a 20-foot-radius burst (Reflex DC 12 half). The save DC is Constitution-based.  Mirror Travel (Su) At will as a standard action, a soulsliver can crawl into any mirror as if it were a door or window, instantly transporting itself to another mirror within 500 feet as if using dimension door (caster level 7th). It can remain within that mirror indefinitely, or on its next turn crawl out or use this ability again. Its compression ability allows it to enter or exit Diminutive or larger mirrors. It can only exit a mirror if it is using change shape to take a specific creature's form.  Perfect Copy (Su) When a soulsliver uses change shape, it can assume the appearance of a specific individual. However, it is always the mirror image of the person it copies, which might give away that something is wrong.
+SpecialAbilities:
+  Death Throes (Su): >
+    When a soulsliver is killed, its body explodes into jagged glass shards that deal 2d6 points of piercing and slashing damage to creatures within a 20-foot-radius burst (Reflex DC 12 half). The save DC is Constitution-based.
+  Mirror Travel (Su): >
+    At will as a standard action, a soulsliver can crawl into any mirror as if it were a door or window, instantly transporting itself to another mirror within 500 feet as if using dimension door (caster level 7th). It can remain within that mirror indefinitely, or on its next turn crawl out or use this ability again. Its compression ability allows it to enter or exit Diminutive or larger mirrors. It can only exit a mirror if it is using change shape to take a specific creature's form.
+  Perfect Copy (Su): >
+    When a soulsliver uses change shape, it can assume the appearance of a specific individual. However, it is always the mirror image of the person it copies, which might give away that something is wrong.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

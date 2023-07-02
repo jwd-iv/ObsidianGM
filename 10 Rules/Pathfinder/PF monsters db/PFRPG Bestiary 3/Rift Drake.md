@@ -56,7 +56,13 @@ Skills: Climb +15, Fly +14, Intimidate +12, Perception +14, Sense Motive +11, St
 RacialMods: 
 Languages: Draconic
 SQ: speed surge
-SpecialAbilities: Clinging Corrosion (Su) As a standard action, a rift drake can spit a ball of caustic gas that bursts into a cloud upon impact. This attack has a range of 60 feet and deals 5d10 points of acid damage to all creatures within the resulting 15-foot-radius spread. Additionally, any creature damaged by this attack is affected as though by the spell slow for 1d4 rounds. A successful DC 20 Reflex save halves the damage and negates the slowing effect. Once a rift drake uses its breath weapon, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.  Savage Bite (Ex) A rift drake applies 1-1/2 times its Strength bonus to damage dealt with its bite attack, and it threatens a critical hit on a 19-20.  Speed Surge (Ex) Three times per day as a swift action, a rift drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.
+SpecialAbilities:
+  Clinging Corrosion (Su): >
+    As a standard action, a rift drake can spit a ball of caustic gas that bursts into a cloud upon impact. This attack has a range of 60 feet and deals 5d10 points of acid damage to all creatures within the resulting 15-foot-radius spread. Additionally, any creature damaged by this attack is affected as though by the spell slow for 1d4 rounds. A successful DC 20 Reflex save halves the damage and negates the slowing effect. Once a rift drake uses its breath weapon, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+  Savage Bite (Ex): >
+    A rift drake applies 1-1/2 times its Strength bonus to damage dealt with its bite attack, and it threatens a critical hit on a 19-20.
+  Speed Surge (Ex): >
+    Three times per day as a swift action, a rift drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

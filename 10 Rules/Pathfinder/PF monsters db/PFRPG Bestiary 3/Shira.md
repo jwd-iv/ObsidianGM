@@ -56,7 +56,11 @@ Skills: Acrobatics +22 (+30 when jumping), Bluff +20, Climb +24, Intimidate +20,
 RacialMods: 
 Languages: Abyssal, Celestial, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Consume Essence (Su) A shira's deadliest attacks drain away a portion of its victim's essence. Whenever a shira hits with a coup de grace attack using its bite, or confirms a critical hit with its claws or bite, the target must succeed at a DC 23 Fortitude save or take 1d4 points of Constitution drain. The save is Constitution-based.  Dusty Pelt (Ex) A shira collects and produces copious amounts of dust and ash within the coarse hairs of its furry hide. As a move action, it can shake itself, creating a cloud of dust that fills its space, providing it concealment. Any attack that deals at least 10 points of bludgeoning, piercing, or slashing damage to the shira (before DR) automatically activates this ability. The dust cloud lasts for 1 round. A light wind disperses this cloud immediately.
+SpecialAbilities:
+  Consume Essence (Su): >
+    A shira's deadliest attacks drain away a portion of its victim's essence. Whenever a shira hits with a coup de grace attack using its bite, or confirms a critical hit with its claws or bite, the target must succeed at a DC 23 Fortitude save or take 1d4 points of Constitution drain. The save is Constitution-based.
+  Dusty Pelt (Ex): >
+    A shira collects and produces copious amounts of dust and ash within the coarse hairs of its furry hide. As a move action, it can shake itself, creating a cloud of dust that fills its space, providing it concealment. Any attack that deals at least 10 points of bludgeoning, piercing, or slashing damage to the shira (before DR) automatically activates this ability. The dust cloud lasts for 1 round. A light wind disperses this cloud immediately.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Fly +9, Intimidate +9, Perception +10, Stealth +7 (+15 in fog or mist), 
 RacialMods: +8 Stealth in fog or mist
 Languages: Draconic
 SQ: misty camouflage, speed surge
-SpecialAbilities: Fogburst (Su) As a standard action, a mist drake can expel a ball of solid mist that explodes into a cloud of fog upon impact. This attack has a range of 60 feet and deals 3d6 points of bludgeoning damage to all creatures in a 20-foot radius (Reflex DC 16 half). A flying creatures that fails its Reflex save is pushed 1d4 x 5 feet from the center of the fogburst's area of effect (taking 1d6 points of damage per 10 feet if it strikes a solid object), while creatures on the ground are knocked prone on a failed save. The area of effect of the fogburst is filled with mist (as obscuring mist) for 1d4 rounds after impact. Once a mist drake has used its fogburst attack, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.  Fogvision (Ex) A mist drake can see normally through any form of natural or magical mist, fog, or precipitation.  Misty Camouflage (Ex) A mist drake can use Stealth to hide whenever it is in or adjacent to an area of mist, even while being observed.  Speed Surge (Ex) Three times per day as a swift action, a mist drake can draw on its draconic heritage for a boost of strength and speed that enables it to take an additional move action in that round.
+SpecialAbilities:
+  Fogburst (Su): >
+    As a standard action, a mist drake can expel a ball of solid mist that explodes into a cloud of fog upon impact. This attack has a range of 60 feet and deals 3d6 points of bludgeoning damage to all creatures in a 20-foot radius (Reflex DC 16 half). A flying creatures that fails its Reflex save is pushed 1d4 x 5 feet from the center of the fogburst's area of effect (taking 1d6 points of damage per 10 feet if it strikes a solid object), while creatures on the ground are knocked prone on a failed save. The area of effect of the fogburst is filled with mist (as obscuring mist) for 1d4 rounds after impact. Once a mist drake has used its fogburst attack, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+  Fogvision (Ex): >
+    A mist drake can see normally through any form of natural or magical mist, fog, or precipitation.
+  Misty Camouflage (Ex): >
+    A mist drake can use Stealth to hide whenever it is in or adjacent to an area of mist, even while being observed.
+  Speed Surge (Ex): >
+    Three times per day as a swift action, a mist drake can draw on its draconic heritage for a boost of strength and speed that enables it to take an additional move action in that round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Acrobatics +8 (+4 when jumping), Appraise +4, Bluff +7, Escape Artist +8
 RacialMods: +6 Escape Artist, +4 Perception
 Languages: Common, Infernal
 SQ: change shape (any Small humanoid; alter self ), elusive
-SpecialAbilities: Change Shape (Su) The tripurasura has only one alternative form-when it uses change shape, it always appears as the same Small humanoid. Most take the form of gnomes or human children.  Elusive (Su) The tripurasura and items it carries are considered to be under the effects of a nondetection spell. A caster must succeed at a DC 14 caster level check to overcome this effect.  Poison (Ex) Tongue-injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d2 Wis damage; cure 1 save.
+SpecialAbilities:
+  Change Shape (Su): >
+    The tripurasura has only one alternative form-when it uses change shape, it always appears as the same Small humanoid. Most take the form of gnomes or human children.
+  Elusive (Su): >
+    The tripurasura and items it carries are considered to be under the effects of a nondetection spell. A caster must succeed at a DC 14 caster level check to overcome this effect.
+  Poison (Ex): >
+    Tongue-injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d2 Wis damage; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

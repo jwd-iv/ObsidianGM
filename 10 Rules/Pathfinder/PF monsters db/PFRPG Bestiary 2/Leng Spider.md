@@ -56,7 +56,11 @@ Skills: Acrobatics +27 (+31 jump), Climb +34, Craft (traps) +20, Knowledge (any 
 RacialMods: 
 Languages: Aklo; tongues
 SQ: 
-SpecialAbilities: Poison (Su) Bite-injury; save Fort DC 25; frequency 1/round for 6 rounds; effect 1d4 Con plus confusion for 1 round; cure 2 consecutive saves. A Leng spider's venom causes flesh to blister and rot away and the mind to experience vivid and horrific hallucinations-these visions cause the poisoned creature to react in an unpredictable manner, as if confused. The hallucination element of this poison is mind-affecting. The save DC is Constitution-based.  Web Weaponry (Ex) A Leng spider is talented at using its webs to construct masterwork weapons. This technique of weapon creation allows the spider to effectively create a flail or bolas by attaching a heavy object such as a rock or chunk of metal to a cord of webbing. The spider attaches one end of this webbing to a leg and can then wield the weighted cord as a masterwork flail or a masterwork bolas. It can only wield one such weapon at a time-it must use its other legs to walk. If a Leng spider drops or loses a web weapon, it can create a new one as a full-round action, provided it has access to heavy-weight objects of the correct size (such as loose rocks or skulls).
+SpecialAbilities:
+  Poison (Su): >
+    Bite-injury; save Fort DC 25; frequency 1/round for 6 rounds; effect 1d4 Con plus confusion for 1 round; cure 2 consecutive saves. A Leng spider's venom causes flesh to blister and rot away and the mind to experience vivid and horrific hallucinations-these visions cause the poisoned creature to react in an unpredictable manner, as if confused. The hallucination element of this poison is mind-affecting. The save DC is Constitution-based.
+  Web Weaponry (Ex): >
+    A Leng spider is talented at using its webs to construct masterwork weapons. This technique of weapon creation allows the spider to effectively create a flail or bolas by attaching a heavy object such as a rock or chunk of metal to a cord of webbing. The spider attaches one end of this webbing to a leg and can then wield the weighted cord as a masterwork flail or a masterwork bolas. It can only wield one such weapon at a time-it must use its other legs to walk. If a Leng spider drops or loses a web weapon, it can create a new one as a full-round action, provided it has access to heavy-weight objects of the correct size (such as loose rocks or skulls).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

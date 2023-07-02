@@ -56,7 +56,15 @@ Skills: Acrobatics +14 (+22 when jumping), Fly +7, Perception +24
 RacialMods: +12 Acrobatics, +8 Perception
 Languages: 
 SQ: planar acclimation
-SpecialAbilities: Adaptive Defense (Su) When first encountered, a jubjub bird has no energy resistance. When damaged by an attack that causes cold, electricity, fire, or sonic damage, it gains resistance 30 to that energy type until the end of its next turn. If an attack causes more than one type of energy damage, the jubjub bird gains resistance 30 to all the types of energy damage dealt.  Deadly Bite (Ex) A jubjub bird applies 1-1/2 times its Strength modifier to damage dealt by its bite attack. A successful critical hit decapitates and instantly slays a Large or smaller victim (DC 33 Fortitude negates decapitation; creatures without a head are immune to this effect) and deals triple normal damage regardless of the decapitation result.  The save DC is Strength-based.  Planar Acclimation (Ex) A jubjub bird is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.  Shriek (Ex) Once every 1d6 rounds as a standard action, a jubjub bird can voice a piercing screech. All creatures (other than jubjub birds) within a 60-foot-radius spread must succeed at a DC 26 Fortitude save or be stunned for 1d4 rounds. This is a sonic effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Adaptive Defense (Su): >
+    When first encountered, a jubjub bird has no energy resistance. When damaged by an attack that causes cold, electricity, fire, or sonic damage, it gains resistance 30 to that energy type until the end of its next turn. If an attack causes more than one type of energy damage, the jubjub bird gains resistance 30 to all the types of energy damage dealt.
+  Deadly Bite (Ex): >
+    A jubjub bird applies 1-1/2 times its Strength modifier to damage dealt by its bite attack. A successful critical hit decapitates and instantly slays a Large or smaller victim (DC 33 Fortitude negates decapitation; creatures without a head are immune to this effect) and deals triple normal damage regardless of the decapitation result.  The save DC is Strength-based.
+  Planar Acclimation (Ex): >
+    A jubjub bird is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.
+  Shriek (Ex): >
+    Once every 1d6 rounds as a standard action, a jubjub bird can voice a piercing screech. All creatures (other than jubjub birds) within a 60-foot-radius spread must succeed at a DC 26 Fortitude save or be stunned for 1d4 rounds. This is a sonic effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

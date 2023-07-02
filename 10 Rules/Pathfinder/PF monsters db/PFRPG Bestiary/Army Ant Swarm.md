@@ -56,7 +56,11 @@ Skills: Climb +10, Perception +4
 RacialMods: +4 Perception
 Languages: 
 SQ: 
-SpecialAbilities: Cling (Ex) If a creature leaves an army ant swarm's square, the swarm suffers 1d6 points of damage to reflect the loss of its numbers as several of the crawling pests continue to cling tenaciously to the victim. A creature with army ants clinging to him takes 3d6 points of damage at the end of his turn each round. As a full-round action, he can remove the ants with a DC 17 Reflex save. High wind or any amount of damage from an area effect destroys all clinging ants. The save DC is Dexterity-based.  Consume (Ex) An army ant swarm can rapidly consume any creature it swarms over. Against helpless or nauseated targets, an army ant swarm attack deals 6d6 points of damage.
+SpecialAbilities:
+  Cling (Ex): >
+    If a creature leaves an army ant swarm's square, the swarm suffers 1d6 points of damage to reflect the loss of its numbers as several of the crawling pests continue to cling tenaciously to the victim. A creature with army ants clinging to him takes 3d6 points of damage at the end of his turn each round. As a full-round action, he can remove the ants with a DC 17 Reflex save. High wind or any amount of damage from an area effect destroys all clinging ants. The save DC is Dexterity-based.
+  Consume (Ex): >
+    An army ant swarm can rapidly consume any creature it swarms over. Against helpless or nauseated targets, an army ant swarm attack deals 6d6 points of damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

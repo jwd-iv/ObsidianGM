@@ -56,7 +56,13 @@ Skills: Diplomacy +19, Escape Artist +17, Fly +25, Handle Animal +19, Knowledge 
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: light form
-SpecialAbilities: Gaze (Su) In humanoid form, a ghaele's gaze attack slays evil creatures of 5 HD or less (range 60 feet, Will DC 18 negates, shaken for 2d10 rounds on a successful save). Nonevil creatures, and evil creatures with more than 5 HD, must succeed on a DC 18 Will save or be shaken for 2d10 rounds. A creature that saves against a ghaele's gaze is immune to that particular ghaele's gaze for 24 hours. This is a mindaffecting fear effect. The save DCs are Charisma-based. Light Form (Su) A ghaele can shift between its solid body and one made of light as a standard action. In solid form, it cannot fly or use light rays. In light form, it can fly and gains the incorporeal quality-it can make light ray attacks or use spell-like abilities in this form, but can't make physical attacks or cast spells. This ability otherwise functions similarly to a bralani's wind form ability. Light Ray (Ex) A ghaele's light rays have a range of 300 feet. This attack bypasses all damage reduction. Spells Ghaeles cast divine spells as 13th-level clerics. They do not gain access to domains or other cleric abilities.
+SpecialAbilities:
+  Gaze (Su): >
+    In humanoid form, a ghaele's gaze attack slays evil creatures of 5 HD or less (range 60 feet, Will DC 18 negates, shaken for 2d10 rounds on a successful save). Nonevil creatures, and evil creatures with more than 5 HD, must succeed on a DC 18 Will save or be shaken for 2d10 rounds. A creature that saves against a ghaele's gaze is immune to that particular ghaele's gaze for 24 hours. This is a mindaffecting fear effect. The save DCs are Charisma-based.
+  Light Form (Su): >
+    A ghaele can shift between its solid body and one made of light as a standard action. In solid form, it cannot fly or use light rays. In light form, it can fly and gains the incorporeal quality-it can make light ray attacks or use spell-like abilities in this form, but can't make physical attacks or cast spells. This ability otherwise functions similarly to a bralani's wind form ability.
+  Light Ray (Ex): >
+    A ghaele's light rays have a range of 300 feet. This attack bypasses all damage reduction. Spells Ghaeles cast divine spells as 13th-level clerics. They do not gain access to domains or other cleric abilities.
 SpellsKnown: 
 SpellsPrepared: Spells Prepared (CL 13th) 7th-holy word (DC 21) 6th-banishment (DC 20), heal (DC 20) 5th-flame strike (DC 19), raise dead, true seeing 4th-death ward, dismissal (2) (DC 18), divine power, restoration 3rd-cure serious wounds (3), searing light (2) 2nd-aid, align weapon, bear's endurance, lesser restoration (2) 1st-bless, command (DC 15), divine favor, obscuring mist, shield of faith 0 (at will)-detect magic, purify food and drink, stabilize, virtue
 SpellDomains: 

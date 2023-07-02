@@ -56,7 +56,11 @@ Skills: Escape Artist +13, Intimidate +16, Knowledge (planes) +11, Perception +1
 RacialMods: +4 Intimidate, +4 Perception, +4 Use Magic Device
 Languages: Abyssal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Braincloud (Su) Once per round, in place of a melee attack with a tentacle, a shoggti can make a melee touch attack with the pincer on the end of that tentacle. If it hits, the target takes 1d4 points of Wisdom damage. Shoggti use this ability to mentally debilitate their victims so they can more easily use their charm spell-like abilities against them.  Horrific Appearance (Su) Creatures that succumb to a shoggti's horrific appearance become fascinated by the creature's hypnotically wriggling tentacles and the strange, shimmering colors in its eyes. This effect persists for 1d6 rounds (but can be ended by the normal methods of defeating the fascinated condition).
+SpecialAbilities:
+  Braincloud (Su): >
+    Once per round, in place of a melee attack with a tentacle, a shoggti can make a melee touch attack with the pincer on the end of that tentacle. If it hits, the target takes 1d4 points of Wisdom damage. Shoggti use this ability to mentally debilitate their victims so they can more easily use their charm spell-like abilities against them.
+  Horrific Appearance (Su): >
+    Creatures that succumb to a shoggti's horrific appearance become fascinated by the creature's hypnotically wriggling tentacles and the strange, shimmering colors in its eyes. This effect persists for 1d6 rounds (but can be ended by the normal methods of defeating the fascinated condition).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

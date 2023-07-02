@@ -56,7 +56,9 @@ Skills: Acrobatics +7, Perception +10, Stealth +7, Survival +7
 RacialMods: 
 Languages: Ignan (cannot speak)
 SQ: 
-SpecialAbilities: Molten Body (Su) A thoqqua's body is hot enough to melt stone. Anyone striking a thoqqua with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a thoqqua or is grappled by one takes 3d6 points of fire damage each round the grapple persists. A creature that strikes a thoqqua with a manufactured weapon can attempt a DC 13 Reflex save to pull the weapon away from the creature's molten body quickly enough to avoid having the weapon take 1d6 points of fire damage-damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores the first 5 points of hardness possessed by the item. As a result, most metal weapons can generally safely strike a thoqqua without taking much damage, but wooden weapons have a significant chance of burning away if used against one of these creatures. The save DC is Constitution-based.
+SpecialAbilities:
+  Molten Body (Su): >
+    A thoqqua's body is hot enough to melt stone. Anyone striking a thoqqua with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a thoqqua or is grappled by one takes 3d6 points of fire damage each round the grapple persists. A creature that strikes a thoqqua with a manufactured weapon can attempt a DC 13 Reflex save to pull the weapon away from the creature's molten body quickly enough to avoid having the weapon take 1d6 points of fire damage-damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores the first 5 points of hardness possessed by the item. As a result, most metal weapons can generally safely strike a thoqqua without taking much damage, but wooden weapons have a significant chance of burning away if used against one of these creatures. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

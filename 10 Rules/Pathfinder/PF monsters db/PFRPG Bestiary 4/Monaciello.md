@@ -56,7 +56,11 @@ Skills: Bluff +6, Disable Device +8, Escape Artist +7, Perception +6, Sense Moti
 RacialMods: +4 Disable Device, +4 Stealth (+0 when moving)
 Languages: Aklo
 SQ: compression, magic bag
-SpecialAbilities: Magic Bag (Su) A monaciello always carries its pouch with it. This pouch contains an extradimensional space and operates like a bag of holding (type I). If this pouch is separated from the monaciello, all of its former contents are lost, and it becomes a normal bag that contains a number of coins equal to double the treasure value of a creature of the gremlin's CR. A monaciello that loses its pouch must create a new one, a process that takes 1d4 days. Until the new pouch is finished, it remains a non-magical bag, only becoming a fully functional extradimensional space once completed.  Stymie Channeling (Su) A monaciello gremlin is surrounded by an aura of blasphemy. Any creatures channeling energy within 20 feet of a monaciello must succeed at a DC 12 Will save or be unable to channel for that round. The use is not lost, but the action is wasted.
+SpecialAbilities:
+  Magic Bag (Su): >
+    A monaciello always carries its pouch with it. This pouch contains an extradimensional space and operates like a bag of holding (type I). If this pouch is separated from the monaciello, all of its former contents are lost, and it becomes a normal bag that contains a number of coins equal to double the treasure value of a creature of the gremlin's CR. A monaciello that loses its pouch must create a new one, a process that takes 1d4 days. Until the new pouch is finished, it remains a non-magical bag, only becoming a fully functional extradimensional space once completed.
+  Stymie Channeling (Su): >
+    A monaciello gremlin is surrounded by an aura of blasphemy. Any creatures channeling energy within 20 feet of a monaciello must succeed at a DC 12 Will save or be unable to channel for that round. The use is not lost, but the action is wasted.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

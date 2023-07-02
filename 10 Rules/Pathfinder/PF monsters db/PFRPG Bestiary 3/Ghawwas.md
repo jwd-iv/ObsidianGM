@@ -56,7 +56,13 @@ Skills: Bluff +19, Knowledge (geography, planes) +18, Perception +19, Stealth +1
 RacialMods: 
 Languages: Abyssal, Aquan, Celestial, Infernal; telepathy 100 ft.
 SQ: amphibious
-SpecialAbilities: Boiling Sea (Su) As a standard action, a ghawwas can cause the waters around it to boil. Any creature within 50 feet of the ghawwas, within the same body of water, and at least half submerged takes 6d6 points of fire damage (Fortitude DC 23 half ). The save DC is Constitution-based.  Poison (Ex) Sting-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves.  Rough Hide (Ex) Ghawwas have rough hides studded with jagged barbs and spiny protrusions. Any creature striking a ghawwas with a natural weapon or an unarmed strike takes 1d6 points of slashing and piercing damage.
+SpecialAbilities:
+  Boiling Sea (Su): >
+    As a standard action, a ghawwas can cause the waters around it to boil. Any creature within 50 feet of the ghawwas, within the same body of water, and at least half submerged takes 6d6 points of fire damage (Fortitude DC 23 half ). The save DC is Constitution-based.
+  Poison (Ex): >
+    Sting-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves.
+  Rough Hide (Ex): >
+    Ghawwas have rough hides studded with jagged barbs and spiny protrusions. Any creature striking a ghawwas with a natural weapon or an unarmed strike takes 1d6 points of slashing and piercing damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

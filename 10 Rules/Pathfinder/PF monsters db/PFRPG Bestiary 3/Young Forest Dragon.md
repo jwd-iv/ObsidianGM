@@ -56,7 +56,19 @@ Skills: Acrobatics +10 (+14 when jumping), Bluff +15, Climb +28, Fly -3, Intimid
 RacialMods: 
 Languages: Common, Draconic
 SQ: sound imitation, woodland stride
-SpecialAbilities: Change Shape (Su) An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph.  Destructive Crush (Su) When an old or older forest dragon makes a crush attack, the impact kicks up debris in a 20-foot-radius burst for 1d6 rounds. The debris obscures the vision of creatures within the debris field and grants concealment to those creatures. The forest dragon can see normally within and through the debris field.  Elemental Breath (Su) Once per day, when an ancient or older forest dragon uses its breath weapon, it can summon a greater earth elemental within the cone. The caster level for these effects is the same as the dragon's caster level.  Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener's Sense Motive check.  Stony Death (Su) Any creature reduced to 0 or fewer hit points by a great wyrm forest dragon's breath weapon must also make a Fortitude save (same DC as the forest dragon's breath weapon) or be petrified as the flesh to stone spell. This is a death effect.  Woodland Stride (Ex) As the druid ability of the same name.
+SpecialAbilities:
+  Change Shape (Su): >
+    An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph.
+  Destructive Crush (Su): >
+    When an old or older forest dragon makes a crush attack, the impact kicks up debris in a 20-foot-radius burst for 1d6 rounds. The debris obscures the vision of creatures within the debris field and grants concealment to those creatures. The forest dragon can see normally within and through the debris field.
+  Elemental Breath (Su): >
+    Once per day, when an ancient or older forest dragon uses its breath weapon, it can summon a greater earth elemental within the cone. The caster level for these effects is the same as the dragon's caster level.
+  Sound Imitation (Ex): >
+    A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener's Sense Motive check.
+  Stony Death (Su): >
+    Any creature reduced to 0 or fewer hit points by a great wyrm forest dragon's breath weapon must also make a Fortitude save (same DC as the forest dragon's breath weapon) or be petrified as the flesh to stone spell. This is a death effect.
+  Woodland Stride (Ex): >
+    As the druid ability of the same name.
 SpellsKnown: Spells Known (CL 1st; concentration +12)  1st (4/day)-obscuring mist, shield  0 (at-will)-ghost sound, read magic, resistance, touch of fatigue
 SpellsPrepared: 
 SpellDomains: 

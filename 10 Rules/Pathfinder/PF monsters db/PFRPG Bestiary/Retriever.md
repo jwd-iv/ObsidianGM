@@ -56,8 +56,11 @@ Skills: Perception +15
 RacialMods: 
 Languages: Abyssal (cannot speak)
 SQ: relentless
-SpecialAbilities: >
-  Eye Rays (Su) A retriever's eyes can produce four different magical rays, each with a range of 100 feet. Each round, it can fire one ray as a free action. A particular ray is usable only once every 4 rounds. A retriever can fire an eye ray in the same round that it makes physical attacks-firing an eye ray does not provoke attacks of opportunity. The save DC for eye rays is 19-the save DC is Constitution-based, and includes a +2 racial bonus. The eye ray effects are the following. # Fire: Deals 12d6 fire damage (Reflex half ). # Cold: Deals 12d6 cold damage (Reflex half ). # Electricity: Deals 12d6 electricity damage (Reflex half ). # Petrification: Target must succeed on a Fortitude save or turn to stone permanently. Relentless (Su) A retriever is constantly under the effects of spider climb and water walk; these abilities cannot be dispelled.
+SpecialAbilities:
+  Eye Rays (Su): >
+    A retriever's eyes can produce four different magical rays, each with a range of 100 feet. Each round, it can fire one ray as a free action. A particular ray is usable only once every 4 rounds. A retriever can fire an eye ray in the same round that it makes physical attacks-firing an eye ray does not provoke attacks of opportunity. The save DC for eye rays is 19-the save DC is Constitution-based, and includes a +2 racial bonus. The eye ray effects are the following. # Fire: Deals 12d6 fire damage (Reflex half ). # Cold: Deals 12d6 cold damage (Reflex half ). # Electricity: Deals 12d6 electricity damage (Reflex half ). # Petrification: Target must succeed on a Fortitude save or turn to stone permanently.
+  Relentless (Su): >
+    A retriever is constantly under the effects of spider climb and water walk; these abilities cannot be dispelled.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

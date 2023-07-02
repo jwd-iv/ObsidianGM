@@ -56,8 +56,17 @@ Skills: Acrobatics +6 (+10 jump), Climb +9, Stealth +10
 RacialMods: +4 Stealth
 Languages: 
 SQ: hibernation
-SpecialAbilities: >
-  Deaf (Ex) Akatas cannot hear. They are immune to spells and effects that rely on hearing to function, but they also cannot make Perception checks to listen.  Hibernation (Ex) Akatas can enter a state of hibernation for an indefinite period of time when food is scarce. When an akata wishes to enter hibernation, it seeks out a den and surrounds itself in a layer of fibrous material excreted from its mouth-these fibers quickly harden into a dense, almost metallic cocoon. While hibernating, an akata does not need to drink or eat. The cocoon has hardness 10 and 60 hit points, and is immune to fire and bludgeoning (including falling) damage. As long as the cocoon remains intact, the akata within remains unharmed. The akata remains in a state of hibernation until it senses another living creature within 10 feet or is exposed to extreme heat, at which point it claws its way to freedom in 1d4 minutes as its cocoon degrades to fragments of strange metal.  Salt Water Vulnerability (Ex) Salt water acts as an extremely strong acid to akatas. A splash of salt water deals 1d6 points of damage to an akata, and full immersion in salt water deals 4d6 points of damage per round.  Void Bite (Ex) Akatas hold hundreds of invisibly small larval young within their mouths, spreading these parasitic creatures to hosts through their bite. Only humanoids make suitable hosts for akata young-all other creature types are immune to this parasitic infection. The disease itself is known as void death.  Disease (Ex) Void Death: Bite-injury; save Fort DC 12; onset 1 hour; frequency 1/day; effect 1d2 Dex and 1d2 Con damage; an infected creature who dies rises as a void zombie 2d4 hours later (see below); cure 2 consecutive saves.
+SpecialAbilities:
+  Deaf (Ex): >
+    Akatas cannot hear. They are immune to spells and effects that rely on hearing to function, but they also cannot make Perception checks to listen.
+  Hibernation (Ex): >
+    Akatas can enter a state of hibernation for an indefinite period of time when food is scarce. When an akata wishes to enter hibernation, it seeks out a den and surrounds itself in a layer of fibrous material excreted from its mouth-these fibers quickly harden into a dense, almost metallic cocoon. While hibernating, an akata does not need to drink or eat. The cocoon has hardness 10 and 60 hit points, and is immune to fire and bludgeoning (including falling) damage. As long as the cocoon remains intact, the akata within remains unharmed. The akata remains in a state of hibernation until it senses another living creature within 10 feet or is exposed to extreme heat, at which point it claws its way to freedom in 1d4 minutes as its cocoon degrades to fragments of strange metal.
+  Salt Water Vulnerability (Ex): >
+    Salt water acts as an extremely strong acid to akatas. A splash of salt water deals 1d6 points of damage to an akata, and full immersion in salt water deals 4d6 points of damage per round.
+  Void Bite (Ex): >
+    Akatas hold hundreds of invisibly small larval young within their mouths, spreading these parasitic creatures to hosts through their bite. Only humanoids make suitable hosts for akata young-all other creature types are immune to this parasitic infection. The disease itself is known as void death.
+  Disease (Ex): >
+    Void Death: Bite-injury; save Fort DC 12; onset 1 hour; frequency 1/day; effect 1d2 Dex and 1d2 Con damage; an infected creature who dies rises as a void zombie 2d4 hours later (see below); cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Knowledge (nature) +11, Perception +21, Stealth +4 (+8 in forests)
 RacialMods: +4 Stealth in forests
 Languages: Common, Sylvan
 SQ: 
-SpecialAbilities: Fear Aura (Su) A quickwood with stored magical energy can activate its fear aura as a standard action. The aura has a radius of 10 feet per spell level of the effect and lasts for 1 round (Will DC 20 negates). Creatures that fail their saving throws become panicked for 1 minute. The DC is Charisma-based and includes a +4 racial bonus.  Oaksight (Su) A quickwood may observe the area surrounding any oak tree within 360 feet as if using clairaudience/clairvoyance. It can use this ability on any number of oak trees in the area. Although the quickwood does not need line of sight to establish this link, if it does have line of sight to even a single oak tree, it cannot be flanked.  Roots (Ex) A quickwood has dozens of long roots, but can only attack with up to three of them in any given round. If the quickwood uses its pull ability to pull a target within reach of its bite attack, it can immediately make a free bite attack with a +4 bonus on its attack roll against that target.  Spell Absorption (Su) If a quickwood's spell resistance protects it from a magical effect, the creature absorbs that magical energy into its body. It can release this energy to activate its fear aura ability. While the plant is storing a spell, its SR decreases by 5. It can only store one spell at a time.
+SpecialAbilities:
+  Fear Aura (Su): >
+    A quickwood with stored magical energy can activate its fear aura as a standard action. The aura has a radius of 10 feet per spell level of the effect and lasts for 1 round (Will DC 20 negates). Creatures that fail their saving throws become panicked for 1 minute. The DC is Charisma-based and includes a +4 racial bonus.
+  Oaksight (Su): >
+    A quickwood may observe the area surrounding any oak tree within 360 feet as if using clairaudience/clairvoyance. It can use this ability on any number of oak trees in the area. Although the quickwood does not need line of sight to establish this link, if it does have line of sight to even a single oak tree, it cannot be flanked.
+  Roots (Ex): >
+    A quickwood has dozens of long roots, but can only attack with up to three of them in any given round. If the quickwood uses its pull ability to pull a target within reach of its bite attack, it can immediately make a free bite attack with a +4 bonus on its attack roll against that target.
+  Spell Absorption (Su): >
+    If a quickwood's spell resistance protects it from a magical effect, the creature absorbs that magical energy into its body. It can release this energy to activate its fear aura ability. While the plant is storing a spell, its SR decreases by 5. It can only store one spell at a time.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

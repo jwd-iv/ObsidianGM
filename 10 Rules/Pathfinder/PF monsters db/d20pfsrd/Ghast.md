@@ -56,8 +56,13 @@ Skills: Acrobatics +6, Climb +8, Perception +9, Stealth +9, Swim +4
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: >
-  Disease (Su)Ghoul Fever: Bite-injury; save Fort DC 15; onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based.  A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.  Paralysis (Su)Creatures damaged by a ghast's natural attacks must make a successful DC 15 Fortitude save or be paralyzed for 1d4+1 rounds. Paralyzed creatures cannot move, speak, or take any physical actions. The creature is rooted to the spot, frozen and helpless. Unlike ghouls, A ghast's paralysis even affects elves Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air at the time that it is paralyzed cannot flap its wings and falls. A swimmer can't swim and may drown. The duration of the paralysis varies and is included in the creature's description.  Stench (Ex) Ghast's exude an overwhelming stink of death and corruption in a 10-foot radius.  Those within the stench must succeed at a DC 15 Fortitude save, or be sickened for 1d6+4 minutes
+SpecialAbilities:
+  Disease (Su): >
+    Ghoul Fever: Bite-injury; save Fort DC 15; onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based.  A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.
+  Paralysis (Su): >
+    Creatures damaged by a ghast's natural attacks must make a successful DC 15 Fortitude save or be paralyzed for 1d4+1 rounds. Paralyzed creatures cannot move, speak, or take any physical actions. The creature is rooted to the spot, frozen and helpless. Unlike ghouls, A ghast's paralysis even affects elves Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air at the time that it is paralyzed cannot flap its wings and falls. A swimmer can't swim and may drown. The duration of the paralysis varies and is included in the creature's description.
+  Stench (Ex): >
+    Ghast's exude an overwhelming stink of death and corruption in a 10-foot radius.  Those within the stench must succeed at a DC 15 Fortitude save, or be sickened for 1d6+4 minutes
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

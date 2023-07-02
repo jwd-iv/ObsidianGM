@@ -56,7 +56,11 @@ Skills: Climb +23, Perception +4, Stealth -7 (+1 in forests)
 RacialMods: +8 Climb, +4 Perception, +8 Stealth (+16 in forests)
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d6 Str and paralysis 1 round; cure 2 consecutive saves.  Poisoned Web (Ex) This ability works like the web ability, but affects all creatures in a 10-foot-radius burst. In addition, any creature hit by the web must save against the spider's poison.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d6 Str and paralysis 1 round; cure 2 consecutive saves.
+  Poisoned Web (Ex): >
+    This ability works like the web ability, but affects all creatures in a 10-foot-radius burst. In addition, any creature hit by the web must save against the spider's poison.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

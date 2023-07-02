@@ -56,8 +56,11 @@ Skills: Bluff +20, Diplomacy +18, Disguise +18, Fly +16, Intimidate +16, Knowled
 RacialMods: 
 Languages: Abyssal, Celestial, Infernal; telepathy 100 ft.
 SQ: change shape (any Small or Medium animal or humanoid; polymorph)
-SpecialAbilities: >
-  Disease (Su) A pairaka carries two diseases. Its claws infect targets with bubonic plague, and any willing contact with its skin (such as through caressing, grappling, or more) exposes victims to the shakes.  Bubonic Plague: Claw-injury; save Fort DC 17; onset 1 day; frequency 1/ day; effect 1d4 Str damage, 1 Cha  damage, and target is fatigued; cure 2 consecutive saves.  Shakes: Contact; save Fort DC 17; onset 1 day; frequency 1/day; effect 1d8 Dex damage; cure 2 consecutive saves.  Lustful Dreams (Su) Pairakas can torment sleeping creatures. While an intelligent creature sleeps, a pairaka can slip into the target's mind and twist its dreams to lusty nocturnal visions. The victim must be asleep for the pairaka to use this ability and the pairaka must be within 100 feet. If the victim fails a DC 21 Will save, it experiences vivid hallucinations of a lurid nature that leave it breathless and fatigued upon waking. The victim, even a depraved soul, rarely considers the sexual nature of these dreams enjoyable, as the images exploit any number of taboos the pairaka suspects its victim might harbor. The save DC is Charisma-based. Creatures that do not sleep or dream are immune to this effect.
+SpecialAbilities:
+  Disease (Su): >
+    A pairaka carries two diseases. Its claws infect targets with bubonic plague, and any willing contact with its skin (such as through caressing, grappling, or more) exposes victims to the shakes.  Bubonic Plague: Claw-injury; save Fort DC 17; onset 1 day; frequency 1/ day; effect 1d4 Str damage, 1 Cha  damage, and target is fatigued; cure 2 consecutive saves.  Shakes: Contact; save Fort DC 17; onset 1 day; frequency 1/day; effect 1d8 Dex damage; cure 2 consecutive saves.
+  Lustful Dreams (Su): >
+    Pairakas can torment sleeping creatures. While an intelligent creature sleeps, a pairaka can slip into the target's mind and twist its dreams to lusty nocturnal visions. The victim must be asleep for the pairaka to use this ability and the pairaka must be within 100 feet. If the victim fails a DC 21 Will save, it experiences vivid hallucinations of a lurid nature that leave it breathless and fatigued upon waking. The victim, even a depraved soul, rarely considers the sexual nature of these dreams enjoyable, as the images exploit any number of taboos the pairaka suspects its victim might harbor. The save DC is Charisma-based. Creatures that do not sleep or dream are immune to this effect.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

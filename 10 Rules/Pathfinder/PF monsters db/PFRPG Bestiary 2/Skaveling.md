@@ -56,8 +56,11 @@ Skills: Fly +13, Perception +14 (+18 when using blindsense), Stealth +14
 RacialMods: +4 Perception when using blindsense
 Languages: Undercommon
 SQ: 
-SpecialAbilities: >
-  Disease (Su) Ghoul Fever: Bite-injury; save Fort DC 16; onset 1 day; frequency 1/day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight (Pathfinder RPG Bestiary 146).  Screech (Su) Once per day as a standard action, a skaveling can screech as a mobat, save that those who are affected are stunned for 1d3 rounds unless they make a DC 16 Fortitude save. The save DC is Charisma-based.
+SpecialAbilities:
+  Disease (Su): >
+    Ghoul Fever: Bite-injury; save Fort DC 16; onset 1 day; frequency 1/day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight (Pathfinder RPG Bestiary 146). 
+  Screech (Su): >
+    Once per day as a standard action, a skaveling can screech as a mobat, save that those who are affected are stunned for 1d3 rounds unless they make a DC 16 Fortitude save. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

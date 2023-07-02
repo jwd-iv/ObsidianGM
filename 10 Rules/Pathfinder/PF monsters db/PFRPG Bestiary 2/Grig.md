@@ -56,7 +56,9 @@ Skills: Acrobatics +8 (+12 when jumping), Escape Artist +8, Fly +12, Perception 
 RacialMods: +4 Acrobatics when jumping
 Languages: Common, Sylvan
 SQ: 
-SpecialAbilities: Fiddle (Su) Grigs are capable of rubbing their legs together like a cricket to create a surprisingly pleasant sound not unlike that of a tiny fiddle. As a standard action, a grig can create a catchy tune that compels any creature within a 20-foot spread to dance and caper. A creature can resist this compulsion by making a DC 12 Will save. Creatures that fail are compelled to dance and shuffle their feet, and are effectively staggered as long as the grig continues to fiddle. A grig can maintain this effect for up to 10 rounds per day by concentrating. Once a creature makes the save against a grig's fiddle, it is immune to further fiddle effects from that grig for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Fiddle (Su): >
+    Grigs are capable of rubbing their legs together like a cricket to create a surprisingly pleasant sound not unlike that of a tiny fiddle. As a standard action, a grig can create a catchy tune that compels any creature within a 20-foot spread to dance and caper. A creature can resist this compulsion by making a DC 12 Will save. Creatures that fail are compelled to dance and shuffle their feet, and are effectively staggered as long as the grig continues to fiddle. A grig can maintain this effect for up to 10 rounds per day by concentrating. Once a creature makes the save against a grig's fiddle, it is immune to further fiddle effects from that grig for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

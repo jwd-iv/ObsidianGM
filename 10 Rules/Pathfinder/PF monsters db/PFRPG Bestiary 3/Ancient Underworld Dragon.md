@@ -56,7 +56,17 @@ Skills: Acrobatics +21 (+25 when jumping), Appraise +30, Bluff +30, Climb +37, F
 RacialMods: 
 Languages: Common, Draconic, Dwarven, Giant, Ignan, Terran
 SQ: change shape, underworld burrower
-SpecialAbilities: Adamantine Claws (Ex) The claws of an underworld dragon are made of adamantine, and have the qualities of a weapon made from that material.  Change Shape (Su) A young or older underworld dragon can assume any humanoid form three times per day as if using polymorph.  Lava Eruption (Su) As a full-round action, a great wyrm underworld dragon can burrow through the ground up to twice its burrow speed. At the end of that movement, if the underworld dragon has use of its breath weapon, it can emerge from the ground spouting lava in a 30-foot-radius burst, dealing damage as the breath weapon.  Smoke Vision (Ex) A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).  Underworld Burrower (Ex) An adult underworld dragon gains a 10-foot bonus to its burrow speed. When the underworld dragon becomes old and every two age categories thereafter, its burrow speed increases by an additional 10 feet.
+SpecialAbilities:
+  Adamantine Claws (Ex): >
+    The claws of an underworld dragon are made of adamantine, and have the qualities of a weapon made from that material.
+  Change Shape (Su): >
+    A young or older underworld dragon can assume any humanoid form three times per day as if using polymorph.
+  Lava Eruption (Su): >
+    As a full-round action, a great wyrm underworld dragon can burrow through the ground up to twice its burrow speed. At the end of that movement, if the underworld dragon has use of its breath weapon, it can emerge from the ground spouting lava in a 30-foot-radius burst, dealing damage as the breath weapon.
+  Smoke Vision (Ex): >
+    A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+  Underworld Burrower (Ex): >
+    An adult underworld dragon gains a 10-foot bonus to its burrow speed. When the underworld dragon becomes old and every two age categories thereafter, its burrow speed increases by an additional 10 feet.
 SpellsKnown: Spells Known (CL 13th; concentration +18)  6th (4/day)-disintegrate (DC 21), flesh to stone (DC 21)  5th (7/day)-passwall, transmute rock to mud, waves of fatigue  4th (7/day)-enervation, shout (DC 19), solid fog, stone shape  3rd (7/day)-displacement, fireball (DC 18), protection from good, rage, slow  2nd (7/day)-acid arrow, daze monster (DC 17), flaming sphere (DC 17), scorching ray  1st (8/day)-burning hands (DC 16), cause fear (DC 16) magic missile, ray of enfeeblement (DC 16), true strike  0 (at will)-acid splash, bleed (DC 15), detect magic, flare (DC 15), ghost sound, mage hand, read magic, resistance, touch of fatigue (DC 15)
 SpellsPrepared: 
 SpellDomains: 

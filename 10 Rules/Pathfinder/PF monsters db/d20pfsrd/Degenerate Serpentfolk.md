@@ -56,7 +56,9 @@ Skills: Escape Artist +9, Perception +13
 RacialMods: +8 Escape Artist, +4 Perception
 Languages: Aklo, Common, Draconic, Undercommon; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Poison (Ex)Bite-injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

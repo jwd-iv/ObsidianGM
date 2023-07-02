@@ -56,7 +56,11 @@ Skills: Intimidate +34, Knowledge (arcana) +33, Knowledge (planes) +30, Knowledg
 RacialMods: +8 Stealth in dim light and darkness
 Languages: Abyssal, Common, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Energy Drain (Su) A creature that has been swallowed whole by a nightcrawler gains 1 negative level each round.  Poison (Su) Sting-injury; save Fort DC 28; frequency 1/round for 6 rounds; effect 1d4 Constitution drain and 1 negative level; cure 3 consecutive saves. The save DC is Charisma-based.
+SpecialAbilities:
+  Energy Drain (Su): >
+    A creature that has been swallowed whole by a nightcrawler gains 1 negative level each round.
+  Poison (Su): >
+    Sting-injury; save Fort DC 28; frequency 1/round for 6 rounds; effect 1d4 Constitution drain and 1 negative level; cure 3 consecutive saves. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

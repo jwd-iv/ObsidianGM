@@ -56,7 +56,9 @@ Skills: Intimidate +7, Perception +8, Stealth +10
 RacialMods: +4 Intimidate, +4 Stealth
 Languages: 
 SQ: stalker Languages Common, Goblin
-SpecialAbilities: Stalker (Ex) Perception and Stealth are always class skills for bugbears.
+SpecialAbilities:
+  Stalker (Ex): >
+    Perception and Stealth are always class skills for bugbears.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

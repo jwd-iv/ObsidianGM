@@ -56,7 +56,9 @@ Skills: Perception +13, Survival +6
 RacialMods: +4 Perception
 Languages: 
 SQ: double damage against objects Languages Giant
-SpecialAbilities: Double Damage Against Objects (Ex) A gray render that makes a full attack against an object or structure deals double damage.
+SpecialAbilities:
+  Double Damage Against Objects (Ex): >
+    A gray render that makes a full attack against an object or structure deals double damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

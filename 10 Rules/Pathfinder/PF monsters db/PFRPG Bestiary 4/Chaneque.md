@@ -56,7 +56,9 @@ Skills: Acrobatics +9, Bluff +5, Climb +12, Fly +3, Perception +8, Sense Motive 
 RacialMods: +4 Stealth while in trees
 Languages: Abyssal, Common, Sylvan
 SQ: 
-SpecialAbilities: Steal Soul (Su) As a ranged attack, a chaneque can pelt an opponent with a ritually prepared, soul-stealing fey skull. If the skull strikes its target, she must succeed at a DC 14 Will saving throw to prevent it from ripping her soul from her body. If the victim fails the saving throw, the skull temporarily devours her soul, leaving her vulnerable to the commands of whoever holds the skull. Thereafter, the skull's possessor can use it to command the victim, as the dominate person spell. The soul remains stolen until the possessor chooses to release the victim or the skull is destroyed. While a chaneque can carry multiple skulls on its belt, it can only manipulate single soul at one time. The save DC is Wisdom-based.
+SpecialAbilities:
+  Steal Soul (Su): >
+    As a ranged attack, a chaneque can pelt an opponent with a ritually prepared, soul-stealing fey skull. If the skull strikes its target, she must succeed at a DC 14 Will saving throw to prevent it from ripping her soul from her body. If the victim fails the saving throw, the skull temporarily devours her soul, leaving her vulnerable to the commands of whoever holds the skull. Thereafter, the skull's possessor can use it to command the victim, as the dominate person spell. The soul remains stolen until the possessor chooses to release the victim or the skull is destroyed. While a chaneque can carry multiple skulls on its belt, it can only manipulate single soul at one time. The save DC is Wisdom-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

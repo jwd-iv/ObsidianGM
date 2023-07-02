@@ -56,7 +56,13 @@ Skills: Climb +23, Intimidate +32, Perception +20
 RacialMods: 
 Languages: Common (can't speak)
 SQ: 
-SpecialAbilities: Breath Weapon (Su) A gashadokuro can breathe bone shards as a standard action.  Corpse Consumption (Su) A gashadokuro that kills creature by using its swallow whole special ability automatically consumes its victim's body and regains a number of hit points equal to the victim's Constitution score. Consumed creatures cannot be resurrected by any effect short of a miracle or wish spell until the gashadokuro is destroyed.  Starvation Aura (Su) A gashadokuro emits a powerful aura that causes all creatures within range to feel the intense pains of starvation. Each creature within 60 feet must succeed at a DC 24 Fortitude save or be fatigued and succumb to the supernatural starvation of the gashadokuro, taking 2d6 points of nonlethal damage at the end of its turn each round it remains in the aura. Even after leaving the area or slaying the gashadokuro, an affected creature continues to starve and cannot heal from the nonlethal damage dealt by this ability until it consumes food (Pathfinder RPG Core Rulebook 444).
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A gashadokuro can breathe bone shards as a standard action.
+  Corpse Consumption (Su): >
+    A gashadokuro that kills creature by using its swallow whole special ability automatically consumes its victim's body and regains a number of hit points equal to the victim's Constitution score. Consumed creatures cannot be resurrected by any effect short of a miracle or wish spell until the gashadokuro is destroyed.
+  Starvation Aura (Su): >
+    A gashadokuro emits a powerful aura that causes all creatures within range to feel the intense pains of starvation. Each creature within 60 feet must succeed at a DC 24 Fortitude save or be fatigued and succumb to the supernatural starvation of the gashadokuro, taking 2d6 points of nonlethal damage at the end of its turn each round it remains in the aura. Even after leaving the area or slaying the gashadokuro, an affected creature continues to starve and cannot heal from the nonlethal damage dealt by this ability until it consumes food (Pathfinder RPG Core Rulebook 444).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Climb +29, Escape Artist +24, Intimidate +19, Knowledge (planes) +19, Pe
 RacialMods: 
 Languages: Terran
 SQ: 
-SpecialAbilities: Earth Glide (Ex) A burrowing mud elemental can pass through dirt, gravel, or other loose or porous solid matter as easily as a fish swims through water. It cannot use this ability to pass through a solid barrier such as a stone or brick wall. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A move earth spell cast on an area containing a burrowing mud elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.  Entrap (Ex) The mud from an elemental's entrap ability can be washed away in 1d3 rounds of immersion in water.
+SpecialAbilities:
+  Earth Glide (Ex): >
+    A burrowing mud elemental can pass through dirt, gravel, or other loose or porous solid matter as easily as a fish swims through water. It cannot use this ability to pass through a solid barrier such as a stone or brick wall. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A move earth spell cast on an area containing a burrowing mud elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+  Entrap (Ex): >
+    The mud from an elemental's entrap ability can be washed away in 1d3 rounds of immersion in water.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

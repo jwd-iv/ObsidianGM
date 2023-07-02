@@ -56,7 +56,13 @@ Skills: Acrobatics +16, Climb +32, Perception +16, Sense Motive +16, Stealth +16
 RacialMods: +8 Stealth
 Languages: Abyssal (cannot speak); telepathy 100 ft.
 SQ: 
-SpecialAbilities: Dismantle Armor (Ex) If a bebilith hits a foe with both claw attacks, it can attempt to peel away the target's armor and shield as a free action by making a CMB check.  If the bebilith is successful, the target's armor and shield are torn from his body and dismantled, falling to the ground. Armor subjected to this attack loses half its hit points and gains the broken condition if the target fails a DC 25 Reflex save. The save DC is Strength-based.  Penetrating Strike (Su) A bebilith's natural weapons are treated as chaotic and magical for the purposes of penetrating damage reduction. Against creatures with the demon type, its natural weapons are also treated as cold iron and good.  Rot (Su) A bebilith's bite causes a horrible withering and weakening of the flesh, resulting in a hideous melting and foul rotting effect. This catastrophic withering begins on the round the creature is bitten and continues for another 4 rounds thereafter, for 5 rounds of withering in all. Each round the rot persists, the target must succeed on a DC 23 Fortitude save or take 2 points of Constitution damage. If the target makes two consecutive saving throws in a row, the effect is cured. Heal can also halt the rot effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Dismantle Armor (Ex): >
+    If a bebilith hits a foe with both claw attacks, it can attempt to peel away the target's armor and shield as a free action by making a CMB check.  If the bebilith is successful, the target's armor and shield are torn from his body and dismantled, falling to the ground. Armor subjected to this attack loses half its hit points and gains the broken condition if the target fails a DC 25 Reflex save. The save DC is Strength-based.
+  Penetrating Strike (Su): >
+    A bebilith's natural weapons are treated as chaotic and magical for the purposes of penetrating damage reduction. Against creatures with the demon type, its natural weapons are also treated as cold iron and good.
+  Rot (Su): >
+    A bebilith's bite causes a horrible withering and weakening of the flesh, resulting in a hideous melting and foul rotting effect. This catastrophic withering begins on the round the creature is bitten and continues for another 4 rounds thereafter, for 5 rounds of withering in all. Each round the rot persists, the target must succeed on a DC 23 Fortitude save or take 2 points of Constitution damage. If the target makes two consecutive saving throws in a row, the effect is cured. Heal can also halt the rot effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

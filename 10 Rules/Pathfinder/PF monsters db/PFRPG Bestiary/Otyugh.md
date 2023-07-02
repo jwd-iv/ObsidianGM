@@ -56,8 +56,9 @@ Skills: Perception +9, Stealth +2 (+10 in lair)
 RacialMods: +8 Stealth in lair
 Languages: Common
 SQ: 
-SpecialAbilities: >
-  Disease (Ex) Filth fever: Bite-injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Disease (Ex): >
+    Filth fever: Bite-injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

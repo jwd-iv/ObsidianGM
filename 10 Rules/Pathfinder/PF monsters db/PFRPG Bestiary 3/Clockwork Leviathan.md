@@ -56,7 +56,13 @@ Skills: Stealth +8 (+12 in water), Swim +19
 RacialMods: +12 Stealth (+16 in water)
 Languages: 
 SQ: swift reactions, winding
-SpecialAbilities: Breath Weapon (Su) A clockwork leviathan's breath weapon is a powerful jet of scorching steam-it functions equally well above and under water.  Grind (Ex) A clockwork leviathan deals an additional 1d8+16 points of slashing damage when it makes a successful grapple check because of the myriad twisting gears and churning pistons that make up its jagged underbelly.  Swallow Whole (Ex) A clockwork leviathan's interior is filled with injurious grinding gears and superheated water-in addition to taking damage, a swallowed creature must hold its breath or risk drowning as long as it remains inside a clockwork leviathan's "stomach."
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A clockwork leviathan's breath weapon is a powerful jet of scorching steam-it functions equally well above and under water.
+  Grind (Ex): >
+    A clockwork leviathan deals an additional 1d8+16 points of slashing damage when it makes a successful grapple check because of the myriad twisting gears and churning pistons that make up its jagged underbelly.
+  Swallow Whole (Ex): >
+    A clockwork leviathan's interior is filled with injurious grinding gears and superheated water-in addition to taking damage, a swallowed creature must hold its breath or risk drowning as long as it remains inside a clockwork leviathan's "stomach."
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

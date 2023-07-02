@@ -56,7 +56,11 @@ Skills: Fly +11, Perception +8, Stealth +8 (+12 in dim light, +4 in bright light
 RacialMods: +4 Stealth in dim light (-4 in bright light)
 Languages: 
 SQ: 
-SpecialAbilities: Create Spawn (Su) A humanoid creature killed by a shadow's Strength damage becomes a shadow under the control of its killer in 1d4 rounds.  Strength Damage (Su) A shadow's touch deals 1d6 points of Strength damage to a living creature. This is a negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength score.
+SpecialAbilities:
+  Create Spawn (Su): >
+    A humanoid creature killed by a shadow's Strength damage becomes a shadow under the control of its killer in 1d4 rounds.
+  Strength Damage (Su): >
+    A shadow's touch deals 1d6 points of Strength damage to a living creature. This is a negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength score.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

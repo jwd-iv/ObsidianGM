@@ -56,7 +56,13 @@ Skills: Swim +12
 RacialMods: 
 Languages: 
 SQ: crystalline
-SpecialAbilities: Crystalline (Ex) As a creature of living ice, a freezing flow is difficult to discern from its surroundings in icy and snowy land environments and when in icy water. A successful DC 15 Perception check is required to notice a freezing flow in these environments. Any creature that fails to notice a freezing flow and walks into it automatically takes damage as if struck by the ooze's slam attack.  Jagged Slam (Ex) A freezing flow's slam attack is a slashing tendril of crystalline ice. It deals slashing damage instead of bludgeoning damage and has a critical range of 19-20.  Numbing Touch (Ex) Each time a freezing flow deals cold damage with its slam attack or constrict ability, the target must succeed at a DC 17 Fortitude save or be staggered with numbing cold for 1 round. The save DC is Constitution-based.
+SpecialAbilities:
+  Crystalline (Ex): >
+    As a creature of living ice, a freezing flow is difficult to discern from its surroundings in icy and snowy land environments and when in icy water. A successful DC 15 Perception check is required to notice a freezing flow in these environments. Any creature that fails to notice a freezing flow and walks into it automatically takes damage as if struck by the ooze's slam attack.
+  Jagged Slam (Ex): >
+    A freezing flow's slam attack is a slashing tendril of crystalline ice. It deals slashing damage instead of bludgeoning damage and has a critical range of 19-20.
+  Numbing Touch (Ex): >
+    Each time a freezing flow deals cold damage with its slam attack or constrict ability, the target must succeed at a DC 17 Fortitude save or be staggered with numbing cold for 1 round. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Craft (trapmaking) +6, Perception +5, Stealth +5
 RacialMods: +2 Craft (trapmaking), +2 Perception, +2 Profession (miner)
 Languages: Draconic
 SQ: crafty
-SpecialAbilities: Crafty (Ex) Craft (trapmaking) and Stealth are always class skills for a kobold.
+SpecialAbilities:
+  Crafty (Ex): >
+    Craft (trapmaking) and Stealth are always class skills for a kobold.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

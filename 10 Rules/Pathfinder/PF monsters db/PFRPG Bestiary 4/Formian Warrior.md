@@ -56,7 +56,13 @@ Skills: Acrobatics +10 (+14 when jumping), Climb +8, Intimidate +8, Perception +
 RacialMods: 
 Languages: Common; telepathy 60 ft.
 SQ: coordinate, formian traits
-SpecialAbilities: Coordinate (Su) Once a formian warrior has acted in a combat, all allied formians within the hive mind are no longer considered flat-footed. When a formian warrior attacks a creature in melee, allied formians gain a +2 insight bonus on melee attack rolls against that creature until the start of the warrior's next turn.  Deadly Grasp (Ex) When a formian warrior has a foe grappled, it deals sting damage when it succeeds at a grapple check to damage its opponent.  Poison (Ex) Javelin or sting-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
+SpecialAbilities:
+  Coordinate (Su): >
+    Once a formian warrior has acted in a combat, all allied formians within the hive mind are no longer considered flat-footed. When a formian warrior attacks a creature in melee, allied formians gain a +2 insight bonus on melee attack rolls against that creature until the start of the warrior's next turn.
+  Deadly Grasp (Ex): >
+    When a formian warrior has a foe grappled, it deals sting damage when it succeeds at a grapple check to damage its opponent.
+  Poison (Ex): >
+    Javelin or sting-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

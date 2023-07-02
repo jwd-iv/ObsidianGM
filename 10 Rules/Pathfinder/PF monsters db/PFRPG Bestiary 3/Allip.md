@@ -56,7 +56,13 @@ Skills: Fly +16, Intimidate +10, Perception +7, Stealth +8
 RacialMods: 
 Languages: Aklo, Common
 SQ: madness
-SpecialAbilities: Babble (Su) An allip constantly mutters to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip must succeed at a DC 15 Will save or be fascinated for 2d4 rounds. While a target is fascinated, the allip can approach it without breaking the effect, but an attack by the allip does end the effect. Creatures that successfully save cannot be affected by the same allip's babble for 24 hours. This is a sonic, mind-affecting compulsion effect. The save DC is Charisma-based.  Madness (Su) Anyone targeting an allip with a thought detection, mind control, or telepathic effect makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.  Touch of Insanity (Su) The touch of an allip deals 1d4 points of Wisdom damage (DC 15 Will negates). A successful critical hit causes 1d4 points of Wisdom damage and 1 point of Wisdom drain (instead of double Wisdom damage). With each successful attack, an allip gains 5 temporary hit points. The save DC is Charisma-based.
+SpecialAbilities:
+  Babble (Su): >
+    An allip constantly mutters to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip must succeed at a DC 15 Will save or be fascinated for 2d4 rounds. While a target is fascinated, the allip can approach it without breaking the effect, but an attack by the allip does end the effect. Creatures that successfully save cannot be affected by the same allip's babble for 24 hours. This is a sonic, mind-affecting compulsion effect. The save DC is Charisma-based.
+  Madness (Su): >
+    Anyone targeting an allip with a thought detection, mind control, or telepathic effect makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.
+  Touch of Insanity (Su): >
+    The touch of an allip deals 1d4 points of Wisdom damage (DC 15 Will negates). A successful critical hit causes 1d4 points of Wisdom damage and 1 point of Wisdom drain (instead of double Wisdom damage). With each successful attack, an allip gains 5 temporary hit points. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

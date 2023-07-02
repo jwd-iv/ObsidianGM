@@ -56,7 +56,15 @@ Skills: Diplomacy +26, Fly +7, Heal +14, Knowledge (arcana) +33, Knowledge (dung
 RacialMods: +10 on all Knowledge skills
 Languages: Celestial, Common, Draconic; tongues
 SQ: 
-SpecialAbilities: Aura of Peace (Su) Creatures within a 50-foot spread from a simurgh feel a sensation of peace wash over them, as if affected by calm emotions, except the simurgh can choose which creatures are affected. A DC 28 Will save negates the effects of this aura for 1 round, but a new save must be made each round to continue to resist the effects. The saving throw is Charisma-based.  Banishing Swipe (Su) A simurgh can use its radiant tail to return creatures to their native planes. In addition to taking damage, any extraplanar creature touched by a simurgh's tail must succeed at a DC 28 Will save or be affected as if by banishment. A creature that makes this save cannot be affected by the same simurgh's banishing swipe for the next 24 hours. The save DC is Charisma-based.  Glaring Ray (Su) A simurgh can blast a fiery ray of brilliant light from its eyes as a standard action to a range of 100 feet.  Radiant Feathers (Su) Once per day as a standard action, a simurgh can fan out its glimmering tail feathers and blast its foes with a 100-foot cone of radiant light from its tail. Aside from its size, this attack is identical to a prismatic spray (DC 28). The save is Charisma-based.
+SpecialAbilities:
+  Aura of Peace (Su): >
+    Creatures within a 50-foot spread from a simurgh feel a sensation of peace wash over them, as if affected by calm emotions, except the simurgh can choose which creatures are affected. A DC 28 Will save negates the effects of this aura for 1 round, but a new save must be made each round to continue to resist the effects. The saving throw is Charisma-based.
+  Banishing Swipe (Su): >
+    A simurgh can use its radiant tail to return creatures to their native planes. In addition to taking damage, any extraplanar creature touched by a simurgh's tail must succeed at a DC 28 Will save or be affected as if by banishment. A creature that makes this save cannot be affected by the same simurgh's banishing swipe for the next 24 hours. The save DC is Charisma-based.
+  Glaring Ray (Su): >
+    A simurgh can blast a fiery ray of brilliant light from its eyes as a standard action to a range of 100 feet.
+  Radiant Feathers (Su): >
+    Once per day as a standard action, a simurgh can fan out its glimmering tail feathers and blast its foes with a 100-foot cone of radiant light from its tail. Aside from its size, this attack is identical to a prismatic spray (DC 28). The save is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

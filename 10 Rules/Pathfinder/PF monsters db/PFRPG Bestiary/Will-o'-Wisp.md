@@ -56,7 +56,13 @@ Skills: Acrobatics +21, Bluff +11, Escape Artist +21, Fly +31, Perception +17, S
 RacialMods: 
 Languages: Aklo, Common
 SQ: feed on fear
-SpecialAbilities: Feed on Fear (Su) Any time a will-o'-wisp is within 15 feet of a dying creature or creature subject to a fear effect, it gains fast healing 5. Immunity to Magic (Ex) Will-o'-wisps are immune to all spells and spell-like abilities that allow spell resistance, except magic missile and maze. Natural Invisibility (Ex) Will-o'-wisps have the ability to extinguish their natural glow as a move action, effectively becoming invisible, as per the spell.
+SpecialAbilities:
+  Feed on Fear (Su): >
+    Any time a will-o'-wisp is within 15 feet of a dying creature or creature subject to a fear effect, it gains fast healing 5.
+  Immunity to Magic (Ex): >
+    Will-o'-wisps are immune to all spells and spell-like abilities that allow spell resistance, except magic missile and maze.
+  Natural Invisibility (Ex): >
+    Will-o'-wisps have the ability to extinguish their natural glow as a move action, effectively becoming invisible, as per the spell.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

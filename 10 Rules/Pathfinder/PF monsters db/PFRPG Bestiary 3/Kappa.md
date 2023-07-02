@@ -56,7 +56,9 @@ Skills: Escape Artist +10, Heal +5, Sense Motive +5, Swim +9
 RacialMods: +4 Escape Artist
 Languages: Aquan, Common
 SQ: amphibious
-SpecialAbilities: Head Bowl (Su) The basin atop a kappa's head contains water from its home river or lake. The water is emptied only if the kappa willingly tips its head or a creature pinning the kappa forces it to do so (requiring a grapple check while pinned). If the water is emptied, the kappa becomes immobile and staggered. It can still take actions, but it cannot move from the spot on its own. If the emptied head bowl is refilled with water, the kappa recovers from this condition immediately. This replacement water doesn't have to be from the kappa's home, but the kappa refills its head bowl from there at its first opportunity.
+SpecialAbilities:
+  Head Bowl (Su): >
+    The basin atop a kappa's head contains water from its home river or lake. The water is emptied only if the kappa willingly tips its head or a creature pinning the kappa forces it to do so (requiring a grapple check while pinned). If the water is emptied, the kappa becomes immobile and staggered. It can still take actions, but it cannot move from the spot on its own. If the emptied head bowl is refilled with water, the kappa recovers from this condition immediately. This replacement water doesn't have to be from the kappa's home, but the kappa refills its head bowl from there at its first opportunity.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

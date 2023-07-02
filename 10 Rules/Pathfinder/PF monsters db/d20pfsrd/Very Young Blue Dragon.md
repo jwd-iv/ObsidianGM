@@ -56,7 +56,11 @@ Skills: Bluff +12, Fly +12, Intimidate +12, Knowledge (local) +12, Perception +1
 RacialMods: 
 Languages: Common, Draconic
 SQ: 
-SpecialAbilities: Desert Thirst (Su) A blue dragon can cast create water at will (CL 8). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 16) or be destroyed.  Sound Imitation (Ex) A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
+SpecialAbilities:
+  Desert Thirst (Su): >
+    A blue dragon can cast create water at will (CL 8). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 16) or be destroyed.
+  Sound Imitation (Ex): >
+    A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

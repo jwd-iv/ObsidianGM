@@ -56,7 +56,17 @@ Skills: Diplomacy +15, Fly +7, Intimidate +15, Knowledge (arcana) +15, Knowledge
 RacialMods: 
 Languages: Aquan, Common, Draconic
 SQ: change shape, water breathing
-SpecialAbilities: Change Shape (Su) A young or older sea dragon can assume any humanoid form three times per day as if using polymorph.  Sea Strider (Su) Three times per day as a standard action, an old or older sea dragon can move from one body of water to another as if using the teleport spell (self only).  Tidal Wave (Su) Once per day, a great wyrm sea dragon can create a tidal wave. This ability is the same as the bronze dragon's ability of the same name (Bestiary 104).  Torrent Breath (Su) Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon's cone breath weapon. This line deals bludgeoning damage.  Unfettered Swimmer (Su) A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon's swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.
+SpecialAbilities:
+  Change Shape (Su): >
+    A young or older sea dragon can assume any humanoid form three times per day as if using polymorph.
+  Sea Strider (Su): >
+    Three times per day as a standard action, an old or older sea dragon can move from one body of water to another as if using the teleport spell (self only).
+  Tidal Wave (Su): >
+    Once per day, a great wyrm sea dragon can create a tidal wave. This ability is the same as the bronze dragon's ability of the same name (Bestiary 104).
+  Torrent Breath (Su): >
+    Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon's cone breath weapon. This line deals bludgeoning damage.
+  Unfettered Swimmer (Su): >
+    A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon's swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.
 SpellsKnown: Spells Known (CL 1st; concentration +4)  1st (4/day)-color spray (DC 14), sleep (DC 14)  0 (at will)-acid splash, mage hand, ray of frost, resistance
 SpellsPrepared: 
 SpellDomains: 

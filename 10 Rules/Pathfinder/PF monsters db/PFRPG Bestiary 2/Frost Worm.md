@@ -56,7 +56,13 @@ Skills: Perception +17, Stealth +6 (+14 in ice and snow)
 RacialMods: +8 Stealth in ice and snow
 Languages: 
 SQ: cold
-SpecialAbilities: Cold (Su) A frost worm's body generates intense cold, allowing it to deal an additional 4d6 cold damage with its bite attack. Any creature that attacks a frost worm with an unarmed strike or a natural weapon takes 1d6 points of cold damage per successful hit. A creature that grapples or is grappled by a frost worm takes 4d6 points of cold damage per round the grapple is maintained.  Death Throes (Su) When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 cold damage and 8d6 piercing damage (DC 23 Reflex half ). The save DC is Constitution-based.  Trill (Su) As a full-round action, a frost worm can emit a strange trilling sound that affects all creatures within a 100-foot radius.  Creatures must succeed on a DC 18 Will save or be fascinated for as long as the worm continues to trill (the frost worm can maintain this trill by concentrating). Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm's trill for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Cold (Su): >
+    A frost worm's body generates intense cold, allowing it to deal an additional 4d6 cold damage with its bite attack. Any creature that attacks a frost worm with an unarmed strike or a natural weapon takes 1d6 points of cold damage per successful hit. A creature that grapples or is grappled by a frost worm takes 4d6 points of cold damage per round the grapple is maintained.
+  Death Throes (Su): >
+    When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 cold damage and 8d6 piercing damage (DC 23 Reflex half ). The save DC is Constitution-based.
+  Trill (Su): >
+    As a full-round action, a frost worm can emit a strange trilling sound that affects all creatures within a 100-foot radius.  Creatures must succeed on a DC 18 Will save or be fascinated for as long as the worm continues to trill (the frost worm can maintain this trill by concentrating). Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm's trill for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Bluff +5, Intimidate +7, Perception +1, Ride +5, Survival +3
 RacialMods: +2 Bluff, +2 Perception
 Languages: Common
 SQ: 
-SpecialAbilities: Resist Level Drain (Ex) A dhampir takes no penalties from energy draining effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
+SpecialAbilities:
+  Resist Level Drain (Ex): >
+    A dhampir takes no penalties from energy draining effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

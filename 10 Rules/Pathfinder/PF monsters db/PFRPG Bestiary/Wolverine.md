@@ -56,7 +56,9 @@ Skills: Climb +10, Perception +10
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Rage (Ex) A wolverine that takes damage in combat flies into a rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 to Strength, +4 to Constitution, and -2 to AC. The creature cannot end its rage voluntarily.
+SpecialAbilities:
+  Rage (Ex): >
+    A wolverine that takes damage in combat flies into a rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 to Strength, +4 to Constitution, and -2 to AC. The creature cannot end its rage voluntarily.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

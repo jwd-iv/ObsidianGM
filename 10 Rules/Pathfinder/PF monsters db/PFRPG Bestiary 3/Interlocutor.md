@@ -56,7 +56,11 @@ Skills: Heal +23, Intimidate +22, Knowledge (arcana) +9, Knowledge (local) +9, K
 RacialMods: 
 Languages: Common, Infernal
 SQ: 
-SpecialAbilities: Surgical Strikes (Ex) An interlocutor's claws threaten a critical hit on a roll of 19-20. On a successful critical hit, that claw deals 2d6 bleed damage rather than 1d6.  Unnerving Gaze (Ex) A creature that succumbs to an eremite's unnerving gaze becomes staggered for 1 round as it becomes convinced that it recognizes some of its own body parts entangled in the interlocutor's body.
+SpecialAbilities:
+  Surgical Strikes (Ex): >
+    An interlocutor's claws threaten a critical hit on a roll of 19-20. On a successful critical hit, that claw deals 2d6 bleed damage rather than 1d6.
+  Unnerving Gaze (Ex): >
+    A creature that succumbs to an eremite's unnerving gaze becomes staggered for 1 round as it becomes convinced that it recognizes some of its own body parts entangled in the interlocutor's body.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

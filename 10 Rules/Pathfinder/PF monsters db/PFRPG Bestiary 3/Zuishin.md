@@ -56,8 +56,11 @@ Skills: Fly +10, Heal +20, Intimidate +18, Knowledge (nature) +16, Perception +2
 RacialMods: 
 Languages: Common; telepathy 100 ft.
 SQ: merge with ward, ward (gate, doorway, or shrine)
-SpecialAbilities: >
-  Healing Arrow (Su) As a swift action, a zuishin can infuse an arrow it fires to carry any of the following effects: breath of life, cure light wounds, heal, neutralize poison, remove curse, remove disease, or restoration. Using one of these effects consumes a use of the same spell-like ability. The zuishin must make a touch attack to deliver the effect to the target-the target takes no damage from the arrow.  Holy Weapons (Su) Any weapon wielded by a zuishin is treated as if it had the holy special ability. A zuishin creates arrows out of nothing as part of its attacks with any bow it wields.
+SpecialAbilities:
+  Healing Arrow (Su): >
+    As a swift action, a zuishin can infuse an arrow it fires to carry any of the following effects: breath of life, cure light wounds, heal, neutralize poison, remove curse, remove disease, or restoration. Using one of these effects consumes a use of the same spell-like ability. The zuishin must make a touch attack to deliver the effect to the target-the target takes no damage from the arrow.
+  Holy Weapons (Su): >
+    Any weapon wielded by a zuishin is treated as if it had the holy special ability. A zuishin creates arrows out of nothing as part of its attacks with any bow it wields.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

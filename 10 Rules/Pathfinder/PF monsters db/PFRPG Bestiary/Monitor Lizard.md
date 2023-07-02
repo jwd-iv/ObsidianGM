@@ -56,7 +56,9 @@ Skills: Climb +7, Perception +8, Stealth +10 (+14 in undergrowth), Swim +11
 RacialMods: +4 Stealth (+8 in undergrowth)
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 14; onset 1 minute; frequency 1/hour for 6 hours; effect 1d2 Dexterity damage; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 14; onset 1 minute; frequency 1/hour for 6 hours; effect 1d2 Dexterity damage; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

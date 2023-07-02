@@ -56,7 +56,9 @@ Skills: Fly +10
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Darting Charge (Ex) A giant dragonfly is adept at swooping in to attack prey with a powerful bite and then, just as quickly, swooping back up out of reach. As a result, a giant dragonfly gains Flyby Attack as a bonus feat. In addition, if a giant dragonfly charges while flying, it receives a +4 bonus on CMB checks made to grapple foes.
+SpecialAbilities:
+  Darting Charge (Ex): >
+    A giant dragonfly is adept at swooping in to attack prey with a powerful bite and then, just as quickly, swooping back up out of reach. As a result, a giant dragonfly gains Flyby Attack as a bonus feat. In addition, if a giant dragonfly charges while flying, it receives a +4 bonus on CMB checks made to grapple foes.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

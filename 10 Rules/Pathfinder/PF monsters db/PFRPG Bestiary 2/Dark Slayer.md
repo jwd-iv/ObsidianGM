@@ -56,7 +56,13 @@ Skills: Climb +3, Perception +4, Spellcraft +7, Stealth +12, Use Magic Device +1
 RacialMods: +4 Climb, +4 Stealth, +4 Perception
 Languages: Dark Folk
 SQ: magical knack
-SpecialAbilities: Death Throes (Su) When a dark slayer is slain, its body implodes violently into nothingness, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d8 points of sonic damage and must make a DC 13 Fortitude save or be deafened for 2d4 rounds. The save DC is Constitution-based.  Magical Knack (Ex) Spellcraft and Use Magic Device are always class skills for dark slayers.  Soul Harvest (Su) When a dark slayer damages a flat-footed foe or a foe it is flanking with a melee touch spell or spell-like ability that deals hit point damage, the spell does an additional 1d6 points of damage and the dark slayer gains an equal amount of temporary hit points. These temporary hit points last for a maximum of 1 hour.
+SpecialAbilities:
+  Death Throes (Su): >
+    When a dark slayer is slain, its body implodes violently into nothingness, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d8 points of sonic damage and must make a DC 13 Fortitude save or be deafened for 2d4 rounds. The save DC is Constitution-based.
+  Magical Knack (Ex): >
+    Spellcraft and Use Magic Device are always class skills for dark slayers.
+  Soul Harvest (Su): >
+    When a dark slayer damages a flat-footed foe or a foe it is flanking with a melee touch spell or spell-like ability that deals hit point damage, the spell does an additional 1d6 points of damage and the dark slayer gains an equal amount of temporary hit points. These temporary hit points last for a maximum of 1 hour.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,13 @@ Skills: Appraise +17, Bluff +31, Diplomacy +31, Disguise +27, Fly +30, Intimidat
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: >
-  Devil Shaping (Su) Three times per day, a pit fiend can spend a minute to transform nearby lemures into other lesser devils. A pit fiend can transform one lemure for every Hit Die the pit fiend possesses. It can then reshape these lemures into a number of Hit Dice's worth of lesser devils (see page 71) equal to the number of lemures affected. For example, a typical 20 Hit Dice pit fiend could transform 20 lemures into two bone devils (10 HD each), or three bearded devils (6 HD each, leaving two lemures unchanged), or any other combination of lesser devils. Lemures to be reshaped must be within 50 feet of the pit fiend, becoming stationary and unable to move once the shaping begins. After a minute passes, the lemures reform into the shape of a new lesser devil ready to follow the orders of the pit fiend. Although pit fiends can, technically, elevate a mass of 20 lemures into a new pit fiend, most are hesitant to do so since they have no special control over a devil created in this manner. Disease (Su) Devil Chills: Bite-injury; save Fort DC 32; onset immediate; frequency 1/day; effect 1d4 Str damage; cure 3 consecutive saves. The save DC is Constitution-based. Poison (Ex) Bite-injury; save Fort DC 32; frequency 1/round for 10 rounds; effect 1d6 Con damage; cure 3 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Devil Shaping (Su): >
+    Three times per day, a pit fiend can spend a minute to transform nearby lemures into other lesser devils. A pit fiend can transform one lemure for every Hit Die the pit fiend possesses. It can then reshape these lemures into a number of Hit Dice's worth of lesser devils (see page 71) equal to the number of lemures affected. For example, a typical 20 Hit Dice pit fiend could transform 20 lemures into two bone devils (10 HD each), or three bearded devils (6 HD each, leaving two lemures unchanged), or any other combination of lesser devils. Lemures to be reshaped must be within 50 feet of the pit fiend, becoming stationary and unable to move once the shaping begins. After a minute passes, the lemures reform into the shape of a new lesser devil ready to follow the orders of the pit fiend. Although pit fiends can, technically, elevate a mass of 20 lemures into a new pit fiend, most are hesitant to do so since they have no special control over a devil created in this manner.
+  Disease (Su): >
+    Devil Chills: Bite-injury; save Fort DC 32; onset immediate; frequency 1/day; effect 1d4 Str damage; cure 3 consecutive saves. The save DC is Constitution-based.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 32; frequency 1/round for 10 rounds; effect 1d6 Con damage; cure 3 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

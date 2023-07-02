@@ -56,7 +56,9 @@ Skills: Perception +34, Stealth -13, Survival +18, Swim +30
 RacialMods: +10 Perception
 Languages: 
 SQ: amphibious  Language Aklo (cannot speak)
-SpecialAbilities: Water Jet (Su) A thalassic behemoth can blast water from its blowhole with surprising force and accuracy. This water jet has a range of 240 feet with no range increment. A target hit by the water jet is subject to the behemoth's push ability and must succeed at a DC 34 Fortitude save or be stunned  for 1d4+1 rounds. The save DC is Constitution-based.
+SpecialAbilities:
+  Water Jet (Su): >
+    A thalassic behemoth can blast water from its blowhole with surprising force and accuracy. This water jet has a range of 240 feet with no range increment. A target hit by the water jet is subject to the behemoth's push ability and must succeed at a DC 34 Fortitude save or be stunned  for 1d4+1 rounds. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

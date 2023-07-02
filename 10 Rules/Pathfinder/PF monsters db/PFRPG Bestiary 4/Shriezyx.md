@@ -56,7 +56,13 @@ Skills: Climb +15, Perception +12
 RacialMods: +4 Perception
 Languages: Aklo
 SQ: 
-SpecialAbilities: Fear of Fire (Ex) A shriezyx within 30 feet of a fire the size of a torch or larger becomes shaken as long as it remains within that range. If damaged by fire, a shriezyx must make a successful Will save (DC equals the amount of fire damage dealt) or become frightened for 1 round.  Poison (Ex) Bite-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save.  Slowing Toxin (Su) A shriezyx's web is coated with a supernatural toxin that numbs and deadens the nerves on contact. Any creature struck by a shriezyx's web must succeed at a DC 14 Fortitude save or become slowed (as the slow spell) for 1 minute. Each round, a victim may attempt a new DC 14 Fortitude save to end the effect early. This toxin fades quickly from spun webs-it can only affect targets on the round the web is spun. Existing webs remain sticky and tangled, but do not have this slowing effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Fear of Fire (Ex): >
+    A shriezyx within 30 feet of a fire the size of a torch or larger becomes shaken as long as it remains within that range. If damaged by fire, a shriezyx must make a successful Will save (DC equals the amount of fire damage dealt) or become frightened for 1 round.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save.
+  Slowing Toxin (Su): >
+    A shriezyx's web is coated with a supernatural toxin that numbs and deadens the nerves on contact. Any creature struck by a shriezyx's web must succeed at a DC 14 Fortitude save or become slowed (as the slow spell) for 1 minute. Each round, a victim may attempt a new DC 14 Fortitude save to end the effect early. This toxin fades quickly from spun webs-it can only affect targets on the round the web is spun. Existing webs remain sticky and tangled, but do not have this slowing effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

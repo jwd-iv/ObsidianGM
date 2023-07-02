@@ -56,7 +56,9 @@ Skills: Climb +11, Perception +4
 RacialMods: +4 Perception; uses Dexterity for Climb checks
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Swarm-injury; save Fort DC 11; frequency 1/ round for 2 rounds; effect 1d2 Str; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Swarm-injury; save Fort DC 11; frequency 1/ round for 2 rounds; effect 1d2 Str; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

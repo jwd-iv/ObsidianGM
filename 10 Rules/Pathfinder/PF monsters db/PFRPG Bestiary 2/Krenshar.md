@@ -56,7 +56,9 @@ Skills: Intimidate +1 (+5 to demoralize), Perception +5, Stealth +10
 RacialMods: +4 Intimidate to demoralize, +4 Stealth
 Languages: Sylvan (can't speak)
 SQ: 
-SpecialAbilities: Skullface (Su) As a standard action, a krenshar can pull the skin back from its face, revealing the musculature and bony structures of its skull. This counts as using Intimidate to demoralize an opponent, and is an extraordinary ability. The krenshar can emit a loud screech while peeling back its skin, causing potent fear in a single creature within 100 feet that can see the krenshar. The targeted creature must make a DC 12 Will save or become frightened (if the target has 6 or fewer Hit Dice) or shaken (if the target has more than 6 Hit Dice) for 1d4 rounds. A creature that successfully saves cannot be affected again by the same krenshar's skullface ability for 24 hours. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Skullface (Su): >
+    As a standard action, a krenshar can pull the skin back from its face, revealing the musculature and bony structures of its skull. This counts as using Intimidate to demoralize an opponent, and is an extraordinary ability. The krenshar can emit a loud screech while peeling back its skin, causing potent fear in a single creature within 100 feet that can see the krenshar. The targeted creature must make a DC 12 Will save or become frightened (if the target has 6 or fewer Hit Dice) or shaken (if the target has more than 6 Hit Dice) for 1d4 rounds. A creature that successfully saves cannot be affected again by the same krenshar's skullface ability for 24 hours. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

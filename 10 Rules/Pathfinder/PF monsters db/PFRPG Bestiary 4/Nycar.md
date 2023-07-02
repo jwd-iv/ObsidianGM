@@ -56,7 +56,11 @@ Skills: Escape Artist +13, Fly +11, Perception +5, Stealth +20, Swim +13
 RacialMods: +8 Escape Artist
 Languages: Draconic (can't speak)
 SQ: amphibious, elusive
-SpecialAbilities: Elusive (Ex) A nycar can make an Escape Artist check as a swift action.  Poison (Ex) Bite-injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d4 acid and 1 Con damage; cure 2 consecutive saves.
+SpecialAbilities:
+  Elusive (Ex): >
+    A nycar can make an Escape Artist check as a swift action.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d4 acid and 1 Con damage; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

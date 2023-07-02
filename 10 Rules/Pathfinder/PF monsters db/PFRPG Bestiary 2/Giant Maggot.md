@@ -56,7 +56,9 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Regurgitate (Ex) Once per day, a giant maggot can empty its putrid stomach upon one creature within 5 feet. The target must make a DC 13 Fortitude save or be sickened for 1 minute (or until the target spends a full-round action with at least a gallon of water to wash off the filth). The save DC is Constitution-based.
+SpecialAbilities:
+  Regurgitate (Ex): >
+    Once per day, a giant maggot can empty its putrid stomach upon one creature within 5 feet. The target must make a DC 13 Fortitude save or be sickened for 1 minute (or until the target spends a full-round action with at least a gallon of water to wash off the filth). The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

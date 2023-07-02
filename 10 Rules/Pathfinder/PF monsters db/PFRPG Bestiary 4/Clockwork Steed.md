@@ -56,7 +56,9 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: difficult to create, swift reactions, winding
-SpecialAbilities: Powerful Kick (Ex) As a standard action, the clockwork steed can make two hoof attacks with its rear hooves; if both hit, it can perform an awesome blow combat maneuver as the Awesome Blow feat. A clockwork steed gains a +4 racial bonus on this combat maneuver check.
+SpecialAbilities:
+  Powerful Kick (Ex): >
+    As a standard action, the clockwork steed can make two hoof attacks with its rear hooves; if both hit, it can perform an awesome blow combat maneuver as the Awesome Blow feat. A clockwork steed gains a +4 racial bonus on this combat maneuver check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

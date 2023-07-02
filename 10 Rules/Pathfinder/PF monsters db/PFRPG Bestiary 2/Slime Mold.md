@@ -56,8 +56,9 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: freeze
-SpecialAbilities: >
-  Disease (Ex) Fungal rot: Slam-contact; save Fortitude DC 16; onset 1 day; frequency 1/day; effect 1d2 Str damage and 1 Con damage and fatigue; cure 1 save. Any creature that touches a slime mold with an unarmed strike or a natural attack is also exposed to this foul disease. The save DC is Constitution-based.
+SpecialAbilities:
+  Disease (Ex): >
+    Fungal rot: Slam-contact; save Fortitude DC 16; onset 1 day; frequency 1/day; effect 1d2 Str damage and 1 Con damage and fatigue; cure 1 save. Any creature that touches a slime mold with an unarmed strike or a natural attack is also exposed to this foul disease. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

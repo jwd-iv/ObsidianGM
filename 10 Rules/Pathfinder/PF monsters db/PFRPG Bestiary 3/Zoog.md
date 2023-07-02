@@ -56,7 +56,11 @@ Skills: Acrobatics +12, Climb +16, Perception +5
 RacialMods: +6 Acrobatics, +6 Climb
 Languages: Aklo; speak with animals
 SQ: otherworldly touch
-SpecialAbilities: Otherworldly Touch (Ex) A zoog's natural attacks can strike incorporeal creatures as if they were ghost touch weapons.  Spell Sight (Su) A zoog's eyes radiate normal light in a 15-foot cone and increase the light level by one step for an additional 15 feet beyond that area. Any magic effect in this area glows faintly. This glow does not reveal the magic effect's school or strength. A zoog can quell or renew this light as a swift action.
+SpecialAbilities:
+  Otherworldly Touch (Ex): >
+    A zoog's natural attacks can strike incorporeal creatures as if they were ghost touch weapons.
+  Spell Sight (Su): >
+    A zoog's eyes radiate normal light in a 15-foot cone and increase the light level by one step for an additional 15 feet beyond that area. Any magic effect in this area glows faintly. This glow does not reveal the magic effect's school or strength. A zoog can quell or renew this light as a swift action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

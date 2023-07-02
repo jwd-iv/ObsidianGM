@@ -56,7 +56,9 @@ Skills: Climb +8, Perception +4, Stealth +0 (+12 in caves)
 RacialMods: +4 Perception, +12 Stealth in caves
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

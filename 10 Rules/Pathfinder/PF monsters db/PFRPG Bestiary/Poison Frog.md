@@ -56,7 +56,9 @@ Skills: Acrobatics +5 (+1 jumping), Perception +3, Stealth +13, Swim + 9
 RacialMods: +4 Acrobatics (+8 jumping), +4 Stealth; uses Dex to swim
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Injury; save Fort DC 10; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 1 save
+SpecialAbilities:
+  Poison (Ex): >
+    Injury; save Fort DC 10; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 1 save
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

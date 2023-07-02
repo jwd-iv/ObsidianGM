@@ -56,7 +56,11 @@ Skills: Climb +8, Knowledge (arcana) +8, Knowledge (planes) +8, Perception +9, S
 RacialMods: 
 Languages: D'ziriak; telepathy 100 ft.
 SQ: glow
-SpecialAbilities: Dazzling Burst (Su) Once per day, a d'ziriak can cause its body to flare with intense, colorful light as a swift action. Non-d'ziriaks within a 20-foot radius must make a DC 13 Fortitude save or be dazzled for 1 minute. After using this ability, the d'ziriak's brilliant glow is extinguished for 24 hours. This ability is a light effect, and creatures that cannot see are immune to it. The save DC is Constitution-based.  Glow (Ex) The colorful runes that decorate a d'ziriak's body create dim light in a 20- foot radius from its body.
+SpecialAbilities:
+  Dazzling Burst (Su): >
+    Once per day, a d'ziriak can cause its body to flare with intense, colorful light as a swift action. Non-d'ziriaks within a 20-foot radius must make a DC 13 Fortitude save or be dazzled for 1 minute. After using this ability, the d'ziriak's brilliant glow is extinguished for 24 hours. This ability is a light effect, and creatures that cannot see are immune to it. The save DC is Constitution-based.
+  Glow (Ex): >
+    The colorful runes that decorate a d'ziriak's body create dim light in a 20- foot radius from its body.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

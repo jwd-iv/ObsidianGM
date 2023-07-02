@@ -56,7 +56,9 @@ Skills: Bluff +6, Intimidate +13, Knowledge (arcana) +6, Knowledge (dungeoneerin
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Teleporting Burst (Su) Once per day, a crypt thing can teleport all creatures within 50 feet of it to randomly determined locations. The crypt thing can only affect creatures of which it is aware and to which it has line of sight. A successful DC 16 Will save negates this effect. An affected creature is teleported in a random direction (roll 1d8, with 1 indicating north and the other numbers indicating compass going clockwise) and a random distance (1d10 x 100 feet) away from the crypt thing; determine each creature's direction randomly. A teleported creature arrives in the closest open space to the determined destination, but must appear on a solid surface capable of supporting its weight. If there is no appropriate destination in that direction, the creature does not teleport at all. The save DC is Charisma-based.
+SpecialAbilities:
+  Teleporting Burst (Su): >
+    Once per day, a crypt thing can teleport all creatures within 50 feet of it to randomly determined locations. The crypt thing can only affect creatures of which it is aware and to which it has line of sight. A successful DC 16 Will save negates this effect. An affected creature is teleported in a random direction (roll 1d8, with 1 indicating north and the other numbers indicating compass going clockwise) and a random distance (1d10 x 100 feet) away from the crypt thing; determine each creature's direction randomly. A teleported creature arrives in the closest open space to the determined destination, but must appear on a solid surface capable of supporting its weight. If there is no appropriate destination in that direction, the creature does not teleport at all. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

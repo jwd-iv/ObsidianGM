@@ -56,7 +56,15 @@ Skills: Craft (any one) +24, Escape Artist +27, Fly +9, Heal +26, Knowledge (nat
 RacialMods: 
 Languages: Celestial, Draconic, Ignan, Infernal, Terran; truespeech
 SQ: heat stone, obsidian blade
-SpecialAbilities: Flaming Body (Su) A brijidine's body is molten rock covered in dancing flames. Anyone striking a brijidine with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a brijidine or is grappled by one takes 6d6 points of fire damage each round the grapple persists.  Heat Stone (Su) Whenever a brijidine uses her meld into stone, soften earth and stone, spike stones, stone shape, or wall of stone spell-like abilities, she can have the affected stone radiate intense heat for 1 minute. Any creature within 5 feet of the stone takes 1d6 fire damage per round.  Lava Blast (Su) A brijidine can hurl a glob of lava at a target as a standard action. This attack has a range increment of 30 feet.  Obsidian Blade (Ex) At will as a free action, a brijidine can create a blade of jagged volcanic glass that functions as a +1 flaming burst keen longsword. One round after it leaves the brijidine's grasp, the weapon decays into useless powder.
+SpecialAbilities:
+  Flaming Body (Su): >
+    A brijidine's body is molten rock covered in dancing flames. Anyone striking a brijidine with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a brijidine or is grappled by one takes 6d6 points of fire damage each round the grapple persists.
+  Heat Stone (Su): >
+    Whenever a brijidine uses her meld into stone, soften earth and stone, spike stones, stone shape, or wall of stone spell-like abilities, she can have the affected stone radiate intense heat for 1 minute. Any creature within 5 feet of the stone takes 1d6 fire damage per round.
+  Lava Blast (Su): >
+    A brijidine can hurl a glob of lava at a target as a standard action. This attack has a range increment of 30 feet.
+  Obsidian Blade (Ex): >
+    At will as a free action, a brijidine can create a blade of jagged volcanic glass that functions as a +1 flaming burst keen longsword. One round after it leaves the brijidine's grasp, the weapon decays into useless powder.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

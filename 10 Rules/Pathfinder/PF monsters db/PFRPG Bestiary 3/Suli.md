@@ -56,7 +56,9 @@ Skills: Diplomacy +3, Knowledge (geography) +4, Knowledge (nature) +4, Ride +0, 
 RacialMods: +2 Diplomacy, +2 Sense Motive
 Languages: Common plus one elemental language
 SQ: track +1, wild empathy +1
-SpecialAbilities: Elemental Assault (Su) Once per day as a swift action, a suli can call on the elemental power lurking in its veins to shroud its arms in acid, cold, electricity, or fire. Unarmed strikes with its elbows or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type. This lasts for 1 round per level. The suli can end the effects of its elemental power early as a free action.
+SpecialAbilities:
+  Elemental Assault (Su): >
+    Once per day as a swift action, a suli can call on the elemental power lurking in its veins to shroud its arms in acid, cold, electricity, or fire. Unarmed strikes with its elbows or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type. This lasts for 1 round per level. The suli can end the effects of its elemental power early as a free action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

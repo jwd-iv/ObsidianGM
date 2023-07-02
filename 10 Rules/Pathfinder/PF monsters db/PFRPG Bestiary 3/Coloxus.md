@@ -56,7 +56,11 @@ Skills: Acrobatics +28, Appraise +14, Bluff +29, Diplomacy +14, Disguise +19, Fl
 RacialMods: +8 Perception
 Languages: Abyssal, Celestial, Common, Infernal; telepathy 100 ft., tongues
 SQ: 
-SpecialAbilities: Droning Wings (Ex) Once per day, when it flutters its wings as a standard action, a coloxus can create a mesmerizing display of color and a sound-dampening buzzing drone. All creatures within 30 feet that can see the coloxus must make a DC 24 Will save or be slowed for up to 6 rounds. Each subsequent round, the coloxus must take a swift action to maintain the effect or the effect ceases at the end of its turn. Additionally, the sound creates a buffer against sonic energy, granting the fly demon immunity to sonic attacks or effects while it continues to drone. The save DC is Charisma-based.  Siphon (Su) Any creature bitten by a coloxus must make a DC 23 Fortitude save or take 1d4 points of Charisma damage. A coloxus heals itself of 5 points of damage for every point of Charisma damage it deals. The save DC is Constitution-based.
+SpecialAbilities:
+  Droning Wings (Ex): >
+    Once per day, when it flutters its wings as a standard action, a coloxus can create a mesmerizing display of color and a sound-dampening buzzing drone. All creatures within 30 feet that can see the coloxus must make a DC 24 Will save or be slowed for up to 6 rounds. Each subsequent round, the coloxus must take a swift action to maintain the effect or the effect ceases at the end of its turn. Additionally, the sound creates a buffer against sonic energy, granting the fly demon immunity to sonic attacks or effects while it continues to drone. The save DC is Charisma-based.
+  Siphon (Su): >
+    Any creature bitten by a coloxus must make a DC 23 Fortitude save or take 1d4 points of Charisma damage. A coloxus heals itself of 5 points of damage for every point of Charisma damage it deals. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

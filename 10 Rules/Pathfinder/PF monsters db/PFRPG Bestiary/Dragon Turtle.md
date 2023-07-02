@@ -56,7 +56,11 @@ Skills: Diplomacy +16, Intimidate +16, Perception +16, Sense Motive +16, Stealth
 RacialMods: +8 Stealth in water
 Languages: Aquan, Common, Draconic
 SQ: 
-SpecialAbilities: Breath Weapon (Su) Cloud of steam 20 feet high, 25 feet wide, and 50 feet long, once every 1d4 rounds, damage 12d6 fire, Reflex DC 20 half; effective both on the surface and underwater. The save DC is Constitution-based.  Capsize (Ex) A dragon turtle can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the boat captain's Profession (sailor) check, whichever is higher. For each size category larger than the dragon turtle's size, it takes a cumulative -10 penalty on this CMB check.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Cloud of steam 20 feet high, 25 feet wide, and 50 feet long, once every 1d4 rounds, damage 12d6 fire, Reflex DC 20 half; effective both on the surface and underwater. The save DC is Constitution-based.
+  Capsize (Ex): >
+    A dragon turtle can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the boat captain's Profession (sailor) check, whichever is higher. For each size category larger than the dragon turtle's size, it takes a cumulative -10 penalty on this CMB check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

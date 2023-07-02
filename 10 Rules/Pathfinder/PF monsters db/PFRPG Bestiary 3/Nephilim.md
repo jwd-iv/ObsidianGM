@@ -56,7 +56,13 @@ Skills: Bluff +12, Climb +13, Diplomacy +17, Intimidate +17, Knowledge (geograph
 RacialMods: 
 Languages: Celestial
 SQ: 
-SpecialAbilities: Crushing Blow (Ex) When a nephilim makes a successful critical hit with a melee attack, the target must make a DC 22 Fortitude save or take an  additional 3d6 points of nonlethal damage and be staggered for 1 round. The save DC is Strength-based.  Mortal Challenge (Su) When a nephilim spends a standard action to roar a battle challenge, all humanoids and monstrous humanoids within 100 feet of the nephilim must make a DC 18 Will save to avoid becoming frightened for 5d6 rounds. On a successful save, the creatures only become shaken for that time. Creatures with more HD than the nephilim become shaken if they fail their save, and suffer no effect if they succeed. A creature that succeeds at the save is immune to that nephilim's mortal challenge for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.  Soul of Sorrow (Ex) A nephilim gains a +2 bonus on Will saves against fear effects and any effect that causes sorrow.
+SpecialAbilities:
+  Crushing Blow (Ex): >
+    When a nephilim makes a successful critical hit with a melee attack, the target must make a DC 22 Fortitude save or take an  additional 3d6 points of nonlethal damage and be staggered for 1 round. The save DC is Strength-based.
+  Mortal Challenge (Su): >
+    When a nephilim spends a standard action to roar a battle challenge, all humanoids and monstrous humanoids within 100 feet of the nephilim must make a DC 18 Will save to avoid becoming frightened for 5d6 rounds. On a successful save, the creatures only become shaken for that time. Creatures with more HD than the nephilim become shaken if they fail their save, and suffer no effect if they succeed. A creature that succeeds at the save is immune to that nephilim's mortal challenge for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.
+  Soul of Sorrow (Ex): >
+    A nephilim gains a +2 bonus on Will saves against fear effects and any effect that causes sorrow.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

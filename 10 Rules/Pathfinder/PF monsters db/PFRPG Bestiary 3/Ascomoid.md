@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Spores-inhaled; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Str damage; cure 2 saves. The save DC is Constitution-based.  Spores (Ex) Once per round as a free action, an ascomoid can release a jet of deadly spores to a range of 30 feet. Upon impacting a solid surface, such as a wall or creature, the jet billows out into a cloud of spores that fills a 10-foot-radius spread. This cloud lasts for 1 round before dispersing. Any creature in the cloud must make a DC 16 Fortitude save or become nauseated as long as it remains in the cloud. Any creature that fails to save against this nausea is also exposed to the ascomoid's poison (see above). The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Spores-inhaled; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Str damage; cure 2 saves. The save DC is Constitution-based.
+  Spores (Ex): >
+    Once per round as a free action, an ascomoid can release a jet of deadly spores to a range of 30 feet. Upon impacting a solid surface, such as a wall or creature, the jet billows out into a cloud of spores that fills a 10-foot-radius spread. This cloud lasts for 1 round before dispersing. Any creature in the cloud must make a DC 16 Fortitude save or become nauseated as long as it remains in the cloud. Any creature that fails to save against this nausea is also exposed to the ascomoid's poison (see above). The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

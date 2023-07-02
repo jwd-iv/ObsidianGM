@@ -56,7 +56,11 @@ Skills: Fly +8, Intimidate +9, Perception +10, Stealth +6, Survival +10
 RacialMods: 
 Languages: Draconic
 SQ: speed surge
-SpecialAbilities: Fireball Breath (Su) A flame drake can, as a standard action, breathe a ball of flame that explodes like a fireball. This attack has a range of 180 feet and deals 5d6 points of fire damage (DC 16 Reflex half) to all creatures within a 20-foot-radius spread. Once a flame drake has used its fireball breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.  Speed Surge (Ex) Three times per day as a swift action, a flame drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.
+SpecialAbilities:
+  Fireball Breath (Su): >
+    A flame drake can, as a standard action, breathe a ball of flame that explodes like a fireball. This attack has a range of 180 feet and deals 5d6 points of fire damage (DC 16 Reflex half) to all creatures within a 20-foot-radius spread. Once a flame drake has used its fireball breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+  Speed Surge (Ex): >
+    Three times per day as a swift action, a flame drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

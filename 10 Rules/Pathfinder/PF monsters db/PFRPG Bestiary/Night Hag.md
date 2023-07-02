@@ -56,8 +56,13 @@ Skills: Bluff +16, Diplomacy +11, Disguise +16, Intimidate +14, Knowledge (arcan
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Infernal
 SQ: change shape (any humanoid, alter self ), heartstone
-SpecialAbilities: >
-  Disease (Su) Demon Fever: Bite-injury; save Fort DC 20; onset immediate; frequency 1/day; effect 1d6 Con damage (target must save a 2nd time or 1 point of the damage is drain instead); cure 2 consecutive saves. The save DC is Constitution-based.  Dream Haunting (Su) A night hag can visit the dreams of chaotic or evil targets by using a special periapt known as a heartstone to become ethereal, then hovering over the creature. Once it does so, it rides on the victim's back until dawn. The sleeper suffers tormenting dreams and takes 1 point of Constitution drain upon awakening. Only another ethereal being can stop these nocturnal intrusions by confronting and defeating the night hag.  Heartstone (Su) All night hags carry a heartstone-a special gemstone worth at least 1,800 gp that is worn as a periapt.  A heartstone's magic is fueled by the hag's spirit and proximity-once separated from its owner (or upon the hag's death), a heartstone retains its magic for only 24 hours before becoming a nonmagical gem again. The heartstone instantly cures any disease contracted by the holder. In addition, a heartstone provides a +2 resistance bonus on all saving throws (this bonus is included in the statistics block above). A night hag that loses this charm can no longer use etherealness or soul bind until it finds a replacement gemstone.
+SpecialAbilities:
+  Disease (Su): >
+    Demon Fever: Bite-injury; save Fort DC 20; onset immediate; frequency 1/day; effect 1d6 Con damage (target must save a 2nd time or 1 point of the damage is drain instead); cure 2 consecutive saves. The save DC is Constitution-based.
+  Dream Haunting (Su): >
+    A night hag can visit the dreams of chaotic or evil targets by using a special periapt known as a heartstone to become ethereal, then hovering over the creature. Once it does so, it rides on the victim's back until dawn. The sleeper suffers tormenting dreams and takes 1 point of Constitution drain upon awakening. Only another ethereal being can stop these nocturnal intrusions by confronting and defeating the night hag.
+  Heartstone (Su): >
+    All night hags carry a heartstone-a special gemstone worth at least 1,800 gp that is worn as a periapt.  A heartstone's magic is fueled by the hag's spirit and proximity-once separated from its owner (or upon the hag's death), a heartstone retains its magic for only 24 hours before becoming a nonmagical gem again. The heartstone instantly cures any disease contracted by the holder. In addition, a heartstone provides a +2 resistance bonus on all saving throws (this bonus is included in the statistics block above). A night hag that loses this charm can no longer use etherealness or soul bind until it finds a replacement gemstone.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

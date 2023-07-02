@@ -56,7 +56,11 @@ Skills: Climb +20, Perception +4
 RacialMods: +8 Climb, +4 Perception, +4 Stealth (+8 webs)
 Languages: 
 SQ: strong webs
-SpecialAbilities: Poison (Ex) Bite- injury; save Fort DC 17; frequency 1/ round for 6 rounds; effect 1d3 Con and staggered; cure 2 saves. Save DC is Con-based with a +2 racial bonus.  Strong Webs (Ex) A black widow's webs gain a +4 bonus to the DC to break or escape.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite- injury; save Fort DC 17; frequency 1/ round for 6 rounds; effect 1d3 Con and staggered; cure 2 saves. Save DC is Con-based with a +2 racial bonus.
+  Strong Webs (Ex): >
+    A black widow's webs gain a +4 bonus to the DC to break or escape.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

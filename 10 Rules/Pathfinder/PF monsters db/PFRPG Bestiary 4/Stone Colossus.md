@@ -56,7 +56,17 @@ Skills: Intimidate +11, Perception +11
 RacialMods: 
 Languages: Common
 SQ: alternate form, movable keep, mythic creation, mythic resilience, self repair, siege tower
-SpecialAbilities: Alternate Form (Ex) A stone colossus can take the form of a small keep as a full-round action. Its DR increases to 20/epic, and it gains fast healing 10. While in this form, the colossus cannot make melee attacks.  Movable Keep (Ex) In either form, a stone colossus holds up to 12 Medium creatures. Those on its ramparts gain cover. Any inside when it's destroyed take 3d10+20 points of damage.  Selective Antimagic Aura (Su) Spells with the earth or force descriptor or that transmute or manipulate earth or stone are unaffected by this field.  Self Repair (Ex) A stone colossus can expend one use of mythic power as a swift action to gain fast healing 20 for 5 rounds.  Siege Tower (Ex) A stone colossus's ballistae don't provoke attacks of opportunity, and they reload themselves at the start of the colossus's turn.
+SpecialAbilities:
+  Alternate Form (Ex): >
+    A stone colossus can take the form of a small keep as a full-round action. Its DR increases to 20/epic, and it gains fast healing 10. While in this form, the colossus cannot make melee attacks.
+  Movable Keep (Ex): >
+    In either form, a stone colossus holds up to 12 Medium creatures. Those on its ramparts gain cover. Any inside when it's destroyed take 3d10+20 points of damage.
+  Selective Antimagic Aura (Su): >
+    Spells with the earth or force descriptor or that transmute or manipulate earth or stone are unaffected by this field.
+  Self Repair (Ex): >
+    A stone colossus can expend one use of mythic power as a swift action to gain fast healing 20 for 5 rounds.
+  Siege Tower (Ex): >
+    A stone colossus's ballistae don't provoke attacks of opportunity, and they reload themselves at the start of the colossus's turn.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

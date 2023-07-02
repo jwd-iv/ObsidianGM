@@ -56,7 +56,9 @@ Skills: Acrobatics +9, Perception +11, Stealth +9
 RacialMods: 
 Languages: Common, Sylvan
 SQ: 
-SpecialAbilities: Remorse (Ex) Whenever a forlarren kills a living creature, it must make a DC 15 Will save to avoid becoming overwhelmed with remorse. If it fails this save, the forlarren becomes nauseated for 1d6 rounds. This is a mind-affecting effect.
+SpecialAbilities:
+  Remorse (Ex): >
+    Whenever a forlarren kills a living creature, it must make a DC 15 Will save to avoid becoming overwhelmed with remorse. If it fails this save, the forlarren becomes nauseated for 1d6 rounds. This is a mind-affecting effect.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

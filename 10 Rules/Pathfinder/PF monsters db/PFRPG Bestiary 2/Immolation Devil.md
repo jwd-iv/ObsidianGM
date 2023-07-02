@@ -56,7 +56,9 @@ Skills: Bluff +28, Diplomacy +28, Disable Device +26, Fly +31, Intimidate +28, K
 RacialMods: 
 Languages: Celestial, Common, Draconic,  Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Hellfire (Su) Any fire damage caused by an immolation devil's abilities and spells is half fire damage, half unholy damage.
+SpecialAbilities:
+  Hellfire (Su): >
+    Any fire damage caused by an immolation devil's abilities and spells is half fire damage, half unholy damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

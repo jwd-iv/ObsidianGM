@@ -56,7 +56,13 @@ Skills: Perception +14, Stealth +16
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Acid (Su) The acid of a tenebrous worm's bite affects only organic matter-as it dissolves creatures, it converts their flesh to shadow that swiftly fades away, leaving raw, jagged wounds behind. In dim light, acid damage dealt by a tenebrous worm's bite increases to 8d6 points of damage, while in darkness or bright light, the acid damage is reduced to 4d6.  Bristles (Su) Long bristles of shadowstuff extend from between the tenebrous worm's armor plates. These bristles react swiftly to attacks, stabbing at any creature that attempts to harm the worm. Each time a creature attacks a tenebrous worm, it must make a DC 18 Reflex save to avoid being punctured by several bristles. Each time a creature is punctured by these bristles, it takes 1d4 points of piercing damage and is exposed to the tenebrous worm's poison. A creature that grapples a tenebrous worm is automatically hurt by these bristles. The save DC to avoid the bristles is Dexterity-based.  Poison (Su) Bristles-injury; save Fort DC 20, frequency 1/ round for 6 rounds, effect paralysis for 1d4 rounds plus 1d2 Con (the duration of the paralysis is cumulative with each failed save), cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Acid (Su): >
+    The acid of a tenebrous worm's bite affects only organic matter-as it dissolves creatures, it converts their flesh to shadow that swiftly fades away, leaving raw, jagged wounds behind. In dim light, acid damage dealt by a tenebrous worm's bite increases to 8d6 points of damage, while in darkness or bright light, the acid damage is reduced to 4d6.
+  Bristles (Su): >
+    Long bristles of shadowstuff extend from between the tenebrous worm's armor plates. These bristles react swiftly to attacks, stabbing at any creature that attempts to harm the worm. Each time a creature attacks a tenebrous worm, it must make a DC 18 Reflex save to avoid being punctured by several bristles. Each time a creature is punctured by these bristles, it takes 1d4 points of piercing damage and is exposed to the tenebrous worm's poison. A creature that grapples a tenebrous worm is automatically hurt by these bristles. The save DC to avoid the bristles is Dexterity-based.
+  Poison (Su): >
+    Bristles-injury; save Fort DC 20, frequency 1/ round for 6 rounds, effect paralysis for 1d4 rounds plus 1d2 Con (the duration of the paralysis is cumulative with each failed save), cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

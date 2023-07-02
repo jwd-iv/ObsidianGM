@@ -56,7 +56,13 @@ Skills: Fly +10, Knowledge (history) +8, Perception +13, Stealth +18
 RacialMods: +4 Stealth
 Languages: Common, Sphinx
 SQ: runic tattoos
-SpecialAbilities: Paired Weapons (Ex) Because of its intense training wielding a scimitar in each hand, a maftet's off-hand scimitar is treated as a light weapon.  Raptor Dive (Ex) When airborne, a maftet can swoop down and strike at lightning speed. This is equivalent to an aerial charge, but it must move downward at least 10 feet and may dive at twice its normal flying speed. Doing so grants the maftet a +2 bonus on its attack rolls and allows it to make a full attack at the end of the raptor dive.  Runic Tattoos (Su) The tattoos scribed on a maftet's body power its spell-like abilities and glow when those abilities are used. A maftet can activate up to two of its spell-like abilities as a standard action. It may make a Fortitude save to resist the effects of an erase spell cast on its tattoos, but if it fails, it loses access to its spell-like abilities for 24 hours.
+SpecialAbilities:
+  Paired Weapons (Ex): >
+    Because of its intense training wielding a scimitar in each hand, a maftet's off-hand scimitar is treated as a light weapon.
+  Raptor Dive (Ex): >
+    When airborne, a maftet can swoop down and strike at lightning speed. This is equivalent to an aerial charge, but it must move downward at least 10 feet and may dive at twice its normal flying speed. Doing so grants the maftet a +2 bonus on its attack rolls and allows it to make a full attack at the end of the raptor dive.
+  Runic Tattoos (Su): >
+    The tattoos scribed on a maftet's body power its spell-like abilities and glow when those abilities are used. A maftet can activate up to two of its spell-like abilities as a standard action. It may make a Fortitude save to resist the effects of an erase spell cast on its tattoos, but if it fails, it loses access to its spell-like abilities for 24 hours.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

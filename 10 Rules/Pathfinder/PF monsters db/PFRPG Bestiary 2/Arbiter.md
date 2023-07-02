@@ -56,7 +56,13 @@ Skills: Diplomacy +7, Fly +12, Knowledge (planes) +5, Perception +5, Sense Motiv
 RacialMods: 
 Languages: truespeech
 SQ: locate inevitable
-SpecialAbilities: Constant Vigilance (Su) An arbiter gains a +4 bonus to recognize and disbelieve illusions created by creatures with the chaotic subtype or possessing the chaotic descriptor. Electrical Burst (Ex) An arbiter can release electrical energy from its body in a 10-foot-radius burst that deals 3d6 electricity damage (DC 13 Reflex half ). Immediately following such a burst, the arbiter becomes stunned for 24 hours. The save DC is Constitution-based. Locate Inevitable (Su) An arbiter can always sense the direction of the nearest non-arbiter inevitable on the plane, the better to help it report back to its superiors. It cannot sense the range to this inevitable.
+SpecialAbilities:
+  Constant Vigilance (Su): >
+    An arbiter gains a +4 bonus to recognize and disbelieve illusions created by creatures with the chaotic subtype or possessing the chaotic descriptor.
+  Electrical Burst (Ex): >
+    An arbiter can release electrical energy from its body in a 10-foot-radius burst that deals 3d6 electricity damage (DC 13 Reflex half ). Immediately following such a burst, the arbiter becomes stunned for 24 hours. The save DC is Constitution-based.
+  Locate Inevitable (Su): >
+    An arbiter can always sense the direction of the nearest non-arbiter inevitable on the plane, the better to help it report back to its superiors. It cannot sense the range to this inevitable.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Acrobatics +19 (+23 when jumping), Bluff +25, Climb +40, Escape Artist +
 RacialMods: 
 Languages: Common, Draconic, Elven, Goblin, Sylvan
 SQ: change shape, sound imitation, woodland stride
-SpecialAbilities: Change Shape (Su)An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph. Sound Imitation (Ex)A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener's Sense Motive check. Woodland Stride (Ex)As the druid ability of the same name.
+SpecialAbilities:
+  Change Shape (Su): >
+    An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph.
+  Sound Imitation (Ex): >
+    A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener's Sense Motive check.
+  Woodland Stride (Ex): >
+    As the druid ability of the same name.
 SpellsKnown: Spells Known (CL 9th; concentration +13) 4th (4/day)-charm monster (DC 17), solid fog 3rd (7/day)-lightning bolt (DC 16), wind wall, stinking cloud(DC 16) 2nd (7/day)-fog cloud, hideous laughter, invisibility, touch of idiocy 1st (7/day)-hypnotism (DC 14), obscuring mist, magic missile, ray of enfeeblement (DC 14), shield 0 (at-will)-daze (DC 13), detect magic, ghost sound, mage hand, mending, read magic, resistance, touch of fatigue
 SpellsPrepared: 
 SpellDomains: 

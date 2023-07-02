@@ -56,7 +56,15 @@ Skills: Fly +9, Perception +13, Stealth +17
 RacialMods: 
 Languages: 
 SQ: ghost touch
-SpecialAbilities: Create Spawn (Su) A humanoid creature killed by a festering spirit's Constitution damage becomes a festering spirit under the control of its killer in 1d4 days. Giving the corpse a proper burial (or cremation) prevents it from becoming a festering spirit.  Ghost Touch (Su) A festering spirit can manipulate corporeal objects that weigh up to 25 pounds as if those objects had the ghost touch special ability.  Slime (Su) A festering spirit's slime resembles the putrefying sludge of decaying corpses. Any creature that is hit by the spirit's incorporeal touch attack, passes through its square, or hits it with a natural weapon or unarmed strike must attempt a DC 16 Fortitude save. On a failure, the creature is nauseated for 1d4 rounds, and on a success the creature is staggered for 1 round. A festering spirit's slime persists on objects and creatures for 1d10 minutes but has no harmful effect after its initial contact. Creatures immune to poison or disease are immune to this ability. The save DC is Charisma-based.  Trample (Ex) The DC of a festering spirit's trample is Charisma-based.
+SpecialAbilities:
+  Create Spawn (Su): >
+    A humanoid creature killed by a festering spirit's Constitution damage becomes a festering spirit under the control of its killer in 1d4 days. Giving the corpse a proper burial (or cremation) prevents it from becoming a festering spirit.
+  Ghost Touch (Su): >
+    A festering spirit can manipulate corporeal objects that weigh up to 25 pounds as if those objects had the ghost touch special ability.
+  Slime (Su): >
+    A festering spirit's slime resembles the putrefying sludge of decaying corpses. Any creature that is hit by the spirit's incorporeal touch attack, passes through its square, or hits it with a natural weapon or unarmed strike must attempt a DC 16 Fortitude save. On a failure, the creature is nauseated for 1d4 rounds, and on a success the creature is staggered for 1 round. A festering spirit's slime persists on objects and creatures for 1d10 minutes but has no harmful effect after its initial contact. Creatures immune to poison or disease are immune to this ability. The save DC is Charisma-based.
+  Trample (Ex): >
+    The DC of a festering spirit's trample is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

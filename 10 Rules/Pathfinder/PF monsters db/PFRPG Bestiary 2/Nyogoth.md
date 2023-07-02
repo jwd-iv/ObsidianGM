@@ -56,7 +56,11 @@ Skills: Fly +22, Intimidate +16, Knowledge (planes) +12, Perception +17, Stealth
 RacialMods: 
 Languages: Abyssal; telepathy 100 ft.
 SQ: flight
-SpecialAbilities: Acid Spray (Su) A nyogoth's body is full of highly corrosive digestive fluid. Every time a nyogoth is damaged by a piercing or slashing weapon, all creatures adjacent to the nyogoth take 1d6 points of acid damage (2d6 acid damage if the attack is a critical hit).  Horrific Appearance (Su) Creatures that succumb to a nyogoth's horrific appearance become nauseated for 1d8 rounds.
+SpecialAbilities:
+  Acid Spray (Su): >
+    A nyogoth's body is full of highly corrosive digestive fluid. Every time a nyogoth is damaged by a piercing or slashing weapon, all creatures adjacent to the nyogoth take 1d6 points of acid damage (2d6 acid damage if the attack is a critical hit).
+  Horrific Appearance (Su): >
+    Creatures that succumb to a nyogoth's horrific appearance become nauseated for 1d8 rounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

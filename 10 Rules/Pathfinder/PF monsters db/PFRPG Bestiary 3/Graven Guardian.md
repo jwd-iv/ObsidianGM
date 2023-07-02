@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: guardian domains (Death, Repose)
-SpecialAbilities: Faith Bound (Su) A graven guardian cannot attack any creature that openly wears or displays the holy or unholy symbol of the deity to which the graven guardian is dedicated unless that creature first attacks the graven guardian.  Magic Weapon (Su) A graven guardian that carries its deity's favored weapon treats that weapon as a +1 weapon as long as it is wielded by the guardian. If the weapon is a melee weapon, it gains the keen weapon special ability (even if the weapon is a bludgeoning weapon). If it is a thrown weapon, it gains the returning weapon special ability. If it is a ranged weapon, it gains the seeking weapon special ability, and generates new ammunition with each attack (this ammunition is destroyed whether or not it hits).
+SpecialAbilities:
+  Faith Bound (Su): >
+    A graven guardian cannot attack any creature that openly wears or displays the holy or unholy symbol of the deity to which the graven guardian is dedicated unless that creature first attacks the graven guardian.
+  Magic Weapon (Su): >
+    A graven guardian that carries its deity's favored weapon treats that weapon as a +1 weapon as long as it is wielded by the guardian. If the weapon is a melee weapon, it gains the keen weapon special ability (even if the weapon is a bludgeoning weapon). If it is a thrown weapon, it gains the returning weapon special ability. If it is a ranged weapon, it gains the seeking weapon special ability, and generates new ammunition with each attack (this ammunition is destroyed whether or not it hits).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Fly +12, Perception +15
 RacialMods: +4 Perception when using blindsense
 Languages: 
 SQ: swarm traits
-SpecialAbilities: Wounding (Ex) Any living creature damaged by a bat swarm continues to bleed, losing 1 hit point per round thereafter. Multiple wounds do not result in cumulative bleeding loss. The bleeding can be stopped by a DC 10 Heal check or the application of a cure spell or some other healing magic.
+SpecialAbilities:
+  Wounding (Ex): >
+    Any living creature damaged by a bat swarm continues to bleed, losing 1 hit point per round thereafter. Multiple wounds do not result in cumulative bleeding loss. The bleeding can be stopped by a DC 10 Heal check or the application of a cure spell or some other healing magic.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

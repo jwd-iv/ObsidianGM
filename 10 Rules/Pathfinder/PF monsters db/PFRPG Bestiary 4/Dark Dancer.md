@@ -56,7 +56,13 @@ Skills: Climb +4, Perception +4, Perform (dance) +2, Sleight of Hand +5, Stealth
 RacialMods: +4 Climb, +4 Perception, +4 Stealth
 Languages: Dark Folk
 SQ: poison use
-SpecialAbilities: Bardic Performance (Su) A dark dancer can use its dancing to help its allies. A dark dancer can use bardic performance as a 2nd-level bard, but only for distraction and inspire courage effects.  Dark Curse (Su) As a standard action, a dark dancer can make a touch attack against a foe and curse it. The foe must succeed at a DC 12 Will saving throw to resist the effects. Creatures that fail the saving throw take a -2 penalty on all Dexterity and Charisma-based skill checks. This curse is permanent, but the victim of this curse can attempt a new saving throw each day.  Death Throes (Su) When a dark dancer is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst must succeed at a DC 13 Fortitude save or be dazzled for 1d6 rounds. Other dark folk within 20 feet must succeed at a DC 13 Will save or be shaken for 1 round. The save DC is Constitution-based.
+SpecialAbilities:
+  Bardic Performance (Su): >
+    A dark dancer can use its dancing to help its allies. A dark dancer can use bardic performance as a 2nd-level bard, but only for distraction and inspire courage effects.
+  Dark Curse (Su): >
+    As a standard action, a dark dancer can make a touch attack against a foe and curse it. The foe must succeed at a DC 12 Will saving throw to resist the effects. Creatures that fail the saving throw take a -2 penalty on all Dexterity and Charisma-based skill checks. This curse is permanent, but the victim of this curse can attempt a new saving throw each day.
+  Death Throes (Su): >
+    When a dark dancer is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst must succeed at a DC 13 Fortitude save or be dazzled for 1d6 rounds. Other dark folk within 20 feet must succeed at a DC 13 Will save or be shaken for 1 round. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

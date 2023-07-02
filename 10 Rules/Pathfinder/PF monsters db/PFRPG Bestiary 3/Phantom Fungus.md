@@ -56,7 +56,9 @@ Skills: Climb +10, Perception +10, Stealth +7
 RacialMods: +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Phantom Flesh (Su) As a move action, a phantom fungus can turn invisible as if using greater invisibility (caster level 4th). A moment after it attacks with invisibility, the creature appears briefly as a semi-transparent version of its normal self. This allows any viewer with line of sight to the phantom fungus to pinpoint its location at the time of the attack (though if the creature moves after it attacks, opponents have to pinpoint it again). An opponent can ready an action to strike at the fungus when it momentarily appears, in which case the creature only has concealment instead of invisibility (20% miss chance). The fungus can turn completely visible as a move action, though it normally remains invisible all the time. If killed while invisible, it becomes visible 1d4 minutes later.
+SpecialAbilities:
+  Phantom Flesh (Su): >
+    As a move action, a phantom fungus can turn invisible as if using greater invisibility (caster level 4th). A moment after it attacks with invisibility, the creature appears briefly as a semi-transparent version of its normal self. This allows any viewer with line of sight to the phantom fungus to pinpoint its location at the time of the attack (though if the creature moves after it attacks, opponents have to pinpoint it again). An opponent can ready an action to strike at the fungus when it momentarily appears, in which case the creature only has concealment instead of invisibility (20% miss chance). The fungus can turn completely visible as a move action, though it normally remains invisible all the time. If killed while invisible, it becomes visible 1d4 minutes later.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

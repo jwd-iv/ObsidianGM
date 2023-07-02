@@ -56,7 +56,9 @@ Skills: Fly +3, Perception +16
 RacialMods: +4 Perception
 Languages: Sphinx
 SQ: 
-SpecialAbilities: Shriek (Su) The shrill shriek of a hieracosphinx deafens non-sphinxes within a 60-foot-radius spread for 2d4 rounds (DC 16 Fortitude negates). Once a creature successfully saves against this effect, it is immune to the hieracosphinx's shriek for 24 hours. Using this ability is a standard action. The save DC is Constitution-based.
+SpecialAbilities:
+  Shriek (Su): >
+    The shrill shriek of a hieracosphinx deafens non-sphinxes within a 60-foot-radius spread for 2d4 rounds (DC 16 Fortitude negates). Once a creature successfully saves against this effect, it is immune to the hieracosphinx's shriek for 24 hours. Using this ability is a standard action. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

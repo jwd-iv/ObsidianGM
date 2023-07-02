@@ -56,7 +56,13 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Fluid Form (Ex) A mithral golem's body can take on a form like liquid silver as a swift action. While in this form, the mithral golem's reach increases to 30 feet and its DR becomes 15/bludgeoning and adamantine. A mithral golem in this form can also move through any crack or hole in a wall or door, no matter how small, without impeding its movement. A mithral golem can maintain this form for up to 10 rounds per day, but these rounds do not need to be consecutive. Reverting to its normal form is a free action.  Immunity to Magic (Ex) A mithral golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a mithral golem, as noted below.  • A slow spell cast on the golem causes it to lose its quickness ability for 1d6 rounds.  • A haste spell heals the golem of 1d6 points of damage per level of the caster (maximum 10d6).  • Hitting a mithral golem in fluid form with any spell of 6th level or higher with the cold descriptor causes the golem to take 10d6 points of damage (no save) and lose the use of its fluid form ability for 24 hours.  Quickness (Ex) A mithral golem is incredibly quick. It can take an extra move action during its turn each round. This means it can move up to its speed and still make a full attack.
+SpecialAbilities:
+  Fluid Form (Ex): >
+    A mithral golem's body can take on a form like liquid silver as a swift action. While in this form, the mithral golem's reach increases to 30 feet and its DR becomes 15/bludgeoning and adamantine. A mithral golem in this form can also move through any crack or hole in a wall or door, no matter how small, without impeding its movement. A mithral golem can maintain this form for up to 10 rounds per day, but these rounds do not need to be consecutive. Reverting to its normal form is a free action.
+  Immunity to Magic (Ex): >
+    A mithral golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a mithral golem, as noted below.  • A slow spell cast on the golem causes it to lose its quickness ability for 1d6 rounds.  • A haste spell heals the golem of 1d6 points of damage per level of the caster (maximum 10d6).  • Hitting a mithral golem in fluid form with any spell of 6th level or higher with the cold descriptor causes the golem to take 10d6 points of damage (no save) and lose the use of its fluid form ability for 24 hours.
+  Quickness (Ex): >
+    A mithral golem is incredibly quick. It can take an extra move action during its turn each round. This means it can move up to its speed and still make a full attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

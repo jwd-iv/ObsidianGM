@@ -56,7 +56,9 @@ Skills: Bluff +9, Fly +13, Intimidate +9, Knowledge (local) +9, Perception +9, S
 RacialMods: 
 Languages: Draconic
 SQ: 
-SpecialAbilities: Desert Thirst (Su) A blue dragon can cast create water at will (CL 6). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 14) or be destroyed.
+SpecialAbilities:
+  Desert Thirst (Su): >
+    A blue dragon can cast create water at will (CL 6). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 14) or be destroyed.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

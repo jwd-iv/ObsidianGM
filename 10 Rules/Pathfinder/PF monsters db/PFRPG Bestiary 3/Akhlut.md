@@ -56,7 +56,15 @@ Skills: Acrobatics +2 (+6 when jumping), Perception +14, Stealth +16 (+28 in sno
 RacialMods: +4 Perception, +12 Stealth in snow
 Languages: 
 SQ: change shape (orca; beast shape III), hold breath, snow walking Languages Aquan (cannot speak)
-SpecialAbilities: Savage Bite (Ex) An akhlut's bite threatens a critical hit on a roll of 18-20.  Shore Storming (Ex) An akhlut automatically transforms into an orca whenever it is fully immersed in water, losing its legs and fur.  Likewise, when an akhlut emerges from the water, it automatically transforms into its wolf-orca hybrid form.  If an akhlut moves from water to land (or vice versa) on the round before initiating combat, it gains a +8 bonus on its initiative check. This initial attack resolves as a charge.  An akhlut has the same statistics in both forms.  Snow Vision (Ex) An akhlut can see perfectly well in snowy conditions, and does not take any penalties on Perception checks while in snowy weather.  Snow Walking (Su) An akhlut can walk on snow or thin sheets of ice as though affected by water walk. It only leaves a trail on such surfaces when it wants to.
+SpecialAbilities:
+  Savage Bite (Ex): >
+    An akhlut's bite threatens a critical hit on a roll of 18-20.
+  Shore Storming (Ex): >
+    An akhlut automatically transforms into an orca whenever it is fully immersed in water, losing its legs and fur.  Likewise, when an akhlut emerges from the water, it automatically transforms into its wolf-orca hybrid form.  If an akhlut moves from water to land (or vice versa) on the round before initiating combat, it gains a +8 bonus on its initiative check. This initial attack resolves as a charge.  An akhlut has the same statistics in both forms.
+  Snow Vision (Ex): >
+    An akhlut can see perfectly well in snowy conditions, and does not take any penalties on Perception checks while in snowy weather.
+  Snow Walking (Su): >
+    An akhlut can walk on snow or thin sheets of ice as though affected by water walk. It only leaves a trail on such surfaces when it wants to.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Craft (traps) +17, Disable Device +10, Fly +20, Knowledge (engineering) 
 RacialMods: +8 Craft (traps)
 Languages: Aklo, Common, Undercommon
 SQ: create trap, resetter
-SpecialAbilities: Create Trap (Su) Once per week, a gearghost can create a trap of CR 4 or lower regardless of cost, materials, or skill checks. Two or more gearghosts working together on a trap can increase the maximum CR by 2 for each additional gearghost working in concert. For example, three gearghosts working together can create any CR 8 or lower trap in a week. Example traps can be found on page 420 of Pathfinder RPG Core Rulebook.  Rejuvenation (Su) A destroyed gearghost reforms in 2d6 days. To permanently destroy a gearghost, holy water must be poured over its remains within the area of a hallow spell. To complete the destruction, every trap within 100 feet of the remains must be successfully disabled or destroyed before the gearghost is completely destroyed.  Resetter (Ex) A gearghost can reset traps and keep them repaired with supernatural efficiency. A gearghost can reset a trap with a repair or manual reset as a move action. If a trap has an automatic reset that is longer than immediate, a gear ghost can reset that trap as a free action.
+SpecialAbilities:
+  Create Trap (Su): >
+    Once per week, a gearghost can create a trap of CR 4 or lower regardless of cost, materials, or skill checks. Two or more gearghosts working together on a trap can increase the maximum CR by 2 for each additional gearghost working in concert. For example, three gearghosts working together can create any CR 8 or lower trap in a week. Example traps can be found on page 420 of Pathfinder RPG Core Rulebook.
+  Rejuvenation (Su): >
+    A destroyed gearghost reforms in 2d6 days. To permanently destroy a gearghost, holy water must be poured over its remains within the area of a hallow spell. To complete the destruction, every trap within 100 feet of the remains must be successfully disabled or destroyed before the gearghost is completely destroyed.
+  Resetter (Ex): >
+    A gearghost can reset traps and keep them repaired with supernatural efficiency. A gearghost can reset a trap with a repair or manual reset as a move action. If a trap has an automatic reset that is longer than immediate, a gear ghost can reset that trap as a free action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

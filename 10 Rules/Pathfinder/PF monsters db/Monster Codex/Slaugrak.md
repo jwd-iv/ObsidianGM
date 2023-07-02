@@ -56,7 +56,11 @@ Skills: Climb +12, Intimidate +13, Stealth +8 (+12 in rocky areas), Swim +12
 RacialMods: +4 Stealth in rocky areas
 Languages: Abyssal
 SQ: 
-SpecialAbilities: Corrupting Bite (Su) A slaugrak's caustic saliva is infused with the corrupting power of the Abyss. Any living creature that takes acid damage from a slaugrak's bite must succeed at a DC 17 Fortitude save or take 2 points of Constitution bleed damage as its blood boils and its internal organs liquefy. Creatures without a discernible anatomy (blood and internal organs) are immune to the Constitution bleed. The save DC is Constitution-based.  Vicious Jaws (Ex) A slaugrak's bite attack threatens a critical hit on a roll of 19-20.
+SpecialAbilities:
+  Corrupting Bite (Su): >
+    A slaugrak's caustic saliva is infused with the corrupting power of the Abyss. Any living creature that takes acid damage from a slaugrak's bite must succeed at a DC 17 Fortitude save or take 2 points of Constitution bleed damage as its blood boils and its internal organs liquefy. Creatures without a discernible anatomy (blood and internal organs) are immune to the Constitution bleed. The save DC is Constitution-based.
+  Vicious Jaws (Ex): >
+    A slaugrak's bite attack threatens a critical hit on a roll of 19-20.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

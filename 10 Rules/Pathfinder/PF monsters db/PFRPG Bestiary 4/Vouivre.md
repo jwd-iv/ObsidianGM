@@ -56,7 +56,11 @@ Skills: Bluff +20, Fly +6, Intimidate +15, Perception +17, Sense Motive +10, Ste
 RacialMods: 
 Languages: Common, Sylvan
 SQ: amphibious, snake empathy
-SpecialAbilities: Snake Empathy (Ex) A vouivre can communicate and empathize with snakes. It can use Diplomacy to alter such an animal's attitude, and when doing so gains a +4 racial bonus on the check.  Unwavering Mind (Ex) A vouivre gains a +4 bonus on saving throws to resist mind-affecting effects.
+SpecialAbilities:
+  Snake Empathy (Ex): >
+    A vouivre can communicate and empathize with snakes. It can use Diplomacy to alter such an animal's attitude, and when doing so gains a +4 racial bonus on the check.
+  Unwavering Mind (Ex): >
+    A vouivre gains a +4 bonus on saving throws to resist mind-affecting effects.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

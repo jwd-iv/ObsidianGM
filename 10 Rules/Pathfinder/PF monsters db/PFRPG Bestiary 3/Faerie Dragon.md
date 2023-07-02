@@ -56,7 +56,9 @@ Skills: Acrobatics +8 (+0 when jumping), Bluff +9, Diplomacy +9, Fly +23, Percep
 RacialMods: 
 Languages: Common, Draconic, Elven, Sylvan; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Breath Weapon (Su) 5-foot cone, euphoria for 1d6 rounds, DC 12 Fortitude negates. Creatures affected by euphoria are staggered, sickened, and immune to fear effects for the duration. A faerie dragon can use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.  Spells A faerie dragon casts spells as a 3rd-level sorcerer.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    5-foot cone, euphoria for 1d6 rounds, DC 12 Fortitude negates. Creatures affected by euphoria are staggered, sickened, and immune to fear effects for the duration. A faerie dragon can use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.  Spells A faerie dragon casts spells as a 3rd-level sorcerer.
 SpellsKnown: Spells Known (CL 3rd; concentration +6)   1st (6/day)-grease (DC 14), silent image (DC 14), sleep (DC 14)   0 (at will)-dancing lights, flare (DC 13), ghost sound (DC 13), mage hand, open/close
 SpellsPrepared: 
 SpellDomains: 

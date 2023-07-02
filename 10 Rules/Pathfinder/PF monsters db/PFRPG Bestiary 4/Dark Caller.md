@@ -56,7 +56,11 @@ Skills: Climb +6, Intimidate +5, Knowledge (arcana) +9, Knowledge (planes) +9, P
 RacialMods: +4 Climb, +4 Perception, +4 Stealth
 Languages: Dark Folk, Undercommon
 SQ: poison use, shadow ritual
-SpecialAbilities: Death Throes (Su) When a dark caller is slain, its body bursts into shreds of blisteringly cold shadows, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d4 points of Strength damage and are staggered for 1 round. A successful DC 16 Fortitude save halves the Strength damage and negates the staggered effect. This ability damage is temporary and an affected creature's Strength returns to normal after 3d10 minutes. The save DC is Constitution-based.  Shadow Ritual (Su) Three dark callers can collaborate on a ritual that calls an owb (see page 210) to their service. The ritual takes 1 hour to complete. If the dark callers involved are distracted in any way, the attempt is ruined and the ritual must begin anew. Once called to their service, the owb serves them for 24 hours. Though the owb is free-willed, it follows orders to the best of its ability.
+SpecialAbilities:
+  Death Throes (Su): >
+    When a dark caller is slain, its body bursts into shreds of blisteringly cold shadows, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d4 points of Strength damage and are staggered for 1 round. A successful DC 16 Fortitude save halves the Strength damage and negates the staggered effect. This ability damage is temporary and an affected creature's Strength returns to normal after 3d10 minutes. The save DC is Constitution-based.
+  Shadow Ritual (Su): >
+    Three dark callers can collaborate on a ritual that calls an owb (see page 210) to their service. The ritual takes 1 hour to complete. If the dark callers involved are distracted in any way, the attempt is ruined and the ritual must begin anew. Once called to their service, the owb serves them for 24 hours. Though the owb is free-willed, it follows orders to the best of its ability.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

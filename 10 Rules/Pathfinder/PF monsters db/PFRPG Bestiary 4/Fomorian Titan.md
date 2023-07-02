@@ -56,7 +56,11 @@ Skills: Acrobatics +14, Bluff +29, Craft (any one) +30, Diplomacy +20, Heal +23,
 RacialMods: 
 Languages: Abyssal, Celestial, Common; telepathy 300 ft.
 SQ: 
-SpecialAbilities: Divine Resistance (Su) A fomorian titan gains a +4 deflection bonus to Armor Class and a +4 bonus on saving throws against attacks and effects from deities, outsiders who serve a deity, and divine spellcasters.  Divine Spell Perception (Su) A fomorian titan automatically notices divine spellcasting within 60 feet. It automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.
+SpecialAbilities:
+  Divine Resistance (Su): >
+    A fomorian titan gains a +4 deflection bonus to Armor Class and a +4 bonus on saving throws against attacks and effects from deities, outsiders who serve a deity, and divine spellcasters.
+  Divine Spell Perception (Su): >
+    A fomorian titan automatically notices divine spellcasting within 60 feet. It automatically pinpoints the location of the caster, identifies the spell being cast, and knows the intended target or area of the spell.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

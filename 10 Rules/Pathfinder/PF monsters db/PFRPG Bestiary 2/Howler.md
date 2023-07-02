@@ -56,8 +56,13 @@ Skills: Acrobatics +10 (+22 jump), Climb +12, Perception +13, Stealth +6
 RacialMods: 
 Languages: Abyssal (cannot speak)
 SQ: 
-SpecialAbilities: >
-  Howl (Su) A howler's constant howling is a grating, exhausting baying that can drive listeners insane. All beings other than outsiders within 120 feet of a howling howler must succeed on a DC 12 Will save or become cursed by the creature's howl. Once a creature becomes cursed in this way, she takes no additional penalty for being exposed to additional howlers' howls until the current howler curse is lifted. This is a sonic mind-affecting effect. The save DC is Charisma-based.  Howler Howl: Curse-howl; save Will DC 12 negates; frequency 1/hour; effect 1 Wis damage; cure 1 save.  Pain (Ex) Whenever a creature takes damage from a howler's quill attack or its quill defense, that creature must make a successful DC 14 Reflex save or one quill breaks off in its flesh, causing the target to become sickened until all embedded quills are removed. Removing one quill requires a DC 15 Heal check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d4+1 points of damage to the victim. The save DC is Dexterity-based.  Quill Defense (Ex) Any creature that strikes a howler with a non-reach melee weapon, unarmed strike, or natural weapon takes 1d4+1 points of piercing damage from the howler's quills and suffers from the howler's pain attack.
+SpecialAbilities:
+  Howl (Su): >
+    A howler's constant howling is a grating, exhausting baying that can drive listeners insane. All beings other than outsiders within 120 feet of a howling howler must succeed on a DC 12 Will save or become cursed by the creature's howl. Once a creature becomes cursed in this way, she takes no additional penalty for being exposed to additional howlers' howls until the current howler curse is lifted. This is a sonic mind-affecting effect. The save DC is Charisma-based.  Howler Howl: Curse-howl; save Will DC 12 negates; frequency 1/hour; effect 1 Wis damage; cure 1 save.
+  Pain (Ex): >
+    Whenever a creature takes damage from a howler's quill attack or its quill defense, that creature must make a successful DC 14 Reflex save or one quill breaks off in its flesh, causing the target to become sickened until all embedded quills are removed. Removing one quill requires a DC 15 Heal check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d4+1 points of damage to the victim. The save DC is Dexterity-based.
+  Quill Defense (Ex): >
+    Any creature that strikes a howler with a non-reach melee weapon, unarmed strike, or natural weapon takes 1d4+1 points of piercing damage from the howler's quills and suffers from the howler's pain attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

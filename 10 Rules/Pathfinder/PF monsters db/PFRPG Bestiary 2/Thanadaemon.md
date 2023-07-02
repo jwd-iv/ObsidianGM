@@ -56,7 +56,13 @@ Skills: Acrobatics +21, Bluff +22, Diplomacy +22, Intimidate +22, Knowledge (pla
 RacialMods: 
 Languages: Abyssal, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Draining Weapon (Su) A thanadaemon's energy drain attack functions through any melee weapon it wields.  Fear Gaze (Su) Cower in fear for 1d6 rounds, 30 feet, Will DC 21 negates. This is a mind-affecting fear effect. The save DC is Charisma-based.  Soul Crush (Su) A thanadaemon can crush a soul gem (see cacodaemon) as a standard action to gain fast healing 15 for 15 rounds (this is a standard action).  This action condemns the crushed soul to Abaddon- resurrecting this victim requires a DC 28 caster level check.
+SpecialAbilities:
+  Draining Weapon (Su): >
+    A thanadaemon's energy drain attack functions through any melee weapon it wields.
+  Fear Gaze (Su): >
+    Cower in fear for 1d6 rounds, 30 feet, Will DC 21 negates. This is a mind-affecting fear effect. The save DC is Charisma-based.
+  Soul Crush (Su): >
+    A thanadaemon can crush a soul gem (see cacodaemon) as a standard action to gain fast healing 15 for 15 rounds (this is a standard action).  This action condemns the crushed soul to Abaddon- resurrecting this victim requires a DC 28 caster level check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

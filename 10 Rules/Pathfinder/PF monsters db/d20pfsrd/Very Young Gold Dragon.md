@@ -56,7 +56,9 @@ Skills: Diplomacy +16, Fly +14, Heal +16, Knowledge (local) +16, Knowledge (reli
 RacialMods: +8 Swim
 Languages: Common, Draconic, Elven, Halfling
 SQ: change shape 3/day (any animal or humanoid; polymorph)
-SpecialAbilities: Weakening Breath (Su) Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
+SpecialAbilities:
+  Weakening Breath (Su): >
+    Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Acrobatics +2 (+20 jumping), Climb +11
 RacialMods: +18 Acrobatics while jumping
 Languages: 
 SQ: leap
-SpecialAbilities: Leap (Ex) A giant locust can take 10 on Acrobatics checks to jump even if distracted or in danger.  Spit (Ex) A giant locust can spit a brown jet of acid and partially digested food up to 30 feet with no range increment.  Voracious (Ex) A giant locust's bite attack deals double damage to creatures with the plant subtype and to objects made of paper, wood, or other plant materials.
+SpecialAbilities:
+  Leap (Ex): >
+    A giant locust can take 10 on Acrobatics checks to jump even if distracted or in danger.
+  Spit (Ex): >
+    A giant locust can spit a brown jet of acid and partially digested food up to 30 feet with no range increment.
+  Voracious (Ex): >
+    A giant locust's bite attack deals double damage to creatures with the plant subtype and to objects made of paper, wood, or other plant materials.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

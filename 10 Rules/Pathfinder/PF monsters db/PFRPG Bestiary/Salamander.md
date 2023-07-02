@@ -56,7 +56,9 @@ Skills: Acrobatics +12, Bluff +12, Craft (weaponsmithing) +17, Intimidate +12, K
 RacialMods: +4 Craft (armorsmithing, blacksmithing, and weaponsmithing)
 Languages: Common, Ignan
 SQ: 
-SpecialAbilities: Heat (Ex) A salamander generates so much heat that its mere touch deals an additional 1d6 points of fire damage. A salamander's metallic weapons also conduct this heat.
+SpecialAbilities:
+  Heat (Ex): >
+    A salamander generates so much heat that its mere touch deals an additional 1d6 points of fire damage. A salamander's metallic weapons also conduct this heat.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

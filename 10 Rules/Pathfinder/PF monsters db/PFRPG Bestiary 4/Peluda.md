@@ -56,7 +56,15 @@ Skills: Climb +12, Intimidate +15, Perception +16, Stealth +10, Swim +30
 RacialMods: 
 Languages: Draconic
 SQ: 
-SpecialAbilities: Poison (Ex) Quill-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.  Quill Barrage (Ex) Three times per day, a peluda can fire dozens of spearlike barbs in all directions. All creatures within 15 feet take 6d6 points of piercing damage (Reflex DC 20 half) and are subject to its poison quills. The save DC is Constitution-based.  Quills (Ex) A peluda's back and tail are covered in sharp black quills. A creature that strikes a peluda with a melee weapon, an unarmed attack, or a natural weapon takes 1d6 points of piercing damage from the peluda's quills and risks being poisoned. Weapons with reach do not endanger an attacker in this way. Any creature that grapples a peluda takes 3d6 points of piercing damage and risks being poisoned on its turn each round.  Vulnerable Tail (Su) A peluda is vulnerable to attacks against its tail. Any attack that is not an attempt to sever the peluda's tail (including area attacks or attacks that cause piercing or bludgeoning damage) affects its body. To sever the tail, an opponent must target the tail and attempt a sunder combat maneuver with a slashing weapon. The tail is considered a separate weapon with hardness 5 and hit points equal to the peluda's HD. The opponent must deal enough damage on a single blow to reduce the tail's hit points to 0 or fewer. If the tail is severed, the peluda can no longer attack with it and takes 2d6 points of bleed damage each round.
+SpecialAbilities:
+  Poison (Ex): >
+    Quill-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+  Quill Barrage (Ex): >
+    Three times per day, a peluda can fire dozens of spearlike barbs in all directions. All creatures within 15 feet take 6d6 points of piercing damage (Reflex DC 20 half) and are subject to its poison quills. The save DC is Constitution-based.
+  Quills (Ex): >
+    A peluda's back and tail are covered in sharp black quills. A creature that strikes a peluda with a melee weapon, an unarmed attack, or a natural weapon takes 1d6 points of piercing damage from the peluda's quills and risks being poisoned. Weapons with reach do not endanger an attacker in this way. Any creature that grapples a peluda takes 3d6 points of piercing damage and risks being poisoned on its turn each round.
+  Vulnerable Tail (Su): >
+    A peluda is vulnerable to attacks against its tail. Any attack that is not an attempt to sever the peluda's tail (including area attacks or attacks that cause piercing or bludgeoning damage) affects its body. To sever the tail, an opponent must target the tail and attempt a sunder combat maneuver with a slashing weapon. The tail is considered a separate weapon with hardness 5 and hit points equal to the peluda's HD. The opponent must deal enough damage on a single blow to reduce the tail's hit points to 0 or fewer. If the tail is severed, the peluda can no longer attack with it and takes 2d6 points of bleed damage each round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

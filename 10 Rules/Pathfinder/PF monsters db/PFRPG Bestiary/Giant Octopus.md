@@ -56,7 +56,9 @@ Skills: Escape Artist +18, Perception +8, Stealth +18, Swim +13
 RacialMods: +10 Escape Artist, +8 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d3 Str; cure 2 saves.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d3 Str; cure 2 saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

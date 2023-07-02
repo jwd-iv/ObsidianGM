@@ -56,7 +56,19 @@ Skills: Diplomacy +16, Fly +7, Intimidate +16, Knowledge (arcana, geography, his
 RacialMods: 
 Languages: Aklo, Auran, Common, Draconic
 SQ: no breath, starflight
-SpecialAbilities: Absolute Cold (Su) An old or older lunar dragon's breath weapon can affect creatures immune to cold damage. A creature immune to cold damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures' cold resistance is treated as 10 less than normal.  Alien Presence (Su) A lunar dragon's alien presence affects opponents that fail their saves as touch of idiocy (or as feeblemind for creatures with 4 or fewer Hit Dice) for 5d6 rounds. This is a mind-affecting compulsion effect.  Bewildering Breath (Su) A creature that fails its saving throw against a lunar dragon's breath weapon emits light (as faerie fire) and is dazzled for 1d4 rounds. If the lunar dragon is adult or older, the creature is also confused for 1d4 rounds.  Moonsilver (Ex) A lunar dragon's natural weapons are treated as silver for the purpose of overcoming damage reduction.  Reflect Rays (Su) Rays and ranged touch effects that strike an ancient or older lunar dragon but fail to overcome its spell resistance are reflected back at their source, using the original attack roll to determine whether they hit.  Reflected Light (Ex) A very young or older lunar dragon can't be blinded or dazzled by bright light or patterns.
+SpecialAbilities:
+  Absolute Cold (Su): >
+    An old or older lunar dragon's breath weapon can affect creatures immune to cold damage. A creature immune to cold damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures' cold resistance is treated as 10 less than normal.
+  Alien Presence (Su): >
+    A lunar dragon's alien presence affects opponents that fail their saves as touch of idiocy (or as feeblemind for creatures with 4 or fewer Hit Dice) for 5d6 rounds. This is a mind-affecting compulsion effect.
+  Bewildering Breath (Su): >
+    A creature that fails its saving throw against a lunar dragon's breath weapon emits light (as faerie fire) and is dazzled for 1d4 rounds. If the lunar dragon is adult or older, the creature is also confused for 1d4 rounds.
+  Moonsilver (Ex): >
+    A lunar dragon's natural weapons are treated as silver for the purpose of overcoming damage reduction.
+  Reflect Rays (Su): >
+    Rays and ranged touch effects that strike an ancient or older lunar dragon but fail to overcome its spell resistance are reflected back at their source, using the original attack roll to determine whether they hit.
+  Reflected Light (Ex): >
+    A very young or older lunar dragon can't be blinded or dazzled by bright light or patterns.
 SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +4)  1st (4/day)-comprehend languages, mage armor  0 (at will)-detect magic, light, mage hand, read magic
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Diplomacy +5, Intimidate +6, Knowledge (nature) +4, Perception +7, Survi
 RacialMods: 
 Languages: Common, Elven, Sylvan
 SQ: undersized weapons
-SpecialAbilities: Undersized Weapons (Ex) Although a centaur is Large, its upper torso is the same size as that of a Medium humanoid. As a result, they wield weapons as if they were one size category smaller than their actual size (Medium for most centaurs).
+SpecialAbilities:
+  Undersized Weapons (Ex): >
+    Although a centaur is Large, its upper torso is the same size as that of a Medium humanoid. As a result, they wield weapons as if they were one size category smaller than their actual size (Medium for most centaurs).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

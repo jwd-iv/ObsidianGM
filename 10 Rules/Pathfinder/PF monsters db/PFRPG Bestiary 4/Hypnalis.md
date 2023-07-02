@@ -56,8 +56,13 @@ Skills: Bluff +10, Fly +10, Perception +11, Sense Motive +10, Stealth +15
 RacialMods: 
 Languages: Aklo
 SQ: ghost touch fangs, phasing
-SpecialAbilities: >
-  Ghost Touch Fangs (Su) A hypnalis's bite attack is treated as if it has the ghost touch special weapon quality.  Phasing (Su) A hypnalis can shift from the Ethereal Plane to the Material Plane as a free action and shift back again as a move action (or part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).  Poison (Su) If a hypnalis poisons an ethereal creature while on the Ethereal Plane (including creatures under the effects of spells or effects that grant etherealness such as ethereal jaunt), the creature is immediately forced onto the Material Plane and takes the specified Constitution damage. Creatures on the Material Plane are affected by this poison as normal. Hypnalis Venom: Bite-injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d3 Con and effects listed above; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Ghost Touch Fangs (Su): >
+    A hypnalis's bite attack is treated as if it has the ghost touch special weapon quality.
+  Phasing (Su): >
+    A hypnalis can shift from the Ethereal Plane to the Material Plane as a free action and shift back again as a move action (or part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
+  Poison (Su): >
+    If a hypnalis poisons an ethereal creature while on the Ethereal Plane (including creatures under the effects of spells or effects that grant etherealness such as ethereal jaunt), the creature is immediately forced onto the Material Plane and takes the specified Constitution damage. Creatures on the Material Plane are affected by this poison as normal. Hypnalis Venom: Bite-injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d3 Con and effects listed above; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

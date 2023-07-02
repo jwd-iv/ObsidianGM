@@ -56,7 +56,11 @@ Skills: Bluff +13, Disguise +13, Knowledge (arcana) +11, Perception +15, Sense M
 RacialMods: 
 Languages: Aklo, Common, Giant
 SQ: mimicry
-SpecialAbilities: Weakness (Su) A green hag's claws sap strength from those she strikes. Each time a green hag hits a foe with her claw attack, the victim takes 2 points of Strength damage unless he resists the weakness with a DC 16 Fortitude save. Alternatively, a green hag can attempt to inflict even greater weakness on a foe by making a touch attack-this variant requires a standard action, and cannot be attempted in the same round the hag makes claw attacks. The opponent touched must succeed on a DC 16 Fortitude save or take 2d4 points of Strength damage. The save DC is Charisma-based. Mimicry (Ex) A green hag can imitate the sounds of almost any animal found near its lair.
+SpecialAbilities:
+  Weakness (Su): >
+    A green hag's claws sap strength from those she strikes. Each time a green hag hits a foe with her claw attack, the victim takes 2 points of Strength damage unless he resists the weakness with a DC 16 Fortitude save. Alternatively, a green hag can attempt to inflict even greater weakness on a foe by making a touch attack-this variant requires a standard action, and cannot be attempted in the same round the hag makes claw attacks. The opponent touched must succeed on a DC 16 Fortitude save or take 2d4 points of Strength damage. The save DC is Charisma-based.
+  Mimicry (Ex): >
+    A green hag can imitate the sounds of almost any animal found near its lair.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

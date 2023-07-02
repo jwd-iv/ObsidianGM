@@ -56,7 +56,9 @@ Skills: Acrobatics +6, Bluff +16, Diplomacy +16, Escape Artist +6, Fly +13, Inti
 RacialMods: +8 Intimidate, +8 Perception
 Languages: Abyssal, Celestial, Common; telepathy 100 ft., tongues
 SQ: change shape (Small or Medium humanoid; alter self )
-SpecialAbilities: Pain Redoubled (Su) When an incubus confirms a critical hit with a melee weapon or a natural weapon, that attack deals an additional 2d6 points of nonlethal damage and the target must succeed at a DC 19 Fortitude save or be wracked by pain, becoming sickened for 1d6 rounds. Multiple uses of this ability extend the duration. The save DC is Charisma-based.
+SpecialAbilities:
+  Pain Redoubled (Su): >
+    When an incubus confirms a critical hit with a melee weapon or a natural weapon, that attack deals an additional 2d6 points of nonlethal damage and the target must succeed at a DC 19 Fortitude save or be wracked by pain, becoming sickened for 1d6 rounds. Multiple uses of this ability extend the duration. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

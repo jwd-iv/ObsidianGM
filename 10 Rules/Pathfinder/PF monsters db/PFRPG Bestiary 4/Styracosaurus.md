@@ -56,7 +56,9 @@ Skills: Perception +11
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Reflexive Strike (Ex) A styracosaurus can make three additional attacks of opportunity each round-combined with its bonus Combat Reflexes feat, this allows the dinosaur to make up to five of these attacks of opportunity per round. The dinosaur makes these attacks with its horned crest, but they are treated as normal gore attacks.
+SpecialAbilities:
+  Reflexive Strike (Ex): >
+    A styracosaurus can make three additional attacks of opportunity each round-combined with its bonus Combat Reflexes feat, this allows the dinosaur to make up to five of these attacks of opportunity per round. The dinosaur makes these attacks with its horned crest, but they are treated as normal gore attacks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

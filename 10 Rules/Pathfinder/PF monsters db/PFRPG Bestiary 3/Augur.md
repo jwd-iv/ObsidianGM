@@ -56,7 +56,9 @@ Skills: Bluff +4, Escape Artist +9, Fly +15, Intimidate +4, Perception +7, Sense
 RacialMods: 
 Languages: Common, Infernal (cannot speak)
 SQ: 
-SpecialAbilities: Unnerving Gaze (Ex) A creature that succumbs to an augur's unnerving gaze becomes shaken for 1 round.
+SpecialAbilities:
+  Unnerving Gaze (Ex): >
+    A creature that succumbs to an augur's unnerving gaze becomes shaken for 1 round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

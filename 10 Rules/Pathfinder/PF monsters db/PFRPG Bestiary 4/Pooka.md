@@ -57,8 +57,11 @@ RacialMods:
 Languages: Common, Sylvan; telepathy (by touch only)
 SQ: >
   change shape (2 of the following forms: cat, goat, rabbit [use stats for raccoon], or raven; polymorph)
-SpecialAbilities: >
-  Poison (Su) As a standard action, a pooka can blow across her palm and create a 5-foot-diameter cloud of intoxicating dust. The pooka decides when she uses this ability whether the dust acts as an inhaled poison or a mild intoxicant (equivalent to 1-2 glasses of beer). Pooka Dust (Su): Inhaled; save Fort DC 13; frequency 1/round for 6 rounds; effect 1d2 Wis and 1d2 Cha (or intoxication); cure 2 consecutive saves.
+SpecialAbilities:
+  Poison (Su): >
+    As a standard action, a pooka can blow across her palm and create a 5-foot-diameter cloud of intoxicating dust. The pooka decides when she uses this ability whether the dust acts as an inhaled poison or a mild intoxicant (equivalent to 1-2 glasses of beer).
+  Pooka Dust (Su): >
+    : Inhaled; save Fort DC 13; frequency 1/round for 6 rounds; effect 1d2 Wis and 1d2 Cha (or intoxication); cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

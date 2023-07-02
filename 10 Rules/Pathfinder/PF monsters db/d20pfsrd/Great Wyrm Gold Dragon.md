@@ -56,7 +56,21 @@ Skills: Diplomacy +41, Fly +15, Heal +41, Knowledge (arcana) +41, Knowledge (his
 RacialMods: +8 Swim
 Languages: Celestial, Common, Draconic, Elven, Halfling, 4 more
 SQ: change shape, detect gems, divine aid, fast flight, luck
-SpecialAbilities: Change Shape (Su)A very young or older gold dragon can assume any animal or humanoid form three times per day as if using polymorph. Detect Gems (Sp) A young or older gold dragon can detect gems three times per day. This functions as locate object, but can only be used to locate gemstones. Divine Aid (Sp)Once a week, a great wyrm gold dragon can call upon celestial powers for aid. This functions as a miracle. Fast Flight (Ex)A young or older gold dragon is treated as one size category larger when determining his fly speed. Fire Aura (Su)An old or older gold dragon is surrounded by an aura of fire. All creatures within 5 feet of the dragon take 1d6 points of fire damage at the beginning of the dragon's turn. An ancient gold dragon's aura extends to 10 feet. A great wyrm's damage increases to 2d6. The dragon can activate or suppress this aura as a free action. Luck (Sp)Once per day an adult or older gold dragon can touch a gem, usually one embedded in the dragon's hide, and enspell it to bring good luck. As long as the dragon carries the gem, it and every good creature within a given radius of it (10 ft. per age category) receives a +1 luck bonus on all saving throws. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours plus 3 hours per age category of the dragon. This ability is the equivalent of a 2nd-level spell. Weakening Breath (Su)Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
+SpecialAbilities:
+  Change Shape (Su): >
+    A very young or older gold dragon can assume any animal or humanoid form three times per day as if using polymorph.
+  Detect Gems (Sp): >
+    A young or older gold dragon can detect gems three times per day. This functions as locate object, but can only be used to locate gemstones.
+  Divine Aid (Sp): >
+    Once a week, a great wyrm gold dragon can call upon celestial powers for aid. This functions as a miracle.
+  Fast Flight (Ex): >
+    A young or older gold dragon is treated as one size category larger when determining his fly speed.
+  Fire Aura (Su): >
+    An old or older gold dragon is surrounded by an aura of fire. All creatures within 5 feet of the dragon take 1d6 points of fire damage at the beginning of the dragon's turn. An ancient gold dragon's aura extends to 10 feet. A great wyrm's damage increases to 2d6. The dragon can activate or suppress this aura as a free action.
+  Luck (Sp): >
+    Once per day an adult or older gold dragon can touch a gem, usually one embedded in the dragon's hide, and enspell it to bring good luck. As long as the dragon carries the gem, it and every good creature within a given radius of it (10 ft. per age category) receives a +1 luck bonus on all saving throws. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours plus 3 hours per age category of the dragon. This ability is the equivalent of a 2nd-level spell.
+  Weakening Breath (Su): >
+    Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
 SpellsKnown: Spells Known (CL 19th; concentration +27) 9th (4/day)-time stop, wish 8th (7/day)-euphoric tranquility (DC 26), greater prying eyes, protection from spells 7th (7/day)-greater teleport, resurrection, vision 6th (7/day)-antimagic field, greater dispel magic, heal 5th (7/day)-dispel evil (DC 23), plane shift, teleport, true seeing 4th (8/day)-divination, restoration, spell immunity, stoneskin 3rd (8/day)-dispel magic, haste, invisibility purge, prayer 2nd (8/day)-aid, cure moderate wounds, lesser restoration, resist energy, silence 1st (8/day)-alarm, divine favor, mage armor, shield, shield of faith 0 (at will)-detect magic, detect poison, light, mage hand, mending, open/close, prestidigitation, read magic, stabilize
 SpellsPrepared: 
 SpellDomains: 

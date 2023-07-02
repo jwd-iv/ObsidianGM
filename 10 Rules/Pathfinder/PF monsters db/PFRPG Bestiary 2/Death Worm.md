@@ -56,7 +56,15 @@ Skills: Perception +11, Stealth -3 (+13 in deserts)
 RacialMods: +16 Stealth in deserts or rocky areas
 Languages: Terran
 SQ: 
-SpecialAbilities: Corrosive Blood (Ex) A death worm's blood can corrode metal on contact. If a creature damages a death worm with a piercing or slashing weapon made of metal, the creature's blood deals 3d6 points of acid damage to the metal weapon (unlike most forms of energy damage, this damage is not halved when applied to a metal object, although it does still have to penetrate the metal's hardness). The weapon's wielder can halve the damage the weapon takes by making a successful DC 17 Reflex save. Creatures made of metal that deal slashing or piercing damage to a death worm with a natural attack take 3d6 points of acid damage (a DC 17 Reflex save halves this damage). The corrosive elements of the blood fade 1 round after it leaves the worm's body or the worm dies. The save DC is Constitution-based.  Electrical Jolt (Su) A death worm can fire a jolt of electricity from its mouth as a standard action. The range increment for this ranged touch attack is 60 feet.  Poison (Ex) Bite-injury, or skin-contact; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 2 saves.  Venomous Skin (Ex) A death worm's skin secretes a noxious, waxy substance. This venomous sheen poisons any creature that touches a death worm, either by making a successful attack with an unarmed strike or natural weapon or with a touch attack. A creature that grapples a death worm is also exposed to the creature's venomous skin.
+SpecialAbilities:
+  Corrosive Blood (Ex): >
+    A death worm's blood can corrode metal on contact. If a creature damages a death worm with a piercing or slashing weapon made of metal, the creature's blood deals 3d6 points of acid damage to the metal weapon (unlike most forms of energy damage, this damage is not halved when applied to a metal object, although it does still have to penetrate the metal's hardness). The weapon's wielder can halve the damage the weapon takes by making a successful DC 17 Reflex save. Creatures made of metal that deal slashing or piercing damage to a death worm with a natural attack take 3d6 points of acid damage (a DC 17 Reflex save halves this damage). The corrosive elements of the blood fade 1 round after it leaves the worm's body or the worm dies. The save DC is Constitution-based.
+  Electrical Jolt (Su): >
+    A death worm can fire a jolt of electricity from its mouth as a standard action. The range increment for this ranged touch attack is 60 feet.
+  Poison (Ex): >
+    Bite-injury, or skin-contact; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 2 saves.
+  Venomous Skin (Ex): >
+    A death worm's skin secretes a noxious, waxy substance. This venomous sheen poisons any creature that touches a death worm, either by making a successful attack with an unarmed strike or natural weapon or with a touch attack. A creature that grapples a death worm is also exposed to the creature's venomous skin.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

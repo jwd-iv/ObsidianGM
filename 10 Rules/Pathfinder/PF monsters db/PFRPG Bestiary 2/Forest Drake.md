@@ -56,7 +56,13 @@ Skills: Fly +8, Intimidate +9, Perception +11, Stealth +6, Swim +20
 RacialMods: 
 Languages: Draconic
 SQ: aquatic adaptation, speed surge
-SpecialAbilities: Acidic Cloud (Su) A forest drake can, as a standard action, spit a ball of acid that bursts into a cloud on impact. This attack has a range of 60 feet and deals 4d6 points of acid damage (Reflex DC 14 half) to all creatures within the resulting 10-foot-radius spread.  The cloud remains for 1d4 rounds once created, acting as a 10-foot-radius obscuring mist (it no longer causes damage), but a strong wind disperses it in a single round. Once a forest drake has used its acidic cloud breath, it cannot do so again for 1d6 rounds. The Reflex save is Constitution-based.  Aquatic Adaptation (Ex) A forest drake can breathe underwater indefinitely and can freely use its breath weapon and other abilities while underwater. The acidic cloud created by that attack dissipates after 1 round if used underwater.  Speed Surge (Ex) Three times per day as a swift action, a forest drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.
+SpecialAbilities:
+  Acidic Cloud (Su): >
+    A forest drake can, as a standard action, spit a ball of acid that bursts into a cloud on impact. This attack has a range of 60 feet and deals 4d6 points of acid damage (Reflex DC 14 half) to all creatures within the resulting 10-foot-radius spread.  The cloud remains for 1d4 rounds once created, acting as a 10-foot-radius obscuring mist (it no longer causes damage), but a strong wind disperses it in a single round. Once a forest drake has used its acidic cloud breath, it cannot do so again for 1d6 rounds. The Reflex save is Constitution-based.
+  Aquatic Adaptation (Ex): >
+    A forest drake can breathe underwater indefinitely and can freely use its breath weapon and other abilities while underwater. The acidic cloud created by that attack dissipates after 1 round if used underwater.
+  Speed Surge (Ex): >
+    Three times per day as a swift action, a forest drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

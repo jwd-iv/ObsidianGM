@@ -56,7 +56,11 @@ Skills: Acrobatics +3, Perception +7, Stealth +12
 RacialMods: +4 Stealth
 Languages: Common (can't speak)
 SQ: 
-SpecialAbilities: Mark Quarry (Su) A crawling hand is assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand has no current quarry, it automatically gains the next creature it damages as its quarry. Once attuned to a target, it becomes aware of the target's location as if under the effect of a continuous locate creature spell. The hand gains a +1 bonus on all attack rolls, damage rolls, and skill checks made to seek out and destroy the marked quarry. The mark quarry ability lasts until the quarry or the hand is slain.  Pus Burst (Su) When damaged by a piercing or slashing melee weapon, a spray of vile pus strikes the attacker unless the attacker makes a DC 15 Reflex save. Weapons that provide reach protect the attacker completely from a pus burst.  Creatures struck by pus become nauseated for 1d3 rounds and take 2d6 points of negative energy damage. The save DC is Charisma-based.
+SpecialAbilities:
+  Mark Quarry (Su): >
+    A crawling hand is assigned a quarry by anointing the hand with a drop of the intended quarry's blood. If the hand has no current quarry, it automatically gains the next creature it damages as its quarry. Once attuned to a target, it becomes aware of the target's location as if under the effect of a continuous locate creature spell. The hand gains a +1 bonus on all attack rolls, damage rolls, and skill checks made to seek out and destroy the marked quarry. The mark quarry ability lasts until the quarry or the hand is slain.
+  Pus Burst (Su): >
+    When damaged by a piercing or slashing melee weapon, a spray of vile pus strikes the attacker unless the attacker makes a DC 15 Reflex save. Weapons that provide reach protect the attacker completely from a pus burst.  Creatures struck by pus become nauseated for 1d3 rounds and take 2d6 points of negative energy damage. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

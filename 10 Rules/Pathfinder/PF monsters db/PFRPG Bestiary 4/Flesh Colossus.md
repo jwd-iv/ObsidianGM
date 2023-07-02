@@ -56,7 +56,11 @@ Skills: Intimidate +9, Perception +8
 RacialMods: 
 Languages: Common
 SQ: alternate form, mythic creation, mythic resilience
-SpecialAbilities: Alternate Form (Ex) As a full-round action, a flesh colossus can break apart into four composite creatures. These composite creatures are identical to flesh golems (Pathfinder RPG Bestiary 160) but lack the golem's DR and the berserk and immunity to magic abilities. They gain DR 5/epic, electricity absorption, and selective antimagic aura (10 feet). Divide the colossus's current total hit points by 4 to determine how many hit points each composite creature has. Reverting into a single form requires all of the remaining composite creatures to be adjacent to each other and a full-round action. When this occurs, add up the remaining hit points to determine the colossus's total hit points.  Selective Antimagic Aura (Su) Spells and abilities with the electricity descriptor or that deal electricity damage are unaffected by this field, as are necromancy spells and effects.
+SpecialAbilities:
+  Alternate Form (Ex): >
+    As a full-round action, a flesh colossus can break apart into four composite creatures. These composite creatures are identical to flesh golems (Pathfinder RPG Bestiary 160) but lack the golem's DR and the berserk and immunity to magic abilities. They gain DR 5/epic, electricity absorption, and selective antimagic aura (10 feet). Divide the colossus's current total hit points by 4 to determine how many hit points each composite creature has. Reverting into a single form requires all of the remaining composite creatures to be adjacent to each other and a full-round action. When this occurs, add up the remaining hit points to determine the colossus's total hit points.
+  Selective Antimagic Aura (Su): >
+    Spells and abilities with the electricity descriptor or that deal electricity damage are unaffected by this field, as are necromancy spells and effects.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

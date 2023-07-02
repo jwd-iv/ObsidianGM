@@ -56,7 +56,11 @@ Skills: Acrobatics +9 (+17 jump), Climb +14, Escape Artist +8, Knowledge (arcana
 RacialMods: +2 Acrobatics, +2 Perception
 Languages: Common, Sylvan
 SQ: change shape (humanoid; alter self )
-SpecialAbilities: Change Shape (Su) An aranea can take the form of a Small or Medium humanoid or spider-humanoid hybrid. In humanoid form, an aranea cannot use its bite, web, or poison. In spider-humanoid hybrid form, an aranea looks like a humanoid with spidery fangs and spinnerets, with the latter typically located at the small of its back. The aranea retains its bite attack, webs, and poison in this form, and can wield weapons and wear armor. When in humanoid or hybrid form, an aranea's speed is 30 feet and it has no climb speed.  Poison (Ex) Bite-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d3 Strength; cure 1 save.  Spells An aranea casts spells as a 5th-level sorcerer, but does not gain any additional abilities, such as a sorcerous bloodline.
+SpecialAbilities:
+  Change Shape (Su): >
+    An aranea can take the form of a Small or Medium humanoid or spider-humanoid hybrid. In humanoid form, an aranea cannot use its bite, web, or poison. In spider-humanoid hybrid form, an aranea looks like a humanoid with spidery fangs and spinnerets, with the latter typically located at the small of its back. The aranea retains its bite attack, webs, and poison in this form, and can wield weapons and wear armor. When in humanoid or hybrid form, an aranea's speed is 30 feet and it has no climb speed.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d3 Strength; cure 1 save.  Spells An aranea casts spells as a 5th-level sorcerer, but does not gain any additional abilities, such as a sorcerous bloodline.
 SpellsKnown: Sorcerer Spells Known (CL 5th; concentration +8)   2nd (5/day)-invisibility, mirror image   1st (7/day)-charm person (DC 14), mage armor (1 already cast), silent image (DC 14), sleep (DC 14)   0 (at will)-daze (DC 13), detect magic, ghost sound (DC 13), light, mage hand, resistance
 SpellsPrepared: 
 SpellDomains: 

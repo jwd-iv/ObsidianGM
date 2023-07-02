@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Death Burst (Ex) When a clockwork golem is reduced to 0 or fewer hit points, it explodes in a shower of razor-sharp gears and debris. All creatures within a 10-foot burst take 12d6 points of slashing damage-a DC 18 Reflex save results in half damage. The save DC is Constitution-based.  Grind (Ex) A clockwork golem deals an additional 2d10+12 points of slashing damage when it makes a successful grapple check as razor-sharp gears and blades emerge from its body to grind and slice its foe.  Immunity to Magic (Ex) A clockwork golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a clockwork golem, as noted below.  • A grease spell cast on the golem causes it to move quickly for 1d6 rounds, as if under the effects of haste.  • A rusting grasp spell deals damage to a clockwork golem normally, and makes the golem staggered for 1d6 rounds (no save).  Wall of Gears (Su) As a standard action, a clockwork golem can fold into a whirling wall of grinding gears measuring 10 feet by 10 feet or 5 feet by 20 feet. Anyone passing through the wall takes 15d6 points of slashing damage. If the wall appears in a creature's space, that creature can attempt a DC 18 Reflex save to leap to one side and avoid the damage entirely. The clockwork golem can take no actions while in this form except to resume its normal form as a move action. A clockwork golem's AC and immunities remain the same while it is in this form.
+SpecialAbilities:
+  Death Burst (Ex): >
+    When a clockwork golem is reduced to 0 or fewer hit points, it explodes in a shower of razor-sharp gears and debris. All creatures within a 10-foot burst take 12d6 points of slashing damage-a DC 18 Reflex save results in half damage. The save DC is Constitution-based.
+  Grind (Ex): >
+    A clockwork golem deals an additional 2d10+12 points of slashing damage when it makes a successful grapple check as razor-sharp gears and blades emerge from its body to grind and slice its foe.
+  Immunity to Magic (Ex): >
+    A clockwork golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a clockwork golem, as noted below.  • A grease spell cast on the golem causes it to move quickly for 1d6 rounds, as if under the effects of haste.  • A rusting grasp spell deals damage to a clockwork golem normally, and makes the golem staggered for 1d6 rounds (no save).
+  Wall of Gears (Su): >
+    As a standard action, a clockwork golem can fold into a whirling wall of grinding gears measuring 10 feet by 10 feet or 5 feet by 20 feet. Anyone passing through the wall takes 15d6 points of slashing damage. If the wall appears in a creature's space, that creature can attempt a DC 18 Reflex save to leap to one side and avoid the damage entirely. The clockwork golem can take no actions while in this form except to resume its normal form as a move action. A clockwork golem's AC and immunities remain the same while it is in this form.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

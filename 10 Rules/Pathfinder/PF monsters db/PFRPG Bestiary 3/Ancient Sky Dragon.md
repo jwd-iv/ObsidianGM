@@ -56,7 +56,19 @@ Skills: Acrobatics +22 (+26 when jumping), Appraise +33, Diplomacy +33, Fly +27,
 RacialMods: 
 Languages: Auran, Celestial, Common, Draconic, Elven, Gnome, Infernal, Sylvan
 SQ: borne aloft, change shape
-SpecialAbilities: Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.  Celestial Emissary (Su) Three times per day, a great wyrm sky dragon can imbue others with the celestial aspect of the oracle spell divine vessel*, but it can only be cast on another willing creature of good alignment.  Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.  Cloud Sight (Su) A very young or older sky dragon's sight is not impeded by clouds or fog, or by spells that create areas of fog.  Grounding Breath (Su) Any flying creature damaged by the breath weapon of an ancient or older sky dragon must make a Fortitude save with the same DC as the sky dragon's breath weapon or lose the ability to fly for 1d4 rounds.  Primal Lightning (Su) An old or older sky dragon's breath weapon can affect creatures normally immune or resistant to electricity damage. A creature immune to electricity damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures' electricity resistance is treated as 10 less than normal.
+SpecialAbilities:
+  Borne Aloft (Su): >
+    Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+  Celestial Emissary (Su): >
+    Three times per day, a great wyrm sky dragon can imbue others with the celestial aspect of the oracle spell divine vessel*, but it can only be cast on another willing creature of good alignment.
+  Change Shape (Su): >
+    A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+  Cloud Sight (Su): >
+    A very young or older sky dragon's sight is not impeded by clouds or fog, or by spells that create areas of fog.
+  Grounding Breath (Su): >
+    Any flying creature damaged by the breath weapon of an ancient or older sky dragon must make a Fortitude save with the same DC as the sky dragon's breath weapon or lose the ability to fly for 1d4 rounds.
+  Primal Lightning (Su): >
+    An old or older sky dragon's breath weapon can affect creatures normally immune or resistant to electricity damage. A creature immune to electricity damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures' electricity resistance is treated as 10 less than normal.
 SpellsKnown: Spells Known (CL 15th; concentration +22)  7th (5/day)-forcecage (DC 24), mass hold person (DC 24)  6th (7/day)-acid fog, chain lightning (DC 23), legend lore  5th (7/day)-break enchantment, cloudkill (DC 22), teleport  4th (7/day)-dimension door, greater invisibility, ice storm, rainbow pattern (DC 21)  3rd (8/day)-blink, lightning bolt (DC 20), sleet storm (DC 20), wind wall  2nd (8/day)-daze monster (DC 19), fog cloud, glitterdust (DC 19), invisibility, resist energy  1st (8/day)-endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp  0 (at will)-dancing lights, daze (DC 17), detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic
 SpellsPrepared: 
 SpellDomains: 

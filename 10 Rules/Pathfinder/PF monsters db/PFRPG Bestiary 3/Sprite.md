@@ -56,7 +56,9 @@ Skills: Escape Artist +15, Fly +21, Perception +6, Sense Motive +6, Stealth +19
 RacialMods: +8 Escape Artist
 Languages: Common, Sylvan
 SQ: luminous
-SpecialAbilities: Luminous (Su) A sprite naturally sheds light equal to that provided by a torch. A sprite can control the color and intensity of the light as a swift action, reducing it to the dimness of a candle or even extinguishing its luminosity entirely if it wishes.
+SpecialAbilities:
+  Luminous (Su): >
+    A sprite naturally sheds light equal to that provided by a torch. A sprite can control the color and intensity of the light as a swift action, reducing it to the dimness of a candle or even extinguishing its luminosity entirely if it wishes.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

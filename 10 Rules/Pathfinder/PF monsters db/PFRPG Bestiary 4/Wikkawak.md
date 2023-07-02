@@ -56,7 +56,9 @@ Skills: Climb +11, Intimidate +11, Perception +11, Stealth +16, Survival +7
 RacialMods: +4 Intimidate, +4 Perception, +4 Stealth
 Languages: Common, Giant, Goblin
 SQ: thuggery, trackless step
-SpecialAbilities: Thuggery (Ex) Intimidate and Perception are class skills for wikkawaks.
+SpecialAbilities:
+  Thuggery (Ex): >
+    Intimidate and Perception are class skills for wikkawaks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

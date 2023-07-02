@@ -56,7 +56,11 @@ Skills: Bluff +22, Craft (weapons) +12, Craft (armor) +12, Diplomacy +11, Disgui
 RacialMods: 
 Languages: Common, Giant
 SQ: change shape (Medium or Large humanoid; alter self or giant form I)
-SpecialAbilities: Fiery Missile (Su) As a swift action, a fire yai can launch a bolt of fire from its third eye. This attack has a range of 180 feet with no range increment.  Smoke Form (Sp) As a standard action, a fire yai can turn into a cloud of smoke. This functions like gaseous form, except the cloud has the properties of the smoke cloud from a pyrotechnics spell (Fort DC 26 negates the effects of the smoke cloud). The fire yai can end this ability as a standard action.
+SpecialAbilities:
+  Fiery Missile (Su): >
+    As a swift action, a fire yai can launch a bolt of fire from its third eye. This attack has a range of 180 feet with no range increment.
+  Smoke Form (Sp): >
+    As a standard action, a fire yai can turn into a cloud of smoke. This functions like gaseous form, except the cloud has the properties of the smoke cloud from a pyrotechnics spell (Fort DC 26 negates the effects of the smoke cloud). The fire yai can end this ability as a standard action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

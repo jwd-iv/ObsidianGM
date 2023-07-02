@@ -56,7 +56,13 @@ Skills: Acrobatics +12, Bluff +10, Craft (rope) +10, Craft (sculpture) +10, Perc
 RacialMods: 
 Languages: Common, Sylvan
 SQ: stone stride
-SpecialAbilities: Animated Hair (Su) A korred's hair is constantly writhing and twitching. As a free action, a korred can cause its long hair to reach out and interfere with adjacent creatures- tugging at clothes and weapons, tangling feet and arms, tickling, and generally making a nuisance of itself. The korred can select which adjacent targets are affected by its animated hair.  These targets must make a successful DC 16 Reflex save each round to avoid becoming entangled for 1 round. The save DC is Dexterity-based.  Stone Stride (Su) This ability works like tree stride, except it requires loose boulders at least as large as the korred, and only has a range of 30 feet. The korred can use this ability once per round as a standard action.  Stunning Laugh (Su) Three times per day as a standard action, a korred can unleash a strange laugh that stuns all creatures within a 30-foot burst for 1d2 rounds (Fortitude DC 14 negates). This is a sonic, mind-affecting effect. Fey are immune to this ability. The save DC is Charisma-based.
+SpecialAbilities:
+  Animated Hair (Su): >
+    A korred's hair is constantly writhing and twitching. As a free action, a korred can cause its long hair to reach out and interfere with adjacent creatures- tugging at clothes and weapons, tangling feet and arms, tickling, and generally making a nuisance of itself. The korred can select which adjacent targets are affected by its animated hair.  These targets must make a successful DC 16 Reflex save each round to avoid becoming entangled for 1 round. The save DC is Dexterity-based.
+  Stone Stride (Su): >
+    This ability works like tree stride, except it requires loose boulders at least as large as the korred, and only has a range of 30 feet. The korred can use this ability once per round as a standard action.
+  Stunning Laugh (Su): >
+    Three times per day as a standard action, a korred can unleash a strange laugh that stuns all creatures within a 30-foot burst for 1d2 rounds (Fortitude DC 14 negates). This is a sonic, mind-affecting effect. Fey are immune to this ability. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

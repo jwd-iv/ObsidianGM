@@ -56,7 +56,15 @@ Skills: Acrobatics +17, Bluff +12, Escape Artist +17, Fly +21, Knowledge (planes
 RacialMods: 
 Languages: Auran
 SQ: gaseous
-SpecialAbilities: Gaseous (Ex) A mihstu can pass through small holes, even cracks, without reducing its speed.  Deadly Embrace (Ex) A mihstu that pins an opponent completely surrounds that creature and deals 1d2 Constitution damage every round as it siphons away blood, tears, and other vital fluids. Maintaining a pin is a free action for a mihstu and it does not gain the grappled condition (allowing it to attack other creatures with its tentacles).  Susceptible to Cold (Ex) Magical cold stuns a mihstu rather than damaging it. If the creature fails its save against a magical cold effect, it is stunned for 1 round and then staggered for an additional 1d4 rounds.  Wind Defense (Ex) The churning winds of a mihstu's body automatically deflect nonmagical projectiles (such as arrows, bolts, and sling stones). All other ranged weapons (including magical projectiles and thrown weapons) have a 20% miss chance. Weapons of significant size, such as giant-thrown boulders, siege engine projectiles, and other massive ranged weapons are not affected by this ability.
+SpecialAbilities:
+  Gaseous (Ex): >
+    A mihstu can pass through small holes, even cracks, without reducing its speed.
+  Deadly Embrace (Ex): >
+    A mihstu that pins an opponent completely surrounds that creature and deals 1d2 Constitution damage every round as it siphons away blood, tears, and other vital fluids. Maintaining a pin is a free action for a mihstu and it does not gain the grappled condition (allowing it to attack other creatures with its tentacles).
+  Susceptible to Cold (Ex): >
+    Magical cold stuns a mihstu rather than damaging it. If the creature fails its save against a magical cold effect, it is stunned for 1 round and then staggered for an additional 1d4 rounds.
+  Wind Defense (Ex): >
+    The churning winds of a mihstu's body automatically deflect nonmagical projectiles (such as arrows, bolts, and sling stones). All other ranged weapons (including magical projectiles and thrown weapons) have a 20% miss chance. Weapons of significant size, such as giant-thrown boulders, siege engine projectiles, and other massive ranged weapons are not affected by this ability.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

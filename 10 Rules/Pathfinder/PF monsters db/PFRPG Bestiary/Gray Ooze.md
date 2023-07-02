@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: transparent
-SpecialAbilities: Acid (Ex) The digestive acid that covers a gray ooze dissolves metals and organic material, but not stone. Each slam and constrict attack deals 1d6 additional acid damage. Armor or clothing worn by a creature grappled by a gray ooze takes the same amount of acid damage unless the wearer succeeds on a DC 20 Reflex saving throw. A wooden or metal weapon that strikes a gray ooze takes 1d6 acid damage unless the weapon's wielder succeeds on a DC 20 Reflex save. The ooze's touch deals 12 points of acid damage per round to wooden or metal objects, but the ooze must remain in contact with the material for 1 full round in order to deal this damage. The save DCs are Constitution-based. Transparent (Ex) Due to its lack of vivid coloration, a gray ooze is difficult to discern from its surroundings in most environments. A DC 15 Perception check is required to notice the gray ooze. Any creature that fails to notice a gray ooze and walks into it automatically suffers damage as if struck by the ooze's slam attack and is immediately subject to a grab attempt by the ooze.
+SpecialAbilities:
+  Acid (Ex): >
+    The digestive acid that covers a gray ooze dissolves metals and organic material, but not stone. Each slam and constrict attack deals 1d6 additional acid damage. Armor or clothing worn by a creature grappled by a gray ooze takes the same amount of acid damage unless the wearer succeeds on a DC 20 Reflex saving throw. A wooden or metal weapon that strikes a gray ooze takes 1d6 acid damage unless the weapon's wielder succeeds on a DC 20 Reflex save. The ooze's touch deals 12 points of acid damage per round to wooden or metal objects, but the ooze must remain in contact with the material for 1 full round in order to deal this damage. The save DCs are Constitution-based.
+  Transparent (Ex): >
+    Due to its lack of vivid coloration, a gray ooze is difficult to discern from its surroundings in most environments. A DC 15 Perception check is required to notice the gray ooze. Any creature that fails to notice a gray ooze and walks into it automatically suffers damage as if struck by the ooze's slam attack and is immediately subject to a grab attempt by the ooze.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

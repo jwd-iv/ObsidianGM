@@ -56,8 +56,9 @@ Skills: Acrobatics +4, Climb +6, Perception +7, Stealth +7, Swim +6
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: >
-  Disease (Su) Ghoul Fever: Bite-injury; save Fort DC 13; onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based.
+SpecialAbilities:
+  Disease (Su): >
+    Ghoul Fever: Bite-injury; save Fort DC 13; onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

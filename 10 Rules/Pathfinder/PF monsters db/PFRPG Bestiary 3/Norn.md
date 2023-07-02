@@ -56,7 +56,15 @@ Skills: Bluff +23, Craft (cloth) +18, Heal +11, Intimidate +30, Knowledge (all) 
 RacialMods: 
 Languages: Common, Giant, Sylvan; tongues
 SQ: change shape (humanoid; alter self or giant form II)
-SpecialAbilities: Fated (Su) A norn adds her Charisma modifier as an insight bonus to AC and on initiative checks.  Shears (Su) A norn's shears function as a +5 mithral keen speed scimitar, but only for a norn.  Shift Fate (Su) As an immediate action, a norn can force any one target within 120 feet to reroll a saving throw-this ability must be used immediately after the saving throw is rolled, and the target must abide by the result of this second roll.  Snip Thread (Su) As a standard action up to three times per day but no more often than once every 1d4 rounds, a norn may produce a golden thread linked to a creature's fate and then attempt to snip it short with her shears. The target creature must be within 120 feet and in the norn's line of sight. The target immediately takes 20d6 points of damage (Fortitude DC 30 half). If the target dies from this damage, the norn has cut through the thread-in this case, the target may only be restored to life via miracle, wish, or divine intervention. This is a death effect. The Save DC is Charisma-based.
+SpecialAbilities:
+  Fated (Su): >
+    A norn adds her Charisma modifier as an insight bonus to AC and on initiative checks.
+  Shears (Su): >
+    A norn's shears function as a +5 mithral keen speed scimitar, but only for a norn.
+  Shift Fate (Su): >
+    As an immediate action, a norn can force any one target within 120 feet to reroll a saving throw-this ability must be used immediately after the saving throw is rolled, and the target must abide by the result of this second roll.
+  Snip Thread (Su): >
+    As a standard action up to three times per day but no more often than once every 1d4 rounds, a norn may produce a golden thread linked to a creature's fate and then attempt to snip it short with her shears. The target creature must be within 120 feet and in the norn's line of sight. The target immediately takes 20d6 points of damage (Fortitude DC 30 half). If the target dies from this damage, the norn has cut through the thread-in this case, the target may only be restored to life via miracle, wish, or divine intervention. This is a death effect. The Save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Acrobatics +15 (+27 jump), Bluff +13, Climb +15, Escape Artist +15, Inti
 RacialMods: 
 Languages: Aklo, Common, Giant, Sylvan
 SQ: boot stomp, heavy weapons, red cap
-SpecialAbilities: Boot Stomp (Ex) A redcap wears heavy iron boots with spiked soles that it uses to deadly effect in combat. These boots give the redcap a kick attack that it can make as a secondary attack, either as part of a full-attack action or as part of its movement just as if it had the Spring Attack feat.  Heavy Weapons (Ex) A redcap can wield weapons sized for Medium creatures without penalty.  Irreligious (Ex) Bitter and blasphemous, redcaps cannot stand the symbols of good-aligned religions. If a foe spends a standard action presenting such a holy symbol, any redcap that can see the creature must make a DC 15 Will save or become frightened for 1 minute and attempt to flee.  A redcap who successfully saves is shaken for 1 minute.  Red Cap (Su) A redcap wears a tiny, shapeless woolen hat, dyed over and over with the blood of its victims. While wearing this cap, a redcap gains a +4 bonus on damage rolls (included in the above totals) and fast healing 3. These benefits are lost if the cap is removed or destroyed. Caps are not transferable, even between redcaps. A redcap can create a new cap to replace a lost cap with 10 minutes of work, although until the redcap takes a standard action to dip the cap in the blood of a foe the redcap helped to kill, the cap does not grant its bonuses.
+SpecialAbilities:
+  Boot Stomp (Ex): >
+    A redcap wears heavy iron boots with spiked soles that it uses to deadly effect in combat. These boots give the redcap a kick attack that it can make as a secondary attack, either as part of a full-attack action or as part of its movement just as if it had the Spring Attack feat.
+  Heavy Weapons (Ex): >
+    A redcap can wield weapons sized for Medium creatures without penalty.
+  Irreligious (Ex): >
+    Bitter and blasphemous, redcaps cannot stand the symbols of good-aligned religions. If a foe spends a standard action presenting such a holy symbol, any redcap that can see the creature must make a DC 15 Will save or become frightened for 1 minute and attempt to flee.  A redcap who successfully saves is shaken for 1 minute.
+  Red Cap (Su): >
+    A redcap wears a tiny, shapeless woolen hat, dyed over and over with the blood of its victims. While wearing this cap, a redcap gains a +4 bonus on damage rolls (included in the above totals) and fast healing 3. These benefits are lost if the cap is removed or destroyed. Caps are not transferable, even between redcaps. A redcap can create a new cap to replace a lost cap with 10 minutes of work, although until the redcap takes a standard action to dip the cap in the blood of a foe the redcap helped to kill, the cap does not grant its bonuses.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

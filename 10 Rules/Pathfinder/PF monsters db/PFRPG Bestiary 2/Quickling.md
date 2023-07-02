@@ -56,7 +56,13 @@ Skills: Acrobatics +14 (+50 jump), Bluff +9, Craft (any one) +9, Escape Artist +
 RacialMods: 
 Languages: Aklo, Common, Sylvan
 SQ: poison use
-SpecialAbilities: Natural Invisibility (Su) A quickling is invisible when motionless. It loses this invisibility and remains visible for 1 round in any round in which it takes an action other than a free action.  Supernatural Speed (Su) A quickling moves with incredible speed. Save for when it remains motionless (at which point it is invisible), the quickling's shape blurs and shimmers with this speed, granting it concealment (20% miss chance). In addition, this ability grants the quickling evasion and uncanny dodge (as the rogue abilities of the same names).  Slow Susceptibility (Ex) A quickling that succumbs to a slow effect loses its supernatural speed ability and is sickened as long as the effect persists. This sickened condition persists for 1 round after the slow effect ends.
+SpecialAbilities:
+  Natural Invisibility (Su): >
+    A quickling is invisible when motionless. It loses this invisibility and remains visible for 1 round in any round in which it takes an action other than a free action.
+  Supernatural Speed (Su): >
+    A quickling moves with incredible speed. Save for when it remains motionless (at which point it is invisible), the quickling's shape blurs and shimmers with this speed, granting it concealment (20% miss chance). In addition, this ability grants the quickling evasion and uncanny dodge (as the rogue abilities of the same names).
+  Slow Susceptibility (Ex): >
+    A quickling that succumbs to a slow effect loses its supernatural speed ability and is sickened as long as the effect persists. This sickened condition persists for 1 round after the slow effect ends.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

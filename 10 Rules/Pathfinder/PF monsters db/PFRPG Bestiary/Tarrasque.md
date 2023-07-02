@@ -56,7 +56,17 @@ Skills: Acrobatics +3 (+43 when jumping), Perception +43
 RacialMods: +8 Perception
 Languages: Aklo (cannot speak)
 SQ: carapace, powerful leaper
-SpecialAbilities: Carapace (Su) The tarrasque's scales deflect cones, lines, rays, and magic missile spells, rendering the tarrasque immune to such effects. There is a 30% chance a deflected effect reflects back in full force at the caster; otherwise it is simply negated.  Powerful Leaper (Ex) The tarrasque uses its Strength to modify Acrobatics checks made to jump, and has a +24 racial bonus on Acrobatics checks made to jump.  Regeneration (Ex) No form of attack can suppress the tarrasque's regeneration-it regenerates even if disintegrated or slain by a death effect. If the tarrasque fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is inflicted upon its remains. It can be banished or otherwise transported as a means to save a region, but the method to truly kill it has yet to be discovered.  Rush (Ex) Once per minute for 1 round, the tarrasque can move at a speed of 150 feet. This increases its Acrobatics bonus on checks made to jump to +87.  Spines (Ex) The tarrasque can loose a volley of six spear-like spines from its body as a standard action with a toss of its head or a lash of its tail. Make an attack roll for each spine-all targets must be within 30 feet of each other.  The spines have a range increment of 120 ft.
+SpecialAbilities:
+  Carapace (Su): >
+    The tarrasque's scales deflect cones, lines, rays, and magic missile spells, rendering the tarrasque immune to such effects. There is a 30% chance a deflected effect reflects back in full force at the caster; otherwise it is simply negated.
+  Powerful Leaper (Ex): >
+    The tarrasque uses its Strength to modify Acrobatics checks made to jump, and has a +24 racial bonus on Acrobatics checks made to jump.
+  Regeneration (Ex): >
+    No form of attack can suppress the tarrasque's regeneration-it regenerates even if disintegrated or slain by a death effect. If the tarrasque fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is inflicted upon its remains. It can be banished or otherwise transported as a means to save a region, but the method to truly kill it has yet to be discovered.
+  Rush (Ex): >
+    Once per minute for 1 round, the tarrasque can move at a speed of 150 feet. This increases its Acrobatics bonus on checks made to jump to +87.
+  Spines (Ex): >
+    The tarrasque can loose a volley of six spear-like spines from its body as a standard action with a toss of its head or a lash of its tail. Make an attack roll for each spine-all targets must be within 30 feet of each other.  The spines have a range increment of 120 ft.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

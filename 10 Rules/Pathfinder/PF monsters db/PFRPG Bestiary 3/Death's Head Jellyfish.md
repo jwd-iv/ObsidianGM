@@ -56,7 +56,9 @@ Skills: Swim +9
 RacialMods: 
 Languages: 
 SQ: compression
-SpecialAbilities: Poison (Ex) Tentacle-injury; save Fort DC 14; frequency 1/ round for 6 rounds; effect 1 Con and 1 Cha; cure 2 consecutive saves. If a creature fails two consecutive saving throws, its jaw locks, its tongue swells, and its lips pull back, making speech impossible. This condition ends when the Charisma damage is healed.
+SpecialAbilities:
+  Poison (Ex): >
+    Tentacle-injury; save Fort DC 14; frequency 1/ round for 6 rounds; effect 1 Con and 1 Cha; cure 2 consecutive saves. If a creature fails two consecutive saving throws, its jaw locks, its tongue swells, and its lips pull back, making speech impossible. This condition ends when the Charisma damage is healed.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

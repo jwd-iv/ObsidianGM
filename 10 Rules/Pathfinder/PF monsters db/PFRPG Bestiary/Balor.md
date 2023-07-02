@@ -56,7 +56,17 @@ Skills: Acrobatics +27, Bluff +31, Diplomacy +31, Fly +32, Intimidate +31, Knowl
 RacialMods: +8 Perception
 Languages: Abyssal, Celestial, Draconic; telepathy 100 ft.
 SQ: death throes, vorpal strike, whip mastery
-SpecialAbilities: Death Throes (Su) When killed, a balor explodes in a blinding flash of fire that deals 100 points of damage (half fire, half unholy damage) to anything within 100 feet (Reflex DC 33 halves). The save DC is Constitution-based. Entangle (Ex) If a balor strikes a Medium or smaller foe with its whip, the balor can immediately attempt a grapple check without provoking an attack of opportunity. If the balor wins the check, it draws the foe into an adjacent square. The foe gains the grappled condition, but the balor does not. Flaming Body (Su) A balor's body is covered in dancing flames. Anyone striking a balor with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a balor or is grappled by one takes 6d6 points of fire damage each round the grapple persists. Vorpal Strike (Su) Any slashing weapon a balor wields (including its standard longsword and whip) gains the vorpal weapon quality. Weapons retain this quality for one hour after the balor releases the weapon, but after this the weapon reverts to its standard magical qualities, if any. Whip Mastery (Ex) A balor treats a whip as a light weapon for the purposes of two-weapon fighting, and can inflict lethal damage on a foe regardless of the foe's armor.
+SpecialAbilities:
+  Death Throes (Su): >
+    When killed, a balor explodes in a blinding flash of fire that deals 100 points of damage (half fire, half unholy damage) to anything within 100 feet (Reflex DC 33 halves). The save DC is Constitution-based.
+  Entangle (Ex): >
+    If a balor strikes a Medium or smaller foe with its whip, the balor can immediately attempt a grapple check without provoking an attack of opportunity. If the balor wins the check, it draws the foe into an adjacent square. The foe gains the grappled condition, but the balor does not.
+  Flaming Body (Su): >
+    A balor's body is covered in dancing flames. Anyone striking a balor with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a balor or is grappled by one takes 6d6 points of fire damage each round the grapple persists.
+  Vorpal Strike (Su): >
+    Any slashing weapon a balor wields (including its standard longsword and whip) gains the vorpal weapon quality. Weapons retain this quality for one hour after the balor releases the weapon, but after this the weapon reverts to its standard magical qualities, if any.
+  Whip Mastery (Ex): >
+    A balor treats a whip as a light weapon for the purposes of two-weapon fighting, and can inflict lethal damage on a foe regardless of the foe's armor.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

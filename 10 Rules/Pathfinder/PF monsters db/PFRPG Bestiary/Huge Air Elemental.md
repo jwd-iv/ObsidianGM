@@ -56,7 +56,9 @@ Skills: Acrobatics +18, Escape Artist +18, Fly +23, Knowledge (planes) +7, Perce
 RacialMods: 
 Languages: Auran
 SQ: 
-SpecialAbilities: Air Mastery (Ex) Airborne creatures take a -1 penalty on attack and damage rolls against an air elemental.
+SpecialAbilities:
+  Air Mastery (Ex): >
+    Airborne creatures take a -1 penalty on attack and damage rolls against an air elemental.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

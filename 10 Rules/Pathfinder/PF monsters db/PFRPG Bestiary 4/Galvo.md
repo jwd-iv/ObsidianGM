@@ -56,7 +56,13 @@ Skills: Perception +10, Stealth +15, Swim +15
 RacialMods: 
 Languages: Aquan (can't speak)
 SQ: amphibious, compression, varied attack
-SpecialAbilities: Eel Dart (Ex) A galvo can launch one of its component eels like a dart up to 30 feet as a ranged touch attack. An eel dart deals a number of points of damage equal to 1d6 + the galvo's Strength modifier plus 1d6 points of electricity damage.  Swarmlike (Ex) A galvo has no discernible anatomy, and is not subject to critical hits or flanking. It is also immune to any physical spell or effect that targets a specific number of creatures (including single-target spells such as disintegrate). Mind-affecting effects that target a single creature function normally against a galvo, since the creature's individual components share a hive mind. A galvo takes half again as much damage (+50%) from damaging area effects such as fireball and splash weapons.  Varied Attack (Ex) A galvo's slam attack deals both bludgeoning and slashing damage since the creature is formed completely of biting eels.
+SpecialAbilities:
+  Eel Dart (Ex): >
+    A galvo can launch one of its component eels like a dart up to 30 feet as a ranged touch attack. An eel dart deals a number of points of damage equal to 1d6 + the galvo's Strength modifier plus 1d6 points of electricity damage.
+  Swarmlike (Ex): >
+    A galvo has no discernible anatomy, and is not subject to critical hits or flanking. It is also immune to any physical spell or effect that targets a specific number of creatures (including single-target spells such as disintegrate). Mind-affecting effects that target a single creature function normally against a galvo, since the creature's individual components share a hive mind. A galvo takes half again as much damage (+50%) from damaging area effects such as fireball and splash weapons.
+  Varied Attack (Ex): >
+    A galvo's slam attack deals both bludgeoning and slashing damage since the creature is formed completely of biting eels.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

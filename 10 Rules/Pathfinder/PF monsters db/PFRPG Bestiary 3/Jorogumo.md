@@ -56,7 +56,15 @@ Skills: Acrobatics +14, Bluff +19, Climb +29 (+37 with spider legs), Diplomacy +
 RacialMods: +8 Climb with spider legs
 Languages: Aklo, Common, Sylvan
 SQ: change shape (giant spider; vermin shape I*), spider empathy +21, swift shapechanger
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d6 Wisdom damage; cure 3 saves.  Spider Empathy (Ex) This ability functions as a druid's wild empathy, save that it works only on spiders. A jorogumo uses her Hit Dice (normally 14) as her effective druid level. Spiders are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing the  jorogumo to train them and use them as guardians (though it does not grant them skills or feats).  Spider Legs (Ex) A jorogumo's spider legs can emerge or retract as a free action. When a jorogumo's spider legs are present, she gains a +8 circumstance bonus on Climb checks and gains Deflect Arrows as a bonus feat.  Swift Shapechanger (Ex) A jorogumo can assume spider or human form as a swift action.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d6 Wisdom damage; cure 3 saves.
+  Spider Empathy (Ex): >
+    This ability functions as a druid's wild empathy, save that it works only on spiders. A jorogumo uses her Hit Dice (normally 14) as her effective druid level. Spiders are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing the  jorogumo to train them and use them as guardians (though it does not grant them skills or feats).
+  Spider Legs (Ex): >
+    A jorogumo's spider legs can emerge or retract as a free action. When a jorogumo's spider legs are present, she gains a +8 circumstance bonus on Climb checks and gains Deflect Arrows as a bonus feat.
+  Swift Shapechanger (Ex): >
+    A jorogumo can assume spider or human form as a swift action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

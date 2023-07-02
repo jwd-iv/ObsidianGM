@@ -56,7 +56,9 @@ Skills: Acrobatics +7 (+11 jumping), Perception +6, Stealth +16
 RacialMods: +4 Acrobatics when jumping, +4 Stealth (+8 in undergrowth or rocky areas)
 Languages: Aklo (cannot speak)
 SQ: 
-SpecialAbilities: Chupar (Ex) A chupacabra that pins an opponent or maintains a pin can suck blood from that opponent as a free action once per round, dealing 1 point of Constitution damage.  Upon successfully draining blood, the chupacabra is invigorated, gaining a significant boost in speed for 10 rounds similar to the haste spell. The invigorated chupacabra can still drain blood-and in so doing increase the length of its invigoration-but it gains no additional effects.
+SpecialAbilities:
+  Chupar (Ex): >
+    A chupacabra that pins an opponent or maintains a pin can suck blood from that opponent as a free action once per round, dealing 1 point of Constitution damage.  Upon successfully draining blood, the chupacabra is invigorated, gaining a significant boost in speed for 10 rounds similar to the haste spell. The invigorated chupacabra can still drain blood-and in so doing increase the length of its invigoration-but it gains no additional effects.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

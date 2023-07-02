@@ -56,7 +56,11 @@ Skills: Climb +21, Intimidate +9, Perception +10, Stealth +1 (+9 in snow)
 RacialMods: +4 Stealth (+12 in snow)
 Languages: Aklo
 SQ: 
-SpecialAbilities: Cold (Su) A yeti's body generates intense cold, dealing 1d6 points of cold damage to any creature that contacts it with a natural attack or unarmed strike, or whenever it hits a foe with its claws or rend attack.  Frightful Gaze (Su) Creatures within 30 feet that meet a yeti's gaze must succeed on a DC 13 Will save or stand paralyzed in fear for 1 round.  This is a mind-affecting fear paralysis effect.  A creature that successfully saves cannot be affected again by the frightful gaze of that yeti for 1 day. The save DC is Charisma-based.
+SpecialAbilities:
+  Cold (Su): >
+    A yeti's body generates intense cold, dealing 1d6 points of cold damage to any creature that contacts it with a natural attack or unarmed strike, or whenever it hits a foe with its claws or rend attack.
+  Frightful Gaze (Su): >
+    Creatures within 30 feet that meet a yeti's gaze must succeed on a DC 13 Will save or stand paralyzed in fear for 1 round.  This is a mind-affecting fear paralysis effect.  A creature that successfully saves cannot be affected again by the frightful gaze of that yeti for 1 day. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Climb +19, Intimidate +10, Knowledge (any one) +10, Perception +23, Swim
 RacialMods: 
 Languages: Aklo; telepathy 5 ft.
 SQ: exploit stellar conjunction, hold breath
-SpecialAbilities: Exploit  Stellar Conjunction (Su) A xanthos can sense the alignment of stellar objects (planets, comets, asteroids, and so on) and when they form conjunctions that allow it to use its magic for interplanetary travel. During these conjunctions, the xanthos can use its teleport spell-like ability as interplanetary teleportUM to reach any other world in its current solar system, or as plane shift to reach any known plane. A conjunction remains viable for only 10d10 hours, after which it could be days, weeks, or even months before another conjunction occurs that would once again allow travel between those two locations.
+SpecialAbilities:
+  Exploit  Stellar Conjunction (Su): >
+    A xanthos can sense the alignment of stellar objects (planets, comets, asteroids, and so on) and when they form conjunctions that allow it to use its magic for interplanetary travel. During these conjunctions, the xanthos can use its teleport spell-like ability as interplanetary teleportUM to reach any other world in its current solar system, or as plane shift to reach any known plane. A conjunction remains viable for only 10d10 hours, after which it could be days, weeks, or even months before another conjunction occurs that would once again allow travel between those two locations.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

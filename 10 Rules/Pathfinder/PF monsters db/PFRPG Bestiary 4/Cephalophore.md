@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: shatter weapon, statue form
-SpecialAbilities: Dazing Gaze (Su) A cephalophore can make a gaze attack that affects all seeing creatures within a 60-foot radius. These creatures must succeed at a DC 16 Will save or be stunned for 1 round. Creatures that successfully save are instead sickened for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based.  Dazing Strike (Su) A creature struck by the cephalophore's slam attack must succeed at a DC 16 Will save or be dazed for 1 round. Those who save are instead sickened for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based.  Shatter Weapon (Ex) When a character strikes a cephalophore with a weapon, the weapon takes 3d6 points of damage (apply its hardness normally). A weapon that takes damage in excess of its hardness gains the broken condition.  Statue Form (Ex) If a cephalophore stands perfectly still, it is indistinguishable from a normal statue. An observer must succeed at a DC 20 Perception check to notice the cephalophore is alive. If a cephalophore initiates combat from this pose, it gains a +6 bonus on its initiative check.
+SpecialAbilities:
+  Dazing Gaze (Su): >
+    A cephalophore can make a gaze attack that affects all seeing creatures within a 60-foot radius. These creatures must succeed at a DC 16 Will save or be stunned for 1 round. Creatures that successfully save are instead sickened for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based.
+  Dazing Strike (Su): >
+    A creature struck by the cephalophore's slam attack must succeed at a DC 16 Will save or be dazed for 1 round. Those who save are instead sickened for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based.
+  Shatter Weapon (Ex): >
+    When a character strikes a cephalophore with a weapon, the weapon takes 3d6 points of damage (apply its hardness normally). A weapon that takes damage in excess of its hardness gains the broken condition.
+  Statue Form (Ex): >
+    If a cephalophore stands perfectly still, it is indistinguishable from a normal statue. An observer must succeed at a DC 20 Perception check to notice the cephalophore is alive. If a cephalophore initiates combat from this pose, it gains a +6 bonus on its initiative check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

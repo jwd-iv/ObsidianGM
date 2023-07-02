@@ -56,7 +56,13 @@ Skills: Acrobatics +31, Bluff +33, Diplomacy +33, Fly +11, Intimidate +33, Knowl
 RacialMods: 
 Languages: Abyssal, Protean; telepathy 100 ft.
 SQ: change shape (greater polymorph)
-SpecialAbilities: Reshape Reality (Sp) This ability functions as the spell mirage arcana heightened to a 9th-level spell, except the changes created are quasi-real, like those created by shadow conjuration. A creature that interacts with reshaped reality may make a DC 26 Will save to see through the semi-real illusion. Terrain can provide concealment, and against foes who do not make the Will save to see through the facade, reshaped reality can provide cover. For disbelievers, quasi-real objects and terrain have only 20% normal hardness and hit points, and break DCs are 10 lower than normal. Dangerous terrain cannot exceed 5d6 points of damage per round (1d6 per round against disbelievers). This ability cannot damage existing structures, nor does it function in areas where planar travel is prohibited.  Spatial Riptide (Su) Any non-protean teleporting into or out of the protean's aura must make a DC 28 Fortitude save or enter a state of suspended animation (identical to temporal stasis) for 1d3 rounds; success means the creature is merely nauseated for 1 round. The save DC is Constitution-based.  Warpwave (Su) A creature struck by a keketar's claw or bite must make a DC 28 Fortitude save or be affected by a warpwave. The save DC is Constitution-based.
+SpecialAbilities:
+  Reshape Reality (Sp): >
+    This ability functions as the spell mirage arcana heightened to a 9th-level spell, except the changes created are quasi-real, like those created by shadow conjuration. A creature that interacts with reshaped reality may make a DC 26 Will save to see through the semi-real illusion. Terrain can provide concealment, and against foes who do not make the Will save to see through the facade, reshaped reality can provide cover. For disbelievers, quasi-real objects and terrain have only 20% normal hardness and hit points, and break DCs are 10 lower than normal. Dangerous terrain cannot exceed 5d6 points of damage per round (1d6 per round against disbelievers). This ability cannot damage existing structures, nor does it function in areas where planar travel is prohibited.
+  Spatial Riptide (Su): >
+    Any non-protean teleporting into or out of the protean's aura must make a DC 28 Fortitude save or enter a state of suspended animation (identical to temporal stasis) for 1d3 rounds; success means the creature is merely nauseated for 1 round. The save DC is Constitution-based.
+  Warpwave (Su): >
+    A creature struck by a keketar's claw or bite must make a DC 28 Fortitude save or be affected by a warpwave. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

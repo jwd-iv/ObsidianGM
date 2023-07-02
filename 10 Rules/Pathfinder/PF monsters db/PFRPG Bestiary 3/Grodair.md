@@ -56,7 +56,13 @@ Skills: Knowledge (nature) +8, Survival +8, Swim +22
 RacialMods: 
 Languages: Aquan, Sylvan
 SQ: amphibious, muddy field
-SpecialAbilities: Death Flood (Su) When a grodair is killed, it immediately explodes in a 15-foot-radius burst of highly pressurized water that deals 5d6 points of bludgeoning damage (Reflex DC 17 half ). After the explosion, a successful DC 25 Survival check allows a creature to recover a cluster of strange organs from the remains. This cluster functions as a decanter of endless water for 2d6 hours, but can only produce a "stream" or "fountain" effect. Failing this Survival check by 5 or more causes the cluster to burst, dealing an additional 2d6 points of damage to that creature (no save) and destroying the organs entirely. The save DC is Constitution-based.  Muddy Field (Su) As a standard action when on sand, soil, or other types of loose earth, a grodair can gush standing water into the area surrounding it. Upon doing so, the land within 15 feet of the  grodair is treated as a shallow bog (Core Rulebook 427). This water remains as long as the grodair is within 15 feet and wishes to maintain the water. The bog instantly disperses as soon as the grodair is killed or moves out of the area.  Water Blast (Ex) The grodair's ranged attack is a pressurized blast of water. This attack has a range of 60 feet with no range increment.
+SpecialAbilities:
+  Death Flood (Su): >
+    When a grodair is killed, it immediately explodes in a 15-foot-radius burst of highly pressurized water that deals 5d6 points of bludgeoning damage (Reflex DC 17 half ). After the explosion, a successful DC 25 Survival check allows a creature to recover a cluster of strange organs from the remains. This cluster functions as a decanter of endless water for 2d6 hours, but can only produce a "stream" or "fountain" effect. Failing this Survival check by 5 or more causes the cluster to burst, dealing an additional 2d6 points of damage to that creature (no save) and destroying the organs entirely. The save DC is Constitution-based.
+  Muddy Field (Su): >
+    As a standard action when on sand, soil, or other types of loose earth, a grodair can gush standing water into the area surrounding it. Upon doing so, the land within 15 feet of the  grodair is treated as a shallow bog (Core Rulebook 427). This water remains as long as the grodair is within 15 feet and wishes to maintain the water. The bog instantly disperses as soon as the grodair is killed or moves out of the area.
+  Water Blast (Ex): >
+    The grodair's ranged attack is a pressurized blast of water. This attack has a range of 60 feet with no range increment.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

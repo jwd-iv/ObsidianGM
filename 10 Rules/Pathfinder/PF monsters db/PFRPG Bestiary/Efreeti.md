@@ -56,7 +56,11 @@ Skills: Bluff +19, Craft (any one) +14, Disguise +10, Fly +13, Intimidate +15, P
 RacialMods: 
 Languages: Auran, Aquan, Common, Ignan, Terran; telepathy 100 ft.
 SQ: change shape (humanoid or giant, alter self or giant form I)
-SpecialAbilities: Change Size (Sp) Twice per day, an efreeti can magically change a creature's size. This works just like an enlarge person or reduce person spell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell. Heat (Ex) An efreeti's body deals 1d6 points of fire damage whenever it hits in melee, or in each round it grapples.
+SpecialAbilities:
+  Change Size (Sp): >
+    Twice per day, an efreeti can magically change a creature's size. This works just like an enlarge person or reduce person spell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+  Heat (Ex): >
+    An efreeti's body deals 1d6 points of fire damage whenever it hits in melee, or in each round it grapples.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

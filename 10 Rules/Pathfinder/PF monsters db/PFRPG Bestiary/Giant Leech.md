@@ -56,7 +56,13 @@ Skills: Stealth +1 (+9 in swamps), Swim +8
 RacialMods: +8 Stealth in swamps
 Languages: 
 SQ: amphibious
-SpecialAbilities: Attach (Ex) When a giant leech hits with a bite attack, it latches onto its target and automatically grapples. The giant leech loses its Dexterity bonus to AC and has an AC of 10, but holds on with great tenacity and automatically inflicts bite damage each round. A giant leech has a +8 racial bonus to maintain its grapple on a foe once it is attached. An attached giant leech can be struck with a weapon or grappled itself-if its prey manages to win a grapple check or Escape Artist check against it, the giant leech is removed. Blood Drain (Ex) A giant leech drains blood at the end of each turn it is attached, inflicting 1 point of Strength and Constitution damage. Susceptible to Salt (Ex) A handful of salt burns a giant leech as if it were a flask of acid, causing 1d6 points of damage per use.
+SpecialAbilities:
+  Attach (Ex): >
+    When a giant leech hits with a bite attack, it latches onto its target and automatically grapples. The giant leech loses its Dexterity bonus to AC and has an AC of 10, but holds on with great tenacity and automatically inflicts bite damage each round. A giant leech has a +8 racial bonus to maintain its grapple on a foe once it is attached. An attached giant leech can be struck with a weapon or grappled itself-if its prey manages to win a grapple check or Escape Artist check against it, the giant leech is removed.
+  Blood Drain (Ex): >
+    A giant leech drains blood at the end of each turn it is attached, inflicting 1 point of Strength and Constitution damage.
+  Susceptible to Salt (Ex): >
+    A handful of salt burns a giant leech as if it were a flask of acid, causing 1d6 points of damage per use.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Heal +9, Knowledge (nature) +6, Perception +11, Sense Motive +11, Stealt
 RacialMods: 
 Languages: Common
 SQ: improvised weapon mastery, merge with ward, ward (minor works of civilization)
-SpecialAbilities: Improvised Weapon Mastery (Ex) A shikigami gains Catch Off-Guard and Throw Anything as bonus feats, and adds its Charisma modifier instead of its Strength modifier to damage done with any improvised weapon, as attacks it makes with such weapons seem supernaturally lucky in landing damaging blows. Although a shikigami  is Tiny, it never provokes attacks of opportunity when it attacks an adjacent foe with a melee weapon. If a shikigami critically hits an opponent with an improvised weapon, it deals x3 damage. A shikigami is proficient with improvised weapons.
+SpecialAbilities:
+  Improvised Weapon Mastery (Ex): >
+    A shikigami gains Catch Off-Guard and Throw Anything as bonus feats, and adds its Charisma modifier instead of its Strength modifier to damage done with any improvised weapon, as attacks it makes with such weapons seem supernaturally lucky in landing damaging blows. Although a shikigami  is Tiny, it never provokes attacks of opportunity when it attacks an adjacent foe with a melee weapon. If a shikigami critically hits an opponent with an improvised weapon, it deals x3 damage. A shikigami is proficient with improvised weapons.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

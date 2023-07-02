@@ -56,8 +56,13 @@ Skills: Acrobatics +16 (+24 jump), Bluff +14, Diplomacy +14, Disguise +17, Perce
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Infernal
 SQ: change shape (the previous humanoid it successfully used its fleshdrink ability on; alter self )
-SpecialAbilities: >
-  Charisma Drain (Su) A totenmaske can eat the hopes and dreams of a creature it bites, dealing 1d4 points of Charisma drain unless the victim makes a DC 21 Will save. The save DC is Charisma-based.  Fleshdrink (Su) If a totenmaske hits a single creature with both claw attacks, the hollow claws drain away some of the target's flesh, dealing 1d6 points of Constitution damage and making the victim sickened for 1d4 rounds. A successful DC 19 Fortitude save negates the Constitution damage and reduces the sickened condition duration to 1 round. The save DC is Charisma-based.  Shape Flesh (Su) By spending 1 minute in contact with a helpless creature, a totenmaske can reshape the target's face, causing flesh to cover vital features. The target may attempt a DC 19 Fortitude save to resist. Changes are permanent, but can be reversed with heal, restoration, or regeneration, or by surgically opening the sealed flesh with a DC 15 Heal check that takes 1d3 rounds and deals 1d4 points of damage even if the check is not successful. A totenmaske can use this ability on one of four different features per use: ears (target becomes deaf ), eyes (target becomes blind), mouth (target cannot speak or eat), or nose (target cannot smell). Multiple uses can have increasingly serious effects (such as sealing the mouth and nose, which causes suffocation). The save DC is Charisma-based.
+SpecialAbilities:
+  Charisma Drain (Su): >
+    A totenmaske can eat the hopes and dreams of a creature it bites, dealing 1d4 points of Charisma drain unless the victim makes a DC 21 Will save. The save DC is Charisma-based.
+  Fleshdrink (Su): >
+    If a totenmaske hits a single creature with both claw attacks, the hollow claws drain away some of the target's flesh, dealing 1d6 points of Constitution damage and making the victim sickened for 1d4 rounds. A successful DC 19 Fortitude save negates the Constitution damage and reduces the sickened condition duration to 1 round. The save DC is Charisma-based.
+  Shape Flesh (Su): >
+    By spending 1 minute in contact with a helpless creature, a totenmaske can reshape the target's face, causing flesh to cover vital features. The target may attempt a DC 19 Fortitude save to resist. Changes are permanent, but can be reversed with heal, restoration, or regeneration, or by surgically opening the sealed flesh with a DC 15 Heal check that takes 1d3 rounds and deals 1d4 points of damage even if the check is not successful. A totenmaske can use this ability on one of four different features per use: ears (target becomes deaf ), eyes (target becomes blind), mouth (target cannot speak or eat), or nose (target cannot smell). Multiple uses can have increasingly serious effects (such as sealing the mouth and nose, which causes suffocation). The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

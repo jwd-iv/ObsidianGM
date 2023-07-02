@@ -56,7 +56,9 @@ Skills: Bluff +12, Diplomacy +10, Fly +11, Knowledge (arcana) +7, Knowledge (pla
 RacialMods: 
 Languages: Abyssal, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Aura of Doom (Su) As a free action, a vulnudaemon can radiate an aura of dread and hopelessness. Any creature within 30 feet of the vulnudaemon must succeed at a DC 18 Will save or become shaken for as long as it remains in the aura.
+SpecialAbilities:
+  Aura of Doom (Su): >
+    As a free action, a vulnudaemon can radiate an aura of dread and hopelessness. Any creature within 30 feet of the vulnudaemon must succeed at a DC 18 Will save or become shaken for as long as it remains in the aura.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

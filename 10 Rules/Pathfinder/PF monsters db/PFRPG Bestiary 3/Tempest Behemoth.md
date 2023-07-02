@@ -56,7 +56,13 @@ Skills: Fly +29, Perception +31, Stealth -7, Survival +15
 RacialMods: +20 Fly, +10 Perception
 Languages: Aklo (cannot speak)
 SQ: 
-SpecialAbilities: Gale (Su) A tempest behemoth can generate winds of up to hurricane force as a free action, blowing in as many as three different directions at once. The winds blow either away from or directly toward the behemoth in a 30-foot-wide path that extends for 1,000 feet.  Scales (Ex) A tempest behemoth can hurl up to six scales from its wings (range increment 100 feet) as a standard action.  Thunderbolt (Su) As a swift action once every 1d4 rounds, a behemoth can shoot a bolt of lightning that deals 15d6 points of electricity damage and 15d6 points of sonic damage, and that causes permanent deafness in a 200-foot line. A DC 34 Reflex save halves the damage and negates the deafness. The save DC is Constitution-based.
+SpecialAbilities:
+  Gale (Su): >
+    A tempest behemoth can generate winds of up to hurricane force as a free action, blowing in as many as three different directions at once. The winds blow either away from or directly toward the behemoth in a 30-foot-wide path that extends for 1,000 feet.
+  Scales (Ex): >
+    A tempest behemoth can hurl up to six scales from its wings (range increment 100 feet) as a standard action.
+  Thunderbolt (Su): >
+    As a swift action once every 1d4 rounds, a behemoth can shoot a bolt of lightning that deals 15d6 points of electricity damage and 15d6 points of sonic damage, and that causes permanent deafness in a 200-foot line. A DC 34 Reflex save halves the damage and negates the deafness. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

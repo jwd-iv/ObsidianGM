@@ -56,7 +56,11 @@ Skills: Perception +8, Stealth +1 (+11 underwater), Swim +11
 RacialMods: +10 Stealth underwater
 Languages: 
 SQ: hold breath
-SpecialAbilities: Capsize (Ex) A hippopotamus can overturn a boat of its size or smaller by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher.  Sweat (Ex) A hippo's reddish sweat protects it from nonlethal damage from hot environments, and grants it a +2 racial bonus on saving throws against nonmagical disease.
+SpecialAbilities:
+  Capsize (Ex): >
+    A hippopotamus can overturn a boat of its size or smaller by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher.
+  Sweat (Ex): >
+    A hippo's reddish sweat protects it from nonlethal damage from hot environments, and grants it a +2 racial bonus on saving throws against nonmagical disease.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

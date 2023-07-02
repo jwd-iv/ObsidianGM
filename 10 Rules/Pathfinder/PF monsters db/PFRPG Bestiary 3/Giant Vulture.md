@@ -56,7 +56,9 @@ Skills: Fly +7, Perception +14
 RacialMods: +8 Perception
 Languages: 
 SQ: diseased
-SpecialAbilities: Diseased (Ex) Due to their filthy eating habits and constant exposure to decaying flesh, giant vultures are harbingers of disease-much more so than the standard vulture. Any creature bitten by a giant vulture has a 10% chance of being exposed to filth fever, blinding sickness, or a similar disease (Core Rulebook 557). Once this check is made, a victim can no longer be infected by this particular giant vulture, though attacks by different giant vultures are resolved normally and may result in multiple illnesses. While vultures aren't immune to all diseases, they do gain a +4 racial bonus on all saving throws against such ailments.
+SpecialAbilities:
+  Diseased (Ex): >
+    Due to their filthy eating habits and constant exposure to decaying flesh, giant vultures are harbingers of disease-much more so than the standard vulture. Any creature bitten by a giant vulture has a 10% chance of being exposed to filth fever, blinding sickness, or a similar disease (Core Rulebook 557). Once this check is made, a victim can no longer be infected by this particular giant vulture, though attacks by different giant vultures are resolved normally and may result in multiple illnesses. While vultures aren't immune to all diseases, they do gain a +4 racial bonus on all saving throws against such ailments.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,15 @@ Skills: Fly +23, Perception +30, Stealth +15 (+23 in forests), Swim +48
 RacialMods: +8 Stealth in forests
 Languages: Aklo, Draconic, Sylvan
 SQ: 
-SpecialAbilities: >
-  Breath Weapon (Su) Once every 1d4 rounds as a standard action, a taiga linnorm can expel a 60-foot cone of electrified vapor, dealing 21d8 points of electricity damage to all creatures struck (Reflex DC 30 for half). The vapor itself persists for 1d4 rounds, filling its cone-shaped area with electrified mist that deals 4d6 points of electricity damage (no save) to any creature that ends its turn in the mist. The mist does not hinder vision. The save DC is Constitution-based.  Death Curse (Su) Curse of Electrocution: save Will DC 29; effect the creature gains vulnerability to electricity.  Poison (Ex) Bite-injury; save Fort DC 30; frequency 1/round for 10 rounds; effect 4d6 electricity damage and 1d8 Dex drain; cure 3 consecutive saves.  Spines (Ex) Any creature that makes a melee attack against a taiga linnorm takes 1d6 points of piercing damage per attack from the linnorm's spines. A melee weapon with reach provides protection from these spines.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Once every 1d4 rounds as a standard action, a taiga linnorm can expel a 60-foot cone of electrified vapor, dealing 21d8 points of electricity damage to all creatures struck (Reflex DC 30 for half). The vapor itself persists for 1d4 rounds, filling its cone-shaped area with electrified mist that deals 4d6 points of electricity damage (no save) to any creature that ends its turn in the mist. The mist does not hinder vision. The save DC is Constitution-based.
+  Death Curse (Su): >
+    Curse of Electrocution: save Will DC 29; effect the creature gains vulnerability to electricity.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 30; frequency 1/round for 10 rounds; effect 4d6 electricity damage and 1d8 Dex drain; cure 3 consecutive saves.
+  Spines (Ex): >
+    Any creature that makes a melee attack against a taiga linnorm takes 1d6 points of piercing damage per attack from the linnorm's spines. A melee weapon with reach provides protection from these spines.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

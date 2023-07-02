@@ -56,7 +56,11 @@ Skills: Bluff +12, Diplomacy +11, Fly +18, Knowledge (planes) +11, Perception +1
 RacialMods: 
 Languages: Dark Folk (can't speak); telepathy 100 ft.
 SQ: 
-SpecialAbilities: Burning Cold (Su) As a standard action, an owb can conjure a ball of flickering flames and hurl it at an opponent. The flames can be thrown as a ranged touch attack at a range of 120 feet with no range increment, and deal 3d6 points of cold damage.  Curse of Darkness (Su) With a touch, an owb can make bright light unbearable to the victim. Any creature touched must succeed at a DC 17 Fortitude save or gain the light blindness weakness. This ability also robs the victim of its coloration, leaving the creature and its equipment in washed-out shades of gray. This effect can be removed with break enchantment or remove curse, unless the target has the dark folk subtype, in which case the effect can only be removed by wish or similar magic. The save DC is Charisma-based.
+SpecialAbilities:
+  Burning Cold (Su): >
+    As a standard action, an owb can conjure a ball of flickering flames and hurl it at an opponent. The flames can be thrown as a ranged touch attack at a range of 120 feet with no range increment, and deal 3d6 points of cold damage.
+  Curse of Darkness (Su): >
+    With a touch, an owb can make bright light unbearable to the victim. Any creature touched must succeed at a DC 17 Fortitude save or gain the light blindness weakness. This ability also robs the victim of its coloration, leaving the creature and its equipment in washed-out shades of gray. This effect can be removed with break enchantment or remove curse, unless the target has the dark folk subtype, in which case the effect can only be removed by wish or similar magic. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

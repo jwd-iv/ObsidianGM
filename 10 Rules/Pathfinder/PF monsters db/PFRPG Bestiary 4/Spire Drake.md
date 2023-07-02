@@ -56,7 +56,13 @@ Skills: Climb +20, Fly +10, Knowledge (arcana) +10, Knowledge (religion) +10, Pe
 RacialMods: 
 Languages: Draconic
 SQ: speed surge
-SpecialAbilities: Accursed Breath (Su) As a standard action, a spire drake can spit a compressed ball of jet-black dust that bursts into a spray of clinging motes that sap the spiritual strength of creatures in an area. The attack has a range of 60 feet and deals 5d6 points of negative energy damage (Will DC 18 half) to all creatures in a 20-foot radius. Affected creatures take a -2 penalty on attack rolls, saving throws, skill checks, and ability checks for 1d4 rounds (or for 1 round on a successful Will save). As long as these motes cling to a creature, the effect of any conjuration (healing) effect used on that creature is halved. This is a curse effect. The save DC is Constitution-based.  Soul Corruption (Su) If a spire drake successfully performs a coup de grace upon a creature afflicted by its accursed breath, the slain target arises 1d4 rounds later as a wight (Pathfinder RPG Bestiary 276). This wight is not under the drake's control, and the wight and any spawn that it creates perish 1d6 days after arising.  Speed Surge (Su) Three times per day as a swift action, a spire drake can draw on its draconic reserves for a boost of strength and speed, allowing it to take an additional move action in that round.
+SpecialAbilities:
+  Accursed Breath (Su): >
+    As a standard action, a spire drake can spit a compressed ball of jet-black dust that bursts into a spray of clinging motes that sap the spiritual strength of creatures in an area. The attack has a range of 60 feet and deals 5d6 points of negative energy damage (Will DC 18 half) to all creatures in a 20-foot radius. Affected creatures take a -2 penalty on attack rolls, saving throws, skill checks, and ability checks for 1d4 rounds (or for 1 round on a successful Will save). As long as these motes cling to a creature, the effect of any conjuration (healing) effect used on that creature is halved. This is a curse effect. The save DC is Constitution-based.
+  Soul Corruption (Su): >
+    If a spire drake successfully performs a coup de grace upon a creature afflicted by its accursed breath, the slain target arises 1d4 rounds later as a wight (Pathfinder RPG Bestiary 276). This wight is not under the drake's control, and the wight and any spawn that it creates perish 1d6 days after arising.
+  Speed Surge (Su): >
+    Three times per day as a swift action, a spire drake can draw on its draconic reserves for a boost of strength and speed, allowing it to take an additional move action in that round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

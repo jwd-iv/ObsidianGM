@@ -56,7 +56,13 @@ Skills: Climb +11, Fly -5, Perception +6, Stealth +1 (+13 in forests)
 RacialMods: +4 Perception, +4 Stealth (+12 in forests)
 Languages: 
 SQ: 
-SpecialAbilities: Lunge (Ex) A giant mantis's limbs are capable of reaching much farther than normal for a creature of its size. As a fullattack action, it can make a single attack with its claws at double its normal reach. When a giant mantis attacks with a claw in this manner, it gains a +4 bonus on its attack roll. A giant mantis cannot make attacks of opportunity with its lunge.  Mandibles (Ex) A giant mantis that grabs a foe can make a bite attack against that foe as a secondary attack. The mantis's bite is a +0 attack that inflicts 1d6+1 points of damage on a hit.  Sudden Strike (Ex) A giant mantis is particularly adept at moving quickly when its foes are surprised. During a surprise round, a giant mantis may act as if it had a full round to act, rather than just one standard action.
+SpecialAbilities:
+  Lunge (Ex): >
+    A giant mantis's limbs are capable of reaching much farther than normal for a creature of its size. As a fullattack action, it can make a single attack with its claws at double its normal reach. When a giant mantis attacks with a claw in this manner, it gains a +4 bonus on its attack roll. A giant mantis cannot make attacks of opportunity with its lunge.
+  Mandibles (Ex): >
+    A giant mantis that grabs a foe can make a bite attack against that foe as a secondary attack. The mantis's bite is a +0 attack that inflicts 1d6+1 points of damage on a hit.
+  Sudden Strike (Ex): >
+    A giant mantis is particularly adept at moving quickly when its foes are surprised. During a surprise round, a giant mantis may act as if it had a full round to act, rather than just one standard action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

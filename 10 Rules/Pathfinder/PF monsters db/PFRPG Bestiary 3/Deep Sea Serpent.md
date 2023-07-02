@@ -56,7 +56,13 @@ Skills: Perception +23, Stealth +8, Swim +22
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Elusive (Su) As a full-round action while in water, a deep sea serpent can move up to its run speed (200 feet) without leaving any trace of its passing (identical in effect to pass without trace). An elusive deep sea serpent gains a +40 circumstance bonus on its Stealth check. In addition, except when in combat, a sea serpent is considered to be under the effects of a nondetection spell. Both of these effects function at caster level 20th and cannot be dispelled.  Powerful Tail (Ex) A deep sea serpent's tail slap is always a primary attack. When a deep sea serpent deals damage to an object with its tail slap or via constrict damage, it ignores the first 10 points of hardness that object possesses.  Surge (Ex) A deep sea serpent can surge forward as a full-round action at a speed of 400 feet. It must move in a straight line, but does not provoke attacks of opportunity while surging.
+SpecialAbilities:
+  Elusive (Su): >
+    As a full-round action while in water, a deep sea serpent can move up to its run speed (200 feet) without leaving any trace of its passing (identical in effect to pass without trace). An elusive deep sea serpent gains a +40 circumstance bonus on its Stealth check. In addition, except when in combat, a sea serpent is considered to be under the effects of a nondetection spell. Both of these effects function at caster level 20th and cannot be dispelled.
+  Powerful Tail (Ex): >
+    A deep sea serpent's tail slap is always a primary attack. When a deep sea serpent deals damage to an object with its tail slap or via constrict damage, it ignores the first 10 points of hardness that object possesses.
+  Surge (Ex): >
+    A deep sea serpent can surge forward as a full-round action at a speed of 400 feet. It must move in a straight line, but does not provoke attacks of opportunity while surging.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

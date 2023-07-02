@@ -56,7 +56,9 @@ Skills: Perception +10, Stealth +9 (+17 in undergrowth)
 RacialMods: +8 Stealth in undergrowth
 Languages: 
 SQ: 
-SpecialAbilities: Engulf (Ex) If a giant flytrap begins its turn with an opponent at least two size categories smaller than itself grappled in one of its mouths, it can close its jaws completely around the foe by making a new combat maneuver check (as though attempting to pin the foe). If it succeeds, it engulfs the prey and inflicts 1d8+7 points of damage and 2d6 acid damage as the cavity floods with digestive enzymes.  The seal formed is airtight, so an engulfed creature risks suffocation. Engulf is a special form of pinning, and an engulfed creature can escape in the same way as he can from being pinned, but since an engulfed creature is contained wholly inside the plant's jaws, the flytrap's victim cannot be targeted by effects or attacks that require line of sight or line of effect. A giant flytrap that is grappling or pinning a foe cannot attack other targets with that bite, but is not otherwise hindered.
+SpecialAbilities:
+  Engulf (Ex): >
+    If a giant flytrap begins its turn with an opponent at least two size categories smaller than itself grappled in one of its mouths, it can close its jaws completely around the foe by making a new combat maneuver check (as though attempting to pin the foe). If it succeeds, it engulfs the prey and inflicts 1d8+7 points of damage and 2d6 acid damage as the cavity floods with digestive enzymes.  The seal formed is airtight, so an engulfed creature risks suffocation. Engulf is a special form of pinning, and an engulfed creature can escape in the same way as he can from being pinned, but since an engulfed creature is contained wholly inside the plant's jaws, the flytrap's victim cannot be targeted by effects or attacks that require line of sight or line of effect. A giant flytrap that is grappling or pinning a foe cannot attack other targets with that bite, but is not otherwise hindered.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,15 @@ Skills: Diplomacy +7, Fly +20, Knowledge (planes) +6, Knowledge (religion) +6, P
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: disassemble, minor archon
-SpecialAbilities: Blades (Ex) A harbinger can extend blades from its body to strike with as primary natural attacks. These blades possess a +1 enhancement bonus on attack and damage rolls, and are treated as both magic and good-aligned for the purposes of penetrating damage reduction.  Disassemble (Su) As a move-equivalent action, a harbinger can break apart into its components. This is treated as gaseous form, except the archon retains its full flight speed and DR, and cannot fit through gaps smaller than 1 inch in diameter. Reforming into an orrery is a standard action.  Minor Archon (Ex) Harbinger archons lack the aura of menace and teleport abilities of more powerful archons.  Wrath (Su) Once per minute, a harbinger archon can emit a blast of energy that deals 2d6 points of force damage to adjacent creatures. A DC 12 Reflex save halves this damage. The harbinger can choose to omit any target from this blast that it desires, damaging only those foes it chooses. The save DC is Charisma-based.
+SpecialAbilities:
+  Blades (Ex): >
+    A harbinger can extend blades from its body to strike with as primary natural attacks. These blades possess a +1 enhancement bonus on attack and damage rolls, and are treated as both magic and good-aligned for the purposes of penetrating damage reduction.
+  Disassemble (Su): >
+    As a move-equivalent action, a harbinger can break apart into its components. This is treated as gaseous form, except the archon retains its full flight speed and DR, and cannot fit through gaps smaller than 1 inch in diameter. Reforming into an orrery is a standard action.
+  Minor Archon (Ex): >
+    Harbinger archons lack the aura of menace and teleport abilities of more powerful archons.
+  Wrath (Su): >
+    Once per minute, a harbinger archon can emit a blast of energy that deals 2d6 points of force damage to adjacent creatures. A DC 12 Reflex save halves this damage. The harbinger can choose to omit any target from this blast that it desires, damaging only those foes it chooses. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

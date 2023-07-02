@@ -56,7 +56,13 @@ Skills: Climb +10, Perception +9, Stealth +14 (+22 in vegetation)
 RacialMods: +8 Stealth in vegetation
 Languages: Abyssal, Common
 SQ: 
-SpecialAbilities: Poison (Ex) Slam-injury; save Fort DC 15; frequency 1/round for 4 rounds; effect confusion and fatigue; cure no saves but "act normally" result on the confusion behavior table ends the effect.  Shriek (Su) Once per day as a standard action, a mandragora can give voice to an unsettling shriek. All creatures within a 30-foot spread of a shrieking mandragora must make a DC 15 Will save or become nauseated for 1d4 rounds. This is a sonic, mind-affecting ability. The save DC is Constitution-based.  Vulnerable to Supernatural Darkness (Ex) In areas of supernatural darkness (such as those created by deeper darkness, but not by darkness), a mandragora is slowed, as the slow spell.
+SpecialAbilities:
+  Poison (Ex): >
+    Slam-injury; save Fort DC 15; frequency 1/round for 4 rounds; effect confusion and fatigue; cure no saves but "act normally" result on the confusion behavior table ends the effect.
+  Shriek (Su): >
+    Once per day as a standard action, a mandragora can give voice to an unsettling shriek. All creatures within a 30-foot spread of a shrieking mandragora must make a DC 15 Will save or become nauseated for 1d4 rounds. This is a sonic, mind-affecting ability. The save DC is Constitution-based.
+  Vulnerable to Supernatural Darkness (Ex): >
+    In areas of supernatural darkness (such as those created by deeper darkness, but not by darkness), a mandragora is slowed, as the slow spell.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

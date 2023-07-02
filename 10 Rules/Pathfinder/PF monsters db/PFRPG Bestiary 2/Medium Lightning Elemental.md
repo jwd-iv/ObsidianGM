@@ -56,7 +56,11 @@ Skills: Acrobatics +11, Escape Artist +9, Fly +12, Knowledge (planes) +2, Percep
 RacialMods: 
 Languages: Auran
 SQ: 
-SpecialAbilities: Metal Mastery (Ex) A lightning elemental gains a +3 bonus on attack rolls if its opponent is wearing metal armor, is wielding a metal weapon, or is made of metal (such as an iron golem). Spark Leap (Ex) A lightning elemental gains a +10 bonus on bull rush, disarm, overrun, and trip attacks when it charges a creature against whom its metal mastery ability applies.
+SpecialAbilities:
+  Metal Mastery (Ex): >
+    A lightning elemental gains a +3 bonus on attack rolls if its opponent is wearing metal armor, is wielding a metal weapon, or is made of metal (such as an iron golem).
+  Spark Leap (Ex): >
+    A lightning elemental gains a +10 bonus on bull rush, disarm, overrun, and trip attacks when it charges a creature against whom its metal mastery ability applies.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Acrobatics +7 (+3 when jumping), Climb +15, Perception +13, Stealth +19,
 RacialMods: +4 Perception, +4 Stealth; uses Dex to modify Climb and Swim
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Swarm-injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Poison (Ex): >
+    Swarm-injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

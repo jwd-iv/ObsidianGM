@@ -56,8 +56,13 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Foul Stench (Ex) This functions as the stench ability, but causes affected creatures to be nauseated rather than sickened.  Immune to Magic (Ex) A carrion golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.  • Gentle repose causes a carrion golem to become stiff and helpless for 1d4 rounds if it fails a Will save against the spell.  • Animate dead causes the various parts of the golem's body to shudder and tear, dealing 1d6 points of damage per caster level to the golem (no save).  • Any magical attack that deals cold or fire damage slows a carrion golem (as the slow spell) for 2d6 rounds (no save).  • Any magical attack that deals electricity damage hastes a carrion golem (as the haste spell) for 2d6 rounds.  Plague Carrier (Ex) When a carrion golem is created, its creator infects it with a specific disease. The carrion golem can then infect those it strikes with its slams with this disease-most carrion golems inflict filth fever. The save DC is Constitution-based and includes a +2 racial bonus.  Filth Fever: Slam-injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves.
+SpecialAbilities:
+  Foul Stench (Ex): >
+    This functions as the stench ability, but causes affected creatures to be nauseated rather than sickened.
+  Immune to Magic (Ex): >
+    A carrion golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.  • Gentle repose causes a carrion golem to become stiff and helpless for 1d4 rounds if it fails a Will save against the spell.  • Animate dead causes the various parts of the golem's body to shudder and tear, dealing 1d6 points of damage per caster level to the golem (no save).  • Any magical attack that deals cold or fire damage slows a carrion golem (as the slow spell) for 2d6 rounds (no save).  • Any magical attack that deals electricity damage hastes a carrion golem (as the haste spell) for 2d6 rounds.
+  Plague Carrier (Ex): >
+    When a carrion golem is created, its creator infects it with a specific disease. The carrion golem can then infect those it strikes with its slams with this disease-most carrion golems inflict filth fever. The save DC is Constitution-based and includes a +2 racial bonus.  Filth Fever: Slam-injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

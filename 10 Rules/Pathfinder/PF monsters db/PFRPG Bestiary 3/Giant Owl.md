@@ -56,7 +56,13 @@ Skills: Fly +11, Knowledge (geography, history, nature) +11, Perception +17, Sen
 RacialMods: +4 Fly, +8 on all Knowledge skills, +4 Perception, +4 Sense Motive, +8 Stealth
 Languages: Sylvan (cannot speak); animal telepathy (30 ft.)
 SQ: insightful senses, piercing stare
-SpecialAbilities: Animal Telepathy (Su) A giant owl can telepathically communicate with other animals as if under the effects of speak with animals.  Insightful Senses (Su) A giant owl's senses are particularly well honed to sensing danger or locating prey. It adds its Wisdom modifier as an insight bonus (+3 for most giant owls) on its initiative checks.  Piercing Stare (Su) Up to three times per day as a swift action, a giant owl can gain the effects of true seeing (as the spell) for 1 round.
+SpecialAbilities:
+  Animal Telepathy (Su): >
+    A giant owl can telepathically communicate with other animals as if under the effects of speak with animals.
+  Insightful Senses (Su): >
+    A giant owl's senses are particularly well honed to sensing danger or locating prey. It adds its Wisdom modifier as an insight bonus (+3 for most giant owls) on its initiative checks.
+  Piercing Stare (Su): >
+    Up to three times per day as a swift action, a giant owl can gain the effects of true seeing (as the spell) for 1 round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

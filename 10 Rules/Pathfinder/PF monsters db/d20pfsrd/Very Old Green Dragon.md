@@ -56,7 +56,15 @@ Skills: Fly +9, Knowledge (arcana) +28, Knowledge (local) +28, Knowledge (nature
 RacialMods: +8 Swim
 Languages: Common, Draconic, Elven, Giant, Sylvan
 SQ: camouflage, trackless step, water breathing, woodland stride
-SpecialAbilities: Camouflage (Ex) An old or older green dragon can use Stealth to hide in any sort of natural terrain, even if the terrain does not grant cover or concealment.  Trackless Step (Ex) An adult or older green dragon does not leave a trail in natural surroundings and cannot be tracked. A green dragon can choose to leave a trail, if it so desires.  Water Breathing (Ex) A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.  Woodland Stride (Ex) A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
+SpecialAbilities:
+  Camouflage (Ex): >
+    An old or older green dragon can use Stealth to hide in any sort of natural terrain, even if the terrain does not grant cover or concealment.
+  Trackless Step (Ex): >
+    An adult or older green dragon does not leave a trail in natural surroundings and cannot be tracked. A green dragon can choose to leave a trail, if it so desires.
+  Water Breathing (Ex): >
+    A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+  Woodland Stride (Ex): >
+    A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
 SpellsKnown: Spells Known (CL 11th; concentration +15)  5th (4/day)-summon monster V, teleport  4th (7/day)-dimension door, ice storm, stoneskin  3rd (7/day)-dispel magic, displacement, fireball (DC 17), haste  2nd (7/day)-alter self, detect thoughts (DC 16), locate object, mirror image, see invisibility  1st (7/day)-magic missile, shield, silent image (DC 15), summon monster I, ventriloquism (DC 15)  0 (at will)-acid splash, bleed, dancing lights, detect magic, ghost sound, mage hand, message, resistance, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

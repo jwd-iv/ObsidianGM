@@ -56,7 +56,9 @@ Skills: Bluff +8, Fly +15, Knowledge (arcana) +6, Knowledge (planes) +6, Percept
 RacialMods: 
 Languages: Abyssal, Celestial, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 11; frequency 1/round for 6 rounds; effect 1d2 Wis; cure 2 consecutive saves.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 11; frequency 1/round for 6 rounds; effect 1d2 Wis; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,11 @@ Skills: Acrobatics +21 (+29 when jumping), Escape Artist +21, Intimidate +16, Kn
 RacialMods: 
 Languages: Aklo, Common, Sylvan
 SQ: amphibious, undersized weapons
-SpecialAbilities: >
-  Breath Weapon (Su) A nuckelavee's breath weapon is a cone of withering foulness that causes painful welts, cramps, and bleeding, and only harms living creatures- this damage bypasses all energy resistance and damage reduction. Non-creature plants in the area are affected as if by  a blight spell. Any creature that fails its Reflex save against the breath weapon must make a DC 21 Fortitude save or contract mortasheen (see below). The save DC is Constitution-based.  Disease (Su) Mortasheen: Contact; save Fort DC 21; onset immediate; frequency 1/day; effect 1d4 Con and fatigue; cure 2 consecutive saves. Animals take a -2 penalty on their saves against this disease. The save DC is Constitution-based.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A nuckelavee's breath weapon is a cone of withering foulness that causes painful welts, cramps, and bleeding, and only harms living creatures- this damage bypasses all energy resistance and damage reduction. Non-creature plants in the area are affected as if by  a blight spell. Any creature that fails its Reflex save against the breath weapon must make a DC 21 Fortitude save or contract mortasheen (see below). The save DC is Constitution-based.
+  Disease (Su): >
+    Mortasheen: Contact; save Fort DC 21; onset immediate; frequency 1/day; effect 1d4 Con and fatigue; cure 2 consecutive saves. Animals take a -2 penalty on their saves against this disease. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

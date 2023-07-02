@@ -56,8 +56,13 @@ Skills: Climb +14, Heal +7, Intimidate +6, Perception +8, Survival +9
 RacialMods: 
 Languages: Common, Giant
 SQ: oversized weapon, vermin empathy +14
-SpecialAbilities: >
-  Disease (Su) While ash giants are immune to disease, they carry a contagious form of leprosy. Any creature struck by an ash giant's attacks is exposed to this virulent sickness.  Ash Leprosy: Injury; save Fort 23; onset 1 minute; frequency 1/day; effect 1d2 Con damage, 1d2 Cha drain; cure 2 consecutive saves. The save DC is Constitution-based.  Oversized Weapon (Ex) An ash giant can wield Huge weapons without penalty.  Vermin Empathy (Ex) This ability functions as a druid's wild empathy ability, save that it works only on vermin. An ash giant uses its Hit Dice (normally 14) as its effective druid level. Vermin are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing the ash giant to train vermin and use them as guardians (although it does not grant them skills or feats).
+SpecialAbilities:
+  Disease (Su): >
+    While ash giants are immune to disease, they carry a contagious form of leprosy. Any creature struck by an ash giant's attacks is exposed to this virulent sickness.  Ash Leprosy: Injury; save Fort 23; onset 1 minute; frequency 1/day; effect 1d2 Con damage, 1d2 Cha drain; cure 2 consecutive saves. The save DC is Constitution-based.
+  Oversized Weapon (Ex): >
+    An ash giant can wield Huge weapons without penalty.
+  Vermin Empathy (Ex): >
+    This ability functions as a druid's wild empathy ability, save that it works only on vermin. An ash giant uses its Hit Dice (normally 14) as its effective druid level. Vermin are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing the ash giant to train vermin and use them as guardians (although it does not grant them skills or feats).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

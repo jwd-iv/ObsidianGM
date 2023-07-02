@@ -56,7 +56,13 @@ Skills: Climb +12, Craft (bows) +8, Perception +15, Stealth +12 (+20 in forests)
 RacialMods: +4 Climb, +8 Stealth in forests
 Languages: Common, Giant
 SQ: archery expert
-SpecialAbilities: Archery Expert (Su) A jungle giant is proficient with all bows, and does not provoke an attack of opportunity when firing a bow in melee combat.  Spell Storing (Su) Once per day as a immediate action, a jungle giant can absorb a targeted or ranged touch spell used against it, negating the effects against it but not against any other targets. It can retain this stored power for up to 1 minute, during which time its tattoos glow with blue fire. If it damages a target with a successful hit using a melee or ranged weapon, it can cast the spell on the target as a free action, as if it were using a spell storing weapon. This spell uses the caster level and DC of the original caster. This discharges the stored spell.  Warding Tattoos (Su) A jungle giant's magical tattoos grant it a +4 deflection bonus to Armor Class. The giant loses this bonus if it wears armor.
+SpecialAbilities:
+  Archery Expert (Su): >
+    A jungle giant is proficient with all bows, and does not provoke an attack of opportunity when firing a bow in melee combat.
+  Spell Storing (Su): >
+    Once per day as a immediate action, a jungle giant can absorb a targeted or ranged touch spell used against it, negating the effects against it but not against any other targets. It can retain this stored power for up to 1 minute, during which time its tattoos glow with blue fire. If it damages a target with a successful hit using a melee or ranged weapon, it can cast the spell on the target as a free action, as if it were using a spell storing weapon. This spell uses the caster level and DC of the original caster. This discharges the stored spell.
+  Warding Tattoos (Su): >
+    A jungle giant's magical tattoos grant it a +4 deflection bonus to Armor Class. The giant loses this bonus if it wears armor.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Perception +7, Stealth +9 (+13 in water), Survival +3 (+7 in water), Swi
 RacialMods: +4 Stealth and Survival in water
 Languages: Druidic, Sylvan; plantspeech (seaweed)
 SQ: air cyst, amphibious, change shape (Small seaweed; tree shape), verdant burst
-SpecialAbilities: Air Cyst (Su) Seaweed leshys constantly grow small bulbs filled with air. As a move action, they can detach a bulb and give it to another creature. If consumed as a standard action, this air cyst grants water breathing (as the spell) for 10 minutes. Seaweed leshys can have a maximum of four usable air cysts at any one time, and air cysts regrow at a rate of one per 24 hours.  Water Jet (Ex) A seaweed leshy can expel a high-pressure jet of water from its mouth to a range of 30 feet. It must make a ranged touch attack to strike  a target-if it hits, the blast deals 1 point of bludgeoning damage (this damage is not modified by Strength). In addition, the creature hit must make a DC 15 Fortitude save or be blinded by the water for 1 round. The save DC is Dexterity-based.
+SpecialAbilities:
+  Air Cyst (Su): >
+    Seaweed leshys constantly grow small bulbs filled with air. As a move action, they can detach a bulb and give it to another creature. If consumed as a standard action, this air cyst grants water breathing (as the spell) for 10 minutes. Seaweed leshys can have a maximum of four usable air cysts at any one time, and air cysts regrow at a rate of one per 24 hours.
+  Water Jet (Ex): >
+    A seaweed leshy can expel a high-pressure jet of water from its mouth to a range of 30 feet. It must make a ranged touch attack to strike  a target-if it hits, the blast deals 1 point of bludgeoning damage (this damage is not modified by Strength). In addition, the creature hit must make a DC 15 Fortitude save or be blinded by the water for 1 round. The save DC is Dexterity-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Diplomacy +14, Fly +0, Intimidate +14, Knowledge (religion) +14, Percept
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: spear and shield, stability
-SpecialAbilities: Spear and Shield (Su) At will as a free action, a shield archon can transform his hands into a +1 tower shield and a +3 shortspear, or either individually, or back to hands again. He cannot transform both hands into shields or both into shortspears. A shield archon never takes the typical -2 penalty on attack rolls while wielding a tower shield. A shield archon's weapons cannot be disarmed, but they can be sundered. If a shield archon loses his spear or shield, he can manifest a new one as a full-round action. When a shield archon is slain, these two items fade away-they cannot be looted or wielded by any other creature.  Stability (Ex) Shield archons receive a +4 racial bonus to CMD when resisting a bull rush or trip attempt.  Transpose Ally (Su) Once per day as a standard action, a shield archon can teleport to the location of a willing (or unconscious) ally and immediately teleport that ally to the archon's previous position, in effect switching places with the ally. The archon must have line of effect to the target.
+SpecialAbilities:
+  Spear and Shield (Su): >
+    At will as a free action, a shield archon can transform his hands into a +1 tower shield and a +3 shortspear, or either individually, or back to hands again. He cannot transform both hands into shields or both into shortspears. A shield archon never takes the typical -2 penalty on attack rolls while wielding a tower shield. A shield archon's weapons cannot be disarmed, but they can be sundered. If a shield archon loses his spear or shield, he can manifest a new one as a full-round action. When a shield archon is slain, these two items fade away-they cannot be looted or wielded by any other creature.
+  Stability (Ex): >
+    Shield archons receive a +4 racial bonus to CMD when resisting a bull rush or trip attempt.
+  Transpose Ally (Su): >
+    Once per day as a standard action, a shield archon can teleport to the location of a willing (or unconscious) ally and immediately teleport that ally to the archon's previous position, in effect switching places with the ally. The archon must have line of effect to the target.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

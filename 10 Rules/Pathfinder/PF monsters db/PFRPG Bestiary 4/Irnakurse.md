@@ -56,7 +56,11 @@ Skills: Climb +20, Perception +15, Stealth +12
 RacialMods: 
 Languages: Elven (can't speak)
 SQ: 
-SpecialAbilities: Mind Lash (Su) Those struck by an irnakurse are overwhelmed with dark emotions and corrupted images of a ruined life. Any non-evil creature hit by an irnakurse's tentacle must succeed at a DC 19 Will save or be stunned for 1 round. A creature that successfully saves can't be affected by the same irnakurse's mind lash for 24 hours. The save DC is Charisma-based.  Soul Scream (Su) Capable of channeling all of its rage and terror into a single, unnatural noise, an irnakurse can unleash a sound of alien horror as a standard action. Any non-evil creature within 30 feet of a screaming irnakurse must succeed at a DC 19 Will save or take 1d4 points of Wisdom drain. Once it begins screaming, an irnakurse can continue as a free action for 6 rounds, but can't scream again for 5 minutes afterward. The save DC is Charisma-based.
+SpecialAbilities:
+  Mind Lash (Su): >
+    Those struck by an irnakurse are overwhelmed with dark emotions and corrupted images of a ruined life. Any non-evil creature hit by an irnakurse's tentacle must succeed at a DC 19 Will save or be stunned for 1 round. A creature that successfully saves can't be affected by the same irnakurse's mind lash for 24 hours. The save DC is Charisma-based.
+  Soul Scream (Su): >
+    Capable of channeling all of its rage and terror into a single, unnatural noise, an irnakurse can unleash a sound of alien horror as a standard action. Any non-evil creature within 30 feet of a screaming irnakurse must succeed at a DC 19 Will save or take 1d4 points of Wisdom drain. Once it begins screaming, an irnakurse can continue as a free action for 6 rounds, but can't scream again for 5 minutes afterward. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

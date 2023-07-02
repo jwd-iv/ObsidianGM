@@ -56,7 +56,9 @@ Skills: Intimidate +4
 RacialMods: 
 Languages: Common, Terran
 SQ: elemental affinity
-SpecialAbilities: Earth Affinity (Ex) Oread sorcerers with the Elemental (earth) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Earth domain cast their domain powers and spells at +1 caster level.
+SpecialAbilities:
+  Earth Affinity (Ex): >
+    Oread sorcerers with the Elemental (earth) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Earth domain cast their domain powers and spells at +1 caster level.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

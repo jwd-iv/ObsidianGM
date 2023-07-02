@@ -56,7 +56,13 @@ Skills: Fly +10, Handle Animal +13, Intimidate +16, Knowledge (arcana) +16, Perc
 RacialMods: +8 Swim
 Languages: Common, Draconic
 SQ: speak with reptiles, swamp stride, water breathing
-SpecialAbilities: Speak with Reptiles (Sp) A young or older black dragon gains the constant spell-like ability to speak with reptiles. This functions as speak with animals, but only with reptilian animals. Swamp Stride (Ex) A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed. Water Breathing (Ex) A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+SpecialAbilities:
+  Speak with Reptiles (Sp): >
+    A young or older black dragon gains the constant spell-like ability to speak with reptiles. This functions as speak with animals, but only with reptilian animals.
+  Swamp Stride (Ex): >
+    A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.
+  Water Breathing (Ex): >
+    A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 SpellsKnown: Spells Known (CL 1st) 1st (4/day)-alarm, obscuring mist 0 (at will)-detect magic, mending, message, read magic
 SpellsPrepared: 
 SpellDomains: 

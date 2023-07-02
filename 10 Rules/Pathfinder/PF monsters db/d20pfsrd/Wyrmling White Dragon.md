@@ -56,7 +56,9 @@ Skills: Fly +13, Perception +7, Stealth +17, Swim +14
 RacialMods: +8 Swim
 Languages: Draconic
 SQ: 
-SpecialAbilities: Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+SpecialAbilities:
+  Icewalking (Ex): >
+    This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

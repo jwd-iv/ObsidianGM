@@ -56,7 +56,11 @@ Skills: Bluff +32, Heal +31, Intimidate +29, Knowledge (arcana, dungeoneering, g
 RacialMods: 
 Languages: speak with animals, telepathy 100 ft.
 SQ: compression, create life, natural spellcasting, no breath, plantbringer
-SpecialAbilities: Create Life (Su) At will, an elohim can create any one plant or living creature. A creature created can have no more than 4 Hit Dice and be no larger than Large size, and is not under the elohim's control.  Natural Spellcasting (Su) An elohim can cast spells in any shape, similar to the Natural Spell feat.
+SpecialAbilities:
+  Create Life (Su): >
+    At will, an elohim can create any one plant or living creature. A creature created can have no more than 4 Hit Dice and be no larger than Large size, and is not under the elohim's control.
+  Natural Spellcasting (Su): >
+    An elohim can cast spells in any shape, similar to the Natural Spell feat.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Climb +10
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Acid (Ex) An ochre jelly secretes a digestive acid that dissolves only flesh (not bone) when it strikes a foe-creatures not made of flesh (including most constructs and oozes, skeletal undead, plants, and incorporeal creatures) are immune to the ochre jelly's acid damage.  Split (Ex) Slashing weapons, piercing weapons, and electricity attacks deal no damage to an ochre jelly. Instead the creature splits into two identical jellies, each with half of the original creature's current hit point total, rounded down.  A jelly with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.
+SpecialAbilities:
+  Acid (Ex): >
+    An ochre jelly secretes a digestive acid that dissolves only flesh (not bone) when it strikes a foe-creatures not made of flesh (including most constructs and oozes, skeletal undead, plants, and incorporeal creatures) are immune to the ochre jelly's acid damage.
+  Split (Ex): >
+    Slashing weapons, piercing weapons, and electricity attacks deal no damage to an ochre jelly. Instead the creature splits into two identical jellies, each with half of the original creature's current hit point total, rounded down.  A jelly with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

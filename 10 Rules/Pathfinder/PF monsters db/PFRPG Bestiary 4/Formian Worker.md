@@ -56,7 +56,11 @@ Skills: Climb +5, Knowledge (engineering) +4, Perception +4 (+8 with hive mind),
 RacialMods: 
 Languages: Common, telepathy 60 ft.
 SQ: able assistant, formian traits, peerless bearer
-SpecialAbilities: Able Assistant (Ex) When a formian worker succeeds at an aid another check or attack roll that aids another hive mate within its telepathy range, it grants a +4 bonus on the skill check, on the attack roll, or to AC instead of the normal +2.  Peerless Bearer (Ex) Workers are able to bear remarkable burdens for their size. They have a +5 racial bonus to Strength when calculating the effects of encumbrance.
+SpecialAbilities:
+  Able Assistant (Ex): >
+    When a formian worker succeeds at an aid another check or attack roll that aids another hive mate within its telepathy range, it grants a +4 bonus on the skill check, on the attack roll, or to AC instead of the normal +2.
+  Peerless Bearer (Ex): >
+    Workers are able to bear remarkable burdens for their size. They have a +5 racial bonus to Strength when calculating the effects of encumbrance.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

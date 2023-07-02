@@ -56,7 +56,11 @@ Skills: Fly +10, Perception +7, Stealth +9 (+13 in forests)
 RacialMods: +4 Stealth in forests
 Languages: Aklo (can't speak)
 SQ: 
-SpecialAbilities: Aerial Charge (Ex) When a snallygaster charges downward at an angle of 45 degrees or more, its bite attack deals double damage (or triple damage on a critical hit). Bleed damage is not multiplied for this attack.  Sucking Tentacles (Ex) A snallygaster uses its retractable tentacles to suck blood from its victim's bleeding wounds. If a target has a bleed effect and the snallygaster grabs it with tentacles or maintains a grapple against it, the target takes double the normal bleed damage at the beginning of its next turn. When the snallygaster is using its tentacles, it cannot make bite attacks.
+SpecialAbilities:
+  Aerial Charge (Ex): >
+    When a snallygaster charges downward at an angle of 45 degrees or more, its bite attack deals double damage (or triple damage on a critical hit). Bleed damage is not multiplied for this attack.
+  Sucking Tentacles (Ex): >
+    A snallygaster uses its retractable tentacles to suck blood from its victim's bleeding wounds. If a target has a bleed effect and the snallygaster grabs it with tentacles or maintains a grapple against it, the target takes double the normal bleed damage at the beginning of its next turn. When the snallygaster is using its tentacles, it cannot make bite attacks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

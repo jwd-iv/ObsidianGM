@@ -56,7 +56,11 @@ Skills: Bluff +24, Fly +15, Intimidate +24, Knowledge (arcana) +19, Knowledge (p
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 SQ: deflect rays
-SpecialAbilities: Deflect Rays (Su) Once per round as an immediate action, a sepid can use its Deflect Arrows feat to deflect a ray or a spell that uses a ranged touch attack.  Rain of Debris (Su) Three times per day as a standard action, a sepid can call forth a hail of stones, wood, metal, and similar debris. The debris rains down and pelts all creatures in a 10-foot-high, 40-foot-radius cylinder centered on the sepid, dealing 15d6 points of bludgeoning damage (Reflex DC 25 half ). This attack does not harm the sepid, and counts as an evil attack for the purpose of damage reduction. The save DC is Constitution-based.
+SpecialAbilities:
+  Deflect Rays (Su): >
+    Once per round as an immediate action, a sepid can use its Deflect Arrows feat to deflect a ray or a spell that uses a ranged touch attack.
+  Rain of Debris (Su): >
+    Three times per day as a standard action, a sepid can call forth a hail of stones, wood, metal, and similar debris. The debris rains down and pelts all creatures in a 10-foot-high, 40-foot-radius cylinder centered on the sepid, dealing 15d6 points of bludgeoning damage (Reflex DC 25 half ). This attack does not harm the sepid, and counts as an evil attack for the purpose of damage reduction. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

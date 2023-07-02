@@ -56,7 +56,9 @@ Skills: Escape Artist +10, Perception +4, Stealth +10, Swim +9
 RacialMods: +8 Escape Artist
 Languages: 
 SQ: 
-SpecialAbilities: Electricity (Ex) An electric eel can produce a powerful jolt of electricity from its tail, delivering the jolt with a successful touch attack. On a critical hit, the creature struck must make a DC 15 Fortitude save or be stunned for 1d4 rounds. The save DC is Constitution-based.
+SpecialAbilities:
+  Electricity (Ex): >
+    An electric eel can produce a powerful jolt of electricity from its tail, delivering the jolt with a successful touch attack. On a critical hit, the creature struck must make a DC 15 Fortitude save or be stunned for 1d4 rounds. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

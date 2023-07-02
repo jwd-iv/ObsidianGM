@@ -56,7 +56,15 @@ Skills: Fly +18, Knowledge (planes) +13, Perception +17, Sense Motive +14, Survi
 RacialMods: 
 Languages: Auran,  Common, Draconic;  telepathy 100 ft.
 SQ: shift planes
-SpecialAbilities: Breath Weapons (Su) As a standard action, a dragon horse can breathe out a 30-foot cone of mist. This mist either deals 10d6 points of cold damage (DC 20 Reflex half ), creates a region of fog in the area that lasts for 1 minute (similar to that created by a fog cloud spell), or creates a blast of severe wind (see Pathfinder RPG Core Rulebook 439) in the area. The dragon horse may use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.  Flying Charge (Ex) A dragon horse gains a +4 bonus on damage rolls if it charges while flying.  Know Alignment (Su) Dragon horses automatically know the alignment of any creature they can see.  Shift Planes (Su) A dragon horse can enter the Ethereal Plane, Astral Plane, Plane of Air, or Material Plane once per day as a standard action. This functions as plane shift, but the dragon horse can only bring up to two other willing creatures with it, and only if they are on its back.
+SpecialAbilities:
+  Breath Weapons (Su): >
+    As a standard action, a dragon horse can breathe out a 30-foot cone of mist. This mist either deals 10d6 points of cold damage (DC 20 Reflex half ), creates a region of fog in the area that lasts for 1 minute (similar to that created by a fog cloud spell), or creates a blast of severe wind (see Pathfinder RPG Core Rulebook 439) in the area. The dragon horse may use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.
+  Flying Charge (Ex): >
+    A dragon horse gains a +4 bonus on damage rolls if it charges while flying.
+  Know Alignment (Su): >
+    Dragon horses automatically know the alignment of any creature they can see.
+  Shift Planes (Su): >
+    A dragon horse can enter the Ethereal Plane, Astral Plane, Plane of Air, or Material Plane once per day as a standard action. This functions as plane shift, but the dragon horse can only bring up to two other willing creatures with it, and only if they are on its back.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

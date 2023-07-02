@@ -56,8 +56,15 @@ Skills: Climb +26, Fly +29, Perception +34, Stealth +21, Swim +53
 RacialMods: 
 Languages: Aklo, Draconic, Sylvan
 SQ: lava affinity
-SpecialAbilities: >
-  Breath Weapon (Su) Once every 1d4 rounds as a standard action, a tor linnorm can expel a 60- foot cone of flame and ash, dealing 24d8 points of fire damage to all creatures struck (Reflex DC 33 for half damage). One round after this breath weapon is used, the area affected by the attack becomes covered in a cloud of thick, scorching smoke that burns both the lungs and eyes, dealing an additional 8d8 points of fire damage to all creatures in the area. Each creature that begins its turn in the smoke-covered area and breathes must make a DC 33 (+ 1 per previous check) Fortitude save each round or spend that round choking and coughing. Creatures that keep their eyes open for more than 1 round while in the area of the smoke must make a DC 33 Fortitude save or go blind for 1d3 hours. The smoke dissipates after 2d4 rounds. This duration is halved in strong winds and quartered in more powerful winds. The save DC is Constitution-based.  Death Curse (Su) Curse of Boiling Blood: save Will DC 31; effect creature gains vulnerability to fire and is permanently staggered from the pain of its boiling blood. The save DC is Charisma-based.  Lava Affinity (Ex) A tor linnorm can breathe and swim while submerged in lava and magma.  Poison (Ex) Bite-injury; save Fort DC 33; frequency 1/round for 10 rounds; effect 8d6 fire damage and 1d8 Con drain; cure 3 consecutive saves.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Once every 1d4 rounds as a standard action, a tor linnorm can expel a 60- foot cone of flame and ash, dealing 24d8 points of fire damage to all creatures struck (Reflex DC 33 for half damage). One round after this breath weapon is used, the area affected by the attack becomes covered in a cloud of thick, scorching smoke that burns both the lungs and eyes, dealing an additional 8d8 points of fire damage to all creatures in the area. Each creature that begins its turn in the smoke-covered area and breathes must make a DC 33 (+ 1 per previous check) Fortitude save each round or spend that round choking and coughing. Creatures that keep their eyes open for more than 1 round while in the area of the smoke must make a DC 33 Fortitude save or go blind for 1d3 hours. The smoke dissipates after 2d4 rounds. This duration is halved in strong winds and quartered in more powerful winds. The save DC is Constitution-based.
+  Death Curse (Su): >
+    Curse of Boiling Blood: save Will DC 31; effect creature gains vulnerability to fire and is permanently staggered from the pain of its boiling blood. The save DC is Charisma-based.
+  Lava Affinity (Ex): >
+    A tor linnorm can breathe and swim while submerged in lava and magma.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 33; frequency 1/round for 10 rounds; effect 8d6 fire damage and 1d8 Con drain; cure 3 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

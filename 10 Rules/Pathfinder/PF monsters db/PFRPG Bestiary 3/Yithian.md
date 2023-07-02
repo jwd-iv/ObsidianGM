@@ -56,7 +56,15 @@ Skills: Climb +14, Diplomacy +18, Heal +18, Knowledge (arcana, engineering, geog
 RacialMods: 
 Languages: Aklo, Common, Yithian, 20 other languages; telepathy 100 ft.
 SQ: scholar
-SpecialAbilities: Amnesia (Su) Once per day as a standard action, a yithian can attempt to inflict amnesia on a target it is able to communicate telepathically with. A target can resist this  attack with a DC 21 Will save. If the target fails its save, it takes a permanent -4 penalty on Will saving throws and all skill checks, and loses all memories save for those the yithian chooses to leave intact. This effect can be cured by heal or greater restoration. This is a mind-affecting insanity effect. The save DC is Charisma-based.  Deadly Pincers (Ex) A yithian always applies 1-1/2 times its Strength modifier to damage dealt by its pincer attacks, and deals triple damage on a critical hit. Pincers are primary attacks for yithians.  Mind Swap (Su) As a full-round action, a yithian can trade minds with another living creature it is able to communicate telepathically with. This functions as magic jar, except the two minds trade bodies. An unwilling target can resist the mind swap with a DC 21 Will save, after which that particular yithian cannot attempt to swap minds with that creature again for 24 hours. The yithian can end the effect of this mind swap at any time and over any distance as a full-round action, instantly returning both minds to the proper bodies-if the yithian wishes, it may attempt to use its amnesia power on the other mind as a free action when it ends the mind swap in this way. This is a mind-affecting effect. The save DC is Charisma-based.  Scholar (Ex) Yithians treat all knowledge skills as class skills.
+SpecialAbilities:
+  Amnesia (Su): >
+    Once per day as a standard action, a yithian can attempt to inflict amnesia on a target it is able to communicate telepathically with. A target can resist this  attack with a DC 21 Will save. If the target fails its save, it takes a permanent -4 penalty on Will saving throws and all skill checks, and loses all memories save for those the yithian chooses to leave intact. This effect can be cured by heal or greater restoration. This is a mind-affecting insanity effect. The save DC is Charisma-based.
+  Deadly Pincers (Ex): >
+    A yithian always applies 1-1/2 times its Strength modifier to damage dealt by its pincer attacks, and deals triple damage on a critical hit. Pincers are primary attacks for yithians.
+  Mind Swap (Su): >
+    As a full-round action, a yithian can trade minds with another living creature it is able to communicate telepathically with. This functions as magic jar, except the two minds trade bodies. An unwilling target can resist the mind swap with a DC 21 Will save, after which that particular yithian cannot attempt to swap minds with that creature again for 24 hours. The yithian can end the effect of this mind swap at any time and over any distance as a full-round action, instantly returning both minds to the proper bodies-if the yithian wishes, it may attempt to use its amnesia power on the other mind as a free action when it ends the mind swap in this way. This is a mind-affecting effect. The save DC is Charisma-based.
+  Scholar (Ex): >
+    Yithians treat all knowledge skills as class skills.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

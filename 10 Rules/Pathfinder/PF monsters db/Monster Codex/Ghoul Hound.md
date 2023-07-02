@@ -56,8 +56,9 @@ Skills: Perception +6, Stealth +6
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Disease (Su) Ghoul Fever: See Pathfinder RPG Bestiary 146.
+SpecialAbilities:
+  Disease (Su): >
+    Ghoul Fever: See Pathfinder RPG Bestiary 146.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

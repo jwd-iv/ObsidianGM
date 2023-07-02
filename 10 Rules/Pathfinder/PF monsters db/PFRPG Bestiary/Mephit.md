@@ -56,7 +56,9 @@ Skills: Bluff +8, Fly +10, Perception +6, Stealth +12
 RacialMods: 
 Languages: Common, one appropriate elemental language (Aquan, Auran, Ignan, or Terran)
 SQ: 
-SpecialAbilities: Breath Weapon (Su) Each type of mephit can unleash a particular breath weapon every 4 rounds as a standard action. The DC is Constitution-based and includes a +1 racial bonus.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Each type of mephit can unleash a particular breath weapon every 4 rounds as a standard action. The DC is Constitution-based and includes a +1 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

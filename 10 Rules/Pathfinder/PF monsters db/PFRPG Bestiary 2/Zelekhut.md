@@ -56,7 +56,9 @@ Skills: Acrobatics +18 (+26 jump), Diplomacy +16, Fly +16, Perception +20, Sense
 RacialMods: +4 Perception, +4 Sense Motive
 Languages: truespeech
 SQ: chains
-SpecialAbilities: Chains (Ex) A zelekhut's arms end in long lengths of barbed metal. These chains deal slashing damage and 1d6 points of electricity damage with each hit.
+SpecialAbilities:
+  Chains (Ex): >
+    A zelekhut's arms end in long lengths of barbed metal. These chains deal slashing damage and 1d6 points of electricity damage with each hit.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

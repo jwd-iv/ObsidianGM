@@ -56,7 +56,9 @@ Skills: Perception +13, Stealth +17
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Grab (Ex) An aurumvorax can grab a foe of up to one size category larger than itself (Medium size for most aurumvoraxes). It gains a +8 racial bonus on grapple attempts rather than the normal +4 racial bonus afforded by the grab ability.
+SpecialAbilities:
+  Grab (Ex): >
+    An aurumvorax can grab a foe of up to one size category larger than itself (Medium size for most aurumvoraxes). It gains a +8 racial bonus on grapple attempts rather than the normal +4 racial bonus afforded by the grab ability.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

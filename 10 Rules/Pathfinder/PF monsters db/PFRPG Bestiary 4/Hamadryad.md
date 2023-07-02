@@ -56,7 +56,13 @@ Skills: Bluff +29, Climb +14, Craft (wood) +12, Diplomacy +29, Escape Artist +19
 RacialMods: +8 Craft (wood)
 Languages: Common, Elven, Sylvan; speak with animals, speak with plants, tongues
 SQ: druid magic, tree meld, wild empathy, woodcraft
-SpecialAbilities: Druid Magic (Su) A hamadryad can use any magic item as if she were a 20th-level druid.  Tree Meld (Su) A hamadryad can meld with any tree (similar to meld into stone) and can remain melded with a tree as long as she wishes.  Woodcraft (Ex) A hamadryad has a +8 racial bonus on Craft checks involving wood, and is always treated as if she had masterwork artisan's woodworking tools when attempting such checks.
+SpecialAbilities:
+  Druid Magic (Su): >
+    A hamadryad can use any magic item as if she were a 20th-level druid.
+  Tree Meld (Su): >
+    A hamadryad can meld with any tree (similar to meld into stone) and can remain melded with a tree as long as she wishes.
+  Woodcraft (Ex): >
+    A hamadryad has a +8 racial bonus on Craft checks involving wood, and is always treated as if she had masterwork artisan's woodworking tools when attempting such checks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

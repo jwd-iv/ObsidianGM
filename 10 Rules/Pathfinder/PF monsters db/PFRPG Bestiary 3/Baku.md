@@ -56,7 +56,13 @@ Skills: Diplomacy +15, Fly +18, Perception +16, Sense Motive +13, Spellcraft +8,
 RacialMods: 
 Languages: Aklo, Celestial, Common
 SQ: dream claws
-SpecialAbilities: Dream Claws (Ex) A baku's claws are treated as cold iron and magic for purposes of overcoming damage reduction.  Dream Eating (Su) A baku can feed upon the dreams of any single sleeping creature within 100 feet. Alternatively, the baku can feed upon the dreams of a creature that it manages to contact with its dream spell-like ability. A creature can resist this effect with a DC 22 Will save. When a baku feeds in this way, it can elect to consume only nightmares or all dreams. If it only consumes nightmares, the target creature is immune to the effects of the nightmare spell, the dream haunting ability of the night hag, and other similar attacks for that period of sleep. If the baku instead feeds on all of the creature's dreams, that creature is fatigued upon waking and does not gain any benefits it would have received from sleep, such as natural healing or the ability to regain spells after resting. This is a mind-affecting sleep effect. The save DC is Charisma-based.  Mental Drain (Su) When a baku attacks with a claw, it can choose, as a swift action, to deal 1d4 points of Intelligence damage on that attack. A DC 22 Will save negates this ability damage. The save DC is Charisma-based.
+SpecialAbilities:
+  Dream Claws (Ex): >
+    A baku's claws are treated as cold iron and magic for purposes of overcoming damage reduction.
+  Dream Eating (Su): >
+    A baku can feed upon the dreams of any single sleeping creature within 100 feet. Alternatively, the baku can feed upon the dreams of a creature that it manages to contact with its dream spell-like ability. A creature can resist this effect with a DC 22 Will save. When a baku feeds in this way, it can elect to consume only nightmares or all dreams. If it only consumes nightmares, the target creature is immune to the effects of the nightmare spell, the dream haunting ability of the night hag, and other similar attacks for that period of sleep. If the baku instead feeds on all of the creature's dreams, that creature is fatigued upon waking and does not gain any benefits it would have received from sleep, such as natural healing or the ability to regain spells after resting. This is a mind-affecting sleep effect. The save DC is Charisma-based.
+  Mental Drain (Su): >
+    When a baku attacks with a claw, it can choose, as a swift action, to deal 1d4 points of Intelligence damage on that attack. A DC 22 Will save negates this ability damage. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Acrobatics +11, Escape Artist +15, Knowledge (planes) +7, Perception +13
 RacialMods: 
 Languages: Aquan
 SQ: 
-SpecialAbilities: Drench (Ex) The elemental's touch puts out nonmagical flames of Large size or smaller. The creature can dispel magical fire it touches as dispel magic (caster level equals elemental's HD). Vortex (Su) A water elemental can create a whirlpool as a standard action, at will. This ability functions identically to the whirlwind special attack (see page 306), but can only form underwater and cannot leave the water. Water Mastery (Ex) A water elemental gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the elemental is touching the ground, the elemental takes a -4 penalty on attack and damage rolls. These modifiers apply to bull rush and overrun maneuvers, whether the elemental is initiating or resisting these kinds of attacks.
+SpecialAbilities:
+  Drench (Ex): >
+    The elemental's touch puts out nonmagical flames of Large size or smaller. The creature can dispel magical fire it touches as dispel magic (caster level equals elemental's HD).
+  Vortex (Su): >
+    A water elemental can create a whirlpool as a standard action, at will. This ability functions identically to the whirlwind special attack (see page 306), but can only form underwater and cannot leave the water.
+  Water Mastery (Ex): >
+    A water elemental gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the elemental is touching the ground, the elemental takes a -4 penalty on attack and damage rolls. These modifiers apply to bull rush and overrun maneuvers, whether the elemental is initiating or resisting these kinds of attacks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

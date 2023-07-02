@@ -56,7 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: death throes, brass falchion
-SpecialAbilities: Brass Falchion (Ex) A brass golem's falchion deals damage as a Huge falchion, but is actually a primary natural attack, not a manufactured weapon, and cannot be disarmed.  Breath Weapon (Su) As a free action once every 1d4 rounds, a brass golem can expel a cloud of smoke and cinders that fills a 20-foot cube. This functions as an incendiary cloud that persists for 1d6 rounds, dealing 6d6 points of fire damage (DC 20 Reflex for half). The save DC is Constitution-based.  Death Throes (Ex) A brass golem explodes when it is destroyed. All creatures within 30 feet of the golem take 12d8 points of fire damage (DC 20 Reflex for half). The save DC is Constitution-based.  Immunity to Magic (Ex) A brass golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature.  • A magical attack that deals cold damage slows a brass golem (as per the slow spell) for 1d6 rounds, with no saving throw.  • A magical attack that deals fire damage breaks any slow effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A brass golem gets no save against fire effects.
+SpecialAbilities:
+  Brass Falchion (Ex): >
+    A brass golem's falchion deals damage as a Huge falchion, but is actually a primary natural attack, not a manufactured weapon, and cannot be disarmed.
+  Breath Weapon (Su): >
+    As a free action once every 1d4 rounds, a brass golem can expel a cloud of smoke and cinders that fills a 20-foot cube. This functions as an incendiary cloud that persists for 1d6 rounds, dealing 6d6 points of fire damage (DC 20 Reflex for half). The save DC is Constitution-based.
+  Death Throes (Ex): >
+    A brass golem explodes when it is destroyed. All creatures within 30 feet of the golem take 12d8 points of fire damage (DC 20 Reflex for half). The save DC is Constitution-based.
+  Immunity to Magic (Ex): >
+    A brass golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature.  • A magical attack that deals cold damage slows a brass golem (as per the slow spell) for 1d6 rounds, with no saving throw.  • A magical attack that deals fire damage breaks any slow effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A brass golem gets no save against fire effects.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

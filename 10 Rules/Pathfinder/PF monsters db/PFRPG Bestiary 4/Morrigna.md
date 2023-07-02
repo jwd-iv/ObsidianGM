@@ -56,7 +56,11 @@ Skills: Bluff +15, Climb +11, Diplomacy +25, Disguise +15, Intimidate +17, Knowl
 RacialMods: 
 Languages: Abyssal, Celestial, Infernal; speak with animals (including vermin), tongues
 SQ: change shape (any animal or humanoid), spirit touch
-SpecialAbilities: Spells A morrigna casts spells as a 12th-level inquisitor.  Spider Sight (Su) A morrigna can see through the eyes of a spider swarm she summons as though it were the sensor of an arcane eye spell. She does not have to concentrate to use this ability.  Wrappings (Su) A morrigna's web wrappings grant her a +2 shield bonus to AC and can make secondary natural attacks.
+SpecialAbilities: Spells A morrigna casts spells as a 12th-level inquisitor.
+  Spider Sight (Su): >
+    A morrigna can see through the eyes of a spider swarm she summons as though it were the sensor of an arcane eye spell. She does not have to concentrate to use this ability.
+  Wrappings (Su): >
+    A morrigna's web wrappings grant her a +2 shield bonus to AC and can make secondary natural attacks.
 SpellsKnown: Inquisitor Spells Known (CL 12th; concentration +15)   4th (3)-cure critical wounds, divination, freedom of movement, spell immunity   3rd (5)-blood biographyAPG (DC 16), dimensional anchor, dispel magic, halt undead (DC 16)   2nd (6)-confessAPG (DC 15), detect thoughts (DC 15), hold person (DC 15), invisibility, see invisibility   1st (6)-bane (DC 14), command (DC 14), comprehend languages, expeditious retreat, sanctuary (DC 14), wrathAPG   0-bleed (DC 13), detect magic, disrupt undead, read magic, siftAPG, stabilize
 SpellsPrepared: 
 SpellDomains: 

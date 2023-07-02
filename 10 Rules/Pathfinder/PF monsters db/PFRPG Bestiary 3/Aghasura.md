@@ -56,7 +56,15 @@ Skills: Acrobatics +17, Bluff +19, Escape Artist +6, Intimidate +17, Knowledge (
 RacialMods: +6 Escape Artist, +4 Perception
 Languages: Common, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Attraction Aura (Su) An aghasura exudes a 50- foot aura whenever it remains motionless for at least 1 round. All nonevil creatures that enter this area must make a DC 21 Will save to avoid being compelled to move toward the aghasura's location. If the aghasura moves, the effect ends for all currently affected creatures. This is a mind-affecting compulsion. The save DC is Charisma-based. Dual Wielder (Ex) An aghasura does not take a penalty on attack or damage rolls when attacking with two weapons. Infused Weapons (Su) Weapons an aghasura wields are considered to be magic for the purposes of overcoming damage reduction. In addition, such weapons gain the ability to deliver the aghasura's poison on a successful attack. Poison (Ex) Bite or weapon-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 2 consecutive saves.
+SpecialAbilities:
+  Attraction Aura (Su): >
+    An aghasura exudes a 50- foot aura whenever it remains motionless for at least 1 round. All nonevil creatures that enter this area must make a DC 21 Will save to avoid being compelled to move toward the aghasura's location. If the aghasura moves, the effect ends for all currently affected creatures. This is a mind-affecting compulsion. The save DC is Charisma-based.
+  Dual Wielder (Ex): >
+    An aghasura does not take a penalty on attack or damage rolls when attacking with two weapons.
+  Infused Weapons (Su): >
+    Weapons an aghasura wields are considered to be magic for the purposes of overcoming damage reduction. In addition, such weapons gain the ability to deliver the aghasura's poison on a successful attack.
+  Poison (Ex): >
+    Bite or weapon-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

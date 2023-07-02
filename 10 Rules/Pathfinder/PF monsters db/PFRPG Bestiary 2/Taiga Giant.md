@@ -56,8 +56,9 @@ Skills: Climb +15, Knowledge (religion) +11, Perception +13, Stealth +6 (+12 in 
 RacialMods: +6 Stealth in undergrowth
 Languages: Common, Giant
 SQ: spirit summoning
-SpecialAbilities: >
-  Spirit Summoning (Su) Once per day, a taiga giant may perform a 10-minute ritual to tap into the power and insight of his ancestral spirits. These spirits provide a +4 deflection bonus to AC, immunity to enchantment and illusion spells, and one of the following spell effects: bless, endure elements, protection from evil, protection from good, or see invisibility. The effects of a spirit summoning persist for 24 hours.
+SpecialAbilities:
+  Spirit Summoning (Su): >
+    Once per day, a taiga giant may perform a 10-minute ritual to tap into the power and insight of his ancestral spirits. These spirits provide a +4 deflection bonus to AC, immunity to enchantment and illusion spells, and one of the following spell effects: bless, endure elements, protection from evil, protection from good, or see invisibility. The effects of a spirit summoning persist for 24 hours.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

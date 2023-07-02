@@ -56,7 +56,9 @@ Skills: Bluff +20, Disguise +6, Perception +18, Sense Motive +9, Stealth +14, Su
 RacialMods: 
 Languages: Common, Sylvan
 SQ: change shape (Small or Medium humanoid, alter self), powerful blows (hooves), sound mimicry (sounds and voices)
-SpecialAbilities: Spines (Ex) As a standard action, a tikbalang can launch four spines from its mane, each dealing 1d6 points of damage plus its Strength bonus. This attack has a range of 120 feet with no range increment. All targets must be within 30 feet of each other. A tikbalang can launch only 24 spines in any 24-hour period.
+SpecialAbilities:
+  Spines (Ex): >
+    As a standard action, a tikbalang can launch four spines from its mane, each dealing 1d6 points of damage plus its Strength bonus. This attack has a range of 120 feet with no range increment. All targets must be within 30 feet of each other. A tikbalang can launch only 24 spines in any 24-hour period.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

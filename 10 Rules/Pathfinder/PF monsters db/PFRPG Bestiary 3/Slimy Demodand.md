@@ -56,7 +56,11 @@ Skills: Acrobatics +8, Bluff +27, Climb +16, Fly +25, Intimidate +36, Knowledge 
 RacialMods: 
 Languages: Abyssal, Celestial, Common
 SQ: heretical soul
-SpecialAbilities: Acid (Su) A slimy demodand is coated in an ever-dripping layer of acid that deals an extra 2d6 points of acid damage on a successful natural attack. In addition, opponents that successfully strike a slimy demodand with an unarmed strike or natural attack take 2d6 points of acid damage.  Dread Claws (Ex) A slimy demodand adds 1-1/2 times its strength bonus on all attack rolls made when using its claws.
+SpecialAbilities:
+  Acid (Su): >
+    A slimy demodand is coated in an ever-dripping layer of acid that deals an extra 2d6 points of acid damage on a successful natural attack. In addition, opponents that successfully strike a slimy demodand with an unarmed strike or natural attack take 2d6 points of acid damage.
+  Dread Claws (Ex): >
+    A slimy demodand adds 1-1/2 times its strength bonus on all attack rolls made when using its claws.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

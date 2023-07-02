@@ -56,8 +56,13 @@ Skills: Bluff +21, Fly +17, Heal +11, Intimidate +21, Knowledge (planes) +22, Kn
 RacialMods: 
 Languages: Abyssal, Draconic, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: >
-  Consumptive Aura (Su) A meladaemon radiates an aura of hunger to a radius of 20 feet. Every round a creature begins its turn within this aura, it must succeed at a DC 22 Fortitude save or take 1d6 nonlethal damage and become fatigued from extreme hunger. Creatures that do not need to eat are immune to this effect. The save DC is Constitution-based.  Disease (Ex) Daemonic wasting: Bite-injury; save Fort DC 22; onset 1 day; frequency 1/day; effect 1d4 Con and 1d4 Cha damage; cure 2 consecutive saves. The save DC is Constitution-based.  Hunger (Su) A meladaemon's claw attack deals an additional 1d6 points of nonlethal damage as it causes sudden pangs of horrific hunger in its foe. Creatures that do not need to eat are immune to this effect.
+SpecialAbilities:
+  Consumptive Aura (Su): >
+    A meladaemon radiates an aura of hunger to a radius of 20 feet. Every round a creature begins its turn within this aura, it must succeed at a DC 22 Fortitude save or take 1d6 nonlethal damage and become fatigued from extreme hunger. Creatures that do not need to eat are immune to this effect. The save DC is Constitution-based.
+  Disease (Ex): >
+    Daemonic wasting: Bite-injury; save Fort DC 22; onset 1 day; frequency 1/day; effect 1d4 Con and 1d4 Cha damage; cure 2 consecutive saves. The save DC is Constitution-based.
+  Hunger (Su): >
+    A meladaemon's claw attack deals an additional 1d6 points of nonlethal damage as it causes sudden pangs of horrific hunger in its foe. Creatures that do not need to eat are immune to this effect.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

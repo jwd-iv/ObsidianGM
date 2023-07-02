@@ -56,7 +56,13 @@ Skills: Diplomacy +9, Intimidate +9, Knowledge (nature) +9, Perception +12, Sens
 RacialMods: +16 Stealth in forests
 Languages: Common, Sylvan, Treant
 SQ: animate trees, double damage against objects, treespeech
-SpecialAbilities: Animate Trees (Sp) A treant can animate any trees within 180 feet at will, controlling up to two trees at a time. It takes 1 full round for a tree to uproot itself, after which it moves at a speed of 10 feet and fights as a treant (although it has only one slam attack and lacks the treant's animation and rockthrowing abilities), gaining the treant's vulnerability to fire. If the treant that animated it terminates the animation, moves out of range, or is incapacitated, the tree immediately takes root wherever it is and returns to its normal state. Double Damage Against Objects (Ex) A treant or animated tree that makes a full attack against an object or structure deals double damage. Treespeech (Ex) A treant has the ability to converse with plants as if subject to a continual speak with plants spell, and most plants greet them with an attitude of friendly or helpful.
+SpecialAbilities:
+  Animate Trees (Sp): >
+    A treant can animate any trees within 180 feet at will, controlling up to two trees at a time. It takes 1 full round for a tree to uproot itself, after which it moves at a speed of 10 feet and fights as a treant (although it has only one slam attack and lacks the treant's animation and rockthrowing abilities), gaining the treant's vulnerability to fire. If the treant that animated it terminates the animation, moves out of range, or is incapacitated, the tree immediately takes root wherever it is and returns to its normal state.
+  Double Damage Against Objects (Ex): >
+    A treant or animated tree that makes a full attack against an object or structure deals double damage.
+  Treespeech (Ex): >
+    A treant has the ability to converse with plants as if subject to a continual speak with plants spell, and most plants greet them with an attitude of friendly or helpful.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

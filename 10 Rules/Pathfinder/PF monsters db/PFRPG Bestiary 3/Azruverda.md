@@ -56,7 +56,11 @@ Skills: Climb +26, Handle Animal +17, Intimidate +26, Knowledge (dungeoneering) 
 RacialMods: 
 Languages: Aklo, Common, Undercommon
 SQ: vermin master
-SpecialAbilities: Acid Spit (Ex) An azruverda can spit a stream of acid at a target within 60 feet as a ranged touch attack that deals 10d6 points of acid damage.  Vermin Master (Su) An azruverda can mentally control to up to 32 HD (twice the azruverda's racial Hit Dice) of vermin at any one time through a combination of supernatural pheromones and magical manipulation. To control a vermin, the azruverda must be able to see it, and it must be within 120 feet. Attempting to control a vermin is a standard action-the vermin can resist this attempt with a DC 25 Will save. If the vermin fails this save, the azruverda can issue a simple mental command like "fight," "come here," "go there," or "stand still" as a swift action. Though composed of thousands of individuals, vermin with the swarm subtype are vulnerable to this ability as well. An azruverda can release a creature from this control as a free action. Vermin affected by this ability act normally unless an azruverda is actively controlling it, but never attack their master azruverda. The save DC is Charisma-based.
+SpecialAbilities:
+  Acid Spit (Ex): >
+    An azruverda can spit a stream of acid at a target within 60 feet as a ranged touch attack that deals 10d6 points of acid damage.
+  Vermin Master (Su): >
+    An azruverda can mentally control to up to 32 HD (twice the azruverda's racial Hit Dice) of vermin at any one time through a combination of supernatural pheromones and magical manipulation. To control a vermin, the azruverda must be able to see it, and it must be within 120 feet. Attempting to control a vermin is a standard action-the vermin can resist this attempt with a DC 25 Will save. If the vermin fails this save, the azruverda can issue a simple mental command like "fight," "come here," "go there," or "stand still" as a swift action. Though composed of thousands of individuals, vermin with the swarm subtype are vulnerable to this ability as well. An azruverda can release a creature from this control as a free action. Vermin affected by this ability act normally unless an azruverda is actively controlling it, but never attack their master azruverda. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

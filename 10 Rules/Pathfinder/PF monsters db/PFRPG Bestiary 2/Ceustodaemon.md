@@ -56,7 +56,9 @@ Skills: Bluff +13, Intimidate +11, Knowledge (planes) +9, Perception +15, Sense 
 RacialMods: 
 Languages: Abyssal, Infernal; telepathy 100 ft.
 SQ: drawn to service
-SpecialAbilities: Drawn to Service (Su) When brought to another plane with a planar binding or planar ally spell (or any similar calling effect), ceustodaemons take a -5 penalty on the initial Will save and on their Charisma check to refuse service.  Ceustodaemons also take a -5 penalty on saves against binding, planar binding, and other spells designed to bind a creature to a particular plane as long as the daemon is commanded to serve as a guardian for a single area or small complex.
+SpecialAbilities:
+  Drawn to Service (Su): >
+    When brought to another plane with a planar binding or planar ally spell (or any similar calling effect), ceustodaemons take a -5 penalty on the initial Will save and on their Charisma check to refuse service.  Ceustodaemons also take a -5 penalty on saves against binding, planar binding, and other spells designed to bind a creature to a particular plane as long as the daemon is commanded to serve as a guardian for a single area or small complex.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

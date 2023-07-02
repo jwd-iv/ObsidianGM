@@ -56,7 +56,13 @@ Skills: Climb +13, Craft (stonemasonry) +14, Knowledge (dungeoneering) +10, Know
 RacialMods: +4 Craft (stonemasonry), +4 Profession (miner)
 Languages: Terran, Undercommon
 SQ: 
-SpecialAbilities: Earth Mastery (Ex) A pech gains a +1 bonus on attack and damage rolls if both it and its foes are touching the ground. If an opponent is airborne or waterborne, the pech takes a -4 penalty on attack and damage rolls. These modifiers are not precalculated into the statistics here.  Pech Magic (Sp) Four pechs working together can cast wall of stone once per day. Eight pechs working together can cast stone to flesh (DC 17) once per day. These spell-like abilities function at CL 10th. Each pech must use a full-round action to take part in the casting. The save DCs are modified by the highest Charisma modifier in the group.  Stone Knowledge (Ex) A pech's knowledge of earth and stone grants a +1 racial bonus on attack and damage rolls and the benefits of the Improved Critical feat against creatures and objects made of stone or earth or with the earth subtype. Knowledge (dungeoneering), Knowledge (engineering) and Profession (miner) are always class skills for a pech.
+SpecialAbilities:
+  Earth Mastery (Ex): >
+    A pech gains a +1 bonus on attack and damage rolls if both it and its foes are touching the ground. If an opponent is airborne or waterborne, the pech takes a -4 penalty on attack and damage rolls. These modifiers are not precalculated into the statistics here.
+  Pech Magic (Sp): >
+    Four pechs working together can cast wall of stone once per day. Eight pechs working together can cast stone to flesh (DC 17) once per day. These spell-like abilities function at CL 10th. Each pech must use a full-round action to take part in the casting. The save DCs are modified by the highest Charisma modifier in the group.
+  Stone Knowledge (Ex): >
+    A pech's knowledge of earth and stone grants a +1 racial bonus on attack and damage rolls and the benefits of the Improved Critical feat against creatures and objects made of stone or earth or with the earth subtype. Knowledge (dungeoneering), Knowledge (engineering) and Profession (miner) are always class skills for a pech.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

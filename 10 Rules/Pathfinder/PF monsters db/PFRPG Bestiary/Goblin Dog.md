@@ -56,7 +56,9 @@ Skills: Stealth +6
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Allergic Reaction (Ex) A goblin dog's dander is highly irritating to all creatures save those with the goblinoid subtype. A non-goblinoid creature damaged by a goblin dog's bite, who deals damage to a goblin dog with a natural weapon or unarmed attack, or who otherwise comes into contact with a goblin dog (including attempts to grapple or ride the creature) must make a DC 12 Fortitude save or break out in an itching rash. A creature affected by this rash takes a -2 penalty to Dexterity and Charisma for 1 day (multiple allergic reactions do not stack). Remove disease or any magical healing removes the rash instantly. This is a disease effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Allergic Reaction (Ex): >
+    A goblin dog's dander is highly irritating to all creatures save those with the goblinoid subtype. A non-goblinoid creature damaged by a goblin dog's bite, who deals damage to a goblin dog with a natural weapon or unarmed attack, or who otherwise comes into contact with a goblin dog (including attempts to grapple or ride the creature) must make a DC 12 Fortitude save or break out in an itching rash. A creature affected by this rash takes a -2 penalty to Dexterity and Charisma for 1 day (multiple allergic reactions do not stack). Remove disease or any magical healing removes the rash instantly. This is a disease effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Perception +16, Stealth +11
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Despair (Su) All creatures within a 30-foot radius that see a mummy must make a DC 16 Will save or be paralyzed by fear for 1d4 rounds. Whether or not the save is successful, that creature cannot be affected again by the same mummy's despair ability for 24 hours. This is a paralysis and a mind-affecting fear affect. The save DC is Charisma-based. Mummy Rot (Su) Curse and disease-slam; save Fort DC 16; onset 1 minute; frequency 1/day; effect 1d6 Con and 1d6 Cha; cure -. Mummy rot is both a curse and disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. Even after the curse element of mummy rot is lifted, a creature suffering from it cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed on a DC 20 caster level check, or the spell is wasted and the healing has no effect. Anyone who dies from mummy rot turns to dust and cannot be raised without a resurrection or greater magic. The save DC is Charisma-based.
+SpecialAbilities:
+  Despair (Su): >
+    All creatures within a 30-foot radius that see a mummy must make a DC 16 Will save or be paralyzed by fear for 1d4 rounds. Whether or not the save is successful, that creature cannot be affected again by the same mummy's despair ability for 24 hours. This is a paralysis and a mind-affecting fear affect. The save DC is Charisma-based.
+  Mummy Rot (Su): >
+    Curse and disease-slam; save Fort DC 16; onset 1 minute; frequency 1/day; effect 1d6 Con and 1d6 Cha; cure -. Mummy rot is both a curse and disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. Even after the curse element of mummy rot is lifted, a creature suffering from it cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed on a DC 20 caster level check, or the spell is wasted and the healing has no effect. Anyone who dies from mummy rot turns to dust and cannot be raised without a resurrection or greater magic. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

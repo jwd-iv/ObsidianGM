@@ -56,7 +56,9 @@ Skills: Climb +19, Craft (any one) +10, Diplomacy +9, Intimidate +26, Perception
 RacialMods: 
 Languages: Common, Giant
 SQ: oversized weapon
-SpecialAbilities: Oversized Weapon (Ex) A cloud giant can wield Gargantuan weapons without penalty. Most favor the use of immense morningstars.
+SpecialAbilities:
+  Oversized Weapon (Ex): >
+    A cloud giant can wield Gargantuan weapons without penalty. Most favor the use of immense morningstars.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

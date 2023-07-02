@@ -56,7 +56,13 @@ Skills: Perception +6, Swim +8
 RacialMods: 
 Languages: Common (can't speak)
 SQ: amphibious
-SpecialAbilities: Death Frenzy (Su) When a reefclaw is killed, its body spasms horrifically. Immediately upon dying, the reefclaw makes a full attack against a creature it threatens. If more than one creature is within reach, roll randomly for each attack to determine the target (which may be another reefclaw).  Grab (Ex) A reefclaw can use its grab ability on a target of any size. Reefclaws have a +8 racial bonus on grapple checks; this bonus replaces the normal +4 bonus a creature with grab receives.  Poison (Ex) Claw-injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Death Frenzy (Su): >
+    When a reefclaw is killed, its body spasms horrifically. Immediately upon dying, the reefclaw makes a full attack against a creature it threatens. If more than one creature is within reach, roll randomly for each attack to determine the target (which may be another reefclaw).
+  Grab (Ex): >
+    A reefclaw can use its grab ability on a target of any size. Reefclaws have a +8 racial bonus on grapple checks; this bonus replaces the normal +4 bonus a creature with grab receives.
+  Poison (Ex): >
+    Claw-injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

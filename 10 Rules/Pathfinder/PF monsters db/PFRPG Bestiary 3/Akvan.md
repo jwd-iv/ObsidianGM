@@ -56,7 +56,17 @@ Skills: Acrobatics +28 (+36 when jumping), Bluff +43, Diplomacy +31, Fly +27, In
 RacialMods: +8 Bluff
 Languages: Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
 SQ: armor training 4
-SpecialAbilities: Armor Training (Ex) An akvan is created wearing armor, and is naturally experienced in its use. An akvan possesses the armor training ability of a 15th-level fighter.  Aura of Hopelessness (Su) All creatures except divs within 30 feet of an akvan must make a successful DC 30 Will save or take a -4 penalty on attack rolls, saving throws, skill checks, and ability checks. This is a mind-affecting effect. The save DC is Charisma-based.  Create Ghul (Su) Any genie that is slain by an akvan becomes a ghul (see page 125) in 1d4 rounds. Such ghuls are under the command of the akvan that created them and remain enslaved until it dies, at which point they become free-willed ghuls. They do not possess any of the abilities they had in life.  Shake Faith (Su) Anytime an akvan strikes a divine spellcaster with any of its melee attacks, the target must make a DC 30 Will save or be shaken for 1d4 rounds. If the save is successful, the target is instead shaken for 1 round. The save DC is Charisma-based.  Torturous Gullet (Su) As hunters of otherworldly beings, akvans are uniquely drawn to digest creatures with a variety of resistances. In addition to the damage dealt by crushing internal organs, creatures swallowed by an akvan take 4d6 points of acid, cold, electricity, or fire damage per round. The akvan chooses what type of energy damage those in its stomach will take every round, and may change this from round to round. Additionally, an akvan's stomach is thickly armored, allowing it to benefit from its entire natural armor bonus instead of merely half.
+SpecialAbilities:
+  Armor Training (Ex): >
+    An akvan is created wearing armor, and is naturally experienced in its use. An akvan possesses the armor training ability of a 15th-level fighter.
+  Aura of Hopelessness (Su): >
+    All creatures except divs within 30 feet of an akvan must make a successful DC 30 Will save or take a -4 penalty on attack rolls, saving throws, skill checks, and ability checks. This is a mind-affecting effect. The save DC is Charisma-based.
+  Create Ghul (Su): >
+    Any genie that is slain by an akvan becomes a ghul (see page 125) in 1d4 rounds. Such ghuls are under the command of the akvan that created them and remain enslaved until it dies, at which point they become free-willed ghuls. They do not possess any of the abilities they had in life.
+  Shake Faith (Su): >
+    Anytime an akvan strikes a divine spellcaster with any of its melee attacks, the target must make a DC 30 Will save or be shaken for 1d4 rounds. If the save is successful, the target is instead shaken for 1 round. The save DC is Charisma-based.
+  Torturous Gullet (Su): >
+    As hunters of otherworldly beings, akvans are uniquely drawn to digest creatures with a variety of resistances. In addition to the damage dealt by crushing internal organs, creatures swallowed by an akvan take 4d6 points of acid, cold, electricity, or fire damage per round. The akvan chooses what type of energy damage those in its stomach will take every round, and may change this from round to round. Additionally, an akvan's stomach is thickly armored, allowing it to benefit from its entire natural armor bonus instead of merely half.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

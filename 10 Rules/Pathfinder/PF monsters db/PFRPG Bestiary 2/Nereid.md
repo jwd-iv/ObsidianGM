@@ -56,7 +56,19 @@ Skills: Bluff +20, Escape Artist +24, Knowledge (nature) +17, Perception +21, Pe
 RacialMods: 
 Languages: Aquan, Common, Sylvan
 SQ: change shape (Medium water elemental, elemental body II), unearthly grace
-SpecialAbilities: Beguiling Aura (Su) Any creature sexually attracted to women runs the risk of being beguiled by a nereid if it looks upon her beauty from a distance of 30 feet or less. If the creature fails a DC 23 Will save, it is immediately fascinated. A nereid may use her suggestion spell-like ability at will against creatures that are fascinated by her beguiling aura. This is a mind-affecting compulsion effect. The save DC is Charisma-based.  Drowning Kiss (Su) A nereid can flood the lungs of a willing, helpless, or fascinated creature by touching it (traditionally by kissing the creature on the lips). If the target cannot breathe water, it cannot hold its breath and immediately begins to drown. On its turn, the target can attempt a DC 23 Fortitude save to cough up this water; otherwise it falls unconscious at 0 hp. On the next round, the target must save again or drop to -1 hit points and be dying; on the third round it must save again or die (see page 445 of the Pathfinder RPG Core Rulebook). The save DC is Constitution-based.  Poison (Ex) Touch or spray (range 30 ft.)-contact; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d2 Con plus blindness; cure 2 consecutive saves.  Shawl (Ex) A nereid's shawl (hardness 2, hp 6) contains a portion of her life force. If the shawl is ever destroyed, the nereid takes 1d6 points of Constitution drain per hour until she dies. A nereid can craft a new shawl from water by making a DC 25 Will save, but each attempt takes 1d4 hours to complete. Attempts to destroy or steal a nereid's shawl require the sunder or disarm attempts.  Transparency (Su) When underwater, a nereid's body becomes transparent, effectively rendering her invisible. She can become visible or transparent at will as a free action.  Unearthly Grace (Su) A nereid adds her Charisma bonus as a deflection bonus to her Armor Class and CMD if she wears no armor.
+SpecialAbilities:
+  Beguiling Aura (Su): >
+    Any creature sexually attracted to women runs the risk of being beguiled by a nereid if it looks upon her beauty from a distance of 30 feet or less. If the creature fails a DC 23 Will save, it is immediately fascinated. A nereid may use her suggestion spell-like ability at will against creatures that are fascinated by her beguiling aura. This is a mind-affecting compulsion effect. The save DC is Charisma-based.
+  Drowning Kiss (Su): >
+    A nereid can flood the lungs of a willing, helpless, or fascinated creature by touching it (traditionally by kissing the creature on the lips). If the target cannot breathe water, it cannot hold its breath and immediately begins to drown. On its turn, the target can attempt a DC 23 Fortitude save to cough up this water; otherwise it falls unconscious at 0 hp. On the next round, the target must save again or drop to -1 hit points and be dying; on the third round it must save again or die (see page 445 of the Pathfinder RPG Core Rulebook). The save DC is Constitution-based.
+  Poison (Ex): >
+    Touch or spray (range 30 ft.)-contact; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d2 Con plus blindness; cure 2 consecutive saves.
+  Shawl (Ex): >
+    A nereid's shawl (hardness 2, hp 6) contains a portion of her life force. If the shawl is ever destroyed, the nereid takes 1d6 points of Constitution drain per hour until she dies. A nereid can craft a new shawl from water by making a DC 25 Will save, but each attempt takes 1d4 hours to complete. Attempts to destroy or steal a nereid's shawl require the sunder or disarm attempts.
+  Transparency (Su): >
+    When underwater, a nereid's body becomes transparent, effectively rendering her invisible. She can become visible or transparent at will as a free action.
+  Unearthly Grace (Su): >
+    A nereid adds her Charisma bonus as a deflection bonus to her Armor Class and CMD if she wears no armor.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

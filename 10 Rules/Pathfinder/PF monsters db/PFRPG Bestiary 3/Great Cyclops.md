@@ -56,7 +56,9 @@ Skills: Perception +22
 RacialMods: 
 Languages: Common, Cyclops, Giant
 SQ: flash of brutality
-SpecialAbilities: Flash of Brutality (Su) Once per day as a swift action, a great cyclops can gain a burst of savage of inspiration. When it does, it doubles the threat range of all weapons, natural attacks, and rock attacks it makes until the start of its next turn. Furthermore, once per day, when the great cyclops reaches 0 or fewer hit points and is conscious because of its Diehard feat, this ability recharges, allowing it to use the ability a second time that same day.
+SpecialAbilities:
+  Flash of Brutality (Su): >
+    Once per day as a swift action, a great cyclops can gain a burst of savage of inspiration. When it does, it doubles the threat range of all weapons, natural attacks, and rock attacks it makes until the start of its next turn. Furthermore, once per day, when the great cyclops reaches 0 or fewer hit points and is conscious because of its Diehard feat, this ability recharges, allowing it to use the ability a second time that same day.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Bluff +22, Diplomacy +22, Fly +10, Intimidate +19, Knowledge (arcana) +2
 RacialMods: +8 on Perception
 Languages: Abyssal, Celestial, Draconic; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Unholy Nimbus (Su) Three times per day as a free action a nalfeshnee can create a nimbus of unholy light, causing nauseating beams of writhing color to play around its body. One round later, the light bursts in a 60-foot radius. Any non-demon creature caught within this area must succeed on a DC 22 Will save or be dazed for 1d10 rounds as visions of madness hound it. The save DC is Charisma-based.
+SpecialAbilities:
+  Unholy Nimbus (Su): >
+    Three times per day as a free action a nalfeshnee can create a nimbus of unholy light, causing nauseating beams of writhing color to play around its body. One round later, the light bursts in a 60-foot radius. Any non-demon creature caught within this area must succeed on a DC 22 Will save or be dazed for 1d10 rounds as visions of madness hound it. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

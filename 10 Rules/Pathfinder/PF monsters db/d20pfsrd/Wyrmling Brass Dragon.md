@@ -56,7 +56,9 @@ Skills: Bluff +7, Diplomacy +7, Fly +14, Linguistics +7, Perception +9, Sense Mo
 RacialMods: 
 Languages: Common, Draconic, plus any 3 others
 SQ: 
-SpecialAbilities: Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a 15 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+1 rounds.
+SpecialAbilities:
+  Sleep Breath (Su): >
+    Instead of a line of fire, a brass dragon can breathe a 15 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+1 rounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

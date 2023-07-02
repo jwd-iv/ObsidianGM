@@ -56,7 +56,9 @@ Skills: Disable Device +3, Disguise +5, Fly +5, Perception +4, Sleight of Hand +
 RacialMods: +2 Disable Device, +2 Sleight of Hand
 Languages: Common, Sylvan
 SQ: amphibious
-SpecialAbilities: Misplacement (Su) Hanivers are swift and curious, possessing an uncanny ability to meddle with the possessions of any character whose square they enter. Any time a haniver succeeds at a Sleight of Hand check against a creature, it also rearranges that creature's possessions. The next time that creature attempts to produce a weapon or item, it finds its possessions misplaced or disarranged; retrieving a stored item or drawing a weapon then requires a standard action instead of a move action (unless the haniver has stolen the item in question). After spending this standard action, the character takes mental inventory and is no longer affected by this ability. Occasionally, hanivers replace items they've stolen or leave their old treasures-seashells, old fish, clumps of sand-in containers or clothing they have rooted through. They do this without any added difficultly to their Sleight of Hand checks.
+SpecialAbilities:
+  Misplacement (Su): >
+    Hanivers are swift and curious, possessing an uncanny ability to meddle with the possessions of any character whose square they enter. Any time a haniver succeeds at a Sleight of Hand check against a creature, it also rearranges that creature's possessions. The next time that creature attempts to produce a weapon or item, it finds its possessions misplaced or disarranged; retrieving a stored item or drawing a weapon then requires a standard action instead of a move action (unless the haniver has stolen the item in question). After spending this standard action, the character takes mental inventory and is no longer affected by this ability. Occasionally, hanivers replace items they've stolen or leave their old treasures-seashells, old fish, clumps of sand-in containers or clothing they have rooted through. They do this without any added difficultly to their Sleight of Hand checks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

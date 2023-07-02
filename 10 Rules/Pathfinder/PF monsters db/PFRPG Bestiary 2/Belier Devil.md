@@ -56,7 +56,9 @@ Skills: Appraise +24, Bluff +27, Diplomacy +27, Fly +32, Intimidate +24, Knowled
 RacialMods: 
 Languages: Celestial,  Common,  Draconic,  Infernal;  telepathy 100 ft.
 SQ: 
-SpecialAbilities: Possession (Su) When a belier devil uses its magic jar spell-like ability, it can identify and pinpoint life forces accurately, allowing it to select its victims with ease. It does not require a receptacle to use magic jar. If it uses magic jar on a host while on the Material Plane, its own body becomes ethereal for the duration of the possession and the magic jar effect lasts until the effect is dispelled, the devil ends the effect, it is forced out of its host body, or it or its host body is slain.
+SpecialAbilities:
+  Possession (Su): >
+    When a belier devil uses its magic jar spell-like ability, it can identify and pinpoint life forces accurately, allowing it to select its victims with ease. It does not require a receptacle to use magic jar. If it uses magic jar on a host while on the Material Plane, its own body becomes ethereal for the duration of the possession and the magic jar effect lasts until the effect is dispelled, the devil ends the effect, it is forced out of its host body, or it or its host body is slain.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

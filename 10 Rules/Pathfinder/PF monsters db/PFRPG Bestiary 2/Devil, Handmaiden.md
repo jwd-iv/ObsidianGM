@@ -56,7 +56,11 @@ Skills: Acrobatics +25 (+29 jump), Bluff +23, Diplomacy +23, Disguise +23, Escap
 RacialMods: 
 Languages: Celestial, Common, Draconic, Infernal, telepathy 100 ft.
 SQ: agile grappler
-SpecialAbilities: Agile Grappler (Ex) A gylou does not gain the grappled condition if she grapples a foe.  Tentacle Cage (Su) If a gylou successfully grapples a creature, she transfers that creature into her lower body's nest of cage-like tentacles. This works like swallow whole. The gylou's tentacles are AC 17 and have 18 hp for the purpose of an entrapped creature cutting itself out. A gylou's tendrils heal quickly, allowing her to use this ability 1 round after a creature cuts itself free.
+SpecialAbilities:
+  Agile Grappler (Ex): >
+    A gylou does not gain the grappled condition if she grapples a foe.
+  Tentacle Cage (Su): >
+    If a gylou successfully grapples a creature, she transfers that creature into her lower body's nest of cage-like tentacles. This works like swallow whole. The gylou's tentacles are AC 17 and have 18 hp for the purpose of an entrapped creature cutting itself out. A gylou's tendrils heal quickly, allowing her to use this ability 1 round after a creature cuts itself free.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

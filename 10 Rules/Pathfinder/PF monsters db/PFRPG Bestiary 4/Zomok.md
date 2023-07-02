@@ -56,7 +56,11 @@ Skills: Fly +10, Knowledge (nature) +20, Perception +26, Stealth +8, Survival +2
 RacialMods: 
 Languages: Common, Sylvan, Terran
 SQ: 
-SpecialAbilities: Breath Weapon (Su) A zomok's breath weapon is a cone of flying dirt, bark, stones, and moss, which takes root as soon as it touches the ground. Creatures may attempt a saving throw for half damage. Any creature that fails its save and is touching the ground is entangled for 1d6 rounds by this material. A creature can break free with a DC 28 Strength or Escape Artist check. The save DC is Constitution-based.  Forest Step (Su) A zomok in a forest area may teleport up to 120 feet by moving the essence of its being to another forested area. The zomok is cured of 60 points of damage when it does this. It may use this ability once every 1d6+1 rounds but no more than three times per day. If the zomok has swallowed a foe, the foe is left behind when the zomok teleports.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    A zomok's breath weapon is a cone of flying dirt, bark, stones, and moss, which takes root as soon as it touches the ground. Creatures may attempt a saving throw for half damage. Any creature that fails its save and is touching the ground is entangled for 1d6 rounds by this material. A creature can break free with a DC 28 Strength or Escape Artist check. The save DC is Constitution-based.
+  Forest Step (Su): >
+    A zomok in a forest area may teleport up to 120 feet by moving the essence of its being to another forested area. The zomok is cured of 60 points of damage when it does this. It may use this ability once every 1d6+1 rounds but no more than three times per day. If the zomok has swallowed a foe, the foe is left behind when the zomok teleports.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

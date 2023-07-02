@@ -56,7 +56,13 @@ Skills: Acrobatics +15, Climb +9, Escape Artist +15, Intimidate +10, Knowledge (
 RacialMods: 
 Languages: Terran
 SQ: compression, freeze (mud puddle)
-SpecialAbilities: Engulf (Su) A mudlord can engulf no more than one Medium or two Small or smaller creatures at a time.  Mudball (Ex) A mudlord can throw a ball of sticky mud up to 30 feet at an opponent's face as a ranged touch attack. It if hits, the target is blinded. Each round on its turn, the target can attempt a DC 16 Reflex save as a free action; if successful, the target shakes off the mud.  The target or an adjacent creature can wipe off the mud as a standard action. The save DC is Constitution-based.  Vulnerable to Magic (Ex) A transmute mud to rock spell deals 1d6 points of damage per caster level to any mudlord in the area and automatically staggers it for 2d6 rounds.
+SpecialAbilities:
+  Engulf (Su): >
+    A mudlord can engulf no more than one Medium or two Small or smaller creatures at a time.
+  Mudball (Ex): >
+    A mudlord can throw a ball of sticky mud up to 30 feet at an opponent's face as a ranged touch attack. It if hits, the target is blinded. Each round on its turn, the target can attempt a DC 16 Reflex save as a free action; if successful, the target shakes off the mud.  The target or an adjacent creature can wipe off the mud as a standard action. The save DC is Constitution-based.
+  Vulnerable to Magic (Ex): >
+    A transmute mud to rock spell deals 1d6 points of damage per caster level to any mudlord in the area and automatically staggers it for 2d6 rounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

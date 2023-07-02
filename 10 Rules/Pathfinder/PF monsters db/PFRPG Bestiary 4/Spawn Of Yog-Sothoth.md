@@ -56,7 +56,11 @@ Skills: Climb +33, Escape Artist +19, Intimidate +22, Knowledge (arcana) +20, Pe
 RacialMods: 
 Languages: Aklo
 SQ: 
-SpecialAbilities: Devastation (Ex) As a full-round action, the spawn can assault a structure, dealing 4d6+16 points of damage to the structure in that round.  Tenuous Natural Invisibility (Ex) This functions like natural invisibility, except it is subject to invisibility purge and effects that outline invisible creatures (such as glitterdust and faerie fire). It cannot be dispelled.
+SpecialAbilities:
+  Devastation (Ex): >
+    As a full-round action, the spawn can assault a structure, dealing 4d6+16 points of damage to the structure in that round.
+  Tenuous Natural Invisibility (Ex): >
+    This functions like natural invisibility, except it is subject to invisibility purge and effects that outline invisible creatures (such as glitterdust and faerie fire). It cannot be dispelled.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

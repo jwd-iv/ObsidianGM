@@ -56,7 +56,13 @@ Skills: Acrobatics +12 (+20 when jumping), Climb +12, Intimidate +25, Perception
 RacialMods: +8 Acrobatics when jumping
 Languages: Common, Giant
 SQ: skyrunner, undersized weapons
-SpecialAbilities: Natural Jouster (Ex) A svathurim can wield a lance one-handed as if it were mounted, and it deals double damage with a lance while charging.  Skyrunner (Su) When charging, running, or taking a double move, a svathurim can stride across open air as if it were using air walk. This movement is very taxing; a svathurim must succeed at a DC 14 Constitution check at the end of each round it uses this ability or become fatigued for 1 minute. This DC increases by 2 for each round after the first. Returning to the ground resets the DC to 14, but doesn't negate any ongoing fatigue or exhaustion. A svathurim cannot trample when using this ability.  Thunderous Trample (Su) Any creature damaged by a svathurim's trample attack must succeed at a DC 22 Fortitude save or be deafened for 1 minute. The save DC is Constitution-based.
+SpecialAbilities:
+  Natural Jouster (Ex): >
+    A svathurim can wield a lance one-handed as if it were mounted, and it deals double damage with a lance while charging.
+  Skyrunner (Su): >
+    When charging, running, or taking a double move, a svathurim can stride across open air as if it were using air walk. This movement is very taxing; a svathurim must succeed at a DC 14 Constitution check at the end of each round it uses this ability or become fatigued for 1 minute. This DC increases by 2 for each round after the first. Returning to the ground resets the DC to 14, but doesn't negate any ongoing fatigue or exhaustion. A svathurim cannot trample when using this ability.
+  Thunderous Trample (Su): >
+    Any creature damaged by a svathurim's trample attack must succeed at a DC 22 Fortitude save or be deafened for 1 minute. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

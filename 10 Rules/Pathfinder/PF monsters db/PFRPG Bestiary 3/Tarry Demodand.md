@@ -56,7 +56,9 @@ Skills: Bluff +16, Climb +19, Fly +23, Intimidate +24, Knowledge (arcana) +14, K
 RacialMods: 
 Languages: Abyssal, Celestial, Common
 SQ: heretical soul
-SpecialAbilities: Adhesion (Ex) A creature striking a tarry demodand with a manufactured weapon must make a DC 23 Reflex save; failure means the weapon sticks to the demodand and cannot be used to make attacks until freed. Freeing a stuck weapon requires a successful grapple check. This adhesion grants a +4 racial bonus to CMD against disarm attempts.
+SpecialAbilities:
+  Adhesion (Ex): >
+    A creature striking a tarry demodand with a manufactured weapon must make a DC 23 Reflex save; failure means the weapon sticks to the demodand and cannot be used to make attacks until freed. Freeing a stuck weapon requires a successful grapple check. This adhesion grants a +4 racial bonus to CMD against disarm attempts.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,13 @@ Skills: Climb +14, Craft (trapmaking) +8, Perception +9, Stealth +7
 RacialMods: +8 on Craft (trapmaking)
 Languages: Common
 SQ: spider empathy +7
-SpecialAbilities: >
-  Poison (Ex) Bite-injury; save Fort DC 15; frequency 1/round for 10 rounds; effect 1d2 Dex; cure 2 consecutive saves. The save DC is Constitution based. Spider Empathy (Ex) This ability functions as the druid's wild empathy, save that an ettercap can only use this ability on spiders. An ettercap gains a +4 racial bonus on this check. Spiders are mindless, but this empathic communication imparts on them a modicum of implanted intelligence, allowing ettercaps to train giant spiders and use them as guardians. Traps (Ex) The ettercap is particularly skilled at crafting cunning traps with its webs. Deadfalls, nooses, and spear traps are the most common traps ettercaps build with their webs. An ettercap doesn't require gold to build its traps, merely time. Rules for crafting traps can be found in Chapter 13 of the Pathfinder RPG Core Rulebook. Ettercap Deadfall: CR 3; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +10 melee (4d6), multiple targets (all targets in a 10-ft. square). Ettercap Noose: CR 1; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +15 CMB check (grapple). Ettercap Spear Trap: CR 2; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +15 melee (1d6+6).
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 15; frequency 1/round for 10 rounds; effect 1d2 Dex; cure 2 consecutive saves. The save DC is Constitution based.
+  Spider Empathy (Ex): >
+    This ability functions as the druid's wild empathy, save that an ettercap can only use this ability on spiders. An ettercap gains a +4 racial bonus on this check. Spiders are mindless, but this empathic communication imparts on them a modicum of implanted intelligence, allowing ettercaps to train giant spiders and use them as guardians.
+  Traps (Ex): >
+    The ettercap is particularly skilled at crafting cunning traps with its webs. Deadfalls, nooses, and spear traps are the most common traps ettercaps build with their webs. An ettercap doesn't require gold to build its traps, merely time. Rules for crafting traps can be found in Chapter 13 of the Pathfinder RPG Core Rulebook. Ettercap Deadfall: CR 3; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +10 melee (4d6), multiple targets (all targets in a 10-ft. square). Ettercap Noose: CR 1; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +15 CMB check (grapple). Ettercap Spear Trap: CR 2; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +15 melee (1d6+6).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

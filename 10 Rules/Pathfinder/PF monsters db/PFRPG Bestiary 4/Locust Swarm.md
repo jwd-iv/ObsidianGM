@@ -56,7 +56,9 @@ Skills: Climb +3, Fly +10
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Devour (Ex) A locust swarm causes damage to unattended objects in its space each round as though they were creatures. It even damages inedible objects.
+SpecialAbilities:
+  Devour (Ex): >
+    A locust swarm causes damage to unattended objects in its space each round as though they were creatures. It even damages inedible objects.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

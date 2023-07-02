@@ -56,8 +56,15 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: compression, monstrous growth, reactive regeneration, slime trail
-SpecialAbilities: >
-  Disease (Ex) Tumor Infestation: Injury; save Fort DC 17; onset 1 minute; frequency 1/day; effect 1d2 Con and 1d2 Cha; cure 2 consecutive saves. Anyone who dies from tumor infestation turns into a hungry flesh 1d4 hours later. The save DC is Constitution-based.  Monstrous Growth (Ex) A hungry flesh gains growth points from its reactive regeneration ability or from eating creatures. When it consumes a creature that's been dead no more than an hour, it gains 1 growth point if that creature is of its size or one size category smaller, or 2 growth points if its meal is larger than it is. Eating a creature takes a full-round action if it is the same size or smaller than the hungry flesh or 1 minute if it is larger. Each time a hungry flesh reaches 5 growth points, it gains the giant creature simple template. This template stacks with itself each time the hungry flesh gains another 5 growth points, but the hungry flesh can't increase its size beyond Gargantuan. When it stops gaining growth points, a hungry flesh loses a single application of the giant creature simple template for each hour that passes.  Reactive Regeneration (Ex) Whenever a hungry flesh takes piercing or slashing damage, it regenerates 5 hit points and gains 1 growth point.  Slime Trail (Ex) A hungry flesh leaves behind a trail of slime that acts as a grease spell (DC 17). Any living creature that touches this slime with bare flesh must succeed at a Fortitude save (with a +4 bonus) or contract tumor infestation. The slime dries up after 1 minute. The save DC is Constitution-based.
+SpecialAbilities:
+  Disease (Ex): >
+    Tumor Infestation: Injury; save Fort DC 17; onset 1 minute; frequency 1/day; effect 1d2 Con and 1d2 Cha; cure 2 consecutive saves. Anyone who dies from tumor infestation turns into a hungry flesh 1d4 hours later. The save DC is Constitution-based.
+  Monstrous Growth (Ex): >
+    A hungry flesh gains growth points from its reactive regeneration ability or from eating creatures. When it consumes a creature that's been dead no more than an hour, it gains 1 growth point if that creature is of its size or one size category smaller, or 2 growth points if its meal is larger than it is. Eating a creature takes a full-round action if it is the same size or smaller than the hungry flesh or 1 minute if it is larger. Each time a hungry flesh reaches 5 growth points, it gains the giant creature simple template. This template stacks with itself each time the hungry flesh gains another 5 growth points, but the hungry flesh can't increase its size beyond Gargantuan. When it stops gaining growth points, a hungry flesh loses a single application of the giant creature simple template for each hour that passes.
+  Reactive Regeneration (Ex): >
+    Whenever a hungry flesh takes piercing or slashing damage, it regenerates 5 hit points and gains 1 growth point.
+  Slime Trail (Ex): >
+    A hungry flesh leaves behind a trail of slime that acts as a grease spell (DC 17). Any living creature that touches this slime with bare flesh must succeed at a Fortitude save (with a +4 bonus) or contract tumor infestation. The slime dries up after 1 minute. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

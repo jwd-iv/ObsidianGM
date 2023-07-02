@@ -56,7 +56,9 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Sand Trap (Ex) A giant ant lion can create a 60-foot-diameter, 20-foot-deep pit in any sand or soft earth surface. Creating a sand trap takes 1 hour. A DC 15 Perception check allows a creature to realize such a depression in the sand is in fact a trap. Any creature that steps into the trap slides to the center if it fails a DC 14 Reflex save-such victims take no damage, but they do fall prone. A giant ant lion can make an attack of opportunity against any creature that falls to the bottom of its sand trap. These creatures can move across sand traps at their normal speed and are immune to the trap's effects. Other creatures can navigate the trap's walls with a DC 20 Climb check.
+SpecialAbilities:
+  Sand Trap (Ex): >
+    A giant ant lion can create a 60-foot-diameter, 20-foot-deep pit in any sand or soft earth surface. Creating a sand trap takes 1 hour. A DC 15 Perception check allows a creature to realize such a depression in the sand is in fact a trap. Any creature that steps into the trap slides to the center if it fails a DC 14 Reflex save-such victims take no damage, but they do fall prone. A giant ant lion can make an attack of opportunity against any creature that falls to the bottom of its sand trap. These creatures can move across sand traps at their normal speed and are immune to the trap's effects. Other creatures can navigate the trap's walls with a DC 20 Climb check.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

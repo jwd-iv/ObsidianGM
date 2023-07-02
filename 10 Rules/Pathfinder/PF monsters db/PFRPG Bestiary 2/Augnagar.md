@@ -56,8 +56,11 @@ Skills: Climb +19, Fly +12, Perception +22, Stealth +24
 RacialMods: +16 Stealth
 Languages: Abyssal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: >
-  Horrific Appearance (Su) Creatures that succumb to an augnagar's horrific appearance are driven momentarily insane. This results in 2 points of Charisma damage and leaves the victim confused for 1d3 rounds.  Rotting Curse (Su): Bite- injury; Save Fort DC 26; Frequency 1/ day; Effect 1d6 Con drain plus constant stench. A creature that suffers the rotting curse imparted by an augnagar's bite displays hideous, festering wounds that exude a horrific stench. This functions as the stench universal monster rule (see page 302), save that it affects all creatures except those that are immune to poison. The victim of this curse receives no saving throw to avoid becoming sickened by the stench, but other creatures can attempt a DC 26 Fortitude save to negate this condition-those who fail remain sickened as long as they remain within 30 feet of the cursed victim. The horrific stench also imparts a -8 penalty on all Stealth checks made by the cursed victim. The save DC is Constitution-based.
+SpecialAbilities:
+  Horrific Appearance (Su): >
+    Creatures that succumb to an augnagar's horrific appearance are driven momentarily insane. This results in 2 points of Charisma damage and leaves the victim confused for 1d3 rounds.
+  Rotting Curse (Su): >
+    : Bite- injury; Save Fort DC 26; Frequency 1/ day; Effect 1d6 Con drain plus constant stench. A creature that suffers the rotting curse imparted by an augnagar's bite displays hideous, festering wounds that exude a horrific stench. This functions as the stench universal monster rule (see page 302), save that it affects all creatures except those that are immune to poison. The victim of this curse receives no saving throw to avoid becoming sickened by the stench, but other creatures can attempt a DC 26 Fortitude save to negate this condition-those who fail remain sickened as long as they remain within 30 feet of the cursed victim. The horrific stench also imparts a -8 penalty on all Stealth checks made by the cursed victim. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

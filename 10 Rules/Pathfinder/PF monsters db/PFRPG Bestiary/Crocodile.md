@@ -56,7 +56,13 @@ Skills: Perception +8, Stealth +5 (+13 in water), Swim +12
 RacialMods: +8 on Stealth in water
 Languages: 
 SQ: hold breath
-SpecialAbilities: Death Roll (Ex) When grappling a foe of its size or smaller, a crocodile can perform a death roll upon making a successful grapple check. As it clings to its foe, it tucks in its legs and rolls rapidly, twisting and wrenching its victim. The crocodile inflicts its bite damage and knocks the creature prone. If successful, the crocodile maintains its grapple.  Hold Breath (Ex) A crocodile can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.  Sprint (Ex) Once per minute a crocodile may sprint, increasing its land speed to 40 feet for 1 round.
+SpecialAbilities:
+  Death Roll (Ex): >
+    When grappling a foe of its size or smaller, a crocodile can perform a death roll upon making a successful grapple check. As it clings to its foe, it tucks in its legs and rolls rapidly, twisting and wrenching its victim. The crocodile inflicts its bite damage and knocks the creature prone. If successful, the crocodile maintains its grapple.
+  Hold Breath (Ex): >
+    A crocodile can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
+  Sprint (Ex): >
+    Once per minute a crocodile may sprint, increasing its land speed to 40 feet for 1 round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

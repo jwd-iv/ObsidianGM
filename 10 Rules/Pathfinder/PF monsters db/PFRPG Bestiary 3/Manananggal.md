@@ -56,8 +56,11 @@ Skills: Bluff +18, Disguise +21, Fly +16, Knowledge (religion) +11, Perception +
 RacialMods: 
 Languages: Abyssal, Common
 SQ: separate
-SpecialAbilities: >
-  Separate (Su) During the day, a manananggal looks like a living human woman. She does not detect as undead during the day, but is still an undead creature. At night, her upper torso rips away (this is a full round action that occurs at sunset), leaving her lower torso behind. Her lower torso is helpless, but her upper torso gains its fly speed and natural attacks at this time. The upper and lower portions share the same pool of hit points (despite any intervening distance), and if the helpless lower portion is damaged, the manananggal is immediately aware of the attack. Since manananggals can be destroyed by damage to their lower bodies, they prefer to hide their lower torsos when separated. A manananggal must return to its lower torso and reattach to it (a full-round action) within the hour before sunrise-each round a manananggal remains separated after sunrise, it takes 1d6 points of damage until it rejoins its lower torso or it crumbles into dust.  Vulnerable to Light Blades (Ex): Light blades (such as daggers, kamas, kukris, rapiers, short swords, sickles, and starknives) deal double the weapon's base damage on a successful hit against a manananggal.
+SpecialAbilities:
+  Separate (Su): >
+    During the day, a manananggal looks like a living human woman. She does not detect as undead during the day, but is still an undead creature. At night, her upper torso rips away (this is a full round action that occurs at sunset), leaving her lower torso behind. Her lower torso is helpless, but her upper torso gains its fly speed and natural attacks at this time. The upper and lower portions share the same pool of hit points (despite any intervening distance), and if the helpless lower portion is damaged, the manananggal is immediately aware of the attack. Since manananggals can be destroyed by damage to their lower bodies, they prefer to hide their lower torsos when separated. A manananggal must return to its lower torso and reattach to it (a full-round action) within the hour before sunrise-each round a manananggal remains separated after sunrise, it takes 1d6 points of damage until it rejoins its lower torso or it crumbles into dust.
+  Vulnerable to Light Blades (Ex): >
+    : Light blades (such as daggers, kamas, kukris, rapiers, short swords, sickles, and starknives) deal double the weapon's base damage on a successful hit against a manananggal.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Acrobatics +8, Bluff +9, Perception +8, Perform (wind) +11, Sense Motive
 RacialMods: 
 Languages: Common, Sylvan
 SQ: 
-SpecialAbilities: Panpipes (Su) Three times per day, a faun can use its masterwork panpipes to augment its spell-like abilities. Doing so is a swift action that increases the DC of the next spell-like ability it uses on its turn by +2.
+SpecialAbilities:
+  Panpipes (Su): >
+    Three times per day, a faun can use its masterwork panpipes to augment its spell-like abilities. Doing so is a swift action that increases the DC of the next spell-like ability it uses on its turn by +2.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Perception +37
 RacialMods: +8 Perception
 Languages: 
 SQ: powerful bite
-SpecialAbilities: Powerful Bite (Ex) A tyrannosaurus applies twice its Strength modifier to bite damage.
+SpecialAbilities:
+  Powerful Bite (Ex): >
+    A tyrannosaurus applies twice its Strength modifier to bite damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

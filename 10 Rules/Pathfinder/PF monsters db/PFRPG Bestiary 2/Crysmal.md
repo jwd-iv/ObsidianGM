@@ -56,7 +56,11 @@ Skills: Acrobatics +9, Climb +9, Perception +11, Stealth +13 (+15 in rocky areas
 RacialMods: +2 Stealth in rocky areas
 Languages: Terran
 SQ: 
-SpecialAbilities: Crystal Sense (Sp) Crysmals can sense the presence of any crystals or gems within 30 feet as if using the scent ability.  Shard Spike (Ex) Once per day, a crysmal can launch its tail spike as a ranged attack that shatters when it hits, dealing 3d6 points of piercing damage to the target and 1d4 points of piercing damage to all creatures in adjacent squares. The spike regrows in 24 hours, but until it does, its impaired sting does only 1d6+3 damage.
+SpecialAbilities:
+  Crystal Sense (Sp): >
+    Crysmals can sense the presence of any crystals or gems within 30 feet as if using the scent ability.
+  Shard Spike (Ex): >
+    Once per day, a crysmal can launch its tail spike as a ranged attack that shatters when it hits, dealing 3d6 points of piercing damage to the target and 1d4 points of piercing damage to all creatures in adjacent squares. The spike regrows in 24 hours, but until it does, its impaired sting does only 1d6+3 damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

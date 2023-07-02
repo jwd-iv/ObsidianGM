@@ -56,7 +56,9 @@ Skills: Climb +13, Perception +11, Stealth +8
 RacialMods: +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Intimidating Charge (Ex) When a giant frilled lizard charges, it hisses ferociously, extends its neck frills, and darts forward on its hind legs, increasing its base speed to 50 feet for that round. In addition to the normal effects of a charge, the creature charged must make a DC 13 Will save or be shaken for 1d6 rounds. This is a fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Intimidating Charge (Ex): >
+    When a giant frilled lizard charges, it hisses ferociously, extends its neck frills, and darts forward on its hind legs, increasing its base speed to 50 feet for that round. In addition to the normal effects of a charge, the creature charged must make a DC 13 Will save or be shaken for 1d6 rounds. This is a fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

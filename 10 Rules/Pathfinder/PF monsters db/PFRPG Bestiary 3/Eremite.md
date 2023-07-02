@@ -56,7 +56,19 @@ Skills: Bluff +34, Diplomacy +34, Fly +12, Heal +28, Intimidate +34, Knowledge (
 RacialMods: 
 Languages: Common, Infernal; telepathy 100 ft.
 SQ: graft flesh, shadow traveler
-SpecialAbilities: Immune to Pain (Su) An eremite is immune to nonlethal damage, as well as to all magical effects associated with extreme pain, such as a symbol of pain, another eremite's pain attack, or similar effects at the GM's discretion.  Evisceration (Ex) When an eremite grapples a foe, it can quickly eviscerate or otherwise surgically alter its victim by excising a bit of flesh or a part of an internal organ as a swift action, causing the victim to take 1d8 points of ability drain-the exact ability score drained is chosen by the eremite. The victim can resist this effect with a DC 28 Fortitude save. The save DC is Dexterity-based.  Graft Flesh (Su) Once per day, an eremite may graft any bit of flesh or bone harvested via its evisceration ability within the previous hour to its own body as a full-round action that provokes an attack of opportunity. Doing so grants the eremite the effects of a heal and a greater restoration spell (caster level 20th).  Pain (Su) Any creature struck by an eremite's natural attacks must make a DC 30 Fortitude save or become staggered for 1 round from the pain. As long as a creature is staggered by this effect, it takes a -4 penalty on all saving throws made to resist the eremite's spell-like and extraordinary abilities. The save DC is Constitution-based.  Shadow Traveler (Ex) When an eremite uses plane shift to travel to the Plane of Shadow, it arrives at its intended destination with complete accuracy. When an eremite uses shadow walk, it moves at a rate of 100 miles per hour.  Unnerving Gaze (Ex) A creature that succumbs to an eremite's unnerving gaze becomes paralyzed with fear for 1d4 rounds as it finds itself almost longing to submit its flesh to the kyton. At the end of any round it remains paralyzed in this way, the victim must make a DC 31 Will save or take 1d4 points of Wisdom drain from encroaching madness. This is a mind-affecting fear effect.
+SpecialAbilities:
+  Immune to Pain (Su): >
+    An eremite is immune to nonlethal damage, as well as to all magical effects associated with extreme pain, such as a symbol of pain, another eremite's pain attack, or similar effects at the GM's discretion.
+  Evisceration (Ex): >
+    When an eremite grapples a foe, it can quickly eviscerate or otherwise surgically alter its victim by excising a bit of flesh or a part of an internal organ as a swift action, causing the victim to take 1d8 points of ability drain-the exact ability score drained is chosen by the eremite. The victim can resist this effect with a DC 28 Fortitude save. The save DC is Dexterity-based.
+  Graft Flesh (Su): >
+    Once per day, an eremite may graft any bit of flesh or bone harvested via its evisceration ability within the previous hour to its own body as a full-round action that provokes an attack of opportunity. Doing so grants the eremite the effects of a heal and a greater restoration spell (caster level 20th).
+  Pain (Su): >
+    Any creature struck by an eremite's natural attacks must make a DC 30 Fortitude save or become staggered for 1 round from the pain. As long as a creature is staggered by this effect, it takes a -4 penalty on all saving throws made to resist the eremite's spell-like and extraordinary abilities. The save DC is Constitution-based.
+  Shadow Traveler (Ex): >
+    When an eremite uses plane shift to travel to the Plane of Shadow, it arrives at its intended destination with complete accuracy. When an eremite uses shadow walk, it moves at a rate of 100 miles per hour.
+  Unnerving Gaze (Ex): >
+    A creature that succumbs to an eremite's unnerving gaze becomes paralyzed with fear for 1d4 rounds as it finds itself almost longing to submit its flesh to the kyton. At the end of any round it remains paralyzed in this way, the victim must make a DC 31 Will save or take 1d4 points of Wisdom drain from encroaching madness. This is a mind-affecting fear effect.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

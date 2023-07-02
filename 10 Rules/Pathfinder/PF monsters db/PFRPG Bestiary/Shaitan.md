@@ -56,7 +56,15 @@ Skills: Appraise +14, Bluff +14, Climb +25, Craft (gemcutting) +14, Knowledge (e
 RacialMods: 
 Languages: Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
 SQ: stone glide
-SpecialAbilities: Earth Mastery (Ex) A shaitan gains a +1 bonus on attack and damage rolls and a +2 bonus on opposed Strengthbased checks if both it and its foe are touching the ground. It takes a -4 penalty on attack and damage rolls against airborne or waterborne opponents. Metalmorph (Su) As a standard action, a shaitan may touch a single metal object of no more than 10 pounds and transform it into any other metal for 1 day. Stone Curse (Su) If a shaitan wins a bull rush check by 5 or more and pushes its target into a stone barrier, the target must make a DC 19 Reflex save or be forced into the barrier as if the target had cast meld into stone until the victim makes a successful DC 19 Fortitude save as a full-round action to exit the stone. The save DCs are Strength-based. Stone Glide (Su) This functions as the earth elemental's earth glide ability, except the shaitan can move through stone, dirt, crystal, or metal.
+SpecialAbilities:
+  Earth Mastery (Ex): >
+    A shaitan gains a +1 bonus on attack and damage rolls and a +2 bonus on opposed Strengthbased checks if both it and its foe are touching the ground. It takes a -4 penalty on attack and damage rolls against airborne or waterborne opponents.
+  Metalmorph (Su): >
+    As a standard action, a shaitan may touch a single metal object of no more than 10 pounds and transform it into any other metal for 1 day.
+  Stone Curse (Su): >
+    If a shaitan wins a bull rush check by 5 or more and pushes its target into a stone barrier, the target must make a DC 19 Reflex save or be forced into the barrier as if the target had cast meld into stone until the victim makes a successful DC 19 Fortitude save as a full-round action to exit the stone. The save DCs are Strength-based.
+  Stone Glide (Su): >
+    This functions as the earth elemental's earth glide ability, except the shaitan can move through stone, dirt, crystal, or metal.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

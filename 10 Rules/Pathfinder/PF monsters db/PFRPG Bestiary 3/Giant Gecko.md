@@ -56,7 +56,9 @@ Skills: Climb +21, Perception +6
 RacialMods: +8 Climb
 Languages: 
 SQ: expert climber
-SpecialAbilities: Expert Climber (Ex) A gecko's feet allow it to climb virtually any surface, no matter how slick or sheer. In effect, geckos are treated as constantly being under a natural version of the spell spider climb.
+SpecialAbilities:
+  Expert Climber (Ex): >
+    A gecko's feet allow it to climb virtually any surface, no matter how slick or sheer. In effect, geckos are treated as constantly being under a natural version of the spell spider climb.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

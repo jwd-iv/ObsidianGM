@@ -56,7 +56,15 @@ Skills: Acrobatics +7, Bluff +6, Perception +7, Sense Motive +3, Stealth +7, Sur
 RacialMods: +2 Bluff, +2 Survival
 Languages: Common
 SQ: change shape (human, hybrid, and jackal; polymorph), jackal empathy
-SpecialAbilities: Change Shape (Su) A jackalwere has three forms. Its natural form is that of a jackal, but it can also take the form of a human or a human-jackal hybrid. A jackalwere's human form is fixed-it cannot assume different human forms. A jackalwere can use its sleep gaze in any of its forms. In jackal form, it functions as a dog (Bestiary 87). In its hybrid form, a jackalwere can make a bite attack as a secondary attack, while in human form it lacks its bite attack entirely. A jackalwere can shift into any of its three alternate forms as a move action. Equipment does not meld with the new form between human and hybrid forms but does between those forms and its jackal form.  Jackal Empathy (Ex) A jackalwere can communicate and empathize with jackals (use stats for Small dog; see Bestiary 87), and can use Bluff as if it were Diplomacy to change a jackal's attitude, receiving a +4 racial bonus to do so.  Sleep Gaze (Su) Sleep for 3 minutes (a standard action rouses the creature, as does damage), 30 feet, Will DC 12 negates. A creature that succeeds at the saving throw cannot be affected by the same jackalwere's sleep gaze for 24 hours. This is a sleep effect. The save DC is Charisma-based.  Weapon Intuition (Ex) A jackalwere is proficient with simple and martial melee weapons.
+SpecialAbilities:
+  Change Shape (Su): >
+    A jackalwere has three forms. Its natural form is that of a jackal, but it can also take the form of a human or a human-jackal hybrid. A jackalwere's human form is fixed-it cannot assume different human forms. A jackalwere can use its sleep gaze in any of its forms. In jackal form, it functions as a dog (Bestiary 87). In its hybrid form, a jackalwere can make a bite attack as a secondary attack, while in human form it lacks its bite attack entirely. A jackalwere can shift into any of its three alternate forms as a move action. Equipment does not meld with the new form between human and hybrid forms but does between those forms and its jackal form.
+  Jackal Empathy (Ex): >
+    A jackalwere can communicate and empathize with jackals (use stats for Small dog; see Bestiary 87), and can use Bluff as if it were Diplomacy to change a jackal's attitude, receiving a +4 racial bonus to do so.
+  Sleep Gaze (Su): >
+    Sleep for 3 minutes (a standard action rouses the creature, as does damage), 30 feet, Will DC 12 negates. A creature that succeeds at the saving throw cannot be affected by the same jackalwere's sleep gaze for 24 hours. This is a sleep effect. The save DC is Charisma-based.
+  Weapon Intuition (Ex): >
+    A jackalwere is proficient with simple and martial melee weapons.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

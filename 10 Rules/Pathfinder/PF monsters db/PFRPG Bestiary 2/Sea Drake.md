@@ -56,7 +56,13 @@ Skills: Fly +10, Intimidate +9, Perception +10, Stealth +11, Swim +24
 RacialMods: 
 Languages: Draconic
 SQ: amphibious, speed surge
-SpecialAbilities: Ball Lightning Breath (Su) A sea drake can, as a standard action, breathe a ball of electricity that strikes one target first, then arcs to other targets like chain lightning. This attack has a range of 100 feet, and deals 6d6 points of electricity damage (DC 17 Reflex half) to the primary target. After it strikes, the ball lightning can arc to a number of secondary targets equal to the sea drake's Hit Dice (usually 7) within 20 feet of the primary target. The secondary bolts each strike one target and deal as much damage as the primary bolt. Once a sea drake has used its ball lightning breath, it cannot do so again for 1d6 rounds. The Reflex save is Constitution-based.  Capsize (Ex) A sea drake can attempt to capsize a boat or ship of its size or smaller by ramming it as a charge attack and making a combat maneuver check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher.  Speed Surge (Ex) Three times per day as a swift action, a sea drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.
+SpecialAbilities:
+  Ball Lightning Breath (Su): >
+    A sea drake can, as a standard action, breathe a ball of electricity that strikes one target first, then arcs to other targets like chain lightning. This attack has a range of 100 feet, and deals 6d6 points of electricity damage (DC 17 Reflex half) to the primary target. After it strikes, the ball lightning can arc to a number of secondary targets equal to the sea drake's Hit Dice (usually 7) within 20 feet of the primary target. The secondary bolts each strike one target and deal as much damage as the primary bolt. Once a sea drake has used its ball lightning breath, it cannot do so again for 1d6 rounds. The Reflex save is Constitution-based.
+  Capsize (Ex): >
+    A sea drake can attempt to capsize a boat or ship of its size or smaller by ramming it as a charge attack and making a combat maneuver check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher.
+  Speed Surge (Ex): >
+    Three times per day as a swift action, a sea drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

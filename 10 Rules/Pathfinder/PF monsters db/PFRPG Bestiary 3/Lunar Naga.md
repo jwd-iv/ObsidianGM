@@ -56,7 +56,11 @@ Skills: Bluff +7, Diplomacy +7, Knowledge (arcana) +5, Knowledge (nature) +9, Pe
 RacialMods: 
 Languages: Aklo, Common
 SQ: 
-SpecialAbilities: Hypnosis (Su) Once per day, by weaving and coiling its body and hissing as a standard action, a lunar naga can cause its scales to shimmer and glow with moonlike radiance. All creatures within 30 feet who can see the naga must make a DC 17 Will save to avoid becoming fascinated. The lunar naga can maintain this fascination effect as long as it concentrates; fascinated creatures follow the still-glowing naga if it moves as long as it maintains the effect by concentrating. The save DC is Charisma-based.  Poison (Ex) Bite-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d3 Con and 1 Wis; cure 1 save.  Spells A lunar naga casts spells as a 5th-level sorcerer.
+SpecialAbilities:
+  Hypnosis (Su): >
+    Once per day, by weaving and coiling its body and hissing as a standard action, a lunar naga can cause its scales to shimmer and glow with moonlike radiance. All creatures within 30 feet who can see the naga must make a DC 17 Will save to avoid becoming fascinated. The lunar naga can maintain this fascination effect as long as it concentrates; fascinated creatures follow the still-glowing naga if it moves as long as it maintains the effect by concentrating. The save DC is Charisma-based.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d3 Con and 1 Wis; cure 1 save.  Spells A lunar naga casts spells as a 5th-level sorcerer.
 SpellsKnown: Spells Known (CL 5th; concentration +8)   2nd (5/day)-invisibility, scorching ray   1st (7/day)-charm person (DC 14), expeditious retreat, magic missile, ray of enfeeblement (DC 14)   0 (at will)-detect magic, disrupt undead, mage hand, open/ close, prestidigitation, ray of frost
 SpellsPrepared: 
 SpellDomains: 

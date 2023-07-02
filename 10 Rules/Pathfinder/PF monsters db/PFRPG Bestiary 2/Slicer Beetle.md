@@ -56,7 +56,9 @@ Skills: Fly -6
 RacialMods: 
 Languages: 
 SQ: compression
-SpecialAbilities: Crippling Bite (Ex) A slicer beetle's bite attack threatens a critical hit on a roll of 19-20. If a slicer beetle scores a critical hit on a target, its mandibles cut deep, resulting in a wound that causes 1d6 bleed and leaving its foe staggered for 1d3 rounds from the tremendous pain dealt.
+SpecialAbilities:
+  Crippling Bite (Ex): >
+    A slicer beetle's bite attack threatens a critical hit on a roll of 19-20. If a slicer beetle scores a critical hit on a target, its mandibles cut deep, resulting in a wound that causes 1d6 bleed and leaving its foe staggered for 1d3 rounds from the tremendous pain dealt.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

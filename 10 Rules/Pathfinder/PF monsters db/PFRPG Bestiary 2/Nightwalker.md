@@ -56,7 +56,11 @@ Skills: Intimidate +29, Knowledge (arcana) +29, Knowledge (planes) +26, Knowledg
 RacialMods: +8 Stealth in dim light and darkness
 Languages: Abyssal, Common, Infernal; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Fear Gaze (Su) Cower in fear for 1 round, 30 feet, Will DC 25 negates. This is a mind-affecting fear effect. The save DC is Charisma-based.  Swift Sundering (Su) A nightwalker can make a sunder attempt as a swift action with one of its claws.
+SpecialAbilities:
+  Fear Gaze (Su): >
+    Cower in fear for 1 round, 30 feet, Will DC 25 negates. This is a mind-affecting fear effect. The save DC is Charisma-based.
+  Swift Sundering (Su): >
+    A nightwalker can make a sunder attempt as a swift action with one of its claws.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

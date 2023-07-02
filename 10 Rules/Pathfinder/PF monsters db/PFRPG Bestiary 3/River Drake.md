@@ -56,7 +56,11 @@ Skills: Fly +10, Intimidate +6, Perception +7, Stealth +10, Survival +7, Swim +1
 RacialMods: 
 Languages: Draconic
 SQ: amphibious, speed surge
-SpecialAbilities: Caustic Mucus (Su) As a standard action, a river drake can spit a ball of caustic mucus that explodes in a 5-foot-radius spread. This attack has a range of 50 feet, deals 2d8 points of acid damage, and entangles creatures in the area. A DC 14 Reflex save halves the damage and negates the entangle effect. An entangled creature takes 1d4 points of acid damage each round on its turn, and may attempt a new saving throw at the end of its turn every round to escape the entanglement and end the acid damage. Once a river drake spits mucus, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.  Speed Surge (Ex) Three times per day as a swift action, a river drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.
+SpecialAbilities:
+  Caustic Mucus (Su): >
+    As a standard action, a river drake can spit a ball of caustic mucus that explodes in a 5-foot-radius spread. This attack has a range of 50 feet, deals 2d8 points of acid damage, and entangles creatures in the area. A DC 14 Reflex save halves the damage and negates the entangle effect. An entangled creature takes 1d4 points of acid damage each round on its turn, and may attempt a new saving throw at the end of its turn every round to escape the entanglement and end the acid damage. Once a river drake spits mucus, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+  Speed Surge (Ex): >
+    Three times per day as a swift action, a river drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

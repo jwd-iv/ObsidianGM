@@ -56,7 +56,11 @@ Skills: Intimidate +14, Perception +13, Stealth +14
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Aversion to Sun and Moon (Ex) A gaki takes 1d4 points of fire damage every round it's exposed to the light of a full moon. It takes 1d4 points of cold damage every round it is exposed to direct sunlight.  Compulsive Hunger (Ex) Despite being undead, a gaki is plagued by an insatiable hunger, and believes it can gain a normal body or rest in peace if it consumes the right mixture of flesh, food, and drink. A gaki that finds a corpse or is offered food, wine, holy water, or flowers must succeed at a DC 20 Will save or spend one turn trying to grab and consume it. Its narrow neck prevents it from swallowing more than a tiny amount, and it gives up after 1 round of attempting to do so. A gaki that consumes holy water in this way is not harmed by it.
+SpecialAbilities:
+  Aversion to Sun and Moon (Ex): >
+    A gaki takes 1d4 points of fire damage every round it's exposed to the light of a full moon. It takes 1d4 points of cold damage every round it is exposed to direct sunlight.
+  Compulsive Hunger (Ex): >
+    Despite being undead, a gaki is plagued by an insatiable hunger, and believes it can gain a normal body or rest in peace if it consumes the right mixture of flesh, food, and drink. A gaki that finds a corpse or is offered food, wine, holy water, or flowers must succeed at a DC 20 Will save or spend one turn trying to grab and consume it. Its narrow neck prevents it from swallowing more than a tiny amount, and it gives up after 1 round of attempting to do so. A gaki that consumes holy water in this way is not harmed by it.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

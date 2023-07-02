@@ -56,7 +56,11 @@ Skills: Bluff +10, Disguise +14 (+24 when using change shape), Escape Artist +19
 RacialMods: +4 Disguise, +8 Escape Artist
 Languages: Aquan, Common; tongues
 SQ: change shape (Medium humanoid, alter self ), compression, faceless
-SpecialAbilities: Change Shape (Su) A faceless stalker can assume the form of a Medium humanoid at will but requires 10 uninterrupted minutes to alter its body. Performing this transformation is somewhat painful, but the faceless stalker can maintain its new form indefinitely once it has achieved  it. It can change back to its true form as a swift action and gains a +2 morale bonus on attack rolls, damage rolls, skill checks, and saving throws for 1 round after it does so. Faceless stalkers retain their own innate abilities when they assume their new form and do not gain any of those belonging to the creature they mimic. A faceless stalker gains a +10 bonus on Disguise checks when they are used in conjunction with this ability.  Faceless (Su) In its natural form, a faceless stalker has no discernible facial features. It gains a +4 bonus on saving throws made to resist attacks or effects that target the senses. This includes gaze attacks, odor-based attacks, sonic attacks and similar attacks. This bonus does not apply to illusions.
+SpecialAbilities:
+  Change Shape (Su): >
+    A faceless stalker can assume the form of a Medium humanoid at will but requires 10 uninterrupted minutes to alter its body. Performing this transformation is somewhat painful, but the faceless stalker can maintain its new form indefinitely once it has achieved  it. It can change back to its true form as a swift action and gains a +2 morale bonus on attack rolls, damage rolls, skill checks, and saving throws for 1 round after it does so. Faceless stalkers retain their own innate abilities when they assume their new form and do not gain any of those belonging to the creature they mimic. A faceless stalker gains a +10 bonus on Disguise checks when they are used in conjunction with this ability.
+  Faceless (Su): >
+    In its natural form, a faceless stalker has no discernible facial features. It gains a +4 bonus on saving throws made to resist attacks or effects that target the senses. This includes gaze attacks, odor-based attacks, sonic attacks and similar attacks. This bonus does not apply to illusions.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

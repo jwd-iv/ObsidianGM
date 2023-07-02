@@ -56,8 +56,15 @@ Skills: Intimidate +8, Perception +8, Stealth +10, Swim +18
 RacialMods: 
 Languages: Aquan, Common; speak with sharks
 SQ: amphibious, poison use
-SpecialAbilities: >
-  Poison (Ex) Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish-a sticky venom that doesn't wash away in water.  Nettlefin Toxin: Spear-injury; save Fort DC 15; frequency 1/minute for 4 minutes; effect paralyzed for 1 minute; cure 2 consecutive saves.  Poison Use (Ex) Adaros are skilled in the use of poison and never risk accidentally poisoning themselves.  Rain Frenzy (Su) Adaros revere storms, and their lust for blood is amplified exponentially while it is raining. While fighting in the rain or during other stormy weather, adaros act as though affected by the rage spell. An adaro gains this benefit even if it is underwater, but only as long as it remains within a move action away from the water's surface (50 feet for most adaros).  Speak with Sharks (Su) An adaro can communicate telepathically with sharks to a distance of 100 feet. This communication is limited to simple concepts, such as "come," "defend," or "attack."
+SpecialAbilities:
+  Poison (Ex): >
+    Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish-a sticky venom that doesn't wash away in water.  Nettlefin Toxin: Spear-injury; save Fort DC 15; frequency 1/minute for 4 minutes; effect paralyzed for 1 minute; cure 2 consecutive saves.
+  Poison Use (Ex): >
+    Adaros are skilled in the use of poison and never risk accidentally poisoning themselves.
+  Rain Frenzy (Su): >
+    Adaros revere storms, and their lust for blood is amplified exponentially while it is raining. While fighting in the rain or during other stormy weather, adaros act as though affected by the rage spell. An adaro gains this benefit even if it is underwater, but only as long as it remains within a move action away from the water's surface (50 feet for most adaros).
+  Speak with Sharks (Su): >
+    An adaro can communicate telepathically with sharks to a distance of 100 feet. This communication is limited to simple concepts, such as "come," "defend," or "attack."
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

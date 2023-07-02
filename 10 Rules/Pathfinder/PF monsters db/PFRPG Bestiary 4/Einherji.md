@@ -56,7 +56,11 @@ Skills: Intimidate +16, Knowledge (engineering) +16, Knowledge (planes) +16, Per
 RacialMods: 
 Languages: Celestial, Common
 SQ: battle-trained, thirst for battle
-SpecialAbilities: Battle-Trained (Ex) An einherji is proficient with all armor. Armor never impacts an einherji's speed, nor does an einherji take armor check penalties on Ride checks.  Challenge of Single Combat (Ex) As a standard action, an einherji can choose a single target within sight to challenge by attempting an Intimidate check to demoralize that creature. If the check succeeds, the target is shaken and the einherji gains a +2 bonus on attack rolls and damage rolls against that target. For the duration of the challenge, the einherji must attack that target, and takes a -2 penalty to its AC, except against attacks made by the target. The challenge (and the shaken condition) remains in effect until the target successfully attacks the einherji in melee combat, the target is dead or unconscious, or the combat ends.  Thirst for Battle (Su) As long as an einherji is in battle (i.e., each round it makes an attack roll), it gains fast healing 5. An einherji loses this ability outside of combat or if knocked unconscious.
+SpecialAbilities: Battle-Trained (Ex) An einherji is proficient with all armor. Armor never impacts an einherji's speed, nor does an einherji take armor check penalties on Ride checks.
+  Challenge of Single Combat (Ex): >
+    As a standard action, an einherji can choose a single target within sight to challenge by attempting an Intimidate check to demoralize that creature. If the check succeeds, the target is shaken and the einherji gains a +2 bonus on attack rolls and damage rolls against that target. For the duration of the challenge, the einherji must attack that target, and takes a -2 penalty to its AC, except against attacks made by the target. The challenge (and the shaken condition) remains in effect until the target successfully attacks the einherji in melee combat, the target is dead or unconscious, or the combat ends.
+  Thirst for Battle (Su): >
+    As long as an einherji is in battle (i.e., each round it makes an attack roll), it gains fast healing 5. An einherji loses this ability outside of combat or if knocked unconscious.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

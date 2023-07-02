@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Gnaw (Ex) A rot grub that is grappling a foe and chooses to damage the foe with an additional grapple check deals twice its normal bite damage (2d6+6 for most giant rot grubs), in addition to injecting an additional dose of poison with each successful check.  Poison (Ex) Bite-injury; save Fort DC 16; frequency 1/round for 5 rounds; effect 1d3 Str; cure 1 save.
+SpecialAbilities:
+  Gnaw (Ex): >
+    A rot grub that is grappling a foe and chooses to damage the foe with an additional grapple check deals twice its normal bite damage (2d6+6 for most giant rot grubs), in addition to injecting an additional dose of poison with each successful check.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 16; frequency 1/round for 5 rounds; effect 1d3 Str; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

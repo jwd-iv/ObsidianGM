@@ -56,7 +56,9 @@ Skills: Perception +5, Swim +5
 RacialMods: 
 Languages: 
 SQ: hold breath, shell
-SpecialAbilities: Shell (Ex) As a move action, a snapping turtle can pull its extremities and head into its shell. It cannot move or attack as long as it remains in this state, but its armor bonus from natural armor increases by +4 as long as it does.
+SpecialAbilities:
+  Shell (Ex): >
+    As a move action, a snapping turtle can pull its extremities and head into its shell. It cannot move or attack as long as it remains in this state, but its armor bonus from natural armor increases by +4 as long as it does.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

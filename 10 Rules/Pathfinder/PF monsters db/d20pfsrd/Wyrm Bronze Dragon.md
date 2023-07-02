@@ -56,7 +56,17 @@ Skills: Diplomacy +36, Fly +13, Handle Animal +33, Heal +36, Intimidate +36, Kno
 RacialMods: +8 Swim
 Languages: Aquan, Common, Draconic, Elven, Gnome, 3 more
 SQ: change shape (animal or humanoid, polymorph), water breathing, wave mastery (110 min)
-SpecialAbilities: Electricity Aura (Su) An old or older bronze dragon has an aura of electricity. All creatures within 5 feet take 1d6 points of electricity damage at the start of the dragon's turn. An ancient dragon's aura is 10 feet. A great wyrm's damage increases to 2d6. A bronze dragon can suppress this aura at will.  Repulsion Breath (Su) Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.  Vortex (Ex) Once per day, an ancient or older bronze dragon can create a vortex as a standard action, just like an elder water elemental. A bronze dragon can maintain this vortex for 1 round per age category.  Water Breathing (Ex) A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.  Wave Mastery (Su) For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
+SpecialAbilities:
+  Electricity Aura (Su): >
+    An old or older bronze dragon has an aura of electricity. All creatures within 5 feet take 1d6 points of electricity damage at the start of the dragon's turn. An ancient dragon's aura is 10 feet. A great wyrm's damage increases to 2d6. A bronze dragon can suppress this aura at will.
+  Repulsion Breath (Su): >
+    Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.
+  Vortex (Ex): >
+    Once per day, an ancient or older bronze dragon can create a vortex as a standard action, just like an elder water elemental. A bronze dragon can maintain this vortex for 1 round per age category.
+  Water Breathing (Ex): >
+    A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
+  Wave Mastery (Su): >
+    For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
 SpellsKnown: Sorcerer Spells Known (CL 17th; concentration +24)  8th (4/day)- antipathy, storm bolts*  7th (7/day)- mass fly, spell turning, statue  6th (7/day)- greater dispel magic, mass suggestion (DC 23), mislead  5th (7/day)- dismissal, interposing hand, mind fog, teleport  4th (7/day)- dimension door, ice storm, solid fog, stoneskin  3rd (8/day)- dispel magic, heroism, slow (DC 20), suggestion  2nd (8/day)- blur, gust of wind, invisibility, mirror image, web  1st (8/day)- alarm, mage armor, obscuring mist, shield, true strike  0 (at will)-  detect magic, detect poison, light, mage hand, mending, message, read magic, resistance, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

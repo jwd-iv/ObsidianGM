@@ -56,7 +56,13 @@ Skills: Perception +27, Survival +14, Swim +20
 RacialMods: +10 Perception
 Languages: Aklo (cannot speak)
 SQ: 
-SpecialAbilities: Mighty Roar (Su) Every 1d4 rounds as a standard action, a thunder behemoth can issue a mighty roar in a 60-foot cone that duplicates the effect of an empowered greater shout (Fortitude DC 30 half ). This is a sonic effect. The save DC is Constitution-based.  Rock Spitting (Ex) A thunder behemoth can spit rocks from the essentially inexhaustible store in its gizzard. It can spit up to four rocks as a standard action, with a range increment of 60 feet. A creature that is critically hit by one of these rocks must make a DC 38 Fortitude save to resist being stunned for 1 round. The save DC is Strength-based.  Swallow Whole (Ex) A thunder behemoth has five stomachs and can shunt a swallowed victim into any one of them (usually choosing an empty stomach).
+SpecialAbilities:
+  Mighty Roar (Su): >
+    Every 1d4 rounds as a standard action, a thunder behemoth can issue a mighty roar in a 60-foot cone that duplicates the effect of an empowered greater shout (Fortitude DC 30 half ). This is a sonic effect. The save DC is Constitution-based.
+  Rock Spitting (Ex): >
+    A thunder behemoth can spit rocks from the essentially inexhaustible store in its gizzard. It can spit up to four rocks as a standard action, with a range increment of 60 feet. A creature that is critically hit by one of these rocks must make a DC 38 Fortitude save to resist being stunned for 1 round. The save DC is Strength-based.
+  Swallow Whole (Ex): >
+    A thunder behemoth has five stomachs and can shunt a swallowed victim into any one of them (usually choosing an empty stomach).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

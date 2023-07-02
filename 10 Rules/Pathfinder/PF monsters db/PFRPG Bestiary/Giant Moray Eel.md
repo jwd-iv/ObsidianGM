@@ -56,7 +56,9 @@ Skills: Escape Artist +10, Perception +7, Stealth +8, Swim +14
 RacialMods: +8 Escape Artist
 Languages: 
 SQ: 
-SpecialAbilities: Gnaw (Ex) If a giant moray begins a round with a grabbed foe, it inflicts automatic bite damage (2d6+9 points of damage). A giant moray eel possesses a second set of jaws in its throat that aid in swallowing-it can make a second bite attack (+11 attack, 1d6+3) against a foe it has already grabbed.
+SpecialAbilities:
+  Gnaw (Ex): >
+    If a giant moray begins a round with a grabbed foe, it inflicts automatic bite damage (2d6+9 points of damage). A giant moray eel possesses a second set of jaws in its throat that aid in swallowing-it can make a second bite attack (+11 attack, 1d6+3) against a foe it has already grabbed.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

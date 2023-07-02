@@ -56,7 +56,17 @@ Skills: Bluff +34, Fly +13, Intimidate +34, Knowledge (arcana) +34, Knowledge (g
 RacialMods: 
 Languages: Auran, Common, Draconic, Giant, Ignan, Infernal
 SQ: sound imitation
-SpecialAbilities: Desert Thirst (Su) A blue dragon can cast create water at will (CL 26). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 30) or be destroyed.  Electricity Aura (Su) A wyrm blue dragon is surrounded by an aura of electricity. Creatures within 10 feet take 2d6 points of electricity damage at the beginning of the dragon's turn.  Mirage (Su) A wyrm blue dragon can make itself appear to be in two places at once as a free action for 26 rounds per day. This ability functions as project image but the dragon can use its breath weapon through the mirage.  Sound Imitation (Ex) A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.  Storm Breath (Su) A wyrm blue dragon can use its breath weapon to create a storm of lightning. This functions as call lightning storm, but the damage is 22d8. The dragon can call down 1 bolt per round as a free action for 1d6 rounds. The save DC is 30. Additional uses of this ability extend the duration by an additional 1d6 rounds.
+SpecialAbilities:
+  Desert Thirst (Su): >
+    A blue dragon can cast create water at will (CL 26). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 30) or be destroyed.
+  Electricity Aura (Su): >
+    A wyrm blue dragon is surrounded by an aura of electricity. Creatures within 10 feet take 2d6 points of electricity damage at the beginning of the dragon's turn.
+  Mirage (Su): >
+    A wyrm blue dragon can make itself appear to be in two places at once as a free action for 26 rounds per day. This ability functions as project image but the dragon can use its breath weapon through the mirage.
+  Sound Imitation (Ex): >
+    A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
+  Storm Breath (Su): >
+    A wyrm blue dragon can use its breath weapon to create a storm of lightning. This functions as call lightning storm, but the damage is 22d8. The dragon can call down 1 bolt per round as a free action for 1d6 rounds. The save DC is 30. Additional uses of this ability extend the duration by an additional 1d6 rounds.
 SpellsKnown: Spells Known (CL 15th; concentration +20)  7th (4/day)-insanity (DC 22), simulacrum  6th (6/day)-forceful hand, mislead, mass hold person (DC 21)  5th (7/day)-dream, persistent image, hold monster (DC 20), teleport  4th (7/day)-dimension door, enervation, fire shield, stoneskin  3rd (7/day)-dispel magic, displacement, haste, vampiric touch  2nd (7/day)-darkness, false life, invisibility, resist energy, shatter  1st (8/day)-alarm, mage armor, shield, true strike, unseen servant  0 (at will)-arcane mark, bleed (DC 15), detect magic, light, mage hand, mending, message, read magic, resistance
 SpellsPrepared: 
 SpellDomains: 

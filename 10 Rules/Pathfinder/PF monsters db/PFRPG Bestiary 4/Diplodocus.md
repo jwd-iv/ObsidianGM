@@ -56,7 +56,9 @@ Skills: Perception +32
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Tail Lash (Ex) The diplodocus prefers to attack with its tail. The dinosaur can snap its incredibly long tail with surprising speed like an enormous whip-this is a primary attack that deals bludgeoning and slashing damage. A diplodocus can make two separate attacks with its tail lash as a full-attack action.
+SpecialAbilities:
+  Tail Lash (Ex): >
+    The diplodocus prefers to attack with its tail. The dinosaur can snap its incredibly long tail with surprising speed like an enormous whip-this is a primary attack that deals bludgeoning and slashing damage. A diplodocus can make two separate attacks with its tail lash as a full-attack action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

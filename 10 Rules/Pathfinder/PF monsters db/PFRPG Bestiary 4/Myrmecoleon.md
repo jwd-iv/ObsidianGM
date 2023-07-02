@@ -56,7 +56,11 @@ Skills: Climb +22, Perception +9
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Death Throes (Ex) When a myrmecoleon is slain, its body explodes, releasing the acids that churn within it. All creatures within a 20-foot-radius burst take 4d8 acid damage (Reflex DC 20 half). The save DC is Constitution-based.  Scalding Spray (Ex) Once every 1d4 rounds, a myrmecoleon can eject a 60-foot cone of acidic chemicals from its mouth. Creatures caught in the blast take 8d6 points of acid damage and are blinded for 10 minutes (Reflex DC 20 half damage and negates blindness). Following the initial blast, the chemicals vaporize into a thick and noxious cloud 20 feet high with a 40-foot radius. Within the cloud, all sight is obscured beyond 5 feet. Furthermore, any living creature within the area of effect must succeed at a DC 20 Fortitude save or become nauseated for as long as it remains in the cloud and for 1d4+1 rounds after it leaves the cloud. Any creature that succeeds at its save but remains in the cloud must continue to save each round on the myrmecoleon's turn. This is a poison effect. The save DCs for this ability are Constitution-based.
+SpecialAbilities:
+  Death Throes (Ex): >
+    When a myrmecoleon is slain, its body explodes, releasing the acids that churn within it. All creatures within a 20-foot-radius burst take 4d8 acid damage (Reflex DC 20 half). The save DC is Constitution-based.
+  Scalding Spray (Ex): >
+    Once every 1d4 rounds, a myrmecoleon can eject a 60-foot cone of acidic chemicals from its mouth. Creatures caught in the blast take 8d6 points of acid damage and are blinded for 10 minutes (Reflex DC 20 half damage and negates blindness). Following the initial blast, the chemicals vaporize into a thick and noxious cloud 20 feet high with a 40-foot radius. Within the cloud, all sight is obscured beyond 5 feet. Furthermore, any living creature within the area of effect must succeed at a DC 20 Fortitude save or become nauseated for as long as it remains in the cloud and for 1d4+1 rounds after it leaves the cloud. Any creature that succeeds at its save but remains in the cloud must continue to save each round on the myrmecoleon's turn. This is a poison effect. The save DCs for this ability are Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

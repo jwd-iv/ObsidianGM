@@ -56,8 +56,15 @@ Skills: Intimidate +25, Knowledge (geography) +25, Knowledge (nature) +25, Perce
 RacialMods: 
 Languages: Aquan, Common
 SQ: tenacious grapple
-SpecialAbilities: >
-  Ink Cloud (Ex) A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it.  The ink cloud persists for 1 minute before dispersing. The save DC against the poison effect is Constitution-based.  Kraken Ink: Ink cloud-contact; save Fort DC 29; frequency 1/round for 10 rounds; effect 1 Str damage plus nausea; cure 2 consecutive saves.  Jet (Ex) A kraken can jet backward as a full-round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.  Rend Ship (Ex) As a full-round action, a kraken can attempt to use four of its tentacles to grapple a ship of its size or smaller. It makes a CMB check opposed by the ship's captain's Profession (sailor) check, but the kraken gets a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the kraken grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship with its tentacles, but can only attack foes on deck with its free arms and can't attack foes at all with its beak. Each round it maintains its hold on the ship, it automatically inflicts bite damage on the ship's hull.  Tenacious Grapple (Ex) A kraken does not gain the grappled condition if it grapples a foe with its arms or tentacles.
+SpecialAbilities:
+  Ink Cloud (Ex): >
+    A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it.  The ink cloud persists for 1 minute before dispersing. The save DC against the poison effect is Constitution-based.  Kraken Ink: Ink cloud-contact; save Fort DC 29; frequency 1/round for 10 rounds; effect 1 Str damage plus nausea; cure 2 consecutive saves.
+  Jet (Ex): >
+    A kraken can jet backward as a full-round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
+  Rend Ship (Ex): >
+    As a full-round action, a kraken can attempt to use four of its tentacles to grapple a ship of its size or smaller. It makes a CMB check opposed by the ship's captain's Profession (sailor) check, but the kraken gets a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the kraken grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship with its tentacles, but can only attack foes on deck with its free arms and can't attack foes at all with its beak. Each round it maintains its hold on the ship, it automatically inflicts bite damage on the ship's hull.
+  Tenacious Grapple (Ex): >
+    A kraken does not gain the grappled condition if it grapples a foe with its arms or tentacles.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

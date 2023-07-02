@@ -56,7 +56,13 @@ Skills: Climb +20, Disable Device +11, Perception +22, Sense Motive +9, Stealth 
 RacialMods: +8 Perception, +8 Stealth
 Languages: Common; speak with plants
 SQ: tree meld
-SpecialAbilities: Blow Smoke (Su) Smoke constantly drifts from a kapre's mouth, and as a standard action it can exhale a 30-foot cone of smoke. Any creature in the area must succeed at a DC 20 Fortitude save or be nauseated for 1 round. This is a poison effect, and the save DC is Constitution-based.  Confounding Aura (Su) A magical aura surrounds a kapre, confusing and distracting its foes. Within a kapre's aura, the DC of all Survival checks is increased by 15, and creatures trained in Survival are no longer able to automatically determine true north. On top of this, any creature within a kapre's aura must succeed at a DC 21 Will saving throw when it enters the area or take a -4 penalty on concentration checks, initiative checks, and skill checks. A kapre can suppress this aura at will.  Tree Meld (Su) A kapre can meld with any tree, similar to how the spell meld with stone functions. It can remain melded with a tree as long as it wishes.
+SpecialAbilities:
+  Blow Smoke (Su): >
+    Smoke constantly drifts from a kapre's mouth, and as a standard action it can exhale a 30-foot cone of smoke. Any creature in the area must succeed at a DC 20 Fortitude save or be nauseated for 1 round. This is a poison effect, and the save DC is Constitution-based.
+  Confounding Aura (Su): >
+    A magical aura surrounds a kapre, confusing and distracting its foes. Within a kapre's aura, the DC of all Survival checks is increased by 15, and creatures trained in Survival are no longer able to automatically determine true north. On top of this, any creature within a kapre's aura must succeed at a DC 21 Will saving throw when it enters the area or take a -4 penalty on concentration checks, initiative checks, and skill checks. A kapre can suppress this aura at will.
+  Tree Meld (Su): >
+    A kapre can meld with any tree, similar to how the spell meld with stone functions. It can remain melded with a tree as long as it wishes.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

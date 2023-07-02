@@ -56,7 +56,9 @@ Skills: Fly +5, Perception +10, Stealth +10
 RacialMods: 
 Languages: Ignan (cannot speak)
 SQ: 
-SpecialAbilities: Paralyzing Gaze (Su) Paralyzed for 1d6 rounds, 30 feet, Fortitude (DC 14) negates. The save DC is Charisma-based.
+SpecialAbilities:
+  Paralyzing Gaze (Su): >
+    Paralyzed for 1d6 rounds, 30 feet, Fortitude (DC 14) negates. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

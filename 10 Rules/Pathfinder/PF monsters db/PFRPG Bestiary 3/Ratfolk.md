@@ -56,7 +56,9 @@ Skills: Appraise +6, Craft (alchemy) +8, Diplomacy +3, Handle Animal +3 (+7 with
 RacialMods: +2 Craft (alchemy), +4 Handle Animal to influence rodents, +2 Perception, +2 Use Magic Device
 Languages: Common
 SQ: 
-SpecialAbilities: Swarming (Ex) Ratfolk are used to living and fighting communally, and are adept at swarming foes for their own gain and their foes' detriment. Up to two ratfolk can share the same square at the same time. If two ratfolk in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
+SpecialAbilities:
+  Swarming (Ex): >
+    Ratfolk are used to living and fighting communally, and are adept at swarming foes for their own gain and their foes' detriment. Up to two ratfolk can share the same square at the same time. If two ratfolk in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

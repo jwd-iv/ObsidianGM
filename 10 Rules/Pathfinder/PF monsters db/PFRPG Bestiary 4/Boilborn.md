@@ -56,8 +56,11 @@ Skills: Climb +9, Swim +9
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Death Throes (Su) When killed, a boilborn pops in a 10-foot-radius burst that deals 2d6 points of acid damage (DC 14 Reflex half). Creatures taking damage must succeed at a DC 12 Fortitude save or contract leprosy.  Disease (Su) Leprosy: Injury; save Fort DC 12; onset 2d4 weeks; frequency 1/week; effect 1d2 Cha damage; cure 2 consecutive saves. This save is Constitution-based.
+SpecialAbilities:
+  Death Throes (Su): >
+    When killed, a boilborn pops in a 10-foot-radius burst that deals 2d6 points of acid damage (DC 14 Reflex half). Creatures taking damage must succeed at a DC 12 Fortitude save or contract leprosy.
+  Disease (Su): >
+    Leprosy: Injury; save Fort DC 12; onset 2d4 weeks; frequency 1/week; effect 1d2 Cha damage; cure 2 consecutive saves. This save is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

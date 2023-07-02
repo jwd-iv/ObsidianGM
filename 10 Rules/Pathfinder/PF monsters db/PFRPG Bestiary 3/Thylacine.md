@@ -56,7 +56,9 @@ Skills: Perception +8
 RacialMods: 
 Languages: 
 SQ: powerful jaws
-SpecialAbilities: Powerful Jaws (Ex) A thylacine's muscular jaws threaten a critical hit on a natural roll of 19 or 20.
+SpecialAbilities:
+  Powerful Jaws (Ex): >
+    A thylacine's muscular jaws threaten a critical hit on a natural roll of 19 or 20.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

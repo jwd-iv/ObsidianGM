@@ -56,7 +56,11 @@ Skills: Fly +8, Perception +15
 RacialMods: +4 Perception
 Languages: Aklo (cannot speak)
 SQ: 
-SpecialAbilities: Implant (Ex) A spider eater grows its eggs inside of a living host. Implanting an egg in a host is a full-round action that provokes attacks of opportunity, and the target must be helpless but alive. Once an egg is implanted, it exudes paralytic enzymes that not only keep the victim in state of perpetual paralysis, but also keep it nourished and alive in its comatose but fully aware state. This condition lasts until the egg hatches in 1d6 weeks, at which point the young spider eater consumes most of its host, killing it. An egg can be surgically removed with a DC 25 Heal check (this check deals 2d6 points of damage to the host regardless of success), at which point the host recovers from the paralysis in 1d6 rounds. Any magical effect that removes paralysis or disease (such as remove paralysis, remove disease, or heal) also destroys the egg, but mere immunity to paralysis or disease does not offer protection.  Poison (Ex) Sting-injury; save Fort DC 17; frequency 1/minute for 6 minutes; effect paralysis for 1 minute; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Implant (Ex): >
+    A spider eater grows its eggs inside of a living host. Implanting an egg in a host is a full-round action that provokes attacks of opportunity, and the target must be helpless but alive. Once an egg is implanted, it exudes paralytic enzymes that not only keep the victim in state of perpetual paralysis, but also keep it nourished and alive in its comatose but fully aware state. This condition lasts until the egg hatches in 1d6 weeks, at which point the young spider eater consumes most of its host, killing it. An egg can be surgically removed with a DC 25 Heal check (this check deals 2d6 points of damage to the host regardless of success), at which point the host recovers from the paralysis in 1d6 rounds. Any magical effect that removes paralysis or disease (such as remove paralysis, remove disease, or heal) also destroys the egg, but mere immunity to paralysis or disease does not offer protection.
+  Poison (Ex): >
+    Sting-injury; save Fort DC 17; frequency 1/minute for 6 minutes; effect paralysis for 1 minute; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

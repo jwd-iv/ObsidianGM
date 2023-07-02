@@ -56,7 +56,9 @@ Skills: Perception +5, Swim +14
 RacialMods: 
 Languages: Draconic
 SQ: hold breath, lizardfolk blood
-SpecialAbilities: Lizardfolk Blood (Ex) A lizard scion counts as a lizardfolk for all effects related to race.
+SpecialAbilities:
+  Lizardfolk Blood (Ex): >
+    A lizard scion counts as a lizardfolk for all effects related to race.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

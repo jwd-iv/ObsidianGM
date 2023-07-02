@@ -56,7 +56,15 @@ Skills: Escape Artist +5, Perception +5, Stealth +3, Swim +15
 RacialMods: 
 Languages: Abyssal, Aquan, Common
 SQ: water dependency
-SpecialAbilities: Poison (Ex) Savage bite-injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 consecutive saves.  Savage Bite (Ex) A devilfish can attack with its savage bite whenever it makes a successful grapple check. This attack is in place of any other action made with a successful grapple check. The bite threatens a critical hit on a roll of 18-20, and injects the target with poison as well.  Unholy Blood (Su) A devilfish's blood is infused with fiendish magic. Once per day, as a swift action, a devilfish can emit a night-black cloud of this foul liquid, filling a 20-foot-radius cloud if underwater, or a 20-foot-radius burst on land. In water, the blood provides total concealment for everything but a devilfish (which can see through the blood with ease); on land the slippery blood coats the ground, making the area difficult terrain. The blood persists for 1 minute before fading. Anyone who enters a cloud of the blood in the water or who is within the area of a burst of blood on land must make a DC 15 Fortitude save or be nauseated for 1d4 rounds-this save need be made only once per cloud. The save DC is Constitution-based.  Water Dependency (Ex) A devilfish can survive out of the water for 1 hour, after which it becomes fatigued. After 2 hours, the devilfish becomes exhausted and begins to suffocate (Pathfinder RPG Core Rulebook 445).
+SpecialAbilities:
+  Poison (Ex): >
+    Savage bite-injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 consecutive saves.
+  Savage Bite (Ex): >
+    A devilfish can attack with its savage bite whenever it makes a successful grapple check. This attack is in place of any other action made with a successful grapple check. The bite threatens a critical hit on a roll of 18-20, and injects the target with poison as well.
+  Unholy Blood (Su): >
+    A devilfish's blood is infused with fiendish magic. Once per day, as a swift action, a devilfish can emit a night-black cloud of this foul liquid, filling a 20-foot-radius cloud if underwater, or a 20-foot-radius burst on land. In water, the blood provides total concealment for everything but a devilfish (which can see through the blood with ease); on land the slippery blood coats the ground, making the area difficult terrain. The blood persists for 1 minute before fading. Anyone who enters a cloud of the blood in the water or who is within the area of a burst of blood on land must make a DC 15 Fortitude save or be nauseated for 1d4 rounds-this save need be made only once per cloud. The save DC is Constitution-based.
+  Water Dependency (Ex): >
+    A devilfish can survive out of the water for 1 hour, after which it becomes fatigued. After 2 hours, the devilfish becomes exhausted and begins to suffocate (Pathfinder RPG Core Rulebook 445).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

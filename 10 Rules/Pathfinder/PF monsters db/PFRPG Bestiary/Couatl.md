@@ -56,7 +56,9 @@ Skills: Acrobatics +18, Bluff +9, Diplomacy +18, Fly +20, Knowledge (arcana) +9,
 RacialMods: 
 Languages: Celestial, Common, Draconic;  telepathy 100 ft.
 SQ: 
-SpecialAbilities: Spells A couatl casts spells as a 9th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a couatl, meaning that the creature does not need a divine focus to cast them.  Poison (Ex) Injury-bite; save Fortitude DC 16; frequency 1/ minute for 10 minutes; effect 1d4 Str; cure 2 consecutive saves. The DC is Constitution-based.
+SpecialAbilities: Spells A couatl casts spells as a 9th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a couatl, meaning that the creature does not need a divine focus to cast them.
+  Poison (Ex): >
+    Injury-bite; save Fortitude DC 16; frequency 1/ minute for 10 minutes; effect 1d4 Str; cure 2 consecutive saves. The DC is Constitution-based.
 SpellsKnown: Spells Known (CL 9th)  4th (4/day)-charm monster (DC 17), freedom of movement  3rd (7/day)-gaseous form, magic circle against evil, summon monster III  2nd (7/day)-cure moderate wounds, eagle's splendor, scorching ray, silence (DC 15)  1st (7/day)-endure elements, mage armor, obscuring mist, protection from chaos, true strike  0 (at will)-daze, disrupt undead, light, obscuring mist, ray of frost, read magic, resistance, stabilize
 SpellsPrepared: 
 SpellDomains: 

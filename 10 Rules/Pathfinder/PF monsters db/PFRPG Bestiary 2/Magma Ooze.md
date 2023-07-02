@@ -56,7 +56,11 @@ Skills: Climb +17
 RacialMods: 
 Languages: 
 SQ: lava body
-SpecialAbilities: Lava Body (Ex) The magma ooze is formed of molten rock. Whenever a creature strikes a magma ooze with a weapon, that weapon takes 4d6 points of fire damage unless the attacker makes a DC 19 Fortitude save. Damage caused to weapons in this manner is not halved, but hardness does help prevent some of the damage dealt. The save DC is Constitution-based.  Vulnerability to Water (Ex) A significant amount of water, such as that created by a create water spell, the contents of a large bucket, or a blow from a water elemental, that strikes a magma ooze forces the creature to make a DC 20 Fortitude save to avoid being staggered for 2d4 rounds. A magma ooze that is immersed in water must make a DC 20 Fortitude save each round (this DC increases by +1 each subsequent round) or become petrified, reverting once the water is gone.
+SpecialAbilities:
+  Lava Body (Ex): >
+    The magma ooze is formed of molten rock. Whenever a creature strikes a magma ooze with a weapon, that weapon takes 4d6 points of fire damage unless the attacker makes a DC 19 Fortitude save. Damage caused to weapons in this manner is not halved, but hardness does help prevent some of the damage dealt. The save DC is Constitution-based.
+  Vulnerability to Water (Ex): >
+    A significant amount of water, such as that created by a create water spell, the contents of a large bucket, or a blow from a water elemental, that strikes a magma ooze forces the creature to make a DC 20 Fortitude save to avoid being staggered for 2d4 rounds. A magma ooze that is immersed in water must make a DC 20 Fortitude save each round (this DC increases by +1 each subsequent round) or become petrified, reverting once the water is gone.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

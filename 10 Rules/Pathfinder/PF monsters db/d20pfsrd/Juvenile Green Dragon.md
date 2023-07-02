@@ -56,7 +56,11 @@ Skills: Fly +9, Knowledge (arcana) +16, Knowledge (nature) +16, Perception +20, 
 RacialMods: +8 Swim
 Languages: Common, Draconic, Elven
 SQ: water breathing, woodland stride
-SpecialAbilities: Water Breathing (Ex) A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.  Woodland Stride (Ex) A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
+SpecialAbilities:
+  Water Breathing (Ex): >
+    A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+  Woodland Stride (Ex): >
+    A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
 SpellsKnown: Spells Known (CL 1st; concentration +3)  1st (4/day)-shield, summon monster I  0 (at will)-dancing lights, detect magic, ghost sound, mage hand
 SpellsPrepared: 
 SpellDomains: 

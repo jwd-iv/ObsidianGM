@@ -56,7 +56,9 @@ Skills: Acrobatics +4, Climb +13, Handle Animal +3, Heal +7, Perception +5, Stea
 RacialMods: +4 Stealth in forests or marshes
 Languages: Common, Grippli
 SQ: swamp stride, track, wild empathy
-SpecialAbilities: Swamp Stride (Ex) A grippli can move through difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a grippli normally.
+SpecialAbilities:
+  Swamp Stride (Ex): >
+    A grippli can move through difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a grippli normally.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

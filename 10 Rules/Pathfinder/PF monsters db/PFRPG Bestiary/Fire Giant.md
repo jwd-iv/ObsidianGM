@@ -56,7 +56,9 @@ Skills: Climb +14, Craft (any one) +8, Intimidate +11, Perception +14
 RacialMods: 
 Languages: Common, Giant
 SQ: 
-SpecialAbilities: Heated Rock (Su) Fire giants transfer the heat of their bodies to rocks as part of an attack action when they throw rocks. A heated rock deals 1d6 points of additional fire damage on a hit.
+SpecialAbilities:
+  Heated Rock (Su): >
+    Fire giants transfer the heat of their bodies to rocks as part of an attack action when they throw rocks. A heated rock deals 1d6 points of additional fire damage on a hit.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

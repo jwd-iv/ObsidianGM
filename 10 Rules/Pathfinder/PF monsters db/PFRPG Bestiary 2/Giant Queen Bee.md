@@ -56,7 +56,9 @@ Skills: Fly +2
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 17; frequency 1/round for 4 rounds; effect 1d2 Con; cure 2 consecutive saves.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 17; frequency 1/round for 4 rounds; effect 1d2 Con; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

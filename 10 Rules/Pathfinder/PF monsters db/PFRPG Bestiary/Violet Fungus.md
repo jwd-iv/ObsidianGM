@@ -56,7 +56,9 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Rot (Ex) A creature struck by a violet fungus's tentacle must succeed on a DC 15 Fortitude save or the flesh around the point of contact swiftly begins to rot away, exposing raw bone with shocking swiftness. This hideous affliction causes 1d4 points of Strength damage and 1d4 points of Constitution damage. This is a poison effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Rot (Ex): >
+    A creature struck by a violet fungus's tentacle must succeed on a DC 15 Fortitude save or the flesh around the point of contact swiftly begins to rot away, exposing raw bone with shocking swiftness. This hideous affliction causes 1d4 points of Strength damage and 1d4 points of Constitution damage. This is a poison effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

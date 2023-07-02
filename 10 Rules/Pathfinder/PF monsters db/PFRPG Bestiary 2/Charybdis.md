@@ -56,7 +56,11 @@ Skills: Perception +23, Swim +20
 RacialMods: 
 Languages: Aquan
 SQ: 
-SpecialAbilities: Rending Claws (Ex) A charybdis's claws are particularly devastating when used against objects, and ignore the first 10 points of an object's hardness rating.  Vortex (Su) A charybdis can generate a whirlpool as a standard action at will. This ability functions identically to the whirlwind special attack (see the Universal Monster Rules in Appendix 3), but the whirlpool can only form underwater and cannot leave the water. It's a DC 25 Reflex save to avoid being caught by the charybdis's vortex. The vortex itself is 20 feet across and 120 feet deep, and deals 2d6+12 points of damage per round. The save DC is Constitution-based.
+SpecialAbilities:
+  Rending Claws (Ex): >
+    A charybdis's claws are particularly devastating when used against objects, and ignore the first 10 points of an object's hardness rating.
+  Vortex (Su): >
+    A charybdis can generate a whirlpool as a standard action at will. This ability functions identically to the whirlwind special attack (see the Universal Monster Rules in Appendix 3), but the whirlpool can only form underwater and cannot leave the water. It's a DC 25 Reflex save to avoid being caught by the charybdis's vortex. The vortex itself is 20 feet across and 120 feet deep, and deals 2d6+12 points of damage per round. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

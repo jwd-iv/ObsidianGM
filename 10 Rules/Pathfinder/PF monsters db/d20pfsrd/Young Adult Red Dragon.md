@@ -56,7 +56,9 @@ Skills: Appraise +20, Bluff +20, Fly +10, Intimidate +20, Knowledge (arcana) +20
 RacialMods: 
 Languages: Common, Draconic, Orc
 SQ: 
-SpecialAbilities: Smoke Vision (Ex) A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+SpecialAbilities:
+  Smoke Vision (Ex): >
+    A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
 SpellsKnown: Spells Known (CL 5th; concentration +7)  2nd (5/day)-resist energy, see invisibility  1st (7/day)-alarm, magic missile, shield, true strike  0 (at will)-arcane mark, bleed, light, magehand, message, read magic
 SpellsPrepared: 
 SpellDomains: 

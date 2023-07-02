@@ -56,7 +56,9 @@ Skills: Acrobatics +8, Perception +5, Stealth +8 (+12 in tall grass)
 RacialMods: +4 Stealth in tall grass
 Languages: 
 SQ: 
-SpecialAbilities: Sprint (Ex) Once per hour, a cheetah can move at 10 times its normal speed (500 feet) when it makes a charge.
+SpecialAbilities:
+  Sprint (Ex): >
+    Once per hour, a cheetah can move at 10 times its normal speed (500 feet) when it makes a charge.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Climb +7, Intimidate +7, Perception +5
 RacialMods: 
 Languages: Giant
 SQ: axe wielder
-SpecialAbilities: Axe Wielder (Ex) All cave giants are proficient with handaxes, battleaxes, and greataxes.
+SpecialAbilities:
+  Axe Wielder (Ex): >
+    All cave giants are proficient with handaxes, battleaxes, and greataxes.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

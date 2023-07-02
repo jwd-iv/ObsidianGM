@@ -56,7 +56,11 @@ Skills: Acrobatics +11, Climb +7, Fly +6, Knowledge (arcana) +5, Knowledge (plan
 RacialMods: +4 Acrobatics, +4 Perception, +4 Stealth
 Languages: Celestial, Draconic, Infernal; speak with animals, truespeech
 SQ: cat's luck, flight, lay on hands (1d6, 1/day, always as a 2nd-level paladin), spectral mist
-SpecialAbilities: Cat's Luck (Su) A silvanshee adds its Charisma modifier as a luck bonus on all its saving throws. Once per day as a standard action, it can also grant this bonus to one ally within 30 feet for 10 minutes.  Heroic Strength (Su) Once per day, a silvanshee can grant itself a +8 enhancement bonus to Strength for 1 minute.  Spectral Mist (Su) A silvanshee can assume an eerie, mist-like form roughly the size and shape of a cat. This ability has the same effect as a gaseous form spell, except the silvanshee retains its own DR and supernatural abilities and can move at its normal speed. It can remain in mist form up to 5 minutes per day. This duration does not have to be consecutive, but it must be used in 1-minute increments.
+SpecialAbilities: Cat's Luck (Su) A silvanshee adds its Charisma modifier as a luck bonus on all its saving throws. Once per day as a standard action, it can also grant this bonus to one ally within 30 feet for 10 minutes.
+  Heroic Strength (Su): >
+    Once per day, a silvanshee can grant itself a +8 enhancement bonus to Strength for 1 minute.
+  Spectral Mist (Su): >
+    A silvanshee can assume an eerie, mist-like form roughly the size and shape of a cat. This ability has the same effect as a gaseous form spell, except the silvanshee retains its own DR and supernatural abilities and can move at its normal speed. It can remain in mist form up to 5 minutes per day. This duration does not have to be consecutive, but it must be used in 1-minute increments.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

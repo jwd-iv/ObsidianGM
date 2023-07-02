@@ -56,7 +56,9 @@ Skills: Acrobatics +10, Climb +24, Perception +4, Stealth +10 (+21 when stationa
 RacialMods: +8 Acrobatics, +16 Climb, +4 Perception, +4 Stealth (+15 when stationary)
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 14 (includes +2 racial bonus); frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 14 (includes +2 racial bonus); frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

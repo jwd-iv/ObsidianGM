@@ -56,7 +56,9 @@ Skills: Perception +16
 RacialMods: 
 Languages: Giant (cannot speak)
 SQ: 
-SpecialAbilities: Heat (Su) An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed strikes are subject to this damage, but creatures striking with melee weapons are not. The heat can melt or burn weapons; any weapon that strikes a remorhaz is allowed a DC 19 Fortitude save to avoid taking damage. The save DC is Constitution-based.
+SpecialAbilities:
+  Heat (Su): >
+    An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed strikes are subject to this damage, but creatures striking with melee weapons are not. The heat can melt or burn weapons; any weapon that strikes a remorhaz is allowed a DC 19 Fortitude save to avoid taking damage. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

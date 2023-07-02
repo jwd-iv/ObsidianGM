@@ -56,7 +56,9 @@ Skills: Perception +6
 RacialMods: 
 Languages: 
 SQ: docile
-SpecialAbilities: Docile (Ex) Unless specifically trained for combat (see the Handle Animal skill on page 97 of the Pathfinder RPG Core Rulebook), a horse's hooves are treated as secondary attacks.  Horses stand 5 to 6 feet tall at the shoulder and weigh between 1,000 and 1,500 pounds.
+SpecialAbilities:
+  Docile (Ex): >
+    Unless specifically trained for combat (see the Handle Animal skill on page 97 of the Pathfinder RPG Core Rulebook), a horse's hooves are treated as secondary attacks.  Horses stand 5 to 6 feet tall at the shoulder and weigh between 1,000 and 1,500 pounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

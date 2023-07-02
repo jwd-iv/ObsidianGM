@@ -56,8 +56,13 @@ Skills: Climb +33, Fly +13, Perception +24, Stealth +26, Swim +28
 RacialMods: +8 Stealth
 Languages: Aklo, Draconic, Sylvan
 SQ: 
-SpecialAbilities: >
-  Breath Weapon (Su) Once every 1d4 rounds as a standard action, a cairn linnorm can expel a 60-foot cone of acidic bile, dealing 18d8 points of acid damage to all creatures struck. In addition, this bile is infused with negative energy, and inflicts 1d4 negative levels on all creatures struck by it. A successful DC 28 Reflex save halves the damage and  completely negates the negative levels. The save DC is Constitution-based.  Death Curse (Su) Curse of Decay: save Will DC 28; effect the creature takes 1 point of Constitution damage per day, and ages at an accelerated rate of 1 year per day, eventually incurring all of the penalties of old age but none of the benefits (Pathfinder RPG Core Rulebook 169).  Poison (Ex) Bite-injury; save Fort DC 28; frequency 1/round for 10 rounds; effect 4d6 acid damage and 1d6 Con drain; cure 2 consecutive saves.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Once every 1d4 rounds as a standard action, a cairn linnorm can expel a 60-foot cone of acidic bile, dealing 18d8 points of acid damage to all creatures struck. In addition, this bile is infused with negative energy, and inflicts 1d4 negative levels on all creatures struck by it. A successful DC 28 Reflex save halves the damage and  completely negates the negative levels. The save DC is Constitution-based.
+  Death Curse (Su): >
+    Curse of Decay: save Will DC 28; effect the creature takes 1 point of Constitution damage per day, and ages at an accelerated rate of 1 year per day, eventually incurring all of the penalties of old age but none of the benefits (Pathfinder RPG Core Rulebook 169).
+  Poison (Ex): >
+    Bite-injury; save Fort DC 28; frequency 1/round for 10 rounds; effect 4d6 acid damage and 1d6 Con drain; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

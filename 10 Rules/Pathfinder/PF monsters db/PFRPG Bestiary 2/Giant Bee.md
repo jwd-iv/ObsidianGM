@@ -56,7 +56,11 @@ Skills: Fly +6
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Sting-injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.  Vulnerable to Smoke (Ex) Smoke from particularly smoky fires or effects (such as that created by a pyrotechnics spell) causes a giant bee to become nauseated if it fails a DC 14 Fortitude save. This condition persists as long as the giant bee remains in the smoke, plus 1d4 rounds.
+SpecialAbilities:
+  Poison (Ex): >
+    Sting-injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
+  Vulnerable to Smoke (Ex): >
+    Smoke from particularly smoky fires or effects (such as that created by a pyrotechnics spell) causes a giant bee to become nauseated if it fails a DC 14 Fortitude save. This condition persists as long as the giant bee remains in the smoke, plus 1d4 rounds.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

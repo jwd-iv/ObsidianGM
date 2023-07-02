@@ -56,7 +56,9 @@ Skills: Climb +16, Perception +4 (+8 in webs), Stealth +7 (+11 in webs)
 RacialMods: +4 Perception, +4 Stealth (+8 in webs), +16 Climb
 Languages: 
 SQ: 
-SpecialAbilities: Poison (Ex) Bite-injury; save Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Strength damage; cure 1 save.
+SpecialAbilities:
+  Poison (Ex): >
+    Bite-injury; save Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Strength damage; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

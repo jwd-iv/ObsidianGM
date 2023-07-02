@@ -56,7 +56,13 @@ Skills: Acrobatics +15 (+19 when jumping), Bluff +4, Intimidate +12, Perception 
 RacialMods: 
 Languages: Aquan, Common, Draconic
 SQ: aquatic elusion, hold breath
-SpecialAbilities: Aquatic Elusion (Su) As a standard action, a grootslang that is fully immersed in water can teleport to another body of water without error. This ability functions like tree stride, but the grootslang can exit from any body of water within 1 mile so long as both the entry and exit are wide enough for the creature to enter.  Impaling Bite (Ex) A grootslang can make a bite attack against any creature it is grappling. If this attack hits, it is automatically treated as a critical threat.  Thunderous Stomp (Ex) As a full-round action, a grootslang can rear up on its serpentine body to bring its massive forelimbs down with awesome force. The grootslang chooses two adjacent targets to be affected as though trampling them. In addition, each creature within 10 feet must make a DC 28 Reflex save or be knocked prone. The save DC is Constitution-based.
+SpecialAbilities:
+  Aquatic Elusion (Su): >
+    As a standard action, a grootslang that is fully immersed in water can teleport to another body of water without error. This ability functions like tree stride, but the grootslang can exit from any body of water within 1 mile so long as both the entry and exit are wide enough for the creature to enter.
+  Impaling Bite (Ex): >
+    A grootslang can make a bite attack against any creature it is grappling. If this attack hits, it is automatically treated as a critical threat.
+  Thunderous Stomp (Ex): >
+    As a full-round action, a grootslang can rear up on its serpentine body to bring its massive forelimbs down with awesome force. The grootslang chooses two adjacent targets to be affected as though trampling them. In addition, each creature within 10 feet must make a DC 28 Reflex save or be knocked prone. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

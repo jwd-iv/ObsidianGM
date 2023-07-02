@@ -56,7 +56,9 @@ Skills: Climb +5, Stealth +9 (+13 in grass)
 RacialMods: +4 Stealth in grass
 Languages: 
 SQ: 
-SpecialAbilities: Quills (Ex) Any creature attacking a porcupine with natural weapons or an unarmed strike takes 1 point of piercing damage. A creature that grapples a porcupine takes 1d3 points of piercing damage each round it does so.
+SpecialAbilities:
+  Quills (Ex): >
+    Any creature attacking a porcupine with natural weapons or an unarmed strike takes 1 point of piercing damage. A creature that grapples a porcupine takes 1d3 points of piercing damage each round it does so.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

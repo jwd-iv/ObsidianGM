@@ -56,8 +56,9 @@ Skills: Perception +7, Stealth +4, Survival +4
 RacialMods: +2 Perception, +2 Stealth, +2 Survival
 Languages: Goblin (can't speak)
 SQ: 
-SpecialAbilities: >
-  Disease (Su) Wormpox: Bite-Injury; save Fort DC 12; onset 1 day; frequency 1 day; effect 1 Con damage; cure 2 consecutive saves.
+SpecialAbilities:
+  Disease (Su): >
+    Wormpox: Bite-Injury; save Fort DC 12; onset 1 day; frequency 1 day; effect 1 Con damage; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

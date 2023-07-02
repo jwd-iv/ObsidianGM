@@ -56,7 +56,9 @@ Skills: Bluff +2, Craft (traps) +4, Disable Device +2, Perception +6 (+2 Listeni
 RacialMods: +4 Stealth, -4 Perception when listening
 Languages: Gnoll, Undercommon
 SQ: 
-SpecialAbilities: Unluck Aura (Su) A pugwampi radiates an aura of unluck to a radius of 20 feet. Any creature in this area must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll, a skill check, or a saving throw) and must use the lower of the two results generated. This is a mind-affecting effect that does not work on animals, other gremlins, or gnolls. Any character who gains any sort of luck bonus (such as that granted by a luckstone or divine favor) is immune to the pugwampi unluck aura.
+SpecialAbilities:
+  Unluck Aura (Su): >
+    A pugwampi radiates an aura of unluck to a radius of 20 feet. Any creature in this area must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll, a skill check, or a saving throw) and must use the lower of the two results generated. This is a mind-affecting effect that does not work on animals, other gremlins, or gnolls. Any character who gains any sort of luck bonus (such as that granted by a luckstone or divine favor) is immune to the pugwampi unluck aura.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

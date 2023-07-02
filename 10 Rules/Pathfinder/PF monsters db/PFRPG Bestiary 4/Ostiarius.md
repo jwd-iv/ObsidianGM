@@ -56,7 +56,13 @@ Skills: Bluff +14, Diplomacy +14, Escape Artist +9, Heal +14, Intimidate +14, Kn
 RacialMods: 
 Languages: Common, Infernal; telepathy 100 ft.
 SQ: shadow traveler
-SpecialAbilities: Compel Courage (Ex) An ostiarius can inspire courage as a 5th-level bard using bardic performance, granting a +2 morale bonus on saving throws against charm and fear effects and a +2 competence bonus on attack and weapon damage rolls. This ability has a range of 50 feet and affects those creatures the ostiarius chooses who also willingly accept the benefits of the effect (no saving throw required). The ostiarius's performance compels creatures to perform at dangerous extremes. Any living non-outsider that benefits from this ability takes 1 point of bleed damage. A creature that accepts these benefits for multiple consecutive rounds gains additional points of bleed damage that stack with one another (to a maximum of 5). This is an audible, mind-affecting effect and can be countered by a bard's countersong class feature.  Shadow Traveler (Ex) When an ostiarius uses plane shift to travel to the Plane of Shadow, it arrives at its intended destination with complete accuracy. When an ostiarius uses shadow walk, it moves at 100 miles per hour.  Unnerving Gaze (Ex) A creature that succumbs to an ostiarius's unnerving gaze becomes sickened for 1d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Compel Courage (Ex): >
+    An ostiarius can inspire courage as a 5th-level bard using bardic performance, granting a +2 morale bonus on saving throws against charm and fear effects and a +2 competence bonus on attack and weapon damage rolls. This ability has a range of 50 feet and affects those creatures the ostiarius chooses who also willingly accept the benefits of the effect (no saving throw required). The ostiarius's performance compels creatures to perform at dangerous extremes. Any living non-outsider that benefits from this ability takes 1 point of bleed damage. A creature that accepts these benefits for multiple consecutive rounds gains additional points of bleed damage that stack with one another (to a maximum of 5). This is an audible, mind-affecting effect and can be countered by a bard's countersong class feature.
+  Shadow Traveler (Ex): >
+    When an ostiarius uses plane shift to travel to the Plane of Shadow, it arrives at its intended destination with complete accuracy. When an ostiarius uses shadow walk, it moves at 100 miles per hour.
+  Unnerving Gaze (Ex): >
+    A creature that succumbs to an ostiarius's unnerving gaze becomes sickened for 1d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Bluff +7, Knowledge (arcana) +5, Spellcraft +5
 RacialMods: 
 Languages: Common, Gnome, Ignan
 SQ: bloodline arcana, fire affinity
-SpecialAbilities: Fire Affinity (Ex) Ifrit sorcerers with the elemental (fire) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ifrit spellcasters with the Fire domain use their domain powers and spells at +1 caster level.
+SpecialAbilities:
+  Fire Affinity (Ex): >
+    Ifrit sorcerers with the elemental (fire) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ifrit spellcasters with the Fire domain use their domain powers and spells at +1 caster level.
 SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +4)  1st (4/day)-burning hands (DC 15), mage armor  0 (at will)-acid splash, detect magic, flare (DC 14), prestidigitation
 SpellsPrepared: 
 SpellDomains: 

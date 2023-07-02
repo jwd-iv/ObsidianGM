@@ -56,7 +56,11 @@ Skills: Fly +12, Intimidate +7, Perception +10, Stealth +14, Swim +18
 RacialMods: +8 Swim
 Languages: Draconic
 SQ: icewalking
-SpecialAbilities: Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.  Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
+SpecialAbilities:
+  Icewalking (Ex): >
+    This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+  Snow Vision (Ex): >
+    A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

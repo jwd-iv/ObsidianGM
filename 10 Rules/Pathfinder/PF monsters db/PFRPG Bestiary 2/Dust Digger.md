@@ -56,7 +56,9 @@ Skills: Perception +5, Stealth +5 (+13 in ambush)
 RacialMods: +8 Stealth in ambush
 Languages: 
 SQ: 
-SpecialAbilities: Sinkhole (Ex) A dust digger can burrow into sand, loose soil, or dirt to lie in ambush just under the surface. When it feels (via tremorsense) prey walk into a square it threatens, it can deflate its body as an immediate action, causing the sand and other loose soil above to shift and slide. All creatures who were standing in the dust digger's reach must make a DC 15 Reflex save or become entangled as long as they remain in the dust digger's reach. All creatures who were standing at least partially in the dust digger's actual space must make a DC 15 Reflex save or become entangled and fall prone-if such a creature makes this save, it immediately moves to the closest adjacent unoccupied square. If this results in more than a 5-foot move, the creature moves that distance and then falls prone. The save DC is Strength-based.
+SpecialAbilities:
+  Sinkhole (Ex): >
+    A dust digger can burrow into sand, loose soil, or dirt to lie in ambush just under the surface. When it feels (via tremorsense) prey walk into a square it threatens, it can deflate its body as an immediate action, causing the sand and other loose soil above to shift and slide. All creatures who were standing in the dust digger's reach must make a DC 15 Reflex save or become entangled as long as they remain in the dust digger's reach. All creatures who were standing at least partially in the dust digger's actual space must make a DC 15 Reflex save or become entangled and fall prone-if such a creature makes this save, it immediately moves to the closest adjacent unoccupied square. If this results in more than a 5-foot move, the creature moves that distance and then falls prone. The save DC is Strength-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,8 +56,17 @@ Skills: Fly +25, Perception +40, Stealth +17, Swim +49
 RacialMods: +8 Perception
 Languages: Aklo, Draconic, Sylvan
 SQ: amphibious
-SpecialAbilities: >
-  All-Around Vision (Ex) A tarn linnorm's two heads grant it a +8 racial bonus on Perception checks. It cannot be flanked.  Breath Weapon (Su) Once every 1d4 rounds as a standard action, a tarn linnorm can expel a 120-foot line or a 60-foot cone of acid, dealing 22d8 points of acid damage to all creatures struck (Reflex DC 32 halves). This acid creates toxic fumes when it consumes organic material-on the round after a creature takes acid damage from this attack, it must make a DC 32 Fortitude save or take 2d6 points of Strength damage from the poisonous fumes (this secondary effect is a poison effect). As a full-round action, the linnorm may breathe acid with one head and bite with the other (but not use its other weapons). Alternatively, as a full-round action, it can breathe acid from both heads to create two adjacent 60-foot-long cones or two separate 120-foot-long lines. In this case it cannot use its breath weapon again for 2d4 rounds. The save DC is Constitution-based.  Death Curse (Su) When a creature slays a tarn linnorm, the slayer is affected by the curse of death.  Curse of Death: save Will DC 29; effect creature can no longer be affected by healing spells and does not heal damage naturally from rest. The save DC is Charisma-based.  Freedom of Movement (Ex) A tarn linnorm is under the constant effect of freedom of movement, as the spell of the same name. This effect cannot be dispelled.  Poison (Su) Bite-injury; save Fort DC 32; frequency 1/round for 10 rounds; effect 6d6 acid damage and 1d8 Con drain; cure 3 consecutive saves. The save DC is Constitutuion-based.  True Seeing (Ex) A tarn linnorm has true seeing, as the spell of the same name. This effect cannot be dispelled.
+SpecialAbilities: All-Around Vision (Ex) A tarn linnorm's two heads grant it a +8 racial bonus on Perception checks. It cannot be flanked.
+  Breath Weapon (Su): >
+    Once every 1d4 rounds as a standard action, a tarn linnorm can expel a 120-foot line or a 60-foot cone of acid, dealing 22d8 points of acid damage to all creatures struck (Reflex DC 32 halves). This acid creates toxic fumes when it consumes organic material-on the round after a creature takes acid damage from this attack, it must make a DC 32 Fortitude save or take 2d6 points of Strength damage from the poisonous fumes (this secondary effect is a poison effect). As a full-round action, the linnorm may breathe acid with one head and bite with the other (but not use its other weapons). Alternatively, as a full-round action, it can breathe acid from both heads to create two adjacent 60-foot-long cones or two separate 120-foot-long lines. In this case it cannot use its breath weapon again for 2d4 rounds. The save DC is Constitution-based.
+  Death Curse (Su): >
+    When a creature slays a tarn linnorm, the slayer is affected by the curse of death.  Curse of Death: save Will DC 29; effect creature can no longer be affected by healing spells and does not heal damage naturally from rest. The save DC is Charisma-based.
+  Freedom of Movement (Ex): >
+    A tarn linnorm is under the constant effect of freedom of movement, as the spell of the same name. This effect cannot be dispelled.
+  Poison (Su): >
+    Bite-injury; save Fort DC 32; frequency 1/round for 10 rounds; effect 6d6 acid damage and 1d8 Con drain; cure 3 consecutive saves. The save DC is Constitutuion-based.
+  True Seeing (Ex): >
+    A tarn linnorm has true seeing, as the spell of the same name. This effect cannot be dispelled.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

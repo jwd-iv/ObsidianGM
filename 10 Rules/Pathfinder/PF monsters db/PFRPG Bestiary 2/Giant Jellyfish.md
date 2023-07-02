@@ -56,7 +56,9 @@ Skills: Swim +12
 RacialMods: 
 Languages: 
 SQ: compression
-SpecialAbilities: Poison (Ex) Tentacles-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Con; cure 2 consecutive saves. The save DC is Constitution based.
+SpecialAbilities:
+  Poison (Ex): >
+    Tentacles-injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Con; cure 2 consecutive saves. The save DC is Constitution based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

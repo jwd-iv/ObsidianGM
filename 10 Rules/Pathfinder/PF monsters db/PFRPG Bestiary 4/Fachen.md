@@ -56,7 +56,11 @@ Skills: Acrobatics +13, Perception +9, Stealth +6
 RacialMods: 
 Languages: Common
 SQ: incredible balance
-SpecialAbilities: Fear (Su) Each creature within a 30-foot radius that sees a fachen must succeed at a DC 15 Will save or be paralyzed by fear for 1d4 rounds. A creature that successfully saves is not subject to the same fachen's fear aura for 24 hours. This is a paralysis effect and a mind-affecting fear effect. The save DC is Charisma-based.  Incredible Balance (Ex) Despite its strange anatomy, a fachen is adept at keeping itself upright and out of danger. A fachen gains a +3 dodge bonus to AC and a +4 racial bonus to its CMD against trip combat maneuvers.
+SpecialAbilities:
+  Fear (Su): >
+    Each creature within a 30-foot radius that sees a fachen must succeed at a DC 15 Will save or be paralyzed by fear for 1d4 rounds. A creature that successfully saves is not subject to the same fachen's fear aura for 24 hours. This is a paralysis effect and a mind-affecting fear effect. The save DC is Charisma-based.
+  Incredible Balance (Ex): >
+    Despite its strange anatomy, a fachen is adept at keeping itself upright and out of danger. A fachen gains a +3 dodge bonus to AC and a +4 racial bonus to its CMD against trip combat maneuvers.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

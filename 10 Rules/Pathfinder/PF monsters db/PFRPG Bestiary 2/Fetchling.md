@@ -56,7 +56,9 @@ Skills: Appraise +3, Bluff +6, Diplomacy +6, Knowledge (local) +3, Knowledge (pl
 RacialMods: +2 Knowledge (planes), +7 Stealth
 Languages: Common
 SQ: trapfinding +1
-SpecialAbilities: Shadow Blending (Su) Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance.
+SpecialAbilities:
+  Shadow Blending (Su): >
+    Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

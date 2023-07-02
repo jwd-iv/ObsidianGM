@@ -56,7 +56,9 @@ Skills: Fly +14, Intimidate +6, Perception +9, Stealth +21, Swim +15
 RacialMods: +8 Swim
 Languages: Draconic
 SQ: water breathing
-SpecialAbilities: Water Breathing (Ex) A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+SpecialAbilities:
+  Water Breathing (Ex): >
+    A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

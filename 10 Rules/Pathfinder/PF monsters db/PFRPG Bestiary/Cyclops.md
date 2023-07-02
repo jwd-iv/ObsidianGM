@@ -56,7 +56,9 @@ Skills: Intimidate +9, Perception +11, Profession (soothsayer) +10 Sense Motive 
 RacialMods: +8 Perception
 Languages: Common, Cyclops, Giant
 SQ: flash of insight
-SpecialAbilities: Flash of Insight (Su) Once per day as an immediate action, a cyclops can peer into an occluded visual spectrum of possible futures, gaining insight that allows it to select the exact result of one die roll before the roll is made. This effect can alter an action taken by the cyclops only, and cannot be applied to the rolls of others.
+SpecialAbilities:
+  Flash of Insight (Su): >
+    Once per day as an immediate action, a cyclops can peer into an occluded visual spectrum of possible futures, gaining insight that allows it to select the exact result of one die roll before the roll is made. This effect can alter an action taken by the cyclops only, and cannot be applied to the rolls of others.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

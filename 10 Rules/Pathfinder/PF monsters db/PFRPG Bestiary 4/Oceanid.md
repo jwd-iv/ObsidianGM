@@ -56,7 +56,15 @@ Skills: Diplomacy +17, Handle Animal +14, Intimidate +14, Knowledge (nature) +14
 RacialMods: 
 Languages: Aquan, Common, Sylvan; speak with animals (sea creatures only)
 SQ: waveglide
-SpecialAbilities: Water Dependency (Ex) An oceanid can survive out of the water for 1 hour per point of Constitution. After this limit, she takes 1 point of Constitution damage each hour until immersed in salt water.  Water Magic (Su) An oceanid can use her spell-like abilities only when she is in the ocean or within 1 mile of the ocean.  Water Telekinesis (Su) When immersed in water, an oceanid can manipulate water to affect creatures and objects within 500 feet that are in contact with the same body of water. This functions as the combat maneuver form of the telekinesis spell (caster level 9th, combat maneuver bonus +14), including the need to maintain concentration. This ability also allows her to create a small waterspout as a standard action once per round, striking an opponent within 100 feet with a blast of water as a ranged attack that deals 7d6 points of bludgeoning damage.  Waveglide (Su) An oceanid can create waves and currents to double or halve the speed of creatures or objects traveling on the surface of the water, affecting up to 100 contiguous 5-foot squares in a shapeable area (typically enough for one warship or two small sailing ships). This ability has a range of 1,000 feet, requires line of effect to some part of the area, and lasts as long as the oceanid concentrates. An unwilling target can ignore the effect for 1 round by succeeding at a DC 19 Will saving throw. The save DC is Charisma-based.
+SpecialAbilities:
+  Water Dependency (Ex): >
+    An oceanid can survive out of the water for 1 hour per point of Constitution. After this limit, she takes 1 point of Constitution damage each hour until immersed in salt water.
+  Water Magic (Su): >
+    An oceanid can use her spell-like abilities only when she is in the ocean or within 1 mile of the ocean.
+  Water Telekinesis (Su): >
+    When immersed in water, an oceanid can manipulate water to affect creatures and objects within 500 feet that are in contact with the same body of water. This functions as the combat maneuver form of the telekinesis spell (caster level 9th, combat maneuver bonus +14), including the need to maintain concentration. This ability also allows her to create a small waterspout as a standard action once per round, striking an opponent within 100 feet with a blast of water as a ranged attack that deals 7d6 points of bludgeoning damage.
+  Waveglide (Su): >
+    An oceanid can create waves and currents to double or halve the speed of creatures or objects traveling on the surface of the water, affecting up to 100 contiguous 5-foot squares in a shapeable area (typically enough for one warship or two small sailing ships). This ability has a range of 1,000 feet, requires line of effect to some part of the area, and lasts as long as the oceanid concentrates. An unwilling target can ignore the effect for 1 round by succeeding at a DC 19 Will saving throw. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

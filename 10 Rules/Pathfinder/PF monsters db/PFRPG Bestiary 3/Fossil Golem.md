@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Immunity to Magic (Su) A fossil golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and abilities function differently against the creature, as noted below.  • A transmute rock to mud spell slows a fossil golem (as the slow spell) for 2d6 rounds, with no saving throw.  • A stone to flesh spell negates its damage reduction and petrification ability for 1 round.  Petrification (Su) The attacks of a fossil golem gradually turn living flesh to stone. Each time the golem hits a target with one of its natural attacks, the target must make a DC 19 Fortitude save or take 1d6 points of Dexterity drain. A creature that is reduced to 0 Dexterity by this attack turns completely to stone, as if by a flesh to stone spell. Casting stone to flesh on the creature removes all Dexterity drain caused by this attack. The save DC is Constitution-based and includes a +2 racial bonus.
+SpecialAbilities:
+  Immunity to Magic (Su): >
+    A fossil golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and abilities function differently against the creature, as noted below.  • A transmute rock to mud spell slows a fossil golem (as the slow spell) for 2d6 rounds, with no saving throw.  • A stone to flesh spell negates its damage reduction and petrification ability for 1 round.
+  Petrification (Su): >
+    The attacks of a fossil golem gradually turn living flesh to stone. Each time the golem hits a target with one of its natural attacks, the target must make a DC 19 Fortitude save or take 1d6 points of Dexterity drain. A creature that is reduced to 0 Dexterity by this attack turns completely to stone, as if by a flesh to stone spell. Casting stone to flesh on the creature removes all Dexterity drain caused by this attack. The save DC is Constitution-based and includes a +2 racial bonus.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

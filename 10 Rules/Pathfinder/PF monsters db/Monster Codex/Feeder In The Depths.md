@@ -56,7 +56,15 @@ Skills: Intimidate +19, Knowledge (religion) +11, Perception +20, Swim +15
 RacialMods: +5 Perception
 Languages: Aklo, Aquan, Infernal
 SQ: 
-SpecialAbilities: Blood Feast (Su) When a creature within 30 feet of a feeder in the depths takes bleed damage (including ongoing damage), the feeder heals an equal amount of damage.  Deadly Bleeding (Su) A feeder in the depth's bite causes bleeding wounds that resist healing. The first bite that damages a creature deals 1d4 points of bleed damage, and each subsequent bite increases the amount of bleed by 1d4. Stopping the bleeding requires a successful DC 20 Heal check or the application of any magical healing. However, anyone attempting to cast a healing spell on a creature suffering from deadly bleeding must succeed at a DC 20 caster level check or the spell doesn't affect the bleeding creature. The save DC is Constitution-based.  Keen Scent (Ex) A feeder in the depths can notice creatures by scent in a 180-foot radius underwater, and can detect blood in the water at a distance of up to 1 mile.  Swift Bite (Ex) When making a full attack, a feeder in the depths can make a second bite attack at a -5 penalty.
+SpecialAbilities:
+  Blood Feast (Su): >
+    When a creature within 30 feet of a feeder in the depths takes bleed damage (including ongoing damage), the feeder heals an equal amount of damage.
+  Deadly Bleeding (Su): >
+    A feeder in the depth's bite causes bleeding wounds that resist healing. The first bite that damages a creature deals 1d4 points of bleed damage, and each subsequent bite increases the amount of bleed by 1d4. Stopping the bleeding requires a successful DC 20 Heal check or the application of any magical healing. However, anyone attempting to cast a healing spell on a creature suffering from deadly bleeding must succeed at a DC 20 caster level check or the spell doesn't affect the bleeding creature. The save DC is Constitution-based.
+  Keen Scent (Ex): >
+    A feeder in the depths can notice creatures by scent in a 180-foot radius underwater, and can detect blood in the water at a distance of up to 1 mile.
+  Swift Bite (Ex): >
+    When making a full attack, a feeder in the depths can make a second bite attack at a -5 penalty.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

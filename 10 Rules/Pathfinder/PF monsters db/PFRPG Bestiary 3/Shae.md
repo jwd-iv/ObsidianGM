@@ -56,7 +56,11 @@ Skills: Acrobatics +13, Bluff +10, Diplomacy +10, Disguise +10, Intimidate +7, K
 RacialMods: +10 Stealth in regions of low light or darkness
 Languages: Aklo, Common, Shae
 SQ: 
-SpecialAbilities: Cold (Su) A shae's touch saps heat from living creatures, leaving patches of colorless flesh rather than physical wounds. A shae can deal 1d6 points of cold damage with a touch. It adds +1d6 points of cold damage to any melee weapon damage it deals.  Lesser Shadow Evocation (Sp) This spell-like ability functions identically to the spell shadow evocation, but it can only create quasi-real versions of sorcerer or wizard evocation spells of 2nd level or lower. This spell-like ability is the equivalent of a 3rd-level spell.
+SpecialAbilities:
+  Cold (Su): >
+    A shae's touch saps heat from living creatures, leaving patches of colorless flesh rather than physical wounds. A shae can deal 1d6 points of cold damage with a touch. It adds +1d6 points of cold damage to any melee weapon damage it deals.
+  Lesser Shadow Evocation (Sp): >
+    This spell-like ability functions identically to the spell shadow evocation, but it can only create quasi-real versions of sorcerer or wizard evocation spells of 2nd level or lower. This spell-like ability is the equivalent of a 3rd-level spell.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

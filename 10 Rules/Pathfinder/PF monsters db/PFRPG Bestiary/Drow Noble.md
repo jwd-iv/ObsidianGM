@@ -56,7 +56,9 @@ Skills: Knowledge (religion) +6, Sense Motive +9, Spellcraft +6
 RacialMods: +2 Perception
 Languages: Elven, Undercommon
 SQ: poison use
-SpecialAbilities: Poison Use (Ex) Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness- this poison allows drow to capture slaves with great ease. Drow Poison-injury; save Fort DC 13; frequency 1/minute for 2 minutes; initial effect unconsciousness for 1 minute; secondary effect unconsciousness for 2d4 hours; cure 1 save.
+SpecialAbilities:
+  Poison Use (Ex): >
+    Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness- this poison allows drow to capture slaves with great ease. Drow Poison-injury; save Fort DC 13; frequency 1/minute for 2 minutes; initial effect unconsciousness for 1 minute; secondary effect unconsciousness for 2d4 hours; cure 1 save.
 SpellsKnown: 
 SpellsPrepared: Spells Prepared (CL 3rd) 2nd-death knellD (DC 15), hold person (DC 15), silence (DC 15) 1st-bless, cause fear (DC 14), cure light wounds, protection from lawD 0-bleed (DC 13), detect poison, read magic, resistance
 SpellDomains: Chaos, Death

@@ -56,7 +56,11 @@ Skills: Bluff +12, Disguise +10, Perception +9, Sense Motive +4, Stealth +10, Sw
 RacialMods: 
 Languages: Aquan, Common
 SQ: change shape (any Small or Medium humanoid; alter self), echo of reason, hold breath
-SpecialAbilities: Echo of Reason (Su) A selkie can instinctively alter the intonation of its voice to make anything it says sound more pleasing to those who understand it. When using the Bluff skill, a selkie treats its lies as one step more believable for the purposes of bonuses or penalties on the check.  Shake (Ex) On a successful critical hit with its bite attack, a selkie automatically violently shakes a Large or smaller target. The target must succeed at a DC 15 Fortitude save or it is dazed for 1 round. Even on a successful save, the target still takes a -2 penalty on all attack rolls and skill checks for the next 2 rounds. The save DC is Constitution-based.
+SpecialAbilities:
+  Echo of Reason (Su): >
+    A selkie can instinctively alter the intonation of its voice to make anything it says sound more pleasing to those who understand it. When using the Bluff skill, a selkie treats its lies as one step more believable for the purposes of bonuses or penalties on the check.
+  Shake (Ex): >
+    On a successful critical hit with its bite attack, a selkie automatically violently shakes a Large or smaller target. The target must succeed at a DC 15 Fortitude save or it is dazed for 1 round. Even on a successful save, the target still takes a -2 penalty on all attack rolls and skill checks for the next 2 rounds. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

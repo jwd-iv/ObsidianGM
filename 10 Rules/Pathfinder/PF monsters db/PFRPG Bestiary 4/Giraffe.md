@@ -56,7 +56,9 @@ Skills: Perception +8
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Natural Weapons (Ex) A giraffe's hoof attacks are primary attacks and its slam attack is a secondary attack.
+SpecialAbilities:
+  Natural Weapons (Ex): >
+    A giraffe's hoof attacks are primary attacks and its slam attack is a secondary attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

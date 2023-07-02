@@ -56,7 +56,9 @@ Skills: Climb +9, Perception +4, Stealth +12, Survival +4
 RacialMods: +4 Survival
 Languages: Common (can't speak)
 SQ: 
-SpecialAbilities: Grab (Ex) A crawling hand can use its grab ability on a creature of up to Medium size.
+SpecialAbilities:
+  Grab (Ex): >
+    A crawling hand can use its grab ability on a creature of up to Medium size.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

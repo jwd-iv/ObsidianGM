@@ -56,7 +56,9 @@ Skills: Acrobatics +9, Climb +13, Perception +7, Sense Motive +7, Stealth +9
 RacialMods: +2 Acrobatics, +2 Stealth
 Languages: Common, Sylvan, Vanaran
 SQ: prehensile tail
-SpecialAbilities: Prehensile Tail (Ex) All vanaras have long, flexible tails that they can use to carry objects. They cannot wield weapons with their tails, but the tails do allow them to retrieve small stowed objects carried on their persons as a swift action.
+SpecialAbilities:
+  Prehensile Tail (Ex): >
+    All vanaras have long, flexible tails that they can use to carry objects. They cannot wield weapons with their tails, but the tails do allow them to retrieve small stowed objects carried on their persons as a swift action.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

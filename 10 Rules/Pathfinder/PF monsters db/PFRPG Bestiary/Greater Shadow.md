@@ -56,7 +56,9 @@ Skills: Fly +15, Perception +13, Stealth +20 (+24 in dim light, +16 in bright li
 RacialMods: +4 Stealth in dim light (-4 in bright light)
 Languages: 
 SQ: 
-SpecialAbilities: Strength Damage (Su) A greater shadow's touch deals 1d8 points of Strength damage to a living creature. This is a negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength score.
+SpecialAbilities:
+  Strength Damage (Su): >
+    A greater shadow's touch deals 1d8 points of Strength damage to a living creature. This is a negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength score.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

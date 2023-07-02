@@ -56,7 +56,13 @@ Skills: Acrobatics +6 (+18 when jumping), Perception +12, Survival +4, Swim +23
 RacialMods: +12 Acrobatics when jumping, +4 Swim
 Languages: 
 SQ: bloody-minded
-SpecialAbilities: Bloody-Minded (Ex) A ypotryll is not easily swayed from its bloody business. It gains a +6 bonus on saves against charm and compulsion effects. Destructive Charge (Ex) A ypotryll's charge attack ignores up to 1 point of a target object's hardness for each 5 feet charged.  Thundering Path (Ex) A ypotryll's charge shakes the ground it crosses. The path of its charge is considered difficult terrain until the start of the ypotryll's next turn, and creatures with tremorsense that are within 100 feet of the end of the ypotryll's charge are blinded for that same amount of time.  Unstoppable Force (Ex) A ypotryll's bonus on a charge attack is +4, and it may add this bonus on overrun combat maneuver checks attempted using Charge Through.
+SpecialAbilities: Bloody-Minded (Ex) A ypotryll is not easily swayed from its bloody business. It gains a +6 bonus on saves against charm and compulsion effects.
+  Destructive Charge (Ex): >
+    A ypotryll's charge attack ignores up to 1 point of a target object's hardness for each 5 feet charged.
+  Thundering Path (Ex): >
+    A ypotryll's charge shakes the ground it crosses. The path of its charge is considered difficult terrain until the start of the ypotryll's next turn, and creatures with tremorsense that are within 100 feet of the end of the ypotryll's charge are blinded for that same amount of time.
+  Unstoppable Force (Ex): >
+    A ypotryll's bonus on a charge attack is +4, and it may add this bonus on overrun combat maneuver checks attempted using Charge Through.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

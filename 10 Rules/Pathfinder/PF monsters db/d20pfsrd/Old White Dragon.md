@@ -56,7 +56,15 @@ Skills: Fly +12, Intimidate +22, Knowledge (arcana) +22, Perception +27, Sense M
 RacialMods: +8 Swim
 Languages: Common, Draconic, Giant
 SQ: icewalking, ice shape
-SpecialAbilities: Freezing Fog (Sp) An old white dragon can use this ability three times per day. It is similar to an acid fog spell but deals cold damage instead of acid damage. It also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a grease spell. The dragon is immune to the grease effect because of its icewalking ability. This ability is the equivalent of a 6th-level spell.  Ice Shape (Su) A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon's caster level for this effect is equal to its Hit Dice.  Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.  Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
+SpecialAbilities:
+  Freezing Fog (Sp): >
+    An old white dragon can use this ability three times per day. It is similar to an acid fog spell but deals cold damage instead of acid damage. It also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a grease spell. The dragon is immune to the grease effect because of its icewalking ability. This ability is the equivalent of a 6th-level spell.
+  Ice Shape (Su): >
+    A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon's caster level for this effect is equal to its Hit Dice.
+  Icewalking (Ex): >
+    This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+  Snow Vision (Ex): >
+    A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
 SpellsKnown: Spells Known (CL 5th; concentration +7)  2nd (5/day)-fog cloud, invisibility  1st (7/day)-grease (DC 14), magic aura, shield, true strike  0 (at will)-dancing lights, detect magic, ghost sound, mage hand, mending, ray of frost
 SpellsPrepared: 
 SpellDomains: 

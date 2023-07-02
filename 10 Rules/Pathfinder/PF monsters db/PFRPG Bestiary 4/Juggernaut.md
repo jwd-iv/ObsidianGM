@@ -56,7 +56,9 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: keyed domains (Death, War), shrine
-SpecialAbilities: Faith-Bound (Su) A juggernaut cannot attack any creature that openly wears or displays the holy symbol or unholy symbol of the deity to which the juggernaut is dedicated unless that creature first attacks the juggernaut.  Shrine (Ex) A juggernaut counts as a movable shrine for the deity or religion it is dedicated to.  Soul-Powered (Su) When a juggernaut kills a creature with at least 5 Hit Dice and an alignment two or more steps away from the juggernaut's alignment, it gains a kill point. Add its current total kill points as a bonus on its attack rolls, combat maneuver checks, caster level checks, and skill checks. Add half its current total kill points as a bonus to its natural armor and spell resistance. The juggernaut loses 1 kill point every 24 hours.  Vicious Trample (Ex) A juggernaut's massive rollers deal 8d6+38 points of damage on a successful trample attack.
+SpecialAbilities: Faith-Bound (Su) A juggernaut cannot attack any creature that openly wears or displays the holy symbol or unholy symbol of the deity to which the juggernaut is dedicated unless that creature first attacks the juggernaut.  Shrine (Ex) A juggernaut counts as a movable shrine for the deity or religion it is dedicated to.  Soul-Powered (Su) When a juggernaut kills a creature with at least 5 Hit Dice and an alignment two or more steps away from the juggernaut's alignment, it gains a kill point. Add its current total kill points as a bonus on its attack rolls, combat maneuver checks, caster level checks, and skill checks. Add half its current total kill points as a bonus to its natural armor and spell resistance. The juggernaut loses 1 kill point every 24 hours.
+  Vicious Trample (Ex): >
+    A juggernaut's massive rollers deal 8d6+38 points of damage on a successful trample attack.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

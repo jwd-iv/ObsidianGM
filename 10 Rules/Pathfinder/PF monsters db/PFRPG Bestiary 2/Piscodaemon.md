@@ -56,7 +56,11 @@ Skills: Escape Artist +18, Intimidate +17, Knowledge (planes) +16, Perception +1
 RacialMods: 
 Languages: Abyssal, Draconic, Infernal; telepathy 100 ft.
 SQ: amphibious, augmented critical
-SpecialAbilities: Augmented Critical (Ex) A piscodaemon's claws threaten a critical hit on an 18-20 and inf lict x3 damage on a successful critical hit.  Poison (Ex) Tentacles-injury; save Fort DC 22; frequency 1/ round for 6 rounds; effect 1d2 Con plus staggered for 1 round; cure 2 consecutive saves.
+SpecialAbilities:
+  Augmented Critical (Ex): >
+    A piscodaemon's claws threaten a critical hit on an 18-20 and inf lict x3 damage on a successful critical hit.
+  Poison (Ex): >
+    Tentacles-injury; save Fort DC 22; frequency 1/ round for 6 rounds; effect 1d2 Con plus staggered for 1 round; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

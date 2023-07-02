@@ -56,7 +56,9 @@ Skills: Acrobatics +6 (+14 when jumping), Perception +4, Stealth +14
 RacialMods: +8 Acrobatics when jumping, +4 Perception, +4 Stealth
 Languages: Sylvan (can't speak)
 SQ: hex-prone
-SpecialAbilities: Hex-Prone (Su) An almiraj takes a -2 penalty on all saving throws against harmful witch hexes. The duration of any beneficial hexes longer than 1 round that affect an almiraj is increased by 50%.  Magic Horn (Su) While on the creature's head, an almiraj's horn is treated as a +1 weapon. Any living creature slain by an almiraj's gore attack immediately turns to stone (as if by the flesh to stone spell, with no saving throw, and the creature is still dead). A severed almiraj horn retains a wisp of its former magic, and counts as a masterwork weapon if used to create a magical dagger or similar small piercing weapon.
+SpecialAbilities: Hex-Prone (Su) An almiraj takes a -2 penalty on all saving throws against harmful witch hexes. The duration of any beneficial hexes longer than 1 round that affect an almiraj is increased by 50%.
+  Magic Horn (Su): >
+    While on the creature's head, an almiraj's horn is treated as a +1 weapon. Any living creature slain by an almiraj's gore attack immediately turns to stone (as if by the flesh to stone spell, with no saving throw, and the creature is still dead). A severed almiraj horn retains a wisp of its former magic, and counts as a masterwork weapon if used to create a magical dagger or similar small piercing weapon.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

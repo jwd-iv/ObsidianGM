@@ -56,7 +56,13 @@ Skills: Intimidate +6, Knowledge (religion) +4, Perception +13, Stealth +18, Sur
 RacialMods: 
 Languages: Aklo, Undercommon
 SQ: amphibious, cold vigor, overwhelming
-SpecialAbilities: Black Bile (Su) A charda's body seethes with freezing black bile. Its supernaturally cold, black bile is the source of the additional cold damage when a charda bites a creature. As a standard action, a charda can expel its full store of bile as a breath weapon that can take the form of a 60-foot line or a 30-foot cone. All creatures in this area take 8d6 points of cold damage (DC 18 Reflex half ). A charda can use this breath weapon once every 1d4 rounds-while its black bile is recharging, it does not deal additional cold damage with its bite. The save DC is Constitution-based.  Cold Vigor (Ex) When a charda is in a cold environment, it becomes more animated and gains a +1 racial bonus on attack rolls and weapon damage rolls.  Overwhelming (Ex) A charda gains a +8 racial bonus on bull rush and trip attacks.
+SpecialAbilities:
+  Black Bile (Su): >
+    A charda's body seethes with freezing black bile. Its supernaturally cold, black bile is the source of the additional cold damage when a charda bites a creature. As a standard action, a charda can expel its full store of bile as a breath weapon that can take the form of a 60-foot line or a 30-foot cone. All creatures in this area take 8d6 points of cold damage (DC 18 Reflex half ). A charda can use this breath weapon once every 1d4 rounds-while its black bile is recharging, it does not deal additional cold damage with its bite. The save DC is Constitution-based.
+  Cold Vigor (Ex): >
+    When a charda is in a cold environment, it becomes more animated and gains a +1 racial bonus on attack rolls and weapon damage rolls.
+  Overwhelming (Ex): >
+    A charda gains a +8 racial bonus on bull rush and trip attacks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

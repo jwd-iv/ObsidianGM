@@ -56,7 +56,9 @@ Skills: Climb +14, Diplomacy +14, Intimidate +24, Knowledge (arcana) +11, Knowle
 RacialMods: +8 Stealth
 Languages: Aklo (cannot speak); telepathy 300 ft.
 SQ: compression, no breath
-SpecialAbilities: Wisdom Drain (Su) A creature that takes rend damage from a moon-beast must succeed at a DC 22 Will save or take 1d4 points of Wisdom drain. A moon-beast heals 5 points of damage for each point of Wisdom it drains in this manner. If it drains a victim to  0 Wisdom, the moon-beast gains the effects of a heal spell. The save DC is Constitution-based.
+SpecialAbilities:
+  Wisdom Drain (Su): >
+    A creature that takes rend damage from a moon-beast must succeed at a DC 22 Will save or take 1d4 points of Wisdom drain. A moon-beast heals 5 points of damage for each point of Wisdom it drains in this manner. If it drains a victim to  0 Wisdom, the moon-beast gains the effects of a heal spell. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

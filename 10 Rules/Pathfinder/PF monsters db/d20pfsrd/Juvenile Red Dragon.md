@@ -56,7 +56,9 @@ Skills: Acrobatics +14, Appraise +18,Bluff +18, Fly +15, Intimidate +18, Percept
 RacialMods: 
 Languages: Common, Draconic, Giant
 SQ: 
-SpecialAbilities: Smoke Vision (Ex) A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+SpecialAbilities:
+  Smoke Vision (Ex): >
+    A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
 SpellsKnown: Spells Known (CL 3rd; concentration +5, ranged touch +14)  1st (4/day, 3 remaining) - mage armor, ray of enfeeblement, true strike  0th (at will) - arcane mark, flare (DC 12), mage hand, open/close, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

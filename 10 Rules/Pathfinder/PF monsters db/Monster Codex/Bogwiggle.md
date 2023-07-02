@@ -56,7 +56,11 @@ Skills: Acrobatics +5, Perception +1 (+5 in swamps), Stealth +9 (+17 in swamps),
 RacialMods: +4 Perception in swamps, +8 Stealth in swamps
 Languages: Boggard (can't speak)
 SQ: amphibious, swamp stride
-SpecialAbilities: Sticky Tongue (Ex) A creature hit by a bogwiggle's tongue attack can't move more than 10 feet away from the bogwiggle and takes a -2 penalty to AC as long as the tongue is attached (this penalty does not stack if multiple tongues are attached). The tongue can be removed by succeeding at an opposed Strength check as a standard action or by dealing 2 points of slashing damage to the tongue (AC 11, damage doesn't deplete the bogwiggle's actual hit points). The bogwiggle can't move more than 10 feet away from the target while attached. It can release its tongue's grip as a free action. Like a boggard, a bogwiggle can't pull targets toward it with its tongue.  Swamp Stride (Ex) A bogwiggle can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a bogwiggle normally.
+SpecialAbilities:
+  Sticky Tongue (Ex): >
+    A creature hit by a bogwiggle's tongue attack can't move more than 10 feet away from the bogwiggle and takes a -2 penalty to AC as long as the tongue is attached (this penalty does not stack if multiple tongues are attached). The tongue can be removed by succeeding at an opposed Strength check as a standard action or by dealing 2 points of slashing damage to the tongue (AC 11, damage doesn't deplete the bogwiggle's actual hit points). The bogwiggle can't move more than 10 feet away from the target while attached. It can release its tongue's grip as a free action. Like a boggard, a bogwiggle can't pull targets toward it with its tongue.
+  Swamp Stride (Ex): >
+    A bogwiggle can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a bogwiggle normally.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

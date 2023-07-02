@@ -56,7 +56,9 @@ Skills: Perception +9
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Stampede (Ex) A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample's save DC increases by +2.
+SpecialAbilities:
+  Stampede (Ex): >
+    A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample's save DC increases by +2.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

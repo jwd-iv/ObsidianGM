@@ -56,7 +56,9 @@ Skills: Fly +8, Perception +6 (+10 when using blindsense), Stealth +5
 RacialMods: +4 Perception when using blindsense
 Languages: Undercommon (cannot speak)
 SQ: 
-SpecialAbilities: Screech (Su) Once per day as a standard action, a mobat can produce an ear-splitting screech that stuns non-mobats in a 20-foot-radius burst. All creatures within the area must make a DC 15 Fortitude save or be staggered for 1d3 rounds.  Other mobats and urdefhans (see page 276) are immune to this effect. This is a sonic mind-affecting effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Screech (Su): >
+    Once per day as a standard action, a mobat can produce an ear-splitting screech that stuns non-mobats in a 20-foot-radius burst. All creatures within the area must make a DC 15 Fortitude save or be staggered for 1d3 rounds.  Other mobats and urdefhans (see page 276) are immune to this effect. This is a sonic mind-affecting effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

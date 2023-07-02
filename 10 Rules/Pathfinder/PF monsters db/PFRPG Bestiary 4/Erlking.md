@@ -56,7 +56,11 @@ Skills: Acrobatics +19 (+35 when jumping), Bluff +18, Climb +12, Diplomacy +13, 
 RacialMods: +16 Acrobatics when jumping
 Languages: Common, Elven, Sylvan; speak with animals, speak with plants
 SQ: warrior fey
-SpecialAbilities: Ironwood Mastery (Su) Any ironwood armor an erlking wears gains a +3 enhancement bonus, and any ironwood weapon it wields is treated as a +3 cold iron keen weapon.  Warrior Fey (Ex) An erlking counts as a 20th-level fighter for all abilities and effects requiring fighter levels.
+SpecialAbilities:
+  Ironwood Mastery (Su): >
+    Any ironwood armor an erlking wears gains a +3 enhancement bonus, and any ironwood weapon it wields is treated as a +3 cold iron keen weapon.
+  Warrior Fey (Ex): >
+    An erlking counts as a 20th-level fighter for all abilities and effects requiring fighter levels.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

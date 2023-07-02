@@ -56,7 +56,11 @@ Skills: Intimidate +8, Knowledge (dungeoneering) +5, Knowledge (planes) +8, Know
 RacialMods: 
 Languages: Aklo, Undercommon
 SQ: daemonic pact
-SpecialAbilities: Daemonic Pact (Su) Urdefhans are infused with daemonic energy; as an immediate action, an urdefhan can attempt to allow this energy to consume its soul (50% chance of success per attempt). If it succeeds, the urdefhan dies and releases a 5-foot-radius burst of negative energy that deals 2d6 points of damage (DC 14 Reflex half). The save DC is Con-based.  Strength Damage (Su) An urdefhan's bite drains vitality, turning the skin and muscle around the wound transparent and causing 2 points of Strength damage unless the target succeeds on a DC 14 Fortitude save. The flesh remains transparent until the Strength damage is healed, but this does not have any other effects. The save DC is Constitution-based.
+SpecialAbilities:
+  Daemonic Pact (Su): >
+    Urdefhans are infused with daemonic energy; as an immediate action, an urdefhan can attempt to allow this energy to consume its soul (50% chance of success per attempt). If it succeeds, the urdefhan dies and releases a 5-foot-radius burst of negative energy that deals 2d6 points of damage (DC 14 Reflex half). The save DC is Con-based.
+  Strength Damage (Su): >
+    An urdefhan's bite drains vitality, turning the skin and muscle around the wound transparent and causing 2 points of Strength damage unless the target succeeds on a DC 14 Fortitude save. The flesh remains transparent until the Strength damage is healed, but this does not have any other effects. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

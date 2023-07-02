@@ -56,7 +56,13 @@ Skills: Appraise +21, Bluff +21, Diplomacy +25, Fly -5, Intimidate +25, Knowledg
 RacialMods: 
 Languages: Auran, Celestial, Common, Draconic, Infernal
 SQ: change shape, dogmatic discordance
-SpecialAbilities: Change Shape (Su)A young or older sovereign dragon can assume any humanoid form three times per day as polymorph. Dogmatic Discordance (Su)Good or evil creatures take a -2 penalty when making saving throws against a sovereign dragon's spells, spell-like abilities, breath weapon, and aura. Violent Retort (Ex)When a young or older sovereign dragon takes damage from a melee attack critical hit, it can, as an immediate action, make a claw or tail slap attack against the creature that made the critical hit.
+SpecialAbilities:
+  Change Shape (Su): >
+    A young or older sovereign dragon can assume any humanoid form three times per day as polymorph.
+  Dogmatic Discordance (Su): >
+    Good or evil creatures take a -2 penalty when making saving throws against a sovereign dragon's spells, spell-like abilities, breath weapon, and aura.
+  Violent Retort (Ex): >
+    When a young or older sovereign dragon takes damage from a melee attack critical hit, it can, as an immediate action, make a claw or tail slap attack against the creature that made the critical hit.
 SpellsKnown: Spells Known (CL 3th; concentration +7) 1st (6/day)-charm person (DC 15), color spray (DC 15), true strike 0 (at will)-daze (DC 14), detect magic, ghost sound, read magic, resistance
 SpellsPrepared: 
 SpellDomains: 

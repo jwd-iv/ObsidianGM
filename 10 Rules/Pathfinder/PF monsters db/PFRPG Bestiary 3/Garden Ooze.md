@@ -56,7 +56,13 @@ Skills: Climb +8
 RacialMods: 
 Languages: 
 SQ: camouflage
-SpecialAbilities: Acid (Ex) A garden ooze excretes digestive acid that can dissolve flesh. Creatures made of harder materials or plant matter are immune to the ooze's acid.  Camouflage (Ex) A garden ooze is difficult to spot when it is at rest among plant growth of any type. A DC 15 Perception check is required to notice the ooze is a separate entity and not a diseased portion of the plant it rests upon. The ooze automatically hits with a slam against any creature that fails to notice the ooze and enters its square.  Stink (Ex) Once every 24 hours, a garden ooze can release foul-smelling gases in a 5-foot-radius spread centered on the ooze. The ooze usually does so after it is first injured. The stench of these vapors is overpowering during the first round it exists, causing living creatures within it to become sickened for 1d3 rounds (Fort DC 13 negates). This is a poison effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Acid (Ex): >
+    A garden ooze excretes digestive acid that can dissolve flesh. Creatures made of harder materials or plant matter are immune to the ooze's acid.
+  Camouflage (Ex): >
+    A garden ooze is difficult to spot when it is at rest among plant growth of any type. A DC 15 Perception check is required to notice the ooze is a separate entity and not a diseased portion of the plant it rests upon. The ooze automatically hits with a slam against any creature that fails to notice the ooze and enters its square.
+  Stink (Ex): >
+    Once every 24 hours, a garden ooze can release foul-smelling gases in a 5-foot-radius spread centered on the ooze. The ooze usually does so after it is first injured. The stench of these vapors is overpowering during the first round it exists, causing living creatures within it to become sickened for 1d3 rounds (Fort DC 13 negates). This is a poison effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

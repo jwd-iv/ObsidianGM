@@ -56,7 +56,13 @@ Skills: Climb +8, Perception +8, Stealth +13
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Engulfing Drop (Ex) Though it is a Tiny monster, the hood can drop onto the head of a Medium or smaller creature and make a slam attack as a standard action. If the hood's attack succeeds, it can immediately attempt a grapple check against the target, and if successful, the executioner's hood can constrict.  Strangle (Ex) A grappling executioner's hood entirely covers its opponent's head with an airtight grip. A creature that is grappled by the hood cannot speak or cast spells with verbal components and must hold its breath (see Suffocation, Pathfinder RPG Core Rulebook 445), unless it doesn't speak or breathe through its head. Any attacks against the hood deal half damage to the hood and the other half to the creature that it's strangling.  Susceptible to Alcohol (Ex) Strong alcohol harms the hood. Every quart poured on it deals 1 point of damage. Four quarts of alcohol incapacitates it and forces it to release a grappled target.
+SpecialAbilities:
+  Engulfing Drop (Ex): >
+    Though it is a Tiny monster, the hood can drop onto the head of a Medium or smaller creature and make a slam attack as a standard action. If the hood's attack succeeds, it can immediately attempt a grapple check against the target, and if successful, the executioner's hood can constrict.
+  Strangle (Ex): >
+    A grappling executioner's hood entirely covers its opponent's head with an airtight grip. A creature that is grappled by the hood cannot speak or cast spells with verbal components and must hold its breath (see Suffocation, Pathfinder RPG Core Rulebook 445), unless it doesn't speak or breathe through its head. Any attacks against the hood deal half damage to the hood and the other half to the creature that it's strangling.
+  Susceptible to Alcohol (Ex): >
+    Strong alcohol harms the hood. Every quart poured on it deals 1 point of damage. Four quarts of alcohol incapacitates it and forces it to release a grappled target.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

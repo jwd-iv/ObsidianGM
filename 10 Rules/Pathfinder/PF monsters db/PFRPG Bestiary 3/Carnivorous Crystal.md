@@ -56,7 +56,15 @@ Skills: Climb +14, Stealth +0 (+5 in rocky environs)
 RacialMods: +5 Stealth (+10 in rocky environs)
 Languages: 
 SQ: freeze, split (critical hit from a bludgeoning or sonic attack, 15 hp)
-SpecialAbilities: Brittle (Ex) Bludgeoning and sonic attacks can inflict critical hits on a carnivorous crystal. A successful critical hit from such attacks causes the carnivorous crystal to split, even if the attack causes no damage. The crystal remains immune to precision-based damage, such as damage from sneak attacks.  Crystallize (Ex) A creature entrapped by a carnivorous crystal's attack must succeed at a DC 22 Fortitude save each round or become helpless. If a helpless creature fails this save, it becomes petrified as its body crystallizes. In 1d4 hours, the petrified victim shatters and a new carnivorous crystal emerges from the remains. The save DC is Constitution-based.  Razor Sharp (Ex) A carnivorous crystal's slam attack deals devastating piercing and slashing damage, and threatens a critical hit on a roll of 18, 19, or 20.  Subsonic Hum (Su) An active carnivorous crystal gives off supernatural sonic vibrations. Any living creature starting its turn within this aura must succeed at a DC 22 Fortitude save or be stunned for 1 round. A creature that successfully saves cannot be affected by the same carnivorous crystal's subsonic hum for 24 hours. This is a sonic mind-affecting effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Brittle (Ex): >
+    Bludgeoning and sonic attacks can inflict critical hits on a carnivorous crystal. A successful critical hit from such attacks causes the carnivorous crystal to split, even if the attack causes no damage. The crystal remains immune to precision-based damage, such as damage from sneak attacks.
+  Crystallize (Ex): >
+    A creature entrapped by a carnivorous crystal's attack must succeed at a DC 22 Fortitude save each round or become helpless. If a helpless creature fails this save, it becomes petrified as its body crystallizes. In 1d4 hours, the petrified victim shatters and a new carnivorous crystal emerges from the remains. The save DC is Constitution-based.
+  Razor Sharp (Ex): >
+    A carnivorous crystal's slam attack deals devastating piercing and slashing damage, and threatens a critical hit on a roll of 18, 19, or 20.
+  Subsonic Hum (Su): >
+    An active carnivorous crystal gives off supernatural sonic vibrations. Any living creature starting its turn within this aura must succeed at a DC 22 Fortitude save or be stunned for 1 round. A creature that successfully saves cannot be affected by the same carnivorous crystal's subsonic hum for 24 hours. This is a sonic mind-affecting effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Bluff +12, Diplomacy +14, Intimidate +18, Knowledge (arcana, history) +9
 RacialMods: 
 Languages: Common, Druidic, Elven, Sylvan (can't speak any language); telepathy 100 ft.
 SQ: planar portal
-SpecialAbilities: Planar Portal (Su) Within the split of an irminsul's trunk swirls a large planar portal, a permanent gate that links one plane to another. An irminsul controls whether or not specific creatures can pass through its portal, which grants entrance to a specific location on the linked plane. Those attempting to breach a barred portal must succeed at a DC 26 Fortitude save or be ejected and teleported to a random location on the current plane. If the trespasser successfully saves, it takes 6d6 points of damage and is sickened for 1 minute. The DC for this save is Wisdom-based. Mythic characters can expend uses of mythic power to forcefully pass through the gate, lowering the DC of the saving throw by 5 for each use of mythic power expended in this fashion.
+SpecialAbilities:
+  Planar Portal (Su): >
+    Within the split of an irminsul's trunk swirls a large planar portal, a permanent gate that links one plane to another. An irminsul controls whether or not specific creatures can pass through its portal, which grants entrance to a specific location on the linked plane. Those attempting to breach a barred portal must succeed at a DC 26 Fortitude save or be ejected and teleported to a random location on the current plane. If the trespasser successfully saves, it takes 6d6 points of damage and is sickened for 1 minute. The DC for this save is Wisdom-based. Mythic characters can expend uses of mythic power to forcefully pass through the gate, lowering the DC of the saving throw by 5 for each use of mythic power expended in this fashion.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

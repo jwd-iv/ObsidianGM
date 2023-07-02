@@ -56,7 +56,13 @@ Skills: Acrobatics +13, Climb +22, Stealth +8 (+12 in caverns)
 RacialMods: +4 Stealth in caverns, +8 Acrobatics, +16 Climb
 Languages: Undercommon
 SQ: expert climber
-SpecialAbilities: Expert Climber (Ex) A morlock can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, a morlock is treated as constantly being under a nonmagical version of the spell spider climb, save that it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to Climb checks normally afforded creatures with a climb speed to a +16 racial bonus.  Leap Attack (Ex) As a standard action, a morlock may make a single attack during a jump. It can make this attack at any point along the course of the leap-the start, the end, or while in mid-air. While jumping, a morlock does not provoke attacks of opportunity for leaving a threatened square.  Swarming (Ex) Morlocks dwell and fight in cramped quarters every day of their lives, and as such are quite adept at swarming foes. Up to two morlocks can share the same square at the same time. If two morlocks in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
+SpecialAbilities:
+  Expert Climber (Ex): >
+    A morlock can cling to cave walls and even ceilings as long as the surface has hand- and footholds. In effect, a morlock is treated as constantly being under a nonmagical version of the spell spider climb, save that it cannot cling to smooth surfaces. This ability doubles the normal +8 racial bonus to Climb checks normally afforded creatures with a climb speed to a +16 racial bonus.
+  Leap Attack (Ex): >
+    As a standard action, a morlock may make a single attack during a jump. It can make this attack at any point along the course of the leap-the start, the end, or while in mid-air. While jumping, a morlock does not provoke attacks of opportunity for leaving a threatened square.
+  Swarming (Ex): >
+    Morlocks dwell and fight in cramped quarters every day of their lives, and as such are quite adept at swarming foes. Up to two morlocks can share the same square at the same time. If two morlocks in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

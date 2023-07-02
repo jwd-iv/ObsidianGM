@@ -56,8 +56,13 @@ Skills: Fly +19, Perception +24, Swim +40
 RacialMods: 
 Languages: Aklo, Draconic, Sylvan
 SQ: amphibious
-SpecialAbilities: >
-  Breath Weapon (Su) Once every 1d4 rounds as a standard action, a fjord linnorm can expel a 120-foot line of icy fluid, dealing 16d8 points of cold damage to all creatures struck (Reflex DC 27 for half damage). The freezing liquid quickly hardens to sheets of ice, causing any creature that takes damage to move at only half its normal speed for 1d4 rounds. A DC 27 Strength check made as a full-round action allows a character to break free of the ice before this duration expires. The save DC and Strength check DC are Constitution-based.  Death Curse (Su) Curse of Drowning: save Will DC 26; effect creature can never gain the benefit of water breathing, and if it possesses this ability, loses it as long as it suffers the curse. In addition, the creature can hold its breath only half as long as normal, and whenever the cursed creature holds its breath, it functions as if sickened.  Poison (Ex) Bite-injury; save Fort DC 27; frequency 1/round for 10 rounds; effect 3d6 cold damage and 1d6 Con drain; cure 2 consecutive saves.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Once every 1d4 rounds as a standard action, a fjord linnorm can expel a 120-foot line of icy fluid, dealing 16d8 points of cold damage to all creatures struck (Reflex DC 27 for half damage). The freezing liquid quickly hardens to sheets of ice, causing any creature that takes damage to move at only half its normal speed for 1d4 rounds. A DC 27 Strength check made as a full-round action allows a character to break free of the ice before this duration expires. The save DC and Strength check DC are Constitution-based.
+  Death Curse (Su): >
+    Curse of Drowning: save Will DC 26; effect creature can never gain the benefit of water breathing, and if it possesses this ability, loses it as long as it suffers the curse. In addition, the creature can hold its breath only half as long as normal, and whenever the cursed creature holds its breath, it functions as if sickened.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 27; frequency 1/round for 10 rounds; effect 3d6 cold damage and 1d6 Con drain; cure 2 consecutive saves.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

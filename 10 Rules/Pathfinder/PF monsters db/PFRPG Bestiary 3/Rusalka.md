@@ -56,7 +56,13 @@ Skills: Acrobatics +14, Bluff +24, Diplomacy +15, Escape Artist +18, Knowledge (
 RacialMods: 
 Languages: Common, Sylvan
 SQ: amphibious
-SpecialAbilities: Beckoning Call (Su) As a standard action, a rusalka can sing or speak, causing all non-fey creatures within a 300-foot spread to approach its position as if compelled to do so via a suggestion spell (DC 27 Will negates). A creature that successfully saves is not subject to the same rusalka's beckoning call for 24 hours. When an affected creature begins its turn adjacent to the rusalka, it is dazed for that round. These effects continue as long as the rusalka takes a standard action to maintain the effect, plus 1 additional round. This is a  sonic mind-affecting effect. The save DC is Charisma-based.  Staggering Touch (Su) A creature touched by a rusalka must make a DC 27 Fortitude save or be staggered for 1 round by overwhelming feelings of desire and shame. This is a mind-affecting effect. The save DC is Charisma-based.  Tresses (Su) A rusalka's long hair is strong and capable of making powerful primary natural attacks. When it uses its tresses to grapple an opponent, a rusalka does not gain the grappled condition itself. In addition, a rusalka uses its Charisma modifier in addition to its Strength modifier for all combat maneuver checks made with its tresses.
+SpecialAbilities:
+  Beckoning Call (Su): >
+    As a standard action, a rusalka can sing or speak, causing all non-fey creatures within a 300-foot spread to approach its position as if compelled to do so via a suggestion spell (DC 27 Will negates). A creature that successfully saves is not subject to the same rusalka's beckoning call for 24 hours. When an affected creature begins its turn adjacent to the rusalka, it is dazed for that round. These effects continue as long as the rusalka takes a standard action to maintain the effect, plus 1 additional round. This is a  sonic mind-affecting effect. The save DC is Charisma-based.
+  Staggering Touch (Su): >
+    A creature touched by a rusalka must make a DC 27 Fortitude save or be staggered for 1 round by overwhelming feelings of desire and shame. This is a mind-affecting effect. The save DC is Charisma-based.
+  Tresses (Su): >
+    A rusalka's long hair is strong and capable of making powerful primary natural attacks. When it uses its tresses to grapple an opponent, a rusalka does not gain the grappled condition itself. In addition, a rusalka uses its Charisma modifier in addition to its Strength modifier for all combat maneuver checks made with its tresses.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

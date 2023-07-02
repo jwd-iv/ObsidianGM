@@ -56,8 +56,17 @@ Skills: Stealth +10, Swim +12
 RacialMods: 
 Languages: Aquan
 SQ: amphibious, nocturnal undeath
-SpecialAbilities: >
-  Group Grappler (Ex) A ningyo has a +2 racial bonus on combat maneuver checks. When two or more ningyos are grappling the same creature, each gains a +1 bonus on grapple combat maneuver checks and a +1 bonus on grapple damage rolls.  Nocturnal Undeath (Su) The body of a ningyo never rests peacefully. Every night, an hour after sundown, an intact ningyo corpse animates; its type changes to undead (aquatic), and it gains undead immunities, bonus hit points based on its Charisma instead of Constitution, and the startle ability. At dawn, the undead ningyo becomes a corpse again. An undead ningyo knows when the dawn is coming and attempts to find shelter so it is not discovered as a corpse. A ningyo missing a limb, head, or tail does not animate at night, but can do so if reunited with its missing body part. A ningyo corpse that is burned or torn apart and its pieces scattered does not rise as an undead.  Poison Flesh (Ex) Any creature that bites a ningyo or swallows any part of it becomes poisoned. Ningyo Flesh: Ingested; save Fort DC 12; onset 1 minute; frequency 1/minute for 4 minutes; effect 1d2 Int damage; cure 2 saves.  Startle (Su) If an undead ningyo attacks in the surprise round, its target must attempt a DC 11 Will save. Success means the target is shaken for 1 round; failure means it is frightened for 1d4 rounds. The target can only be affected by that ningyo's startle once every 24 hours. Creatures with 6 or more Hit Dice are immune to this ability. This is a mind-affecting fear effect. The save DC is Charisma-based.  Swarming (Ex) Up to two ningyos can share the same square at the same time. If two ningyos in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
+SpecialAbilities:
+  Group Grappler (Ex): >
+    A ningyo has a +2 racial bonus on combat maneuver checks. When two or more ningyos are grappling the same creature, each gains a +1 bonus on grapple combat maneuver checks and a +1 bonus on grapple damage rolls.
+  Nocturnal Undeath (Su): >
+    The body of a ningyo never rests peacefully. Every night, an hour after sundown, an intact ningyo corpse animates; its type changes to undead (aquatic), and it gains undead immunities, bonus hit points based on its Charisma instead of Constitution, and the startle ability. At dawn, the undead ningyo becomes a corpse again. An undead ningyo knows when the dawn is coming and attempts to find shelter so it is not discovered as a corpse. A ningyo missing a limb, head, or tail does not animate at night, but can do so if reunited with its missing body part. A ningyo corpse that is burned or torn apart and its pieces scattered does not rise as an undead.
+  Poison Flesh (Ex): >
+    Any creature that bites a ningyo or swallows any part of it becomes poisoned. Ningyo Flesh: Ingested; save Fort DC 12; onset 1 minute; frequency 1/minute for 4 minutes; effect 1d2 Int damage; cure 2 saves.
+  Startle (Su): >
+    If an undead ningyo attacks in the surprise round, its target must attempt a DC 11 Will save. Success means the target is shaken for 1 round; failure means it is frightened for 1d4 rounds. The target can only be affected by that ningyo's startle once every 24 hours. Creatures with 6 or more Hit Dice are immune to this ability. This is a mind-affecting fear effect. The save DC is Charisma-based.
+  Swarming (Ex): >
+    Up to two ningyos can share the same square at the same time. If two ningyos in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,9 @@ Skills: Bluff +10, Escape Artist +10, Knowledge (nature) +9, Perception +17, Per
 RacialMods: +8 Perception, +4 Sleight of Hand
 Languages: Common, Elven, Halfling, Sylvan
 SQ: leprechaun magic
-SpecialAbilities: Leprechaun Magic (Sp) When a leprechaun uses any of its spelllike abilities to deceive, trick, or humiliate a creature (at the GM's discretion), the spell-like ability resolves at caster level 8th rather than 4th. If a leprechaun uses its spell-like abilities in this manner, it has a bonus of +11 on concentration checks.
+SpecialAbilities:
+  Leprechaun Magic (Sp): >
+    When a leprechaun uses any of its spelllike abilities to deceive, trick, or humiliate a creature (at the GM's discretion), the spell-like ability resolves at caster level 8th rather than 4th. If a leprechaun uses its spell-like abilities in this manner, it has a bonus of +11 on concentration checks.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

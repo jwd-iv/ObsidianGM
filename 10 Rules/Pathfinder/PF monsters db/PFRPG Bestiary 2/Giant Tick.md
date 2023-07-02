@@ -56,8 +56,11 @@ Skills: Climb +8, Stealth +8
 RacialMods: +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: >
-  Grab (Ex) A giant tick can grab targets of any size, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with grab possess.  Disease (Ex) Red ache: Bite-injury; save Fort DC 13; onset 1d3 days; frequency 1/day; effect 1d6 Str damage; cure 2 consecutive saves. The DC is Constitution-based.
+SpecialAbilities:
+  Grab (Ex): >
+    A giant tick can grab targets of any size, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with grab possess.
+  Disease (Ex): >
+    Red ache: Bite-injury; save Fort DC 13; onset 1d3 days; frequency 1/day; effect 1d6 Str damage; cure 2 consecutive saves. The DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

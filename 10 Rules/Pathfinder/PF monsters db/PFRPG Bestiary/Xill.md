@@ -56,8 +56,13 @@ Skills: Acrobatics +16, Bluff +12, Intimidate +12, Knowledge (arcana) +14, Knowl
 RacialMods: 
 Languages: Common, Infernal
 SQ: multiweapon mastery, planewalk
-SpecialAbilities: >
-  Implant (Ex) As a standard action, a xill can lay 2d6 eggs in a helpless creature. A xill's eggs hatch in 24 hours, at which point the young consume the host from within, inflicting 1 point of Con damage per hour per young until the host dies. The young then emerge and planewalk to the Ethereal Plane, if possible, to mature. A remove disease spell (or similar effect) rids a victim of all implanted eggs or active young, or they can be cut out one at a time with DC 20 Heal checks (each attempt takes 10 minutes). If a check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient. Multiweapon Mastery (Ex) A xill never takes penalties to an attack roll when fighting with multiple weapons, and treats claws as primary attacks even when also wielding weapons. Planewalk (Su) A xill can shift from the Ethereal Plane to the Material Plane as a move action. Shifting from the Material Plane to the Ethereal Plane takes 2 consecutive full-round actions, during which time the xill is immobile. As a xill fades away, it becomes harder to hit: opponents have a 20% miss chance in the first round and a 50% miss chance in the second. A xill can take a single willing or helpless creature with it when it switches planes.
+SpecialAbilities:
+  Implant (Ex): >
+    As a standard action, a xill can lay 2d6 eggs in a helpless creature. A xill's eggs hatch in 24 hours, at which point the young consume the host from within, inflicting 1 point of Con damage per hour per young until the host dies. The young then emerge and planewalk to the Ethereal Plane, if possible, to mature. A remove disease spell (or similar effect) rids a victim of all implanted eggs or active young, or they can be cut out one at a time with DC 20 Heal checks (each attempt takes 10 minutes). If a check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
+  Multiweapon Mastery (Ex): >
+    A xill never takes penalties to an attack roll when fighting with multiple weapons, and treats claws as primary attacks even when also wielding weapons.
+  Planewalk (Su): >
+    A xill can shift from the Ethereal Plane to the Material Plane as a move action. Shifting from the Material Plane to the Ethereal Plane takes 2 consecutive full-round actions, during which time the xill is immobile. As a xill fades away, it becomes harder to hit: opponents have a 20% miss chance in the first round and a 50% miss chance in the second. A xill can take a single willing or helpless creature with it when it switches planes.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

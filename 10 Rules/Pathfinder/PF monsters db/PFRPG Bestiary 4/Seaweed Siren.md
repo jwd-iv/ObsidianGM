@@ -56,7 +56,17 @@ Skills: Bluff +12, Perception +17, Stealth +17 (+21 in water), Swim +18
 RacialMods: +4 Stealth in water
 Languages: Aklo; tongues
 SQ: false heads, water dependency
-SpecialAbilities: Cacophony (Su) A seaweed siren's noises disrupt spellcasting; casting within 100 feet of a seaweed siren requires a concentration check (DC 15 + the level of the spell being cast). All other concentration checks and Perception checks involving hearing made inside the aura have their DCs increased by 5. A siren can begin or end this ability as a free action. This is a sonic effect.  False Heads (Ex) A seaweed siren's false heads can be severed. To sever a head, an opponent must make a sunder attempt with a slashing weapon targeting the head. A head is considered a separate weapon with hardness 0 and hit points equal to the siren's Hit Dice (typically 16 hp). To sever a head, an opponent must deal enough damage to reduce the head's hit points to 0 or fewer. Severing a head deals an amount of damage to the siren's body equal to the siren's Hit Dice. A siren can't attack with a severed head. A siren with no remaining heads can't use its cacophony ability or its spell-like abilities. Sonic Beams (Su) Each of the siren's false heads can fire a beam at a range of 60 feet, dealing 4d6 points of sonic damage.  Staggering Gaze (Su) Staggered 1d6 rounds, 30 feet, Will DC 22 negates. This is a mind-affecting effect. The save DC is Charisma-based.  Water Dependency (Ex) A seaweed siren can survive out of the water for 1 hour per point of Constitution (typically 22 rounds). Beyond this limit, a seaweed siren begins to suffocate.
+SpecialAbilities:
+  Cacophony (Su): >
+    A seaweed siren's noises disrupt spellcasting; casting within 100 feet of a seaweed siren requires a concentration check (DC 15 + the level of the spell being cast). All other concentration checks and Perception checks involving hearing made inside the aura have their DCs increased by 5. A siren can begin or end this ability as a free action. This is a sonic effect.
+  False Heads (Ex): >
+    A seaweed siren's false heads can be severed. To sever a head, an opponent must make a sunder attempt with a slashing weapon targeting the head. A head is considered a separate weapon with hardness 0 and hit points equal to the siren's Hit Dice (typically 16 hp). To sever a head, an opponent must deal enough damage to reduce the head's hit points to 0 or fewer. Severing a head deals an amount of damage to the siren's body equal to the siren's Hit Dice. A siren can't attack with a severed head. A siren with no remaining heads can't use its cacophony ability or its spell-like abilities.
+  Sonic Beams (Su): >
+    Each of the siren's false heads can fire a beam at a range of 60 feet, dealing 4d6 points of sonic damage.
+  Staggering Gaze (Su): >
+    Staggered 1d6 rounds, 30 feet, Will DC 22 negates. This is a mind-affecting effect. The save DC is Charisma-based.
+  Water Dependency (Ex): >
+    A seaweed siren can survive out of the water for 1 hour per point of Constitution (typically 22 rounds). Beyond this limit, a seaweed siren begins to suffocate.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Acrobatics +21, Bluff +19, Diplomacy +13, Fly +18, Intimidate +16, Knowl
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Infernal; telepathy 50 ft.
 SQ: 
-SpecialAbilities: Writhing Snakes (Ex) When a dorvae succeeds at a grapple check against an opponent, the serpents of its body writhe around the grappled foe, biting wherever they can gain purchase. This deals 2d8 points of piercing damage, and the grappled foe is subject to the dorvae's supernatural poison.  Dorvae Poison (Su) Writhing snakes-injury; save DC 20; frequency 1/round for 12 rounds; effect 1d4 Wis and on the first failed save the target is susceptible to the dorvae's lesser geas no matter its Hit Dice for 24 hours. Cure 3 saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Writhing Snakes (Ex): >
+    When a dorvae succeeds at a grapple check against an opponent, the serpents of its body writhe around the grappled foe, biting wherever they can gain purchase. This deals 2d8 points of piercing damage, and the grappled foe is subject to the dorvae's supernatural poison.
+  Dorvae Poison (Su): >
+    Writhing snakes-injury; save DC 20; frequency 1/round for 12 rounds; effect 1d4 Wis and on the first failed save the target is susceptible to the dorvae's lesser geas no matter its Hit Dice for 24 hours. Cure 3 saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

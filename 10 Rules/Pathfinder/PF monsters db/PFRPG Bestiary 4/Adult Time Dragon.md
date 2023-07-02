@@ -56,7 +56,19 @@ Skills: Diplomacy +26, Fly +15, Knowledge (arcana) +26, Knowledge (geography) +2
 RacialMods: 
 Languages: Common, Draconic, Dwarven, Elven, Sylvan
 SQ: immortal, no breath, read the threads, starflight
-SpecialAbilities: Immortal (Ex) Time dragons age, but don't die from old age.  Read the Threads (Su) A time dragon gains a racial bonus on initiative checks equal to its age category. In addition, a time dragon is immune to the staggered condition.  Alien Presence (Su) A creature that fails its saving throw against a time dragon's alien presence is staggered for 5d6 rounds (or stunned if it has 4 Hit Dice or fewer).  Shifting Breath (Su) Instead of a cone of electricity, an old or older time dragon can use its breath weapon to displace creatures in time. Each creature in the cone must succeed at a Will save or be shifted forward in time a number of rounds equal to 1/2 the dragon's age category (DC equal to breath weapon). For an affected creature, it's as if no time passed. Creatures that succeed at their saves are staggered for 1 round.  Second Chance (Su) Three times per day as an immediate action, an ancient or older time dragon can force a creature (including itself) to reroll any d20 roll. The target must use the result of the second roll.  Time Travel (Su) Up to three times in its life, a great wyrm time dragon can travel to any point in time, taking with it a number of willing creatures equal to its Charisma modifier.
+SpecialAbilities:
+  Immortal (Ex): >
+    Time dragons age, but don't die from old age.
+  Read the Threads (Su): >
+    A time dragon gains a racial bonus on initiative checks equal to its age category. In addition, a time dragon is immune to the staggered condition.
+  Alien Presence (Su): >
+    A creature that fails its saving throw against a time dragon's alien presence is staggered for 5d6 rounds (or stunned if it has 4 Hit Dice or fewer).
+  Shifting Breath (Su): >
+    Instead of a cone of electricity, an old or older time dragon can use its breath weapon to displace creatures in time. Each creature in the cone must succeed at a Will save or be shifted forward in time a number of rounds equal to 1/2 the dragon's age category (DC equal to breath weapon). For an affected creature, it's as if no time passed. Creatures that succeed at their saves are staggered for 1 round.
+  Second Chance (Su): >
+    Three times per day as an immediate action, an ancient or older time dragon can force a creature (including itself) to reroll any d20 roll. The target must use the result of the second roll.
+  Time Travel (Su): >
+    Up to three times in its life, a great wyrm time dragon can travel to any point in time, taking with it a number of willing creatures equal to its Charisma modifier.
 SpellsKnown: Sorcerer Spells Known (CL 7th; concentration +11)  3rd (5/day)-dispel magic, slow (DC 17)  2nd (7/day)-arcane lock, blur, detect thoughts (DC 16)  1st (7/day)-erase, feather fall, identify, mage armor, magic missile  0 (at will)-light, mage hand, message, read magic, 3 more
 SpellsPrepared: 
 SpellDomains: 

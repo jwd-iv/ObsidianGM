@@ -56,7 +56,11 @@ Skills: Acrobatics +11, Fly +8, Perception +14, Stealth +14
 RacialMods: 
 Languages: Abyssal
 SQ: 
-SpecialAbilities: Dust Cloud (Ex) A sabosan gains Hover as a bonus feat, and can use this feat to create a dust cloud even though it is not Large. The resulting dust cloud has only a 30-foot radius.  Fell Shriek (Su) As a standard action, a sabosan can emit a deafening cry in a 30-foot cone. Creatures in this area must make a successful DC 15 Fortitude save or be deafened for 1 minute. Sabosan are immune to this ability. The save DC is Constitution-based.
+SpecialAbilities:
+  Dust Cloud (Ex): >
+    A sabosan gains Hover as a bonus feat, and can use this feat to create a dust cloud even though it is not Large. The resulting dust cloud has only a 30-foot radius.
+  Fell Shriek (Su): >
+    As a standard action, a sabosan can emit a deafening cry in a 30-foot cone. Creatures in this area must make a successful DC 15 Fortitude save or be deafened for 1 minute. Sabosan are immune to this ability. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

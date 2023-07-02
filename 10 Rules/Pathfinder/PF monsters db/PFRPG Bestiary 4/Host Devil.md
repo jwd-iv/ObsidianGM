@@ -56,7 +56,13 @@ Skills: Acrobatics +14 (+10 when jumping), Escape Artist +14, Fly +14, Intimidat
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; telepathy 100 ft.
 SQ: master grappler, shared senses
-SpecialAbilities: Master Grappler (Ex) A magaav can wield a weapon and still attempt grapple checks. While not wielding a weapon, a magaav gains a +4 bonus on grapple checks.  Noxious Breath (Su) Three times per day, as a standard action a magaav can exhale a breath that reeks of pure corruption upon a creature within 5 feet. The target must succeed at a DC 16 Fortitude save or be sickened for 1d4 rounds. Creatures that successfully save cannot be affected by the same magaav's noxious breath for 24 hours. This is a poison effect. The save DC is Constitution-based.  Shared Senses (Su) All magaavs within 100 feet of one another share the same senses. Thus, if one individual perceives something (for example, with a successful Perception check), all others within range are immediately aware of it. Senses are instantly relayed from one magaav to the next, allowing for the senses of a single devil to potentially spread through and inform an entire swarm instantly. It is still possible for a magaav to be flat-footed for other reasons even if other magaavs nearby are not.
+SpecialAbilities:
+  Master Grappler (Ex): >
+    A magaav can wield a weapon and still attempt grapple checks. While not wielding a weapon, a magaav gains a +4 bonus on grapple checks.
+  Noxious Breath (Su): >
+    Three times per day, as a standard action a magaav can exhale a breath that reeks of pure corruption upon a creature within 5 feet. The target must succeed at a DC 16 Fortitude save or be sickened for 1d4 rounds. Creatures that successfully save cannot be affected by the same magaav's noxious breath for 24 hours. This is a poison effect. The save DC is Constitution-based.
+  Shared Senses (Su): >
+    All magaavs within 100 feet of one another share the same senses. Thus, if one individual perceives something (for example, with a successful Perception check), all others within range are immediately aware of it. Senses are instantly relayed from one magaav to the next, allowing for the senses of a single devil to potentially spread through and inform an entire swarm instantly. It is still possible for a magaav to be flat-footed for other reasons even if other magaavs nearby are not.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

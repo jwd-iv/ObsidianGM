@@ -56,7 +56,13 @@ Skills: Acrobatics +10 (+14 jumping), Climb +10, Perception +6
 RacialMods: +14 on Acrobatics checks made to jump
 Languages: 
 SQ: 
-SpecialAbilities: Leap (Ex) A fungal crawler can perform a special kind of pounce attack by jumping into combat. When a fungal crawler charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can follow up with four claw attacks against foes in reach, but it cannot make a bite attack.  Plant Defenses (Ex) A fungal crawler is part plant and shares many of the immunities that plant creatures possess. A fungal crawler is immune to mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning.  Poison (Ex) Bite-injury; save Fort DC 14; frequency 1/ round for 4 rounds; effect 1d2 Str and 1d2 Con; cure 1 save. The save DC is Constitution-based.
+SpecialAbilities:
+  Leap (Ex): >
+    A fungal crawler can perform a special kind of pounce attack by jumping into combat. When a fungal crawler charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can follow up with four claw attacks against foes in reach, but it cannot make a bite attack.
+  Plant Defenses (Ex): >
+    A fungal crawler is part plant and shares many of the immunities that plant creatures possess. A fungal crawler is immune to mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning.
+  Poison (Ex): >
+    Bite-injury; save Fort DC 14; frequency 1/ round for 4 rounds; effect 1d2 Str and 1d2 Con; cure 1 save. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

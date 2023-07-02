@@ -56,7 +56,9 @@ Skills: Diplomacy +28, Fly +20, Heal +16, Intimidate +28, Knowledge (arcana and 
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: 
-SpecialAbilities: Explosive Rebirth (Su) When killed, a star archon explodes in a blinding flash of energy that deals 50 points of damage (half fire, half holy damage) to anything within 100 feet (Reflex DC 29 half). The save DC is Constitution-based. The slain archon reincarnates 1d4 rounds later as an advanced shield archon.  Spells Star archons cast divine spells as 19th-level clerics. They do not gain access to domains or other cleric abilities.
+SpecialAbilities:
+  Explosive Rebirth (Su): >
+    When killed, a star archon explodes in a blinding flash of energy that deals 50 points of damage (half fire, half holy damage) to anything within 100 feet (Reflex DC 29 half). The save DC is Constitution-based. The slain archon reincarnates 1d4 rounds later as an advanced shield archon.  Spells Star archons cast divine spells as 19th-level clerics. They do not gain access to domains or other cleric abilities.
 SpellsKnown: 
 SpellsPrepared: Cleric Spells Prepared (CL 19th; concentration +26)   9th-implosion (DC 26), mass heal, miracle   8th-dimensional lock, fire storm (DC 25), holy aura (DC 25)   7th-destruction (2, DC 24), holy word (2, DC 24), resurrection   6th-greater dispel magic, heal, mass cure moderate wounds (3)   5th-break enchantment (2), breath of life (2), flame strike (DC 22)   4th-cure critical wounds (3), death ward, divine power   3rd-cure serious wounds (3), dispel magic (2), invisibility purge   2nd-cure moderate wounds (4), eagle's splendor, status   1st-cure light wounds (4), divine favor, sanctuary (DC 18)   0-guidance, resistance, stabilize, virtue
 SpellDomains: 

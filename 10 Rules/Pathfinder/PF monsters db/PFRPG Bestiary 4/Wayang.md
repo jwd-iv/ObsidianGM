@@ -56,7 +56,9 @@ Skills: Craft (alchemy) +7, Knowledge (arcana) +7, Perception +2, Spellcraft +7,
 RacialMods: +2 Perception, +2 Stealth
 Languages: Abyssal, Common, Draconic, Goblin, Wayang
 SQ: arcane bond (amulet), extended illusions +1 round, light and dark, shadow magic
-SpecialAbilities: Light and Dark (Su) Once per day as an immediate action, a wayang can choose to be affected by positive and negative energy effects as if it were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute.
+SpecialAbilities:
+  Light and Dark (Su): >
+    Once per day as an immediate action, a wayang can choose to be affected by positive and negative energy effects as if it were an undead creature, taking damage from positive energy and healing damage from negative energy. This ability lasts for 1 minute.
 SpellsKnown: 
 SpellsPrepared: Illusionist Spells Prepared (CL 1st; concentration +4)  1st-hypnotism (DC 14), silent image (DC 14), vanishAPG  0 (at will)-detect magic, ghost sound (DC 13), read magic
 SpellDomains: 

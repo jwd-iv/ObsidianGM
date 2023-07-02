@@ -56,7 +56,13 @@ Skills: Acrobatics +8, Climb +9, Knowledge (planes) +7, Perception +7, Sense Mot
 RacialMods: +4 Stealth in sand
 Languages: Terran
 SQ: compression, sand form
-SpecialAbilities: Sand Form (Su) As a standard action, a sandman can cause its humanoid form to collapse into a pile of animated sand.  In this form, treat the sandman as if it were a Small earth elemental made out of sand. The sandman retains its compression and sleep aura abilities when in sand form, but loses its sleep attack and its damage reduction, as its sandy body in this form is much more compact and easier to scatter with solid weapon blows.  Sleep (Su) A creature struck by a sandman's slam attack must succeed on a DC 14 Will save or immediately fall asleep, as if affected by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this ability. The save DC is Constitution-based.  Sleep Aura (Su) A sandman radiates a 20-foot-radius spread that puts creatures to sleep. Any creature in the area must succeed on a DC 14 Will save or fall asleep, as if affected by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this ability. A creature that successfully saves is immune to that sandman's sleep aura for 24 hours. The save DC is Constitution-based.
+SpecialAbilities:
+  Sand Form (Su): >
+    As a standard action, a sandman can cause its humanoid form to collapse into a pile of animated sand.  In this form, treat the sandman as if it were a Small earth elemental made out of sand. The sandman retains its compression and sleep aura abilities when in sand form, but loses its sleep attack and its damage reduction, as its sandy body in this form is much more compact and easier to scatter with solid weapon blows.
+  Sleep (Su): >
+    A creature struck by a sandman's slam attack must succeed on a DC 14 Will save or immediately fall asleep, as if affected by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this ability. The save DC is Constitution-based.
+  Sleep Aura (Su): >
+    A sandman radiates a 20-foot-radius spread that puts creatures to sleep. Any creature in the area must succeed on a DC 14 Will save or fall asleep, as if affected by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this ability. A creature that successfully saves is immune to that sandman's sleep aura for 24 hours. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

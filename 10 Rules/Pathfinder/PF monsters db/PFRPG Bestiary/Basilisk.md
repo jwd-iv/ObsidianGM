@@ -56,7 +56,9 @@ Skills: Perception +10, Stealth +10
 RacialMods: +4 Stealth
 Languages: 
 SQ: 
-SpecialAbilities: Gaze (Ex) Turn to stone permanently (as flesh to stone), range 30 feet, Fortitude DC 15 negates. A creature petrified in this matter that is then coated (not just splashed) with fresh basilisk blood (taken from a basilisk no more than 1 hour dead) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner.  The save DC is Constitution-based.
+SpecialAbilities:
+  Gaze (Ex): >
+    Turn to stone permanently (as flesh to stone), range 30 feet, Fortitude DC 15 negates. A creature petrified in this matter that is then coated (not just splashed) with fresh basilisk blood (taken from a basilisk no more than 1 hour dead) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner.  The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

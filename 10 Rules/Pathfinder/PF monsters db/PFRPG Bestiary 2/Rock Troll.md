@@ -56,7 +56,9 @@ Skills: Climb +11, Intimidate +10, Perception +6
 RacialMods: 
 Languages: Giant
 SQ: 
-SpecialAbilities: Sunlight Petrification (Ex) A rock troll that is exposed to natural sunlight is staggered and must make a DC 20 Fortitude save each round to resist permanently turning to stone. A stone to flesh spell (or similar effect) restores a petrified rock troll, but if it remains exposed to sunlight, it must immediately start making new Fortitude saves to avoid petrification. Spells like sunray or sunburst that create powerful natural sunlight cannot petrify a rock troll, but the troll is staggered for 1d4 rounds after being exposed to such an effect.
+SpecialAbilities:
+  Sunlight Petrification (Ex): >
+    A rock troll that is exposed to natural sunlight is staggered and must make a DC 20 Fortitude save each round to resist permanently turning to stone. A stone to flesh spell (or similar effect) restores a petrified rock troll, but if it remains exposed to sunlight, it must immediately start making new Fortitude saves to avoid petrification. Spells like sunray or sunburst that create powerful natural sunlight cannot petrify a rock troll, but the troll is staggered for 1d4 rounds after being exposed to such an effect.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

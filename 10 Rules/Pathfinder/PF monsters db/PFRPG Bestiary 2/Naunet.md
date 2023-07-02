@@ -56,7 +56,13 @@ Skills: Acrobatics +15, Fly +9, Intimidate +14, Perception +15, Stealth +11, Sur
 RacialMods: 
 Languages: Abyssal, Protean
 SQ: change shape (polymorph)
-SpecialAbilities: Adaptive Strike (Su) A naunet's natural weapons count as magical and chaotic for the purposes of overcoming damage reduction. As a free action once per round, a naunet may infuse all of its natural attacks with adamantine, silver, or cold iron, thereby allowing it to overcome damage reduction of those types as well.  Coalesce Chaos (Su) Once per day as a standard action, three or more naunets working together can create a roiling cloud of multicolored chaos matter. This effect is identical to solid fog (CL 12th) and lasts for 2d6 rounds. If six or more naunets are present, the coalesced chaos instead functions as acid fog (CL 12th).  Confusion (Su) A creature struck by a naunet's tentacle attack is infused with raw chaos, and must make a DC 19 Will save or be confused for 1 round. Rounds of confusion dealt in this manner stack. A creature with a chaotic component to its alignment gains a +4 bonus on saves against this effect, and creatures with the chaotic subtype are immune. This is a mind-affecting effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Adaptive Strike (Su): >
+    A naunet's natural weapons count as magical and chaotic for the purposes of overcoming damage reduction. As a free action once per round, a naunet may infuse all of its natural attacks with adamantine, silver, or cold iron, thereby allowing it to overcome damage reduction of those types as well.
+  Coalesce Chaos (Su): >
+    Once per day as a standard action, three or more naunets working together can create a roiling cloud of multicolored chaos matter. This effect is identical to solid fog (CL 12th) and lasts for 2d6 rounds. If six or more naunets are present, the coalesced chaos instead functions as acid fog (CL 12th).
+  Confusion (Su): >
+    A creature struck by a naunet's tentacle attack is infused with raw chaos, and must make a DC 19 Will save or be confused for 1 round. Rounds of confusion dealt in this manner stack. A creature with a chaotic component to its alignment gains a +4 bonus on saves against this effect, and creatures with the chaotic subtype are immune. This is a mind-affecting effect. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 
