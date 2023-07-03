@@ -56,7 +56,11 @@ Skills: Acrobatics +10, Bluff +11, Diplomacy +11, Fly +16, Knowledge (any one) +
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: traveler's friend
-SpecialAbilities: Starlight Blast (Su) As a standard action once every 1d4 rounds, a lyrakien can tap into the divine power of Elysium, unleashing a blast of holy starlight in a 5-foot burst. All creatures in this area take 1d4 points of holy damage, plus 1 point for each step their alignment deviates from chaotic good. For example, a chaotic neutral or neutral good creature would take 1d4+1 points of damage, a neutral creature would take 1d4+2 points of damage, and a lawful evil creature would take 1d4+4 points of damage. A DC 12 Reflex save negates this damage. Chaotic good creatures are unaffected by this ability. The save DC is Constitution-based.  Traveler's Friend (Su) The performances and company of a lyrakien ease the burden of travel. Once per day, a creature may spend a minute listening to a lyrakien's performance- doing so removes the effects of exhaustion and fatigue from the listener.
+SpecialAbilities:
+  Starlight Blast (Su): >
+    As a standard action once every 1d4 rounds, a lyrakien can tap into the divine power of Elysium, unleashing a blast of holy starlight in a 5-foot burst. All creatures in this area take 1d4 points of holy damage, plus 1 point for each step their alignment deviates from chaotic good. For example, a chaotic neutral or neutral good creature would take 1d4+1 points of damage, a neutral creature would take 1d4+2 points of damage, and a lawful evil creature would take 1d4+4 points of damage. A DC 12 Reflex save negates this damage. Chaotic good creatures are unaffected by this ability. The save DC is Constitution-based.
+  Traveler's Friend (Su): >
+    The performances and company of a lyrakien ease the burden of travel. Once per day, a creature may spend a minute listening to a lyrakien's performance- doing so removes the effects of exhaustion and fatigue from the listener.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

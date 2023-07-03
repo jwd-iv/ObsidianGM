@@ -56,7 +56,9 @@ Skills: Handle Animal +8, Perception +12
 RacialMods: +4 on Perception
 Languages: pidgin of Giant, Goblin, and Orc
 SQ: 
-SpecialAbilities: Superior Two-Weapon Fighting (Ex) An ettin fights with a flail or javelin in each hand. Because each of its two heads controls an arm, the ettin does not take a penalty on attack or damage rolls for attacking with two weapons. Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night. Their two heads provide them with unparalleled powers of perception, making them excellent guards.
+SpecialAbilities:
+  Superior Two-Weapon Fighting (Ex): >
+    An ettin fights with a flail or javelin in each hand. Because each of its two heads controls an arm, the ettin does not take a penalty on attack or damage rolls for attacking with two weapons. Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night. Their two heads provide them with unparalleled powers of perception, making them excellent guards.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

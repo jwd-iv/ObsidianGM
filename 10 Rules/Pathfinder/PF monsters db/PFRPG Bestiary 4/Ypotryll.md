@@ -56,7 +56,9 @@ Skills: Acrobatics +6 (+18 when jumping), Perception +12, Survival +4, Swim +23
 RacialMods: +12 Acrobatics when jumping, +4 Swim
 Languages: 
 SQ: bloody-minded
-SpecialAbilities: Bloody-Minded (Ex) A ypotryll is not easily swayed from its bloody business. It gains a +6 bonus on saves against charm and compulsion effects.
+SpecialAbilities:
+  Bloody-Minded (Ex): >
+    A ypotryll is not easily swayed from its bloody business. It gains a +6 bonus on saves against charm and compulsion effects.
   Destructive Charge (Ex): >
     A ypotryll's charge attack ignores up to 1 point of a target object's hardness for each 5 feet charged.
   Thundering Path (Ex): >

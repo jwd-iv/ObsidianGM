@@ -56,7 +56,11 @@ Skills: Swim +16
 RacialMods: 
 Languages: 
 SQ: compression
-SpecialAbilities: Electricity Blast (Ex) Once every 1d6 rounds as a standard action, a sapphire jellyfish can discharge a 20-foot-radius blast of electricity, dealing 8d6 points of electricity damage (DC 23 Reflex half). Any creature that takes damage from this electricity must also make a DC 23 Fortitude save or be staggered for 1d4 rounds. The save DC is Constitution-based  Poison (Ex) Tentacle-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d4 Dex and 1d4 Con; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Electricity Blast (Ex): >
+    Once every 1d6 rounds as a standard action, a sapphire jellyfish can discharge a 20-foot-radius blast of electricity, dealing 8d6 points of electricity damage (DC 23 Reflex half). Any creature that takes damage from this electricity must also make a DC 23 Fortitude save or be staggered for 1d4 rounds.
+  The save DC is Constitution-based  Poison (Ex): >
+    Tentacle-injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d4 Dex and 1d4 Con; cure 2 consecutive saves. The save DC is Constitution-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,13 @@ Skills: Climb +28, Escape Artist +19, Perception +17, Stealth +18
 RacialMods: 
 Languages: Aklo; telepathy 100 ft.
 SQ: swift strike
-SpecialAbilities: Channel Negative Energy (Su) As a standard action,  a hollow serpent can channel negative energy in a 30-foot burst as a 16th-level evil cleric. This ability requires no divine focus. The save DC is Charisma-based.  Desiccation Aura (Su) A cloud of moisture-draining dust fills the air in a 30-foot radius around a hollow serpent. Living creatures within this area must make a DC 26 Fortitude save or take 1d6 points of Strength damage as water is leached from their flesh. Whether or not the save is successful, a creature cannot be affected again by the same hollow serpent's desiccation aura for 24 hours. Creatures without fleshy bodies are immune to this aura, while creatures with the aquatic or water subtypes take a -4 penalty on the saving throw. The save DC is Charisma-based.  Life-Draining Coils (Su) A hollow serpent seethes with negative energy capable of sapping the life force of creatures trapped within its coils. Every time a creature takes constriction damage from a hollow serpent, it gains one negative level. The hollow serpent also gains 5 temporary hit points for each negative level it bestows.
+SpecialAbilities:
+  Channel Negative Energy (Su): >
+    As a standard action,  a hollow serpent can channel negative energy in a 30-foot burst as a 16th-level evil cleric. This ability requires no divine focus. The save DC is Charisma-based.
+  Desiccation Aura (Su): >
+    A cloud of moisture-draining dust fills the air in a 30-foot radius around a hollow serpent. Living creatures within this area must make a DC 26 Fortitude save or take 1d6 points of Strength damage as water is leached from their flesh. Whether or not the save is successful, a creature cannot be affected again by the same hollow serpent's desiccation aura for 24 hours. Creatures without fleshy bodies are immune to this aura, while creatures with the aquatic or water subtypes take a -4 penalty on the saving throw. The save DC is Charisma-based.
+  Life-Draining Coils (Su): >
+    A hollow serpent seethes with negative energy capable of sapping the life force of creatures trapped within its coils. Every time a creature takes constriction damage from a hollow serpent, it gains one negative level. The hollow serpent also gains 5 temporary hit points for each negative level it bestows.
   Lifesense (Su): >
     A hollow serpent notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability.
   Swift Strike (Ex): >

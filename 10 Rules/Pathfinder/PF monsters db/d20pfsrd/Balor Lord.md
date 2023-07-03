@@ -56,7 +56,11 @@ Skills: Acrobatics +31, Bluff +37, Diplomacy +37, Fly +36, Intimidate +37, Knowl
 RacialMods: +8 Perception
 Languages: Abyssal, Celestial, Draconic; telepathy 100 ft.
 SQ: death throes, fast movement, lifedrinker, vorpal strike, whip mastery
-SpecialAbilities: Rage (Ex)This balor lord can rage for 27 rounds per day, and gains +4 to Strength and Constitution, and -2 to AC Knockback (Ex)Once per round, the balor lord can make a bull rush attempt against one target in place of a melee attack. If successful, the target takes damage equal to the lords's Strength modifier and is moved back as normal. The balor lord does not need to move with the target if successful. This does not provoke an attack of opportunity.
+SpecialAbilities:
+  Rage (Ex): >
+    This balor lord can rage for 27 rounds per day, and gains +4 to Strength and Constitution, and -2 to AC.
+  Knockback (Ex): >
+    Once per round, the balor lord can make a bull rush attempt against one target in place of a melee attack. If successful, the target takes damage equal to the lords's Strength modifier and is moved back as normal. The balor lord does not need to move with the target if successful. This does not provoke an attack of opportunity.
   Scent (Ex): >
     The balor lord gains the scent ability while raging and can use this ability to locate unseen foes.
   Death Throes (Su): >

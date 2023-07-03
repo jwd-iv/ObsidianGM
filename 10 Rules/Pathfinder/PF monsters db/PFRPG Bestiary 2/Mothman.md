@@ -56,7 +56,11 @@ Skills: Fly +20, Knowledge (any two) +12, Perception +16, Sense Motive +13, Spel
 RacialMods: 
 Languages: Common, Sylvan, Undercommon (can't speak); telepathy 100 ft.
 SQ: 
-SpecialAbilities: Agent of Fate (Sp) A mothman may recreate the effects of any spell of 5th level or lower once per day as a spell-like ability, but only if doing so steers the flow of fate in its proper course. What the proper flow of fate entails is determined by the GM. Typical uses of this ability include casting major image to coax someone to a portentous location, casting raise dead to return someone with an important fate to life, or using rusting grasp to weaken a structure and cause some necessary calamity.  Mind-Warping Gaze (Su) Fear, 30 feet, Will DC 18 negates. A creature that fails a save against this attack becomes shaken for 1d6 rounds. A creature currently suffering from a fear effect that fails this save instead takes 1d4 points of Wisdom damage. This is a mind-affecting fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Agent of Fate (Sp): >
+    A mothman may recreate the effects of any spell of 5th level or lower once per day as a spell-like ability, but only if doing so steers the flow of fate in its proper course. What the proper flow of fate entails is determined by the GM. Typical uses of this ability include casting major image to coax someone to a portentous location, casting raise dead to return someone with an important fate to life, or using rusting grasp to weaken a structure and cause some necessary calamity.
+  Mind-Warping Gaze (Su): >
+    Fear, 30 feet, Will DC 18 negates. A creature that fails a save against this attack becomes shaken for 1d6 rounds. A creature currently suffering from a fear effect that fails this save instead takes 1d4 points of Wisdom damage. This is a mind-affecting fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

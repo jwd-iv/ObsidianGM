@@ -56,7 +56,9 @@ Skills: Craft (any one) +31, Diplomacy +32, Fly +32, Knowledge (history) +31, Kn
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: change shape (alter self )
-SpecialAbilities: Spells Solars can cast divine spells as 20th-level clerics. They do not gain access to domains or other cleric abilities.
+SpecialAbilities: 
+  Divine Spellcasting (Sp) : >
+    Solars can cast divine spells as 20th-level clerics. They do not gain access to domains or other cleric abilities.
   Slaying Arrow (Su): >
     A solar's bow needs no ammunition, and automatically creates a slaying arrow of the solar's choice when drawn.
 SpellsKnown: 

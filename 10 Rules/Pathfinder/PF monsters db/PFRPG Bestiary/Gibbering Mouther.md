@@ -56,7 +56,9 @@ Skills: Perception +12, Swim +8
 RacialMods: +4 Perception
 Languages: Aklo
 SQ: 
-SpecialAbilities: All-Around Vision (Ex) A gibbering mouther sees in all directions at once. It cannot be flanked.
+SpecialAbilities:
+  All-Around Vision (Ex): >
+    A gibbering mouther sees in all directions at once. It cannot be flanked.
   Amorphous (Ex): >
     A gibbering mouther's body is malleable and shapeless. It is immune to precision damage (like sneak attacks) and critical hits, and can move through an area as small as one-quarter its space without squeezing or oneeighth its space when squeezing.
   Blood Drain (Ex): >

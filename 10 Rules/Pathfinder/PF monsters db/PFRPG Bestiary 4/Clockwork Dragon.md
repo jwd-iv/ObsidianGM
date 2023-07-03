@@ -56,7 +56,13 @@ Skills: Fly +8, Perception +8, Swim +20
 RacialMods: +8 Fly, +8 Perception
 Languages: 
 SQ: difficult to create, efficient winding, swift reactions
-SpecialAbilities: Adamantine Weapons (Ex) The teeth and claws of a clockwork dragon are made of adamantine and have the qualities of a weapon made from that material.  Efficient Winding (Ex) Built for long and dangerous missions, a clockwork dragon can function for 3 days per Hit Die each time it's wound.  Self-Destruction (Ex) When a clockwork dragon's hit points are reduced to 10% of its total (17 in the case of most clockwork dragons) or less but are still above 0, the creature self-destructs on its next turn, bursting into an explosion of metal scraps and steam that deals 10d6 points of slashing damage plus 10d6 points of fire damage to all creatures within a 20-foot-radius burst. A successful DC 22 Reflex save halves the damage. The save is Charisma-based.
+SpecialAbilities:
+  Adamantine Weapons (Ex): >
+    The teeth and claws of a clockwork dragon are made of adamantine and have the qualities of a weapon made from that material.
+  Efficient Winding (Ex): >
+    Built for long and dangerous missions, a clockwork dragon can function for 3 days per Hit Die each time it's wound.
+  Self-Destruction (Ex): >
+    When a clockwork dragon's hit points are reduced to 10% of its total (17 in the case of most clockwork dragons) or less but are still above 0, the creature self-destructs on its next turn, bursting into an explosion of metal scraps and steam that deals 10d6 points of slashing damage plus 10d6 points of fire damage to all creatures within a 20-foot-radius burst. A successful DC 22 Reflex save halves the damage. The save is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

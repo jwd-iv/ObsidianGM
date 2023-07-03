@@ -56,7 +56,9 @@ Skills: Perception +8, Stealth +12, Swim +14
 RacialMods: 
 Languages: 
 SQ: amphibious  Languages Aklo
-SpecialAbilities: Blood-Freezing Howl (Su) As a standard action, a voonith can unleash a bloodcurdling howl. All creatures within a 30-foot-radius burst must succeed at a DC 15 Will save or become dazed for 1 round and then shaken for an additional 1d6 rounds. Any creature that makes a successful save against a voonith's howl is immune to the same voonith's howl for 24 hours. This is a sonic mind-affecting fear effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Blood-Freezing Howl (Su): >
+    As a standard action, a voonith can unleash a bloodcurdling howl. All creatures within a 30-foot-radius burst must succeed at a DC 15 Will save or become dazed for 1 round and then shaken for an additional 1d6 rounds. Any creature that makes a successful save against a voonith's howl is immune to the same voonith's howl for 24 hours. This is a sonic mind-affecting fear effect. The save DC is Charisma-based.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

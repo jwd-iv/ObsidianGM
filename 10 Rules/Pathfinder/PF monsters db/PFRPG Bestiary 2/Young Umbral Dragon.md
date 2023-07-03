@@ -56,7 +56,21 @@ Skills: Bluff +17, Diplomacy +17, Fly +9, Knowledge (arcana) +17, Knowledge (loc
 RacialMods: 
 Languages: Abyssal, Common, Draconic, Undercommon
 SQ: ghost bane, umbral scion
-SpecialAbilities: Breath Weapon (Su) Although it deals negative energy damage, an umbral dragon's breath weapon does not heal undead creatures.  Create Shadows (Su) Any creature slain by an ancient or older umbral dragon rises as a shadow (if 8 HD or less) or greater shadow (if above 8 HD) under the umbral dragon's control 1d4 rounds later.  Energy Drain (Su) A great wyrm umbral dragon deals 1 negative level with each successful bite or claw attack (1 level, DC 32).  Ghost Bane (Su) A young or older umbral dragon's physical attacks deal damage to incorporeal creatures normally.  Umbral Scion (Ex) Umbral dragons have negative energy affinity and are immune to energy drain and death effects.  Shadow Breath (Su) Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.  Spell-Like Abilities (Sp) An umbral dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Young-darkness; Juvenile- vampiric touch; Adult-shadow walk; Old-project image; Ancient-finger of death (3/day), Great wyrm-shades.
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Although it deals negative energy damage, an umbral dragon's breath weapon does not heal undead creatures.
+  Create Shadows (Su): >
+    Any creature slain by an ancient or older umbral dragon rises as a shadow (if 8 HD or less) or greater shadow (if above 8 HD) under the umbral dragon's control 1d4 rounds later.
+  Energy Drain (Su): >
+    A great wyrm umbral dragon deals 1 negative level with each successful bite or claw attack (1 level, DC 32).
+  Ghost Bane (Su): >
+    A young or older umbral dragon's physical attacks deal damage to incorporeal creatures normally.
+  Umbral Scion (Ex): >
+    Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
+  Shadow Breath (Su): >
+    Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
+  Spell-Like Abilities (Sp): >
+    An umbral dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Young-darkness; Juvenile- vampiric touch; Adult-shadow walk; Old-project image; Ancient-finger of death (3/day), Great wyrm-shades.
 SpellsKnown: Spells Known (CL 1st; concentration +4)  1st (4/day)-inflict light wounds (DC 14), shield  0 (at will)-bleed (DC 13), detect magic, detect poison, read magic
 SpellsPrepared: 
 SpellDomains: 

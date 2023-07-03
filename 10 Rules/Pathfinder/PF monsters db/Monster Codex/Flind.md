@@ -56,7 +56,9 @@ Skills: Handle Animal +8, Intimidate +5, Perception +6
 RacialMods: 
 Languages: Common, Gnoll
 SQ: weapon familiarity
-SpecialAbilities: Weapon Familiarity: Flinds are always proficient with flindbars.
+SpecialAbilities:
+  Weapon Familiarity (Ex): >
+    Flinds are always proficient with flindbars.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

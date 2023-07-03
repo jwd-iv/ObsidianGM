@@ -56,7 +56,15 @@ Skills: Bluff +16, Climb +21, Disguise +6, Fly +12, Intimidate +14, Knowledge (d
 RacialMods: 
 Languages: Draconic, Undercommon
 SQ: razor sharp
-SpecialAbilities: Razor Sharp (Sp) All of a crystal dragon's natural attacks deal slashing damage.  Ray Reflection (Ex) An ancient crystal dragon's scales reflect ray spells back upon the ray's source if the ray fails to overcome the dragon's spell resistance.  Scintillating Aura (Su) A great wyrm crystal dragon radiates an aura of scintillating color from its jeweled scales to a radius of 60 feet. All within this area must make a Will save each round to avoid being stunned (if the victim has 15 or fewer Hit Dice) or confused (if the victim has more than 15 Hit Dice) for 1 round. The save DC is equal to the dragon's breath weapon save DC. This is a mind-affecting effect. The dragon can activate or suppress this aura as a free action.  Spell-Like Abilities (Sp) A crystal dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) upon reaching the listed age category. Very young-color spray; Juvenile-glitterdust; Adult-rainbow pattern; Old- stone to flesh (3/day); Ancient-prismatic spray (3/day); Great wyrm-imprisonment (1/day).
+SpecialAbilities:
+  Razor Sharp (Sp): >
+    All of a crystal dragon's natural attacks deal slashing damage.
+  Ray Reflection (Ex): >
+    An ancient crystal dragon's scales reflect ray spells back upon the ray's source if the ray fails to overcome the dragon's spell resistance.
+  Scintillating Aura (Su): >
+    A great wyrm crystal dragon radiates an aura of scintillating color from its jeweled scales to a radius of 60 feet. All within this area must make a Will save each round to avoid being stunned (if the victim has 15 or fewer Hit Dice) or confused (if the victim has more than 15 Hit Dice) for 1 round. The save DC is equal to the dragon's breath weapon save DC. This is a mind-affecting effect. The dragon can activate or suppress this aura as a free action.
+  Spell-Like Abilities (Sp): >
+    A crystal dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) upon reaching the listed age category. Very young-color spray; Juvenile-glitterdust; Adult-rainbow pattern; Old- stone to flesh (3/day); Ancient-prismatic spray (3/day); Great wyrm-imprisonment (1/day).
   Tremorsense (Ex): >
     Crystal dragons do not gain tremorsense until juvenile age (30 ft.), improving at adult (60 ft.) and old (120 ft.).
 SpellsKnown: 

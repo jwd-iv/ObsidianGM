@@ -56,7 +56,15 @@ Skills: Appraise +14, Diplomacy +21, Fly +7, Intimidate +15, Knowledge (planes) 
 RacialMods: 
 Languages: Auran, Draconic
 SQ: 
-SpecialAbilities: Cloud Form (Su) An adult or older cloud dragon can change itself into a cloudy vapor as a swift action for a number of rounds per day equal to its Hit Dice. This ability functions as gaseous form but the dragon's fly speed is unchanged.  Cloud Breath (Su) A great wyrm cloud dragon's breath weapon creates a cloud that persists in its cone shape for 1d4 rounds. Treat this cloud as a fog cloud that deals electricity damage equal to half the dragon's breath weapon damage to any creature that ends its turn still within the cloud (Reflex save halves the damage-DC equals the dragon's breath weapon save DC).  Mist Vision (Su) A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.  Spell-Like Abilities (Sp) A cloud dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young-obscuring mist; Young-fog cloud; Adult-solid fog; Old-cloudkill (3/day); Ancient-wind walk; Great wyrm-storm of vengeance (1/day).
+SpecialAbilities:
+  Cloud Form (Su): >
+    An adult or older cloud dragon can change itself into a cloudy vapor as a swift action for a number of rounds per day equal to its Hit Dice. This ability functions as gaseous form but the dragon's fly speed is unchanged.
+  Cloud Breath (Su): >
+    A great wyrm cloud dragon's breath weapon creates a cloud that persists in its cone shape for 1d4 rounds. Treat this cloud as a fog cloud that deals electricity damage equal to half the dragon's breath weapon damage to any creature that ends its turn still within the cloud (Reflex save halves the damage-DC equals the dragon's breath weapon save DC).
+  Mist Vision (Su): >
+    A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.
+  Spell-Like Abilities (Sp): >
+    A cloud dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young-obscuring mist; Young-fog cloud; Adult-solid fog; Old-cloudkill (3/day); Ancient-wind walk; Great wyrm-storm of vengeance (1/day).
   Thundering Bite (Su): >
     An ancient or older cloud dragon's bite makes a thundering crash whenever it attacks, dealing an additional 2d6 points of sonic damage. A great wyrm's thundering bite deals an additional 4d6 sonic damage.
 SpellsKnown: 

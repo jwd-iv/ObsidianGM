@@ -56,7 +56,9 @@ Skills: Appraise +10, Intimidate +10, Knowledge (dungeonering) +10, Perception +
 RacialMods: +4 Perception
 Languages: Common, Terran
 SQ: 
-SpecialAbilities: All-Around Vision (Ex) A xorn sees in all directions at the same time, giving it a +4 racial bonus on Perception checks. A xorn cannot be flanked.
+SpecialAbilities:
+  All-Around Vision (Ex): >
+    A xorn sees in all directions at the same time, giving it a +4 racial bonus on Perception checks. A xorn cannot be flanked.
   Earth Glide (Ex): >
     A xorn can glide through any sort of natural earth or stone as easily as a fish swims through water. Its burrowing leaves no sign of its passage nor hint at its presence to creatures that don't possess tremorsense. A move earth spell cast on an area containing a xorn moves the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
 SpellsKnown: 

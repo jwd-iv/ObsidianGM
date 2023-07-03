@@ -56,7 +56,11 @@ Skills: Bluff +17, Diplomacy +17, Fly +7, Intimidate +17, Knowledge (arcana) +14
 RacialMods: 
 Languages: Common, Draconic, Sylvan
 SQ: multi-headed
-SpecialAbilities: Breath Weapon (Su) Each of a gorynych's heads has its own separate breath weapon. When a gorynych uses its breath weapon, it can breathe with one, two, or all three heads. If the areas of two or more breath weapons overlap, a creature caught in that overlapping area takes a -2 penalty on its Reflex save (or -4 if three breath weapons overlap). Damage done by overlapping breath weapons stacks and is considered to be a single source of fire damage for the purpose of tracking fire resistance.  Regardless of how many heads breathe fire, the gorynych can only use its breath weapon once every 1d4 rounds.  Multi-Headed (Ex) All three of a gorynych's heads can act independently of each other. When it makes a full attack, each head can either bite or use its breath weapon, in any combination (two bites and one breath, three breaths and no bites, and so on).
+SpecialAbilities:
+  Breath Weapon (Su): >
+    Each of a gorynych's heads has its own separate breath weapon. When a gorynych uses its breath weapon, it can breathe with one, two, or all three heads. If the areas of two or more breath weapons overlap, a creature caught in that overlapping area takes a -2 penalty on its Reflex save (or -4 if three breath weapons overlap). Damage done by overlapping breath weapons stacks and is considered to be a single source of fire damage for the purpose of tracking fire resistance.  Regardless of how many heads breathe fire, the gorynych can only use its breath weapon once every 1d4 rounds.
+  Multi-Headed (Ex): >
+    All three of a gorynych's heads can act independently of each other. When it makes a full attack, each head can either bite or use its breath weapon, in any combination (two bites and one breath, three breaths and no bites, and so on).
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

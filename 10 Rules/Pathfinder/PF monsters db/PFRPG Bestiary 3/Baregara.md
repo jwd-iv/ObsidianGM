@@ -56,7 +56,13 @@ Skills: Acrobatics +15, Bluff +14, Climb +27, Diplomacy +11, Intimidate +30, Kno
 RacialMods: 
 Languages: Abyssal, Celestial, Common, Draconic; telepathy 100 ft.
 SQ: 
-SpecialAbilities: Devouring Grapple (Ex) The mouth at the center of a baregara's chest automatically deals 2d8+4 points of damage per round to any creature the baregara successfully grapples. Monstrous Challenge (Su) As a standard action, a baregara can make an Intimidate check to demoralize an opponent. If this check is successful, the baregara surges with power and gains a +4 enhancement bonus to Strength and Constitution for 10 minutes. This ability is usable three times per day. One-Armed Hold (Ex) A baregara's huge arms allow it to initiate and maintain a grapple without the standard -4 penalty for not having both hands free.
+SpecialAbilities:
+  Devouring Grapple (Ex): >
+    The mouth at the center of a baregara's chest automatically deals 2d8+4 points of damage per round to any creature the baregara successfully grapples.
+  Monstrous Challenge (Su): >
+    As a standard action, a baregara can make an Intimidate check to demoralize an opponent. If this check is successful, the baregara surges with power and gains a +4 enhancement bonus to Strength and Constitution for 10 minutes. This ability is usable three times per day.
+  One-Armed Hold (Ex): >
+    A baregara's huge arms allow it to initiate and maintain a grapple without the standard -4 penalty for not having both hands free.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

@@ -56,7 +56,11 @@ Skills: Acrobatics +9, Fly +11, Intimidate +11, Knowledge (history) +9, Knowledg
 RacialMods: 
 Languages: Abyssal, Celestial, Infernal
 SQ: reaper's scythe, spirit touch
-SpecialAbilities: Fear Aura (Su) A creature of fewer than 10 Hit Dice that fails its save (DC 17) against the vanth's fear aura is shaken for as long as it remains within the aura. A creature that succeeds at its save is immune to that vanth's aura for 24 hours. The save DC is Charisma-based.  Reaper's Scythe (Su) Every vanth carries a distinctive adamantine scythe as both a weapon and a symbol of its duty. When the vanth wields its own scythe, the weapon gains a +1 enhancement bonus on attack rolls and damage rolls. As a free action, the vanth can summon its weapon from a personal demiplane or any other location and have it appear in its hands instantly. It can also dismiss its scythe back to its personal demiplane as a free action. If a vanth's scythe is destroyed, it can summon a new one in 24 hours.
+SpecialAbilities:
+  Fear Aura (Su): >
+    A creature of fewer than 10 Hit Dice that fails its save (DC 17) against the vanth's fear aura is shaken for as long as it remains within the aura. A creature that succeeds at its save is immune to that vanth's aura for 24 hours. The save DC is Charisma-based.
+  Reaper's Scythe (Su): >
+    Every vanth carries a distinctive adamantine scythe as both a weapon and a symbol of its duty. When the vanth wields its own scythe, the weapon gains a +1 enhancement bonus on attack rolls and damage rolls. As a free action, the vanth can summon its weapon from a personal demiplane or any other location and have it appear in its hands instantly. It can also dismiss its scythe back to its personal demiplane as a free action. If a vanth's scythe is destroyed, it can summon a new one in 24 hours.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

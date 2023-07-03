@@ -56,7 +56,13 @@ Skills: Acrobatics +10, Climb +11, Intimidate +22, Perception +22, Ride +15, Ste
 RacialMods: 
 Languages: Common
 SQ: stranger's luck
-SpecialAbilities: Pistols (Su) A pale stranger fights with two pistols. A pistol has a range increment of 20 feet and deals both bludgeoning and piercing damage. At a range of up to 20 feet, a pale stranger's pistol attacks resolve as touch attacks. While pistols normally consume bullets and black powder when fired, a pale stranger's pistols supernaturally reload the instant it fires them, allowing the undead to make multiple attacks in a round with the weapons. In addition, any pistol a pale stranger wields functions as a +1 pistol. A pale stranger does not provoke attacks of opportunity when it fires a pistol in melee, and treats pistols as light weapons for the purposes of determining penalties from two-weapon fighting. Further rules for pistols, and firearms in general, can be found in Ultimate Combat.  Stranger's Luck (Su) A pale stranger gains a +3 luck bonus to AC and has no chance of misfire when using firearms.  Stranger's Shot (Ex) As a full-round action, a pale stranger can take careful aim with one of its firearms and take a single, ruinous shot. This single shot always resolves as a touch attack, regardless of the actual range. If the pale stranger threatens a critical hit with this shot, it automatically confirms the critical hit. Regardless of whether the shot is a critical hit or not, it deals +6d6 points of damage.
+SpecialAbilities:
+  Pistols (Su): >
+    A pale stranger fights with two pistols. A pistol has a range increment of 20 feet and deals both bludgeoning and piercing damage. At a range of up to 20 feet, a pale stranger's pistol attacks resolve as touch attacks. While pistols normally consume bullets and black powder when fired, a pale stranger's pistols supernaturally reload the instant it fires them, allowing the undead to make multiple attacks in a round with the weapons. In addition, any pistol a pale stranger wields functions as a +1 pistol. A pale stranger does not provoke attacks of opportunity when it fires a pistol in melee, and treats pistols as light weapons for the purposes of determining penalties from two-weapon fighting. Further rules for pistols, and firearms in general, can be found in Ultimate Combat.
+  Stranger's Luck (Su): >
+    A pale stranger gains a +3 luck bonus to AC and has no chance of misfire when using firearms.
+  Stranger's Shot (Ex): >
+    As a full-round action, a pale stranger can take careful aim with one of its firearms and take a single, ruinous shot. This single shot always resolves as a touch attack, regardless of the actual range. If the pale stranger threatens a critical hit with this shot, it automatically confirms the critical hit. Regardless of whether the shot is a critical hit or not, it deals +6d6 points of damage.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

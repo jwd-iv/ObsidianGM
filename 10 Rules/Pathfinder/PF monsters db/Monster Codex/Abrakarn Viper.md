@@ -56,7 +56,11 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: demon-souled, find master, guard, shield other
-SpecialAbilities: Confusing Critical (Sp) If an abrakarn viper confirms a critical hit against an opponent with its bite attack, the opponent must succeed at a DC 23 Will save or be confused for 1 round (as lesser confusion). The save DC is Charisma-based and includes a +9 racial bonus.  Demon-Souled (Ex) Bound demonic life force animates the viper, giving it the chaotic and evil subtypes.
+SpecialAbilities:
+  Confusing Critical (Sp): >
+    If an abrakarn viper confirms a critical hit against an opponent with its bite attack, the opponent must succeed at a DC 23 Will save or be confused for 1 round (as lesser confusion). The save DC is Charisma-based and includes a +9 racial bonus.
+  Demon-Souled (Ex): >
+    Bound demonic life force animates the viper, giving it the chaotic and evil subtypes.
   Find Master (Su): >
     As long as an abrakarn viper and its diadem are on the same plane, the viper can unerringly find the diadem's wearer (or just the diadem, if it is removed).
   Guard (Ex): >

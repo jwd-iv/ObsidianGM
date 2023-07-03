@@ -56,7 +56,15 @@ Skills: Climb +8, Perception +6, Stealth +6, Survival +3
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Charging Trip (Ex) A festrog that hits with its bite after making a charge attack on all fours can attempt to trip its opponent (+4 bonus). This trip does not provoke attacks of opportunity.  Diseased Pustules (Ex) When a festrog takes damage from a piercing or slashing weapon, some of its boils rupture, squirting the attacker with puslike fluids. The noxious secretions carry a potent contact disease that causes those infected to break out into painful necrotic boils.  Necrotic Boils: Disease-contact; save Fort DC 11; onset 1 day; frequency 1/day; effect 1d4 Con; cure 1 save.  Feed (Su) Every time a festrog makes a successful bite attack, it feeds on its opponent's flesh and gains 5 temporary hit points. The festrog cannot have more than 5 temporary hit points gained by this ability at one time.  Four-Footed Run (Ex) A festrog can run on all fours at speed of 50 feet if it doesn't hold or carry anything in its hands. When running on all fours, it is treated as if it had the Run feat.
+SpecialAbilities:
+  Charging Trip (Ex): >
+    A festrog that hits with its bite after making a charge attack on all fours can attempt to trip its opponent (+4 bonus). This trip does not provoke attacks of opportunity.
+  Diseased Pustules (Ex): >
+    When a festrog takes damage from a piercing or slashing weapon, some of its boils rupture, squirting the attacker with puslike fluids. The noxious secretions carry a potent contact disease that causes those infected to break out into painful necrotic boils.  Necrotic Boils: Disease-contact; save Fort DC 11; onset 1 day; frequency 1/day; effect 1d4 Con; cure 1 save.
+  Feed (Su): >
+    Every time a festrog makes a successful bite attack, it feeds on its opponent's flesh and gains 5 temporary hit points. The festrog cannot have more than 5 temporary hit points gained by this ability at one time.
+  Four-Footed Run (Ex): >
+    A festrog can run on all fours at speed of 50 feet if it doesn't hold or carry anything in its hands. When running on all fours, it is treated as if it had the Run feat.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

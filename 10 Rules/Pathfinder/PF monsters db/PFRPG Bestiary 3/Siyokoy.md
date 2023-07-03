@@ -56,7 +56,11 @@ Skills: Disable Device +16, Escape Artist +7, Intimidate +9, Knowledge (geograph
 RacialMods: 
 Languages: Aquan
 SQ: 
-SpecialAbilities: Stunning Shock (Su) A siyokoy can emit a strong electrical charge from its tail. When it hits a creature with its tail slap, the attack deals 3d6 points of electrical damage and the target must succeed at a DC 22 Fortitude save or be stunned for 1d4 rounds. The save DC is Constitution-based.  Swim-By Attack (Ex) Extremely quick in the water, a siyokoy gains Spring Attack as a bonus feat when swimming.
+SpecialAbilities:
+  Stunning Shock (Su): >
+    A siyokoy can emit a strong electrical charge from its tail. When it hits a creature with its tail slap, the attack deals 3d6 points of electrical damage and the target must succeed at a DC 22 Fortitude save or be stunned for 1d4 rounds. The save DC is Constitution-based.
+  Swim-By Attack (Ex): >
+    Extremely quick in the water, a siyokoy gains Spring Attack as a bonus feat when swimming.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

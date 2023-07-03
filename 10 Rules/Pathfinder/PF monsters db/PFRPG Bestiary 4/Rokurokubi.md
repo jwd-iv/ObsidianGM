@@ -56,7 +56,15 @@ Skills: Bluff +26, Climb +24, Disguise +26, Intimidate +25, Perception +21, Stea
 RacialMods: 
 Languages: Aklo, Common
 SQ: no sleep
-SpecialAbilities: Elongate Neck (Ex) A rokurokubi can stretch her neck from a normal human length up to 20 feet, giving her reach with her bite attack and threatening all squares within that range.  Nightfall Aura (Su) A rokurokubi can create an aura of darkness and silence (CL 12th) with a radius of 15 feet. The rokurokubi is immune to the effects of her aura, and can activate or suppress this ability as a free action. These aura effects can be dispelled as if they were spells.  No Sleep (Ex) A rokurokubi does not need to sleep and is immune to all sleep effects.  Rokurokubi's Curse (Su) Bite-injury; save Will DC 23; frequency 1 day; effect 1 Cha damage and permanently silenced after 4 Cha damage. Fully healing the Cha damage cures the silence. The save DC is Charisma-based.  Spells A rokurokubi casts spells as a 12th-level sorcerer.
+SpecialAbilities:
+  Elongate Neck (Ex): >
+    A rokurokubi can stretch her neck from a normal human length up to 20 feet, giving her reach with her bite attack and threatening all squares within that range.
+  Nightfall Aura (Su): >
+    A rokurokubi can create an aura of darkness and silence (CL 12th) with a radius of 15 feet. The rokurokubi is immune to the effects of her aura, and can activate or suppress this ability as a free action. These aura effects can be dispelled as if they were spells.
+  No Sleep (Ex): >
+    A rokurokubi does not need to sleep and is immune to all sleep effects.
+  Rokurokubi's Curse (Su): >
+    Bite-injury; save Will DC 23; frequency 1 day; effect 1 Cha damage and permanently silenced after 4 Cha damage. Fully healing the Cha damage cures the silence. The save DC is Charisma-based.  Spells A rokurokubi casts spells as a 12th-level sorcerer.
 SpellsKnown: Sorcerer Spells Known (CL 12th; concentration +17)   6th (3)-permanent image (DC 21)   5th (6)-feeblemind (DC 20), nightmare (DC 20)   4th (7)-charm monster (DC 19), confusion (DC 19), locate creature   3rd (7)-dispel magic, fly, keen edge, wind wall   2nd (7)-ghoul touch (DC 17), invisibility, knock, touch of idiocy   1st (8)-charm person (DC 16), disguise self, obscuring mist, shocking grasp, sleep (DC 16)  0 (at will)-arcane mark, detect magic, detect poison, ghost sound (DC 15), mage hand, message, open/close, prestidigitation, read magic
 SpellsPrepared: 
 SpellDomains: 

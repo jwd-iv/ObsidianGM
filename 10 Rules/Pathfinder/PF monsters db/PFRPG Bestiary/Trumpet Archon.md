@@ -56,7 +56,9 @@ Skills: Diplomacy +24, Escape Artist +17, Fly +24, Handle Animal +20, Knowledge 
 RacialMods: 
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: 
-SpecialAbilities: Spells Trumpet archons can cast divine spells as 14th-level clerics. They do not gain access to domains or other cleric abilities.
+SpecialAbilities:
+  Spells (Sp): >
+    Trumpet archons can cast divine spells as 14th-level clerics. They do not gain access to domains or other cleric abilities.
   Trumpet (Su): >
     All creatures except archons within 100 feet of the trumpet's blast must succeed on a DC 19 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Charismabased. The archon can also command its trumpet to become a +4 greatsword as a free action. Out of the archon's hands, it is a chunk of useless metal.
 SpellsKnown: 

@@ -56,7 +56,11 @@ Skills: Craft (any one) +17, Diplomacy +18, Knowledge (planes) +17, Perception +
 RacialMods: 
 Languages: Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
 SQ: change shape (water elemental, humanoid or giant, alter self, elemental body III, or giant form I)
-SpecialAbilities: Water Mastery (Ex) A marid gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the marid is touching the ground, the marid takes a -4 penalty on attack and damage rolls. Water's Fury (Su) As a standard action, a marid can release a jet of water in a 60-foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. A DC 20 Reflex save reduces the damage by half and negates the blinding effect. The save DC is Constitution-based.
+SpecialAbilities:
+  Water Mastery (Ex): >
+    A marid gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the marid is touching the ground, the marid takes a -4 penalty on attack and damage rolls.
+  Water's Fury (Su): >
+    As a standard action, a marid can release a jet of water in a 60-foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. A DC 20 Reflex save reduces the damage by half and negates the blinding effect. The save DC is Constitution-based.
   Vortex (Su): >
     A marid can transform into a vortex of swirling, churning water once every 10 mintues. This ability functions identically to the whirlwind ability (see page 306 for full details on this special attack), save that it can only be used while the marid is underwater; a marid cannot leave a body of water while in vortex form.
 SpellsKnown: 

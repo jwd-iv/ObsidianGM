@@ -56,7 +56,11 @@ Skills: Intimidate +7, Perception +7, Stealth +7, Survival +7
 RacialMods: 
 Languages: Aklo
 SQ: martial proficiency
-SpecialAbilities: Martial Proficiency (Ex) Sinspawn are proficient in all simple and martial weapons, armor, and shields (except tower shields).  Sin-Scent (Su) Sinspawn have scent against creatures whose nature reflects the sinspawn's sin. For example, wrathful sinspawn can scent creatures using rage effects. The GM should adjudicate what creatures a particular sinspawn can scent.
+SpecialAbilities:
+  Martial Proficiency (Ex): >
+    Sinspawn are proficient in all simple and martial weapons, armor, and shields (except tower shields).
+  Sin-Scent (Su): >
+    Sinspawn have scent against creatures whose nature reflects the sinspawn's sin. For example, wrathful sinspawn can scent creatures using rage effects. The GM should adjudicate what creatures a particular sinspawn can scent.
   Sinful Bite (Su): >
     A creature bitten by a sinspawn is overwhelmed with sinful thoughts (DC 12 Will save negates). These emotions are so powerful that the target becomes sickened for 1d6 minutes. An affected target that is bitten a second time is staggered for 1 round if it fails its saving throw. Calm emotions, remove curse, or break enchantment negates the effects of sinful bite. The save DC is Charisma-based. This is a mind-affecting effect.
 SpellsKnown: 

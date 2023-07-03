@@ -56,7 +56,9 @@ Skills: Bluff +10, Disguise +10, Intimidate +13, Perception +16, Stealth +13
 RacialMods: +4 Perception
 Languages: Common
 SQ: 
-SpecialAbilities: All-Around Vision (Ex) A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to Perception checks and cannot be flanked.
+SpecialAbilities:
+  All-Around Vision (Ex): >
+    A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to Perception checks and cannot be flanked.
   Petrifying Gaze (Su): >
     Turn to stone permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.
   Poison (Ex): >

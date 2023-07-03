@@ -56,7 +56,9 @@ Skills: Intimidate +16, Perception +20, Swim +28
 RacialMods: 
 Languages: 
 SQ: 
-SpecialAbilities: Leviathan's Call (Su) The tone of a bakekujira's eerie song varies from that of a wistful memory to a burning hatred. As a standard action, a bakekujira can sing. Living creatures within a 120- foot radius of a singing bakekujira must succeed at a DC 28 Will save or become fascinated or frightened (bakekujira's choice) for 1 round. Any creature that succeeds at this save cannot be affected by the same bakekujira's leviathan's call ability for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+SpecialAbilities:
+  Leviathan's Call (Su): >
+    The tone of a bakekujira's eerie song varies from that of a wistful memory to a burning hatred. As a standard action, a bakekujira can sing. Living creatures within a 120- foot radius of a singing bakekujira must succeed at a DC 28 Will save or become fascinated or frightened (bakekujira's choice) for 1 round. Any creature that succeeds at this save cannot be affected by the same bakekujira's leviathan's call ability for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
   Resonant Song (Su): >
     As a standard action every 1d4 rounds, the bakekujira can release a damaging resonance, dealing 12d8 points of sonic damage to creatures in a 60-foot cone (Fortitude DC 28 for half). The save DC is Charisma-based.
   Smashing Breach (Ex): >

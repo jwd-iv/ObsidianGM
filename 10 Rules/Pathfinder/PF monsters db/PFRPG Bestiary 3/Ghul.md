@@ -56,7 +56,11 @@ Skills: Bluff +10, Climb +18, Diplomacy +7, Disguise +11, Intimidate +11, Percep
 RacialMods: +4 Perception, +8 Survival when following tracks
 Languages: Common, one elemental language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal)
 SQ: change shape (hyena; does not detect as undead in this form; beast shape I), genie-kin
-SpecialAbilities: Cursed Claws (Ex) A ghul's claws count as both cold iron and magic for the purpose of bypassing damage reduction.  Genie-kin (Ex) For all race-related effects (such as a ranger's favored enemy), a ghul is considered a genie even though its type is undead.
+SpecialAbilities:
+  Cursed Claws (Ex): >
+    A ghul's claws count as both cold iron and magic for the purpose of bypassing damage reduction.
+  Genie-kin (Ex): >
+    For all race-related effects (such as a ranger's favored enemy), a ghul is considered a genie even though its type is undead.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

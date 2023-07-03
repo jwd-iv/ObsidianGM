@@ -57,7 +57,11 @@ Skills: Acrobatics +46 (+50 when jumping), Diplomacy +22, Disguise +22, Fly +10,
 RacialMods: 
 Languages: Celestial, Draconic, Infernal, Sylvan; truespeech
 SQ: change shape (any humanoid, alter self), empyreal lord traits, perfect archer, seed of life
-SpecialAbilities: Greater Slaying Arrow (Su) Cernunnos can spend 1 minute crafting any kind of greater slaying arrow (DC 32). He can have only one such arrow at a time, and it only functions for him. The save DC is Charisma-based.  Horned Lord's Charge (Ex) An opponent hit by Cernunnos's powerful charge must succeed at a DC 39 Fort save or be exhausted, sickened, or stunned (Cernunnos's choice) for 1d4 rounds. The save DC is Constitution-based.
+SpecialAbilities:
+  Greater Slaying Arrow (Su): >
+    Cernunnos can spend 1 minute crafting any kind of greater slaying arrow (DC 32). He can have only one such arrow at a time, and it only functions for him. The save DC is Charisma-based.
+  Horned Lord's Charge (Ex): >
+    An opponent hit by Cernunnos's powerful charge must succeed at a DC 39 Fort save or be exhausted, sickened, or stunned (Cernunnos's choice) for 1d4 rounds. The save DC is Constitution-based.
   Lightning Rod (Su): >
     Cernunnos absorbs and negates any electricity effect that targets him or includes him in its area. As an immediate action on his next turn, he can release this energy to grant the shock weapon special ability to all weapons wielded by his allies within 30 feet for 1 round.
   Perfect Archer (Ex): >

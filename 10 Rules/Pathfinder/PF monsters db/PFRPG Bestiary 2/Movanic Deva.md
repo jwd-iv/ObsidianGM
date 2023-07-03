@@ -56,7 +56,9 @@ Skills: Diplomacy +19, Fly +22, Intimidate +19, Knowledge (planes) +18, Knowledg
 RacialMods: +4 Perception
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: 
-SpecialAbilities: Nature's Pacifism (Ex) Animals and plant creatures do not willingly attack a movanic deva, though they can be forced to do so by magic. If the deva attacks a plant or animal, its protection against that creature ends.
+SpecialAbilities:
+  Nature's Pacifism (Ex): >
+    Animals and plant creatures do not willingly attack a movanic deva, though they can be forced to do so by magic. If the deva attacks a plant or animal, its protection against that creature ends.
   Protected Life Force (Ex): >
     Movanic devas are never harmed by positive-dominant or negative-dominant planar traits.
 SpellsKnown: 

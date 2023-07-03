@@ -56,7 +56,9 @@ Skills: Perception +17
 RacialMods: 
 Languages: Common
 SQ: 
-SpecialAbilities: Enticing Head-Fruits (Su) Any creature that begins its turn within 5 feet of a jinmenju must succeed at a DC 22 Will save or be magically compelled to immediately grab a head-fruit and eat it. This is a mind-affecting compulsion effect. A creature that successfully saves is immune to that jinmenju's enticing head-fruits for 24 hours. The save DC is Constitution-based. Anyone who takes a bite out of one suffers from the following effect.  Head-Fruit Poison: Head-fruit-ingested; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d3 Wisdom damage and confused for 1 round; cure 2 consecutive saves. The save DC is Constitution-based.
+SpecialAbilities:
+  Enticing Head-Fruits (Su): >
+    Any creature that begins its turn within 5 feet of a jinmenju must succeed at a DC 22 Will save or be magically compelled to immediately grab a head-fruit and eat it. This is a mind-affecting compulsion effect. A creature that successfully saves is immune to that jinmenju's enticing head-fruits for 24 hours. The save DC is Constitution-based. Anyone who takes a bite out of one suffers from the following effect.  Head-Fruit Poison: Head-fruit-ingested; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d3 Wisdom damage and confused for 1 round; cure 2 consecutive saves. The save DC is Constitution-based.
   Intoxicating Stench (Su): >
     Once per day as a swift action, a jinmenju can cause its fruits to emit an unnaturally sweet aroma in a 60-foot spread for 6 rounds. All creatures within the area must succeed at a DC 22 Will save each round or be captivated. A captivated creature takes no actions except to approach the jinmenju via the most direct route possible. If this path leads it into a dangerous area or the jinmenju attacks it, the captivated creature receives a new saving throw. This is a mind-affecting effect. The save DC is Constitution-based.
   Unsettling Drone (Su): >

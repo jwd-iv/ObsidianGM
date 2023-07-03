@@ -56,7 +56,15 @@ Skills: Diplomacy +12, Fly +12, Heal +12, Knowledge (nature) +13, Perception +12
 RacialMods: 
 Languages: Aquan, Common, Draconic
 SQ: water breathing
-SpecialAbilities: Capsize (Ex) An old or older brine dragon can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher. For each size category larger the ship is than the brine dragon's size, the dragon takes a cumulative -10 penalty on the check.  Desiccating Bite (Su) An ancient brine dragon's bite causes weakness, dealing 1d2 points of Strength drain in addition to its normal damage. A great wyrm's bite deals 1d4 points of Strength drain. A Fortitude save (DC equals the dragon's breath weapon save DC) negates the Strength drain.  Painful Strikes (Su) A great wyrm brine dragon's natural attacks are so laden with salt and acidic crystals that every time it strikes a creature with one of these attacks, the target must make a Fortitude save (DC equals the dragon's breath weapon save DC) or be stunned for a round from the pain.  Spell-like Abilities (Sp) A brine dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) at the listed age. Very young-speak with animals (fish only); Young- obscuring mist; Juvenile-water breathing; Adult-control water; Ancient-horrid wilting (3/day); Great wyrm-tsunami^[This spell is from the Pathfinder RPG Advanced Player's Guide] (3/day).
+SpecialAbilities:
+  Capsize (Ex): >
+    An old or older brine dragon can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher. For each size category larger the ship is than the brine dragon's size, the dragon takes a cumulative -10 penalty on the check.
+  Desiccating Bite (Su): >
+    An ancient brine dragon's bite causes weakness, dealing 1d2 points of Strength drain in addition to its normal damage. A great wyrm's bite deals 1d4 points of Strength drain. A Fortitude save (DC equals the dragon's breath weapon save DC) negates the Strength drain.
+  Painful Strikes (Su): >
+    A great wyrm brine dragon's natural attacks are so laden with salt and acidic crystals that every time it strikes a creature with one of these attacks, the target must make a Fortitude save (DC equals the dragon's breath weapon save DC) or be stunned for a round from the pain.
+  Spell-like Abilities (Sp): >
+    A brine dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) at the listed age. Very young-speak with animals (fish only); Young- obscuring mist; Juvenile-water breathing; Adult-control water; Ancient-horrid wilting (3/day); Great wyrm-tsunami^[This spell is from the Pathfinder RPG Advanced Player's Guide] (3/day).
 SpellsKnown: Spells Known (CL 1st; concentration +2)  1st (4/day)-color spray (DC 12), touch of the sea^[PFRPG Advanced Player's Guide]  0 (at will)-detect magic, mage hand, open/close, prestidigitation
 SpellsPrepared: 
 SpellDomains: 

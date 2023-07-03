@@ -56,7 +56,11 @@ Skills: Acrobatics +0 (+20 when jumping)
 RacialMods: +20 Acrobatics when jumping
 Languages: 
 SQ: uncanny leap
-SpecialAbilities: Disease (Ex) Bite-injury; save Fort DC 11; onset 1d3 days; frequency 1 day; effect 1 Con damage; cure 1 save. The save DC is Constitution-based  Uncanny Leap (Ex) As a full-round action, a giant flea can jump up to 120 feet. A flea can treat this jump as a charge, as long as the leap is made in a straight line.
+SpecialAbilities:
+  Disease (Ex): >
+    Bite-injury; save Fort DC 11; onset 1d3 days; frequency 1 day; effect 1 Con damage; cure 1 save.
+  The save DC is Constitution-based  Uncanny Leap (Ex): >
+    As a full-round action, a giant flea can jump up to 120 feet. A flea can treat this jump as a charge, as long as the leap is made in a straight line.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 

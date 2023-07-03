@@ -56,7 +56,15 @@ Skills: Acrobatics +7, Climb +5, Escape Artist +7, Survival +4
 RacialMods: 
 Languages: Common, Kasatha
 SQ: desert runner, desert stride, jumper, multi-armed, stalker
-SpecialAbilities: Desert Runner (Ex) A kasatha has a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, and other ill effects from running, forced marches, starvation, thirst, and hot or cold environments.  Desert Stride (Ex) A kasatha moves through nonmagical difficult terrain in desert environments at normal speed.  Jumper (Ex) A kasatha is always considered to have a running start when attempting Acrobatics checks to jump.  Multi-Armed (Ex) A kasatha has four arms. One hand is considered its primary hand; all others are considered off hands. It can use any of its hands for other purposes that require free hands.
+SpecialAbilities:
+  Desert Runner (Ex): >
+    A kasatha has a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, and other ill effects from running, forced marches, starvation, thirst, and hot or cold environments.
+  Desert Stride (Ex): >
+    A kasatha moves through nonmagical difficult terrain in desert environments at normal speed.
+  Jumper (Ex): >
+    A kasatha is always considered to have a running start when attempting Acrobatics checks to jump.
+  Multi-Armed (Ex): >
+    A kasatha has four arms. One hand is considered its primary hand; all others are considered off hands. It can use any of its hands for other purposes that require free hands.
   Stalker (Ex): >
     Perception and Stealth are class skills for a kasatha.
 SpellsKnown: 

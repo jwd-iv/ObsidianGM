@@ -56,7 +56,13 @@ Skills: Craft (sculptures) +20, Disguise +16, Knowledge (arcana) +20, Knowledge 
 RacialMods: 
 Languages: Aklo, Common, Draconic
 SQ: soul focus
-SpecialAbilities: Cemented Mind (Ex) A soulbound shell can never change its known or prepared spells.  Soul Focus (Su) The soul bound to the shell lives within a gem inside its chest. As long as this soul focus remains intact, it can be used to animate another shell, at the same cost as creating a new soulbound shell, and retains its personality and memories. A soul focus has hardness 8, 12 hit points, and a break DC of 20.  Spells A spellbound shell casts spells as a 12th-level cleric, witch, or wizard, but does not gain any other class abilities.  Susceptible to Mind-Affecting Effects (Ex) A soulbound shell is not immune to mind-affecting effects.
+SpecialAbilities:
+  Cemented Mind (Ex): >
+    A soulbound shell can never change its known or prepared spells.
+  Soul Focus (Su): >
+    The soul bound to the shell lives within a gem inside its chest. As long as this soul focus remains intact, it can be used to animate another shell, at the same cost as creating a new soulbound shell, and retains its personality and memories. A soul focus has hardness 8, 12 hit points, and a break DC of 20.  Spells A spellbound shell casts spells as a 12th-level cleric, witch, or wizard, but does not gain any other class abilities.
+  Susceptible to Mind-Affecting Effects (Ex): >
+    A soulbound shell is not immune to mind-affecting effects.
 SpellsKnown: 
 SpellsPrepared: Wizard Spells Prepared (CL 12th; concentration +17)   6th-beast shape IV, disintegrate (DC 21)   5th-cloudkill (2, DC 22), dominate person (DC 21), passwall   4th-black tentacles (2), fire shield, shout (DC 19)   3rd-fly, lightning bolt (2, DC 18), stinking cloud (2, DC 20)   2nd-false life (already cast), glitterdust (DC 19), hideous laughter (DC 18), make whole, mirror image   1st-charm person (2, DC 17), expeditious retreat, grease (DC 18), mage armor (already cast), unseen servant   0-acid splash, detect magic, mage hand, read magic
 SpellDomains: 
