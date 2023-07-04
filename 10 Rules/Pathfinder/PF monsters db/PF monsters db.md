@@ -52,6 +52,7 @@ columns:
       - { label: "PFRPG Bestiary 3", value: "PFRPG Bestiary 3", color: "hsl(307, 95%, 90%)"}
       - { label: "PFRPG Bestiary 4", value: "PFRPG Bestiary 4", color: "hsl(84, 95%, 90%)"}
       - { label: "Core Race", value: "Core Race", color: "hsl(254, 95%, 90%)"}
+      - { label: "PFRPG Bestiary 6", value: "PFRPG Bestiary 6", color: "hsl(264, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -1424,7 +1425,7 @@ config:
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: /
+  row_templates_folder: 00 Scripts/Templater
   current_row_template: 
   pagination_size: 25
   font_size: 16
