@@ -1369,7 +1369,7 @@ config:
   enable_footer: false
   implementation: default
   show_metadata_tags: false
-  group_folder_column: 
+  group_folder_column: Type
 filters:
   enabled: false
   conditions:
