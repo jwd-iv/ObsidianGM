@@ -1,6 +1,5 @@
 ---
 File: Human
-URL: 
 Group: 
 aliases: 
 Brief: This lanky man sneers as he draws his sword.

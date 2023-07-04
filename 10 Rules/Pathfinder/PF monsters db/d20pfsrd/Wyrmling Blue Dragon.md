@@ -8,7 +8,7 @@ CR: 5
 XP: 1600
 Alignment: LE
 Size: Small
-Type: Dragon
+Type: dragon
 SubType: (earth)
 Initiative: 6
 Senses: dragon senses, Perception +9

@@ -8,7 +8,7 @@ CR: 10
 XP: 9600
 Alignment: CE
 Size: Large
-Type: Dragon
+Type: dragon
 SubType: (Water)
 Initiative: 5
 Senses: dragon senses; Perception +21

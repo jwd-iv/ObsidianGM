@@ -8,7 +8,7 @@ CR: 11
 XP: 12800
 Alignment: CE
 Size: Large
-Type: Dragon
+Type: dragon
 SubType: (Fire)
 Initiative: 5
 Senses: dragon senses, smoke vision; Perception +18

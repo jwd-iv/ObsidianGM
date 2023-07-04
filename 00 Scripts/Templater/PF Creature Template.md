@@ -1,12 +1,16 @@
 ---
 File: 
-Source: 
-URL: 
-Group: 
 aliases: 
+Copyright: 
+
+# brief
 Brief: 
 CR: 
+MR: 
+Image: 
 XP: 
+Race: 
+Class: 
 Alignment: 
 Size: 
 Type: 
@@ -14,6 +18,8 @@ SubType:
 Initiative: 
 Senses: 
 Aura: 
+
+# defense
 AC: 
 ACMods: 
 HP: 
@@ -29,6 +35,8 @@ Immunities:
 Resist: 
 SR: 
 Weaknesses: 
+
+# offense
 Space: 
 Speed: 
 MoveMods: 
@@ -41,7 +49,8 @@ Melee:
 Reach: 
 Ranged: 
 SpecialAttacks: 
-SpellLikeAbilities: 
+
+# stats
 STR: 
 DEX: 
 CON: 
@@ -56,19 +65,23 @@ Skills:
 RacialMods: 
 Languages: 
 SQ: 
+
+# special
 SpecialAbilities: 
+SpellLikeAbilities: 
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+
+# ecology
+Group: 
 Environment: 
 Temperature: 
 Organization: 
 Treasure: 
+
 Description: 
-Race: 
-Class: 
-MR: 
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
