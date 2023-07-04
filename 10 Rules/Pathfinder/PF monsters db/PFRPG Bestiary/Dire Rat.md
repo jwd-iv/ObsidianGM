@@ -1,7 +1,5 @@
 ---
 File: Dire Rat
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/rodents/rat/dire-rat
 Group: Rat
 aliases: 
 Brief: This filthy rat is the size of a small dog. It has a coat of coarse fur, a long and scabby tail, and two glittering eyes.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/rodents/rat/dire-rat)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

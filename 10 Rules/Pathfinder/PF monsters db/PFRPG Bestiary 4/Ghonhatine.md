@@ -1,6 +1,5 @@
 ---
 File: Ghonhatine
-Source: PFRPG Bestiary 4
 URL: 
 Group: Fleshwarp
 aliases: 
@@ -77,6 +76,8 @@ Description: Troglodytes forced to undergo fleshwarping by the drow, ghonhatines
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Necrophidius
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/necrophidius
 Group: 
 aliases: 
 Brief: The soft scrape of bone reveals the long, sinuous skeleton of a large snake, its head a humanoid skull with a snake's jaws.
@@ -73,6 +71,8 @@ Description: Despite its sinister appearance, the snake-like necrophidius is not
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/necrophidius)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

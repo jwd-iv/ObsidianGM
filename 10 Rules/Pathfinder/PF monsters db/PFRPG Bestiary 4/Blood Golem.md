@@ -1,6 +1,5 @@
 ---
 File: Blood Golem
-Source: PFRPG Bestiary 4
 URL: 
 Group: Golem
 aliases: 
@@ -77,6 +76,8 @@ Description: A blood golem is an animate mass of living blood. It can creep abou
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

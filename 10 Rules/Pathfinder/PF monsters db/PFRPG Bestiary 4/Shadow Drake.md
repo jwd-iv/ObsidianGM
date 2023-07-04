@@ -1,6 +1,5 @@
 ---
 File: Shadow Drake
-Source: PFRPG Bestiary 4
 URL: 
 Group: Drake
 aliases: 
@@ -75,6 +74,8 @@ Description: Shadow drakes are mischievous and greedy. They often use their whip
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

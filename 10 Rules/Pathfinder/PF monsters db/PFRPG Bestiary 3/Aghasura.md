@@ -1,6 +1,5 @@
 ---
 File: Aghasura
-Source: PFRPG Bestiary 3
 URL: 
 Group: Asura
 aliases: 
@@ -77,6 +76,8 @@ Description: Aghasuras, or the poison ones, are massive fiends who have perfecte
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

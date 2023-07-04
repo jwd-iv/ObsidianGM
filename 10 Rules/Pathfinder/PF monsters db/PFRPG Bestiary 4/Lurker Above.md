@@ -1,6 +1,5 @@
 ---
 File: Lurker Above
-Source: PFRPG Bestiary 4
 URL: 
 Group: Lurking Ray
 aliases: 
@@ -71,6 +70,8 @@ Description: Lurkers above are the nearly mindless males of the species, and fol
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

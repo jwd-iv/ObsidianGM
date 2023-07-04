@@ -1,7 +1,5 @@
 ---
 File: Ifrit
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/ifrit
 Group: 
 aliases: 
 Brief: This muscular, fiery-skinned man has flaming hair and spotted horns upon his brow.
@@ -75,6 +73,8 @@ Description: >
 Race: Ifrit
 Class: sorcerer 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/ifrit)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

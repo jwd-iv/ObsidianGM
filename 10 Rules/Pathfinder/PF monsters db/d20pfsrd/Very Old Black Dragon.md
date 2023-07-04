@@ -1,6 +1,5 @@
 ---
 File: Very Old Black Dragon
-Source: d20pfsrd
 URL: 
 Group: Chromatic Dragon
 aliases: 
@@ -87,6 +86,8 @@ Description: Lording over the darkest swamps and marshes, black dragons are the 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Dread Wraith
-Source: PFRPG Bestiary
 URL: 
 Group: Wraith
 aliases: 
@@ -69,6 +68,8 @@ Description: Dread wraiths are wraiths that existed long enough and fed on enoug
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

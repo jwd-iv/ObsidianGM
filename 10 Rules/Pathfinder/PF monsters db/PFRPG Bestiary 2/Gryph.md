@@ -1,7 +1,5 @@
 ---
 File: Gryph
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gryph
 Group: 
 aliases: 
 Brief: This hawk-sized avian looks much like a six-legged stork. Its feathers are unkempt and greasy, and its beak is razor-sharp.
@@ -73,6 +71,8 @@ Description: Gryphs are bird-like creatures usually found underground, but they 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gryph)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

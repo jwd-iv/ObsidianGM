@@ -1,6 +1,5 @@
 ---
 File: Kappa
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: A kappa is a strange amphibian resembling a humanoid turtle. It dwe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

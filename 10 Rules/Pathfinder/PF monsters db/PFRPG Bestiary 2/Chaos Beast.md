@@ -1,7 +1,5 @@
 ---
 File: Chaos Beast
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/chaos-beast
 Group: 
 aliases: 
 Brief: This thing is a horrid mass of barbed tentacles, glaring eyes, and gnashing teeth, twisting upon itself and reshaping into new forms.
@@ -73,6 +71,8 @@ Description: A chaos beast's form changes without any goal or purpose.  Though a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/chaos-beast)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

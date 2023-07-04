@@ -1,7 +1,5 @@
 ---
 File: Large Air Elemental
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-e/elemental/air#TOC-Large-Air-Elemental-CR-5
 Group: Elemental
 aliases: 
 Brief: This cloud-like creature has dark hollows reminiscent of eyes and a mouth, and a howling wind whips it into ominous shapes.
@@ -71,6 +69,8 @@ Description: Air elementals are fast, flying creatures made of living air. Primi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-e/elemental/air#TOC-Large-Air-Elemental-CR-5)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

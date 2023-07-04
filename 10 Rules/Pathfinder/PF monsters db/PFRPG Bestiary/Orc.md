@@ -1,7 +1,5 @@
 ---
 File: Orc
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orc
 Group: 
 aliases: 
 Brief: This savage creature looks like a bestial version of a savage human, with green-gray skin and greasy black hair.
@@ -70,6 +68,8 @@ Description: >
 Race: Orc
 Class: warrior 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orc)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

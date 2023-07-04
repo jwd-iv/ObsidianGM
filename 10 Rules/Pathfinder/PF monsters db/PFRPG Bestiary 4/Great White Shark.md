@@ -1,6 +1,5 @@
 ---
 File: Great White Shark
-Source: PFRPG Bestiary 4
 URL: 
 Group: Shark
 aliases: 
@@ -69,6 +68,8 @@ Description: The great white shark is one of the largest predatory fish in the o
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

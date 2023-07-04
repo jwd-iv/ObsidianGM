@@ -1,6 +1,5 @@
 ---
 File: Weedwhip
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -79,6 +78,8 @@ Description: A weedwhip is an animate plant that rarely attacks unless provoked.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

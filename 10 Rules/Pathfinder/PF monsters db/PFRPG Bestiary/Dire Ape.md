@@ -1,7 +1,5 @@
 ---
 File: Dire Ape
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/dire-ape
 Group: Ape
 aliases: 
 Brief: Sharp teeth fill this large, feral ape's mouth, and its long, muscular arms stretch to the ground, ending in wickedly curved claws.
@@ -69,6 +67,8 @@ Description: Known to many scholars as the gigantopithecus, the dire ape is a mu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/dire-ape)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

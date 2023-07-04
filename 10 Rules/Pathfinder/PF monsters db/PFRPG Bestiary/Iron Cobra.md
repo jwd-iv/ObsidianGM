@@ -1,7 +1,5 @@
 ---
 File: Iron Cobra
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/cobra-constructs/iron-cobra
 Group: 
 aliases: 
 Brief: This creature resembles a small, metallic cobra. Its body is made of overlapping iron plates, and its eyes are pinpoints of red light.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/cobra-constructs/iron-cobra)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Satyr
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/satyr
 Group: 
 aliases: 
 Brief: This handsome, grinning man has the furry legs of a goat and a set of curling ram horns extending from his temples.
@@ -71,6 +69,8 @@ Description: Satyrs, known in some regions as fauns, are debauched and hedonisti
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/fey/satyr)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

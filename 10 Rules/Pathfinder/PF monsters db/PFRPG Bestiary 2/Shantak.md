@@ -1,7 +1,5 @@
 ---
 File: Shantak
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shantak
 Group: 
 aliases: 
 Brief: Larger than an elephant, this scaly, bird-like creature has a vaguely horse-like head and vast, slime-encrusted wings.
@@ -75,6 +73,8 @@ Description: Shantaks speak in a shrill voice that sounds like glass grinding ag
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shantak)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

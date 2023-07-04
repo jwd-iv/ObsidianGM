@@ -1,6 +1,5 @@
 ---
 File: Sewer Troll
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: Sewer trolls are close relations to both common trolls and scrags. 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

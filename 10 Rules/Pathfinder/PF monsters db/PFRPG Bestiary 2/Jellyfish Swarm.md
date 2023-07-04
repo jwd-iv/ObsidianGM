@@ -1,7 +1,5 @@
 ---
 File: Jellyfish Swarm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/jellyfish/jellyfish-swarm
 Group: 
 aliases: 
 Brief: All but invisible in the water, this foul swarm of fist-sized jellyfish wriggles and writhes, a virtual wall of stinging tentacles.
@@ -71,6 +69,8 @@ Description: Jellyfish often cluster together during springtime or when environm
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/jellyfish/jellyfish-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

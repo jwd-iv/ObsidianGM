@@ -1,6 +1,5 @@
 ---
 File: Xanthos
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: A xanthos is a strange creature, part equine, part reptile. Bred as
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Greater Shadow
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow/greater-shadow
 Group: Shadow
 aliases: 
 Brief: This shadowy figure sways and moves with an erratic grace, as if lit by an unseen fire.
@@ -71,6 +69,8 @@ Description: Greater shadows are those undead shadows that have come to be parti
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow/greater-shadow)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

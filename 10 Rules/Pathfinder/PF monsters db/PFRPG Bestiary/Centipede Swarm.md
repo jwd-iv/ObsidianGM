@@ -1,7 +1,5 @@
 ---
 File: Centipede Swarm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-swarm
 Group: Centipede
 aliases: 
 Brief: A writhing mass of legs and poisonous pincers swarms across the ground in a deadly, undulating wave.
@@ -71,6 +69,8 @@ Description: A centipede swarm seeks to surround and attack any living prey it e
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

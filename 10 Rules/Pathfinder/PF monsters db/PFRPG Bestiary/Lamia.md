@@ -1,7 +1,5 @@
 ---
 File: Lamia
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/lamia
 Group: 
 aliases: 
 Brief: This creature's upper torso is that of a comely woman with cat's eyes and sharp fangs, while her lower body is that of a lion.
@@ -73,6 +71,8 @@ Description: The hate-filled inheritors of an ancient curse, lamias appear as le
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/lamia)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

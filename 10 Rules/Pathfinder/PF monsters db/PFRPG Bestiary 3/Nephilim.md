@@ -1,6 +1,5 @@
 ---
 File: Nephilim
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: The nephilim are the offspring of demigods who bred with humans. Th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

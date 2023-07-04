@@ -1,7 +1,5 @@
 ---
 File: Avoral
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-avoral
 Group: Agathion
 aliases: 
 Brief: Great feathers sweep back from this fierce bird-man's brow, and long, clawed hands grow from the end of his wings.
@@ -71,6 +69,8 @@ Description: Avorals are generally human-shaped, but their upper limbs are great
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-avoral)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

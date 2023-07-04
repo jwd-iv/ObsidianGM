@@ -1,6 +1,5 @@
 ---
 File: Troggle
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: These dim-witted creatures are a mongrel cross between a troll and 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Lukwata
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Lukwatas slip through dark tropical waters, preying upon all who da
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

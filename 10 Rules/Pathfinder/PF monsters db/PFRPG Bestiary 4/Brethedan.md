@@ -1,6 +1,5 @@
 ---
 File: Brethedan
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Brethedans are an adaptive race of floating, telepathic creatures t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

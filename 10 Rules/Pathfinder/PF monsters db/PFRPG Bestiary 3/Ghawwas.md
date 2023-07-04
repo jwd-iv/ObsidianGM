@@ -1,6 +1,5 @@
 ---
 File: Ghawwas
-Source: PFRPG Bestiary 3
 URL: 
 Group: Div
 aliases: 
@@ -75,6 +74,8 @@ Description: Full of poison and treachery, ghawwas foul the seas and seek to bri
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

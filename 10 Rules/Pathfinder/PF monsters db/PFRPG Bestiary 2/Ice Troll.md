@@ -1,7 +1,5 @@
 ---
 File: Ice Troll
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/ice-troll
 Group: Troll
 aliases: 
 Brief: This large creature has light blue-green skin and cold, piercing eyes. Dressed in rough furs, its tusked jaw juts forth in a long underbite.
@@ -69,6 +67,8 @@ Description: Ice trolls are somewhat smaller than normal trolls, but they posses
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/ice-troll)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

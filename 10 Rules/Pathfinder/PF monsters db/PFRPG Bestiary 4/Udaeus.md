@@ -1,6 +1,5 @@
 ---
 File: Udaeus
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: An udaeus (plural udaeoi) is a fierce humanoid who's obsessed with 
 Race: 
 Class: 
 MR: 1
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

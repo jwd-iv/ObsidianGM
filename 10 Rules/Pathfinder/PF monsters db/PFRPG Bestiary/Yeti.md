@@ -1,7 +1,5 @@
 ---
 File: Yeti
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/yeti
 Group: 
 aliases: 
 Brief: This creature stands like a man, yet is half again the height of most men and covered with a coat of thick white fur.
@@ -73,6 +71,8 @@ Description: Mysterious and rarely seen (save by victims), the yeti is a towerin
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/yeti)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

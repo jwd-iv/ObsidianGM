@@ -1,6 +1,5 @@
 ---
 File: Great Wyrm Bronze Dragon
-Source: d20pfsrd
 URL: 
 Group: Metallic Dragon
 aliases: 
@@ -92,6 +91,8 @@ Description: Bronze dragons have been known to ally with travelers and adventure
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

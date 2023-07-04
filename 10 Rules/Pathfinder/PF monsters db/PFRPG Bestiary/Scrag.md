@@ -1,6 +1,5 @@
 ---
 File: Scrag
-Source: PFRPG Bestiary
 URL: 
 Group: 
 aliases: Aquatic Troll
@@ -69,6 +68,8 @@ Description: Dwelling in both fresh and salt water, these cousins of the troll h
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

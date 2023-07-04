@@ -1,7 +1,5 @@
 ---
 File: Sahuagin
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/sahuagin
 Group: 
 aliases: 
 Brief: This scaly humanoid has a long, fish-like tail. Its arms and legs end in webbed claws, and its piscine head features a toothy maw.
@@ -73,6 +71,8 @@ Description: Ravenous and cruel, the sahuagin are, unfortunately, among the most
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/sahuagin)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

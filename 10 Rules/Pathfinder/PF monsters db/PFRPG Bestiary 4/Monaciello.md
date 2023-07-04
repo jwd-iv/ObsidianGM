@@ -1,6 +1,5 @@
 ---
 File: Monaciello
-Source: PFRPG Bestiary 4
 URL: 
 Group: Gremlin
 aliases: 
@@ -73,6 +72,8 @@ Description: Most often found in urban environments, this gremlin lives among hu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

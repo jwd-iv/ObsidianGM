@@ -1,7 +1,5 @@
 ---
 File: Rakshasa
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/rakshasa
 Group: 
 aliases: 
 Brief: This figure's backward-bending fingers and its bestial, snarling visage leave little doubt as to its fiendish nature.
@@ -75,6 +73,8 @@ Description: The rakshasa is an evil spirit that cloaks itself in the guise of a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/rakshasa)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

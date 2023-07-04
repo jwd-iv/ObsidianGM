@@ -1,7 +1,5 @@
 ---
 File: Moonflower
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/moonflower
 Group: 
 aliases: 
 Brief: A twisted trunk clustered with bulbous blossoms holds up a gaping mouth ready to swallow a victim whole.
@@ -75,6 +73,8 @@ Description: A fully grown moonf lower easily stands 20 feet tall, its massive t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/moonflower)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

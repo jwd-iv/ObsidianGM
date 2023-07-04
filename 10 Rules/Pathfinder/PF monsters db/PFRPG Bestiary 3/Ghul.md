@@ -1,6 +1,5 @@
 ---
 File: Ghul
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Ghuls are undead jann whose eternal existence was twisted by fate a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Scarlet Spider
-Source: PFRPG Bestiary 4
 URL: 
 Group: Spider
 aliases: 
@@ -71,6 +70,8 @@ Description: Scarlet spiders are small arachnids with bright red bodies and blac
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

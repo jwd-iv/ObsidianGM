@@ -1,6 +1,5 @@
 ---
 File: Einherji
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Some warriors who die glorious deaths in battle find that there is 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

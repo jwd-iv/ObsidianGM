@@ -1,7 +1,5 @@
 ---
 File: Medusa
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/medusa
 Group: 
 aliases: 
 Brief: This slender, attractive woman has strangely glowing eyes and a full head of hissing snakes for hair.
@@ -75,6 +73,8 @@ Description: Medusas are human-like creatures with snakes instead of hair. At di
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/medusa)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

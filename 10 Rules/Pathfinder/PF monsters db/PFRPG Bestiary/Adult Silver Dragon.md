@@ -1,7 +1,5 @@
 ---
 File: Adult Silver Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-silver/adult-silver-dragon
 Group: Metallic Dragon
 aliases: 
 Brief: The scales of this tall, elegant dragon shine like polished silver, and its tail has a feathered appearance.
@@ -92,6 +90,8 @@ Description: Of all the dragons, silvers are the most courageous, holding themse
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-silver/adult-silver-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

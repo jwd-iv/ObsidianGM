@@ -1,6 +1,5 @@
 ---
 File: Giant Adult Ant Lion
-Source: PFRPG Bestiary 3
 URL: 
 Group: Ant Lion
 aliases: 
@@ -69,6 +68,8 @@ Description: When a giant ant lion reaches maturity, it creates a cocoon of sand
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Dire Hyena
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/hyena/dire-hyena
 Group: Hyena
 aliases: 
 Brief: This large hyena has a thick head, rheumy red eyes, and a mouth filled with sharp, powerful teeth.
@@ -69,6 +67,8 @@ Description: Dire hyenas (known to many as hyaenodons) are more fearsome than th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/hyena/dire-hyena)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

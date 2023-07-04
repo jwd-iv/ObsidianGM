@@ -1,7 +1,5 @@
 ---
 File: Yeth Hound
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/yeth-hound
 Group: 
 aliases: 
 Brief: This emaciated, hairless canine has a strange air of menace and cruelty about it.
@@ -75,6 +73,8 @@ Description: Yeth hounds are evil outsiders that delight in hunting intelligent 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/yeth-hound)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

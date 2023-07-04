@@ -1,7 +1,5 @@
 ---
 File: Elasmosaurus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/elasmosaurus
 Group: Dinosaur
 aliases: 
 Brief: Long-necked and long-tailed, this large, predatory reptile glides through the water on four powerful flippers.
@@ -69,6 +67,8 @@ Description: The sleek elasmosaurus is a long-necked, aquatic reptile. Although 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/elasmosaurus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Giant Cockroach
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/cockroach/cockroach-giant
 Group: Cockroach
 aliases: 
 Brief: A dog-sized cockroach skitters forth, greedily clicking its filthslicked mandibles.
@@ -69,6 +67,8 @@ Description: Species CR Size HD Giant hissing cockroach 1 Medium 2 Venomroach 3 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/cockroach/cockroach-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

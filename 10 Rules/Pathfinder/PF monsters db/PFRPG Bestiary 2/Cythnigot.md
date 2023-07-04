@@ -1,7 +1,5 @@
 ---
 File: Cythnigot
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-cythnigot
 Group: Qlippoth
 aliases: 
 Brief: This six-legged horror has a spider's face and a fibrous stalk growing out of its back-a stalk ending in a snapping mouth.
@@ -73,6 +71,8 @@ Description: The cythnigot is a foul fungal parasite that grows and thrives with
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-cythnigot)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

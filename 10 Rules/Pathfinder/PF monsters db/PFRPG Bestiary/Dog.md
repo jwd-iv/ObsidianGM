@@ -1,7 +1,5 @@
 ---
 File: Dog
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/dog
 Group: 
 aliases: 
 Brief: This small dog has a rough coat and a hungry look in its dark brown eyes.
@@ -69,6 +67,8 @@ Description: The normal dog statistics presented here describe any small dog of 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/dog)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

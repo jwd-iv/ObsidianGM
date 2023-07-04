@@ -1,6 +1,5 @@
 ---
 File: Bezravnis
-Source: PFRPG Bestiary 4
 URL: 
 Group: Kaiju
 aliases: 
@@ -77,6 +76,8 @@ Description: Bezravnis, known also as the Inferno Below, dwells in the sands of 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

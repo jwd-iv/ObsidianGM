@@ -1,7 +1,5 @@
 ---
 File: Pech
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/pech
 Group: 
 aliases: 
 Brief: This pale yellow humanoid has blank, bulging white eyes and gangly arms and legs. It clutches a pickaxe in its knobby hands.
@@ -75,6 +73,8 @@ Description: Untold ages ago, the pechs served forgotten masters in the deepest 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/pech)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

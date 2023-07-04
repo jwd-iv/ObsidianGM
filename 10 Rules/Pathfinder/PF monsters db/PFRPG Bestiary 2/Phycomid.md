@@ -1,7 +1,5 @@
 ---
 File: Phycomid
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/phycomid
 Group: 
 aliases: 
 Brief: This tangle of purple-capped mushrooms growing out of a nasty green sludge shudders and writhes, wafting tendrils of smoke.
@@ -73,6 +71,8 @@ Description: Typically found in damp dungeons, refuse heaps, and forgotten, filt
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/phycomid)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

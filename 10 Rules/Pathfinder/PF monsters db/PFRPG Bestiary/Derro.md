@@ -1,7 +1,5 @@
 ---
 File: Derro
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/derro
 Group: 
 aliases: 
 Brief: This pale blue humanoid has bulging white eyes, wild hair, fourfingered hands, and a large hooked club.
@@ -75,6 +73,8 @@ Description: Though derros dwell deep under most of the surface world's cities, 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/derro)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

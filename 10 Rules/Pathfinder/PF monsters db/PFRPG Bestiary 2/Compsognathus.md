@@ -1,7 +1,5 @@
 ---
 File: Compsognathus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/compsognathus
 Group: Dinosaur
 aliases: 
 Brief: This small reptile has a snake-like neck and head, a bird-like body with strong legs for running, and a whip-like tail.
@@ -71,6 +69,8 @@ Description: The compsognathus is a small dinosaur that moves in swift, darting 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/compsognathus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

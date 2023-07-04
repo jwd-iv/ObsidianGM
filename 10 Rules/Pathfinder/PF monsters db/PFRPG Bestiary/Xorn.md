@@ -1,7 +1,5 @@
 ---
 File: Xorn
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xorn
 Group: 
 aliases: 
 Brief: This squat beast is as wide as it is tall. Strangely symmetrical, it has three arms, three legs, three eyes, and one huge mouth.
@@ -73,6 +71,8 @@ Description: Strange creatures as big around as they are tall, xorns have little
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xorn)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

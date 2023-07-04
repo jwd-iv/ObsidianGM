@@ -1,6 +1,5 @@
 ---
 File: Brass Golem
-Source: PFRPG Bestiary 3
 URL: 
 Group: Golem
 aliases: 
@@ -77,6 +76,8 @@ Description: Implacable automatons of elemental fire and extraplanar brass, bras
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

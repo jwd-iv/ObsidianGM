@@ -1,7 +1,5 @@
 ---
 File: Camel
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/camel
 Group: Herd Animal
 aliases: 
 Brief: This somewhat irritated-looking, one-humped camel has been outfitted with a bridle and saddle.
@@ -71,6 +69,8 @@ Description: Camels are large, desert-dwelling herd animals noted for their stam
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/camel)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

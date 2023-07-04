@@ -1,7 +1,5 @@
 ---
 File: Violet Fungus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-v/violet-fungus
 Group: 
 aliases: 
 Brief: This mushroom grows from a bed of tentacular roots. Deep violet tendrils slither out of the dozens of fissures in its pointed cap.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-v/violet-fungus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

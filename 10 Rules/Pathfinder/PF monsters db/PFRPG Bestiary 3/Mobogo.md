@@ -1,6 +1,5 @@
 ---
 File: Mobogo
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Huge and hungry, mobogos merge the features of gigantic toads and s
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

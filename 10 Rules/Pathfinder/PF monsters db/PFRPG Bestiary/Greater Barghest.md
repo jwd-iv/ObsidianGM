@@ -1,7 +1,5 @@
 ---
 File: Greater Barghest
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/barghest/greater-barghest
 Group: Barghest
 aliases: 
 Brief: This snarling, canine beast pads forward on all fours, its slender front limbs looking more like hands than a wolf 's paws.
@@ -71,6 +69,8 @@ Description: Said to be fiendish relations of all goblinoid races, the hateful b
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/barghest/greater-barghest)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

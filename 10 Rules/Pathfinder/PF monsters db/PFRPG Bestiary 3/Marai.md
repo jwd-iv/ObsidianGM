@@ -1,6 +1,5 @@
 ---
 File: Marai
-Source: PFRPG Bestiary 3
 URL: 
 Group: Rakshasa
 aliases: 
@@ -77,6 +76,8 @@ Description: Marai are deviant spellcasters first and fiendish corruptors second
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

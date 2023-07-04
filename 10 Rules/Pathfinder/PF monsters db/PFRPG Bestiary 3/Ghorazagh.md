@@ -1,6 +1,5 @@
 ---
 File: Ghorazagh
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Ghorazaghs-or gore weavers-f loat like tumorous specters through th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Kobold
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/kobold
 Group: 
 aliases: 
 Brief: This short, reptilian humanoid has scaled skin, a snout filled with tiny teeth, and a long tail.
@@ -72,6 +70,8 @@ Description: >
 Race: Kobold
 Class: warrior 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/kobold)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

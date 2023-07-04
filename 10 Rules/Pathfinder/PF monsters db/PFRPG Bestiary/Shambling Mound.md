@@ -1,7 +1,5 @@
 ---
 File: Shambling Mound
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-s/shambling-mound
 Group: 
 aliases: 
 Brief: A mass of tangled vines and dripping slime rises on two trunklike legs, reeking of rot and freshly turned earth.
@@ -71,6 +69,8 @@ Description: Shambling mounds, also called shamblers, appear to be heaps of rott
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-s/shambling-mound)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

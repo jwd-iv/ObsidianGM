@@ -1,7 +1,5 @@
 ---
 File: Glacier Toad
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/toad-glacier
 Group: Toad
 aliases: 
 Brief: This improbably large toad has pale blue flesh and a body covered with jagged, icy growths.
@@ -71,6 +69,8 @@ Description: Glacier toads are strange, magical cousins of the more common giant
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/toad-glacier)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

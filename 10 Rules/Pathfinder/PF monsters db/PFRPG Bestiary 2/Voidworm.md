@@ -1,7 +1,5 @@
 ---
 File: Voidworm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-voidworm
 Group: Protean
 aliases: 
 Brief: This tiny, iridescent serpent slithers through empty space, the air around it distorting as if from heat.
@@ -71,6 +69,8 @@ Description: Debate rages as to whether or not the strange and capricious creatu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-voidworm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Leukodaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/leukodaemon
 Group: Daemon
 aliases: 
 Brief: This human-shaped beast has a horse's skull for a head. It walks on cracked hooves and bears the rotting wings of a carrion bird.
@@ -75,6 +73,8 @@ Description: Deacons of the Horseman of Pestilence, leukodaemons serve their lor
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/leukodaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

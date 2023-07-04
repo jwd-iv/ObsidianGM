@@ -1,7 +1,5 @@
 ---
 File: Ankheg
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ankheg
 Group: 
 aliases: 
 Brief: This burrowing, bug-like monster scuttles about on six legs, drooling noxious green ichor from its clacking mandibles.
@@ -71,6 +69,8 @@ Description: Ankhegs are an all-too-common plague upon the rural areas of the wo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ankheg)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

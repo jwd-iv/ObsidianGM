@@ -1,7 +1,5 @@
 ---
 File: Hydra
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hydra
 Group: 
 aliases: 
 Brief: Multiple angry snake-like heads rise from the sleek, serpentine body of this terrifying monster.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hydra)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

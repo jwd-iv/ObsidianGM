@@ -1,6 +1,5 @@
 ---
 File: Faceless Stalker
-Source: PFRPG Bestiary 2
 URL: 
 Group: 
 aliases: Ugothol
@@ -73,6 +72,8 @@ Description: Ugothols (as faceless stalkers call themselves) are one of the many
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 2
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

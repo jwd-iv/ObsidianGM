@@ -342,18 +342,13 @@ class Statblock
 		// dv.header(5, "source")
 		dv.span("<hr />")
 
-		if (data.Source)
-			text += ` Content © *<u>${data.Source}</u>*;`
-				.replace('PFRPG', "Pathfinder Roleplaying Game")
+		if (data.Copyright)
+		{
+			text += Object.keys(data.Copyright)
+				.map(c => `${c} © ${data.Copyright[c]}`)
+				.join("; ")
 
-		if (data.URL)
-			text = text
-				.replace('<u>',`[`)
-				.replace('</u>',`](${data.URL})`)
-
-		if (data.ImageSource)
-			text += ` ${data.ImageSource};`
-
-		print()
+			print()
+		}
 	}
 }

@@ -1,7 +1,5 @@
 ---
 File: Young Green Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-chromatic-green/young-green-dragon
 Group: Chromatic Dragon
 aliases: 
 Brief: Scales the color of emeralds armor this ferocious dragon. A single sharp horn protrudes from the end of its toothy snout.
@@ -83,6 +81,8 @@ Description: Green dragons dwell in the ancient forests of the world, prowling u
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-chromatic-green/young-green-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

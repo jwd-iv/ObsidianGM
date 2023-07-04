@@ -1,7 +1,5 @@
 ---
 File: Nalfeshnee
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/nalfeshnee
 Group: Demon
 aliases: 
 Brief: A towering, corpulent beast, this fiend has the hideous head of a boar and arms ending in fatty, four-fingered hands.
@@ -71,6 +69,8 @@ Description: Few demons understand the inner workings of the Abyss like the nalf
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/nalfeshnee)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Giant Leech
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/leech/giant-leech
 Group: Leech
 aliases: 
 Brief: A parasite ballooned to monstrous proportions undulates in the muck, its circular maw a spiral of teeth.
@@ -75,6 +73,8 @@ Description: These invertebrate parasitic relatives of the worm lurk in stagnant
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/leech/giant-leech)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

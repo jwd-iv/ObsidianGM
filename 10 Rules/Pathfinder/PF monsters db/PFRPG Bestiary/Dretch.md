@@ -1,7 +1,5 @@
 ---
 File: Dretch
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/dretch
 Group: Demon
 aliases: 
 Brief: This creature's bloated frame shudders with each heaving step, yet despite its shape, the thing moves with surprising quickness.
@@ -69,6 +67,8 @@ Description: Even the lowest demons of the Abyss are dangerous and filled with a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/dretch)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

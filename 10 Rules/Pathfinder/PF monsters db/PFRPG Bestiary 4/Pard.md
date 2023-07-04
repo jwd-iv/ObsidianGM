@@ -1,6 +1,5 @@
 ---
 File: Pard
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Pards are alien catlike creatures known for their unnatural swiftne
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

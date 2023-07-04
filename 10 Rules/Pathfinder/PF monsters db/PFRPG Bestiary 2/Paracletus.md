@@ -1,7 +1,5 @@
 ---
 File: Paracletus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-paracletus
 Group: Aeon
 aliases: 
 Brief: A small cluster of shimmering lights floats in the air, orbited by multiple vibrant crystals and gemstones.
@@ -71,6 +69,8 @@ Description: While mortals possess the gift of free will, both logic and emotion
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-paracletus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

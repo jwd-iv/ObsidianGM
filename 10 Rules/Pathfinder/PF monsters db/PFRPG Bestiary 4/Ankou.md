@@ -1,6 +1,5 @@
 ---
 File: Ankou
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Ankous are assassins for powerful fey nobles, sent to kill, terrify
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

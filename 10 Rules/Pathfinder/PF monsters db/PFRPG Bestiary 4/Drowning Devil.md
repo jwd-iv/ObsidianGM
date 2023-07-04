@@ -1,6 +1,5 @@
 ---
 File: Drowning Devil
-Source: PFRPG Bestiary 4
 URL: 
 Group: Devil
 aliases: Sarglagon
@@ -75,6 +74,8 @@ Description: Called sarglagons in their Infernal tongue, drowning devils take gr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

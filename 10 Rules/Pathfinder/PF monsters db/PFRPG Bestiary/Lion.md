@@ -1,7 +1,5 @@
 ---
 File: Lion
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/lion
 Group: 
 aliases: 
 Brief: This great cat's muscles flex visibly under its skin as it bares its fangs and shakes its thick mane of hair.
@@ -69,6 +67,8 @@ Description: Male lions are 5 to 8 feet long and weigh 330 to 550 pounds. Female
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/lion)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

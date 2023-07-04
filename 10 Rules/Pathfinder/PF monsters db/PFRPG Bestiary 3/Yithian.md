@@ -1,6 +1,5 @@
 ---
 File: Yithian
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Untold eons ago, the yithians inhabited a dying world. To escape th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Spirit Naga
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/spirit
 Group: Naga
 aliases: 
 Brief: Yellowed, venom-dripping fangs fill the human-like mouth of this sinister serpentine monstrosity.
@@ -78,6 +76,8 @@ Description: Morbid-minded and wretched to look upon, spirit nagas are the witch
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/spirit)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

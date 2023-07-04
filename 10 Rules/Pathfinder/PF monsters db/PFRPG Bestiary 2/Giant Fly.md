@@ -1,7 +1,5 @@
 ---
 File: Giant Fly
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/fly-giant
 Group: Fly
 aliases: 
 Brief: Bristling with coarse hairs, this enormous fly's legs twitch just before it launches into the air on buzzing wings.
@@ -71,6 +69,8 @@ Description: Much like their tiny cousins, giant flies feed upon carrion.  Wholl
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/fly-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

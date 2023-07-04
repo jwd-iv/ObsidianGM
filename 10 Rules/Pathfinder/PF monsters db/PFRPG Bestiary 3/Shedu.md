@@ -1,6 +1,5 @@
 ---
 File: Shedu
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Shedus live far from the hustle and bustle of humanity in harsh des
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

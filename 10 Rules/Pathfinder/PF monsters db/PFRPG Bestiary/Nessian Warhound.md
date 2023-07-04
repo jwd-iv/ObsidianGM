@@ -1,7 +1,5 @@
 ---
 File: Nessian Warhound
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hell-hound/nessian-hell-hound
 Group: Hell Hound
 aliases: 
 Brief: This creature resembles a powerfully built wolf the size of a large draft horse, with ebony fur and burning, fiery red eyes.
@@ -69,6 +67,8 @@ Description: Asmodeus, the Prince of Darkness, keeps vast kennels of these bruta
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hell-hound/nessian-hell-hound)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

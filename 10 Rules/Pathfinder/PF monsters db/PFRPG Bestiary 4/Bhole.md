@@ -1,6 +1,5 @@
 ---
 File: Bhole
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Known on some worlds as dholes, bholes are among the largest of liv
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

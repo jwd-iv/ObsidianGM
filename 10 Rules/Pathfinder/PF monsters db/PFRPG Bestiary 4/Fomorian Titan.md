@@ -1,6 +1,5 @@
 ---
 File: Fomorian Titan
-Source: PFRPG Bestiary 4
 URL: 
 Group: Titan
 aliases:
@@ -73,6 +72,8 @@ Description: Fomorian titans were the first titans created by the gods. In their
 Race: 
 Class: 
 MR: 8
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

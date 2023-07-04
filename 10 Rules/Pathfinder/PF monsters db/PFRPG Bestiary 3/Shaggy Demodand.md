@@ -1,6 +1,5 @@
 ---
 File: Shaggy Demodand
-Source: PFRPG Bestiary 3
 URL: 
 Group: Demodand
 aliases: 
@@ -69,6 +68,8 @@ Description: Shaggy demodands are obese outsiders that occupy the highest status
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

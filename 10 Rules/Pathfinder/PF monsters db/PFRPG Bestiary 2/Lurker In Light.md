@@ -1,7 +1,5 @@
 ---
 File: Lurker In Light
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/lurker-in-light
 Group: 
 aliases: 
 Brief: This large-eyed humanoid looks like a glowing, emaciated elven child save for its small, transparent wings.
@@ -77,6 +75,8 @@ Description: Malicious and alien fey, lurkers in light venture to the Material P
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/lurker-in-light)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

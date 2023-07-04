@@ -1,7 +1,5 @@
 ---
 File: Stegosaurus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/stegosaurus
 Group: Dinosaur
 aliases: 
 Brief: This huge dinosaur has a small head, twin rows of sharp dorsal plates, and a muscular tail terminating in a set of bony spikes.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/stegosaurus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Mohrg
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/mohrg
 Group: 
 aliases: 
 Brief: A thick tangle of discolored entrails clings to this lurching skeleton's torso and winds upward to loll from its jaw like a clawed tongue.
@@ -71,6 +69,8 @@ Description: Those who slay many over the course of their lifetimes, be they ser
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/mohrg)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

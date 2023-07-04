@@ -1,6 +1,5 @@
 ---
 File: Grothlut
-Source: PFRPG Bestiary 4
 URL: 
 Group: Fleshwarp
 aliases: 
@@ -75,6 +74,8 @@ Description: Grothluts are sluglike abominations with vaguely human heads and to
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

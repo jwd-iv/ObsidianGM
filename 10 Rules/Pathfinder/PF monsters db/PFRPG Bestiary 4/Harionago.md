@@ -1,6 +1,5 @@
 ---
 File: Harionago
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Despite her ragged dress and unkempt appearance, a harionago is a b
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

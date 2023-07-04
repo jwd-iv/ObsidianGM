@@ -1,7 +1,5 @@
 ---
 File: Svirfneblin
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/svirfneblin
 Group: 
 aliases: 
 Brief: This bald gnome has rocky gray skin and a wiry physique. Its pale eyes are overly large and expressive.
@@ -70,6 +68,8 @@ Description: >
 Race: Svirfneblin
 Class: ranger 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/svirfneblin)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

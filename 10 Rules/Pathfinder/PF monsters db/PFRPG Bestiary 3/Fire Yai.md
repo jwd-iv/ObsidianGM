@@ -1,6 +1,5 @@
 ---
 File: Fire Yai
-Source: PFRPG Bestiary 3
 URL: 
 Group: Oni
 aliases: 
@@ -73,6 +72,8 @@ Description: Fire yai prefer to live in luxury-an orderly and well-built abode i
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

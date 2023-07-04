@@ -1,7 +1,5 @@
 ---
 File: Quickwood
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/quickwood
 Group: 
 aliases: 
 Brief: Were it not for the image of a sinister face peeking out from its dark gray bark, this would look like any other ragged oak tree.
@@ -77,6 +75,8 @@ Description: These carnivorous plants prize human and elven flesh, but eat anyth
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/quickwood)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

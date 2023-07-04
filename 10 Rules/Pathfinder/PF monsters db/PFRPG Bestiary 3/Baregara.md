@@ -1,6 +1,5 @@
 ---
 File: Baregara
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Although natives of the Abyss that often serve as minions for power
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

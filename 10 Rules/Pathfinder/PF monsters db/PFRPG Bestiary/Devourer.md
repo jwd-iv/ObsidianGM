@@ -1,7 +1,5 @@
 ---
 File: Devourer
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/devourer
 Group: 
 aliases: 
 Brief: This dry, hovering corpse's chest is a prison of jagged ribs, within which is trapped a small tormented ghostly form.
@@ -73,6 +71,8 @@ Description: Devourers are the undead remnants of fiends and evil spellcasters w
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/devourer)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

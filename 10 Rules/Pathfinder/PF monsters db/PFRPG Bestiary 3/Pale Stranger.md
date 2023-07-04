@@ -1,6 +1,5 @@
 ---
 File: Pale Stranger
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Sometimes death itself cannot come between a gunslinger and its fin
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

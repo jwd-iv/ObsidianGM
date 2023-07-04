@@ -1,6 +1,5 @@
 ---
 File: Simurgh
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Regarded as living legends, simurghs are held in high regard by des
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

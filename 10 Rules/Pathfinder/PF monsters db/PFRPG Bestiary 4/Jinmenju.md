@@ -1,6 +1,5 @@
 ---
 File: Jinmenju
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Jinmenjus are trees that grow in hilly regions far from civilized l
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

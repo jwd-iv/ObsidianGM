@@ -1,7 +1,5 @@
 ---
 File: Doppelganger
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/doppelganger
 Group: 
 aliases: 
 Brief: This grayish humanoid creature seems almost unfinished, with a narrow head, gaunt limbs, and a sinister, noseless face.
@@ -73,6 +71,8 @@ Description: Doppelgangers are strange beings that can take on the shapes of tho
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/doppelganger)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

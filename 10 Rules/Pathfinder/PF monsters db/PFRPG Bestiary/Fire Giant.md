@@ -1,7 +1,5 @@
 ---
 File: Fire Giant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/fire-giant
 Group: Giant
 aliases: 
 Brief: This lumbering giant has short stumpy legs and powerful, muscular arms. Its hair and beard seem to be made of fire.
@@ -71,6 +69,8 @@ Description: Fire giants are the most rigid and militaristic of all the giant ra
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/fire-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

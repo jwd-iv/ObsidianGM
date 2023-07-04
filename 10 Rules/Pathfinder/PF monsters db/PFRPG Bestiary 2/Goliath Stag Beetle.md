@@ -1,7 +1,5 @@
 ---
 File: Goliath Stag Beetle
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-goliath-stag
 Group: Beetle
 aliases: 
 Brief: This massive beetle is the size of a small house. Its immense, horn-like mandibles clash with a hungry fervor.
@@ -69,6 +67,8 @@ Description: Making its home in tropical and subtropical forests across the glob
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-goliath-stag)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Retriever
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/retriever
 Group: 
 aliases: 
 Brief: A spider the size of a bull elephant rears up on its back four legs in a violent challenge, eyes shimmering with magical energy.
@@ -73,6 +71,8 @@ Description: Not all constructs are formed from unliving matter like stone, wood
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/retriever)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Tick Swarm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/tick-swarm
 Group: Tick
 aliases: 
 Brief: The rasping legs of this hideous, shining carpet of fist-sized ticks rattle ominously as the swarm skitters forward.
@@ -73,6 +71,8 @@ Description: Tick swarms are merciless blights, able to quickly reduce the large
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/tick-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

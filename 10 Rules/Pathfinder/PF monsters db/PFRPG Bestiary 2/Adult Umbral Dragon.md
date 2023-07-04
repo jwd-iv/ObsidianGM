@@ -1,6 +1,5 @@
 ---
 File: Adult Umbral Dragon
-Source: PFRPG Bestiary 2
 URL: 
 Group: Primal Dragon
 aliases: 
@@ -88,6 +87,8 @@ Description: Cruel and sadistic, umbral dragons prefer the taste of undead flesh
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 2
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Gashadokuro
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Gashadokuros are enormous skeletons that come into being as a resul
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

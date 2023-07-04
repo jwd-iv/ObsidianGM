@@ -1,7 +1,5 @@
 ---
 File: Spectre
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/spectre
 Group: 
 aliases: 
 Brief: This translucent, ghostly figure fades into view from the damp mist, its face distorted by wrath into a hideous mask.
@@ -77,6 +75,8 @@ Description: Spectres are evil undead that hate sunlight and living things. Most
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/spectre)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

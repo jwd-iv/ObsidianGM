@@ -1,7 +1,5 @@
 ---
 File: Ancient Black Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-black/ancient-black-dragon
 Group: Chromatic Dragon
 aliases: 
 Brief: Hissing green acid drips from the fanged maw of this blackscaled, horned dragon.
@@ -92,6 +90,8 @@ Description: Lording over the darkest swamps and marshes, black dragons are the 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-black/ancient-black-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

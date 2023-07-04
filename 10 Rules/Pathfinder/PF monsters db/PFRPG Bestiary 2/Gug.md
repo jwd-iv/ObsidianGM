@@ -1,7 +1,5 @@
 ---
 File: Gug
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gug
 Group: 
 aliases: 
 Brief: This towering menace has a horrible, vertically aligned mouth and arms that split at the elbows into twin clawed hands.
@@ -69,6 +67,8 @@ Description: Gugs are inhuman monstrosities that dwell in the deep places of the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gug)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

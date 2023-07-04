@@ -1,6 +1,5 @@
 ---
 File: Sootwing Bat
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Ghoul spellcasters use these smaller cousins to skavelings as famil
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

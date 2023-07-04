@@ -1,7 +1,5 @@
 ---
 File: Giant Dragonfly
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/dragonfly-giant
 Group: Dragonfly
 aliases: 
 Brief: This glittering blue dragonf ly is about the size of a horse and is large enough to carry off small farm animals or people.
@@ -71,6 +69,8 @@ Description: Giant dragonflies are rare compared to other varieties of giant ins
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/dragonfly-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

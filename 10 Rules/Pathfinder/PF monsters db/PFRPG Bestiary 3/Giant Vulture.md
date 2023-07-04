@@ -1,6 +1,5 @@
 ---
 File: Giant Vulture
-Source: PFRPG Bestiary 3
 URL: 
 Group: Vulture
 aliases: 
@@ -71,6 +70,8 @@ Description: Larger even than condors, giant vultures dwell only in regions wher
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

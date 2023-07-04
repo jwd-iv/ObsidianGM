@@ -1,7 +1,5 @@
 ---
 File: Twigjack
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack
 Group: 
 aliases: 
 Brief: This tiny, vaguely humanoid creature seems to be made completely of bundles of sticks wound with thorny vines.
@@ -73,6 +71,8 @@ Description: Deep in old-growth forests, twigjacks spend their time tormenting i
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/twigjack)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

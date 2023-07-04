@@ -1,6 +1,5 @@
 ---
 File: Flying Polyp
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: A flying polyp is a nauseating mass of flesh, eyes, tentacles, and 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

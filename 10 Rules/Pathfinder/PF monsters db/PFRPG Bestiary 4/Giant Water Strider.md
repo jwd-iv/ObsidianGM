@@ -1,6 +1,5 @@
 ---
 File: Giant Water Strider
-Source: PFRPG Bestiary 4
 URL: 
 Group: Water Strider
 aliases: 
@@ -73,6 +72,8 @@ Description: A giant water strider is a long-legged insect with the ability to w
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

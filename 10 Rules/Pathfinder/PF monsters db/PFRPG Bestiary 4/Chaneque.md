@@ -1,6 +1,5 @@
 ---
 File: Chaneque
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: These insidiously malicious fey lurk in the untainted depths of pri
 Race: 
 Class: 
 MR: 1
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

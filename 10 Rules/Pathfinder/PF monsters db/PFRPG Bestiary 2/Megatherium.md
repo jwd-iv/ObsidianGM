@@ -1,7 +1,5 @@
 ---
 File: Megatherium
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/megatherium
 Group: Megafauna
 aliases: 
 Brief: The great sloth, standing on its hind legs, can reach the treetops with its agile tongue to grab at foliage.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/megatherium)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

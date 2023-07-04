@@ -1,7 +1,5 @@
 ---
 File: Giant Mosquito
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/mosquito-giant
 Group: Mosquito
 aliases: 
 Brief: A bloated, red belly dangles beneath the furiously beating wings of this massive mosquito.
@@ -71,6 +69,8 @@ Description: Horrifically enlarged versions of the common mosquito, giant mosqui
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/mosquito-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

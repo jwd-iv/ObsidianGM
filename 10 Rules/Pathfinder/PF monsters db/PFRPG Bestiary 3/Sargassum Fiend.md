@@ -1,6 +1,5 @@
 ---
 File: Sargassum Fiend
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: A sargassum fiend is a free-f loating mass of intelligent seaweed c
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

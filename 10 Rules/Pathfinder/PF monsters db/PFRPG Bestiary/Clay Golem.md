@@ -1,7 +1,5 @@
 ---
 File: Clay Golem
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/clay
 Group: Golem
 aliases: 
 Brief: This lumbering figure is sculpted from soft clay. It wears filthy rags and crude jewelry, and its face is only vaguely humanoid.
@@ -77,6 +75,8 @@ Description: A clay golem wears no clothing except for a metal or stiff leather 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/clay)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

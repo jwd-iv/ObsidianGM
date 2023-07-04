@@ -1,7 +1,5 @@
 ---
 File: Ettin
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ettin
 Group: 
 aliases: 
 Brief: This lumbering, filthy, two-headed giant wears tattered remnants of leather armor and clutches a large flail in each fist.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ettin)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

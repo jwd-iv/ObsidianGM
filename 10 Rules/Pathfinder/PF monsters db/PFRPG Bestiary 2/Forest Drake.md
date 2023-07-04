@@ -1,7 +1,5 @@
 ---
 File: Forest Drake
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/drake-forest
 Group: Drake
 aliases: 
 Brief: This green-scaled dragon has two powerful legs and a pair of long, leathery wings. A long spike adorns its thrashing tail.
@@ -75,6 +73,8 @@ Description: Forest drakes are the degenerate cousins of green dragons, possesse
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/drake-forest)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

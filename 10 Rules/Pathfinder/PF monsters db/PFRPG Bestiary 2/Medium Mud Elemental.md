@@ -1,7 +1,5 @@
 ---
 File: Medium Mud Elemental
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-mud
 Group: Elemental
 aliases: 
 Brief: This animate pile of mud seems barely able to maintain the semblance of a humanoid form made of dripping sludge.
@@ -73,6 +71,8 @@ Description: Where the Plane of Earth borders the Plane of Water, a mixing of th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-mud)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

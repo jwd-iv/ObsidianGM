@@ -1,6 +1,5 @@
 ---
 File: Porcupine
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Porcupines are omnivorous mammals that often climb trees in search 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

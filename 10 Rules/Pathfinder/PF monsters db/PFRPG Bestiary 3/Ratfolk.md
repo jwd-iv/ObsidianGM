@@ -1,6 +1,5 @@
 ---
 File: Ratfolk
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -72,6 +71,8 @@ Description: >
 Race: Ratfolk
 Class: expert 1
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

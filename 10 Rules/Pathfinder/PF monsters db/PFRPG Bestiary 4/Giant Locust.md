@@ -1,6 +1,5 @@
 ---
 File: Giant Locust
-Source: PFRPG Bestiary 4
 URL: 
 Group: Locust
 aliases: 
@@ -75,6 +74,8 @@ Description: Giant locusts have a hunger akin to their smaller cousins, but only
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

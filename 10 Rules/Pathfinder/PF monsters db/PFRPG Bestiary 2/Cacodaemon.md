@@ -1,7 +1,5 @@
 ---
 File: Cacodaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/cacodaemon
 Group: Daemon
 aliases: 
 Brief: An ever-gnashing maw, filled with row after row of mismatched teeth, dominates this frightful creature's orb-like body.
@@ -74,6 +72,8 @@ Description: The least of daemonkind, cacodaemons spawn from eddies of angry, vi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/cacodaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

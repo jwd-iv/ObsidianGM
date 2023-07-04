@@ -1,7 +1,5 @@
 ---
 File: Purple Worm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-p/purple-worm/purple-worm
 Group: 
 aliases: 
 Brief: This enormous worm is covered with dark purple plates of chitinous armor. Its giant, tooth-filled mouth is the size of an ox.
@@ -71,6 +69,8 @@ Description: Purple worms are giant scavengers that inhabit the deepest regions 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-p/purple-worm/purple-worm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Steam Hog
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: The military advancements of fire giants aren't restricted only to 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

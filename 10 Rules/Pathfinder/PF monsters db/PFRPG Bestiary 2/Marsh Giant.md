@@ -1,7 +1,5 @@
 ---
 File: Marsh Giant
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/marsh-giant
 Group: Giant
 aliases: 
 Brief: Cold, black eyes stare out from the fish-like face of this hideous green-skinned, web-fingered, and obese giant.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/marsh-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

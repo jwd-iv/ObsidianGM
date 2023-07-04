@@ -1,7 +1,5 @@
 ---
 File: Catoblepas
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/catoblepas
 Group: 
 aliases: 
 Brief: This ugly creature has a boar-like head with short antlers, a thick bullish body covered in spines, and cloven hooves on its stumpy legs.
@@ -71,6 +69,8 @@ Description: The catoblepas is an aggressive beast at the best of times, willing
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/catoblepas)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

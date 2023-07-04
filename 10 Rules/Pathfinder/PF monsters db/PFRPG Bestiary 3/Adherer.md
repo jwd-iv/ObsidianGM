@@ -1,6 +1,5 @@
 ---
 File: Adherer
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Adherers look vaguely like embalmed and mummified corpses wrapped i
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

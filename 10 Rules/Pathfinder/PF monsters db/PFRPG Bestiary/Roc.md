@@ -1,7 +1,5 @@
 ---
 File: Roc
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/avians/roc
 Group: 
 aliases: 
 Brief: This immense raptor unleashes a shrill cry as it bares its talons, each large enough to carry off a horse.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/avians/roc)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

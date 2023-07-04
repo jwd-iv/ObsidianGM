@@ -1,7 +1,5 @@
 ---
 File: Viper
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-f/familiar/viper
 Group: Familiar
 aliases: 
 Brief: Presented here are the base animal statistics for all of the most commonly used familiars-of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify Climb and Swim checks.
@@ -71,6 +69,8 @@ Description: Vipers are not particularly aggressive snakes, but their poisonous 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-f/familiar/viper)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

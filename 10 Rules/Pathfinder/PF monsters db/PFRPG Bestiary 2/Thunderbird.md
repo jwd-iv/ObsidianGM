@@ -1,7 +1,5 @@
 ---
 File: Thunderbird
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thunderbird
 Group: 
 aliases: 
 Brief: This enormous bird has feathers the color of a stormy sky, a resemblance enhanced by the lightning that dances over its body.
@@ -75,6 +73,8 @@ Description: Thunderbirds bring the storm on their wings. In times of drought, t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thunderbird)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

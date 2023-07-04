@@ -1,7 +1,5 @@
 ---
 File: Animate Dream
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/animate-dream
 Group: 
 aliases: 
 Brief: This indistinct figure suddenly takes on a nightmarish shape, not quite human or animal or fiend.
@@ -71,6 +69,8 @@ Description: From time to time, when a powerfully imaginative sleeper wakes from
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/animate-dream)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

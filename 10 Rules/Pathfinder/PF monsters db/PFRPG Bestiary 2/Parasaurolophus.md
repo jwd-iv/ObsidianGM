@@ -1,7 +1,5 @@
 ---
 File: Parasaurolophus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/parasaurolophus
 Group: Dinosaur
 aliases: 
 Brief: This thick-bodied dinosaur has a whip-like tail and a long neck, its head topped by the crest of a backward-curving horn.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/parasaurolophus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

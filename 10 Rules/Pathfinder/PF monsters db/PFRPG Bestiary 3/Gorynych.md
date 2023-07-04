@@ -1,6 +1,5 @@
 ---
 File: Gorynych
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: This sinister beast threatens entire countrysides with its plunderi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

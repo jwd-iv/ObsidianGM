@@ -1,7 +1,5 @@
 ---
 File: Amoeba, Giant
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/amoeba-giant
 Group: 
 aliases: 
 Brief: This blob of protoplasm is somewhat transparent, allowing the bones of undigested meals and a dark nucleus to be seen within.
@@ -69,6 +67,8 @@ Description: A giant amoeba is a shapeless mass of living, liquid protoplasm. Th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/amoeba-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

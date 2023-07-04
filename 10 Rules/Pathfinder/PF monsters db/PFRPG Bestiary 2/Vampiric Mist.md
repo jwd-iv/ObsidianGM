@@ -1,7 +1,5 @@
 ---
 File: Vampiric Mist
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/vampiric-mist
 Group: 
 aliases: 
 Brief: A cloud of crimson vapor reeking of fresh blood hangs in the air, reaching out with lashing claws.
@@ -77,6 +75,8 @@ Description: Often mistaken for a vampire in gaseous form or an unusual type of 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/vampiric-mist)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Seaweed Siren
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -79,6 +78,8 @@ Description: A seaweed siren is a predator that uses false humanlike heads on it
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

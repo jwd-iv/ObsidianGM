@@ -1,6 +1,5 @@
 ---
 File: Hyakume
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Hideous and corpulent, with numerous eyes dotting their bodies, hya
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

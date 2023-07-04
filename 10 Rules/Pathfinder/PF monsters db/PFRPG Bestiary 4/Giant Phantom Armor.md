@@ -1,6 +1,5 @@
 ---
 File: Giant Phantom Armor
-Source: PFRPG Bestiary 4
 URL: 
 Group: Phantom Armor
 aliases: 
@@ -69,6 +68,8 @@ Description: Arising from the armored remains of towering humanoids, these suits
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

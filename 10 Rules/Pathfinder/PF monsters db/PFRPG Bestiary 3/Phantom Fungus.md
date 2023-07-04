@@ -1,6 +1,5 @@
 ---
 File: Phantom Fungus
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: A phantom fungus is a tripedal carnivorous plant that roams the vas
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

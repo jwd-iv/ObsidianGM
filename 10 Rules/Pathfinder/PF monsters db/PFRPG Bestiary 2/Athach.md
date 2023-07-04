@@ -1,7 +1,5 @@
 ---
 File: Athach
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/athach
 Group: 
 aliases: 
 Brief: This giant's maw contains a pair of dripping tusks, but it is its gangly third arm that makes its appearance truly bizarre.
@@ -73,6 +71,8 @@ Description: An athach is a twisted kind of giant, cruel and thuggish. It lives 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/athach)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

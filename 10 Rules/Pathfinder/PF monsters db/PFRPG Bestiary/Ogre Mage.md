@@ -1,7 +1,5 @@
 ---
 File: Ogre Mage
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/ogre-mage
 Group: Oni
 aliases: 
 Brief: Clad in beautiful armor, this exotically garbed giant roars, its tusks glistening and its eyes afire with murderous intent.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/ogre-mage)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

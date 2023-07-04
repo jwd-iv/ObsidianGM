@@ -1,7 +1,5 @@
 ---
 File: Giant Black Widow Spider
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary-overflow/giant-black-widow-spider
 Group: Spider
 aliases: 
 Brief: This long-legged spider has a huge, glossy black abdomen, marked on the underside with the shape of a crimson hourglass.
@@ -73,6 +71,8 @@ Description: Females of this species are larger than males.  Males are identical
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary-overflow/giant-black-widow-spider)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

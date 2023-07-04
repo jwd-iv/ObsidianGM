@@ -1,7 +1,5 @@
 ---
 File: Bone Devil
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/bone
 Group: Devil
 aliases: 
 Brief: Merging the most horrifying features of carrion-fed insect and withered cadaver, this bony devil moves in unsettling lurches.
@@ -71,6 +69,8 @@ Description: The interrogators and inquisitors of devilkind, bone devils delight
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/bone)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

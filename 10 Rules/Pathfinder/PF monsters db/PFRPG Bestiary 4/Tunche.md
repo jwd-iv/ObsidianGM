@@ -1,6 +1,5 @@
 ---
 File: Tunche
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: A tunche is a bizarre forest creature with twisted feline legs, a d
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

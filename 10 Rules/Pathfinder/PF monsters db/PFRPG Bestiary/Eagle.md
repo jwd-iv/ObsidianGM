@@ -1,7 +1,5 @@
 ---
 File: Eagle
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/avians/eagle
 Group: 
 aliases: 
 Brief: This magnificent bird of prey has dark feathers save for those on its head, which are pure white.
@@ -69,6 +67,8 @@ Description: Among the most majestic of raptors, these predatory birds pluck fis
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/avians/eagle)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

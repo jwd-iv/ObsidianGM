@@ -1,6 +1,5 @@
 ---
 File: Gug Savant
-Source: d20pfsrd
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: Some bloodthirsty gugs gain awful powers as gifts from their alien 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

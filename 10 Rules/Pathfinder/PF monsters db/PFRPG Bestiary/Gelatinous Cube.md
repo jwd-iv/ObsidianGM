@@ -1,7 +1,5 @@
 ---
 File: Gelatinous Cube
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/gelatinous-cube
 Group: 
 aliases: 
 Brief: Bits of broken weapons, coins, and a partially digested skeleton are visible inside this quivering cube of slime.
@@ -77,6 +75,8 @@ Description: One of the dungeon's most unusual and specialized predators, gelati
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/gelatinous-cube)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

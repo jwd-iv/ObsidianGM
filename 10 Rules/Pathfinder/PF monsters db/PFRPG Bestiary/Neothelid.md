@@ -1,7 +1,5 @@
 ---
 File: Neothelid
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neothelid
 Group: 
 aliases: 
 Brief: Its slime-drenched length coiled upon itself in a shuddering mountain, this huge worm's tentacled head rises like a snake's.
@@ -75,6 +73,8 @@ Description: Dwelling only in the deepest reaches of the underworld, the immense
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neothelid)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

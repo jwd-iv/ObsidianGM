@@ -1,6 +1,5 @@
 ---
 File: Interlocutor
-Source: PFRPG Bestiary 3
 URL: 
 Group: Kyton
 aliases: 
@@ -73,6 +72,8 @@ Description: Interlocutors are the self-proclaimed surgeon-sculptors among kyton
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

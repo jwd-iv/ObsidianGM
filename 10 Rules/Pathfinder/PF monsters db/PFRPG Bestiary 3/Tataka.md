@@ -1,6 +1,5 @@
 ---
 File: Tataka
-Source: PFRPG Bestiary 3
 URL: 
 Group: Rakshasa
 aliases: 
@@ -79,6 +78,8 @@ Description: Tataka rakshasas are the least subtle and largest of their kind. Th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

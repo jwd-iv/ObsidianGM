@@ -1,7 +1,5 @@
 ---
 File: Giant Whiptail Centipede
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-giant-whiptail
 Group: Centipede
 aliases: 
 Brief: An elephantine centipede scurries about, its double tail lashing angrily behind it.
@@ -73,6 +71,8 @@ Description: Whiptail centipedes are carrion eaters, though corpses large enough
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-giant-whiptail)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

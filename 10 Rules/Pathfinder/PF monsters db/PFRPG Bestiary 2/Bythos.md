@@ -1,7 +1,5 @@
 ---
 File: Bythos
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-bythos
 Group: Aeon
 aliases: 
 Brief: A shimmering, colorless mass congeals to form a four-armed humanoid shape with an eye-like pattern in its torso.
@@ -75,6 +73,8 @@ Description: The bythos are guardians of time and planar travel-indeed, to bytho
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-bythos)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

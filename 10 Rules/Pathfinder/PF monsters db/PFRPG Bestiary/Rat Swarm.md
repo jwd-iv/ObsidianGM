@@ -1,7 +1,5 @@
 ---
 File: Rat Swarm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/rodents/rat/rat-swarm
 Group: Rat
 aliases: 
 Brief: A squirming, roiling mass of squeaking rats draws closer, teeth flashing and claws scratching everything in its path.
@@ -71,6 +69,8 @@ Description: A rat swarm typically consists of a biting, roiling mass of hundred
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/rodents/rat/rat-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

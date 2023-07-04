@@ -1,7 +1,5 @@
 ---
 File: Lizardfolk
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lizardfolk
 Group: 
 aliases: 
 Brief: This reptilian humanoid has green scales, a short and toothy snout, and a thick alligator-like tail.
@@ -71,6 +69,8 @@ Description: Lizardfolk are proud and powerful reptilian predators that make the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lizardfolk)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Lamia Matriarch
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/lamia-matriarch
 Group: 
 aliases: 
 Brief: This creature looks like a beautiful human woman from the waist up, but below is the body and tail of an immense snake.
@@ -78,6 +76,8 @@ Description: The queens of a race consumed by bitterness and predatory instinct,
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/lamia-matriarch)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

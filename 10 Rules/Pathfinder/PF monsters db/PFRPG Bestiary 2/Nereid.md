@@ -1,7 +1,5 @@
 ---
 File: Nereid
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/nereid
 Group: 
 aliases: 
 Brief: This beautiful woman has pearlescent skin and long, dark hair. Her nudity is barely hidden by a diaphanous, wet shawl.
@@ -81,6 +79,8 @@ Description: Nereids are capricious and often dangerous aquatic fey that appear 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/nereid)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

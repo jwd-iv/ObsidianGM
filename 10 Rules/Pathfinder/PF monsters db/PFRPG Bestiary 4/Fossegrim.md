@@ -1,6 +1,5 @@
 ---
 File: Fossegrim
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Pale and possessing unnatural beauty, fossegrims are wicked fey who
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

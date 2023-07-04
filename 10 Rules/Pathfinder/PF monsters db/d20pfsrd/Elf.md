@@ -1,6 +1,5 @@
 ---
 File: Elf
-Source: d20pfsrd
 URL:
 Group:
 aliases:
@@ -94,6 +93,8 @@ Description: >
 Race: Elf
 Class: rogue 1
 MR:
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

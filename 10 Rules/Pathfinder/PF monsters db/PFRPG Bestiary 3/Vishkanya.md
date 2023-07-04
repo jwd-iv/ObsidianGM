@@ -1,6 +1,5 @@
 ---
 File: Vishkanya
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -74,6 +73,8 @@ Description: >
 Race: Vishkanya
 Class: ninja 1
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

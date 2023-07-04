@@ -1,7 +1,5 @@
 ---
 File: Salamander
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/salamander
 Group: 
 aliases: 
 Brief: This snake-bodied humanoid hisses with anger. Spines of crackling flame dance along the creature's blackened, fiery-red scales.
@@ -71,6 +69,8 @@ Description: Salamanders are native to the Plane of Fire, where their legions of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/salamander)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

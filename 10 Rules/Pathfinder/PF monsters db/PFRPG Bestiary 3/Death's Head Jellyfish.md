@@ -1,6 +1,5 @@
 ---
 File: Death's Head Jellyfish
-Source: PFRPG Bestiary 3
 URL: 
 Group: Jellyfish
 aliases: 
@@ -71,6 +70,8 @@ Description: Most common in warm or temperate waters, the death's head jellyfish
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

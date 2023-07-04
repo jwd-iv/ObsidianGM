@@ -1,7 +1,5 @@
 ---
 File: Skum (Ulat-Kini)
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/skum
 Group: Skum
 aliases: 
 Brief: This hunchbacked, green-skinned humanoid has a wide, frog-like head but a mouth more akin to that of a toothy fish.
@@ -69,6 +67,8 @@ Description: Skum are the most prolific and successful of the countless races cr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/skum)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Dossenus
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: A dossenus is a subterranean pack hunter that can digest almost any
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

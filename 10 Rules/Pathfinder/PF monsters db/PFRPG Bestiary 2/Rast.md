@@ -1,7 +1,5 @@
 ---
 File: Rast
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/rast
 Group: 
 aliases: 
 Brief: This bulbous creature consists of many tangled legs, a bulging body of puffed flesh, and a mouth filled with sharp fangs.
@@ -71,6 +69,8 @@ Description: Hailing from the barren wastes of the Plane of Fire, the rast is as
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/rast)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

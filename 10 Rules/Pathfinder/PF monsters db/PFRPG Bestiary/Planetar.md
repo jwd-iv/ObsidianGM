@@ -1,7 +1,5 @@
 ---
 File: Planetar
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/planetar
 Group: Angel
 aliases: 
 Brief: Muscular, bald, and tall, this humanoid creature has emerald skin and two pairs of shining, white-feathered wings.
@@ -79,6 +77,8 @@ Description: Planetars are the generals of celestial armies. A typical planetar 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/planetar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

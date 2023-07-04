@@ -1,6 +1,5 @@
 ---
 File: Fjord Linnorm
-Source: PFRPG Bestiary 3
 URL: 
 Group: Linnorm
 aliases: 
@@ -75,6 +74,8 @@ Description: Fjord linnorms dwell among the deep waters that grace northern coas
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

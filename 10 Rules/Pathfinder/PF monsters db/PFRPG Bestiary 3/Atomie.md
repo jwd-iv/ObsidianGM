@@ -1,6 +1,5 @@
 ---
 File: Atomie
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: Atomies perceive themselves as larger than they actually are. Like 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Morlock
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/morlock
 Group: 
 aliases: 
 Brief: Skin pale as a slug's belly, eyes huge and bulging, this thing crawls down the wall like a spider, but its shape is hideously humanoid.
@@ -75,6 +73,8 @@ Description: Degenerate humans long lost from the world of light, morlocks have 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/morlock)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

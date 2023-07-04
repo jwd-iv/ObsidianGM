@@ -1,6 +1,5 @@
 ---
 File: Carbuncle
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Never have legend and misinformation met upon a more inauspicious b
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Adhukait
-Source: PFRPG Bestiary 3
 URL: 
 Group: Asura
 aliases: 
@@ -73,6 +72,8 @@ Description: Known also as the twinned ones, adhukaits are warrior asuras, speci
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

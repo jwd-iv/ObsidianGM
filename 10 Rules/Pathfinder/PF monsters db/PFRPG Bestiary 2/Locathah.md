@@ -1,7 +1,5 @@
 ---
 File: Locathah
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/locathah
 Group: 
 aliases: 
 Brief: This lean humanoid bears crested fins on its head and back, and has the wide-eyed and wide-lipped face of a fish.
@@ -69,6 +67,8 @@ Description: Simple aquatic creatures shunned by landwalkers and undersea folk a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/locathah)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

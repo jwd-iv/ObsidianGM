@@ -1,6 +1,5 @@
 ---
 File: Faerie Dragon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Dragon
 aliases: 
@@ -74,6 +73,8 @@ Description: Related to pseudodragons, faerie dragons are whimsical, playful pra
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Sea Hag
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/sea-hag
 Group: hag
 aliases: 
 Brief: Hair like rotting seaweed drapes this ancient witch. Loose, algae-colored skin sags off her starved frame.
@@ -73,6 +71,8 @@ Description: Monstrous sea witches, these wicked hags possess terrifying feature
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/sea-hag)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

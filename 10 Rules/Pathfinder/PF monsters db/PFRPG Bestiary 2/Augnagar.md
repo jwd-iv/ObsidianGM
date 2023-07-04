@@ -1,7 +1,5 @@
 ---
 File: Augnagar
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-augnagar
 Group: Qlippoth
 aliases: 
 Brief: This enormous, spider-like creature has three clawed tails and eight legs connected by leathery webs of flesh.
@@ -73,6 +71,8 @@ Description: The immense augnagar is relatively slow-witted. As an outsider, it 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-augnagar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

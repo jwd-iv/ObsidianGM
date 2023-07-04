@@ -1,7 +1,5 @@
 ---
 File: Ankylosaurus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/ankylosaurus
 Group: Dinosaur
 aliases: 
 Brief: Thick bony plates armor the domelike back of this quadrupedal dinosaur, its powerfully muscled tail ending in a bony club.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/ankylosaurus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

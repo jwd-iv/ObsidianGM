@@ -1,7 +1,5 @@
 ---
 File: Wyvern
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/wyvern
 Group: 
 aliases: 
 Brief: A dark blue dragon, its wings immense and its tail tipped with a hooked stinger, lands on two taloned feet and roars a challenge.
@@ -71,6 +69,8 @@ Description: Wyverns are nasty, brutish, and violent reptilian beasts akin to mo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/wyvern)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

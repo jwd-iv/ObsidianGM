@@ -1,6 +1,5 @@
 ---
 File: Great Wyrm Umbral Dragon
-Source: d20pfsrd
 URL: 
 Group: Primal Dragon
 aliases: 
@@ -92,6 +91,8 @@ Description: Cruel and sadistic, umbral dragons prefer the taste of undead flesh
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

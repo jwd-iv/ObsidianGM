@@ -1,7 +1,5 @@
 ---
 File: Vargouille
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/vargouille
 Group: 
 aliases: 
 Brief: This creature is a blackened, bat-winged fiend's head. Tentacles dangle from chin and scalp, and its fanged mouth hangs agape.
@@ -75,6 +73,8 @@ Description: A vargouille is larger than a human head, typically between 12 and 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/vargouille)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

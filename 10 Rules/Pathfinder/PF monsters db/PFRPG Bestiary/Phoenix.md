@@ -1,7 +1,5 @@
 ---
 File: Phoenix
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/phoenix
 Group: 
 aliases: 
 Brief: This immense bird seems to be made of living flame. It spreads its wings and gives vent to a musical cry as it takes to the air.
@@ -73,6 +71,8 @@ Description: The phoenix is a legendary bird of fire that dwells in the most rem
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/phoenix)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

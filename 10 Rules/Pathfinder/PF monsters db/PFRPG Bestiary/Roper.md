@@ -1,7 +1,5 @@
 ---
 File: Roper
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/roper
 Group: 
 aliases: 
 Brief: A huge eye opens in this conical creature's front, just above a toothy mouth. Long strands of fibrous material whip from its sides.
@@ -71,6 +69,8 @@ Description: The roper is an ambush hunter. Capable of altering the coloration a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/roper)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

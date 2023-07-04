@@ -1,6 +1,5 @@
 ---
 File: Black Jinni
-Source: d20pfsrd
 URL: 
 Group: 
 aliases: 
@@ -83,6 +82,8 @@ Description: Thought by many, even among the jann, to be myths and dark legends,
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

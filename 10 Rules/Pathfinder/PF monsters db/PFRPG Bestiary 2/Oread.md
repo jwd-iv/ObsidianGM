@@ -1,7 +1,5 @@
 ---
 File: Oread
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oread
 Group: 
 aliases: 
 Brief: This large warrior appears heavy and solid, with chiseled, angular features that make her look almost like a statue brought to life.
@@ -72,6 +70,8 @@ Description: >
 Race: Oread
 Class: fighter 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oread)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

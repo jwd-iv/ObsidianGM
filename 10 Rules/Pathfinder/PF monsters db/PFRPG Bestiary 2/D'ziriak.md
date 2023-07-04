@@ -1,7 +1,5 @@
 ---
 File: D'ziriak
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/d-ziriak
 Group: 
 aliases: 
 Brief: This four-armed creature looks like a cross between a human and a black and ochre termite. Its body and arms display glowing runes.
@@ -73,6 +71,8 @@ Description: Natives of the Plane of Shadow, d'ziriaks are a mysterious race of 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/d-ziriak)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

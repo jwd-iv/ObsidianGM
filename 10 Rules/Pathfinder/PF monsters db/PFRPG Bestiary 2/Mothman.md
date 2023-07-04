@@ -1,7 +1,5 @@
 ---
 File: Mothman
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/mothman
 Group: 
 aliases: 
 Brief: A shroud of dark wings cloaks this thin, humanoid shape. Two monstrous red eyes glare malevolently from its narrow face.
@@ -73,6 +71,8 @@ Description: Little is known of these strange creatures, save that when they app
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/mothman)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

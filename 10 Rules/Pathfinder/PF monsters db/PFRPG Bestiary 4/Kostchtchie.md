@@ -1,6 +1,5 @@
 ---
 File: Kostchtchie
-Source: PFRPG Bestiary 4
 URL: 
 Group: Demon Lord
 aliases: 
@@ -80,6 +79,8 @@ Description: Kostchtchie (pronounced kosh-TIK-ti-kai) appears as an immense, def
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

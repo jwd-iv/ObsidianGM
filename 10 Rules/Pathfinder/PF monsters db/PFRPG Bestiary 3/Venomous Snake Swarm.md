@@ -1,6 +1,5 @@
 ---
 File: Venomous Snake Swarm
-Source: PFRPG Bestiary 3
 URL: 
 Group: Snake Swarm
 aliases: 
@@ -71,6 +70,8 @@ Description: While all snake swarms are dangerous, swarms made up of venomous sn
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

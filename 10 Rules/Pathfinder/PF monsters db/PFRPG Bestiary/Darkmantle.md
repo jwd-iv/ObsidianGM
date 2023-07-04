@@ -1,7 +1,5 @@
 ---
 File: Darkmantle
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/darkmantle
 Group: 
 aliases: 
 Brief: As this creature falls from the cavern roof, it opens like a hideous octopus, its thin, hook-lined tentacles connected by a fleshy web.
@@ -69,6 +67,8 @@ Description: A darkmantle's tentacle-span measures just under 5 feet- when attac
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/darkmantle)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

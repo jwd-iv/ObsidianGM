@@ -1,7 +1,5 @@
 ---
 File: Ghaele Azata
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/ghaele
 Group: Azata
 aliases: 
 Brief: This elegantly armored sentinel stands alert, her eyes radiating divine light and her noble blade crackling with power.
@@ -84,6 +82,8 @@ Description: Ghaeles are the most knightly of the azatas, hunting fiends, dragon
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/ghaele)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

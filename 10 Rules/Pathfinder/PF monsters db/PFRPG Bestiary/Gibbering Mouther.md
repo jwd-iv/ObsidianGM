@@ -1,7 +1,5 @@
 ---
 File: Gibbering Mouther
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gibbering-mouther
 Group: 
 aliases: 
 Brief: This horrid mass of eyes, mouths, and formless flesh stares in all directions, its countless maws yammering ceaselessly.
@@ -83,6 +81,8 @@ Description: Disgusting, loathsome, and hungry-these are the only words that pro
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gibbering-mouther)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

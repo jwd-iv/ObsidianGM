@@ -1,6 +1,5 @@
 ---
 File: Doru
-Source: PFRPG Bestiary 3
 URL: 
 Group: Div
 aliases: 
@@ -71,6 +70,8 @@ Description: Dorus are the divs that whisper in the night, the foul inspiration 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Marid
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/marid
 Group: Genie
 aliases: 
 Brief: This being resembles a powerful giant with hairless blue-green skin, deep blue eyes, flamboyant eyebrows, and pearlescent teeth.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/marid)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

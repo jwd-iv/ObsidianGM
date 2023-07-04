@@ -1,6 +1,5 @@
 ---
 File: Myrmecoleon
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: This monstrous, insectlike beast resembles a huge beetle with gleam
 Race: 
 Class: 
 MR: 3
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: River Giant
-Source: PFRPG Bestiary 4
 URL: 
 Group: Giant
 aliases: 
@@ -69,6 +68,8 @@ Description: River giants traverse inland waterways, moving where the current ta
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

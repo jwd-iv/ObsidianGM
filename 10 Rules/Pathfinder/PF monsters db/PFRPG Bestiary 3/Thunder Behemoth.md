@@ -1,6 +1,5 @@
 ---
 File: Thunder Behemoth
-Source: PFRPG Bestiary 3
 URL: 
 Group: Behemoth
 aliases: 
@@ -75,6 +74,8 @@ Description: Thunder behemoths walk the land as little more than roving appetite
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

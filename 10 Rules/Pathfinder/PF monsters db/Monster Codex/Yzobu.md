@@ -1,6 +1,5 @@
 ---
 File: Yzobu
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -72,6 +71,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

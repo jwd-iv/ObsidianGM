@@ -1,7 +1,5 @@
 ---
 File: Small Water Elemental
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/water
 Group: Elemental
 aliases: 
 Brief: This translucent creature's shape shifts between a spinning column of water and a crashing wave.
@@ -75,6 +73,8 @@ Description: Water elementals are patient, relentless creatures made of living f
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/water)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

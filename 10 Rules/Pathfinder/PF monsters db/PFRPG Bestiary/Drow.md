@@ -1,7 +1,5 @@
 ---
 File: Drow
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/drow-1
 Group: 
 aliases: 
 Brief: This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless.
@@ -72,6 +70,8 @@ Description: >
 Race: Drow
 Class: warrior 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/drow-1)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

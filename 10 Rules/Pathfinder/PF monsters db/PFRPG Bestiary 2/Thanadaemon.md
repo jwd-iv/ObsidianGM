@@ -1,7 +1,5 @@
 ---
 File: Thanadaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/thanadaemon
 Group: Daemon
 aliases: 
 Brief: Rattling with each stride, this looming, horned, skeletal figure clutches a wicked staff. A seething glow burns in its eye sockets.
@@ -75,6 +73,8 @@ Description: While all daemons represent death in some fashion, thanadaemons, th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/thanadaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

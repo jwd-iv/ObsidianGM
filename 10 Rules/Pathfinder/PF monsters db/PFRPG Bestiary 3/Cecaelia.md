@@ -1,6 +1,5 @@
 ---
 File: Cecaelia
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Cecaelias are intelligent human-octopus hybrids that hunt coastline
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

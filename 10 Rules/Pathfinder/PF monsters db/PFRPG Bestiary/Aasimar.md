@@ -1,7 +1,5 @@
 ---
 File: Aasimar
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aasimar
 Group: 
 aliases: 
 Brief: This supernaturally beautiful woman looks human, yet emanates a strange sense of calm and benevolence.
@@ -73,6 +71,8 @@ Description: >
 Race: Aasimar
 Class: cleric 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aasimar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

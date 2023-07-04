@@ -1,6 +1,5 @@
 ---
 File: Fleshdreg
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Fleshdregs are misshapen lumps of tissue, appendages, and biting mo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

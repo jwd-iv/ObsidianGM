@@ -1,6 +1,5 @@
 ---
 File: Leanan Sidhe
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Leanan sidhe are regal fey who pride themselves as patrons of the a
 Race: 
 Class: 
 MR: 3
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

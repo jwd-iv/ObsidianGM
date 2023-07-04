@@ -1,7 +1,5 @@
 ---
 File: Boar
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/boar
 Group: 
 aliases: 
 Brief: This ill-tempered beast's tiny, bloodshot eyes glare angrily above a mouth filled with sharp tusks.
@@ -69,6 +67,8 @@ Description: Much more ill-tempered and dangerous than their domesticated kin, b
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/boar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

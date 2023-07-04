@@ -1,6 +1,5 @@
 ---
 File: Spawn Of Yog-Sothoth
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: The spawn of Yog-Sothoth are begotten upon the world as the results
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

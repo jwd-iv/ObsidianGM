@@ -1,6 +1,5 @@
 ---
 File: Annis Hag
-Source: PFRPG Bestiary 3
 URL: 
 Group: Hag
 aliases: 
@@ -69,6 +68,8 @@ Description: Also known as black hags or iron hags, annis hags are the largest a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

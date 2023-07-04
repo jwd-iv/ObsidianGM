@@ -1,6 +1,5 @@
 ---
 File: Adaro
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Malevolent denizens of the waters, adaros are among the fiercest se
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

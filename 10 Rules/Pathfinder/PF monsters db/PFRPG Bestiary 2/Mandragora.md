@@ -1,7 +1,5 @@
 ---
 File: Mandragora
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/mandragora
 Group: 
 aliases: 
 Brief: This filthy creature resembles a small, wide-mouthed fat child made from leaves, vines, tree bark, dirt, and pallid tubers.
@@ -75,6 +73,8 @@ Description: A mandragora rises spontaneously from a mandrake root that has draw
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/mandragora)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

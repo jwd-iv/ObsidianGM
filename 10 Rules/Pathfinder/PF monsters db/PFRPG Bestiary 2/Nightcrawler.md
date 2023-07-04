@@ -1,7 +1,5 @@
 ---
 File: Nightcrawler
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightcrawler
 Group: Nightshade
 aliases: 
 Brief: This immense worm is covered with plates of dead-black, chitinous armor. Its toothy maw yawns like a cave.
@@ -73,6 +71,8 @@ Description: Although the nightcrawler might appear to be little more than an im
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightcrawler)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

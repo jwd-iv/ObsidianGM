@@ -1,6 +1,5 @@
 ---
 File: Werebat
-Source: PFRPG Bestiary 4
 URL: 
 Group: Lycanthrope
 aliases: Human Form
@@ -69,6 +68,8 @@ Description: Werebats are hybrids of vampiric bats and humanoids, possessed of a
 Race: Human natural werebat
 Class: rogue 3
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

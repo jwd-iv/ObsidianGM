@@ -1,6 +1,5 @@
 ---
 File: Svathurim
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: Svathurims and frost giants consider each other allies and distant 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

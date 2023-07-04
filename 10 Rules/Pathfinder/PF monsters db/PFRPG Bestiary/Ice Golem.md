@@ -1,7 +1,5 @@
 ---
 File: Ice Golem
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/ice
 Group: Golem
 aliases: 
 Brief: This icy statue stands a head taller than a normal human. A rime of frost coats it, and razor-sharp shards of ice adorn its limbs.
@@ -75,6 +73,8 @@ Description: Ice golems are humanoid automatons formed of carved ice. Their appe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/ice)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

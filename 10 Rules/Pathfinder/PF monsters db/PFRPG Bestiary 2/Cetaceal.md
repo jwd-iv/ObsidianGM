@@ -1,7 +1,5 @@
 ---
 File: Cetaceal
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-cetaceal
 Group: Cetaceal
 aliases: 
 Brief: This mermaid-like creature has the torso and head of a longhaired woman and the lower half of a sleek killer whale.
@@ -75,6 +73,8 @@ Description: Cetaceals are great waterdwelling agathions who swim the planar sea
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-cetaceal)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

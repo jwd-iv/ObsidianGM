@@ -1,7 +1,5 @@
 ---
 File: Mihstu
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mihstu
 Group: 
 aliases: 
 Brief: A miasmal form roils as barbed tentacles emerge from the central mass, coalescing into razor-sharp talons and claws.
@@ -77,6 +75,8 @@ Description: The deadly mihstus hail from the Plane of Air. When they come to th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mihstu)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

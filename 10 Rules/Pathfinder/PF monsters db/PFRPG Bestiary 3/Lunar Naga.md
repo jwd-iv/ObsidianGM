@@ -1,6 +1,5 @@
 ---
 File: Lunar Naga
-Source: PFRPG Bestiary 3
 URL: 
 Group: Naga
 aliases: 
@@ -77,6 +76,8 @@ Description: Lunar nagas are patient watchers of the night sky. They enjoy cosmo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

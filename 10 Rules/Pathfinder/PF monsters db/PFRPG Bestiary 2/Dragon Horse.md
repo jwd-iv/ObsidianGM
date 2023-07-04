@@ -1,7 +1,5 @@
 ---
 File: Dragon Horse
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/dragon-horse
 Group: 
 aliases: 
 Brief: The glossy alabaster coat of this noble horse ripples with muscles, while its hooves shimmer with pale blue energy.
@@ -77,6 +75,8 @@ Description: Despite their name, dragon horses are not related to dragons. These
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/dragon-horse)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

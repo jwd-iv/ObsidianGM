@@ -1,7 +1,5 @@
 ---
 File: Homunculus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/homunculus
 Group: 
 aliases: 
 Brief: This vaguely humanoid creature is about the size of a cat but looks more like a toothy, winged devil.
@@ -73,6 +71,8 @@ Description: A homunculus is a miniature servant created by a spellcaster from h
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/homunculus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

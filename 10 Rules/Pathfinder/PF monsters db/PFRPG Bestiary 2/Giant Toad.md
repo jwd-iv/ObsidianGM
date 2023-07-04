@@ -1,7 +1,5 @@
 ---
 File: Giant Toad
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/amphibians/toad-giant
 Group: Toad
 aliases: 
 Brief: Stubby warts dot the skin of this horse-sized brown toad. Its throat bulges and ripples as though about to croak.
@@ -71,6 +69,8 @@ Description: Most giant toads live in dryer areas after maturing, returning to t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/amphibians/toad-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

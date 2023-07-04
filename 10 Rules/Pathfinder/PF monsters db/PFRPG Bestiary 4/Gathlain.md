@@ -1,7 +1,5 @@
 ---
 File: Gathlain
-Source: PFRPG Bestiary 4
-URL: https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain/
 Group: 
 aliases: 
 Brief: Wings composed of wood and vines grow out of the body of this lithesome fey.
@@ -73,6 +71,8 @@ Description: >
 Race: Gathlain
 Class: sorcerer 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 4](https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain/)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

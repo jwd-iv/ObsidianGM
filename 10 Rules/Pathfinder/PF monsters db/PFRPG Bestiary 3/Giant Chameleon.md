@@ -1,6 +1,5 @@
 ---
 File: Giant Chameleon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Lizard
 aliases: 
@@ -71,6 +70,8 @@ Description: These large lizards have the ability to shift the pigments in their
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

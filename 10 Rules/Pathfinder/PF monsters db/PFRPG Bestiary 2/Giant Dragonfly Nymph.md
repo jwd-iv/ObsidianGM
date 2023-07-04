@@ -1,7 +1,5 @@
 ---
 File: Giant Dragonfly Nymph
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/dragonfly-giant/dragonfly-giant-nymph
 Group: Dragonfly
 aliases: 
 Brief: This glittering blue dragonfly is about the size of a horse and is large enough to carry off small farm animals or people.
@@ -71,6 +69,8 @@ Description: Giant dragonf lies lay clutches of eggs in swampy terrain or areas 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/dragonfly-giant/dragonfly-giant-nymph)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

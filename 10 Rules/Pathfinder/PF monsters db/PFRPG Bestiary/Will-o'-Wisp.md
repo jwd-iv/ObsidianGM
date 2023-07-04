@@ -1,7 +1,5 @@
 ---
 File: Will-o'-Wisp
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/will-o--wisp
 Group: 
 aliases: 
 Brief: This faintly glowing ball of light bobs gently in the air, the nebulous image of what might be a skull visible somewhere in its depths.
@@ -75,6 +73,8 @@ Description: Every trapper and bog farmer living near marshes or swamps has his 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/will-o--wisp)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

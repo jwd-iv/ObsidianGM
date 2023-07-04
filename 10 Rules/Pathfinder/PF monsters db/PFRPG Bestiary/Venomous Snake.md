@@ -1,7 +1,5 @@
 ---
 File: Venomous Snake
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snake/venomous
 Group: Snake
 aliases: 
 Brief: This brightly colored snake assumes an aggressive posture, its hissing mouth open to display its fangs.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snake/venomous)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

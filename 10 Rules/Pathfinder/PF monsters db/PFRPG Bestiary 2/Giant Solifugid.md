@@ -1,7 +1,5 @@
 ---
 File: Giant Solifugid
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/solifugid/albino-cave-solifugid
 Group: Solifugid
 aliases: 
 Brief: This tan-colored creature looks like a ten-legged spider. Oversized jaws grind together slowly beneath beady eyes.
@@ -69,6 +67,8 @@ Description: Solifugids are sometimes called "camel spiders," "wind scorpions," 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/solifugid/albino-cave-solifugid)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

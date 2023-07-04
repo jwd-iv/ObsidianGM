@@ -1,6 +1,5 @@
 ---
 File: Thalassic Behemoth
-Source: PFRPG Bestiary 3
 URL: 
 Group: Behemoth
 aliases: 
@@ -71,6 +70,8 @@ Description: Sent by the gods to punish those who dwell near the sea, thalassic 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

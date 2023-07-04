@@ -1,6 +1,5 @@
 ---
 File: Ningyo
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -79,6 +78,8 @@ Description: The bane of fishermen and divers, ningyos lurk in tropical waters, 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

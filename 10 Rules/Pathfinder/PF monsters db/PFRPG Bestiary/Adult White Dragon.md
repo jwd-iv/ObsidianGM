@@ -1,7 +1,5 @@
 ---
 File: Adult White Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-d/dragon/-chromatic-white/adult-white-dragon
 Group: Chromatic Dragon
 aliases: 
 Brief: This dragon's scales are a frosty white. Its head is crowned with slender horns, with a thin membrane stretched between them.
@@ -88,6 +86,8 @@ Description: Although most consider it to be the weakest and most feral of the c
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-d/dragon/-chromatic-white/adult-white-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

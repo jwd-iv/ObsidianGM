@@ -1,7 +1,5 @@
 ---
 File: Lyrakien
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/azata-lyrakien
 Group: Azata
 aliases: 
 Brief: This tiny woman has a lithe form with delicate butterf ly wings. She is surrounded by sparkling lights and gentle rainbow arcs.
@@ -73,6 +71,8 @@ Description: Lyrakien are divine musicians and messengers, mainly in the employ 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/azata-lyrakien)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

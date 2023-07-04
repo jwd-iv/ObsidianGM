@@ -1,6 +1,5 @@
 ---
 File: Hollow Serpent
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -79,6 +78,8 @@ Description: Crafted from the shed skins of great snakes by serpentfolk necroman
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

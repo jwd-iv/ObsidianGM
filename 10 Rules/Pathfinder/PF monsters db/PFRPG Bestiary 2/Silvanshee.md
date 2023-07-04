@@ -1,7 +1,5 @@
 ---
 File: Silvanshee
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-silvanshee
 Group: Agathion
 aliases: 
 Brief: This black cat has gray stripes, violet eyes, and an unusual white blaze on its chest.
@@ -75,6 +73,8 @@ Description: Silvanshees are curious but reclusive cat agathions. Unobtrusive an
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-silvanshee)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Slurk
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/slurk
 Group: 
 aliases: 
 Brief: This disgusting beast looks like a slime-covered toad, but with two walrus-like tusks jutting from its upper jaw.
@@ -75,6 +73,8 @@ Description: Slurks are frog-like creatures, the descendants of the failed resul
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/slurk)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

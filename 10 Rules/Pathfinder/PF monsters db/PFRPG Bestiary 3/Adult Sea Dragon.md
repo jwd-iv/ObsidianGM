@@ -1,6 +1,5 @@
 ---
 File: Adult Sea Dragon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Imperial Dragon
 aliases: 
@@ -84,6 +83,8 @@ Description: Infused with the power of waves and storms, sea dragons- or jiaolun
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

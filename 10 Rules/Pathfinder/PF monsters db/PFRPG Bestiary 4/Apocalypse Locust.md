@@ -1,6 +1,5 @@
 ---
 File: Apocalypse Locust
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Apocalypse locusts are damned humans twisted and fused into the for
 Race: 
 Class: 
 MR: 3
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

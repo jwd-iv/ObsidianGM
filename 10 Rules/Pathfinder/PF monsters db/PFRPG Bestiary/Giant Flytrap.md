@@ -1,7 +1,5 @@
 ---
 File: Giant Flytrap
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/flytrap
 Group: Flytrap
 aliases: 
 Brief: This towering plant is a mass of vines and barbs. Several stalks are horribly mobile, each ending in a set of green, toothy jaws.
@@ -71,6 +69,8 @@ Description: A hardy plant that grows in areas with poor soil but abundant anima
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/plants/flytrap)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

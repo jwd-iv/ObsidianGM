@@ -1,7 +1,5 @@
 ---
 File: Wendigo
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/wendigo
 Group: 
 aliases: 
 Brief: This hideous shape has the head of a feral elk with jagged teeth and sharp antlers. Its humanoid legs end in blackened, burnt stumps.
@@ -77,6 +75,8 @@ Description: Beings of ancient evil, wendigos haunt the minds of mortals, drivin
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/wendigo)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

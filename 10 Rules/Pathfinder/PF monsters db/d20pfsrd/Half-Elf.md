@@ -1,6 +1,5 @@
 ---
 File: Half-Elf
-Source: d20pfsrd
 URL:
 Group:
 aliases:
@@ -75,6 +74,8 @@ Description: Half-elves stand taller than humans but shorter than elves. They
 Race: Half-elf
 Class: fighter 1
 MR:
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Kyton
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kyton
 Group: 
 aliases: 
 Brief: Wickedly barbed chains adorn this lean figure, and gaps in the bindings reveal deathly pale flesh etched with jagged scars.
@@ -75,6 +73,8 @@ Description: Often classified among the ranks of the infernal and called chain d
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kyton)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

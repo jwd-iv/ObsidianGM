@@ -1,7 +1,5 @@
 ---
 File: Accuser
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-accuser
 Group: Devil
 aliases: Zebub
 Brief: This childlike blasphemy conjoins the features of a plump human infant and a gigantic, gore-fattened fly.
@@ -73,6 +71,8 @@ Description: Childlike souls tormented and scoured of innocence by the flames of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-accuser)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

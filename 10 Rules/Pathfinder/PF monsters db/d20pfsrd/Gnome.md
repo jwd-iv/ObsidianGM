@@ -1,6 +1,5 @@
 ---
 File: Gnome
-Source: d20pfsrd
 URL:
 Group:
 aliases:
@@ -85,6 +84,8 @@ Description: >
 Race: Gnome
 Class: ranger 1
 MR:
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

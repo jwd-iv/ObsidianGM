@@ -1,6 +1,5 @@
 ---
 File: Kirrix
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Ratfolk have just as much enthusiasm for alchemy as they do for rod
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

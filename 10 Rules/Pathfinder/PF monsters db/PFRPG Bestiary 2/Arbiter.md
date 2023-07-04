@@ -1,7 +1,5 @@
 ---
 File: Arbiter
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-arbiter
 Group: Inevitable
 aliases: 
 Brief: A sphere of bronze and copper set with a single eye, this winged creature has two clawed hands, one of which clutches a knife.
@@ -75,6 +73,8 @@ Description: Stealthy, observant, and frequently persuasive, arbiter inevitables
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-arbiter)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

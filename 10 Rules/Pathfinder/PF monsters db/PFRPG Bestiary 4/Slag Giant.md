@@ -1,6 +1,5 @@
 ---
 File: Slag Giant
-Source: PFRPG Bestiary 4
 URL: 
 Group: Giant
 aliases: 
@@ -71,6 +70,8 @@ Description: Magically crafted and crossbred from fire giants and stone giants b
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

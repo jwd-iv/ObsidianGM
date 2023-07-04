@@ -1,7 +1,5 @@
 ---
 File: Green Hag
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/green-hag
 Group: hag
 aliases: 
 Brief: Knots of dark, moldering hair spill over the features of this sickly, thin, green-skinned crone.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/green-hag)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Kasatha
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -80,6 +79,8 @@ Description: >
 Race: Kasatha
 Class: monk 1
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

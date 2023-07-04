@@ -1,7 +1,5 @@
 ---
 File: Giant Squid
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-s/squid/giant-squid
 Group: Squid
 aliases: 
 Brief: Immense in size, this great squid's tentacles writhe and flash with almost nauseating speed. The beast's eyes are as big as shields.
@@ -69,6 +67,8 @@ Description: The giant squid is a legendary beast capable of feeding on humans w
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-s/squid/giant-squid)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

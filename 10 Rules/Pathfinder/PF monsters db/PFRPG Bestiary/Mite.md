@@ -1,7 +1,5 @@
 ---
 File: Mite
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/mite
 Group: 
 aliases: 
 Brief: This squat humanoid seems to be nearly all head-an unfortunate circumstance, considering how ugly its puffy blue face is.
@@ -73,6 +71,8 @@ Description: Descended from even smaller fey, the mites are among the most pitif
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/fey/mite)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

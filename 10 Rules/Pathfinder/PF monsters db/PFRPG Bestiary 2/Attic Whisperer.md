@@ -1,7 +1,5 @@
 ---
 File: Attic Whisperer
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/attic-whisperer
 Group: 
 aliases: 
 Brief: This thing resembles a gray, emaciated child, with cobwebs and dust for clothes and a fox skull for a head.
@@ -75,6 +73,8 @@ Description: An attic whisperer spawns as the result of a lonely or neglected ch
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/attic-whisperer)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

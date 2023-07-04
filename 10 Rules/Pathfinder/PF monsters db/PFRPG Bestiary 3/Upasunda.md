@@ -1,6 +1,5 @@
 ---
 File: Upasunda
-Source: PFRPG Bestiary 3
 URL: 
 Group: Asura
 aliases: 
@@ -73,6 +72,8 @@ Description: Upasundas, also called beatific ones, are asuras who devote themsel
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

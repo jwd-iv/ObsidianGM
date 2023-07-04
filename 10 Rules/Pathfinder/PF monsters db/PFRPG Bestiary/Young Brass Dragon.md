@@ -1,7 +1,5 @@
 ---
 File: Young Brass Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-brass/young-brass-dragon
 Group: Metallic Dragon
 aliases: 
 Brief: A crest of horns sweeps back from the head of this dragon, leading to a long neck and serpentine brass body.
@@ -86,6 +84,8 @@ Description: Consummate conversationalists, brass dragons prefer to talk instead
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-brass/young-brass-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

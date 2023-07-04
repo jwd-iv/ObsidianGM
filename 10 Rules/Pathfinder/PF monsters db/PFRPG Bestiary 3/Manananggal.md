@@ -1,6 +1,5 @@
 ---
 File: Manananggal
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Horrid undead, manananggals walk among the living by day and prey u
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

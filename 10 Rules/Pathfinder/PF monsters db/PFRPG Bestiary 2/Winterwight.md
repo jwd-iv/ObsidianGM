@@ -1,7 +1,5 @@
 ---
 File: Winterwight
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/winterwight
 Group: 
 aliases: 
 Brief: Human-sized and of a deathly blue color, this long-taloned skeletal creature is partially encased in jagged sheets of ice.
@@ -73,6 +71,8 @@ Description: The winterwight is an undead horror born from the coldest depths of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/winterwight)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

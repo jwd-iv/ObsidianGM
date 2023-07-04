@@ -1,7 +1,5 @@
 ---
 File: Krenshar
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/krenshar
 Group: 
 aliases: 
 Brief: This earless, panther-like beast snarls as the skin of its face twitches, then peels back to reveal the bone and flesh beneath.
@@ -71,6 +69,8 @@ Description: The krenshar is a strange creature that resembles a large but earle
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/krenshar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

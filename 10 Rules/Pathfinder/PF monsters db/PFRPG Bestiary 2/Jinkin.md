@@ -1,7 +1,5 @@
 ---
 File: Jinkin
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-jinkin
 Group: Gremlin
 aliases: 
 Brief: Grimacing like a maniac, this lean little bat-eared horror displays a mouth full of needle-like teeth and glowing, orange eyes.
@@ -71,6 +69,8 @@ Description: Sneaky and sadistic, jinkins are hideous gremlins that inhabit the 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-jinkin)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

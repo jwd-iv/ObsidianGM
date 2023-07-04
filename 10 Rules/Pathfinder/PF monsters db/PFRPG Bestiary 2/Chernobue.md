@@ -1,7 +1,5 @@
 ---
 File: Chernobue
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-chernobue
 Group: Qlippoth
 aliases: 
 Brief: This slippery, writhing mass of tentacles and stalked mouths has one huge hideous eye and a fanged maw for a belly.
@@ -77,6 +75,8 @@ Description: The chernobue is a living manifestation of the vile fecundity of th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-chernobue)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

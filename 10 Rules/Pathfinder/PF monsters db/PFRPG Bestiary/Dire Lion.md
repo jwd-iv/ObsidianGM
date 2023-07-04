@@ -1,6 +1,5 @@
 ---
 File: Dire Lion
-Source: PFRPG Bestiary
 URL: 
 Group: Lion
 aliases: Spotted Lion
@@ -69,6 +68,8 @@ Description: Dire lions, known locally as spotted lions or cave lions, are immen
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

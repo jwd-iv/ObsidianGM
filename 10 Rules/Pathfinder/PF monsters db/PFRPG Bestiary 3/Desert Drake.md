@@ -1,6 +1,5 @@
 ---
 File: Desert Drake
-Source: PFRPG Bestiary 3
 URL: 
 Group: Drake
 aliases: 
@@ -77,6 +76,8 @@ Description: Among the fiercest of their kind, desert drakes exhibit a lust for 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

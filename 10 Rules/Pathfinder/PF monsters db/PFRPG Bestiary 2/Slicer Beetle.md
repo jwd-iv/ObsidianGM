@@ -1,7 +1,5 @@
 ---
 File: Slicer Beetle
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-slicer
 Group: Beetle
 aliases: 
 Brief: This squat but nevertheless large beetle moves with a swift scuttling motion. Its mandibles appear to be remarkably sharp.
@@ -71,6 +69,8 @@ Description: The slicer beetle sports specialized mouthparts that scissor apart 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-slicer)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

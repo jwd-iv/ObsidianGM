@@ -1,7 +1,5 @@
 ---
 File: Sard
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/sard
 Group: 
 aliases: 
 Brief: This wriggling and leaf less tree moves on spidery legs. Flickering motes of blood-red lightning dance in the cracks of its bark.
@@ -79,6 +77,8 @@ Description: The sard is an ancient elm, oak, or pine tree that has been infused
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/sard)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

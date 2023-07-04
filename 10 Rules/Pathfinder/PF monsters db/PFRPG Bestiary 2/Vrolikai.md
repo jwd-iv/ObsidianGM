@@ -1,7 +1,5 @@
 ---
 File: Vrolikai
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-vrolikai
 Group: Demon
 aliases: 
 Brief: This black-skinned, bat-winged demon has four arms; a long, thin tail; and a leering, fanged face with dead, white eyes.
@@ -77,6 +75,8 @@ Description: A vrolikai is 14 feet tall but weighs only 500 pounds. Unlike other
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-vrolikai)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

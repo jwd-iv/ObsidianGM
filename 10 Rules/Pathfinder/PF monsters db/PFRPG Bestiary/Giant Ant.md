@@ -1,7 +1,5 @@
 ---
 File: Giant Ant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/ant/giant-ant
 Group: Ant
 aliases: 
 Brief: A thin, six-legged ant the size of a pony stands at the ready, its mandibles chittering and its stinger dripping with venom.
@@ -71,6 +69,8 @@ Description: Giant ants are as industrious as their normal-sized kin. While thei
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/ant/giant-ant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

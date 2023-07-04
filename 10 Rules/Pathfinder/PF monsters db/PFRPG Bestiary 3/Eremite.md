@@ -1,6 +1,5 @@
 ---
 File: Eremite
-Source: PFRPG Bestiary 3
 URL: 
 Group: Kyton
 aliases: 
@@ -81,6 +80,8 @@ Description: Eremites are among the eldest and most mutilated of kytons, having 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

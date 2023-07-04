@@ -1,6 +1,5 @@
 ---
 File: Giant Porcupine
-Source: PFRPG Bestiary 3
 URL: 
 Group: Porcupine
 aliases: 
@@ -71,6 +70,8 @@ Description: More so than its smaller kin, the human-sized giant porcupine is a 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Destrachan
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/destrachan
 Group: 
 aliases: 
 Brief: The hunched, reptilian beast lopes on two clawed feet, its eyeless head dominated by a huge circular maw filled with jagged teeth.
@@ -73,6 +71,8 @@ Description: Despite its bestial appearance, the destrachan is in fact a creatur
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/destrachan)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Pseudodragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/pseudodragon
 Group: 
 aliases: 
 Brief: This housecat-sized miniature dragon has fine scales, sharp horns, wicked little teeth, and a tail tipped with a barbed stinger.
@@ -71,6 +69,8 @@ Description: Pseudodragons are tiny cousins of true dragons, and are playful but
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/pseudodragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Hill Giant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/hill
 Group: Giant
 aliases: 
 Brief: This hunched giant exudes power and a crude, stupid anger, its filthy fur clothing bespeaking a brutish and backwoods lifestyle.
@@ -69,6 +67,8 @@ Description: Skin color among hill giants ranges from light tan to deep, ruddy b
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/hill)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

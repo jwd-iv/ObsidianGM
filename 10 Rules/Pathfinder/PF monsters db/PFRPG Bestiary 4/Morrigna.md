@@ -1,6 +1,5 @@
 ---
 File: Morrigna
-Source: PFRPG Bestiary 4
 URL: 
 Group: Psychopomp
 aliases: 
@@ -75,6 +74,8 @@ Description: Morrignas are Purgatory's investigators, bounty hunters, and assass
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

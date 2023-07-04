@@ -1,7 +1,5 @@
 ---
 File: Bralani Azata
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/bralani
 Group: Azata
 aliases: 
 Brief: Silver-white hair the color of a lightning strike whips about this poised elf-like archer, his eyes swirling with vibrant colors.
@@ -73,6 +71,8 @@ Description: Bralanis are among the fiercest and wildest of the azatas, living f
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/bralani)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

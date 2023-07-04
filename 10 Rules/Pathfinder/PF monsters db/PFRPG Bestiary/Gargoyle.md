@@ -1,7 +1,5 @@
 ---
 File: Gargoyle
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gargoyle
 Group: 
 aliases: 
 Brief: Seemingly carved from a dark gray stone, this sinister crouching humanoid resembles a horned, winged demon.
@@ -71,6 +69,8 @@ Description: Gargoyles often appear to be winged stone statues, for they can per
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gargoyle)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

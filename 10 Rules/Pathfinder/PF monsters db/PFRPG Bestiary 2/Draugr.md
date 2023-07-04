@@ -1,7 +1,5 @@
 ---
 File: Draugr
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/draugr
 Group: 
 aliases: 
 Brief: This barnacle-encrusted walking corpse looks like a zombie, but is dripping with water and gives off a nauseating stench.
@@ -71,6 +69,8 @@ Description: Draugr smell of decay and the sea, and drip water wherever they go.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/draugr)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

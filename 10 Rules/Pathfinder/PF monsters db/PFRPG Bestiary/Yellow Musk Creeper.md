@@ -1,7 +1,5 @@
 ---
 File: Yellow Musk Creeper
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/yellow-musk-creeper
 Group: 
 aliases: 
 Brief: Coiling around several human skeletons, this wet green plant's sickly flowers smoke with a nasty yellow vapor.
@@ -73,6 +71,8 @@ Description: The yellow musk creeper is a hideous plant that grows in haunted gr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/plants/yellow-musk-creeper)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

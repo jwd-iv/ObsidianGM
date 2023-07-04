@@ -1,7 +1,5 @@
 ---
 File: Ice Linnorm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/ice
 Group: Linnorm
 aliases: 
 Brief: A snake-like, dragon-headed monster of tremendous size rises up, drifts of snow and ice tumbling from its coiling flanks.
@@ -79,6 +77,8 @@ Description: The ice linnorm dwells amid glacial crevasses and atop wind-blasted
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/ice)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

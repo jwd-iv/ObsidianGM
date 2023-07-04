@@ -1,7 +1,5 @@
 ---
 File: Hyena
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/hyena
 Group: 
 aliases: 
 Brief: This hyena is covered in shaggy, tan-colored fur with black and brown stripes.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/hyena)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

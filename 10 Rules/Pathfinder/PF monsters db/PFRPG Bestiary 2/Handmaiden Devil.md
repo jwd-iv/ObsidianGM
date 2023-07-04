@@ -1,7 +1,5 @@
 ---
 File: Handmaiden Devil
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-handmaiden
 Group: Devil
 aliases: Gylou
 Brief: Twin tentacles stretch from the crown of this feminine fiend's head, while her lower body blooms in a gown of writhing tendrils.
@@ -73,6 +71,8 @@ Description: Known as handmaiden devils, Mothers of Pain, and Maids of Miscarria
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-handmaiden)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Toshigami
-Source: PFRPG Bestiary 3
 URL: 
 Group: Kami
 aliases: 
@@ -71,6 +70,8 @@ Description: Toshigami, known also as blossom kami, are associated with cherry t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

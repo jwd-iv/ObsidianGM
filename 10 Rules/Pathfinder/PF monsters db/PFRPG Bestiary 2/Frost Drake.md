@@ -1,7 +1,5 @@
 ---
 File: Frost Drake
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/drake-frost
 Group: Drake
 aliases: 
 Brief: This two-legged dragon has dull blue scales tinged with bright blue ice. A freezing mist issues from between its powerful jaws.
@@ -77,6 +75,8 @@ Description: Degenerate cousins of white dragons, frost dragons are ferocious pr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/drake-frost)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

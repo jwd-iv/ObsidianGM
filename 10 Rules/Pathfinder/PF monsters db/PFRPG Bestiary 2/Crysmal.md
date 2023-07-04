@@ -1,7 +1,5 @@
 ---
 File: Crysmal
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/crysmal
 Group: 
 aliases: 
 Brief: An animated cluster of translucent crystals shaped disturbingly like a gemstone scorpion scuttles into an aggressive stance.
@@ -73,6 +71,8 @@ Description: Scorpion-like crysmals originate in the deepest caverns of the Plan
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/crysmal)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

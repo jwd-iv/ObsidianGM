@@ -1,7 +1,5 @@
 ---
 File: Lantern Archon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/lantern-archon
 Group: Archon
 aliases: 
 Brief: Shedding a warm and calming radiance, this orb of light moves with a preternatural silence and otherworldly grace.
@@ -74,6 +72,8 @@ Description: Friendly and curious beings, lantern archons eagerly converse with 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/lantern-archon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

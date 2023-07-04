@@ -1,7 +1,5 @@
 ---
 File: Tendriculos
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/tendriculos
 Group: 
 aliases: 
 Brief: This plant's thick trunk is capped by a crown of wide leaves, whipping vines, mushrooms, and a ravenous purple maw.
@@ -69,6 +67,8 @@ Description: A tendriculos is a creature brought into being through a corruption
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/tendriculos)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

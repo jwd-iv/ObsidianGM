@@ -1,6 +1,5 @@
 ---
 File: Vulture
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: Though related to raptors and other birds of prey, vultures mainly 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

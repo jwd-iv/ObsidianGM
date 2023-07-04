@@ -1,7 +1,5 @@
 ---
 File: Astral Deva
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/astral-deva
 Group: Astral Deva Angel
 aliases: 
 Brief: This tall, human-like creature has long, feathery wings and a gentle inner radiance that makes it difficult to look directly at.
@@ -73,6 +71,8 @@ Description: Astral devas are messengers of the gods of good. They watch over pl
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/astral-deva)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

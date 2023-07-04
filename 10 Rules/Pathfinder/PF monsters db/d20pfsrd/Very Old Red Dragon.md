@@ -1,6 +1,5 @@
 ---
 File: Very Old Red Dragon
-Source: d20pfsrd
 URL: 
 Group: Chromatic Dragon
 aliases: 
@@ -83,6 +82,8 @@ Description: Few creatures are more cruel and fearsome than the mighty red drago
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

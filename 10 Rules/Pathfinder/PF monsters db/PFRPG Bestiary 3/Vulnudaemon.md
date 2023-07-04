@@ -1,6 +1,5 @@
 ---
 File: Vulnudaemon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Daemon
 aliases: 
@@ -71,6 +70,8 @@ Description: These deceptive daemons personify death resulting from murder accen
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

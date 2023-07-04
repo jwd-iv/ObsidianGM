@@ -1,7 +1,5 @@
 ---
 File: Arsinoitherium
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/arsinoitherium
 Group: Megafauna
 aliases: 
 Brief: This creature is much like a rhino, some six feet tall and ten feet long, with a pair of massive, knife-like horns curving up from its nose.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/arsinoitherium)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

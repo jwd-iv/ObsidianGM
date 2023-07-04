@@ -1,7 +1,5 @@
 ---
 File: Giant Eagle
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/giant-eagle
 Group: Eagle
 aliases: 
 Brief: This immense eagle's feathers are golden brown and shimmer in the light. Its sharp beak and curved talons are dark yellow.
@@ -69,6 +67,8 @@ Description: A typical giant eagle stands about 15 feet tall, has a wingspan of 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/giant-eagle)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

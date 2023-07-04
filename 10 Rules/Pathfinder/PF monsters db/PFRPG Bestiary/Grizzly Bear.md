@@ -1,7 +1,5 @@
 ---
 File: Grizzly Bear
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/bear/brown-grizzly-bear
 Group: Bear
 aliases: 
 Brief: Broad, powerful muscles move beneath this massive bear's brown fur, promising both speed and lethal force.
@@ -69,6 +67,8 @@ Description: A large, powerful omnivore, the grizzly bear inhabits many of the w
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/bear/brown-grizzly-bear)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

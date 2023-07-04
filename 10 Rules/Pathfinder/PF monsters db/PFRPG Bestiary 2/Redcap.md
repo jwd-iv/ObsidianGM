@@ -1,7 +1,5 @@
 ---
 File: Redcap
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/redcap
 Group: 
 aliases: 
 Brief: Like some miniscule, wicked old man, this snarling little humanoid wears metal boots and a blood-red pointed cap.
@@ -77,6 +75,8 @@ Description: Redcaps embody both capriciousness and sadism. These stumpy, misant
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/redcap)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

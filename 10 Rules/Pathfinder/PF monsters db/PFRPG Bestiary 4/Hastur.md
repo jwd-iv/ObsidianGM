@@ -1,6 +1,5 @@
 ---
 File: Hastur
-Source: PFRPG Bestiary 4
 URL: 
 Group: Great Old One
 aliases: 
@@ -83,6 +82,8 @@ Description: Hastur is the most mysterious of the Great Old Ones. In fact, the e
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

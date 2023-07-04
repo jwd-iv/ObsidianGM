@@ -1,7 +1,5 @@
 ---
 File: Dust Digger
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/dust-digger
 Group: 
 aliases: 
 Brief: A tremendous starfish-like creature emerges from the sand, its five long arms surrounding a circular toothy maw.
@@ -71,6 +69,8 @@ Description: Dust diggers most resemble mammoth starfish, with thick sandy-color
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/dust-digger)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

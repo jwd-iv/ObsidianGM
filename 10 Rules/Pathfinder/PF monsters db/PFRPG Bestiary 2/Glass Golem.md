@@ -1,7 +1,5 @@
 ---
 File: Glass Golem
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/glass-golem
 Group: Golem
 aliases: 
 Brief: This jagged construct of glass has a human's shape, save that one arm ends in a jagged hammer and another in a spike of glass.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/glass-golem)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Sea Serpent
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sea-serpent
 Group: 
 aliases: 
 Brief: Spine-frilled neck arching up from the water like a snake ready to strike, this ship-sized serpent hisses a challenge.
@@ -73,6 +71,8 @@ Description: Tales of immense sea serpents have colored the accounts of seagoing
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sea-serpent)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

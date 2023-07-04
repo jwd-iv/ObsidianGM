@@ -1,7 +1,5 @@
 ---
 File: Manta Ray
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/manta-ray
 Group: Ray
 aliases: 
 Brief: Gliding gracefully through the water on wing-like fins, this large ray scoops up tiny morsels in its wide mouth.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/manta-ray)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Young Forest Dragon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Imperial Dragon
 aliases: 
@@ -84,6 +83,8 @@ Description: Forest dragons, or dilung, are fickle and malevolent dragons that d
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

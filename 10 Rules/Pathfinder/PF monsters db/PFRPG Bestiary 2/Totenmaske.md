@@ -1,7 +1,5 @@
 ---
 File: Totenmaske
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/totenmaske
 Group: 
 aliases: 
 Brief: This spindly, skeletal humanoid has moldy green flesh, long talons for hands, and a head that seems to be mostly mouth.
@@ -75,6 +73,8 @@ Description: Consumed by the same lusts and excesses that led them in life, the 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/totenmaske)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

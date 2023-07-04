@@ -1,6 +1,5 @@
 ---
 File: Coloxus
-Source: PFRPG Bestiary 3
 URL: 
 Group: Demon
 aliases: 
@@ -73,6 +72,8 @@ Description: Coloxus demons, known also as fly demons, resemble humans with the 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

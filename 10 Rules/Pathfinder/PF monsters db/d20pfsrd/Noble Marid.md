@@ -1,6 +1,5 @@
 ---
 File: Noble Marid
-Source: d20pfsrd
 URL: 
 Group: Genie
 aliases: 
@@ -75,6 +74,8 @@ Description: Marids are genies from the Plane of Water. The most powerful of all
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

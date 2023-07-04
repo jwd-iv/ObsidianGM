@@ -1,7 +1,5 @@
 ---
 File: Dire Tiger
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/dire-tiger
 Group: Tiger
 aliases: 
 Brief: This large tiger grumbles a warning as it crouches. Two saberlike fangs jut downward from its powerful jaws.
@@ -69,6 +67,8 @@ Description: Tigers stand more than 3 feet tall at the shoulder and are about 9 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/dire-tiger)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

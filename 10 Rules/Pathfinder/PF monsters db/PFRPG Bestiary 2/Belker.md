@@ -1,7 +1,5 @@
 ---
 File: Belker
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/belker
 Group: 
 aliases: 
 Brief: Dull, red eyes, grasping claws, and leathery wings give a demonic aspect to this creature's smoky form.
@@ -73,6 +71,8 @@ Description: Belkers are hateful elemental air creatures resembling fiends made 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/belker)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

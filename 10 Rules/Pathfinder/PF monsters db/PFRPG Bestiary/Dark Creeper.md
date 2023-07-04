@@ -1,7 +1,5 @@
 ---
 File: Dark Creeper
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-creeper
 Group: 
 aliases: 
 Brief: Filthy, reeking black rags wrap this small humanoid from head to toe, leaving only its hands and pale white nose visible.
@@ -77,6 +75,8 @@ Description: Dark creepers lurk in the black places deep below the surface of th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-creeper)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

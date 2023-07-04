@@ -1,7 +1,5 @@
 ---
 File: Drow Noble
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/elf/drow/drow/drow-noble
 Group: Drow
 aliases: 
 Brief: This dark-skinned elf stands in a battle-ready pose, her hair silver and eyes white and pupilless.
@@ -72,6 +70,8 @@ Description: >
 Race: Drow
 Class: cleric 3
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/elf/drow/drow/drow-noble)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

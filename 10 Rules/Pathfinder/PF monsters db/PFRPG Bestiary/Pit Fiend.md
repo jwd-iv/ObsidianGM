@@ -1,7 +1,5 @@
 ---
 File: Pit Fiend
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/pit-fiend
 Group: Devil
 aliases: 
 Brief: A pair of gigantic, flame-seared wings and eyes smoldering like embers give this towering devil a truly horrific appearance.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/pit-fiend)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

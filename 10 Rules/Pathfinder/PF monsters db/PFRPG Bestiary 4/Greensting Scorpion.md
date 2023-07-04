@@ -1,6 +1,5 @@
 ---
 File: Greensting Scorpion
-Source: PFRPG Bestiary 4
 URL: 
 Group: Scorpion
 aliases: 
@@ -71,6 +70,8 @@ Description: Deadly greensting scorpions normally live in forests, though they c
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Horned Devil
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/horned
 Group: Devil
 aliases: 
 Brief: Bristling with terrible spines and a crown of deadly horns, this leering winged terror wields a whirling barbed chain.
@@ -73,6 +71,8 @@ Description: Among the deadliest of the archdevils' warriors and able commanders
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/horned)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

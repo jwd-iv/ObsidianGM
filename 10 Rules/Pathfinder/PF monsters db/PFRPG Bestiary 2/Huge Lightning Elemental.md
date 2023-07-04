@@ -1,7 +1,5 @@
 ---
 File: Huge Lightning Elemental
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning
 Group: Elemental
 aliases: 
 Brief: This creature looks like a dark storm cloud, with sparks suggesting eyes and long sweeping arms charged with bolts of lightning.
@@ -73,6 +71,8 @@ Description: Though most think of the Plane of Air as a vast expanse of clear sk
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

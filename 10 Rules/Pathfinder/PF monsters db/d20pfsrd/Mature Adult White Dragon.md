@@ -1,6 +1,5 @@
 ---
 File: Mature Adult White Dragon
-Source: d20pfsrd
 URL: 
 Group: Chromatic Dragon
 aliases: 
@@ -78,6 +77,8 @@ Description: Although most consider it to be the weakest and most feral of the c
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

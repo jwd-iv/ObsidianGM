@@ -1,7 +1,5 @@
 ---
 File: Ram
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/ram
 Group: Herd Animal
 aliases: 
 Brief: A formidable pair of heavy horns curls from the forehead of this sturdy, brown-and-white-furred ram.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/ram)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

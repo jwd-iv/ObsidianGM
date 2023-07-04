@@ -1,7 +1,5 @@
 ---
 File: Mithral Golem
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/mithral-golem
 Group: Golem
 aliases: 
 Brief: Made of polished silvery metal, this immense humanoid construct moves with shocking grace and speed.
@@ -75,6 +73,8 @@ Description: Created from a massive quantity of the purest mithral, this golem i
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/mithral-golem)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

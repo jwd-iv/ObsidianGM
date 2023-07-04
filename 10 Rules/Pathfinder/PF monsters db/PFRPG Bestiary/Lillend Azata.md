@@ -1,7 +1,5 @@
 ---
 File: Lillend Azata
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/lillend
 Group: Azata
 aliases: 
 Brief: This creature has the body of a seductive, winged elven woman from the waist up and that of a snake from the waist down.
@@ -74,6 +72,8 @@ Description: Among the azatas, lillends are the tale-tellers and chroniclers, ga
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/lillend)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

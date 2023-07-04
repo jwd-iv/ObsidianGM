@@ -1,7 +1,5 @@
 ---
 File: Horse
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-h/horse/horse
 Group: 
 aliases: 
 Brief: This proud horse thunders across the grassy plain with fluid grace, wind tugging at its loose-fitting barding.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-h/horse/horse)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

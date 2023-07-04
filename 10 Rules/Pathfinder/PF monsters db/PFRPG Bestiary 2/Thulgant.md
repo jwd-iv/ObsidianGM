@@ -1,7 +1,5 @@
 ---
 File: Thulgant
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-thulgant
 Group: Qlippoth
 aliases: 
 Brief: This monster has ten spidery legs, a head writhing with dripping tentacles above a clutch of red eyes, and three whipping stingers.
@@ -77,6 +75,8 @@ Description: The dreaded thulgant is among the most dangerous of the qlippoth, f
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-thulgant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

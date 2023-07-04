@@ -1,6 +1,5 @@
 ---
 File: Cliff Giant
-Source: PFRPG Bestiary 4
 URL: 
 Group: Giant
 aliases: 
@@ -71,6 +70,8 @@ Description: Cliff giants are benevolent but reclusive creatures that dwell in d
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

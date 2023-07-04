@@ -1,7 +1,5 @@
 ---
 File: Giant Mantis
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/mantis/giant-mantis
 Group: Mantis
 aliases: 
 Brief: This towering insect walks on its back four legs. Its head is triangular and its front legs sport razor-sharp edges and claws.
@@ -75,6 +73,8 @@ Description: Known to many as the giant praying mantis for the way the creature'
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/mantis/giant-mantis)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

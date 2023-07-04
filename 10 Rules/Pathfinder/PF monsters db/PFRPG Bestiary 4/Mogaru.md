@@ -1,6 +1,5 @@
 ---
 File: Mogaru
-Source: PFRPG Bestiary 4
 URL: 
 Group: Kaiju
 aliases: 
@@ -81,6 +80,8 @@ Description: Mogaru, known as the Final King to kaiju scholars, or simply as Kin
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

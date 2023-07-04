@@ -1,7 +1,5 @@
 ---
 File: Reefclaw
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/reefclaw
 Group: 
 aliases: 
 Brief: Blood-red spines run the length of this frightening creature, which resembles a lobster in the front and an eel in the back.
@@ -75,6 +73,8 @@ Description: Reefclaws are vicious predators. They possess greater intelligence 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/reefclaw)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

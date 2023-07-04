@@ -1,6 +1,5 @@
 ---
 File: Fetchling
-Source: PFRPG Bestiary 2
 URL: 
 Group: 
 aliases: Kayal
@@ -72,6 +71,8 @@ Description: >
 Race: Fetchling
 Class: rogue 1
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 2
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Dire Bat
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/bat/dire-bat
 Group: Bat
 aliases: 
 Brief: This giant, furry bat is nearly the size of an ox, with dark leathery wings that open wider than two men with arms outstretched.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/bat/dire-bat)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

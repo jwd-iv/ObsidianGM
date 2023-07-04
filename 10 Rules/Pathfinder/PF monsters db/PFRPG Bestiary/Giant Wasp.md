@@ -1,7 +1,5 @@
 ---
 File: Giant Wasp
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/wasp/giant-wasp
 Group: Wasp
 aliases: 
 Brief: This horse-sized wasp is covered in yellow and black vertical stripes-its stinger is the size of a sword and drips with venom.
@@ -71,6 +69,8 @@ Description: Giant wasps nearly always form nests, though not like their much sm
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/wasp/giant-wasp)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

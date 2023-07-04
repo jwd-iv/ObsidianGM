@@ -1,7 +1,5 @@
 ---
 File: Stingray
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/stingray
 Group: Ray
 aliases: 
 Brief: A long tail fitted with a barbed stinger trails from this flat, triangular fish's body.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/stingray)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

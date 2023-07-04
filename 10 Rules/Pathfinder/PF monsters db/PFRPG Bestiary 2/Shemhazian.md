@@ -1,7 +1,5 @@
 ---
 File: Shemhazian
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-shemhazian
 Group: Demon
 aliases: 
 Brief: This enormous, bestial demon combines the worst aspects of a bear, a mantis, a wolf, and a reptilian humanoid.
@@ -73,6 +71,8 @@ Description: Although nearly all the horrors of the Abyss prey upon one another 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-shemhazian)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

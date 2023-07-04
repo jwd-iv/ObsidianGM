@@ -1,7 +1,5 @@
 ---
 File: Jabberwock
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/jabberwock
 Group: 
 aliases: 
 Brief: This dragon has a long neck and terrible claws. The beast shrieks and babbles, thrashing its tail and wings in a violent manner.
@@ -81,6 +79,8 @@ Description: The jabberwock is a true creature of legend-a subject of poetry, so
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/jabberwock)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

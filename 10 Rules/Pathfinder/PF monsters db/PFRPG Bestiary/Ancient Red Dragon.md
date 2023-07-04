@@ -1,7 +1,5 @@
 ---
 File: Ancient Red Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-chromatic-red/ancient-red-dragon
 Group: Chromatic Dragon
 aliases: 
 Brief: A crown of cruel horns surrounds the head of this mighty dragon. Thick scales the color of molten rock cover its long body.
@@ -90,6 +88,8 @@ Description: Few creatures are more cruel and fearsome than the mighty red drago
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-chromatic-red/ancient-red-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

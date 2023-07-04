@@ -1,7 +1,5 @@
 ---
 File: Poltergeist
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/poltergeist
 Group: 
 aliases: 
 Brief: A ghostly, skeletal figure rises up amid a whirling cyclone of tools, plates, utensils, and other loose objects.
@@ -77,6 +75,8 @@ Description: A poltergeist is an angry spirit that forms from the soul of a crea
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/poltergeist)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

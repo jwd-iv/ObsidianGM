@@ -1,7 +1,5 @@
 ---
 File: Rust Monster
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/rust-monster
 Group: 
 aliases: 
 Brief: This insectile monster has four legs, a strange propeller-shaped protrusion at the end of its tail, and two long, feathery antennae.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/rust-monster)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

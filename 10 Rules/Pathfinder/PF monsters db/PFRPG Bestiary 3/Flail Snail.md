@@ -1,6 +1,5 @@
 ---
 File: Flail Snail
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -79,6 +78,8 @@ Description: Flail snails are intelligent gastropods that subsist on fungus, mol
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

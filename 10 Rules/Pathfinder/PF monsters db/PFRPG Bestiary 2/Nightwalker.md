@@ -1,7 +1,5 @@
 ---
 File: Nightwalker
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightwalker
 Group: Nightshade
 aliases: 
 Brief: This towering, night-black giant has demonic features, including a huge pair of ram-like horns. Its arms end in massive blades.
@@ -73,6 +71,8 @@ Description: The most commonly encountered nightshade is the giant-like nightwal
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightwalker)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

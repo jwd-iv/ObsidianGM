@@ -1,7 +1,5 @@
 ---
 File: Dryad
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/dryad
 Group: 
 aliases: 
 Brief: This strange, beautiful woman has flesh that seems made of wood and vibrant hair that resembles leaves and blossoms.
@@ -77,6 +75,8 @@ Description: Dryads are tree-fey who prefer secluded woodlands far from humanoid
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/fey/dryad)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

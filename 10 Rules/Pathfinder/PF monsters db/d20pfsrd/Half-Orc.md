@@ -1,6 +1,5 @@
 ---
 File: Half-Orc
-Source: d20pfsrd
 URL:
 Group:
 aliases:
@@ -89,6 +88,8 @@ Description: As seen by civilized races, half-orcs are monstrosities, the result
 Race: Male half-orc
 Class: warrior 1
 MR:
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

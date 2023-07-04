@@ -1,6 +1,5 @@
 ---
 File: Tikbalang
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Dangerous protectors of deep forests and lush jungles, tikbalangs a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

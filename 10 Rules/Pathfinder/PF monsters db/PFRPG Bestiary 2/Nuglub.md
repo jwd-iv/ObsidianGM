@@ -1,7 +1,5 @@
 ---
 File: Nuglub
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-nuglub
 Group: Gremlin
 aliases: 
 Brief: This hideous, hunchbacked creature has three glowing blue eyes. Oily hair grows from its head and back, covering it like a cloak.
@@ -71,6 +69,8 @@ Description: Nuglub gremlins are deranged; they enjoy combat with a manic glee t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-nuglub)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Giant Frilled Lizard
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/lizard/giant-frilled-lizard
 Group: Lizard
 aliases: 
 Brief: This bright-eyed lizard is larger than a horse. As it hisses in anger, a brightly colored frill extends around its neck.
@@ -71,6 +69,8 @@ Description: This lizard is a true behemoth- an apex predator found in tropical 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/lizard/giant-frilled-lizard)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

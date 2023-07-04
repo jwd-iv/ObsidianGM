@@ -1,6 +1,5 @@
 ---
 File: Argus
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -79,6 +78,8 @@ Description: An argus is an ancient creature related to the titans (Pathfinder R
 Race: 
 Class: 
 MR: 6
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

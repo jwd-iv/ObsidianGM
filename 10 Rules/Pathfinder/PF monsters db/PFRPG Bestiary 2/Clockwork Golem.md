@@ -1,7 +1,5 @@
 ---
 File: Clockwork Golem
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/clockwork-golem
 Group: Golem
 aliases: 
 Brief: A vaguely humanoid shape made of metal lurches to life with the grinding whir and frantic ticking of hundreds of gears.
@@ -77,6 +75,8 @@ Description: Forged from thousands of gears, the clockwork golem is a precision 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/clockwork-golem)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

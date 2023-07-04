@@ -1,7 +1,5 @@
 ---
 File: Leopard
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/leopard
 Group: Cat
 aliases: 
 Brief: With each graceful step, this leopard's steely muscles ripple beneath its spotted fur.
@@ -69,6 +67,8 @@ Description: Leopards are 4 feet long and weigh 120 pounds. The statistics prese
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/leopard)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

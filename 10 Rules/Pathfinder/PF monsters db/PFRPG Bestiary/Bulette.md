@@ -1,7 +1,5 @@
 ---
 File: Bulette
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bulette
 Group: 
 aliases: 
 Brief: This armor-plated creature's toothy maw gapes wide as a fin-like dorsal plate rises between its shoulders.
@@ -73,6 +71,8 @@ Description: The creation of some unknown arcanist in millennia past, the bulett
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bulette)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

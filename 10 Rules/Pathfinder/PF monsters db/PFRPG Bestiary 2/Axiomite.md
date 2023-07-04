@@ -1,7 +1,5 @@
 ---
 File: Axiomite
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/axiomite
 Group: 
 aliases: 
 Brief: As this lithe humanoid moves, its flesh shimmers and wavers, temporarily breaking apart into motes of shimmering light.
@@ -73,6 +71,8 @@ Description: Stewards of ancient, colossal cities on lawful planes, axiomites re
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/axiomite)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

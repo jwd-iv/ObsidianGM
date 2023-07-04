@@ -1,6 +1,5 @@
 ---
 File: Garuda
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -80,6 +79,8 @@ Description: Garudas are noble, birdlike creatures that inhabit rugged hills. Wh
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

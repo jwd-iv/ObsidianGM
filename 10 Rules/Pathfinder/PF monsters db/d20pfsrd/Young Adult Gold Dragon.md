@@ -1,6 +1,5 @@
 ---
 File: Young Adult Gold Dragon
-Source: d20pfsrd
 URL: 
 Group: Metallic Dragon
 aliases: 
@@ -81,6 +80,8 @@ Description: Gold dragons are the epitome of virtue. Other metallic dragons reve
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

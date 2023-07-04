@@ -1,7 +1,5 @@
 ---
 File: Frost Giant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/frost-giant
 Group: Giant
 aliases: 
 Brief: This giant looks like a thick, muscular human. It has frost-white skin and long, light blue hair that it wears braided.
@@ -69,6 +67,8 @@ Description: A frost giant's hair can be light blue or dirty yellow, and its eye
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/frost-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

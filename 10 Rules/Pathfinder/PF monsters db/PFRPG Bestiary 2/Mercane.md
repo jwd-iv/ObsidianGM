@@ -1,7 +1,5 @@
 ---
 File: Mercane
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mercane
 Group: 
 aliases: 
 Brief: The tall, blue-skinned humanoid is clad in loose, flowing robes. Its alien face has too many eyes and its hands have too few fingers.
@@ -71,6 +69,8 @@ Description: Mysterious merchants of all things magical, mercanes are relatively
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mercane)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

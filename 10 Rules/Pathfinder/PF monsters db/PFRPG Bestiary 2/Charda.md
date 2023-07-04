@@ -1,7 +1,5 @@
 ---
 File: Charda
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/charda
 Group: 
 aliases: 
 Brief: Armored in dense, bony plates, this four-armed creature drools wretched strings of black bile from its fanged maw.
@@ -75,6 +73,8 @@ Description: In the darkest depths of the earth, in strange frozen rivers and su
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/charda)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

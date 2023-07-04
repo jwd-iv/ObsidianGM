@@ -1,7 +1,5 @@
 ---
 File: Movanic Deva
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-movanic-deva
 Group: Angel
 aliases: 
 Brief: This angel is all sharp lines and angles, muscular but lean, with large wings and a mighty flaming greatsword.
@@ -73,6 +71,8 @@ Description: Movanic devas serve as infantry in the celestial armies, though the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-movanic-deva)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Alchemical Golem
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/alchemical-golem
 Group: Golem
 aliases: 
 Brief: A rickety construction of glass tubing, metal, and wood convey the brain and two eyes afloat in this figure's glass skull.
@@ -77,6 +75,8 @@ Description: This golem is a walking alchemical nightmare, capable of inflicting
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/alchemical-golem)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Vildeis
-Source: PFRPG Bestiary 4
 URL: 
 Group: Empyreal Lord
 aliases: 
@@ -76,6 +75,8 @@ Description: Also known as the Cardinal Martyr, Vildeis endlessly sacrifices her
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

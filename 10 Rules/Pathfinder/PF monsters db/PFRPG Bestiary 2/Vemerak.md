@@ -1,7 +1,5 @@
 ---
 File: Vemerak
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/vemerak
 Group: 
 aliases: 
 Brief: This huge monstrosity seems like some alien, clawed insect, with vaguely humanoid features and three tentacular tails.
@@ -75,6 +73,8 @@ Description: Huge and otherworldly, the vemerak is a monster known as much for i
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/vemerak)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

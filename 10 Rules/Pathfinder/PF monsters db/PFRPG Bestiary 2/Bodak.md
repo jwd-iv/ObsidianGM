@@ -1,7 +1,5 @@
 ---
 File: Bodak
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/bodak
 Group: 
 aliases: 
 Brief: The flesh of this emaciated creature appears charred or dried, and its empty eye sockets seep trails of smoke.
@@ -73,6 +71,8 @@ Description: When mortal humanoids find themselves exposed to profound, supernat
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/bodak)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

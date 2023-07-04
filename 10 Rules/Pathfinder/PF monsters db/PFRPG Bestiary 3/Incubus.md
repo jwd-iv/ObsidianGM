@@ -1,6 +1,5 @@
 ---
 File: Incubus
-Source: PFRPG Bestiary 3
 URL: 
 Group: Demon
 aliases: 
@@ -71,6 +70,8 @@ Description: An incubus in his true form is always muscular and attractive, with
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

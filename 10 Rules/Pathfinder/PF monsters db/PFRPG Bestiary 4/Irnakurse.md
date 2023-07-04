@@ -1,6 +1,5 @@
 ---
 File: Irnakurse
-Source: PFRPG Bestiary 4
 URL: 
 Group: Fleshwarp
 aliases: 
@@ -73,6 +72,8 @@ Description: Irnakurse, meaning "perfect ones" in the Elven language, represent 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

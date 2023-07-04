@@ -1,7 +1,5 @@
 ---
 File: Lemure
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/lemure
 Group: Devil
 aliases: 
 Brief: A roiling wave of f lesh gushes forward. Amid the fatty surge wriggle half-formed limbs and a dripping tumorous face.
@@ -69,6 +67,8 @@ Description: The least of devilkind, lemures roil forth from the ranks of souls 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/lemure)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

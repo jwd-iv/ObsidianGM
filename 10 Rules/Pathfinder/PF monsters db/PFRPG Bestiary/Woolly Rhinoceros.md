@@ -1,7 +1,5 @@
 ---
 File: Woolly Rhinoceros
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-r/rhinoceros/wooly-rhinoceros
 Group: Rhinoceros
 aliases: 
 Brief: This large rhinoceros has a shaggy pelt of long, brown fur and a row of immense horns on its snout and brow.
@@ -69,6 +67,8 @@ Description: The woolly rhinoceros is an herbivore, though unlike its non-woolly
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-r/rhinoceros/wooly-rhinoceros)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

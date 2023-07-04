@@ -1,7 +1,5 @@
 ---
 File: Ancient Blue Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-chromatic-blue/ancient-blue-dragon
 Group: Chromatic Dragon
 aliases: 
 Brief: With scales the color of the desert sky, this large, serpentine dragon moves with an unsettling grace.
@@ -91,6 +89,8 @@ Description: Blue dragons are consummate schemers and obsessively orderly. In co
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-chromatic-blue/ancient-blue-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

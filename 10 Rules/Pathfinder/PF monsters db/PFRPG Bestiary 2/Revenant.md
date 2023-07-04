@@ -1,7 +1,5 @@
 ---
 File: Revenant
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/revenant
 Group: 
 aliases: 
 Brief: This shambling corpse is twisted and mutilated. Fingers of sharpened bone reach out with malevolent intent.
@@ -77,6 +75,8 @@ Description: Fueled by hatred and a need for vengeance, a revenant rises from th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/revenant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

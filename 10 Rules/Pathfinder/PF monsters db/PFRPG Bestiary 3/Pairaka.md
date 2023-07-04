@@ -1,6 +1,5 @@
 ---
 File: Pairaka
-Source: PFRPG Bestiary 3
 URL: 
 Group: Div
 aliases: 
@@ -73,6 +72,8 @@ Description: A sensual pairing of seduction and destruction, pairakas embody the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

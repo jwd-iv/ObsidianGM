@@ -1,6 +1,5 @@
 ---
 File: Shobhad
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: These fabled four-armed giants are native to a low-gravity planet a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

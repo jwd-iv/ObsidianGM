@@ -1,6 +1,5 @@
 ---
 File: Harbinger Archon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Archon
 aliases: 
@@ -77,6 +76,8 @@ Description: Though counted among the least of the archons, harbingers nonethele
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

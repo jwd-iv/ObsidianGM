@@ -1,7 +1,5 @@
 ---
 File: Peryton
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/peryton
 Group: 
 aliases: 
 Brief: This creature has a stag's body, a hawk's wings and talons, and the head of a slavering wolf with a rack of sharp antlers on its brow.
@@ -73,6 +71,8 @@ Description: Savage creatures of nightmare, perytons combine the features of sta
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/peryton)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

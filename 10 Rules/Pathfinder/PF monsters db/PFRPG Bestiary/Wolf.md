@@ -1,7 +1,5 @@
 ---
 File: Wolf
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/wolf
 Group: 
 aliases: 
 Brief: This powerful canine watches its prey with piercing yellow eyes, darting its tongue across sharp white teeth.
@@ -69,6 +67,8 @@ Description: Wandering alone or in packs, wolves sit at the top of the food chai
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/wolf)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Dragon Turtle
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-turtle
 Group: 
 aliases: 
 Brief: This long-tailed aquatic beast resembles a massive snapping turtle with draconic features.
@@ -73,6 +71,8 @@ Description: Dragon turtles make their homes in both salt and fresh water, where
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-turtle)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Dire Wolf
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/wolf/dire-wolf
 Group: Wolf
 aliases: 
 Brief: This immense black wolf is the size of a horse, its fangs as large and sharp as knives.
@@ -69,6 +67,8 @@ Description: An enormous version of a normal wolf, dire wolves represent the wol
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/wolf/dire-wolf)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

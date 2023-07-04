@@ -1,7 +1,5 @@
 ---
 File: Behir
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/behir
 Group: 
 aliases: 
 Brief: This slithering, multilegged blue reptile has a fearsome head crowned with two large, curling horns.
@@ -71,6 +69,8 @@ Description: Temperamental and avaricious, the behir spends most of its time sli
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/behir)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

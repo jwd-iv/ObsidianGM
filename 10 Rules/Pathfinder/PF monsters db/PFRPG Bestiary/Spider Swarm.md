@@ -1,7 +1,5 @@
 ---
 File: Spider Swarm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/spider-swarm
 Group: Spider
 aliases: 
 Brief: An awful, scuttling mass of legs and mandibles scrambles forward out of the darkness.
@@ -71,6 +69,8 @@ Description: The sight of a carpet of swarming spiders is unsettling indeed-part
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/spider-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

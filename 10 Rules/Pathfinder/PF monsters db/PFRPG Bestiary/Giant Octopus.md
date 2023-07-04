@@ -1,7 +1,5 @@
 ---
 File: Giant Octopus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/octopus/giant-octopus
 Group: Octopus
 aliases: 
 Brief: A storm of tentacles, each twenty feet in length, flails with deadly precision from the leathery body of this gigantic octopus.
@@ -71,6 +69,8 @@ Description: The giant octopus is a true monster capable of catching and eating 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/octopus/giant-octopus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

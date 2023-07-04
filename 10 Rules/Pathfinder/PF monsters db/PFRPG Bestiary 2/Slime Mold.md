@@ -1,7 +1,5 @@
 ---
 File: Slime Mold
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/slime-mold
 Group: 
 aliases: 
 Brief: What at first seemed to be a carpet of fungi and mushrooms suddenly stirs to life, surging forward with a reek of decay.
@@ -71,6 +69,8 @@ Description: Slime molds are revolting oozes that wallow in rot and decay. A per
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/slime-mold)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

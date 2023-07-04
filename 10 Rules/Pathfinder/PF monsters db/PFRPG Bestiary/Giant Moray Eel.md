@@ -1,7 +1,5 @@
 ---
 File: Giant Moray Eel
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/eel/giant-moray-eel
 Group: Eel
 aliases: 
 Brief: This sixteen-foot-long eel slithers through the water with uncanny grace, mouth open to display large teeth and a second set of jaws.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/eel/giant-moray-eel)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Nightwave
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightwave
 Group: Nightshade
 aliases: 
 Brief: Immense almost beyond belief, this sleek, midnight-black shark rises from the sea like an unholy island heaved up from below.
@@ -73,6 +71,8 @@ Description: The most powerful of the known types of nightshade is the ravenous 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightwave)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

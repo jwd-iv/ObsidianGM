@@ -1,6 +1,5 @@
 ---
 File: Nemesis Devil
-Source: PFRPG Bestiary 4
 URL: 
 Group: Devil
 aliases:
@@ -79,6 +78,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

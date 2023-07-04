@@ -1,7 +1,5 @@
 ---
 File: Merfolk
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/merfolk
 Group: 
 aliases: 
 Brief: Slipping in and out of the crashing waves, this beautiful woman has the lower torso of a long, slender fish.
@@ -70,6 +68,8 @@ Description: >
 Race: Merfolk
 Class: warrior 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/merfolk)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

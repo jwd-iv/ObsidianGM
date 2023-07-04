@@ -1,6 +1,5 @@
 ---
 File: Rot Grub Swarm
-Source: PFRPG Bestiary 3
 URL: 
 Group: Parasite
 aliases: 
@@ -71,6 +70,8 @@ Description: Rot grubs are foul, nauseating parasites that feed on flesh and use
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

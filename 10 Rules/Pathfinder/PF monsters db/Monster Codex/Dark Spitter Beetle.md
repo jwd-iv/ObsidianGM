@@ -1,6 +1,5 @@
 ---
 File: Dark Spitter Beetle
-Source: Monster Codex
 URL: 
 Group: Beetle
 aliases: 
@@ -69,6 +68,8 @@ Description: Spitter beetles are used as mounts by duergar explorers.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Mastodon Elephant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/mastodon
 Group: Elephant
 aliases: 
 Brief: This creature is larger than a normal elephant, with enormous sweeping tusks and shaggy brown fur on its body.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/mastodon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

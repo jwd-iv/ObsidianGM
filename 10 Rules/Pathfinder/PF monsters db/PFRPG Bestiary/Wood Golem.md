@@ -1,7 +1,5 @@
 ---
 File: Wood Golem
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/wood
 Group: Golem
 aliases: 
 Brief: This human-sized automaton resembles a crude humanoid figure made of cast-off pieces of wood.
@@ -73,6 +71,8 @@ Description: A wood golem is carved from rare woods, assembled into a roughly hu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/wood)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

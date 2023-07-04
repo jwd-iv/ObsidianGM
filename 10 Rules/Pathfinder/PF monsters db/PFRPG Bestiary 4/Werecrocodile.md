@@ -1,6 +1,5 @@
 ---
 File: Werecrocodile
-Source: PFRPG Bestiary 4
 URL: 
 Group: Lycanthrope
 aliases: Human Form
@@ -69,6 +68,8 @@ Description: Werecrocodiles merge the ruthless determination of a crocodile with
 Race: Human natural werecrocodile
 Class: fighter 3
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

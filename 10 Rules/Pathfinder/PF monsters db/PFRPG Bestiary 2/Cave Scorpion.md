@@ -1,7 +1,5 @@
 ---
 File: Cave Scorpion
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary-overflow/cave-scorpion
 Group: Scorpion
 aliases: 
 Brief: This man-sized, bulky scorpion has thick, unyielding armor that makes it almost seem to be made of stone.
@@ -71,6 +69,8 @@ Description: The squat cave scorpion is quite well suited for life in caves. Wit
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary-overflow/cave-scorpion)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

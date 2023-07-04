@@ -1,7 +1,5 @@
 ---
 File: Giant Bee
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/bee-giant
 Group: Bee
 aliases: 
 Brief: Striking yellow and black markings and a coat of bristling hairs cover this immense bee. Its stinger is the size of a dagger blade.
@@ -73,6 +71,8 @@ Description: Like their smaller cousins, giant bees fill their ecological niche 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/bee-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

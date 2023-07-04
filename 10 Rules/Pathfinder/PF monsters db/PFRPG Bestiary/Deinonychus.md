@@ -1,7 +1,5 @@
 ---
 File: Deinonychus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/deinonychus
 Group: Dinosaur
 aliases: 
 Brief: This brightly colored dinosaur exudes a dangerous ferocity. Each foot is armed with a large, sickle-shaped claw.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/deinonychus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

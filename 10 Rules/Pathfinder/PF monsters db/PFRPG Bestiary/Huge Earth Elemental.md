@@ -1,7 +1,5 @@
 ---
 File: Huge Earth Elemental
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/earth
 Group: Elemental
 aliases: 
 Brief: This hulking, roughly humanoid creature of dirt and stone explodes up from the earth, faceless save for two glowing gemstone eyes.
@@ -73,6 +71,8 @@ Description: Earth elementals are plodding, stubborn creatures made of living st
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/earth)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Great Cyclops
-Source: PFRPG Bestiary 3
 URL: 
 Group: Cyclops
 aliases: 
@@ -71,6 +70,8 @@ Description: Degenerate giants of cyclops-kind, the legendary great cyclopes emb
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

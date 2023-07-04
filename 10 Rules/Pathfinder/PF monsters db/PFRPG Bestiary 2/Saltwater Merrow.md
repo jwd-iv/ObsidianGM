@@ -1,7 +1,5 @@
 ---
 File: Saltwater Merrow
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/merrow-saltwater
 Group: Merrow
 aliases: 
 Brief: This giant has pale green, scaled skin and large, webbed hands and feet. On either side of its neck are slotted gills.
@@ -69,6 +67,8 @@ Description: Merrows are best described as the aquatic cousins of ogres. Althoug
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/merrow-saltwater)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

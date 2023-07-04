@@ -1,7 +1,5 @@
 ---
 File: Frost Worm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/frost-worm
 Group: 
 aliases: 
 Brief: This immense white worm has a single circular eye in the center of its head. Wisps of icy fog waft up from between its mandibles.
@@ -75,6 +73,8 @@ Description: With armor-crushing jaws, flesh that radiates cold, and a terrible 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/frost-worm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

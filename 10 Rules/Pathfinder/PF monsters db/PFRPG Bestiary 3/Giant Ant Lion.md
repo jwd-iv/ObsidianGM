@@ -1,6 +1,5 @@
 ---
 File: Giant Ant Lion
-Source: PFRPG Bestiary 3
 URL: 
 Group: Giant
 aliases: 
@@ -71,6 +70,8 @@ Description: Perils of the desert depths, giant ant lions construct traps from t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

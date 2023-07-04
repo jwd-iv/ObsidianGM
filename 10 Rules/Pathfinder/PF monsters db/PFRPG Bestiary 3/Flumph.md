@@ -1,12 +1,10 @@
 ---
 File: Flumph
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
 Brief: This pale, jellyfish-like creature floats gently in the air, two long eyestalks extending from either side of its puckered mouth.
 Image: https://static.wikia.nocookie.net/forgottenrealms/images/7/78/Flumph.jpg/revision/latest?cb=20171010183015
-ImageSource: Art © the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Flumph)
 CR: 1
 XP: 400
 Alignment: LG
@@ -75,6 +73,9 @@ Description: Come from distant stars to protect unprepared worlds from cosmic ho
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
+  Art: 'the [Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Flumph)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

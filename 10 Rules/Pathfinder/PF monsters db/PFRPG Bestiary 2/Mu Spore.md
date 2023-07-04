@@ -1,7 +1,5 @@
 ---
 File: Mu Spore
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/mu-spore
 Group: 
 aliases: 
 Brief: Tentacles and eyes cover this floating, fungoid monster, and its vast mouth opens like a toothy cavern.
@@ -73,6 +71,8 @@ Description: A mu spore is a thankfully rare plant of vast power and strange int
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/mu-spore)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

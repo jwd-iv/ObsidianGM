@@ -1,7 +1,5 @@
 ---
 File: Boggard
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/boggard
 Group: 
 aliases: 
 Brief: Bulbous eyes glare atop this creature's decidedly toad-like head. A multitude of warts and bumps decorate its greenish skin.
@@ -77,6 +75,8 @@ Description: Boggards resemble anthropomorphic frogs or toads, complete with web
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/boggard)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

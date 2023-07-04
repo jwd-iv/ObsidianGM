@@ -1,7 +1,5 @@
 ---
 File: Soul Eater
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/soul-eater
 Group: 
 aliases: 
 Brief: Two elongated and deathly pallid arms protrude from this creature's smoky body as it slithers silently through the air.
@@ -77,6 +75,8 @@ Description: Summoned forth from the inky swamps of Abaddon, a soul eater is an 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/soul-eater)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

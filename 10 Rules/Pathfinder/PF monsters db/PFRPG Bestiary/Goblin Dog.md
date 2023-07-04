@@ -1,7 +1,5 @@
 ---
 File: Goblin Dog
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/goblin-dog
 Group: 
 aliases: 
 Brief: This mangy canine's face has the same flat nose, beady eyes, and protruding teeth as a rat grown grotesquely large.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/goblin-dog)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

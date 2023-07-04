@@ -1,7 +1,5 @@
 ---
 File: Mobat
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bat-mobat
 Group: Bat
 aliases: 
 Brief: This bat has a wingspan the length of two humans, over-sized ears, and a squat, upturned snout with rows of needle-like teeth.
@@ -71,6 +69,8 @@ Description: Mobats are magical giant bats with wolfish grins and immense wingsp
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bat-mobat)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Manticore
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/manticore
 Group: 
 aliases: 
 Brief: This creature has a vaguely humanoid head, the body of a lion, and the wings of a dragon. Its tail ends in long, sharp spikes.
@@ -71,6 +69,8 @@ Description: Manticores are fierce predators that patrol a wide area in search o
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/manticore)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

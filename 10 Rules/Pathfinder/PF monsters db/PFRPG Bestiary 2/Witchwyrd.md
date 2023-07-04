@@ -1,7 +1,5 @@
 ---
 File: Witchwyrd
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/witchwyrd
 Group: 
 aliases: 
 Brief: This gray-skinned humanoid wears fine red robes. The being has four arms, each ending in a three-fingered hand.
@@ -73,6 +71,8 @@ Description: Alien merchants that travel between planets and planes, witchwyrds 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/witchwyrd)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

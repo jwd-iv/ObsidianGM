@@ -1,7 +1,5 @@
 ---
 File: Omox
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-omox
 Group: Demon
 aliases: 
 Brief: This rancid-smelling mound of animated ooze has about its shifting countenance the hideous shape of a half-melted man.
@@ -75,6 +73,8 @@ Description: Amorphous beings of living slime, these repulsive demons lurk in fe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-omox)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

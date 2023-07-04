@@ -1,7 +1,5 @@
 ---
 File: Neh-thalggu
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neh-thalggu
 Group: 
 aliases: 
 Brief: This crab-like nightmare has a lamprey mouth, twitching eyes on its legs, and several blisters along its back that hold human brains.
@@ -80,6 +78,8 @@ Description: Known also as brain collectors, the alien neh-thalggus hail from di
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neh-thalggu)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

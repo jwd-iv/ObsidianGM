@@ -1,7 +1,5 @@
 ---
 File: Hydrodaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/hydrodaemon
 Group: Daemon
 aliases: 
 Brief: The skin on this frog-like fiend is clammy and its eyes look dead and milky; its wide face is split by a fanged maw.
@@ -73,6 +71,8 @@ Description: While at first glance these creatures seem like enormous and foul b
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/hydrodaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

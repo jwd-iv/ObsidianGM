@@ -1,7 +1,5 @@
 ---
 File: Gar
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/gar
 Group: 
 aliases: 
 Brief: This long, lean fish has a muscular body and a head with long jaws filled with sharp teeth.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/gar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

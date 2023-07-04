@@ -1,6 +1,5 @@
 ---
 File: Sapphire Jellyfish
-Source: PFRPG Bestiary 3
 URL: 
 Group: Jellyfish
 aliases: 
@@ -73,6 +72,8 @@ Description: Like other giant jellyfish, a sapphire jellyfish is an active hunte
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

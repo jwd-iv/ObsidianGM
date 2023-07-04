@@ -1,6 +1,5 @@
 ---
 File: Spirit Oni
-Source: PFRPG Bestiary 3
 URL: 
 Group: Oni
 aliases: 
@@ -73,6 +72,8 @@ Description: Most oni that emerge on the Material Plane do so into a new body of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

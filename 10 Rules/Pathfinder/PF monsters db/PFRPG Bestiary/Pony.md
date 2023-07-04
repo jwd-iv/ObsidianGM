@@ -1,7 +1,5 @@
 ---
 File: Pony
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-h/horse/pony
 Group: Horse
 aliases: 
 Brief: This squat equine plods forward with large, curious eyes. As it nears, it extends its muzzle, clearly expecting a treat.
@@ -69,6 +67,8 @@ Description: Ponies are smaller breeds of horses better suited to half lings, gn
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-h/horse/pony)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

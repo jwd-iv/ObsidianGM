@@ -1,7 +1,5 @@
 ---
 File: Keketar
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-keketar
 Group: Protean
 aliases: 
 Brief: Colors dance over this serpentine creature's scales. A strange crown of energy glows above the thing's reptilian head.
@@ -75,6 +73,8 @@ Description: Priests and prophets, keketars are the leaders of their race, guidi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-keketar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

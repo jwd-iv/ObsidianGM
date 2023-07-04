@@ -1,6 +1,5 @@
 ---
 File: Old Underworld Dragon
-Source: d20pfsrd
 URL: 
 Group: Imperial Dragon
 aliases: 
@@ -83,6 +82,8 @@ Description: Underworld dragons, also called futsanglungs, are calculating, gree
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

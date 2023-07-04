@@ -1,7 +1,5 @@
 ---
 File: Chuul
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/chuul
 Group: 
 aliases: 
 Brief: This lobster-like creature has a thick armored shell. A pair of tiny eyes gleams above a mouth full of writhing tentacles.
@@ -71,6 +69,8 @@ Description: Chuuls are armored, crustacean-like predators that lurk beneath the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/chuul)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

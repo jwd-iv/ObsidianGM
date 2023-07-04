@@ -1,6 +1,5 @@
 ---
 File: Pukwudgie
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: The vile pukwudgie is a small, hunchbacked humanoid covered with lo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

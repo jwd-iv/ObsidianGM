@@ -1,6 +1,5 @@
 ---
 File: Flesh Colossus
-Source: PFRPG Bestiary 4
 URL: 
 Group: Flesh
 aliases: 
@@ -73,6 +72,8 @@ Description: A flesh colossus consists of hundreds of corpses assembled into a m
 Race: 
 Class: 
 MR: 6
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

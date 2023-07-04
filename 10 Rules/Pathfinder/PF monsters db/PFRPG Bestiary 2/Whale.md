@@ -1,7 +1,5 @@
 ---
 File: Whale
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/whale
 Group: 
 aliases: 
 Brief: This immense whale moves slowly through the water with a grace that seems incongruous, given its immense size.
@@ -71,6 +69,8 @@ Description: Whales are frequently hunted for their meat and the valuable oil in
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/whale)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

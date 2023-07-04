@@ -1,6 +1,5 @@
 ---
 File: Jack-O'-Lantern
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Jack-o'-lanterns are semi-intelligent plant creatures spawned by fe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

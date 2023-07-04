@@ -1,7 +1,5 @@
 ---
 File: Viper Vine
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/viper-vine
 Group: 
 aliases: 
 Brief: Large tendrils ending in tiny claws unfurl from the central stalk of this plant, which rises like a serpent ready to strike.
@@ -73,6 +71,8 @@ Description: A voracious, flesh-eating carnivore, the viper vine has a single en
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/viper-vine)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Deadfall Scorpion
-Source: PFRPG Bestiary 3
 URL: 
 Group: Scorpion
 aliases: 
@@ -73,6 +72,8 @@ Description: The enormous deadfall scorpion is disturbingly stealthy for a creat
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

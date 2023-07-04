@@ -1,6 +1,5 @@
 ---
 File: Ghast
-Source: d20pfsrd
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: A ghast's paralysis even affects elves. Ghasts roam in packs of the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

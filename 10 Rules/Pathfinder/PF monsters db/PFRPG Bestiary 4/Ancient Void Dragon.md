@@ -1,6 +1,5 @@
 ---
 File: Ancient Void Dragon
-Source: PFRPG Bestiary 4
 URL: 
 Group: Outer Dragon
 aliases: 
@@ -88,6 +87,8 @@ Description: Void dragons have been tainted by long exposure to the terrible ali
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Incutilis
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: A strange sort of sea creature that appears to be an oversized ceph
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

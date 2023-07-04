@@ -1,7 +1,5 @@
 ---
 File: Death Worm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/death-worm
 Group: 
 aliases: 
 Brief: This large worm's body is muscular and scaly, its mouth a nightmare of row upon row of triangular teeth.
@@ -77,6 +75,8 @@ Description: The reclusive death worm is much feared in the deserts, badlands, a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/death-worm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

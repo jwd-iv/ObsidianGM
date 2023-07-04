@@ -1,7 +1,5 @@
 ---
 File: Ochre Jelly
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/ochre-jelly
 Group: 
 aliases: 
 Brief: This yellow-orange amoeboid creature slithers across the ground, pseudopods grasping ahead of its slow approach.
@@ -73,6 +71,8 @@ Description: Ochre jellies are animate masses of protoplasm hued a sickly combin
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/ochre-jelly)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Taiga Giant
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/taiga-giant
 Group: Giant
 aliases: 
 Brief: This muscular giant has dark gray skin and fiery red hair. Its lower jaw bears sharp fangs, and it wields a huge, primitive spear.
@@ -71,6 +69,8 @@ Description: Taiga giants wander endlessly to keep from depleting the food suppl
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/taiga-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

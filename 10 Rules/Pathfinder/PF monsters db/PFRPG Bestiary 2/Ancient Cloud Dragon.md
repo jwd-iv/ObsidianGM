@@ -1,7 +1,5 @@
 ---
 File: Ancient Cloud Dragon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud
 Group: Primal Dragon
 aliases: 
 Brief: The blue-white scales of this four-horned dragon exude wisps of fog. The dragon's snout is short but filled with sharp teeth.
@@ -87,6 +85,8 @@ Description: Cloud dragons stay out of the complicated political schemes and obs
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

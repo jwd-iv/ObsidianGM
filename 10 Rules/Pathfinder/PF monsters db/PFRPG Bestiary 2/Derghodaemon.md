@@ -1,7 +1,5 @@
 ---
 File: Derghodaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/derghodaemon
 Group: Daemon
 aliases: 
 Brief: A deadly and vicious bouquet of insectile claws sprouts from this horrid, three-legged, multi-eyed beast.
@@ -73,6 +71,8 @@ Description: These brutal daemons personify death resulting from violent insanit
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/derghodaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

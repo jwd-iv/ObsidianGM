@@ -1,7 +1,5 @@
 ---
 File: Dark Slayer
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-slayer
 Group: 
 aliases: 
 Brief: This small humanoid is clothed in tattered rags from head to foot. Only its sinister eyes and pale hands are visible.
@@ -75,6 +73,8 @@ Description: Dark slayers are a relatively rare sub-race of the dark folk imbued
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-slayer)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

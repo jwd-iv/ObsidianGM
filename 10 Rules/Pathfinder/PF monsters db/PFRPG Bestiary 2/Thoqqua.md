@@ -1,7 +1,5 @@
 ---
 File: Thoqqua
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/thoqqua
 Group: 
 aliases: 
 Brief: This creature's thick, serpentine body is protected by dense, horny plates. A visible haze of heat rises from its red-hot scales.
@@ -71,6 +69,8 @@ Description: Thoqquas are cantankerous creatures of fire and slag.  Their bodies
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/thoqqua)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

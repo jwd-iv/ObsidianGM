@@ -1,7 +1,5 @@
 ---
 File: Sceaduinar
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/sceaduinar
 Group: 
 aliases: 
 Brief: This gargoyle-like creature has long spiky legs and a bat-like head-its body seems to be made of living, dark purple crystal.
@@ -75,6 +73,8 @@ Description: Sceaduinars are strange creatures born of pure entropy, the antithe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/sceaduinar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

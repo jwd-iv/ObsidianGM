@@ -1,7 +1,5 @@
 ---
 File: Animated Object
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object
 Group: 
 aliases: 
 Brief: The skeleton locked within rattles as this animated cage lurches forward on chain legs in search of new prisoners.
@@ -108,6 +106,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

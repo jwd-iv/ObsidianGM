@@ -1,7 +1,5 @@
 ---
 File: Babau
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/babau
 Group: Demon
 aliases: 
 Brief: This emaciated figure looks like a horned human skeleton smothered within a bone-tight hide of slimy leather.
@@ -71,6 +69,8 @@ Description: The babau is an assassin, a murderer, and a sadist- certainly not t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/babau)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

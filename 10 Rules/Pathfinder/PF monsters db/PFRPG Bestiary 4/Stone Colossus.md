@@ -1,6 +1,5 @@
 ---
 File: Stone Colossus
-Source: PFRPG Bestiary 4
 URL: 
 Group: Colossus
 aliases: 
@@ -79,6 +78,8 @@ Description: Standing 70 feet tall and weighing 300 tons, a stone colossus is a 
 Race: 
 Class: 
 MR: 7
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

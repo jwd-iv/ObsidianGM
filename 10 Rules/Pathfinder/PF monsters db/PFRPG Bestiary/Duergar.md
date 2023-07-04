@@ -1,7 +1,5 @@
 ---
 File: Duergar
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/duergar
 Group: 
 aliases: 
 Brief: This bald, long-bearded dwarf has dull gray skin, low arching brows, and eyes that seem to absorb rather than reflect the light.
@@ -70,6 +68,8 @@ Description: >
 Race: Duergar
 Class: warrior 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/duergar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

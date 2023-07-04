@@ -1,7 +1,5 @@
 ---
 File: Xill
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xill
 Group: 
 aliases: 
 Brief: This flame-red humanoid appears to be a strange mix of insect and reptile, with four arms and twitching, fanged mandibles.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xill)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

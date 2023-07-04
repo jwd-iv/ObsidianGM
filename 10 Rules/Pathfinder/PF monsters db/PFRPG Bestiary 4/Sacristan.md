@@ -1,6 +1,5 @@
 ---
 File: Sacristan
-Source: PFRPG Bestiary 4
 URL: 
 Group: Kyton
 aliases: 
@@ -73,6 +72,8 @@ Description: Every kyton considers itself some manner of artiste, working and re
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

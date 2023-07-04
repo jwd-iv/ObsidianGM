@@ -1,6 +1,5 @@
 ---
 File: Grendel
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: This reaver of the cold marsh is not just a monster; he is a force 
 Race: 
 Class: 
 MR: 7
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

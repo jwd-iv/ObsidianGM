@@ -1,7 +1,5 @@
 ---
 File: Gorilla
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/gorilla
 Group: Gorilla Ape
 aliases: 
 Brief: Large, deep-set eyes peer from beneath this great ape's thick brow as it lumbers forward on its legs and knuckles.
@@ -69,6 +67,8 @@ Description: An adult male ape is 8 feet tall and can weigh as much as 400 pound
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/gorilla)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

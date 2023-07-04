@@ -1,6 +1,5 @@
 ---
 File: Guardian Dragon
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -83,6 +82,8 @@ Description: A guardian dragon is an immense, serpentine dragon created by a dei
 Race: 
 Class: 
 MR: 10
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Greater Magma Elemental
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-magma
 Group: Elemental
 aliases: 
 Brief: This rocky monster glows with an internal heat. Red light spills from its eyes and mouth, as well as fractures in its outer surface.
@@ -75,6 +73,8 @@ Description: In the border areas between the Plane of Earth and Plane of Fire, v
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-magma)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

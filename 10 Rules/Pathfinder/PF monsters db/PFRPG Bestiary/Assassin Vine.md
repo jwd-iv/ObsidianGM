@@ -1,7 +1,5 @@
 ---
 File: Assassin Vine
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/assassin-vine
 Group: 
 aliases: 
 Brief: This gnarled vine, as thick as a man's arm and bearing handshaped leaves, convulses across the ground in an unnatural slither.
@@ -73,6 +71,8 @@ Description: The assassin vine is a carnivorous plant that collects its own gris
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/plants/assassin-vine)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

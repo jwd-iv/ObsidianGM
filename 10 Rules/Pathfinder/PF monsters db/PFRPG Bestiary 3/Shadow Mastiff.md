@@ -1,6 +1,5 @@
 ---
 File: Shadow Mastiff
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Tireless hunters, stealthy trackers, and deadly predators, shadow m
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

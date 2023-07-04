@@ -1,6 +1,5 @@
 ---
 File: Water Naga
-Source: PFRPG Bestiary 3
 URL: 
 Group: Naga
 aliases: 
@@ -76,6 +75,8 @@ Description: With mottled scales of blue and green, water nagas' serpentine beau
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

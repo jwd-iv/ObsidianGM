@@ -1,6 +1,5 @@
 ---
 File: River Drake
-Source: PFRPG Bestiary 3
 URL: 
 Group: Drake
 aliases: 
@@ -73,6 +72,8 @@ Description: Preying upon fish and fishermen with equal ease, river drakes are s
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Juvenile Seps
-Source: PFRPG Bestiary 4
 URL: 
 Group: Seps
 aliases: 
@@ -71,6 +70,8 @@ Description: Sepses are born live. A hatchling soon grows up to 7 feet long and 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

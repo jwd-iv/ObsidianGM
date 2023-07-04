@@ -1,7 +1,5 @@
 ---
 File: Shoggoth
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-s/shoggoth
 Group: 
 aliases: 
 Brief: This immense mound of black slime thunders forward, eyes and mouths and even stranger things forming in its heaving bulk.
@@ -75,6 +73,8 @@ Description: Although even lunatics and doom-saying prophets desperately claim t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-s/shoggoth)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

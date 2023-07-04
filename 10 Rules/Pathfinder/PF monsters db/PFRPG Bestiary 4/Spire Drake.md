@@ -1,6 +1,5 @@
 ---
 File: Spire Drake
-Source: PFRPG Bestiary 4
 URL: 
 Group: Drake
 aliases: 
@@ -75,6 +74,8 @@ Description: Sages attribute the gaunt builds and tattered, scabrous wings of sp
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

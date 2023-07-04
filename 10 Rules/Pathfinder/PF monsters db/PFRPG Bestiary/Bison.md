@@ -1,7 +1,5 @@
 ---
 File: Bison
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/bison
 Group: Herd Animal
 aliases: 
 Brief: This creature has small, upward-pointing horns, a shaggy coat of fur, and a large hump on its shoulders.
@@ -69,6 +67,8 @@ Description: Bison are large herd animals. They can grow as long as 12 feet and 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/bison)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

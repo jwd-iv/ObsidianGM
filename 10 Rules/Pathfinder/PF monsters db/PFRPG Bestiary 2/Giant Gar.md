@@ -1,7 +1,5 @@
 ---
 File: Giant Gar
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/gar/gar-giant
 Group: Gar
 aliases: 
 Brief: This fish is enormous-a sleek predator with bony scales and a long set of toothy jaws.
@@ -69,6 +67,8 @@ Description: Although typical gars are frightening enough, tales of enormous gia
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/gar/gar-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

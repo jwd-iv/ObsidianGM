@@ -1,6 +1,5 @@
 ---
 File: Mature Adult Copper Dragon
-Source: d20pfsrd
 URL: 
 Group: Metallic Dragon
 aliases: 
@@ -81,6 +80,8 @@ Description: This whimsical dragon spends most of its time in combat trying to a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

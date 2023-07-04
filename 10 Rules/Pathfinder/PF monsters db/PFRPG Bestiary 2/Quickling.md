@@ -1,7 +1,5 @@
 ---
 File: Quickling
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/quickling
 Group: 
 aliases: 
 Brief: This creature resembles a short and slight elf wearing drab clothes and a wicked grin. In a blink, the thing darts from sight.
@@ -75,6 +73,8 @@ Description: Few creatures can match the speed of a quickling. These malicious f
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/quickling)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

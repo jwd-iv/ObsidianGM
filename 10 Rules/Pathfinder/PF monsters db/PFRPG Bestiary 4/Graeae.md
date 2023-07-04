@@ -1,6 +1,5 @@
 ---
 File: Graeae
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -78,6 +77,8 @@ Description: >
 Race: 
 Class: 
 MR: 2
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

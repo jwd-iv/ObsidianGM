@@ -1,6 +1,5 @@
 ---
 File: Crucidaemon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Daemon
 aliases: 
@@ -73,6 +72,8 @@ Description: Bloody representations of death by traps or torture, crucidaemons s
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

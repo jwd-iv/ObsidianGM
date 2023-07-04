@@ -1,6 +1,5 @@
 ---
 File: Lava Drake
-Source: PFRPG Bestiary 4
 URL: 
 Group: Drake
 aliases: 
@@ -75,6 +74,8 @@ Description: The deviant and destructive cousins of primal magma dragons, lava d
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

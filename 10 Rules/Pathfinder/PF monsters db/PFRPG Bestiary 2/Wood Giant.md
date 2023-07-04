@@ -1,7 +1,5 @@
 ---
 File: Wood Giant
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/wood-giant
 Group: Giant
 aliases: 
 Brief: Standing tall and graceful, this sharp-eared giant's skin is pale. Its large brow gives it a somewhat primitive visage.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/wood-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

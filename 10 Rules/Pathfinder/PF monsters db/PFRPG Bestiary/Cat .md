@@ -1,7 +1,5 @@
 ---
 File: Cat
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/cat
 Group: Familiar
 aliases: 
 Brief: Presented here are the base animal statistics for all of the most commonly used familiars-of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify Climb and Swim checks.
@@ -69,6 +67,8 @@ Description: Cats typically weigh 5-15 pounds when fully grown.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/cat)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Young Crystal Dragon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-crystal
 Group: Primal Dragon
 aliases: 
 Brief: This brilliantly colored dragon has scales, teeth, and claws made of multicolored crystal, and its wings are sheets of flexible glass.
@@ -79,6 +77,8 @@ Description: Crystal dragons are generally good-natured, though their incredible
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-crystal)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

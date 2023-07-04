@@ -1,6 +1,5 @@
 ---
 File: Rift Drake
-Source: PFRPG Bestiary 3
 URL: 
 Group: Drake
 aliases: 
@@ -75,6 +74,8 @@ Description: Creatures of the badlands and regions scarred by the gods, rift dra
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

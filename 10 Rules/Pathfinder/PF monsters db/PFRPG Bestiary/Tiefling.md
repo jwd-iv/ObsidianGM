@@ -1,7 +1,5 @@
 ---
 File: Tiefling
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/tiefling
 Group: 
 aliases: 
 Brief: This lanky man sneers as he draws his sword. Tiny horns and a barbed tail reveal that he is something more than human.
@@ -72,6 +70,8 @@ Description: >
 Race: Tiefling
 Class: rogue 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/tiefling)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

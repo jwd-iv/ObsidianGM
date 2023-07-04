@@ -1,6 +1,5 @@
 ---
 File: Hieracosphinx
-Source: PFRPG Bestiary 3
 URL: 
 Group: Sphinx
 aliases: 
@@ -71,6 +70,8 @@ Description: The least intelligent of the common sphinxes, hieracosphinxes are a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

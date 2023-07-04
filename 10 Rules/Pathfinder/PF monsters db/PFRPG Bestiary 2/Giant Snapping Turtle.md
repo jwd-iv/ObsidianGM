@@ -1,7 +1,5 @@
 ---
 File: Giant Snapping Turtle
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snapping-turtle/turtle-giant-snapping
 Group: Turtle
 aliases: 
 Brief: This lumbering turtle is the size of a house; its head features powerful, razor-sharp beak.
@@ -71,6 +69,8 @@ Description: Giant snapping turtles typically grow to diameters of about 35 feet
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snapping-turtle/turtle-giant-snapping)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Grindylow
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/grindylow
 Group: 
 aliases: 
 Brief: With a large head and numerous teeth, this unsightly creature resembles a goblin from the waist up and a greasy octopus below.
@@ -71,6 +69,8 @@ Description: About 4 feet long from head to tentacle tip, grindylows appear to b
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/grindylow)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

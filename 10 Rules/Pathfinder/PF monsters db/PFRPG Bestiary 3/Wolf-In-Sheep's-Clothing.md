@@ -1,6 +1,5 @@
 ---
 File: Wolf-In-Sheep's-Clothing
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: A wolf-in-sheep's-clothing appears at first to be little more than 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

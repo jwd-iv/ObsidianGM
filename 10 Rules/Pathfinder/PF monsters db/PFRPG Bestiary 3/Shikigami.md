@@ -1,6 +1,5 @@
 ---
 File: Shikigami
-Source: PFRPG Bestiary 3
 URL: 
 Group: Kami
 aliases: 
@@ -71,6 +70,8 @@ Description: Shikigami are the least of the kami, yet they make up for their low
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

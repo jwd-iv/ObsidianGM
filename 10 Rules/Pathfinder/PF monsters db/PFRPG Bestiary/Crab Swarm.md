@@ -1,7 +1,5 @@
 ---
 File: Crab Swarm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/crab-swarm
 Group: Crab
 aliases: 
 Brief: A writhing mass of clacking shells and snapping pincers rushes from the surf, their spider-like legs twitching across the sand.
@@ -69,6 +67,8 @@ Description: Crab swarms contain over a thousand normal-sized crabs that rush ov
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/crab-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

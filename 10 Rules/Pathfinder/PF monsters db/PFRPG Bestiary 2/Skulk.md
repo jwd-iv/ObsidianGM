@@ -1,7 +1,5 @@
 ---
 File: Skulk
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/skulk
 Group: 
 aliases: 
 Brief: This smooth-skinned, hairless humanoid has penetrating eyes and skin that shifts and changes to mimic his surroundings.
@@ -73,6 +71,8 @@ Description: Skulks are a race of cowardly and lazy humanoids that live on the f
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/skulk)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

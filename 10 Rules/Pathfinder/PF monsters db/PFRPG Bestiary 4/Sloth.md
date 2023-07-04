@@ -1,6 +1,5 @@
 ---
 File: Sloth
-Source: PFRPG Bestiary 4
 URL: 
 Group: Familiar
 aliases: 
@@ -69,6 +68,8 @@ Description: Sloths are tree-dwelling herbivores. They are known for their effic
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

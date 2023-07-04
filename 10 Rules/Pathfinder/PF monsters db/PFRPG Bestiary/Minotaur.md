@@ -1,7 +1,5 @@
 ---
 File: Minotaur
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/minotaur
 Group: 
 aliases: 
 Brief: With the body of a powerfully built man and the head of a snarling bull, this creature stomps its hooves as if preparing to charge.
@@ -71,6 +69,8 @@ Description: Nothing holds a grudge like a minotaur. Scorned by the civilized ra
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/minotaur)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

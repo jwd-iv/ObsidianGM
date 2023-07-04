@@ -1,7 +1,5 @@
 ---
 File: Wolverine
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/musteloids/wolverine
 Group: 
 aliases: 
 Brief: This stocky, muscular mammal is the size of a badger, its snarling lips revealing a mouth full of yellow teeth.
@@ -71,6 +69,8 @@ Description: Wolverines are territorial, especially when it comes to food, and h
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/musteloids/wolverine)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

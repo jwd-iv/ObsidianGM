@@ -1,7 +1,5 @@
 ---
 File: Guardian Naga
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/guardian
 Group: Naga
 aliases: 
 Brief: A contemplative humanoid face framed by a cobra-like hood adorns the body of this long, brightly colored serpent.
@@ -79,6 +77,8 @@ Description: Although ferocious in shape, with radiant scales, cobralike hoods, 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/guardian)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Dire Weasel
-Source: PFRPG Bestiary 4
 URL: 
 Group: Weasel
 aliases: 
@@ -69,6 +68,8 @@ Description: Common in a variety of environments and climates, dire weasels are 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

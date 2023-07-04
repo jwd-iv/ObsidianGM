@@ -1,7 +1,5 @@
 ---
 File: Phase Spider
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/phase-spider
 Group: 
 aliases: 
 Brief: This large spider-like monster has an eerie, humanoid face surrounded by a shaggy mane of fur.
@@ -75,6 +73,8 @@ Description: Phase spiders are voracious predators from the Ethereal Plane who h
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/phase-spider)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

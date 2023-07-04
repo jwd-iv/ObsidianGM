@@ -1,6 +1,5 @@
 ---
 File: Balor Lord
-Source: d20pfsrd
 URL: 
 Group: Demon
 aliases: 
@@ -87,6 +86,8 @@ Description: Even more terrible than the typical balor are those who do not call
 Race: Male balor lord
 Class: barbarian 5
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

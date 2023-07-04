@@ -1,6 +1,5 @@
 ---
 File: Kuwa
-Source: PFRPG Bestiary 3
 URL: 
 Group: Oni
 aliases: 
@@ -69,6 +68,8 @@ Description: While the majority of oni tend to be larger than life, and thus oft
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

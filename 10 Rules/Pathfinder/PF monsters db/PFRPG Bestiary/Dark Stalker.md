@@ -1,7 +1,5 @@
 ---
 File: Dark Stalker
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-stalker
 Group: 
 aliases: 
 Brief: This tall humanoid's pale brow and black, soulless eyes are all that can be seen above a black scarf wrapped around its face.
@@ -75,6 +73,8 @@ Description: The strange and mysterious dark stalkers are the undisputed leaders
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-stalker)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

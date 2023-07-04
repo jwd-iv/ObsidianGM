@@ -1,7 +1,5 @@
 ---
 File: Goblin
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/goblin
 Group: 
 aliases: 
 Brief: This creature stands barely three feet tall, its scrawny, humanoid body dwarfed by its wide, ungainly head.
@@ -70,6 +68,8 @@ Description: >
 Race: Goblin
 Class: warrior 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/goblin)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

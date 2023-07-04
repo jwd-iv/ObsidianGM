@@ -1,6 +1,5 @@
 ---
 File: Archaeopteryx
-Source: PFRPG Bestiary 4
 URL: 
 Group: Familiar
 aliases: 
@@ -71,6 +70,8 @@ Description: Archaeopteryxes are primitive birds. Instead of beaks, they have li
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

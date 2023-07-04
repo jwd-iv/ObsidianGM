@@ -1,6 +1,5 @@
 ---
 File: Rokurokubi
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -85,6 +84,8 @@ Description: A rokurokubi is an evil hag-like creature who seeks to spread as mu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

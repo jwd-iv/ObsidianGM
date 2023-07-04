@@ -1,7 +1,5 @@
 ---
 File: Octopus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/octopus
 Group: 
 aliases: 
 Brief: Eight tentacles, each adorned with rows of countless suckers, unfurl from the barrel-shaped body of this large-eyed creature.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/octopus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

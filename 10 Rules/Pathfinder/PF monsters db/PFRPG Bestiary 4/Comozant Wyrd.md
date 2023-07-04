@@ -1,6 +1,5 @@
 ---
 File: Comozant Wyrd
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -75,6 +74,8 @@ Description: A comozant wyrd appears to be 3 feet of buzzing, heatless blue or g
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

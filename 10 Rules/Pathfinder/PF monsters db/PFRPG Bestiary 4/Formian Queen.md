@@ -1,6 +1,5 @@
 ---
 File: Formian Queen
-Source: PFRPG Bestiary 4
 URL: 
 Group: Formian
 aliases: 
@@ -73,6 +72,8 @@ Description: A formian queen is the embodiment of the hive and the key to its su
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Guardian Phantom Armor
-Source: PFRPG Bestiary 4
 URL: 
 Group: Phantom Armor
 aliases: 
@@ -69,6 +68,8 @@ Description: Created from blood-spattered armor infused with the souls of betray
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

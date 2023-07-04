@@ -1,7 +1,5 @@
 ---
 File: Imentesh
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-imentesh
 Group: Protean
 aliases: 
 Brief: This serpentine creature has the lower body of a snake, a humanoid torso, and a bird-like head and claws.
@@ -71,6 +69,8 @@ Description: Missionaries of chaos and heralds of reality's eventual unraveling,
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-imentesh)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

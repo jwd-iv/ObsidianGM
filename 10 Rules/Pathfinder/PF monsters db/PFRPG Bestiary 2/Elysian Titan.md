@@ -1,7 +1,5 @@
 ---
 File: Elysian Titan
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elysian-titan
 Group: Titan
 aliases: 
 Brief: This titanic humanoid wears gilt-edged armor of ancient make and carries an immense hammer made of gleaming metal.
@@ -69,6 +67,8 @@ Description: A race that was old when the world was young, titans are very near 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elysian-titan)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

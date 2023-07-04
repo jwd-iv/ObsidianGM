@@ -1,6 +1,5 @@
 ---
 File: Androsphinx
-Source: PFRPG Bestiary 3
 URL: 
 Group: Sphinx
 aliases: 
@@ -71,6 +70,8 @@ Description: The mightiest of the common sphinxes, androsphinxes see themselves 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

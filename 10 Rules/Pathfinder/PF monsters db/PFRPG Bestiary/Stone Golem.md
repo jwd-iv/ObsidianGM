@@ -1,7 +1,5 @@
 ---
 File: Stone Golem
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/stone-golem
 Group: Golem
 aliases: 
 Brief: This towering stone automaton bears the likeness of an archaic, armored warrior. It moves with ponderous but inexorable steps.
@@ -73,6 +71,8 @@ Description: A stone golem has a humanoid body made from stone, frequently styli
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/stone-golem)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

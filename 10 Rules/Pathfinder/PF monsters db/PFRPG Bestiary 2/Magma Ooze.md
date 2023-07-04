@@ -1,7 +1,5 @@
 ---
 File: Magma Ooze
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/magma-ooze
 Group: 
 aliases: 
 Brief: This seething mass of bubbling molten rock churns and moves of its own hungry accord.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/magma-ooze)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

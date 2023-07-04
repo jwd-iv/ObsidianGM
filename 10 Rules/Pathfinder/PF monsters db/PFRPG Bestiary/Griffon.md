@@ -1,7 +1,5 @@
 ---
 File: Griffon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/griffon
 Group: 
 aliases: 
 Brief: This majestic beast has the body of a lion, the head and forelegs of a great eagle, and a massive pair of feathered wings.
@@ -69,6 +67,8 @@ Description: Griffons are powerful aerial predators, swooping down from their hi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/griffon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Shark
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/shark/shark
 Group: Shark
 aliases: 
 Brief: This blue shark's fins slice through the water, its black eyes rolling and its gaping jaws showing countless teeth.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/shark/shark)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Giant Centipede
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/giant-centipede
 Group: Centipede
 aliases: 
 Brief: This lengthy, segmented horror writhes and twists, pulsing its venomous mandibles in search of prey.
@@ -71,6 +69,8 @@ Description: Giant centipedes attack nearly any living creatures with their pois
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/giant-centipede)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

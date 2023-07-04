@@ -1,7 +1,5 @@
 ---
 File: Remorhaz
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/remorhaz
 Group: 
 aliases: 
 Brief: An immense centipede-like beast erupts from the snow, rows of chitinous plates on its back glowing red-hot.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/remorhaz)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

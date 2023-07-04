@@ -1,6 +1,5 @@
 ---
 File: Julunggali
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: A julunggali is a semidivine entity. It watches over sacred and mys
 Race: 
 Class: 
 MR: 8
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Hound Archon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/hound-archon
 Group: Archon
 aliases: 
 Brief: This canine-headed humanoid's well-groomed appearance and polished greatsword show it to be more than a common beast.
@@ -71,6 +69,8 @@ Description: Hound archons look like well-muscled humans with canine heads typic
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/hound-archon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

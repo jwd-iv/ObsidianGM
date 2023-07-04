@@ -1,7 +1,5 @@
 ---
 File: Winter Wolf
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/winter-wolf
 Group: Worg
 aliases: 
 Brief: This bear-sized wolf has white fur and a rime of frost around its muzzle. Its eyes are pale blue, almost white in color.
@@ -69,6 +67,8 @@ Description: Winter wolves are larger, smarter, more ferocious variants of worgs
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/winter-wolf)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

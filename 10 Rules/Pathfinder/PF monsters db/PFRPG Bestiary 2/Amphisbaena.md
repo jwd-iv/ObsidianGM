@@ -1,7 +1,5 @@
 ---
 File: Amphisbaena
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/amphisbaena
 Group: 
 aliases: 
 Brief: This large snake has two heads, one at each end of its long, coiling body. Both display large sets of fangs.
@@ -73,6 +71,8 @@ Description: The reclusive amphisbaena is a dreaded viper with a head at either 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/amphisbaena)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

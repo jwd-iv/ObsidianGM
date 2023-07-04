@@ -1,6 +1,5 @@
 ---
 File: Cairn Linnorm
-Source: PFRPG Bestiary 3
 URL: 
 Group: Linnorm
 aliases: 
@@ -75,6 +74,8 @@ Description: Cairn linnorms prefer to dwell in necropolises, amid reaches of bur
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

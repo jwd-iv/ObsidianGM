@@ -1,6 +1,5 @@
 ---
 File: Agyra
-Source: PFRPG Bestiary 4
 URL: 
 Group: Kaiju
 aliases: 
@@ -85,6 +84,8 @@ Description: Agyra, the Forever Storm, is believed by many cultures to be the ca
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

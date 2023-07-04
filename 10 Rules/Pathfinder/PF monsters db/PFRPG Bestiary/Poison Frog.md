@@ -1,7 +1,5 @@
 ---
 File: Poison Frog
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/amphibians/frog/poison-frog
 Group: Frog
 aliases: 
 Brief: This small frog is bright green and red, with electric-blue stripes on its hind legs.
@@ -71,6 +69,8 @@ Description: Poisonous frogs are a bright green color, with additional bright ye
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/amphibians/frog/poison-frog)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

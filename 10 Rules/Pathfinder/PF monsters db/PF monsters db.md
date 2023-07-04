@@ -32,56 +32,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Source:
-    input: select
-    key: Source
-    accessorKey: Source
-    label: Source
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 229
-    isSorted: false
-    isSortedDesc: false
-    options:
-      - { label: "d20pfsrd", value: "d20pfsrd", color: "hsl(87, 95%, 90%)"}
-      - { label: "Monster Codex", value: "Monster Codex", color: "hsl(86, 95%, 90%)"}
-      - { label: "PFRPG Bestiary", value: "PFRPG Bestiary", color: "hsl(227, 95%, 90%)"}
-      - { label: "PFRPG Bestiary 2", value: "PFRPG Bestiary 2", color: "hsl(251, 95%, 90%)"}
-      - { label: "PFRPG Bestiary 3", value: "PFRPG Bestiary 3", color: "hsl(307, 95%, 90%)"}
-      - { label: "PFRPG Bestiary 4", value: "PFRPG Bestiary 4", color: "hsl(84, 95%, 90%)"}
-      - { label: "Core Race", value: "Core Race", color: "hsl(254, 95%, 90%)"}
-      - { label: "PFRPG Bestiary 6", value: "PFRPG Bestiary 6", color: "hsl(264, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
-  URL:
-    input: text
-    accessorKey: URL
-    key: URL
-    id: URL
-    label: URL
-    position: 3
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Brief:
     input: text
     accessorKey: Brief
@@ -153,25 +103,6 @@ columns:
     sortIndex: -1
     isSorted: false
     isSortedDesc: true
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  ImageSource:
-    input: text
-    accessorKey: ImageSource
-    key: ImageSource
-    id: newColumn71
-    label: ImageSource
-    position: 8
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -1413,7 +1344,6 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: true
-  group_folder_column: Source
   remove_empty_folders: true
   automatically_group_files: true
   hoist_files_with_empty_attributes: true
@@ -1439,6 +1369,7 @@ config:
   enable_footer: false
   implementation: default
   show_metadata_tags: false
+  group_folder_column: 
 filters:
   enabled: false
   conditions:

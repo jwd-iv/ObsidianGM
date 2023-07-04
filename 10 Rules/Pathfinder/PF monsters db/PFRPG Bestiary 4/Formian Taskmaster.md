@@ -1,6 +1,5 @@
 ---
 File: Formian Taskmaster
-Source: PFRPG Bestiary 4
 URL: 
 Group: Formian
 aliases: 
@@ -78,6 +77,8 @@ Description: Formian taskmasters are merchants, traders, diplomats, and spies, a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

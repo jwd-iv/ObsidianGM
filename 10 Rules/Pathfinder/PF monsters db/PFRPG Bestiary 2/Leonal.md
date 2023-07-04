@@ -1,7 +1,5 @@
 ---
 File: Leonal
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-leonal
 Group: Agathion
 aliases: 
 Brief: This lion-headed humanoid has golden fur, sharp teeth, and long cat-like claws on its hands and feet.
@@ -73,6 +71,8 @@ Description: A leonal is a lion-like agathion, noble and fierce. Though gentle w
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-leonal)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

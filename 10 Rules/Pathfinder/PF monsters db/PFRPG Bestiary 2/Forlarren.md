@@ -1,7 +1,5 @@
 ---
 File: Forlarren
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/forlarren
 Group: 
 aliases: 
 Brief: This humanoid creature has the legs of a bald goat, a completely hairless body, and a horned head with a sinister expression.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/forlarren)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

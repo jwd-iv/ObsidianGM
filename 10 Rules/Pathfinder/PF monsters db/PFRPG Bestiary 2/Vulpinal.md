@@ -1,7 +1,5 @@
 ---
 File: Vulpinal
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-vulpinal
 Group: Agathion
 aliases: 
 Brief: This bright-eyed, anthropomorphic fox is dressed in simple traveling clothes and carries a musical instrument in one hand.
@@ -71,6 +69,8 @@ Description: Among the smallest of the agathions, vulpinals tend to be the most 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-vulpinal)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

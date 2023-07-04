@@ -1,7 +1,5 @@
 ---
 File: Amoeba Swarm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/amoeba-swarm
 Group: Amoeba
 aliases: 
 Brief: Thousands of tiny gelatinous clots of animate ooze swarm in a wet mound, surrounded by a cloying stink of rancid vinegar.
@@ -69,6 +67,8 @@ Description: An amoeba swarm is a mobile group of amoebas, each about the size o
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/amoeba-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

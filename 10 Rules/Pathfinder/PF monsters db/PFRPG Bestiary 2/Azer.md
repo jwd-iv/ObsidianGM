@@ -1,7 +1,5 @@
 ---
 File: Azer
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azer
 Group: 
 aliases: 
 Brief: Heat ripples the air near this squat, brass-skinned humanoid. Its head and shoulders blaze with a mane of fire.
@@ -69,6 +67,8 @@ Description: A proud and hardworking race from the Plane of Fire, azers toil in 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azer)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

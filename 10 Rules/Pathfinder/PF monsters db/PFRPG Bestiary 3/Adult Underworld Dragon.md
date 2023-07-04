@@ -1,6 +1,5 @@
 ---
 File: Adult Underworld Dragon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Imperial Dragon
 aliases: 
@@ -83,6 +82,8 @@ Description: Underworld dragons-also called futsanglungs-are calculating, greedy
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

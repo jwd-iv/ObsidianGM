@@ -1,6 +1,5 @@
 ---
 File: Thylacine
-Source: PFRPG Bestiary 3
 URL: 
 Group: Marsupial
 aliases: 
@@ -72,6 +71,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

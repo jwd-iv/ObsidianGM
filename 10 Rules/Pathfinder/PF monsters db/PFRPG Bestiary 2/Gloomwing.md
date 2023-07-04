@@ -1,7 +1,5 @@
 ---
 File: Gloomwing
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/gloomwing
 Group: 
 aliases: 
 Brief: This immense moth has huge purple wings marked with spiraling black patterns that seem to shift and writhe.
@@ -75,6 +73,8 @@ Description: Gloomwings are strange, moth-like natives of the Plane of Shadow. D
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/gloomwing)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

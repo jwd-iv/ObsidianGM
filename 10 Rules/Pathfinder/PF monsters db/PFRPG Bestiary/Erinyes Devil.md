@@ -1,7 +1,5 @@
 ---
 File: Erinyes Devil
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/erinyes
 Group: Devil
 aliases: 
 Brief: Some calamity has befallen this angelic warrior. Wings stained black shear the air as her merciless eyes search for a target.
@@ -71,6 +69,8 @@ Description: Known by many names-the Fallen, the Ash Wings, and the Furies-the d
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/erinyes)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

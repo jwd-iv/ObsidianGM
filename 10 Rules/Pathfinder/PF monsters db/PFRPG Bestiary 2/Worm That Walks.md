@@ -1,7 +1,5 @@
 ---
 File: Worm That Walks
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/templates/worm-that-walks-cr-2
 Group: 
 aliases: 
 Brief: Although this robed wizard stands and moves like a man, his body is a writhing mass of squirming, slippery worms.
@@ -79,6 +77,8 @@ Description: >
 Race: Human worm that walks
 Class: conjurer 13
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/templates/worm-that-walks-cr-2)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Huge Ice Elemental
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-ice
 Group: Elemental
 aliases: 
 Brief: From the waist up, this icy creature's features are humanoid, but below its body is a snake-like, slithering tail.
@@ -77,6 +75,8 @@ Description: Ice elementals are creatures made of animated snow and ice. They fo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-ice)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Hellwasp Swarm
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Even Hell's fiendish inhabitants know to stay clear of the maddenin
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

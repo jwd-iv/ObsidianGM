@@ -1,7 +1,5 @@
 ---
 File: Intellect Devourer
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/intellect-devourer
 Group: 
 aliases: 
 Brief: Devoid of a head, or any features at all save for four short, clawed legs, this creature's body looks like a large, glistening brain.
@@ -73,6 +71,8 @@ Description: Thought by some to be invaders from another dimension or planet, th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/intellect-devourer)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

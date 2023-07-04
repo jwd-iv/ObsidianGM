@@ -1,6 +1,5 @@
 ---
 File: Wyrmling Green Dragon
-Source: d20pfsrd
 URL: 
 Group: Chromatic Dragon
 aliases: 
@@ -71,6 +70,8 @@ Description: Green dragons dwell in the ancient forests of the world, prowling u
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

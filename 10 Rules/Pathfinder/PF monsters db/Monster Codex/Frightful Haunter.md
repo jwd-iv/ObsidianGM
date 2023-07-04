@@ -1,6 +1,5 @@
 ---
 File: Frightful Haunter
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -79,6 +78,8 @@ Description: Occasionally, the desire to cause fear and misery survives even whe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

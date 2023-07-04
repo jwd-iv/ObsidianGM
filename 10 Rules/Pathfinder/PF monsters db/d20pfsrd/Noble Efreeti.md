@@ -1,6 +1,5 @@
 ---
 File: Noble Efreeti
-Source: d20pfsrd
 URL: 
 Group: Malik
 aliases: Malik
@@ -73,6 +72,8 @@ Description: The efreet (singular efreeti) are genies from the Plane of Fire. An
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Giant Frog
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/amphibians/frog/giant-frog
 Group: Frog
 aliases: 
 Brief: This creature looks like a normal frog, with moist, mottled, blackish-green skin, but grown to truly monstrous size.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/amphibians/frog/giant-frog)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

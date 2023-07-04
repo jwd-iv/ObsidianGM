@@ -1,7 +1,5 @@
 ---
 File: Piscodaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/piscodaemon
 Group: Daemon
 aliases: 
 Brief: This hideous cross between a lobster, an octopus, and a human threatens enemies with powerful claws and writhing tentacles.
@@ -73,6 +71,8 @@ Description: These aquatic daemons roam the lower planes sowing misery and bligh
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/piscodaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

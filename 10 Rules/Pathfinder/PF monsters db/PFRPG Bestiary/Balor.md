@@ -1,7 +1,5 @@
 ---
 File: Balor
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/balor
 Group: Demon
 aliases: 
 Brief: This winged fiend's horned head and fanged visage present the perfection of the demonic form, fire spurting from its flesh.
@@ -79,6 +77,8 @@ Description: When folk whisper frightened tales of the demonic, what most envisi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/balor)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

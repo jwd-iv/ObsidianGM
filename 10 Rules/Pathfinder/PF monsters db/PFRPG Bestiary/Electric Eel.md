@@ -1,7 +1,5 @@
 ---
 File: Electric Eel
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/eel/electric-eel
 Group: Eel
 aliases: 
 Brief: This six-foot-long, snake-like fish moves slowly. A strange popping and snapping sound occasionally emits from the creature's body.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/eel/electric-eel)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

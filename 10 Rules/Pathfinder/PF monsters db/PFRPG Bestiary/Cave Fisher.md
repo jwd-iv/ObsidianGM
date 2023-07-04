@@ -1,7 +1,5 @@
 ---
 File: Cave Fisher
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/cave-fisher
 Group: 
 aliases: 
 Brief: This man-sized, crab-like monstrosity clings tenaciously to the rough stone, its enormous pincers held out menacingly before it.
@@ -73,6 +71,8 @@ Description: The cave fisher is a highly specialized predator that dwells in cav
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/cave-fisher)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

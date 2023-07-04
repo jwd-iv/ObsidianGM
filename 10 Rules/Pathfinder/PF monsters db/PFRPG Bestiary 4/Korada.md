@@ -1,6 +1,5 @@
 ---
 File: Korada
-Source: PFRPG Bestiary 4
 URL: 
 Group: Empyreal Lord
 aliases: 
@@ -78,6 +77,8 @@ Description: Korada is the champion of peace, kindness, and forgiveness. While h
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

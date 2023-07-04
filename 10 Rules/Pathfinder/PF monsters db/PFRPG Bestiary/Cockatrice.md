@@ -1,7 +1,5 @@
 ---
 File: Cockatrice
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cockatrice
 Group: 
 aliases: 
 Brief: This hideous avian creature has the body of an emaciated rooster, the wings of a bat, and a long, scaly tail.
@@ -71,6 +69,8 @@ Description: Stupid, vicious, and repulsive, cockatrices are avoided by other cr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cockatrice)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

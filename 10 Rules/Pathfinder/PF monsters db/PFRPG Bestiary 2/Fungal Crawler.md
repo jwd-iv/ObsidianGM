@@ -1,7 +1,5 @@
 ---
 File: Fungal Crawler
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/fungal-crawler
 Group: 
 aliases: 
 Brief: This giant fanged cricket is caked in pungent fungal growths and topped with a mushroom-like cap.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/fungal-crawler)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

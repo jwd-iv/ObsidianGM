@@ -1,7 +1,5 @@
 ---
 File: Crag Linnorm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/crag
 Group: Linnorm
 aliases: 
 Brief: This immense, wingless dragon rears up on a serpentine body. Its triple tail and powerful talons swipe at the air.
@@ -79,6 +77,8 @@ Description: Like all linnorms, the deadly crag linnorm is a powerful, primeval 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/crag)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Vegepygmy
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/vegepygmy
 Group: 
 aliases: 
 Brief: Short, thin, and green, this small humanoid wields a spear. Tendrils of fungus dangle from its arms, midsection, and legs.
@@ -69,6 +67,8 @@ Description: Vegepygmys are created by a dangerous fungus known as russet mold- 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/plants/vegepygmy)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Dire Wolverine
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-w/wolverine/dire-wolverine
 Group: Wolverine
 aliases: 
 Brief: This terrible wolverine is as large as a bear, its jaws and claws oversized and brutal, its eyes dark and filled with rage.
@@ -71,6 +69,8 @@ Description: Dire wolverines tend to be even more territorial than their smaller
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-w/wolverine/dire-wolverine)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

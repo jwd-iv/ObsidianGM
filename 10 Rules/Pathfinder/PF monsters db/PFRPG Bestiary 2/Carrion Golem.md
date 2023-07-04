@@ -1,7 +1,5 @@
 ---
 File: Carrion Golem
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/carrion-golem
 Group: Golem
 aliases: 
 Brief: A lurching mash-up of rotting flesh, jagged bone, and coarse hair, this humanoid monstrosity reeks of death and decay.
@@ -75,6 +73,8 @@ Description: Carrion golems are made from the partially decayed parts of numerou
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/carrion-golem)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

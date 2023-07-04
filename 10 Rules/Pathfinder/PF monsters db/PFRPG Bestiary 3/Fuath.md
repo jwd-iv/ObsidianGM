@@ -1,6 +1,5 @@
 ---
 File: Fuath
-Source: PFRPG Bestiary 3
 URL: 
 Group: Gremlin
 aliases: 
@@ -73,6 +72,8 @@ Description: Drowners of sailors and sinkers of ships, a fuath (FOO-ah) is a wic
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

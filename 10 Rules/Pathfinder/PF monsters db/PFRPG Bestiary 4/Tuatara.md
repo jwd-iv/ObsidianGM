@@ -1,6 +1,5 @@
 ---
 File: Tuatara
-Source: PFRPG Bestiary 4
 URL: 
 Group: Familiar
 aliases: 
@@ -69,6 +68,8 @@ Description: Tuataras are cousins to true lizards. They mostly live on primordia
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

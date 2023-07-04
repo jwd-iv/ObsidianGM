@@ -1,6 +1,5 @@
 ---
 File: Gynosphinx
-Source: PFRPG Bestiary
 URL: 
 Group: Sphinx
 aliases: 
@@ -70,6 +69,8 @@ Description: Although there are many different species of sphinx, the one certai
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

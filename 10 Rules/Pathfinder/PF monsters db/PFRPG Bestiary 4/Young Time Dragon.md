@@ -1,6 +1,5 @@
 ---
 File: Young Time Dragon
-Source: PFRPG Bestiary 4
 URL: 
 Group: Outer Dragon
 aliases: 
@@ -84,6 +83,8 @@ Description: Guardians of history, time dragons are the most powerful of the out
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

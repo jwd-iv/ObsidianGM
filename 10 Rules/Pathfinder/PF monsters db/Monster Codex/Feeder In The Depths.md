@@ -1,6 +1,5 @@
 ---
 File: Feeder In The Depths
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -77,6 +76,8 @@ Description: Feeders in the depths closely resemble ordinary sharks, but they ar
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

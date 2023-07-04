@@ -1,6 +1,5 @@
 ---
 File: Human
-Source: Core Race
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: The physical characteristics of humans are as varied as the world's
 Race: Human
 Class: warrior 1
 MR: 
+Copyright:
+  Content: Core Race
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

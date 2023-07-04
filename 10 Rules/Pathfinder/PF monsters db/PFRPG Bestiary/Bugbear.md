@@ -1,12 +1,9 @@
 ---
 File: Bugbear
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/bugbear
 Group: 
 aliases: 
 Brief: This dark-furred creature raises a spiked morningstar, its tiny, milk-white eyes glittering with the thrill of the coming kill.
 Image: https://www.dndbeyond.com/avatars/thumbnails/31312/871/1000/1000/638084425511165687.png
-ImageSource: Art © [D&D Beyond](https://www.dndbeyond.com/monsters/16817-bugbear)
 CR: 2
 XP: 600
 Alignment: CE
@@ -73,6 +70,9 @@ Description: The bugbear is the largest of the goblinoid races, a lumbering brut
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/bugbear)'
+  Art: '[D&D Beyond](https://www.dndbeyond.com/monsters/16817-bugbear)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

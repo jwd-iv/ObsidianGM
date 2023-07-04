@@ -1,7 +1,5 @@
 ---
 File: Nightwing
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightwing
 Group: Nightshade
 aliases: 
 Brief: This enormous, bat-like creature is shaped from utter darkness, its eyes tiny red stars in the blackest night.
@@ -71,6 +69,8 @@ Description: The least of the known types of nightshade, the nightwing is nevert
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightwing)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

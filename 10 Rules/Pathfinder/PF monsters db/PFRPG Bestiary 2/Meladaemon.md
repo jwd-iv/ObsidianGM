@@ -1,7 +1,5 @@
 ---
 File: Meladaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/meladaemon
 Group: Daemon
 aliases: 
 Brief: This foul creature looks like an emaciated humanoid with the head of a jackal.
@@ -75,6 +73,8 @@ Description: As personifications of death from starvation and thirst, these with
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/meladaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

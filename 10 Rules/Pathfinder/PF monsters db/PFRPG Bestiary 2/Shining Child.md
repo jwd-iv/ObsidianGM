@@ -1,7 +1,5 @@
 ---
 File: Shining Child
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/shining-child
 Group: 
 aliases: 
 Brief: Surrounded by a nimbus of near-blinding light, this strange creature looks something like an emaciated child with clawed hands.
@@ -77,6 +75,8 @@ Description: Creatures of burning light and strange geometry, shining children a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/shining-child)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

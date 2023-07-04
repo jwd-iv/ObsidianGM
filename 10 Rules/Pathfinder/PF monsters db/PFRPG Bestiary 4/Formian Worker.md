@@ -1,6 +1,5 @@
 ---
 File: Formian Worker
-Source: PFRPG Bestiary 4
 URL: 
 Group: Formian
 aliases: 
@@ -73,6 +72,8 @@ Description: These lowest-caste formians stand a little taller than a large dog,
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

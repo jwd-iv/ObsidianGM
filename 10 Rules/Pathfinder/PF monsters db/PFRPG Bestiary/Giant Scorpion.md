@@ -1,7 +1,5 @@
 ---
 File: Giant Scorpion
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/scorpion/giant-scorpion
 Group: Scorpion
 aliases: 
 Brief: The sixteen-foot-long scorpion scrabbles forward, ferocious claws raised in challenge, stingered tail arched over its back.
@@ -71,6 +69,8 @@ Description: Giant scorpions are monstrous versions of the more common desert sc
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/scorpion/giant-scorpion)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

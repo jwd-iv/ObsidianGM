@@ -1,7 +1,5 @@
 ---
 File: Treant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/treant
 Group: 
 aliases: 
 Brief: This animated tree's bark is knotted into vaguely humanoid features, with branches for arms and roots for legs.
@@ -75,6 +73,8 @@ Description: Treants are guardians of the forest and speakers for the trees. As 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/plants/treant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

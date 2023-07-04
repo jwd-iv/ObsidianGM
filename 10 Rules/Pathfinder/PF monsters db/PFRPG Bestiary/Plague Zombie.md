@@ -1,6 +1,5 @@
 ---
 File: Plague Zombie
-Source: PFRPG Bestiary
 URL: 
 Group: Zombie
 aliases: 
@@ -75,6 +74,8 @@ Description: These zombies carry a terrible disease that perpetuates their undea
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

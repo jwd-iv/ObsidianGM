@@ -1,7 +1,5 @@
 ---
 File: Giant Queen Bee
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/bee-giant-queen
 Group: Bee
 aliases: 
 Brief: This giant bee is as large as a horse and unusually fat, with light brown stripes on her body.
@@ -71,6 +69,8 @@ Description: Bulbous and robust in comparison to others of the same species, gia
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/bee-giant-queen)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

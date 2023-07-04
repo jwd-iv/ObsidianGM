@@ -1,7 +1,5 @@
 ---
 File: Nightmare
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/nightmare
 Group: 
 aliases: 
 Brief: This eerie horse-like creature's skin is an inky blackness. Fire spurts from its hair and nostrils, and its hooves spray sparks.
@@ -71,6 +69,8 @@ Description: Nightmares are flaming harbingers of death. They allow only the mos
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/nightmare)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

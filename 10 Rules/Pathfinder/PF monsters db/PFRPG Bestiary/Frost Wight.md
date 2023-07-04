@@ -1,6 +1,5 @@
 ---
 File: Frost Wight
-Source: PFRPG Bestiary
 URL: 
 Group: Frost
 aliases: 
@@ -75,6 +74,8 @@ Description: Wights are humanoids who rise as undead due to necromancy, a violen
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

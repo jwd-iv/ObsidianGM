@@ -1,7 +1,5 @@
 ---
 File: Dark Naga
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/dark
 Group: Naga
 aliases: 
 Brief: A sharp-featured humanoid head crowns the powerful, sinuous body of this snake-like monstrosity.
@@ -80,6 +78,8 @@ Description: Dark nagas covet luxury, wealth, and power over others. With bodies
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/dark)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

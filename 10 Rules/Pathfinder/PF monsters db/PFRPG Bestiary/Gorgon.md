@@ -1,7 +1,5 @@
 ---
 File: Gorgon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gorgon
 Group: 
 aliases: 
 Brief: This bull-like creature seems to be made of interlocking metallic plates. Faint plumes of green smoke puff from its mouth.
@@ -69,6 +67,8 @@ Description: Gorgons are magical, foul-tempered creatures-while they might appea
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gorgon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

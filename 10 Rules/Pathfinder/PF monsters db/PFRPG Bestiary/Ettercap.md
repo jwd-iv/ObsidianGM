@@ -1,7 +1,5 @@
 ---
 File: Ettercap
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/ettercap
 Group: 
 aliases: 
 Brief: This hideous purple creature walks upright like a man, but its face is that of a spider, and its hands are sickle-shaped claws.
@@ -75,6 +73,8 @@ Description: Ettercaps are typically 6 feet tall and weigh about 200 pounds. The
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/ettercap)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

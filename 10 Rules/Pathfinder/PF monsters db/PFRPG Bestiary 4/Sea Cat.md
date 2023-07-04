@@ -1,6 +1,5 @@
 ---
 File: Sea Cat
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: The feral sea cat (sometimes referred to as the sea lion, sea tiger
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

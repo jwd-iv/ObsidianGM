@@ -1,7 +1,5 @@
 ---
 File: Harpy
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/harpy
 Group: 
 aliases: 
 Brief: Save for the tattered wings and taloned feet, this creature resembles a feral woman with a wild look about her.
@@ -71,6 +69,8 @@ Description: Often viewed as vicious and corrupted creatures, harpies know how c
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/harpy)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

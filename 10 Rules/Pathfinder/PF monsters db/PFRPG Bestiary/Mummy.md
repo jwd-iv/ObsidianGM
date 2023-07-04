@@ -1,7 +1,5 @@
 ---
 File: Mummy
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/mummy
 Group: 
 aliases: 
 Brief: Wrapped from head to toe in ancient strips of moldering linen, this humanoid moves with a shuff ling gait.
@@ -73,6 +71,8 @@ Description: Created to guard the tombs of the honored dead, mummies are ever vi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/mummy)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

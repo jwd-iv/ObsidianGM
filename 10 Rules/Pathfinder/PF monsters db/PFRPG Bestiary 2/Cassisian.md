@@ -1,7 +1,5 @@
 ---
 File: Cassisian
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-cassisian
 Group: Angel
 aliases: 
 Brief: This finely crafted golden helm is decorated with intricate filigree, and flutters gracefully through the air on feathered wings.
@@ -74,6 +72,8 @@ Description: Cassisians are the weakest sort of angel, but are absolutely dedica
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-cassisian)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

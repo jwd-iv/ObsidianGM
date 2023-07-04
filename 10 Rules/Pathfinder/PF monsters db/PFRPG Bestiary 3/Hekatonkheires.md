@@ -1,6 +1,5 @@
 ---
 File: Hekatonkheires
-Source: PFRPG Bestiary 3
 URL: 
 Group: Titan
 aliases: 
@@ -77,6 +76,8 @@ Description: Horrifying abominations shunned by the gods immediately upon their 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

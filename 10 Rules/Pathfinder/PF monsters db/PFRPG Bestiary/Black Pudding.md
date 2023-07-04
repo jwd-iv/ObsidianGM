@@ -1,7 +1,5 @@
 ---
 File: Black Pudding
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/black-pudding
 Group: Pudding
 aliases: 
 Brief: This black, amorphous blob piles up on itself, a quivering mound of midnight sludge that glistens darkly before surging forward.
@@ -77,6 +75,8 @@ Description: Black puddings are the scavengers of the underworld, constantly on 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/black-pudding)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

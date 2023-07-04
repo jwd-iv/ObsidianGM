@@ -1,6 +1,5 @@
 ---
 File: Velociraptor
-Source: PFRPG Bestiary 4
 URL: 
 Group: Dinosaur
 aliases: 
@@ -72,6 +71,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

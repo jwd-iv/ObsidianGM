@@ -1,6 +1,5 @@
 ---
 File: Sepid
-Source: PFRPG Bestiary 3
 URL: 
 Group: Div
 aliases: 
@@ -73,6 +72,8 @@ Description: Warlords among the divs, sepids spread fear, slaughter, and despair
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

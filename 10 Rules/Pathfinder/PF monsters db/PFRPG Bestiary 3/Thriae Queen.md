@@ -1,6 +1,5 @@
 ---
 File: Thriae Queen
-Source: PFRPG Bestiary 3
 URL: 
 Group: Thriae
 aliases: 
@@ -77,6 +76,8 @@ Description: The most powerful individual within any given thriae colony, the qu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Iron Golem
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/iron
 Group: Golem
 aliases: 
 Brief: This iron automaton stands twice as tall as a normal human. Its heavy footfalls shake the ground with bone-jarring force.
@@ -75,6 +73,8 @@ Description: An iron golem has a humanoid body made from iron. It can be sculpte
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/iron)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

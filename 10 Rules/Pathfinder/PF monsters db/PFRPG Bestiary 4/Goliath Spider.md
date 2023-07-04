@@ -1,6 +1,5 @@
 ---
 File: Goliath Spider
-Source: PFRPG Bestiary 4
 URL: 
 Group: Spider
 aliases: 
@@ -73,6 +72,8 @@ Description: Goliath spiders are giant hunting spiders that most often prey on l
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

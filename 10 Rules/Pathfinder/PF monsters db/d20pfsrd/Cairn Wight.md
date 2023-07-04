@@ -1,6 +1,5 @@
 ---
 File: Cairn Wight
-Source: d20pfsrd
 URL: 
 Group: Wight
 aliases: 
@@ -73,6 +72,8 @@ Description: Some societies deliberately create these specialized wights to serv
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

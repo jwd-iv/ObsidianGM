@@ -1,6 +1,5 @@
 ---
 File: Raccoon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Familiar
 aliases: 
@@ -69,6 +68,8 @@ Description: Raccoons are inquisitive and cunning, and often have strangely huma
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

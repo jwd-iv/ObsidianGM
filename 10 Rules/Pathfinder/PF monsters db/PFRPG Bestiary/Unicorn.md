@@ -1,7 +1,5 @@
 ---
 File: Unicorn
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/unicorn
 Group: 
 aliases: 
 Brief: This magnificent beast looks like a white horse, but with a goat's beard and a single long ivory horn on its brow.
@@ -75,6 +73,8 @@ Description: Unicorns are fierce, intelligent creatures of the forest, noble bea
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/unicorn)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

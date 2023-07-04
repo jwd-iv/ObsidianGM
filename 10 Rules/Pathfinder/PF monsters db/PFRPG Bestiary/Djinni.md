@@ -1,7 +1,5 @@
 ---
 File: Djinni
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/djinni
 Group: Genie
 aliases: 
 Brief: This creature stands nearly twice as tall as a human, although its lower torso trails away into a vortex of mist and wind.
@@ -71,6 +69,8 @@ Description: Djinn disdain physical combat, preferring to use their magical powe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/djinni)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

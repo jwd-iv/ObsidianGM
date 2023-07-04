@@ -1,7 +1,5 @@
 ---
 File: Couatl
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/couatl
 Group: 
 aliases: 
 Brief: This great serpent has multicolored wings and eyes that glimmer with intense awareness.
@@ -79,6 +77,8 @@ Description: Couatls are servants of lawful and good deities, though some operat
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/couatl)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Akata
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/akata
 Group: 
 aliases: 
 Brief: This hairless blue lion has twin tentacular tails. Dozens more thick tentacles quiver and twitch where its mane should be.
@@ -79,6 +77,8 @@ Description: Akatas hail from a strange, distant planet that long ago succumbed 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/akata)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

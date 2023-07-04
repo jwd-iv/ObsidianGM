@@ -1,7 +1,5 @@
 ---
 File: Allosaurus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/allosaurus
 Group: Dinosaur
 aliases: 
 Brief: This bipedal dinosaur has a mouth filled with sharp teeth and short, powerful arms that end in sharp claws.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/allosaurus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

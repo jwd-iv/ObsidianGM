@@ -1,7 +1,5 @@
 ---
 File: Worg
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/worg
 Group: 
 aliases: 
 Brief: This unusually large wolf has an evil, almost intelligent light shining in its deep red eyes.
@@ -69,6 +67,8 @@ Description: Worgs are oversized, evil, intelligent wolves often found dwelling 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/worg)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

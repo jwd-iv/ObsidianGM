@@ -1,7 +1,5 @@
 ---
 File: Emperor Cobra
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snake/emperor-cobra
 Group: Snake
 aliases: 
 Brief: This massive green cobra rears its head upward aggressively, its brightly colored, scaly hood flaring in an unmistakable warning.
@@ -71,6 +69,8 @@ Description: Infamous among travelers for its deadly poisonous bite, the emperor
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snake/emperor-cobra)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

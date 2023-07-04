@@ -1,7 +1,5 @@
 ---
 File: Star Archon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/archon-star
 Group: Star
 aliases: 
 Brief: This powerful humanoid floats in the air on a nimbus of pearly light. He grips a golden starknife in one hand.
@@ -71,6 +69,8 @@ Description: Star archons are the tacticians and strategists of Heaven. Gifted w
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/archon-star)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

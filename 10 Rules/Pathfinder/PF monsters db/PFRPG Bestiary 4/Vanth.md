@@ -1,6 +1,5 @@
 ---
 File: Vanth
-Source: PFRPG Bestiary 4
 URL: 
 Group: Psychopomp
 aliases: 
@@ -73,6 +72,8 @@ Description: Stern, silent, and cloaked in ragged black wings, vanth psychopomps
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

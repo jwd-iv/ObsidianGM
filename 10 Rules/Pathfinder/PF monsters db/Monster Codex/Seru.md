@@ -1,6 +1,5 @@
 ---
 File: Seru
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: A seru is an underground variety of telepathic venomous snake with 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Nabasu
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/nabasu
 Group: Demon
 aliases: 
 Brief: This lanky fiend's mouth is filled with sharp fangs, while great bat-like wings stretch from its scaly hide.
@@ -73,6 +71,8 @@ Description: Nabasus are birthed directly into the Material Plane from the Abyss
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/nabasu)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

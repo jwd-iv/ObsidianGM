@@ -1,6 +1,5 @@
 ---
 File: Ice Yai
-Source: PFRPG Bestiary 3
 URL: 
 Group: Oni
 aliases: 
@@ -73,6 +72,8 @@ Description: The ice yai is a sinister creature that combines the brutality of a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

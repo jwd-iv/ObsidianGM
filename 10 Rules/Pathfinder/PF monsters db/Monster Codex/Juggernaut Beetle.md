@@ -1,6 +1,5 @@
 ---
 File: Juggernaut Beetle
-Source: Monster Codex
 URL: 
 Group: Beetle
 aliases: 
@@ -71,6 +70,8 @@ Description: One duergar steers a juggernaut while two riders attack.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

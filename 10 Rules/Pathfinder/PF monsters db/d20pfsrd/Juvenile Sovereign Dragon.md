@@ -1,6 +1,5 @@
 ---
 File: Juvenile Sovereign Dragon
-Source: d20pfsrd
 URL: 
 Group: Imperial Dragon
 aliases: 
@@ -78,6 +77,8 @@ Description: Guardians of balance, sovereign dragons, or lungwangs as they are a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

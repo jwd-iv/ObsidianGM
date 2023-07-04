@@ -1,7 +1,5 @@
 ---
 File: Soulbound Doll
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/soulbound-doll
 Group: 
 aliases: 
 Brief: This doll's glass eyes glisten with unmistakable curiosity as it comes to life with a fluid grace.
@@ -75,6 +73,8 @@ Description: These small, sentient dolls contain a fragment of another creature'
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/soulbound-doll)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

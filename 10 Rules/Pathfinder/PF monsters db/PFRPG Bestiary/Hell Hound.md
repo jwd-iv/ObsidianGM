@@ -1,7 +1,5 @@
 ---
 File: Hell Hound
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hell-hound
 Group: 
 aliases: 
 Brief: This creature resembles a thin, lanky wolf with reddish-brown fur, white claws, and burning, fiery red eyes.
@@ -69,6 +67,8 @@ Description: A typical hell hound stands 4-5 feet tall at the shoulder and weigh
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hell-hound)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

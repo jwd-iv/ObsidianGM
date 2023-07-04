@@ -1,7 +1,5 @@
 ---
 File: Drider
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/drider
 Group: 
 aliases: 
 Brief: The dry rasping of spidery legs brings this hideous monstrosity into view-a nightmarish, centaurian fusion of drow and spider.
@@ -78,6 +76,8 @@ Description: Created from the body of a drow, warped and mutated through special
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/drider)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

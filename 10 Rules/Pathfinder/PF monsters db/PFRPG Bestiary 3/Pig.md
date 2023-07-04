@@ -1,6 +1,5 @@
 ---
 File: Pig
-Source: PFRPG Bestiary 3
 URL: 
 Group: Familiar
 aliases: 
@@ -69,6 +68,8 @@ Description: This clever, sociable animal may be trained to do many tasks.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

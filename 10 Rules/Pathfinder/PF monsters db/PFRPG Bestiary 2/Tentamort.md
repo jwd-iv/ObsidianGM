@@ -1,7 +1,5 @@
 ---
 File: Tentamort
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/tentamort
 Group: 
 aliases: 
 Brief: This dark blue creature has a conical body covered in angry red eyes and numerous tentacles, two of which are longer than the rest.
@@ -71,6 +69,8 @@ Description: Tentamorts are eerie ambush predators, preferring to let prey come 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/tentamort)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Blink Dog
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/blink-dog
 Group: 
 aliases: 
 Brief: This sleek canine has a coarse, tawny coat, pointed ears, and pale eyes. A faint blue nimbus seems to dance upon its fur.
@@ -69,6 +67,8 @@ Description: Though they resemble sleek, long-eared canines, blink dogs are as s
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/blink-dog)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

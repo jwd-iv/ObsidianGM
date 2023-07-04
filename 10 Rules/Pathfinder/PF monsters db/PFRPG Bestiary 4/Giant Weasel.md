@@ -1,6 +1,5 @@
 ---
 File: Giant Weasel
-Source: PFRPG Bestiary 4
 URL: 
 Group: Weasel
 aliases: 
@@ -70,6 +69,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

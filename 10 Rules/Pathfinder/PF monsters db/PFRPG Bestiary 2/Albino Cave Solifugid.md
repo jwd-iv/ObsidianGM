@@ -1,7 +1,5 @@
 ---
 File: Albino Cave Solifugid
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/solifugid/giant-solifugid
 Group: Solifugid
 aliases: 
 Brief: This spider-like creature's front legs end in immense, grasping claws. Its mouth sports a pair of huge vertical mandibles.
@@ -69,6 +67,8 @@ Description: The six-legged albino cave solifugid is well known for its aggressi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/solifugid/giant-solifugid)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

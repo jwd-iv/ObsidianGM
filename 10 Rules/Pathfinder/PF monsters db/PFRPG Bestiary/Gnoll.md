@@ -1,7 +1,5 @@
 ---
 File: Gnoll
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll
 Group: 
 aliases: 
 Brief: Hunched and feral, this furred, hyena-headed humanoid stands slightly taller than the average human.
@@ -69,6 +67,8 @@ Description: Gnolls are a race of hulking, humanoids that resemble hyenas in mor
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

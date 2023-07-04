@@ -1,7 +1,5 @@
 ---
 File: Triton
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/triton
 Group: 
 aliases: 
 Brief: This scaly, finned humanoid has an athletic build and blue-green coloration. Its legs end in wide flippers rather than feet.
@@ -69,6 +67,8 @@ Description: These aquatic outsiders resemble merfolk, except where a merman has
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/triton)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

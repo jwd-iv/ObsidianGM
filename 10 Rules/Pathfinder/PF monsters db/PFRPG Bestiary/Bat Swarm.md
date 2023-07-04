@@ -1,7 +1,5 @@
 ---
 File: Bat Swarm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/bat/bat-swarm
 Group: Bat
 aliases: 
 Brief: Hundreds of high-pitched squeaks fill the air as a mass of small, carnivorous bats surges forth, all of them hungry for blood.
@@ -71,6 +69,8 @@ Description: Bat swarms dwell in large caves, ruins, or even city sewers-anywher
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/bat/bat-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

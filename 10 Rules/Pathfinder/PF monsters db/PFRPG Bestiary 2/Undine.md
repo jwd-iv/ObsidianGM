@@ -1,7 +1,5 @@
 ---
 File: Undine
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/undine
 Group: 
 aliases: 
 Brief: This blue-haired, blue-skinned man moves with a liquid grace. His ears are fin-like, and his hands and feet are webbed.
@@ -75,6 +73,8 @@ Description: >
 Race: Undine
 Class: cleric 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/undine)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

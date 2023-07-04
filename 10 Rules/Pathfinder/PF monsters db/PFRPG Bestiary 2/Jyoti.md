@@ -1,7 +1,5 @@
 ---
 File: Jyoti
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/jyoti
 Group: 
 aliases: 
 Brief: This phoenix-like humanoid is surrounded by a halo of radiant energy. Its spear is tipped with a carved crystal blade.
@@ -77,6 +75,8 @@ Description: Enigmatic and swift to anger, the avian race known as the jyoti are
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/jyoti)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Royal Naga
-Source: PFRPG Bestiary 3
 URL: 
 Group: Naga
 aliases: 
@@ -79,6 +78,8 @@ Description: Regal and proud, royal nagas haunt lost cities and forgotten kingdo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

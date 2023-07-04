@@ -1,7 +1,5 @@
 ---
 File: Hellcat
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hellcat
 Group: 
 aliases: 
 Brief: This eerie beast appears to be the animated skeleton of a huge fanged cat, its bones glowing with fire and seething with smoke.
@@ -71,6 +69,8 @@ Description: The hellcat is a devious predator native to the fiery pits of Hell.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hellcat)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

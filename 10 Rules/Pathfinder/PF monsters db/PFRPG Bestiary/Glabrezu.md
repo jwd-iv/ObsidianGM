@@ -1,7 +1,5 @@
 ---
 File: Glabrezu
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/glabrezu
 Group: Demon
 aliases: 
 Brief: Four arms grace the torso of this towering monstrosity. The monster's eyes shine with a mix of intelligence and cruelty.
@@ -69,6 +67,8 @@ Description: Whereas the succubus is a demon that works her wiles by exploiting 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/glabrezu)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

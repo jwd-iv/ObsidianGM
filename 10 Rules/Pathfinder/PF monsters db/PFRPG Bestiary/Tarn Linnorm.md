@@ -1,7 +1,5 @@
 ---
 File: Tarn Linnorm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/tarn
 Group: Linnorm
 aliases: 
 Brief: This nightmarishly huge, snake-like dragon possesses two equally fearsome heads. Its twin jaws seethe with acid and poison.
@@ -81,6 +79,8 @@ Description: Although legends speak of even more powerful linnorms, it's hard to
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/tarn)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

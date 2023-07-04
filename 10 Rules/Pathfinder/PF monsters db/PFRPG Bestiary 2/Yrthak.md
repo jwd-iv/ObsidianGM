@@ -1,7 +1,5 @@
 ---
 File: Yrthak
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/yrthak
 Group: 
 aliases: 
 Brief: This flying reptile has large, leathery wings and a vibrantly colored crest on its horned, narrow-snouted head.
@@ -75,6 +73,8 @@ Description: Swift, cunning, and perpetually ravenous, the yrthak terrorizes the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/yrthak)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

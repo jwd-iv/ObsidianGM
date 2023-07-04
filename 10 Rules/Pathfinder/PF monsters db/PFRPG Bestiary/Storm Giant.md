@@ -1,7 +1,5 @@
 ---
 File: Storm Giant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/storm-giant
 Group: Giant
 aliases: 
 Brief: This giant is a towering, muscular human of heroic proportions, with bronze skin, dark hair, and sparkling green eyes.
@@ -73,6 +71,8 @@ Description: Storm giants tend toward tanned complexions, though some rare speci
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/storm-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Kitsune
-Source: PFRPG Bestiary 4
-URL: https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/kitsune/
 Group: 
 aliases: 
 Brief: This elegantly dressed woman has the head and bushy tail of well-groomed fox.
@@ -75,6 +73,8 @@ Description: >
 Race: Kitsune
 Class: sorcerer 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 4](https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/kitsune/)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

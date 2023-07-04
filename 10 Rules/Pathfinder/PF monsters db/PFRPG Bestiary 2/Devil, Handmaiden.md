@@ -1,6 +1,5 @@
 ---
 File: Devil, Handmaiden
-Source: PFRPG Bestiary 2
 URL: 
 Group: Devil
 aliases: Gylou
@@ -73,6 +72,8 @@ Description: Known as handmaiden devils, Mothers of Pain, and Maids of Miscarria
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 2
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

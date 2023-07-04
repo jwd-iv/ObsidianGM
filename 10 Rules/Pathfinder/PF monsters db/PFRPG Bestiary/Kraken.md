@@ -1,7 +1,5 @@
 ---
 File: Kraken
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/kraken
 Group: 
 aliases: 
 Brief: This tremendous leviathan resembles a vast squid, yet the markings on its body are strangely unsettling to look upon.
@@ -77,6 +75,8 @@ Description: The legendary kraken is one of the greatest of sailors' fears, for 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/kraken)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

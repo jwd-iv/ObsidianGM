@@ -1,6 +1,5 @@
 ---
 File: Degenerate Serpentfolk
-Source: d20pfsrd
 URL: 
 Group: Serpentfolk
 aliases: 
@@ -71,6 +70,8 @@ Description: The majority of serpentfolk today are degenerates who have devolved
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

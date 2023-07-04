@@ -1,7 +1,5 @@
 ---
 File: Zelekhut
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-zelekhut
 Group: Inevitable
 aliases: 
 Brief: This creature looks like a mechanical centaur. Golden, clockwork wings sprout from its back, and its arms end in barbed chains.
@@ -71,6 +69,8 @@ Description: Zelekhuts are bounty hunters and executioners all rolled into one. 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-zelekhut)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

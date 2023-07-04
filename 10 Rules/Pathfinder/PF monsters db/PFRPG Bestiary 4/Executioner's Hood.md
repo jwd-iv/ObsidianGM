@@ -1,6 +1,5 @@
 ---
 File: Executioner's Hood
-Source: PFRPG Bestiary 4
 URL: 
 Group: Lurking Ray
 aliases: 
@@ -75,6 +74,8 @@ Description: These young rays are shaped roughly like hoods (hence their name), 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

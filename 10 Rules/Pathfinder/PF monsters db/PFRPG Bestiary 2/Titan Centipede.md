@@ -1,7 +1,5 @@
 ---
 File: Titan Centipede
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-titan
 Group: Centipede
 aliases: 
 Brief: A writhing, seemingly endless segmented monstrosity crawls forth, its great mandibles clacking as it spies prey.
@@ -71,6 +69,8 @@ Description: The largest of their kind, titan centipedes are thankfully also the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-titan)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

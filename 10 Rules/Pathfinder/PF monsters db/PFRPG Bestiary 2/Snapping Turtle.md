@@ -1,7 +1,5 @@
 ---
 File: Snapping Turtle
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snapping-turtle
 Group: Turtle
 aliases: 
 Brief: A thick shell encases this reptile's body, from which only its tail, its feet, and a head fitted with powerful jaws emerge.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snapping-turtle)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Young Bronze Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-bronze/young-bronze-dragon
 Group: Metallic Dragon
 aliases: 
 Brief: This sleek dragon is covered in dull metallic scales that range in color from shining bronze to mottled blue.
@@ -88,6 +86,8 @@ Description: Bronze dragons have been known to ally with travelers and adventure
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-bronze/young-bronze-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

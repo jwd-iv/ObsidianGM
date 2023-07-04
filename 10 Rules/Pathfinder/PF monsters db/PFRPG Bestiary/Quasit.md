@@ -1,7 +1,5 @@
 ---
 File: Quasit
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/quasit
 Group: Demon
 aliases: 
 Brief: Ram horns curl back from the twisted head of this tiny winged demon, and its body is thin and wiry.
@@ -72,6 +70,8 @@ Description: The quasit is perhaps the least powerful demon, yet it is not the l
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/quasit)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

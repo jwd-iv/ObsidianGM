@@ -1,7 +1,5 @@
 ---
 File: Gylptodon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/gylptodon
 Group: Megafauna
 aliases: 
 Brief: This armored creature has a bony, turtle-like shell from which protrude short limbs, a blunt head, and a short spiky tail.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/gylptodon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

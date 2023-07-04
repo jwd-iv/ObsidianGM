@@ -1,6 +1,5 @@
 ---
 File: Giant Crab Spider
-Source: PFRPG Bestiary 3
 URL: 
 Group: Spider
 aliases: 
@@ -71,6 +70,8 @@ Description: Giant crab spiders are dangerous ambush predators that live in dens
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

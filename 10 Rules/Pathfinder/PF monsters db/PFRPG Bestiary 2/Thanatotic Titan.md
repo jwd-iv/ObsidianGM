@@ -1,7 +1,5 @@
 ---
 File: Thanatotic Titan
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/thanatotic-titan
 Group: Thanatotic Titan
 aliases: 
 Brief: This titanic, armored figure wields an immense axe. Its hands end in claws, and its voice thunders with ruinous power.
@@ -71,6 +69,8 @@ Description: Some believe that the titans were the first children of the gods-if
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/thanatotic-titan)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

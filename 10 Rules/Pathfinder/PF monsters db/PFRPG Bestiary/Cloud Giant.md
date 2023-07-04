@@ -1,7 +1,5 @@
 ---
 File: Cloud Giant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/cloud
 Group: Giant
 aliases: 
 Brief: This towering giant has finely chiseled features. Her skin is pale and smooth, and her long wispy hair flutters as if in a breeze.
@@ -71,6 +69,8 @@ Description: Cloud giants' skin ranges in color from milky white to powder blue.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/cloud)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

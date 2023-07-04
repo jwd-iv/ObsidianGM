@@ -1,6 +1,5 @@
 ---
 File: Aghash
-Source: PFRPG Bestiary 3
 URL: 
 Group: Div
 aliases: 
@@ -73,6 +72,8 @@ Description: Aghashes embody the evil eye, a curse granted by merely witnessing 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

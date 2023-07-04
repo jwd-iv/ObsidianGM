@@ -1,7 +1,5 @@
 ---
 File: Tengu
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/tengu
 Group: 
 aliases: 
 Brief: Black feathers cover this crow-headed humanoid, and its hands and legs end in powerful talons.
@@ -74,6 +72,8 @@ Description: >
 Race: Tengu
 Class: rogue 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/tengu)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

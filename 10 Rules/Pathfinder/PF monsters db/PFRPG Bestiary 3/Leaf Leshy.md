@@ -1,6 +1,5 @@
 ---
 File: Leaf Leshy
-Source: PFRPG Bestiary 3
 URL: 
 Group: Leshy
 aliases: 
@@ -73,6 +72,8 @@ Description: Leaf leshys tend to the well-being of trees, whether natural stands
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

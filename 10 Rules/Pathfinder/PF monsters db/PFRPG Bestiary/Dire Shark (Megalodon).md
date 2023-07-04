@@ -1,7 +1,5 @@
 ---
 File: Dire Shark (Megalodon)
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/shark/dire-shark
 Group: Shark
 aliases: 
 Brief: Large as a dragon, this shark's jaws open to reveal a cavernous, tooth-lined gullet capable of swallowing a horse whole.
@@ -69,6 +67,8 @@ Description: The true nightmare of the sea is the megalodon, a shark that repres
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/shark/dire-shark)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

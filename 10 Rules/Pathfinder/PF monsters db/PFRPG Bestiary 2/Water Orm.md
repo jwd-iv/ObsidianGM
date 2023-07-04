@@ -1,7 +1,5 @@
 ---
 File: Water Orm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/water-orm
 Group: 
 aliases: 
 Brief: A reptilian head on a serpentine neck slowly surfaces. Shadows beneath the water hint at a body of considerable size.
@@ -73,6 +71,8 @@ Description: Just as sailors tell stories of sea serpents, so do denizens on the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/water-orm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

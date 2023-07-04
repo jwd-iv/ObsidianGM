@@ -1,6 +1,5 @@
 ---
 File: Bogwiggle
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: Also known as toad-hounds, bogwiggles are the stunted, degenerate s
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

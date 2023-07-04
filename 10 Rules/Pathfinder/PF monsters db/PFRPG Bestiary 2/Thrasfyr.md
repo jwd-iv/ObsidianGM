@@ -1,7 +1,5 @@
 ---
 File: Thrasfyr
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thrasfyr
 Group: 
 aliases: 
 Brief: Neither quite bear nor bull nor serpent, this immense, six-legged creature is bound in chains and covered with scintillating red scales.
@@ -75,6 +73,8 @@ Description: The legendary thrasfyr is one of the Tane-a group of powerful monst
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thrasfyr)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

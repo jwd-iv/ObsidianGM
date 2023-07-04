@@ -1,7 +1,5 @@
 ---
 File: Solar
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/solar
 Group: Angel
 aliases: 
 Brief: This towering humanoid creature has shining topaz eyes, metallic skin, and three pairs of white wings.
@@ -84,6 +82,8 @@ Description: Solars are the greatest type of angel, usually serving at the right
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/solar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

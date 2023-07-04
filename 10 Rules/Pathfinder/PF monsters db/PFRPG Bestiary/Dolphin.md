@@ -1,7 +1,5 @@
 ---
 File: Dolphin
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/dolphin/dolphin
 Group: 
 aliases: 
 Brief: This streamlined, fish-like mammal has sparkling eyes over a smiling mouth filled with hundreds of teeth.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/dolphin/dolphin)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

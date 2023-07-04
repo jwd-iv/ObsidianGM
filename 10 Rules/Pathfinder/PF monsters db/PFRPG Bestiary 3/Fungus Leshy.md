@@ -1,6 +1,5 @@
 ---
 File: Fungus Leshy
-Source: PFRPG Bestiary 3
 URL: 
 Group: Leshy
 aliases: 
@@ -73,6 +72,8 @@ Description: Keepers of cavernous mushroom forests and rotting compost pits deep
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

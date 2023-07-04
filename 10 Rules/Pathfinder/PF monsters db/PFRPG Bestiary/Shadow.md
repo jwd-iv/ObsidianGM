@@ -1,7 +1,5 @@
 ---
 File: Shadow
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow
 Group: 
 aliases: 
 Brief: Barely seen out of the corner of the eye, this wisp of shadow is vaguely humanoid in outline and writhes with unholy life.
@@ -73,6 +71,8 @@ Description: The sinister shadow skirts the border between the gloom of darkness
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

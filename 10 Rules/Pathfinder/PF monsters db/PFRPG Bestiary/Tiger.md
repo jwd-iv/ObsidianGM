@@ -1,7 +1,5 @@
 ---
 File: Tiger
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/tiger
 Group: 
 aliases: 
 Brief: This powerful feline predator moves with a deadly grace, its reddish-orange fur slashed with black stripes.
@@ -69,6 +67,8 @@ Description: Tigers stand more than 3 feet tall at the shoulder and are about 9 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/tiger)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

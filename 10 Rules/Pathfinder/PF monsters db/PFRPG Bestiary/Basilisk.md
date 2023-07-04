@@ -1,7 +1,5 @@
 ---
 File: Basilisk
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/basilisk
 Group: 
 aliases: 
 Brief: This squat, reptilian monster has eight legs, bony spurs jutting from its back, and eyes that glow with pale green fire.
@@ -71,6 +69,8 @@ Description: The basilisk, often called the "King of Serpents," is in fact not a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/basilisk)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

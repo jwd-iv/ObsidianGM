@@ -1,7 +1,5 @@
 ---
 File: Sinspawn
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/sinspawn
 Group: 
 aliases: 
 Brief: This hairless humanoid lurches on back-bent, dog-like legs, its hideous mouth flanked by tiny arms with three-fingered hands.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/sinspawn)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

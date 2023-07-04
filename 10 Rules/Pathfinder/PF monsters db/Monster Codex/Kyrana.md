@@ -1,6 +1,5 @@
 ---
 File: Kyrana
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Kyranas are large, iguana-like relatives of true dragons, with low 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

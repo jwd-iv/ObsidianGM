@@ -1,7 +1,5 @@
 ---
 File: Dire Bear
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/bear/dire-bear
 Group: Bear
 aliases: 
 Brief: Spittle drips from this feral bear's roaring maw, and its matted fur is broken in places by wicked, bony growths.
@@ -69,6 +67,8 @@ Description: Larger, more aggressive, and far more deadly than its lesser cousin
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/bear/dire-bear)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

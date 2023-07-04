@@ -1,6 +1,5 @@
 ---
 File: Pazuzu
-Source: PFRPG Bestiary 4
 URL: 
 Group: Demon Lord
 aliases: 
@@ -84,6 +83,8 @@ Description: Pazuzu is among the oldest and most powerful of all demon lords. Hi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

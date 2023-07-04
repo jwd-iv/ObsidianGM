@@ -1,7 +1,5 @@
 ---
 File: Giant Tick
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/tick-giant
 Group: Tick
 aliases: 
 Brief: This dog-sized tick has a grotesquely bulbous body and a thin head equipped with hooked mandibles.
@@ -73,6 +71,8 @@ Description: In areas where large creatures like megafauna or dinosaurs dwell, t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/tick-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

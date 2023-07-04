@@ -1,6 +1,5 @@
 ---
 File: Jungle Giant
-Source: PFRPG Bestiary 3
 URL: 
 Group: Giant
 aliases: 
@@ -75,6 +74,8 @@ Description: Reclusive by nature, jungle giants lair deep within the rainforest.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

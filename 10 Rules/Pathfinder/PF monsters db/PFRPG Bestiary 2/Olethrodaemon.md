@@ -1,7 +1,5 @@
 ---
 File: Olethrodaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/olethrodaemon
 Group: Daemon
 aliases: 
 Brief: Crowned with a wicked array of twisted horns, this wide-mouthed, spherical behemoth stands on four stout legs.
@@ -75,6 +73,8 @@ Description: While some of the more powerful daemons are servitors to one of the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/olethrodaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

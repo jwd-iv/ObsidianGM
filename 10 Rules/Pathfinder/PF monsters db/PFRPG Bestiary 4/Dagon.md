@@ -1,6 +1,5 @@
 ---
 File: Dagon
-Source: PFRPG Bestiary 4
 URL: 
 Group: Demon Lord
 aliases: 
@@ -78,6 +77,8 @@ Description: Dagon is the demon lord of deformity, the sea, and sea monsters. He
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

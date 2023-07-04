@@ -1,6 +1,5 @@
 ---
 File: Vanara
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -72,6 +71,8 @@ Description: >
 Race: Vanara
 Class: monk 1
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

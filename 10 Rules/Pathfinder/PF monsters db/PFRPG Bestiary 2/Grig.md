@@ -1,7 +1,5 @@
 ---
 File: Grig
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/grig
 Group: 
 aliases: 
 Brief: Perched on the prickly legs of a cricket, this tiny creature has gossamer wings and the upper body of an elven woman.
@@ -71,6 +69,8 @@ Description: Grigs are tiny fey with the upper bodies of elf-like sprites and cr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/grig)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

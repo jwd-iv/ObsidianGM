@@ -1,7 +1,5 @@
 ---
 File: Scylla
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/scylla
 Group: 
 aliases: 
 Brief: This horrifying creature has the upper body of a beautiful woman, but a lower body of snapping wolf heads and writhing tentacles.
@@ -69,6 +67,8 @@ Description: The scylla is one of the more nightmarish aberrations to blight the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/scylla)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

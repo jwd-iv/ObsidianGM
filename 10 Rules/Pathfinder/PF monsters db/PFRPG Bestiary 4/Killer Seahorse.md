@@ -1,6 +1,5 @@
 ---
 File: Killer Seahorse
-Source: PFRPG Bestiary 4
 URL: 
 Group: Seahorse
 aliases: 
@@ -69,6 +68,8 @@ Description: These specially bred offshoots of the giant seahorse are used by aq
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

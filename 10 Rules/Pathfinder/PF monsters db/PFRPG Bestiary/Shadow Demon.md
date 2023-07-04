@@ -1,7 +1,5 @@
 ---
 File: Shadow Demon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/shadow-demon
 Group: Demon
 aliases: 
 Brief: Only this shadowy bat-winged demon's teeth and claws have any sense of physicality to them-the rest is lost in darkness.
@@ -75,6 +73,8 @@ Description: Tales of demonic possession are common, used often by the ignorant 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/shadow-demon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

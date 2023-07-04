@@ -1,6 +1,5 @@
 ---
 File: Immense Tortoise
-Source: PFRPG Bestiary 4
 URL: 
 Group: Tortoise
 aliases: 
@@ -69,6 +68,8 @@ Description: These immense, ancient tortoises never stop growing.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

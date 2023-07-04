@@ -1,6 +1,5 @@
 ---
 File: Ancient Vortex Dragon
-Source: PFRPG Bestiary 4
 URL: 
 Group: Outer Dragon
 aliases: 
@@ -88,6 +87,8 @@ Description: Vortex dragons are the undisputed masters of travel across the gala
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

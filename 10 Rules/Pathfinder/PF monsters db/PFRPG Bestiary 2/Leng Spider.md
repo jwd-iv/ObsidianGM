@@ -1,7 +1,5 @@
 ---
 File: Leng Spider
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/leng-spider
 Group: 
 aliases: 
 Brief: This immense purple spider has a legspan of nearly forty feet and a hideously bloated body, yet still moves with fluid grace.
@@ -73,6 +71,8 @@ Description: The spiders of Leng have long warred with that realm's more humanoi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/leng-spider)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

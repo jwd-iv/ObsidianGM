@@ -1,7 +1,5 @@
 ---
 File: Monadic Deva
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-monadic-deva
 Group: Angel
 aliases: 
 Brief: This angelic being has smooth skin, a muscular body, and large golden wings, and wields a large mace.
@@ -71,6 +69,8 @@ Description: Monadic devas are stoic watchers of the Ethereal Plane and the Elem
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-monadic-deva)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

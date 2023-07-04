@@ -1,6 +1,5 @@
 ---
 File: Bokrug
-Source: PFRPG Bestiary 4
 URL: 
 Group: Great Old One
 aliases: 
@@ -83,6 +82,8 @@ Description: Bokrug, the Water Lizard, dwells in a distant and forsaken corner o
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

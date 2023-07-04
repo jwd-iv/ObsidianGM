@@ -1,6 +1,5 @@
 ---
 File: Dodo
-Source: PFRPG Bestiary 4
 URL: 
 Group: Familiar
 aliases: 
@@ -69,6 +68,8 @@ Description: Dodos are flightless birds that typically inhabit isolated tropical
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

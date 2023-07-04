@@ -1,7 +1,5 @@
 ---
 File: Giant Slug
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/slug-giant
 Group: Slug
 aliases: 
 Brief: This massive, gray-brown slug leaves a viscous trail of slime in its wake as a long rasping tongue tastes the air for prey.
@@ -75,6 +73,8 @@ Description: No simple garden pests, giant slugs pose a serious threat to those 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/slug-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

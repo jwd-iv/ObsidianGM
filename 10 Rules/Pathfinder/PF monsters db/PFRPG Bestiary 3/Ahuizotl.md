@@ -1,6 +1,5 @@
 ---
 File: Ahuizotl
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: A carnage-hungry denizen of swamps, the ahuizotl is a ferocious-loo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

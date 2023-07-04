@@ -1,7 +1,5 @@
 ---
 File: Korred
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/korred
 Group: 
 aliases: 
 Brief: This knobby-kneed, stunted humanoid, has a particularly thick beard and wild mane of hair, hiding most of its body from view.
@@ -75,6 +73,8 @@ Description: Korreds are an ancient fey race who like forested areas with nice, 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/korred)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

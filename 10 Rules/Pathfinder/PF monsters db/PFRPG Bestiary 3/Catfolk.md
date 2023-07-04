@@ -1,6 +1,5 @@
 ---
 File: Catfolk
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -74,6 +73,8 @@ Description: >
 Race: Catfolk
 Class: ranger 1
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

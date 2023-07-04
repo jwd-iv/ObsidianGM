@@ -1,7 +1,5 @@
 ---
 File: Ancient Brine Dragon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine
 Group: Primal Dragon
 aliases: 
 Brief: A blue-green neck frill sweeps back from the head of this dragon, leading to a body of shiny scales and fin-like crests.
@@ -86,6 +84,8 @@ Description: Although not inherently evil, brine dragons have little patience fo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

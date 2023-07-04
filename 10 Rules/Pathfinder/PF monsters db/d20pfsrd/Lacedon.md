@@ -1,6 +1,5 @@
 ---
 File: Lacedon
-Source: d20pfsrd
 URL: 
 Group: Ghoul
 aliases: Aquatic Ghoul
@@ -71,6 +70,8 @@ Description: A humanoid who dies of ghoul fever rises as a ghoul at the next mid
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

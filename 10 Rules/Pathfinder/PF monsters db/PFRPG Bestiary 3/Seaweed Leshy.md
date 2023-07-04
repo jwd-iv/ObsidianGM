@@ -1,6 +1,5 @@
 ---
 File: Seaweed Leshy
-Source: PFRPG Bestiary 3
 URL: 
 Group: Leshy
 aliases: 
@@ -73,6 +72,8 @@ Description: Seaweed leshys usually dwell along coastlines, happily splashing an
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

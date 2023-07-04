@@ -1,6 +1,5 @@
 ---
 File: Iron Colossus
-Source: PFRPG Bestiary 4
 URL: 
 Group: Colossus
 aliases: 
@@ -79,6 +78,8 @@ Description: Standing 80 feet high and weighing 500 tons, iron colossi are the u
 Race: 
 Class: 
 MR: 8
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Brownie
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/brownie
 Group: 
 aliases: 
 Brief: Knee-high to a human, this large-headed creature has an almost manically friendly look on its expressive face.
@@ -69,6 +67,8 @@ Description: Brownies make their homes in the trunks of hollow trees, small eart
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/brownie)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

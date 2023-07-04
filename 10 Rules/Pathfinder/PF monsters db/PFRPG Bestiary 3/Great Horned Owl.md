@@ -1,6 +1,5 @@
 ---
 File: Great Horned Owl
-Source: PFRPG Bestiary 3
 URL: 
 Group: Owl
 aliases: 
@@ -69,6 +68,8 @@ Description: Though great horned owls seem large, most of their apparent bulk co
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

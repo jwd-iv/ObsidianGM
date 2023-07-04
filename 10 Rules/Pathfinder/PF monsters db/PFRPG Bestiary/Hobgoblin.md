@@ -1,7 +1,5 @@
 ---
 File: Hobgoblin
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/hobgoblin
 Group: 
 aliases: 
 Brief: Standing as tall as a human, this muscular, gray-skinned creature peers about with tiny, observant eyes.
@@ -70,6 +68,8 @@ Description: >
 Race: Hobgoblin
 Class: fighter 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/hobgoblin)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

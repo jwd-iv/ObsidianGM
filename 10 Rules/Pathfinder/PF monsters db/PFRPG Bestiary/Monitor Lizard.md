@@ -1,7 +1,5 @@
 ---
 File: Monitor Lizard
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/lizard/monitor-lizard
 Group: Lizard
 aliases: 
 Brief: This immense lizard moves with a slow but relentless gait. Its feet end in large talons, and ropes of drool hang from its toothy maw.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/lizard/monitor-lizard)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

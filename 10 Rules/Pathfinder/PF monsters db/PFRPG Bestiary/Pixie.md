@@ -1,7 +1,5 @@
 ---
 File: Pixie
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/pixie
 Group: 
 aliases: 
 Brief: This tiny, whimsical-looking humanoid darts about swiftly on wildly colored gossamer wings.
@@ -73,6 +71,8 @@ Description: Perhaps the best-known and most elusive of all fey creatures, pixie
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/fey/pixie)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

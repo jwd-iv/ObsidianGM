@@ -1,7 +1,5 @@
 ---
 File: Pteranodon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/pteranodon
 Group: Dinosaur
 aliases: 
 Brief: This flying reptile has two huge wings and a distinctive backwardsweeping crest decorating its head.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/pteranodon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

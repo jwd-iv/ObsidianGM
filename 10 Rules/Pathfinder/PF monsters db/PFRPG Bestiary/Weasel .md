@@ -1,7 +1,5 @@
 ---
 File: Weasel
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/musteloids/weasel
 Group: Familiar
 aliases: 
 Brief: Presented here are the base animal statistics for all of the most commonly used familiars-of course, these statistics can also be used for normal animals as well. Small animals like these use Dexterity to modify Climb and Swim checks.
@@ -71,6 +69,8 @@ Description: Weasels are predators content with raiding chicken coops or attacki
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/musteloids/weasel)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

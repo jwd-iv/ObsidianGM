@@ -1,6 +1,5 @@
 ---
 File: Adult Sky Dragon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Imperial Dragon
 aliases: 
@@ -86,6 +85,8 @@ Description: Benevolent and noble, sky dragons, or tienlungs, are fearsome champ
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

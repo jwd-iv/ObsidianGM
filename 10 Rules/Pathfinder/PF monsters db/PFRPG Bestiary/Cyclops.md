@@ -1,7 +1,5 @@
 ---
 File: Cyclops
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/cyclops
 Group: 
 aliases: 
 Brief: A single huge eye stares from the forehead of this nine-foot-tall giant. Below this sole orb, an even larger mouth gapes like a cave.
@@ -71,6 +69,8 @@ Description: Many thousands of years ago, the solemn cyclopes ruled vast kingdom
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/cyclops)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

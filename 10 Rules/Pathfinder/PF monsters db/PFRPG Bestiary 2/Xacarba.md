@@ -1,7 +1,5 @@
 ---
 File: Xacarba
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xacarba
 Group: 
 aliases: 
 Brief: This towering, three-tailed, six-eyed beast seems like three rune-backed serpents partially melded together into one body.
@@ -73,6 +71,8 @@ Description: Fiends hailing from the darkest reaches of the Abyss, xacarbas are 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xacarba)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

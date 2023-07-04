@@ -1,6 +1,5 @@
 ---
 File: Wax Golem
-Source: PFRPG Bestiary 4
 URL: 
 Group: Golem
 aliases: 
@@ -73,6 +72,8 @@ Description: A wax golem is an exact replica of a particular person, composed co
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

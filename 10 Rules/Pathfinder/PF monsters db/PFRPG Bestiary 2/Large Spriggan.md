@@ -1,7 +1,5 @@
 ---
 File: Large Spriggan
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/spriggan
 Group: Spriggan
 aliases: 
 Brief: Flecks of saliva drip from the corners of this filthy and ill-smelling humanoid, and his large pointed ears twitch at every sound.
@@ -75,6 +73,8 @@ Description: When the gnomes first traveled to the mortal realm from the distant
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/spriggan)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

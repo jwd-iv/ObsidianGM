@@ -1,7 +1,5 @@
 ---
 File: Hippogriff
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hippogriff
 Group: 
 aliases: 
 Brief: This large, brown, horse-like creature has a hawk's wings, talons, and hooked beak.
@@ -69,6 +67,8 @@ Description: The hippogriff bears the wings, forelegs, and head of a great rapto
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hippogriff)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

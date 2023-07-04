@@ -1,6 +1,5 @@
 ---
 File: Fox
-Source: PFRPG Bestiary 3
 URL: 
 Group: Familiar
 aliases: 
@@ -69,6 +68,8 @@ Description: This cunning yet wary animal pounces on live prey.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

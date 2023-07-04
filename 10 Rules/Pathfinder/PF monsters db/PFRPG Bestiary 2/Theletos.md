@@ -1,7 +1,5 @@
 ---
 File: Theletos
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-theletos
 Group: Aeon
 aliases: 
 Brief: Four bandy limbs, each splitting at the elbow into two threefingered forearms, emerge from this creature's crystalline body.
@@ -73,6 +71,8 @@ Description: The strange theletos is the guardian of the duality between freedom
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-theletos)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

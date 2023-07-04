@@ -1,6 +1,5 @@
 ---
 File: Mist Drake
-Source: PFRPG Bestiary 4
 URL: 
 Group: Drake
 aliases: 
@@ -77,6 +76,8 @@ Description: Mist drakes are less openly aggressive than most drakes, as they ar
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

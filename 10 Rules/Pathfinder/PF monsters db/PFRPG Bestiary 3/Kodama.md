@@ -1,6 +1,5 @@
 ---
 File: Kodama
-Source: PFRPG Bestiary 3
 URL: 
 Group: Kami
 aliases: 
@@ -71,6 +70,8 @@ Description: Revered by druids and rangers for their attunement with the wilds, 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

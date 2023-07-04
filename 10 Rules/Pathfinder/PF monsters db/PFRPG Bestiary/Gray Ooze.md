@@ -1,7 +1,5 @@
 ---
 File: Gray Ooze
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/gray-ooze
 Group: 
 aliases: 
 Brief: A seemingly mundane puddle, patch of moist stone, or glistening rock is suddenly revealed to be more as a terrible pseudopod lashes out.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/gray-ooze)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

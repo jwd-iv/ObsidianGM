@@ -1,7 +1,5 @@
 ---
 File: Froghemoth
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/froghemoth
 Group: 
 aliases: 
 Brief: This immense, three-eyed frog-like creature rears up on powerful hind legs. In place of arms, four huge tentacles thrash and writhe.
@@ -73,6 +71,8 @@ Description: Thankfully rare, the froghemoth is one of the deep swampland's most
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/froghemoth)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

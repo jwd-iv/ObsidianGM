@@ -1,7 +1,5 @@
 ---
 File: Tyrannosaurus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/tyrannosaurus
 Group: Dinosaur
 aliases: 
 Brief: This bipedal dinosaur's front arms seem small compared to the rest of its bulk, but its enormous head is all teeth.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/tyrannosaurus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

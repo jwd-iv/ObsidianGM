@@ -1,6 +1,5 @@
 ---
 File: Deep Sea Serpent
-Source: PFRPG Bestiary 3
 URL: 
 Group: Sea Serpent
 aliases: 
@@ -75,6 +74,8 @@ Description: An enormous monstrosity that makes its home in the darkest depths o
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

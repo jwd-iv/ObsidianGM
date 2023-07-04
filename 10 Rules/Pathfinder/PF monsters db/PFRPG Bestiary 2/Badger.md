@@ -1,7 +1,5 @@
 ---
 File: Badger
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/musteloids/badger
 Group: Badger
 aliases: 
 Brief: The squat, waddling badger trudges forth. Thrusting its flattened nose about the ground, it sniffs incessantly.
@@ -69,6 +67,8 @@ Description: The squat, burrowing badger is plentiful in most temperate forests.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/musteloids/badger)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

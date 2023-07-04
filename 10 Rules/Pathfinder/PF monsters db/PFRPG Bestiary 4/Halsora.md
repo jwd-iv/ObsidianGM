@@ -1,6 +1,5 @@
 ---
 File: Halsora
-Source: PFRPG Bestiary 4
 URL: 
 Group: Fleshwarp
 aliases: 
@@ -73,6 +72,8 @@ Description: Vegepygmies transformed by the vile fleshwarping process become hal
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Night Hag
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/night-hag
 Group: hag
 aliases: 
 Brief: Grisly fetishes and the rags of once fine clothes hang off the corpsethin frame of this horrifying, sharp-fanged crone.
@@ -75,6 +73,8 @@ Description: Terrifying murderesses and greedy soul brokers, night hags prey upo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/night-hag)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

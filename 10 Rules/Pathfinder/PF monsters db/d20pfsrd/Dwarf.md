@@ -1,6 +1,5 @@
 ---
 File: Dwarf
-Source: d20pfsrd
 URL:
 Group:
 aliases:
@@ -77,6 +76,8 @@ Description: Dwarves are a short and stocky race, and stand about a foot shorter
 Race: Dwarf
 Class: warrior 1
 MR:
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

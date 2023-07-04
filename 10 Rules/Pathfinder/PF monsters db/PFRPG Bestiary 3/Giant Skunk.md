@@ -1,6 +1,5 @@
 ---
 File: Giant Skunk
-Source: PFRPG Bestiary 3
 URL: 
 Group: Skunk
 aliases: 
@@ -71,6 +70,8 @@ Description: Much larger than their passive cousins, giant skunks are an aggress
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

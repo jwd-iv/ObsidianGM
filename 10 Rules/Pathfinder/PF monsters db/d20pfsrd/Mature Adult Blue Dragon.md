@@ -1,6 +1,5 @@
 ---
 File: Mature Adult Blue Dragon
-Source: d20pfsrd
 URL: 
 Group: Chromatic Dragon
 aliases: 
@@ -80,6 +79,8 @@ Description: Blue dragons are consummate schemers and obsessively orderly. In co
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

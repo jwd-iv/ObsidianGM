@@ -1,6 +1,5 @@
 ---
 File: Haniver
-Source: PFRPG Bestiary 4
 URL: 
 Group: Gremlin
 aliases: 
@@ -71,6 +70,8 @@ Description: Haniver gremlins haunt the stories of sailors and fishing communiti
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

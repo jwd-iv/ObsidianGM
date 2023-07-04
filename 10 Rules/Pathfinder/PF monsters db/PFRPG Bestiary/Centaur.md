@@ -1,7 +1,5 @@
 ---
 File: Centaur
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur
 Group: 
 aliases: 
 Brief: This creature has the sun-bronzed upper body of a seasoned warrior and the lower body of a sleek warhorse.
@@ -71,6 +69,8 @@ Description: Legendary hunters and skilled warriors, centaurs are part man and p
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

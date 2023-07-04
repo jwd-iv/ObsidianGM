@@ -1,6 +1,5 @@
 ---
 File: Tarry Demodand
-Source: PFRPG Bestiary 3
 URL: 
 Group: Demodand
 aliases: 
@@ -71,6 +70,8 @@ Description: Tarry demodands are lithe and lean compared to other demodands. Des
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

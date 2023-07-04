@@ -1,7 +1,5 @@
 ---
 File: Tylosaurus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/tylosaurus
 Group: Dinosaur
 aliases: 
 Brief: Surging out of the water, this massive lizard is shaped like a giant fish with a powerful, toothed maw.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/tylosaurus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

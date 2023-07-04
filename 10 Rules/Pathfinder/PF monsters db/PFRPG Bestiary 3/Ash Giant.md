@@ -1,6 +1,5 @@
 ---
 File: Ash Giant
-Source: PFRPG Bestiary 3
 URL: 
 Group: Giant
 aliases: 
@@ -75,6 +74,8 @@ Description: Whether because of disruptive magic, unearthed deep elements, or al
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

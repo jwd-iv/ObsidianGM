@@ -1,6 +1,5 @@
 ---
 File: Mammoth Flea
-Source: PFRPG Bestiary 4
 URL: 
 Group: Flea
 aliases: 
@@ -71,6 +70,8 @@ Description: Mammoth fleas are fierce predators. They require vast amounts of bl
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

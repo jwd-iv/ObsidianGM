@@ -1,7 +1,5 @@
 ---
 File: Shocker Lizard
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shocker-lizard
 Group: 
 aliases: 
 Brief: This dog-sized lizard has two horns, one on either side of its head, and green scales that crackle with sparks of lightning.
@@ -73,6 +71,8 @@ Description: A shocker lizard has a pale yellow underside, with bright green sca
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shocker-lizard)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

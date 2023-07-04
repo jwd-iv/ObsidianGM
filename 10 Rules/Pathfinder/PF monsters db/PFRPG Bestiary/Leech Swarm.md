@@ -1,7 +1,5 @@
 ---
 File: Leech Swarm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/leech/leech-swarm
 Group: Leech
 aliases: 
 Brief: A mass of wriggling black creatures each the size of a man's finger stirs the stagnant water before enveloping its victim.
@@ -73,6 +71,8 @@ Description: This horrifying cloud of ravenous, blood-draining parasites eschews
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/leech/leech-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

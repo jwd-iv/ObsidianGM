@@ -1,7 +1,5 @@
 ---
 File: Mimic
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mimic
 Group: 
 aliases: 
 Brief: What appeared to be a chest filled with treasure comes to life as it grows long, glistening tentacles and a number of sharp teeth.
@@ -73,6 +71,8 @@ Description: Mimics are thought to be the result of an alchemist's attempt to gr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mimic)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

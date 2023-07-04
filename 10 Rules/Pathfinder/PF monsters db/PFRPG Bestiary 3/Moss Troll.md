@@ -1,6 +1,5 @@
 ---
 File: Moss Troll
-Source: PFRPG Bestiary 3
 URL: 
 Group: Troll
 aliases: 
@@ -73,6 +72,8 @@ Description: Moss trolls are bent and gangly creatures. They are smaller and thi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

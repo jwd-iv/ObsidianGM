@@ -1,7 +1,5 @@
 ---
 File: Dire Crocodile
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/crocodile/dire-crocodile
 Group: Crocodile
 aliases: 
 Brief: This reptilian behemoth, a crocodile of monstrous proportions, is large enough to swallow a horse in one tremendous bite.
@@ -69,6 +67,8 @@ Description: The immense sarcosuchus, or dire crocodile, is an enormous predator
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/crocodile/dire-crocodile)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

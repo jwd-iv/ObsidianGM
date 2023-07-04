@@ -1,6 +1,5 @@
 ---
 File: Elohim
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: An elohim is a strange being obsessed with creating miniature world
 Race: 
 Class: 
 MR: 6
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Succubus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/succubus
 Group: Demon
 aliases: 
 Brief: Tiny horns, bat-like wings, and a sinuous tail betray the demonic nature of this alluring woman.
@@ -73,6 +71,8 @@ Description: Among the demon hordes, a succubus can often rise to incredible hei
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/succubus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

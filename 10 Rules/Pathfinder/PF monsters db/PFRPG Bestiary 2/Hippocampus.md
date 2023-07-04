@@ -1,7 +1,5 @@
 ---
 File: Hippocampus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hippocampus
 Group: 
 aliases: 
 Brief: This creature has the foreparts of a horse and the hindquarters of a fish. Its forelegs end in splayed fins rather than hooves.
@@ -71,6 +69,8 @@ Description: A hippocampus's scales vary in color from ivory to deep green to ce
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hippocampus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

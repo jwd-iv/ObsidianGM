@@ -1,7 +1,5 @@
 ---
 File: Girallon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/girallon
 Group: 
 aliases: 
 Brief: This four-armed, gorilla-like creature, covered with matted white fur, roars in rage as it rears up to its full, towering height.
@@ -69,6 +67,8 @@ Description: Girallons are among the jungle's most dangerous predators. They are
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/girallon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

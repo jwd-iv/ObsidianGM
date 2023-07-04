@@ -1,6 +1,5 @@
 ---
 File: Nosoi
-Source: PFRPG Bestiary 4
 URL: 
 Group: Psychopomp
 aliases: 
@@ -71,6 +70,8 @@ Description: Nosois eagerly fill the roles of clerks, scribes, and messengers in
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Giant Crab
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/giant-crab
 Group: Crab
 aliases: 
 Brief: This lumbering hard-shelled crab stands as tall as a dwarf, its massive pincers waving menacingly.
@@ -71,6 +69,8 @@ Description: Giant crabs behave much like their smaller cousins, feeding on both
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/giant-crab)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

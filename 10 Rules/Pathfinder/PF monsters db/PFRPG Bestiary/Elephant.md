@@ -1,7 +1,5 @@
 ---
 File: Elephant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/elephant
 Group: 
 aliases: 
 Brief: These thick-skinned animals bear large ivory tusks flanking a long, prehensile snout.
@@ -69,6 +67,8 @@ Description: These large land animals, majestically wandering the plains in tigh
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/elephant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

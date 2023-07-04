@@ -1,7 +1,5 @@
 ---
 File: Otyugh
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/otyugh
 Group: 
 aliases: 
 Brief: This three-legged freak is mostly mouth. Three tentacles, two tipped with barbs and one with eyes, extend from its sides.
@@ -71,6 +69,8 @@ Description: Otyughs are particularly vile and horrid creatures that lurk in pla
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/otyugh)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

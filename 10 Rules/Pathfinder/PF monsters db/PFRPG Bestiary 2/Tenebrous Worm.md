@@ -1,7 +1,5 @@
 ---
 File: Tenebrous Worm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/tenebrous-worm
 Group: 
 aliases: 
 Brief: This pallid beast clatters upon dozens of small legs. Writhing bristles twitch on its back, and its shadow seems strangely mobile.
@@ -75,6 +73,8 @@ Description: The caterpillar-like tenebrous worm is a voracious predator that hu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/tenebrous-worm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

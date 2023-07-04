@@ -1,6 +1,5 @@
 ---
 File: Emperor Walrus
-Source: PFRPG Bestiary 4
 URL: 
 Group: Walrus
 aliases: 
@@ -69,6 +68,8 @@ Description: Towering over common walruses, emperor walruses live in only the mo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

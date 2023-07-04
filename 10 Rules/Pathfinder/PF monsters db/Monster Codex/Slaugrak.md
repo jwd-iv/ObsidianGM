@@ -1,6 +1,5 @@
 ---
 File: Slaugrak
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: The taint of demonkind has long corrupted the troglodyte bloodline.
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

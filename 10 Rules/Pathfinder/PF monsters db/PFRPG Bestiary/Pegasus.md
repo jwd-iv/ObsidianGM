@@ -1,7 +1,5 @@
 ---
 File: Pegasus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/pegasus
 Group: 
 aliases: 
 Brief: This magnificient horse has great bird-like wings upon its back and moves with a quiet and proud grace.
@@ -69,6 +67,8 @@ Description: The pegasus is a magnificent winged horse that sometimes serves the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/pegasus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

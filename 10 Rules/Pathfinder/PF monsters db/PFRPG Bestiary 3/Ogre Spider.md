@@ -1,6 +1,5 @@
 ---
 File: Ogre Spider
-Source: PFRPG Bestiary 3
 URL: 
 Group: Spider
 aliases: 
@@ -71,6 +70,8 @@ Description: Ogre spiders are brutal, terrifying hunters that spin tangled webs 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

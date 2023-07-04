@@ -1,7 +1,5 @@
 ---
 File: Pleroma
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-pleroma
 Group: Aeon
 aliases: 
 Brief: Within the shadows of this vaguely humanoid figure stir swirling colors and spheres, as if it encompassed all the night sky.
@@ -75,6 +73,8 @@ Description: The pleroma is the most powerful of all the aeons. As a manifestati
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-pleroma)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

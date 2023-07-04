@@ -1,7 +1,5 @@
 ---
 File: Brachiosaurus
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/brachiosaurus
 Group: Dinosaur
 aliases: 
 Brief: A long tail counterbalances this reptile's equally long neck, at the end of which a relatively small head pulls food from the treetop.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/brachiosaurus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

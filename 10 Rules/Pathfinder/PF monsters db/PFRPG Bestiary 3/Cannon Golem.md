@@ -1,6 +1,5 @@
 ---
 File: Cannon Golem
-Source: PFRPG Bestiary 3
 URL: 
 Group: Golem
 aliases: 
@@ -79,6 +78,8 @@ Description: A cannon golem's internal workings are a mechanical labyrinth; its 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

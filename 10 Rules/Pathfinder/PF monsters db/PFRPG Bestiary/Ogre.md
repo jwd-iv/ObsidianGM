@@ -1,7 +1,5 @@
 ---
 File: Ogre
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ogre
 Group: 
 aliases: 
 Brief: This lumbering giant's beady eyes are devoid of wit or kindness, and its puffy face features a wide mouth with ill-fitting teeth.
@@ -69,6 +67,8 @@ Description: Stories are told of ogres-horrendous stories of brutality and savag
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ogre)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

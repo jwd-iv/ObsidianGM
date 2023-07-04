@@ -1,7 +1,5 @@
 ---
 File: Kolyarut
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-kolyarut
 Group: Inevitable
 aliases: 
 Brief: Beneath its cloak, this man-shaped creature appears to be part statue and part metallic machine.
@@ -69,6 +67,8 @@ Description: Kolyaruts are enforcers of bargains, traveling to the very edges of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-kolyarut)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

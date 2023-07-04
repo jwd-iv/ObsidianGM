@@ -1,7 +1,5 @@
 ---
 File: Leprechaun
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/leprechaun
 Group: 
 aliases: 
 Brief: This small humanoid has pointed ears, green eyes, and a wicked grin. He carries a bottle in one hand and a club in the other.
@@ -71,6 +69,8 @@ Description: Leprechauns are small, fun-loving tricksters. They are most commonl
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/leprechaun)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

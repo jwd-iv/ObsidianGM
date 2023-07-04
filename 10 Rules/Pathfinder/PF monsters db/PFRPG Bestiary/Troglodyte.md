@@ -1,7 +1,5 @@
 ---
 File: Troglodyte
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/troglodyte
 Group: 
 aliases: 
 Brief: This humanoid's scaly hide is dull gray. Its frame resembles that of a cave lizard, with a long tail and crests on its head and back.
@@ -69,6 +67,8 @@ Description: The troglodyte is a feral, savage cave dweller. They are among the 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/troglodyte)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

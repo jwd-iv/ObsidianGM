@@ -1,7 +1,5 @@
 ---
 File: Great White Whale
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/whale/whale-great-white
 Group: Whale
 aliases: 
 Brief: This immense whale has an enormous, box-shaped head over a massive, toothy maw. Its rough white hide is laced with scars.
@@ -71,6 +69,8 @@ Description: Legendary in size and temper, great white whales are far more aggre
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/whale/whale-great-white)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

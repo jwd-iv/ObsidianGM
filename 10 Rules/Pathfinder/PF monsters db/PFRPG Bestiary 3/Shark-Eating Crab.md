@@ -1,6 +1,5 @@
 ---
 File: Shark-Eating Crab
-Source: PFRPG Bestiary 3
 URL: 
 Group: Crab
 aliases: 
@@ -71,6 +70,8 @@ Description: Extremely fast and agile for such a large creature, the shark-eatin
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

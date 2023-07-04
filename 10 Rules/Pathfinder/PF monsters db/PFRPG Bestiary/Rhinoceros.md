@@ -1,7 +1,5 @@
 ---
 File: Rhinoceros
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/rhinoceros
 Group: 
 aliases: 
 Brief: This rhinoceros has a low-slung head with twisted ears that lie back along its neck.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/rhinoceros)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

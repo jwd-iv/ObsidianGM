@@ -1,7 +1,5 @@
 ---
 File: Troll
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll
 Group: 
 aliases: 
 Brief: This tall creature has rough, green hide. Its hands end in claws, and its bestial face has a hideous, tusked underbite.
@@ -69,6 +67,8 @@ Description: Trolls possess incredibly sharp claws and amazing regenerative powe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

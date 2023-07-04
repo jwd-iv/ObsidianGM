@@ -1,7 +1,5 @@
 ---
 File: Barbed Devil
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/barbed
 Group: Devil
 aliases: 
 Brief: From the tip of its lashing tail to the serrated features of its fangfilled visage, this fiery-eyed sentinel bristles with barbs.
@@ -77,6 +75,8 @@ Description: Sentinels of the vaults of Hell, jailers of the darkest souls, and 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/barbed)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

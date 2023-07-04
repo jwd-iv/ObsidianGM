@@ -1,6 +1,5 @@
 ---
 File: Fast Zombie
-Source: d20pfsrd
 URL: 
 Group: Zombie
 aliases: 
@@ -71,6 +70,8 @@ Description: Unlike the standard, plodding zombie, a fast zombie moves with a su
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Pooka
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -74,6 +73,8 @@ Description: Capricious in nature, pookas are always in search of fun, though th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Naunet
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-naunet
 Group: Protean
 aliases: 
 Brief: Tentacles tipped with snapping jaws emerge from this serpentine creature's back, complementing the vicious maw in its reptilian face.
@@ -75,6 +73,8 @@ Description: Far more bestial than their kin, naunets are the lowest caste of th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-naunet)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

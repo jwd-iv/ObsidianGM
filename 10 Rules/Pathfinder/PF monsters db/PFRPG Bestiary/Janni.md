@@ -1,7 +1,5 @@
 ---
 File: Janni
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/janni
 Group: Genie
 aliases: 
 Brief: This regal figure looks like a tall, well-proportioned human, save that its eyes sparkle with strange light.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/janni)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

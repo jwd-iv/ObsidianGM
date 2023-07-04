@@ -1,7 +1,5 @@
 ---
 File: Sandman
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/sandman
 Group: 
 aliases: 
 Brief: A whirling cloud of fine desert sand piles up upon itself, forming into the shape of a humanoid figure.
@@ -75,6 +73,8 @@ Description: Stealthy and unpredictable, the sandman is a terror to all traveler
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/sandman)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

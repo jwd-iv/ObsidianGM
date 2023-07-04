@@ -1,6 +1,5 @@
 ---
 File: Fossil Golem
-Source: PFRPG Bestiary 3
 URL: 
 Group: Golem
 aliases: 
@@ -73,6 +72,8 @@ Description: A fossil golem is constructed of the stony bones of long-dead dinos
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

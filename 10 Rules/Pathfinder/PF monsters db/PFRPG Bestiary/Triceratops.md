@@ -1,7 +1,5 @@
 ---
 File: Triceratops
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/triceratops
 Group: Dinosaur
 aliases: 
 Brief: This beast's armored head has three sharp horns decorating its face and a large round crest angling back over its neck from its skull.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/triceratops)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

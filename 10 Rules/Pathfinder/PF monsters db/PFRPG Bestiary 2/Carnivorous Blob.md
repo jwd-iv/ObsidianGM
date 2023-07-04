@@ -1,7 +1,5 @@
 ---
 File: Carnivorous Blob
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/oozes/carnivorous-blob
 Group: 
 aliases: 
 Brief: Rolling and twitching like a massive wad of translucent ooze, this crimson blob reaches out amorphous pseudopods in all directions.
@@ -75,6 +73,8 @@ Description: While sages debate whether the first carnivorous blobs were created
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/oozes/carnivorous-blob)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

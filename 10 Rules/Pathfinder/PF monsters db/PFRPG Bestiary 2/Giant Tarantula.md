@@ -1,7 +1,5 @@
 ---
 File: Giant Tarantula
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/giant-tarantula-spider
 Group: Spider
 aliases: 
 Brief: A massive tarantula covered in bristly hairs strides forward with deliberate steps, its eight eyes scanning for prey.
@@ -73,6 +71,8 @@ Description: A tarantula doesn't use a web to ensnare prey, though it may spin a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/giant-tarantula-spider)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Trapper
-Source: PFRPG Bestiary 4
 URL: 
 Group: Lurking Ray
 aliases: 
@@ -69,6 +68,8 @@ Description: Female lurking rays, known as trappers, are the masterminds of thei
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

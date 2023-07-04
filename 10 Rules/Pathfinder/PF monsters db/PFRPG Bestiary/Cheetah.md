@@ -1,7 +1,5 @@
 ---
 File: Cheetah
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/cheetah
 Group: Cat
 aliases: 
 Brief: This large, sleek feline has a golden coat spotted with black. Its long and powerful legs are obviously capable of great speed.
@@ -71,6 +69,8 @@ Description: The cheetah is a swift and deadly predator capable of moving with i
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/cat/cheetah)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

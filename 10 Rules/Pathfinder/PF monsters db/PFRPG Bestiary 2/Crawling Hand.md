@@ -1,7 +1,5 @@
 ---
 File: Crawling Hand
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/crawling-hand
 Group: 
 aliases: 
 Brief: With a jolt, this severed hand springs to life, its fingers propelling it forth at great speed like a deformed spider.
@@ -71,6 +69,8 @@ Description: Some say the origins of the crawling hand lie in the experiments of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/crawling-hand)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

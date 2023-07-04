@@ -1,7 +1,5 @@
 ---
 File: Wight
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/wight
 Group: 
 aliases: 
 Brief: The flesh of this walking corpse is rotting and putrid, its body skeletal in places and its eye sockets glowing with red light.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/wight)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

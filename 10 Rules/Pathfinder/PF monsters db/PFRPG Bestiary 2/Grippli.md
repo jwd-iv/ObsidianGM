@@ -1,7 +1,5 @@
 ---
 File: Grippli
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/grippli
 Group: 
 aliases: 
 Brief: Its slick skin a mottled pattern of bright colors, this agile, frog-like humanoid carries a bow and wears leather armor.
@@ -72,6 +70,8 @@ Description: >
 Race: Grippli
 Class: ranger 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/grippli)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

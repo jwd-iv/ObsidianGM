@@ -1,6 +1,5 @@
 ---
 File: Gourd Leshy
-Source: PFRPG Bestiary 3
 URL: 
 Group: Leshy
 aliases: 
@@ -75,6 +74,8 @@ Description: With tangles of leafy vines for limbs and a carved gourd for a head
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

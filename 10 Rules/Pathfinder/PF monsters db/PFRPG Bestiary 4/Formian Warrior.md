@@ -1,6 +1,5 @@
 ---
 File: Formian Warrior
-Source: PFRPG Bestiary 4
 URL: 
 Group: Formian
 aliases: 
@@ -75,6 +74,8 @@ Description: Composing the fighting caste of the hive, formian warriors grow fro
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

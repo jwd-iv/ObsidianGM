@@ -1,7 +1,5 @@
 ---
 File: Leucrotta
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/leucrotta
 Group: 
 aliases: 
 Brief: This freakish beast has the head of a badger, the hooves of a stag, and a wide mouth with sharp ridges of bone instead of teeth.
@@ -73,6 +71,8 @@ Description: Reputed to be descended from hyenas and a demon lord, these creatur
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/leucrotta)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

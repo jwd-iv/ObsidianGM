@@ -1,7 +1,5 @@
 ---
 File: Dhampir
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dhampir
 Group: 
 aliases: 
 Brief: This unnaturally graceful man moves without a sound, his gaze just as piercing as the needle-sharp blade he effortlessly wields.
@@ -72,6 +70,8 @@ Description: >
 Race: Dhampir
 Class: fighter 1
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dhampir)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

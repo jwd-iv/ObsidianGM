@@ -1,7 +1,5 @@
 ---
 File: Ice Devil
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/ice
 Group: Devil
 aliases: 
 Brief: A pair of frozen, multifaceted eyes coldly judge all before this towering, insectile monstrosity.
@@ -71,6 +69,8 @@ Description: Strategists and masterminds of Hell's armies, the insectile ice dev
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/ice)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Cockroach Swarm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/cockroach/cockroach-swarm
 Group: Cockroach
 aliases: 
 Brief: Like a pestilent black tide, a ravenous horde of thousands of tiny, clacking cockroaches washes over everything in its path.
@@ -69,6 +67,8 @@ Description: Swarms of flesh-eating cockroaches are extremely virulent pests. No
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/cockroach/cockroach-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

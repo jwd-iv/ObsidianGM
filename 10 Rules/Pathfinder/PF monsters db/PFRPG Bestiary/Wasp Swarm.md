@@ -1,7 +1,5 @@
 ---
 File: Wasp Swarm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/wasp/wasp-swarm
 Group: Wasp
 aliases: 
 Brief: A low, ominous buzz announces the arrival of a mass of many thousands of angry, stinging wasps.
@@ -71,6 +69,8 @@ Description: A wasp swarm is a flying mass of thousands of carnivorous wasps. In
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/wasp/wasp-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

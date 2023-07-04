@@ -1,6 +1,5 @@
 ---
 File: Adult Lunar Dragon
-Source: PFRPG Bestiary 4
 URL: 
 Group: Outer Dragon
 aliases: 
@@ -86,6 +85,8 @@ Description: Lunar dragons frequently interact with mortals, spending long hours
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

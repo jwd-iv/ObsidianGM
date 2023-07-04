@@ -1,6 +1,5 @@
 ---
 File: Juvenile Brass Dragon
-Source: d20pfsrd
 URL: 
 Group: Metallic Dragon
 aliases: 
@@ -78,6 +77,8 @@ Description: Consummate conversationalists, brass dragons prefer to talk instead
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

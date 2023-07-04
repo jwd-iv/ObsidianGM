@@ -1,7 +1,5 @@
 ---
 File: Constrictor Snake
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snake/constrictor
 Group: Snake
 aliases: 
 Brief: This large snake has a thick, muscular body and dull green scales decorated with dirty brown stripes.
@@ -69,6 +67,8 @@ Description: Be they jungle-dwelling pythons or swampdwelling boas like the anac
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/snake/constrictor)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

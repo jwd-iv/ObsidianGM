@@ -1,7 +1,5 @@
 ---
 File: Mephit
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mephit
 Group: 
 aliases: 
 Brief: This small humanoid creature has thin, leathery wings, small horns, and a mischievous smile.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mephit)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

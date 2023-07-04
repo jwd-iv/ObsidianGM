@@ -1,6 +1,5 @@
 ---
 File: Halfling
-Source: d20pfsrd
 URL:
 Group:
 aliases:
@@ -83,6 +82,8 @@ Description: >
 Race: Halfling
 Class:
 MR:
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

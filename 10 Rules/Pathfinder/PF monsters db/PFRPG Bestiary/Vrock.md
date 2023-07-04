@@ -1,7 +1,5 @@
 ---
 File: Vrock
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/vrock
 Group: Demon
 aliases: 
 Brief: A cloud of spores and a trail of feathers surrounds this twisted cross between a man and a gigantic vulture.
@@ -75,6 +73,8 @@ Description: Profane champions of the Abyss, vrocks embody all the rage, hatred,
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/vrock)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Urdefhan
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/Urdefhan
 Group: 
 aliases: 
 Brief: This fanged humanoid has hideously transparent skin, revealing the vivid colors of internal organs and ivory bones inside its body.
@@ -73,6 +71,8 @@ Description: Infused with fell energies from Abaddon, urdefhans are an unsightly
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/Urdefhan)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

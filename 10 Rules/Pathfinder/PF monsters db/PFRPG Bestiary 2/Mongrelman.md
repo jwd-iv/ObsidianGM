@@ -1,7 +1,5 @@
 ---
 File: Mongrelman
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/mongrelman
 Group: 
 aliases: 
 Brief: Ivory tusks, insect chitin, matted fur, scaly flesh, and more combine to form a hideous humanoid shape.
@@ -69,6 +67,8 @@ Description: Despite their monstrous appearances, mongrelmen are generally hardw
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/mongrelman)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

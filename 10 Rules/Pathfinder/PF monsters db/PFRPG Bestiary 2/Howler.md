@@ -1,7 +1,5 @@
 ---
 File: Howler
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/howler
 Group: 
 aliases: 
 Brief: This vile predator has a hide as thick and tough as leather. Wicked ebony quills run from its head, tail, and back.
@@ -75,6 +73,8 @@ Description: The howler is a native to the Abyss, an Outer Plane where madness i
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/howler)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Goat
-Source: PFRPG Bestiary 3
 URL: 
 Group: Familiar
 aliases: 
@@ -69,6 +68,8 @@ Description: Goats are often ill-tempered and stubborn, but they have an uncanny
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

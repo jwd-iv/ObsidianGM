@@ -1,6 +1,5 @@
 ---
 File: Lizard Scion
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Every few generations, a lizard scion is born to a lizardfolk tribe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

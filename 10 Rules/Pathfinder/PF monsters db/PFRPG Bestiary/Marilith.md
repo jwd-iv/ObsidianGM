@@ -1,7 +1,5 @@
 ---
 File: Marilith
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/marilith
 Group: Demon
 aliases: 
 Brief: This snake-bodied fiend has a six-armed woman's torso, pointed ears, and glittering, otherworldly eyes.
@@ -75,6 +73,8 @@ Description: The leaders of Abyssal hordes and queens of Abyssal nations, the dr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/marilith)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

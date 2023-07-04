@@ -1,7 +1,5 @@
 ---
 File: Efreeti
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/efreeti
 Group: Genie
 aliases: 
 Brief: This muscular giant has crimson skin, smoldering eyes, and small black horns. Smoke rises in curls from its flesh.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/efreeti)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Augur
-Source: PFRPG Bestiary 3
 URL: 
 Group: Kyton
 aliases: 
@@ -71,6 +70,8 @@ Description: Gory sentinels with a lust for flesh and the myriad bodily fluids c
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Crocodile
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/crocodile
 Group: 
 aliases: 
 Brief: This reptile lunges out of the placid water with shocking speed. Its jaw gapes open in a roar, its powerful tail lashing behind.
@@ -75,6 +73,8 @@ Description: A crocodile is a primeval reptile that dwells in swamps or along th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/reptiles/crocodile)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

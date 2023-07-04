@@ -1,6 +1,5 @@
 ---
 File: Cave Giant
-Source: PFRPG Bestiary 3
 URL: 
 Group: Giant
 aliases: 
@@ -71,6 +70,8 @@ Description: Stooped over in a perpetual crouch, cave giants move as if they had
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

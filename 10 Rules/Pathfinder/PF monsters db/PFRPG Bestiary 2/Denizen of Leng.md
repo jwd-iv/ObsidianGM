@@ -1,7 +1,5 @@
 ---
 File: Denizen of Leng
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/denizen-of-leng
 Group: 
 aliases: 
 Brief: Shrouded in tattered leather robes, this strange humanoid looks more alien and horrific the more one studies its twitching visage.
@@ -75,6 +73,8 @@ Description: These eerie denizens travel the universe from their strange homelan
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/denizen-of-leng)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

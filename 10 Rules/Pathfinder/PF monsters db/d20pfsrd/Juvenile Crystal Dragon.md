@@ -1,6 +1,5 @@
 ---
 File: Juvenile Crystal Dragon
-Source: d20pfsrd
 URL: 
 Group: Primal Dragon
 aliases: 
@@ -71,6 +70,8 @@ Description: Crystal dragons are generally good-natured, though their incredible
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

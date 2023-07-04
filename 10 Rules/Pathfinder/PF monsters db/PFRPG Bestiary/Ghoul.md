@@ -1,7 +1,5 @@
 ---
 File: Ghoul
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul
 Group: 
 aliases: 
 Brief: This humanoid creature has long, sharp teeth, and its pallid flesh is stretched tightly over its starved frame.
@@ -71,6 +69,8 @@ Description: Ghouls are undead that haunt graveyards and eat corpses. Legends ho
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

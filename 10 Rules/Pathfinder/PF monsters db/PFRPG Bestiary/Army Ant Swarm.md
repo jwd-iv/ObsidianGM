@@ -1,7 +1,5 @@
 ---
 File: Army Ant Swarm
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/ant/army-ant-swarm
 Group: Army Ant
 aliases: 
 Brief: A writhing carpet of ants seethes over the ground, consuming everything in its path.
@@ -73,6 +71,8 @@ Description: The notoriety of the army ant swarm is well earned. Constantly on t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/ant/army-ant-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

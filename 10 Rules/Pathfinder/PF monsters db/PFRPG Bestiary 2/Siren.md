@@ -1,7 +1,5 @@
 ---
 File: Siren
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/siren
 Group: 
 aliases: 
 Brief: This creature has the body of a hawk and the head of a beautiful woman with long, shining hair.
@@ -73,6 +71,8 @@ Description: These bizarre beings have the bodies of hawks, owls, or eagles, but
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/siren)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Zuishin
-Source: PFRPG Bestiary 3
 URL: 
 Group: Kami
 aliases: 
@@ -73,6 +72,8 @@ Description: While all kami are enemies of oni, none are so fervent as the zuish
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

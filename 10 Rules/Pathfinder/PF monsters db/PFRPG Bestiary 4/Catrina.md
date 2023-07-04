@@ -1,6 +1,5 @@
 ---
 File: Catrina
-Source: PFRPG Bestiary 4
 URL: 
 Group: Psychopomp
 aliases: 
@@ -75,6 +74,8 @@ Description: Catrinas welcome the dead into the afterlife, doing what they can t
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

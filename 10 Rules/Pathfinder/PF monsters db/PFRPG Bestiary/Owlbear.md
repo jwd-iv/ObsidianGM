@@ -1,7 +1,5 @@
 ---
 File: Owlbear
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/owlbear
 Group: 
 aliases: 
 Brief: An amalgam of fur and feathers, this bizarre half-bear, half-owl monstrosity raises its huge, ursine claws in anger.
@@ -69,6 +67,8 @@ Description: The origin of the owlbear is a subject of great debate among schola
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/owlbear)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

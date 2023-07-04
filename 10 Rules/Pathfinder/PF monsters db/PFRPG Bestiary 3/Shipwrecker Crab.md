@@ -1,6 +1,5 @@
 ---
 File: Shipwrecker Crab
-Source: PFRPG Bestiary 3
 URL: 
 Group: Crab
 aliases: 
@@ -71,6 +70,8 @@ Description: A bane to all vessels traveling the seas, shipwrecker crabs can rui
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

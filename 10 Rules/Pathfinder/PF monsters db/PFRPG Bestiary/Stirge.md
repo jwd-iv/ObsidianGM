@@ -1,7 +1,5 @@
 ---
 File: Stirge
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stirge
 Group: 
 aliases: 
 Brief: This insectoid creature has two pairs of bat wings, a tangle of thin legs, and a needle-sharp proboscis.
@@ -75,6 +73,8 @@ Description: Stirges are vicious, blood-drinking swamp pests that prey on wild a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stirge)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

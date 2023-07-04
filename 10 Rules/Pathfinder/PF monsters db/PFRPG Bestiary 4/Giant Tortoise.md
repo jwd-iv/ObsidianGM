@@ -1,6 +1,5 @@
 ---
 File: Giant Tortoise
-Source: PFRPG Bestiary 4
 URL: 
 Group: Tortoise
 aliases: 
@@ -75,6 +74,8 @@ Description: Giant tortoises typically live on tropical islands without large pr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

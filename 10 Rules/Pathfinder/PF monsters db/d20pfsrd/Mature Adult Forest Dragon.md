@@ -1,6 +1,5 @@
 ---
 File: Mature Adult Forest Dragon
-Source: d20pfsrd
 URL: 
 Group: Imperial Dragon
 aliases: 
@@ -81,6 +80,8 @@ Description: Forest dragons, or dilung, are fickle and malevolent dragons that d
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

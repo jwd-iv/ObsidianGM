@@ -1,6 +1,5 @@
 ---
 File: Deathtrap Ooze
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -73,6 +72,8 @@ Description: A deathtrap ooze is a disgusting mass of brown-orange sludge that m
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

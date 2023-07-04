@@ -1,7 +1,5 @@
 ---
 File: Giant Stag Beetle
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/stag-beetle
 Group: Beetle
 aliases: 
 Brief: With a sleek body and huge mandibles raised in a threatening pose, this large beetle stands firm in defense of its territory.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/stag-beetle)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

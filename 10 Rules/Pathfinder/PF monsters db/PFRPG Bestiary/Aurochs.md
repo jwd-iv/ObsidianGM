@@ -1,7 +1,5 @@
 ---
 File: Aurochs
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/aurochs
 Group: Herd Animal
 aliases: 
 Brief: This large, horned bull has a dirty black hide and an aggressive temper. Its horns are wide and sharp.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/aurochs)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Aboleth
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/aboleth
 Group: 
 aliases: 
 Brief: Four long tentacles writhe from this three-eyed fish-like creature's flanks, and its green body glistens with thick, clear slime.
@@ -73,6 +71,8 @@ Description: As befits their hideous primeval appearance, the hermaphroditic abo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/aboleth)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

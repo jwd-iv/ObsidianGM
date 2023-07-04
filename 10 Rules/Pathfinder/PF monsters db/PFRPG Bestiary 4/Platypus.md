@@ -1,6 +1,5 @@
 ---
 File: Platypus
-Source: PFRPG Bestiary 4
 URL: 
 Group: Familiar
 aliases: 
@@ -75,6 +74,8 @@ Description: Platypuses are egg-laying mammals that live in riverside burrows an
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

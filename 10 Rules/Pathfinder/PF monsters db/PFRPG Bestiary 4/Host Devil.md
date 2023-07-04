@@ -1,6 +1,5 @@
 ---
 File: Host Devil
-Source: PFRPG Bestiary 4
 URL: 
 Group: Devil
 aliases: Magaav
@@ -75,6 +74,8 @@ Description: Hunters of souls, host devils retrieve Hell's most elusive property
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

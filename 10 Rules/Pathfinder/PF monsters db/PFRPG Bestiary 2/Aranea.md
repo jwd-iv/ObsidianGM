@@ -1,7 +1,5 @@
 ---
 File: Aranea
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/aranea
 Group: 
 aliases: 
 Brief: This bloated spider has a hunchbacked body and a gleam of intelligence in its multiple eyes.
@@ -77,6 +75,8 @@ Description: An aranea is an intelligent, shapechanging spider with sorcerous po
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/aranea)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

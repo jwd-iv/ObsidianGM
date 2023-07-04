@@ -1,6 +1,5 @@
 ---
 File: Thriae Seer
-Source: PFRPG Bestiary 3
 URL: 
 Group: Thriae
 aliases: 
@@ -73,6 +72,8 @@ Description: Sought after for their wisdom and guidance as well as their enchant
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

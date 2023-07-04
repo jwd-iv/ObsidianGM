@@ -1,6 +1,5 @@
 ---
 File: Tempest Behemoth
-Source: PFRPG Bestiary 3
 URL: 
 Group: Behemoth
 aliases: 
@@ -75,6 +74,8 @@ Description: Riding the winds on a triple set of wings, tempest behemoths fly ab
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

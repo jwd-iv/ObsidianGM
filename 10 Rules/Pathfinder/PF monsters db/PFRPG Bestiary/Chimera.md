@@ -1,7 +1,5 @@
 ---
 File: Chimera
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/chimera
 Group: 
 aliases: 
 Brief: This winged monster has the body of a lion, though two more heads flank its central feline one-a dragon and a horned goat.
@@ -71,6 +69,8 @@ Description: Chimeras are monstrous creatures born of primordial evil. Hateful a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/chimera)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Grick
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/grick
 Group: 
 aliases: 
 Brief: This pallid, slimy, worm-like creature is the size of a human, its mouth a sickening tangle of tentacles and hooked jaws.
@@ -69,6 +67,8 @@ Description: The worm-like grick is a terror of the caverns and tunnels in which
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/grick)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

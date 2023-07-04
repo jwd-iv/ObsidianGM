@@ -1,7 +1,5 @@
 ---
 File: Choker
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/choker
 Group: 
 aliases: 
 Brief: This hunched-over wretch has long, pliable arms like tentacles capped with five wide, spiny claws.
@@ -75,6 +73,8 @@ Description: Underground predators that often dwell on the outskirts of subterra
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/choker)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

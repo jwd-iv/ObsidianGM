@@ -1,7 +1,5 @@
 ---
 File: Hippopotamus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/hippopotamus
 Group: 
 aliases: 
 Brief: This lumbering bull hippopotamus lunges out of the water and yawns wide, displaying an impressive set of tusk-like teeth.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/hippopotamus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

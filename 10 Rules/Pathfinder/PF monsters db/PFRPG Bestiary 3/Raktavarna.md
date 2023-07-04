@@ -1,6 +1,5 @@
 ---
 File: Raktavarna
-Source: PFRPG Bestiary 3
 URL: 
 Group: Rakshasa
 aliases: 
@@ -75,6 +74,8 @@ Description: Made up of smoke, blood, and gold, raktavarnas are the least of the
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Giant Crawling Hand
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/crawling-hand/crawling-hand-giant
 Group: Crawling Hand
 aliases: 
 Brief: A giant rotting hand rocks unsteadily, propped upon thick, stubby fingers. Its pale, necrotic flesh pulses and crawls with sickly boils.
@@ -73,6 +71,8 @@ Description: Some say the origins of the crawling hand lie in the experiments of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/undead/crawling-hand/crawling-hand-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

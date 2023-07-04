@@ -1,7 +1,5 @@
 ---
 File: Greater Fire Elemental
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/fire
 Group: Elemental
 aliases: 
 Brief: This creature looks like a living, mobile bonfire, tongues of flame reaching out in search of things to burn.
@@ -69,6 +67,8 @@ Description: Fire elementals are quick, cruel creatures of living flame. They en
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/fire)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

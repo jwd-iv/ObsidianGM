@@ -1,7 +1,5 @@
 ---
 File: Adamantine Golem
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/adamantine-golem
 Group: Golem
 aliases: 
 Brief: This huge construct of black metal is all spikes and armor, save for several forge-like stacks that burn atop its crown and back.
@@ -75,6 +73,8 @@ Description: Made using one of the hardest and most precious substances, the ada
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/adamantine-golem)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

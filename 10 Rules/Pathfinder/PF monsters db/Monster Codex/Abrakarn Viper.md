@@ -1,6 +1,5 @@
 ---
 File: Abrakarn Viper
-Source: Monster Codex
 URL: 
 Group: 
 aliases: 
@@ -81,6 +80,8 @@ Description: Demonic spirits imbue this serpentine construct with the unnatural 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: Monster Codex
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

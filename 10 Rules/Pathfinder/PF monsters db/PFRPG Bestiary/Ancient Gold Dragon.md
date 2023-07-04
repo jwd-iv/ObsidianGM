@@ -1,7 +1,5 @@
 ---
 File: Ancient Gold Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-gold/ancient-gold-dragon
 Group: Metallic Dragon
 aliases: 
 Brief: Golden scales cover the body of this majestic dragon, and a regal crest of horns arches backward above wise and piercing eyes.
@@ -94,6 +92,8 @@ Description: Gold dragons are the epitome of virtue. Other metallic dragons reve
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-gold/ancient-gold-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

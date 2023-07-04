@@ -1,7 +1,5 @@
 ---
 File: Ceustodaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/ceustodaemon
 Group: Daemon
 aliases: 
 Brief: This brown, shaggy-furred beast stands on slate grey hooves. Its head resembles that of a maniacal horned ape.
@@ -72,6 +70,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/ceustodaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Kalavakus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-kalavakus
 Group: Demon
 aliases: 
 Brief: This muscular, violet demon walks upon elephantine feet. Large, razor-sharp horns cover its body.
@@ -73,6 +71,8 @@ Description: Known to some as "horned demons," the kalavakus demons are hulking,
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-kalavakus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

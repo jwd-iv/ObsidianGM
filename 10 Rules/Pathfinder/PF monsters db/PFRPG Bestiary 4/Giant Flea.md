@@ -1,6 +1,5 @@
 ---
 File: Giant Flea
-Source: PFRPG Bestiary 4
 URL: 
 Group: Flea
 aliases: 
@@ -73,6 +72,8 @@ Description: Much like their smaller cousins, giant fleas are hemophagous insect
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

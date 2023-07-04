@@ -1,7 +1,5 @@
 ---
 File: Dire Boar
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/boar/dire-boar
 Group: Boar
 aliases: 
 Brief: The back of this horse-sized boar rises in a steep slope. Its tiny red eyes are crusted with filth and its bristly f lank crawls with f lies.
@@ -69,6 +67,8 @@ Description: Whereas the boar is ill-tempered and generally unfriendly, the towe
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/boar/dire-boar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

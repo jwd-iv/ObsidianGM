@@ -1,6 +1,5 @@
 ---
 File: Taiga Linnorm
-Source: PFRPG Bestiary 3
 URL: 
 Group: Linnorm
 aliases: 
@@ -77,6 +76,8 @@ Description: A beast covered with hundreds of spines, the taiga linnorm is a ter
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

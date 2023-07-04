@@ -1,6 +1,5 @@
 ---
 File: Ocean Giant
-Source: PFRPG Bestiary 4
 URL: 
 Group: Giant
 aliases: 
@@ -71,6 +70,8 @@ Description: Ocean giants embody the great extremes of the sea. Their skin color
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

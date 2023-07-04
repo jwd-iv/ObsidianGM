@@ -1,7 +1,5 @@
 ---
 File: Hezrou
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/hezrou
 Group: Demon
 aliases: 
 Brief: This fiend's armored f lesh is scaly and moist. Its large, toothy mouth gapes below a pair of hungry, reptilian eyes.
@@ -71,6 +69,8 @@ Description: The hezrou dwells in the vast Abyssal swamps, mires, and waterways,
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/hezrou)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Slimy Demodand
-Source: PFRPG Bestiary 3
 URL: 
 Group: Demodand
 aliases: 
@@ -73,6 +72,8 @@ Description: Slimy demodands are more muscular than shaggy demodands, but aren't
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

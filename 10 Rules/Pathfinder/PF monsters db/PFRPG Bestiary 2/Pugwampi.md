@@ -1,7 +1,5 @@
 ---
 File: Pugwampi
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-pugwampi
 Group: Gremlin
 aliases: 
 Brief: As if the world's most revolting lapdog had somehow learned to walk on its back legs, this sickly creature slinks forward carefully.
@@ -71,6 +69,8 @@ Description: Mean, dog-faced, and cowardly, pugwampis are loved by no one-not ev
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-pugwampi)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

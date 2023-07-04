@@ -1,7 +1,5 @@
 ---
 File: Gray Render
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gray-render
 Group: 
 aliases: 
 Brief: This hulking beast has slick, gray, hairless skin. Its numerous yellow eyes and wide toothy maw are its only facial features.
@@ -71,6 +69,8 @@ Description: Standing over 9 feet tall and weighing in excess of 4,000 pounds, a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gray-render)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

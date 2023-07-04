@@ -1,6 +1,5 @@
 ---
 File: Mindslaver Mold
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -79,6 +78,8 @@ Description: Mindslaver mold is an infestation from the primal world of fey that
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

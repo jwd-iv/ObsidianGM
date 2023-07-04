@@ -1,7 +1,5 @@
 ---
 File: Cauchemar
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-n/nightmare/cauchemar
 Group: Nightmare
 aliases: 
 Brief: This towering, burning equine stands upon smoking hooves. Hellfire shimmers in its hateful eyes.
@@ -69,6 +67,8 @@ Description: The cauchemar is a more dangerous variant of the nightmare, particu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-lists-and-details/-n/nightmare/cauchemar)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

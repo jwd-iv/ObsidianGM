@@ -1,6 +1,5 @@
 ---
 File: Dandasuka
-Source: PFRPG Bestiary 3
 URL: 
 Group: Rakshasa
 aliases: 
@@ -72,6 +71,8 @@ Description: Dandasukas, also known as "biters" among rakshasas, serve as spies 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

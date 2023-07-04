@@ -1,7 +1,5 @@
 ---
 File: Adamantine Cobra
-Source: d20pfsrd
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/cobra-constructs/adamantine-cobra
 Group: Cobra
 aliases: 
 Brief: This creature resembles a small, metallic cobra. Its body is made of overlapping metal plates, and its eyes are pinpoints of red light.
@@ -73,6 +71,8 @@ Description: An adamantine cobra's body is built from 100 pounds of magically tr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[d20pfsrd](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/cobra-constructs/adamantine-cobra)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

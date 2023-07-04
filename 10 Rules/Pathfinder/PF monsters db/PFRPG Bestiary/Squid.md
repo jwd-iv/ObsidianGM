@@ -1,7 +1,5 @@
 ---
 File: Squid
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/squid
 Group: 
 aliases: 
 Brief: This slender red squid darts through the water with alacrity. Two large eyes stare from above the creature's tentacles.
@@ -74,6 +72,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/squid)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

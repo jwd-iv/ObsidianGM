@@ -1,6 +1,5 @@
 ---
 File: Old Magma Dragon
-Source: d20pfsrd
 URL: 
 Group: Primal Dragon
 aliases: 
@@ -78,6 +77,8 @@ Description: Temperamental and prone to violent outbursts, magma dragons are reg
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: d20pfsrd
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

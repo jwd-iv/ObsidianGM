@@ -1,6 +1,5 @@
 ---
 File: Legion Archon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Archon
 aliases: 
@@ -73,6 +72,8 @@ Description: Where shield archons are the bulwarks of the armies of Heaven, legi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Astradaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/astradaemon
 Group: Daemon
 aliases: 
 Brief: Vaguely humanoid in shape, this gaunt fiend has the face of a hideous fish and a body of lanky limbs and writhing tendrils.
@@ -73,6 +71,8 @@ Description: Believed to be creations of the Four Horsemen, astradaemons live ou
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/astradaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

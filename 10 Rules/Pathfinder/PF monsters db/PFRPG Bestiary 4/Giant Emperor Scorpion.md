@@ -1,6 +1,5 @@
 ---
 File: Giant Emperor Scorpion
-Source: PFRPG Bestiary 4
 URL: 
 Group: Scorpion
 aliases: 
@@ -73,6 +72,8 @@ Description: A giant emperor scorpion is an ambush predator, burying itself in s
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

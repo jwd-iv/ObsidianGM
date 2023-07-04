@@ -1,7 +1,5 @@
 ---
 File: Orca
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/dolphin/orca
 Group: Dolphin
 aliases: 
 Brief: This sleek black whale has a distinctive white patch near each eye and a mouth filled with sharp teeth.
@@ -70,6 +68,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/aquatic/dolphin/orca)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

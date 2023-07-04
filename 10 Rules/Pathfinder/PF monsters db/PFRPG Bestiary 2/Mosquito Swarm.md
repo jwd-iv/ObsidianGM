@@ -1,7 +1,5 @@
 ---
 File: Mosquito Swarm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/mosquito-swarm
 Group: 
 aliases: 
 Brief: The droning and spastic movements of this cloud of hungry mosquitoes promise a painful ordeal.
@@ -69,6 +67,8 @@ Description: Horrifically enlarged versions of the common mosquito, giant mosqui
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/mosquito-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Xtabay
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/xtabay
 Group: 
 aliases: 
 Brief: This patch of vines is ornamented with beautiful crimson and violet flowers, the petals of which seem to bear tiny faces.
@@ -73,6 +71,8 @@ Description: Attractive flowers blossom from the vines of xtabays, emitting the 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/plants/xtabay)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

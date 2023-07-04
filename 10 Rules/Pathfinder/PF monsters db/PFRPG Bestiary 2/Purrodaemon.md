@@ -1,7 +1,5 @@
 ---
 File: Purrodaemon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/purrodaemon
 Group: Daemon
 aliases: 
 Brief: Dozens of weapons pierce this massive monster's body. Red eyes glow with wickedness in its vulture-like head.
@@ -71,6 +69,8 @@ Description: Deacons of War, purrodaemons ravage the planes as generals of massi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/purrodaemon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

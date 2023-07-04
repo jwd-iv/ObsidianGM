@@ -1,7 +1,5 @@
 ---
 File: Draconal
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-draconal
 Group: Agathion
 aliases: 
 Brief: This noble creature seems to be part serpent, part humanoid, and part dragon, with great wings and a crown of horns.
@@ -76,6 +74,8 @@ Description: >
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-draconal)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

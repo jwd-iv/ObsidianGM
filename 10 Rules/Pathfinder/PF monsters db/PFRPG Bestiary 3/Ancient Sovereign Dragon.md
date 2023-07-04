@@ -1,6 +1,5 @@
 ---
 File: Ancient Sovereign Dragon
-Source: PFRPG Bestiary 3
 URL: 
 Group: Imperial Dragon
 aliases: 
@@ -83,6 +82,8 @@ Description: Guardians of balance, sovereign dragons, or lungwangs as they are a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

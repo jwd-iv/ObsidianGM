@@ -1,7 +1,5 @@
 ---
 File: Stone Giant
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/stone-giant
 Group: Giant
 aliases: 
 Brief: This giant has chiseled, muscular features and a flat, forwardsloping head, looking almost as if it were carved of stone.
@@ -71,6 +69,8 @@ Description: Stone giants prefer thick leather garments, dyed in shades of brown
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/stone-giant)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

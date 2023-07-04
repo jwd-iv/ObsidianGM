@@ -1,7 +1,5 @@
 ---
 File: Blindheim
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/blindheim
 Group: 
 aliases: 
 Brief: The size of a short, stocky humanoid with webbed feet and claws, this frog-like creature has glowing white eyes.
@@ -71,6 +69,8 @@ Description: Blindheims are grotesque, frog-like creatures that dwell beneath th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/blindheim)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

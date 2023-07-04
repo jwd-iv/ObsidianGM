@@ -1,7 +1,5 @@
 ---
 File: Charybdis
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/charybdis
 Group: 
 aliases: 
 Brief: An immense spiny monster, its back plated in chitin and its belly in thick folds of blubber, rises hungrily from the center of a whirlpool.
@@ -73,6 +71,8 @@ Description: Sailors tell many tales of the creatures of the deep, from the terr
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/charybdis)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

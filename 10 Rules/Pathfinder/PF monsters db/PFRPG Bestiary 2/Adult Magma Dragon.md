@@ -1,7 +1,5 @@
 ---
 File: Adult Magma Dragon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma
 Group: Primal Dragon
 aliases: 
 Brief: Between this dragon's jet-black scales run glowing rivulets of lava, and veins aglow with heat shine in the membranes of its wings.
@@ -82,6 +80,8 @@ Description: Temperamental and prone to violent outbursts, magma dragons are reg
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Brijidine
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/azata-brijidine
 Group: Azata
 aliases: 
 Brief: This beautiful woman has flesh made of lava. She soars through the sky on a trail of fire.
@@ -77,6 +75,8 @@ Description: Brijidines are passionate, powerful azatas attuned to the powers of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/azata-brijidine)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

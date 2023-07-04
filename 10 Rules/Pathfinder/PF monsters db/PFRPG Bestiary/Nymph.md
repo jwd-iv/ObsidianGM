@@ -1,7 +1,5 @@
 ---
 File: Nymph
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/nymph
 Group: 
 aliases: 
 Brief: A delicate figure rises from the water, her long ears tapering to points above her head, her beauty painful in its perfection.
@@ -79,6 +77,8 @@ Description: Many have lost their lives in vain search of the beauty of the nymp
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/fey/nymph)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

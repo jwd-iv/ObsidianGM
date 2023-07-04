@@ -1,6 +1,5 @@
 ---
 File: Kech
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: Not quite man nor ape, the kech is a hairless primate that dwells i
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

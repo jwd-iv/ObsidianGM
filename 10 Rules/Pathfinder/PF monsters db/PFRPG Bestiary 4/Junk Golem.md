@@ -1,6 +1,5 @@
 ---
 File: Junk Golem
-Source: PFRPG Bestiary 4
 URL: 
 Group: Golem
 aliases: 
@@ -77,6 +76,8 @@ Description: Junk golems are assembled from trash and spare parts, and often lea
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

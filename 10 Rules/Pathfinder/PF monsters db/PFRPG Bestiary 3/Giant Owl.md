@@ -1,6 +1,5 @@
 ---
 File: Giant Owl
-Source: PFRPG Bestiary 3
 URL: 
 Group: Owl
 aliases: 
@@ -75,6 +74,8 @@ Description: The noble giant owl roosts in the tallest trees or in high caves ne
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

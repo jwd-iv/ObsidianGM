@@ -1,7 +1,5 @@
 ---
 File: Shield Archon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/archon-shield
 Group: Shield
 aliases: 
 Brief: This armored giant is sheathed in metal from head to toe. One arm ends in a spear-like blade, the other in a massive shield.
@@ -75,6 +73,8 @@ Description: Shield archons are the mighty rocks of celestial armies, withstandi
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/archon-shield)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

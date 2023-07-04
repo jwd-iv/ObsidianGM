@@ -1,7 +1,5 @@
 ---
 File: Basidirond
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/plants/basidirond
 Group: 
 aliases: 
 Brief: This strange plant consists of four spidery stalks, long green tendrils, and an inverted bell-shaped cap filled with spores.
@@ -75,6 +73,8 @@ Description: The strange fungal basidirond is a deadly plant monster that feeds 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/plants/basidirond)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

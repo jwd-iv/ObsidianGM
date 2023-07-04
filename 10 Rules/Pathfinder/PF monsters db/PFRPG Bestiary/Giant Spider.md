@@ -1,7 +1,5 @@
 ---
 File: Giant Spider
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/giant-spider
 Group: Spider
 aliases: 
 Brief: A spider the size of a man crawls silently from the depths of its funnel-shaped web.
@@ -71,6 +69,8 @@ Description: The statistics above are for a web-spinning spider. Hunting spiders
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/giant-spider)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

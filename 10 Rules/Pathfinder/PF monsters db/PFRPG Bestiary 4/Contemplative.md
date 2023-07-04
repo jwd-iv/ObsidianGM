@@ -1,6 +1,5 @@
 ---
 File: Contemplative
-Source: PFRPG Bestiary 4
 URL: 
 Group: 
 aliases: 
@@ -69,6 +68,8 @@ Description: Once, the entities that would become known as contemplatives were r
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

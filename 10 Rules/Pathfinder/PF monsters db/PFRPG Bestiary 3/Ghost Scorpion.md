@@ -1,6 +1,5 @@
 ---
 File: Ghost Scorpion
-Source: PFRPG Bestiary 3
 URL: 
 Group: Scorpion
 aliases: 
@@ -71,6 +70,8 @@ Description: So named for their eerie, translucent carapaces, ghost scorpions ar
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

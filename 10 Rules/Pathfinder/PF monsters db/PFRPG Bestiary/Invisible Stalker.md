@@ -1,7 +1,5 @@
 ---
 File: Invisible Stalker
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/invisible-stalker
 Group: 
 aliases: 
 Brief: No true form can be detected, yet a sense of force and hulking malevolence is undeniable in this creature's presence.
@@ -73,6 +71,8 @@ Description: Very little is known about these enigmatic and mysterious creatures
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/invisible-stalker)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Wraith
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/undead/wraith
 Group: 
 aliases: 
 Brief: This ghostly creature is little more than a dark shape with two flickering pinpoints of light where its eyes should be.
@@ -79,6 +77,8 @@ Description: Wraiths are undead creatures born of evil and darkness. They hate l
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/undead/wraith)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

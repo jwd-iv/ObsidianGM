@@ -1,7 +1,5 @@
 ---
 File: Lhaksharut
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-lhaksharut
 Group: Inevitable
 aliases: 
 Brief: This six-armed creature appears to be made of stone. Its lower torso is a collection of whirring rings of metal.
@@ -81,6 +79,8 @@ Description: A typical lhaksharut is a six-armed construct that appears to be ma
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-lhaksharut)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

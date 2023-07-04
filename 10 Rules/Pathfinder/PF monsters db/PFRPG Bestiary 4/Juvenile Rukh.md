@@ -1,6 +1,5 @@
 ---
 File: Juvenile Rukh
-Source: PFRPG Bestiary 4
 URL: 
 Group: Rukh
 aliases: 
@@ -69,6 +68,8 @@ Description: Rukhs are foul-tempered creatures related to rocs, except they rese
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Black Scorpion
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary-overflow/black-scorpion
 Group: Scorpion
 aliases: 
 Brief: This towering scorpion's carapace is as black as coal, and its claws are each as long as a man's body.
@@ -73,6 +71,8 @@ Description: The immense black scorpion is one of the largest desert predators. 
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary-overflow/black-scorpion)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

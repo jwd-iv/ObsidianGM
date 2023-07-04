@@ -1,6 +1,5 @@
 ---
 File: Young Solar Dragon
-Source: PFRPG Bestiary 4
 URL: 
 Group: Outer Dragon
 aliases: 
@@ -82,6 +81,8 @@ Description: Arrogant and proud, solar dragons see themselves as the originators
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

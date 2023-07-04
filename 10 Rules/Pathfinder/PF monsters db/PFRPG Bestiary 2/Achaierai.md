@@ -1,7 +1,5 @@
 ---
 File: Achaierai
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/achaierai
 Group: 
 aliases: 
 Brief: This bird-like beast is mostly head, lunging forward on four scaly legs. Wisps of noxious black vapor trail from its hooked beak.
@@ -71,6 +69,8 @@ Description: An achaierai is a predator and scavenger of the lower planes that l
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/achaierai)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

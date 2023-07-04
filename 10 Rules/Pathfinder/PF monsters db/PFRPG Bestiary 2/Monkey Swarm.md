@@ -1,7 +1,5 @@
 ---
 File: Monkey Swarm
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/primate-monkey-swarm
 Group: Primate
 aliases: 
 Brief: Screeches and bestial calls precede this pack of monkeys, each primate propelling itself forward on calloused knuckles.
@@ -71,6 +69,8 @@ Description: Monkeys sometimes travel in huge colonies of hundreds of individual
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/primate-monkey-swarm)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

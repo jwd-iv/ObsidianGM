@@ -1,7 +1,5 @@
 ---
 File: Trumpet Archon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/trumpet-archon
 Group: Archon
 aliases: 
 Brief: Lithe and beautiful, with skin the color of marble, this being hovers upon powerful, white wings and radiates a sense of serenity.
@@ -82,6 +80,8 @@ Description: Messengers of good deities and mighty celestials, trumpet archons s
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/trumpet-archon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

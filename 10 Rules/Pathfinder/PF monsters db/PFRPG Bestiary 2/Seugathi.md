@@ -1,7 +1,5 @@
 ---
 File: Seugathi
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/seugathi
 Group: 
 aliases: 
 Brief: This worm-like monster has a hideous face of eyes and hooked jaws. It wields a wand and a sword in its twin tentacle tails.
@@ -77,6 +75,8 @@ Description: Seugathi are spawned by the hundreds by a single neothelid that has
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/seugathi)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,6 +1,5 @@
 ---
 File: Coral Golem
-Source: PFRPG Bestiary 4
 URL: 
 Group: Golem
 aliases: 
@@ -73,6 +72,8 @@ Description: Coral golems are constructs made entirely of colonies of living cor
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

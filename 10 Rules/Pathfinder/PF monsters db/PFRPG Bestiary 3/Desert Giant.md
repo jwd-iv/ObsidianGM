@@ -1,6 +1,5 @@
 ---
 File: Desert Giant
-Source: PFRPG Bestiary 3
 URL: 
 Group: Giant
 aliases: 
@@ -73,6 +72,8 @@ Description: Desert giants rove the stark and majestic sands, rarely dwelling in
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

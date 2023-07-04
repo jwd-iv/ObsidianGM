@@ -1,7 +1,5 @@
 ---
 File: Decapus
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/decapus
 Group: 
 aliases: 
 Brief: This swollen cephalopod has ten writhing tentacles and a hideously monstrous face with pale, milky eyes on its bulbous body.
@@ -71,6 +69,8 @@ Description: Named for its resemblance to a 10-armed octopus, the strange decapu
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/decapus)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

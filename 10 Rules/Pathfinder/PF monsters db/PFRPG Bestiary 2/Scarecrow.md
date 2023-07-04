@@ -1,7 +1,5 @@
 ---
 File: Scarecrow
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/scarecrow
 Group: 
 aliases: 
 Brief: It suddenly becomes clear that this is no ordinary pumpkin-headed scarecrow when its eyes glow and it comes to jerky life.
@@ -73,6 +71,8 @@ Description: Animated scarecrows look just like mundane scarecrows until they co
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/scarecrow)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Iathavos
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-lathavos
 Group: Qlippoth
 aliases: 
 Brief: This immense creature has four bat-like wings and a spherical body. Red eyes peer from all sides, and two huge claws dangle below.
@@ -79,6 +77,8 @@ Description: The most terrible of the qlippoth, with the exception of the qlippo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-lathavos)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

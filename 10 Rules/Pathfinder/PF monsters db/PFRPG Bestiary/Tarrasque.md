@@ -1,7 +1,5 @@
 ---
 File: Tarrasque
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/tarrasque
 Group: 
 aliases: 
 Brief: This immense reptilian beast towers over the surroundings like a dinosaur, all teeth and horns and claws and thrashing spiked tail.
@@ -79,6 +77,8 @@ Description: The legendary tarrasque is among the world's most destructive monst
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/tarrasque)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

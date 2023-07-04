@@ -1,7 +1,5 @@
 ---
 File: Riding Dog
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/riding-dog
 Group: Dog
 aliases: 
 Brief: This burly dog is fitted with a small saddle. A low, menacing growl rumbles up from its chest.
@@ -69,6 +67,8 @@ Description: Larger dogs (known to Small races like half lings and gnomes as rid
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/riding-dog)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Nyogoth
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-nyogoth
 Group: Qlippoth
 aliases: 
 Brief: This appears to be a mass of floating intestines tangled around a fanged mouth-the tips of its coils also end in toothy maws.
@@ -73,6 +71,8 @@ Description: The nyogoth's role on the Abyss is that of a scavenger. Essentially
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-nyogoth)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

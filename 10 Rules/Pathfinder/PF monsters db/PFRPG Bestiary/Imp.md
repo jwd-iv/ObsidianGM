@@ -1,7 +1,5 @@
 ---
 File: Imp
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/imp
 Group: Devil
 aliases: 
 Brief: Fiendish wings and a whipping scorpion-like tail lash behind this diminutive, red-skinned nuisance.
@@ -71,6 +69,8 @@ Description: Born directly from the pits of Hell, imps are among the least of th
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/imp)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

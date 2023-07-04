@@ -1,7 +1,5 @@
 ---
 File: Adult Copper Dragon
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-copper/adult-copper-dragon
 Group: Metallic Dragon
 aliases: 
 Brief: Bright, shining copper scales run from the horn-crowned head to the ridged tail of this long-winged dragon.
@@ -90,6 +88,8 @@ Description: This whimsical dragon spends most of its time in combat trying to a
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-metallic-copper/adult-copper-dragon)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

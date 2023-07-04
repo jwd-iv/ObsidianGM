@@ -1,7 +1,5 @@
 ---
 File: Bebilith
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/bebilith
 Group: 
 aliases: 
 Brief: A spider the size of an elephant, this dark blue arachnid rears up on its six hind legs to raise its barbed and razor-edged front claws.
@@ -75,6 +73,8 @@ Description: The Abyss is a terrible place, yet even in this horrific realm ther
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/outsiders/bebilith)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

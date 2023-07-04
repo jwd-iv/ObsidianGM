@@ -1,7 +1,5 @@
 ---
 File: Cloaker
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/cloaker
 Group: 
 aliases: 
 Brief: This ray-like creature opens a toothy maw and leers with glaring red eyes. Behind it whips a menacing tail of segmented bone.
@@ -75,6 +73,8 @@ Description: Resembling hideously evil flying manta rays, cloakers are mysteriou
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/aberrations/cloaker)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

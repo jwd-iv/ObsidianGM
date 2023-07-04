@@ -1,7 +1,5 @@
 ---
 File: Ancient Umbral Dragon
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-umbral
 Group: Primal Dragon
 aliases: 
 Brief: This sleek, dark dragon moves with a disturbing, serpentine grace, its eyes glowing as if lit from within by crimson embers.
@@ -92,6 +90,8 @@ Description: Cruel and sadistic, umbral dragons prefer the taste of undead flesh
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-umbral)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

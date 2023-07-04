@@ -1,7 +1,5 @@
 ---
 File: Flesh Golem
-Source: PFRPG Bestiary
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/flesh-golem
 Group: Golem
 aliases: 
 Brief: A hideous monstrosity crafted from body parts stitched together with thick string, wire, and metal staples lurches to horrific life.
@@ -73,6 +71,8 @@ Description: A flesh golem is a ghoulish collection of stolen humanoid body part
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/flesh-golem)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

@@ -1,7 +1,5 @@
 ---
 File: Kelpie
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/fey/kelpie
 Group: 
 aliases: 
 Brief: This hideous humanoid creature has slimy, transparent skin; webbed, humanoid hands; and a snaggletoothed, horse-like face.
@@ -71,6 +69,8 @@ Description: A kelpie is a deadly shapechanging predator that, in its natural fo
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/fey/kelpie)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

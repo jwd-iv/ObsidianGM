@@ -1,6 +1,5 @@
 ---
 File: Tatzlwyrm
-Source: PFRPG Bestiary 3
 URL: 
 Group: 
 aliases: 
@@ -71,6 +70,8 @@ Description: Tatzlwyrms are thought to be primeval relatives of true dragons, ha
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: PFRPG Bestiary 3
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

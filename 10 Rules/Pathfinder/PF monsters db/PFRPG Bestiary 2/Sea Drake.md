@@ -1,7 +1,5 @@
 ---
 File: Sea Drake
-Source: PFRPG Bestiary 2
-URL: http://www.d20pfsrd.com/bestiary/monster-listings/dragons/drake-sea
 Group: Drake
 aliases: 
 Brief: Not quite sea serpent or dragon, this vicious beast is covered with shiny blue-green scales. Its arms serve as both wings and flippers.
@@ -75,6 +73,8 @@ Description: While obviously the product of draconic inbreeding, the heritage of
 Race: 
 Class: 
 MR: 
+Copyright:
+  Content: '[PFRPG Bestiary 2](http://www.d20pfsrd.com/bestiary/monster-listings/dragons/drake-sea)'
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
