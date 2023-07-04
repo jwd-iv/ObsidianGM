@@ -61,7 +61,12 @@ SpecialAbilities:
     As charm person, 30 feet, Will DC 20 negates. The save DC is Charisma-based.
   Poison (Ex): >
     Bite-injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 1 save. Spells A spirit naga casts spells as a 7th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a spirit naga.
-SpellsKnown: Spells Known (CL 7th) 3rd (5/day)-displacement, fireball (DC 16) 2nd (7/day)-cat's grace, invisibility, summon swarm 1st (7/day)-charm person (DC 14), cure light wounds, divine favor, magic missile, shield of faith 0 (at will)-bleed, daze (DC 13), detect magic, mage hand, open/close, ray of frost, read magic
+SpellsKnown:
+  _: CL 7th
+  3 (5/day): [ displacement, fireball (DC 16) ]
+  2 (7/day): [ cat's grace, invisibility, summon swarm ]
+  1 (7/day): [ charm person (DC 14), cure light wounds, divine favor, magic missile, shield of faith ]
+  0 (at will): [ bleed, daze (DC 13), detect magic, mage hand, open/close, ray of frost, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

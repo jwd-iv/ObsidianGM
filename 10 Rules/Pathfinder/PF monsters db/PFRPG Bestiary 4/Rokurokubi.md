@@ -65,7 +65,15 @@ SpecialAbilities:
     A rokurokubi does not need to sleep and is immune to all sleep effects.
   Rokurokubi's Curse (Su): >
     Bite-injury; save Will DC 23; frequency 1 day; effect 1 Cha damage and permanently silenced after 4 Cha damage. Fully healing the Cha damage cures the silence. The save DC is Charisma-based.  Spells A rokurokubi casts spells as a 12th-level sorcerer.
-SpellsKnown: Sorcerer Spells Known (CL 12th; concentration +17)   6th (3)-permanent image (DC 21)   5th (6)-feeblemind (DC 20), nightmare (DC 20)   4th (7)-charm monster (DC 19), confusion (DC 19), locate creature   3rd (7)-dispel magic, fly, keen edge, wind wall   2nd (7)-ghoul touch (DC 17), invisibility, knock, touch of idiocy   1st (8)-charm person (DC 16), disguise self, obscuring mist, shocking grasp, sleep (DC 16)  0 (at will)-arcane mark, detect magic, detect poison, ghost sound (DC 15), mage hand, message, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: Sorcerer CL 12th; concentration +17
+  6 (3): [ permanent image (DC 21) ]
+  5 (6): [ feeblemind (DC 20), nightmare (DC 20) ]
+  4 (7): [ charm monster (DC 19), confusion (DC 19), locate creature ]
+  3 (7): [ dispel magic, fly, keen edge, wind wall ]
+  2 (7): [ ghoul touch (DC 17), invisibility, knock, touch of idiocy ]
+  1 (8): [ charm person (DC 16), disguise self, obscuring mist, shocking grasp, sleep (DC 16) ]
+  0 (at will): [ arcane mark, detect magic, detect poison, ghost sound (DC 15), mage hand, message, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

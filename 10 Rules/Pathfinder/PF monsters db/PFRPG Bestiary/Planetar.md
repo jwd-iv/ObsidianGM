@@ -58,7 +58,17 @@ Languages: Celestial, Draconic, Infernal; truespeech
 SQ: change shape (alter self )
 SpecialAbilities: Spells Planetars cast divine spells as 16th-level clerics. They do not gain access to domains or other cleric abilities.
 SpellsKnown: 
-SpellsPrepared: Spells Prepared (CL 16th) 8th-earthquake (DC 25), fire storm (DC 25) 7th-holy word (DC 24), regenerate (2) 6th-banishment (DC 23), greater dispel magic, heal, mass cure moderate wounds (DC 23) 5th-break enchantment, dispel evil (2, DC 22), plane shift (DC 22), righteous might 4th-death ward, dismissal (DC 21), neutralize poison (DC 21), summon monster IV 3rd-cure serious wounds (2), daylight, invisibility purge, summon monster III, wind wall 2nd-align weapon (2), bear's endurance (2), cure moderate wounds (2), eagle's splendor 1st-bless (2), cure light wounds (4), shield of faith 0 (at will)-detect magic, purify food and drink, stabilize, virtue
+SpellsPrepared:
+  _: CL 16th
+  8th: [ earthquake (DC 25), fire storm (DC 25) ]
+  7th: [ holy word (DC 24), regenerate (2) ]
+  6th: [ banishment (DC 23), greater dispel magic, heal, mass cure moderate wounds (DC 23) ]
+  5th: [ break enchantment, dispel evil (2, DC 22), plane shift (DC 22), righteous might ]
+  4th: [ death ward, dismissal (DC 21), neutralize poison (DC 21), summon monster IV ]
+  3rd: [ cure serious wounds (2), daylight, invisibility purge, summon monster III, wind wall ]
+  2nd: [ align weapon (2), bear's endurance (2), cure moderate wounds (2), eagle's splendor ]
+  1st: [ bless (2), cure light wounds (4), shield of faith ]
+  0 (at will): [ detect magic, purify food and drink, stabilize, virtue ]
 SpellDomains: 
 Bloodline: 
 Environment: any (good plane)

@@ -67,7 +67,12 @@ SpecialAbilities:
     A great wyrm sovereign dragon can counterspell once per round as an immediate action. It need not know the spell it is countering, but can instead expend any spell that is one level higher to automatically counter the spell.
   Violent Retort (Ex): >
     When a young or older sovereign dragon takes damage from a melee attack critical hit, it can, as an immediate action, make a claw or tail slap attack against the creature that made the critical hit.
-SpellsKnown: Spells Known (CL 7th; concentration +12)  3rd (5/day)-lightning bolt (DC 18), suggestion (DC 18)  2nd (7/day)-detect thoughts (DC 17), hideous laughter (DC 17), scorching ray  1st (8/day)-charm person (DC 16), chill touch (DC 16), color spray (DC 16), endure elements, true strike  0 (at will)-daze (DC 15), detect magic, flare (DC 15), ghost sound, message, read magic, resistance
+SpellsKnown:
+  _: CL 7th; concentration +12
+  3 (5/day): [ lightning bolt (DC 18), suggestion (DC 18) ]
+  2 (7/day): [ detect thoughts (DC 17), hideous laughter (DC 17), scorching ray ]
+  1 (8/day): [ charm person (DC 16), chill touch (DC 16), color spray (DC 16), endure elements, true strike ]
+  0 (at will): [ daze (DC 15), detect magic, flare (DC 15), ghost sound, message, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

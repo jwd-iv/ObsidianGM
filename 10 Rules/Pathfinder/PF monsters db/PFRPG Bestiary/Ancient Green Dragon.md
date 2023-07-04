@@ -71,7 +71,15 @@ SpecialAbilities:
     A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
   Woodland Stride (Ex): >
     A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally. Age Category S pecial Abilities Caster Level Wyrmling Immunity to acid, water breathing - Very young Woodland stride - Young Entangle - Juvenile Frightful presence, charm person 1st Young adult DR 5/magic, spell resistance 3rd Adult Trackless step, suggestion 5th Mature adult DR 10/magic 7th Old Camouflage, plant growth 9th Very old DR 15/magic 11th Ancient Miasma, dominate person 13th Wyrm DR 20/magic 15th Great wyrm Awaken treants, command plants 17th
-SpellsKnown: Spells Known (CL 13th) 6th (4/day)-disintegrate (DC 21), true seeing 5th (7/day)-polymorph, summon monster V, teleport 4th (7/day)-dimension door, ice storm, scrying (DC 19), stoneskin 3rd (7/day)-dispel magic, displacement, fireball (DC 18), haste 2nd (7/day)-alter self, detect thoughts (DC 17), locate object, mirror image, see invisibility 1st (7/day)-magic missile, shield, silent image (DC 16), summon monster I, ventriloquism (DC 16) 0 (at will)-dancing lights, detect magic, ghost sound, mage hand, message, prestidigitation
+SpellsKnown:
+  _: CL 13th
+  6 (4/day): [ disintegrate (DC 21), true seeing ]
+  5 (7/day): [ polymorph, summon monster V, teleport ]
+  4 (7/day): [ dimension door, ice storm, scrying (DC 19), stoneskin ]
+  3 (7/day): [ dispel magic, displacement, fireball (DC 18), haste ]
+  2 (7/day): [ alter self, detect thoughts (DC 17), locate object, mirror image, see invisibility ]
+  1 (7/day): [ magic missile, shield, silent image (DC 16), summon monster I, ventriloquism (DC 16) ]
+  0 (at will): [ dancing lights, detect magic, ghost sound, mage hand, message, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

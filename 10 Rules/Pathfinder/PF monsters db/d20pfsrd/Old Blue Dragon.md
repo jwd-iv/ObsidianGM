@@ -65,7 +65,13 @@ SpecialAbilities:
     An old blue dragon can make itself appear to be in two places at once as a free action for 20 rounds per day. This ability functions as project image but the dragon can use its breath weapon through the mirage.
   Sound Imitation (Ex): >
     A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
-SpellsKnown: Spells Known (CL 9th; concentration +13)  4th (5/day)-dimension door, enervation  3rd (7/day)-dispel magic, haste, vampiric touch  2nd (7/day)-darkness, invisibility, resist energy, shatter  1st (7/day)-alarm, mage armor, shield, true strike, unseen servant  0 (at will)-arcane mark, bleed (DC 14), detect magic, light, mage hand, mending, read magic, resistance
+SpellsKnown:
+  _: CL 9th; concentration +13
+  4 (5/day): [ dimension door, enervation ]
+  3 (7/day): [ dispel magic, haste, vampiric touch ]
+  2 (7/day): [ darkness, invisibility, resist energy, shatter ]
+  1 (7/day): [ alarm, mage armor, shield, true strike, unseen servant ]
+  0 (at will): [ arcane mark, bleed (DC 14), detect magic, light, mage hand, mending, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

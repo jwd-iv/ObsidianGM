@@ -67,7 +67,16 @@ SpecialAbilities:
     Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon's cone breath weapon. This line deals bludgeoning damage.
   Unfettered Swimmer (Su): >
     A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon's swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.
-SpellsKnown: Spells Known (CL 15th; concentration +22)  7th (5/day)-insanity (DC 24), plane shift (DC 24)  6th (7/day)-chain lightning (DC 23), forceful hand, freezing sphere (DC 23)  5th (7/day)-cone of cold (DC 22), dream, mind fog (DC 22), persistent image (DC 22)  4th (7/day)-black tentacles, confusion (DC 21), lesser geas (DC 21), rainbow pattern (DC 21)  3rd (8/day)-haste, hold person (DC 20), lightning bolt (DC 20), sleet storm  2nd (8/day)-gust of wind (DC 19), mirror image, obscure object, scare (DC 19), see invisibility  1st (8/day)-charm person (DC 18), chill touch, color spray (DC 18), expeditious retreat, sleep  0 (at will)-acid splash, daze (DC 17), detect magic, ghost sound, mage hand, message, ray of frost, read magic, resistance
+SpellsKnown:
+  _: CL 15th; concentration +22
+  7 (5/day): [ insanity (DC 24), plane shift (DC 24) ]
+  6 (7/day): [ chain lightning (DC 23), forceful hand, freezing sphere (DC 23) ]
+  5 (7/day): [ cone of cold (DC 22), dream, mind fog (DC 22), persistent image (DC 22) ]
+  4 (7/day): [ black tentacles, confusion (DC 21), lesser geas (DC 21), rainbow pattern (DC 21) ]
+  3 (8/day): [ haste, hold person (DC 20), lightning bolt (DC 20), sleet storm ]
+  2 (8/day): [ gust of wind (DC 19), mirror image, obscure object, scare (DC 19), see invisibility ]
+  1 (8/day): [ charm person (DC 18), chill touch, color spray (DC 18), expeditious retreat, sleep ]
+  0 (at will): [ acid splash, daze (DC 17), detect magic, ghost sound, mage hand, message, ray of frost, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

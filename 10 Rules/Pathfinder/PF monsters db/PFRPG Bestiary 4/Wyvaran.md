@@ -57,7 +57,10 @@ RacialMods:
 Languages: Common, Draconic
 SQ: judgment 1/day, monster lore +3, stern gaze
 SpecialAbilities: 
-SpellsKnown: Inquisitor Spells Known (CL 1st; concentration +3)  1st (2/day)-cause fear (DC 15), shield of faith  0 (at will)-acid splash, daze (DC 14), disrupt undead, guidance
+SpellsKnown:
+  _: Inquisitor CL 1st; concentration +3
+  1 (2/day): [ cause fear (DC 15), shield of faith ]
+  0 (at will): [ acid splash, daze (DC 14), disrupt undead, guidance ]
 SpellsPrepared: 
 SpellDomains: Air
 Bloodline: 

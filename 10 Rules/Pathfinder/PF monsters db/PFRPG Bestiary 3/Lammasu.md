@@ -57,7 +57,12 @@ RacialMods:
 Languages: Celestial, Common
 SQ: 
 SpecialAbilities: Spells A lammasu casts spells as a 7th-level oracle (Advanced Player's Guide 44), but does not gain any other class abilities possessed by an oracle. It ignores all divine focus material components for spells it casts.
-SpellsKnown: Spells Known (CL 7th; concentration +9)   3rd (4/day)-cure serious wounds, searing light   2nd (7/day)-cure moderate wounds, lesser restoration, resist energy   1st (7/day)-bless, command (DC 13), cure light wounds, detect evil, divine favor   0 (at will)-detect magic, detect poison, guidance, mending, purify food and drink, resistance, stabilize
+SpellsKnown:
+  _: CL 7th; concentration +9
+  3 (4/day): [ cure serious wounds, searing light ]
+  2 (7/day): [ cure moderate wounds, lesser restoration, resist energy ]
+  1 (7/day): [ bless, command (DC 13), cure light wounds, detect evil, divine favor ]
+  0 (at will): [ detect magic, detect poison, guidance, mending, purify food and drink, resistance, stabilize ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

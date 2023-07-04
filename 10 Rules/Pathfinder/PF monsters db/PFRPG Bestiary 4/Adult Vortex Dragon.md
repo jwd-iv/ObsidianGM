@@ -67,7 +67,12 @@ SpecialAbilities:
     An adult or older vortex dragon can strike with its bite through a rift in space. This allows it to make its bite attack against a target anywhere within the radius of its alien presence as long as the dragon can see the creature. This doesn't apply to attacks of opportunity.
   Galactic Emissary (Su): >
     A young or older vortex dragon halves the time of any starflight journey. In addition, it's immune to any effect that bars extradimensional travel.
-SpellsKnown: Sorcerer Spells Known (CL 7th; concentration +12)  3rd (5/day)-displacement, protection from energy  2nd (7/day)-mirror image, resist energy, scorching ray  1st (8/day)-comprehend languages, feather fall, magic missile, obscuring mist, true strike  0 (at will)-detect magic, light, message, read magic, 3 more
+SpellsKnown:
+  _: Sorcerer CL 7th; concentration +12
+  3 (5/day): [ displacement, protection from energy ]
+  2 (7/day): [ mirror image, resist energy, scorching ray ]
+  1 (8/day): [ comprehend languages, feather fall, magic missile, obscuring mist, true strike ]
+  0 (at will): [ detect magic, light, message, read magic, 3 more ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

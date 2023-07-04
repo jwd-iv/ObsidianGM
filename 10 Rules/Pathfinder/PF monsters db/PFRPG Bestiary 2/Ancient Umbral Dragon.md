@@ -71,7 +71,16 @@ SpecialAbilities:
     Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
   Spell-Like Abilities (Sp): >
     An umbral dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Young-darkness; Juvenile- vampiric touch; Adult-shadow walk; Old-project image; Ancient-finger of death (3/day), Great wyrm-shades.
-SpellsKnown: Spells Known (CL 15th; concentration +22)  7th (5/day)-destruction (DC 24), limited wish  6th (7/day)-harm (DC 23), mislead, veil (DC 23)  5th (7/day)-greater command (DC 22), slay living (DC 22), teleport, unhallow  4th (7/day)-enervation, inflict critical wounds (DC 21), phantasmal killer (DC 21), unholy blight (DC 21)  3rd (8/day)-dispel magic, haste, inflict serious wounds (DC 20), lightning bolt (DC 20)  2nd (8/day)-alter self, blur, command undead (DC 19), invisibility, web (DC 17)  1st (8/day)-inflict light wounds (DC 18), grease (DC 18), magic missile, reduce person (DC 18), shield  0 (at will)-acid splash, bleed (DC 17), detect magic, detect poison, disrupt undead (DC 17), ghost sound, mage hand, ray of frost, read magic
+SpellsKnown:
+  _: CL 15th; concentration +22
+  7 (5/day): [ destruction (DC 24), limited wish ]
+  6 (7/day): [ harm (DC 23), mislead, veil (DC 23) ]
+  5 (7/day): [ greater command (DC 22), slay living (DC 22), teleport, unhallow ]
+  4 (7/day): [ enervation, inflict critical wounds (DC 21), phantasmal killer (DC 21), unholy blight (DC 21) ]
+  3 (8/day): [ dispel magic, haste, inflict serious wounds (DC 20), lightning bolt (DC 20) ]
+  2 (8/day): [ alter self, blur, command undead (DC 19), invisibility, web (DC 17) ]
+  1 (8/day): [ inflict light wounds (DC 18), grease (DC 18), magic missile, reduce person (DC 18), shield ]
+  0 (at will): [ acid splash, bleed (DC 17), detect magic, detect poison, disrupt undead (DC 17), ghost sound, mage hand, ray of frost, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

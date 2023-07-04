@@ -69,7 +69,10 @@ SpecialAbilities:
     A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
   Spell-Like Abilities (Sp): >
     A red dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Young-detect magic; Juvenile-pyrotechnics; Adult-suggestion; Old-wall of fire; Ancient-find the path; Great wyrm-discern location. Age Category S pecial Abilities Caster Level Wyrmling Fire subtype - Very young Smoke vision - Young Detect magic 1st Juvenile Frightful presence, pyrotechnics 3rd Young adult DR 5/magic, spell resistance 5th Adult Fire aura, suggestion 7th Mature adult DR 10/magic 9th Old Manipulate flames, wall of fire 11th Very old DR 15/magic 13th Ancient Melt stone, find the path 15th Wyrm DR 20/magic 17th Great wyrm Incinerate, discern location 19th
-SpellsKnown: Spells Known (CL 1st) 1st (3/day)-shield, true strike 0 (at will)-mage hand, message, prestidigitation, read magic
+SpellsKnown:
+  _: CL 1st
+  1 (3/day): [ shield, true strike ]
+  0 (at will): [ mage hand, message, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

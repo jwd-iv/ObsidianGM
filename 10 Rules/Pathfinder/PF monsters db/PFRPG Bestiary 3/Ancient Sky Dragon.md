@@ -69,7 +69,16 @@ SpecialAbilities:
     Any flying creature damaged by the breath weapon of an ancient or older sky dragon must make a Fortitude save with the same DC as the sky dragon's breath weapon or lose the ability to fly for 1d4 rounds.
   Primal Lightning (Su): >
     An old or older sky dragon's breath weapon can affect creatures normally immune or resistant to electricity damage. A creature immune to electricity damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures' electricity resistance is treated as 10 less than normal.
-SpellsKnown: Spells Known (CL 15th; concentration +22)  7th (5/day)-forcecage (DC 24), mass hold person (DC 24)  6th (7/day)-acid fog, chain lightning (DC 23), legend lore  5th (7/day)-break enchantment, cloudkill (DC 22), teleport  4th (7/day)-dimension door, greater invisibility, ice storm, rainbow pattern (DC 21)  3rd (8/day)-blink, lightning bolt (DC 20), sleet storm (DC 20), wind wall  2nd (8/day)-daze monster (DC 19), fog cloud, glitterdust (DC 19), invisibility, resist energy  1st (8/day)-endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp  0 (at will)-dancing lights, daze (DC 17), detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic
+SpellsKnown:
+  _: CL 15th; concentration +22
+  7 (5/day): [ forcecage (DC 24), mass hold person (DC 24) ]
+  6 (7/day): [ acid fog, chain lightning (DC 23), legend lore ]
+  5 (7/day): [ break enchantment, cloudkill (DC 22), teleport ]
+  4 (7/day): [ dimension door, greater invisibility, ice storm, rainbow pattern (DC 21) ]
+  3 (8/day): [ blink, lightning bolt (DC 20), sleet storm (DC 20), wind wall ]
+  2 (8/day): [ daze monster (DC 19), fog cloud, glitterdust (DC 19), invisibility, resist energy ]
+  1 (8/day): [ endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp ]
+  0 (at will): [ dancing lights, daze (DC 17), detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

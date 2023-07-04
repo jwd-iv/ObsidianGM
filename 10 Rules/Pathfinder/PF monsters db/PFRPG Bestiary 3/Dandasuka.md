@@ -57,7 +57,10 @@ RacialMods: +4 Bluff, +8 Disguise
 Languages: Common, Infernal, Undercommon
 SQ: change shape (any humanoid; alter self )
 SpecialAbilities: Spells A dandasuka casts arcane spells as a 2nd-level sorcerer.
-SpellsKnown: Spells Known (CL 2nd; concentration +4)   1st (5/day)-charm person (DC 13), ventriloquism (DC 13)   0 (at will)-bleed (DC 12), daze (DC 12), detect magic, ghost sound (DC 12), mage hand
+SpellsKnown:
+  _: CL 2nd; concentration +4
+  1 (5/day): [ charm person (DC 13), ventriloquism (DC 13) ]
+  0 (at will): [ bleed (DC 12), daze (DC 12), detect magic, ghost sound (DC 12), mage hand ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

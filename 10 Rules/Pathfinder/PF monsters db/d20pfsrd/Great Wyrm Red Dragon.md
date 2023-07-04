@@ -67,7 +67,18 @@ SpecialAbilities:
     An ancient or older red dragon can use its breath weapon to melt rock at a range of 100 feet, affecting a 5-foot-radius area per age category. The area becomes lava to a depth of 1 foot. Any creature in contact with the lava takes 20d6 points of fire damage on the first round, 10d6 on the second, and none thereafter as the lava hardens and cools. If used on a wall or ceiling, treat this ability as an avalanche that deals fire damage.
   Smoke Vision (Ex): >
     A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
-SpellsKnown: Spells Known (CL 19th; concentration +25)  9th (4/day)-time stop, weird  8th (6/day)-greater shout, prismatic wall, screen  7th (6/day)-limited wish, mass hold person, spell turning  6th (7/day)-antimagic field, contingency, greater dispel magic  5th (7/day)-polymorph, telekinesis (DC 21), teleport, wall of force  4th (7/day)-fear (DC 20), fire shield, greater invisibility, stoneskin  3rd (7/day)-dispel magic, displacement, haste, tongues  2nd (8/day)-alter self, detect thoughts, misdirection, resist energy, see invisibility  1st (8/day)-alarm, grease (DC 17), magic missile, shield, true strike  0 (at will)-arcane mark, bleed, light, magehand, mending, message, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: CL 19th; concentration +25
+  9 (4/day): [ time stop, weird ]
+  8 (6/day): [ greater shout, prismatic wall, screen ]
+  7 (6/day): [ limited wish, mass hold person, spell turning ]
+  6 (7/day): [ antimagic field, contingency, greater dispel magic ]
+  5 (7/day): [ polymorph, telekinesis (DC 21), teleport, wall of force ]
+  4 (7/day): [ fear (DC 20), fire shield, greater invisibility, stoneskin ]
+  3 (7/day): [ dispel magic, displacement, haste, tongues ]
+  2 (8/day): [ alter self, detect thoughts, misdirection, resist energy, see invisibility ]
+  1 (8/day): [ alarm, grease (DC 17), magic missile, shield, true strike ]
+  0 (at will): [ arcane mark, bleed, light, magehand, mending, message, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

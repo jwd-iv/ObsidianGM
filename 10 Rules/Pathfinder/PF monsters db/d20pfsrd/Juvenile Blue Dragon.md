@@ -61,7 +61,10 @@ SpecialAbilities:
     A blue dragon can cast create water at will (CL 12). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC 20) or be destroyed.
   Sound Imitation (Ex): >
     A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
-SpellsKnown: Spells Known (CL 1st; concentration +3)  1st (4/day)-mage armor, true strike  0 (at will)-detect magic, mage hand, read magic, resistance
+SpellsKnown:
+  _: CL 1st; concentration +3
+  1 (4/day): [ mage armor, true strike ]
+  0 (at will): [ detect magic, mage hand, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

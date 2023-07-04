@@ -41,7 +41,7 @@ Melee: bite +39 (6d6+18/19-20 plus grab), 2 claws +39 (3d6+18), tail slap +34 (4
 Reach: 20 ft.
 Ranged: water jet +20 (4d8+18/19-20 plus stun and push)
 SpecialAttacks: capsize (DC 25), fast swallow, push (water jet, 20 ft.), rend (2 claws, 3d6+18), ruinous, swallow whole (4d6+27 bludgeoning, AC 28, 39 hp)
-SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +22)   3/day-tsunami (DC 21)^[PFRPG Advanced Player's Guide]
+SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +22)   3/day-tsunami (DC 21)
 STR: 47
 DEX: 8
 CON: 27
@@ -54,8 +54,8 @@ CMD: 64 (66 vs. sunder)
 Feats: Ability Focus (water jet), Cleave, Great Cleave, Greater Sunder, Greater Vital Strike, Improved Critical (bite, water jet), Improved Iron Will, Improved Sunder, Improved Vital Strike, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception), Vital Strike
 Skills: Perception +34, Stealth -13, Survival +18, Swim +30
 RacialMods: +10 Perception
-Languages: 
-SQ: amphibious  Language Aklo (cannot speak)
+Languages: Aklo (cannot speak)
+SQ: amphibious
 SpecialAbilities:
   Water Jet (Su): >
     A thalassic behemoth can blast water from its blowhole with surprising force and accuracy. This water jet has a range of 240 feet with no range increment. A target hit by the water jet is subject to the behemoth's push ability and must succeed at a DC 34 Fortitude save or be stunned  for 1d4+1 rounds. The save DC is Constitution-based.

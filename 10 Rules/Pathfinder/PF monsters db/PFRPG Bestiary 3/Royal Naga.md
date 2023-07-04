@@ -61,7 +61,13 @@ SpecialAbilities:
     A royal naga can use this ability to take one of five specific humanoid forms. Each of these forms has a unique appearance (such as a female dwarf with red hair, an elderly male human, and so on) and the naga can only use this ability to assume these five forms. The naga can still use its dual gaze in humanoid form.
   Dual Gaze (Su): >
     A royal naga has a piercing stare capable of crippling those that meet its gazes. The creature has two gaze attacks and can switch between them as a move action. One gaze causes those that succumb to it to become permanently blinded, while the other causes those that succumb to be permanently deafened. A DC 21 Fortitude save negates the effects of either gaze; otherwise, the effects are permanent until cured. Royal nagas generally prefer to keep their deafening gaze active, switching to the blindness gaze once combat begins and some of their foes have already been deafened, since those who are blinded can no longer be harmed by gaze attacks. The save DC is Charisma-based.  Spells A royal naga casts spells as a 9th-level sorcerer.
-SpellsKnown: Spells Known (CL 9th; concentration +13)  4th (5/day)-arcane eye, charm monster (DC 18)  3rd (7/day)-blink, dispel magic, suggestion (DC 17)  2nd (7/day)-enthrall (DC 16), hold person (DC 16), invisibility, scorching ray  1st (7/day)-charm person (DC 15), mage armor, magic missile, ray of enfeeblement (DC 15), shield  0 (at will)-daze (DC 14), detect magic, flare (DC 14), mage hand, message, open/close, read magic, touch of fatigue
+SpellsKnown:
+  _: CL 9th; concentration +13
+  4 (5/day): [ arcane eye, charm monster (DC 18) ]
+  3 (7/day): [ blink, dispel magic, suggestion (DC 17) ]
+  2 (7/day): [ enthrall (DC 16), hold person (DC 16), invisibility, scorching ray ]
+  1 (7/day): [ charm person (DC 15), mage armor, magic missile, ray of enfeeblement (DC 15), shield ]
+  0 (at will): [ daze (DC 14), detect magic, flare (DC 14), mage hand, message, open/close, read magic, touch of fatigue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

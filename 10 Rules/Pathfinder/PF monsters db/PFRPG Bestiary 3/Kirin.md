@@ -57,7 +57,12 @@ RacialMods:
 Languages: Abyssal, Auran, Celestial, Common, Draconic; telepathy 100 ft.
 SQ: 
 SpecialAbilities: Spells A kirin casts spells as a 6th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a kirin, meaning that the creature does not need a divine focus to cast them.
-SpellsKnown: Spells Known (CL 6th; concentration +12)   3rd (4/day)-lightning bolt (DC 19)   2nd (7/day)-lesser restoration, scorching ray   1st (8/day)-color spray (DC 17), cure light wounds, disguise self, remove fear, sanctuary (DC 17)   0 (at will)-arcane mark, create water, detect magic, guidance, mage hand, mending, stabilize
+SpellsKnown:
+  _: CL 6th; concentration +12
+  3 (4/day): [ lightning bolt (DC 19) ]
+  2 (7/day): [ lesser restoration, scorching ray ]
+  1 (8/day): [ color spray (DC 17), cure light wounds, disguise self, remove fear, sanctuary (DC 17) ]
+  0 (at will): [ arcane mark, create water, detect magic, guidance, mage hand, mending, stabilize ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

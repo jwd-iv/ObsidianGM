@@ -73,7 +73,16 @@ SpecialAbilities:
     A juvenile or older copper dragon receives a +1 bonus per age categroy on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
   Uncanny Dodge (Ex): >
     A young or older copper dragon is always looking out for an ambush. He can never be caught flat-footed. This ability functions like the rogue ability of the same name. Age Category S pecial Abilities C aster Level Wyrmling Immunity to acid, climb stone, - slow breath Very young Grease - Young Uncanny dodge 1st Juvenile Trap master, hideous laughter 3rd Young adult DR 5/magic, spell resistance 5th Adult Frightful presence, stone shape 7th Mature adult DR 10/magic 9th Old Slow aura, transmute rock/mud 11th Very old DR 15/magic 13th Ancient Mass laughter, wall of stone 15th Wyrm DR 20/magic 17th Great wyrm Deadly joke, move earth 19th
-SpellsKnown: Spells Known (CL 15th) 7th (4/day)-reverse gravity, teleport object (DC 23) 6th (7/day)-antimagic field, mislead, programmed image (DC 23) 5th (7/day)-mind fog (DC 21), polymorph, sending, teleport 4th (7/day)-confusion, rainbow pattern, stone shape, stoneskin 3rd (7/day)-dispel magic, haste, suggestion (DC 19), tongues 2nd (7/day)-glitterdust (DC 18), invisibility, phantom trap, pyrotechnics, see invisibility 1st (8/day)-expeditious retreat, magic aura, obscuring mist, shield, silent image (DC 18) 0 (at will)-dancing lights, detect magic, ghost sound (DC 17), light, mage hand, message, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: CL 15th
+  7 (4/day): [ reverse gravity, teleport object (DC 23) ]
+  6 (7/day): [ antimagic field, mislead, programmed image (DC 23) ]
+  5 (7/day): [ mind fog (DC 21), polymorph, sending, teleport ]
+  4 (7/day): [ confusion, rainbow pattern, stone shape, stoneskin ]
+  3 (7/day): [ dispel magic, haste, suggestion (DC 19), tongues ]
+  2 (7/day): [ glitterdust (DC 18), invisibility, phantom trap, pyrotechnics, see invisibility ]
+  1 (8/day): [ expeditious retreat, magic aura, obscuring mist, shield, silent image (DC 18) ]
+  0 (at will): [ dancing lights, detect magic, ghost sound (DC 17), light, mage hand, message, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

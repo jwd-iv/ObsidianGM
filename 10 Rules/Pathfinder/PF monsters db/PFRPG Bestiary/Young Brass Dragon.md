@@ -71,7 +71,10 @@ SpecialAbilities:
     A brass dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Very young-speak with animals; Juvenile- endure elements; Adult-suggestion; Old-control winds; Ancient-control weather; Great wyrm-whirlwind.
   Summon Djinni (Sp): >
     This ability, usable by a great wyrm brass dragon once per day, works like a summon monster spell, except that it summons one noble djinni. This ability is the equivalent of a 9th-level spell. Age Category S pecial Abilities C aster Level Wyrmling Fire subtype, sleep breath - Very young speak with animals - Young Move sand 1st Juvenile Desert wind, endure elements 3rd Young adult DR 5/magic, spell resistance 5th Adult frightful presence, suggestion 7th Mature adult DR 10/magic 9th Old Fire aura, control winds 11th Very old DR 15/magic 13th Ancient Sandstorm, control weather 15th Wyrm DR 20/magic 17th Great wyrm Summon djinni, whirlwind 19th
-SpellsKnown: Spells Known (CL 1st) 1st (4/day)-charm person (DC 13), comprehend languages 0 (at will)-dancing lights, detect magic, mage hand, message
+SpellsKnown:
+  _: CL 1st
+  1 (4/day): [ charm person (DC 13), comprehend languages ]
+  0 (at will): [ dancing lights, detect magic, mage hand, message ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

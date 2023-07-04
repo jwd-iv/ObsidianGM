@@ -63,7 +63,12 @@ SpecialAbilities:
     Dark nagas are immune to any form of mind reading, such as that granted by detect thoughts. This ability also grants a +2 racial bonus on all saves against charm effects.
   Poison (Ex): >
     Sting-injury; save Fort DC 19; frequency 1 round; effect sleep for 2d4 minutes; cure 1 save. Spells Dark nagas cast spells as 7th-level sorcerers.
-SpellsKnown: Spells Known (CL 7th) 3rd (5/day)-displacement, lightning bolt (DC 16) 2nd (7/day)-cat's grace, invisibility, scorching ray 1st (7/day)-expeditious retreat, magic missile, ray of enfeeblement (DC 14), shield, silent image 0 (at will)-daze, detect magic, light, mage hand, open/close, ray of frost, read magic
+SpellsKnown:
+  _: CL 7th
+  3 (5/day): [ displacement, lightning bolt (DC 16) ]
+  2 (7/day): [ cat's grace, invisibility, scorching ray ]
+  1 (7/day): [ expeditious retreat, magic missile, ray of enfeeblement (DC 14), shield, silent image ]
+  0 (at will): [ daze, detect magic, light, mage hand, open/close, ray of frost, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

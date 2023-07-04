@@ -71,7 +71,16 @@ SpecialAbilities:
     A brass dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Very young-speak with animals; Juvenile- endure elements; Adult-suggestion; Old-control winds; Ancient-control weather; Great wyrm-whirlwind.
   Summon Djinni (Sp): >
     This ability, usable by a great wyrm brass dragon once per day, works like a summon monster spell, except that it summons one noble djinni. This ability is the equivalent of a 9th-level spell. Age Category S pecial Abilities C aster Level Wyrmling Fire subtype, sleep breath - Very young speak with animals - Young Move sand 1st Juvenile Desert wind, endure elements 3rd Young adult DR 5/magic, spell resistance 5th Adult frightful presence, suggestion 7th Mature adult DR 10/magic 9th Old Fire aura, control winds 11th Very old DR 15/magic 13th Ancient Sandstorm, control weather 15th Wyrm DR 20/magic 17th Great wyrm Summon djinni, whirlwind 19th
-SpellsKnown: Spells Known (CL 15th) 7th (4/day)-greater teleport, power word blind 6th (6/day)-forceful hand, geas, greater dispel magic 5th (7/day)-contact other plane, dominate person (DC 22), mirage arcana, prying eyes 4th (7/day)-charm monster (DC 21), confusion (DC 21), dimensional anchor, locate creature 3rd (7/day)-displacement, heroism, hold person (DC 20), tongues 2nd (7/day)-alter self, detect thoughts (DC 17), locate object, resist energy, see invisibility 1st (8/day)-alarm, charm person (DC 18), protection from evil, shield, ventriloquism 0 (at will)-arcane mark, dancing lights, dispell magic, detect poison, ghost sound (DC 15), mage hand, message, prestidigitation, read magic
+SpellsKnown:
+  _: CL 15th
+  7 (4/day): [ greater teleport, power word blind ]
+  6 (6/day): [ forceful hand, geas, greater dispel magic ]
+  5 (7/day): [ contact other plane, dominate person (DC 22), mirage arcana, prying eyes ]
+  4 (7/day): [ charm monster (DC 21), confusion (DC 21), dimensional anchor, locate creature ]
+  3 (7/day): [ displacement, heroism, hold person (DC 20), tongues ]
+  2 (7/day): [ alter self, detect thoughts (DC 17), locate object, resist energy, see invisibility ]
+  1 (8/day): [ alarm, charm person (DC 18), protection from evil, shield, ventriloquism ]
+  0 (at will): [ arcane mark, dancing lights, dispell magic, detect poison, ghost sound (DC 15), mage hand, message, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

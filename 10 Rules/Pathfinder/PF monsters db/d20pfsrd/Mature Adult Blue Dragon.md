@@ -63,7 +63,12 @@ SpecialAbilities:
     A mature adult blue dragon is surrounded by an aura of electricity. Creatures within 5 feet take 1d6 points of electricity damage at the beginning of the dragon's turn.
   Sound Imitation (Ex): >
     A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
-SpellsKnown: Spells Known (CL 7th; concentration +10)  3rd (5/day)-dispel magic, vampiric touch  2nd (7/day)-darkness, invisibility, resist energy  1st (7/day)-alarm, mage armor, shield, true strike, unseen servant  0 (at will)-arcane mark, bleed (DC 13), detect magic, mage hand, mending, read magic, resistance
+SpellsKnown:
+  _: CL 7th; concentration +10
+  3 (5/day): [ dispel magic, vampiric touch ]
+  2 (7/day): [ darkness, invisibility, resist energy ]
+  1 (7/day): [ alarm, mage armor, shield, true strike, unseen servant ]
+  0 (at will): [ arcane mark, bleed (DC 13), detect magic, mage hand, mending, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -61,7 +61,12 @@ SpecialAbilities:
     A lamia matriarch casts spells as a 6th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a lamia matriarch.
   Wisdom Drain (Su): >
     A lamia matriarch drains 1d4 points of Wisdom each time she hits with her melee touch attack. The first time each round that she strikes a foe with a melee weapon, she also drains 1 point of Wisdom. A DC 21 Will save negates the Wisdom drain. Unlike with other kinds of ability drain attacks, a lamia matriarch does not heal damage when she uses her Wisdom drain. The save DC is Charisma-based.
-SpellsKnown: Spells Known (CL 6th; concentration +11)  3rd (4/day)-haste  2nd (6/day)-death knell (DC 17), invisibility  1st (8/day)-cure light wounds, divine favor, mage armor, magic missile  0 (at will)-dancing lights, daze (DC 15), detect magic, ghost sound (DC 15), mage hand, mending, prestidigitation
+SpellsKnown:
+  _: CL 6th; concentration +11
+  3 (4/day): [ haste ]
+  2 (6/day): [ death knell (DC 17), invisibility ]
+  1 (8/day): [ cure light wounds, divine favor, mage armor, magic missile ]
+  0 (at will): [ dancing lights, daze (DC 15), detect magic, ghost sound (DC 15), mage hand, mending, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

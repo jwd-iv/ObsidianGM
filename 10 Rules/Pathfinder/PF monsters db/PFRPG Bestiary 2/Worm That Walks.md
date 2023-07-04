@@ -58,7 +58,16 @@ Languages: Abyssal, Aklo, Common, Infernal
 SQ: arcane bond (staff), summoner's charm (6 rounds)
 SpecialAbilities: 
 SpellsKnown: 
-SpellsPrepared: Conjurer Spells Prepared (CL 13th; concentration +18) 7th-plane shift (DC 22), project image 6th-acid fog, disintegrate (DC 21), summon monster VI 5th-cloudkill (DC 20), dismissal (DC 20), shadow evocation (DC 20), telekinesis (DC 20), teleport 4th-black tentacles, confusion (DC 19), dimension door (2), phantasmal killer (DC 19), summon monster IV 3rd-dispel magic, fly, protection from energy, slow (DC 18), stinking cloud (DC 18), summon monster III 2nd-acid arrow, detect thoughts (DC 17), fog cloud, glitterdust (DC 17), invisibility, summon swarm 1st-charm person (DC 16), feather fall, grease (DC 16), obscuring mist, protection from good, reduce person (DC 16), shield 0 (at will)-detect magic, mage hand, prestidigitation, read magic Opposition Schools Evocation, Necromancy
+SpellsPrepared:
+  _: Conjurer CL 13th; concentration +18
+  7th: [ plane shift (DC 22), project image ]
+  6th: [ acid fog, disintegrate (DC 21), summon monster VI ]
+  5th: [ cloudkill (DC 20), dismissal (DC 20), shadow evocation (DC 20), telekinesis (DC 20), teleport ]
+  4th: [ black tentacles, confusion (DC 19), dimension door (2), phantasmal killer (DC 19), summon monster IV ]
+  3rd: [ dispel magic, fly, protection from energy, slow (DC 18), stinking cloud (DC 18), summon monster III ]
+  2nd: [ acid arrow, detect thoughts (DC 17), fog cloud, glitterdust (DC 17), invisibility, summon swarm ]
+  1st: [ charm person (DC 16), feather fall, grease (DC 16), obscuring mist, protection from good, reduce person (DC 16), shield ]
+  0 (at will): [ detect magic, mage hand, prestidigitation, read magic Opposition Schools Evocation, Necromancy ]
 SpellDomains: 
 Bloodline: 
 Environment: any

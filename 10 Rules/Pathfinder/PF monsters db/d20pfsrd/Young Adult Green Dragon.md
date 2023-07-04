@@ -61,7 +61,10 @@ SpecialAbilities:
     A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
   Woodland Stride (Ex): >
     A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
-SpellsKnown: Spells Known (CL 3rd; concentration +5)  1st (6/day)-shield, silent image (DC 13), summon monster I  0 (at will)-dancing lights, detect magic, ghost sound, mage hand, prestidigitation
+SpellsKnown:
+  _: CL 3rd; concentration +5
+  1 (6/day): [ shield, silent image (DC 13), summon monster I ]
+  0 (at will): [ dancing lights, detect magic, ghost sound, mage hand, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

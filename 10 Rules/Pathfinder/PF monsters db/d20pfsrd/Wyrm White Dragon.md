@@ -67,7 +67,14 @@ SpecialAbilities:
     This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
   Snow Vision (Ex): >
     A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
-SpellsKnown: Spells Known (CL 11th; concentration +14, touch +33)  5th (4/day)-feeblemind, wall of force  4th (6/day)-charm monster (DC 17), dimension door, stoneskin  3rd (7/day)-dispel magic, displacement, lightning bolt (DC 16), slow  2nd (7/day)-blur, fog cloud, invisibility, resist energy, see invisibility  1st (7/day)-alarm, grease (DC 14), magic aura, shield, true strike  0 (at will)-acid splash, dancing lights, detect magic, ghost sound, mage hand, mending, message, ray of frost, resistance
+SpellsKnown:
+  _: CL 11th; concentration +14, touch +33
+  5 (4/day): [ feeblemind, wall of force ]
+  4 (6/day): [ charm monster (DC 17), dimension door, stoneskin ]
+  3 (7/day): [ dispel magic, displacement, lightning bolt (DC 16), slow ]
+  2 (7/day): [ blur, fog cloud, invisibility, resist energy, see invisibility ]
+  1 (7/day): [ alarm, grease (DC 14), magic aura, shield, true strike ]
+  0 (at will): [ acid splash, dancing lights, detect magic, ghost sound, mage hand, mending, message, ray of frost, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

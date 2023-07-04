@@ -59,7 +59,14 @@ SQ: superheated
 SpecialAbilities:
   Superheated (Su): >
     At young age and older, a magma dragon's bite attack deals additional fire damage equal to its age category.
-SpellsKnown: Sorcerer Spells Known (CL 11th; concentration +15) 5th (4/day)-hungry pitAPG (DC 19), teleport 4th (7/day)-acid pitAPG (DC 18), fire shield, wall of fire(DC 18) 3rd (7/day)-displacement, dispel magic, fireball (DC 17), wind wall 2nd (7/day)-darkness, dust of twilightAPG, flaming sphere (DC 16), glitterdust(DC 16),scorching ray 1st (7/day)-feather fall, flare burstAPG (DC 15), grease (DC 15), shield, true strike 0 (at will)-bleed (DC 14), detect magic, detect poison, ghost sound, light, open/close, read magic, sparkAPG, touch of fatigue
+SpellsKnown:
+  _: Sorcerer CL 11th; concentration +15
+  5 (4/day): [ hungry pitAPG (DC 19), teleport ]
+  4 (7/day): [ acid pitAPG (DC 18), fire shield, wall of fire(DC 18) ]
+  3 (7/day): [ displacement, dispel magic, fireball (DC 17), wind wall ]
+  2 (7/day): [ darkness, dust of twilightAPG, flaming sphere (DC 16), glitterdust(DC 16),scorching ray ]
+  1 (7/day): [ feather fall, flare burstAPG (DC 15), grease (DC 15), shield, true strike ]
+  0 (at will): [ bleed (DC 14), detect magic, detect poison, ghost sound, light, open/close, read magic, sparkAPG, touch of fatigue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

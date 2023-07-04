@@ -60,7 +60,10 @@ SpecialAbilities:
   Water Affinity (Ex): >
     Undine sorcerers with the elemental (water) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Undine clerics with the Water domain cast their Water domain powers and spells at +1 caster level.
 SpellsKnown: 
-SpellsPrepared: Cleric Spells Prepared (CL 1st; concentration +4)  1st-bless, charm personD, divine favor  0 (at will)-create water, guidance, stabilize
+SpellsPrepared:
+  _: Cleric CL 1st; concentration +4
+  1st: [ bless, charm person, divine favor ]
+  0 (at will): [ create water, guidance, stabilize ]
 SpellDomains: Charm, Water
 Bloodline: 
 Environment: any

@@ -67,7 +67,16 @@ SpecialAbilities:
     An old or older solar dragon can use its channel life ability to instead channel radiation that deals an equal amount of damage to living creatures. A living creature that succeeds at a Fortitude save takes half damage.
   Primal Fire (Su): >
     A very young or older solar dragon's breath weapon can affect creatures normally immune or resistant to fire damage. A creature immune to fire damage still takes half damage from the breath weapon (no damage with a successful saving throw). A resistant creature's fire resistance is treated as 10 less than normal.
-SpellsKnown: Sorcerer Spells Known (CL 15th; concentration +22)   7th (5/day)-control weather, plane shift (DC 24)   6th (7/day)-chain lightning (DC 23), greater dispel magic, mislead   5th (7/day)-break enchantment, dismissal (DC 22), dominate person (DC 23), wall of force   4th (7/day)-charm monster (DC 22), dimension door, fear (DC 21), greater invisibility   3rd (8/day)-dispel magic, lightning bolt (DC 20), protection from energy, tongues 2nd (8/day)-continual flame, invisibility, resist energy, scorching ray, see invisibility   1st (8/day)-charm person (DC 19), color spray (DC 18), mage armor, magic missile, shield   0 (at will)-detect poison, mage hand, read magic, 6 more
+SpellsKnown:
+  _: Sorcerer CL 15th; concentration +22
+  7 (5/day): [ control weather, plane shift (DC 24) ]
+  6 (7/day): [ chain lightning (DC 23), greater dispel magic, mislead ]
+  5 (7/day): [ break enchantment, dismissal (DC 22), dominate person (DC 23), wall of force ]
+  4 (7/day): [ charm monster (DC 22), dimension door, fear (DC 21), greater invisibility ]
+  3 (8/day): [ dispel magic, lightning bolt (DC 20), protection from energy, tongues ]
+  2 (8/day): [ continual flame, invisibility, resist energy, scorching ray, see invisibility ]
+  1 (8/day): [ charm person (DC 19), color spray (DC 18), mage armor, magic missile, shield ]
+  0 (at will): [ detect poison, mage hand, read magic, 6 more ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

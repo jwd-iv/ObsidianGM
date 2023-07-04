@@ -65,7 +65,16 @@ SpecialAbilities:
     A magma dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young-burning hands; Juvenile-scorching ray; Adult- wall of fire; Old-fire shield (warm shield, constant); Ancient-delayed blast fireball (3/day); Great wyrm-wall of lava^[This spell is from the Pathfinder RPG Advanced Player's Guide].
   Superheated (Su): >
     At young age and older, a magma dragon's bite attack deals additional fire damage equal to its age category.
-SpellsKnown: Spells Known (CL 15th; concentration +20)  7th (4/day)-greater polymorph, prismatic spray (DC 22)  6th (6/day)-chain lightning (DC 21), contagious flame^[PFRPG Advanced Player's Guide] (DC 21), eyebite (DC 21)  5th (7/day)-hungry pit^[PFRPG Advanced Player's Guide] (DC 20), polymorph, teleport, wall of force  4th (7/day)-acid pit^[PFRPG Advanced Player's Guide] (DC 19), confusion (DC 19), dimensional anchor, fire shield  3rd (7/day)- displacement, dispel magic, fireball (DC 18), wind wall  2nd (7/day)-darkness, dust of twilight^[PFRPG Advanced Player's Guide], flaming sphere (DC 17), glitterdust (DC 17), pyrotechnics (DC 17)  1st (8/day)-feather fall, flare burst^[PFRPG Advanced Player's Guide] (DC 16), grease (DC 16), shield, true strike  0 (at will)-bleed (DC 15), detect magic, detect poison, ghost sound, light, open/close, read magic, spark^[PFRPG Advanced Player's Guide], touch of fatigue
+SpellsKnown:
+  _: CL 15th; concentration +20
+  7 (4/day): [ greater polymorph, prismatic spray (DC 22) ]
+  6 (6/day): [ chain lightning (DC 21), contagious flame (DC 21), eyebite (DC 21) ]
+  5 (7/day): [ hungry pit (DC 20), polymorph, teleport, wall of force ]
+  4 (7/day): [ acid pit (DC 19), confusion (DC 19), dimensional anchor, fire shield ]
+  3 (7/day): [ displacement, dispel magic, fireball (DC 18), wind wall ]
+  2 (7/day): [ darkness, dust of twilight, flaming sphere (DC 17), glitterdust (DC 17), pyrotechnics (DC 17) ]
+  1 (8/day): [ feather fall, flare burst (DC 16), grease (DC 16), shield, true strike ]
+  0 (at will): [ bleed (DC 15), detect magic, detect poison, ghost sound, light, open/close, read magic, spark, touch of fatigue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -57,7 +57,10 @@ RacialMods: +2 Disable Device, +2 Perception
 Languages: Celestial, Common, Draconic, Samsaran
 SQ: lifebound, oracle's curse (haunted), revelations (think on it), shards of the past (Disable Device, Perception)
 SpecialAbilities: 
-SpellsKnown: Oracle Spells Known (CL 1st; concentration +3) 1st (4/day)-command (DC 13), cure light wounds, sanctuary (DC 13)  0 (at will)-ghost sound (DC 12), guidance, light, mage hand, read magic, resistance
+SpellsKnown:
+  _: Oracle CL 1st; concentration +3
+  1 (4/day): [ command (DC 13), cure light wounds, sanctuary (DC 13) ]
+  0 (at will): [ ghost sound (DC 12), guidance, light, mage hand, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

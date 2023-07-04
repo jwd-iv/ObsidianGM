@@ -69,7 +69,10 @@ SpecialAbilities:
     Rays and ranged touch effects that strike an ancient or older lunar dragon but fail to overcome its spell resistance are reflected back at their source, using the original attack roll to determine whether they hit.
   Reflected Light (Ex): >
     A very young or older lunar dragon can't be blinded or dazzled by bright light or patterns.
-SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +4)  1st (4/day)-comprehend languages, mage armor  0 (at will)-detect magic, light, mage hand, read magic
+SpellsKnown:
+  _: Sorcerer CL 1st; concentration +4
+  1 (4/day): [ comprehend languages, mage armor ]
+  0 (at will): [ detect magic, light, mage hand, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

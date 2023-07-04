@@ -67,7 +67,17 @@ SpecialAbilities:
     Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
   Trap Master (Ex): >
     A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
-SpellsKnown: Sorcerer Spells Known (CL 17th; concentration +23)  8th (4/day)-scintillating pattern (DC 25), temporal stasis (DC 24)  7th (6/day)-mass hold person (DC 23), reverse gravity, teleport object (DC 23)  6th (7/day)-antimagic field, mislead, programmed image (DC 23)  5th (7/day)-mind fog (DC 21), polymorph, sending, teleport  4th (7/day)-confusion (DC 20), rainbow pattern (DC 21), stone shape, stoneskin  3rd (7/day)-dispel magic, haste, suggestion (DC 19), tongues  2nd (8/day)-glitterdust (DC 18), invisibility, phantom trap, pyrotechnics, see invisibility  1st (8/day)-expeditious retreat, magic aura, obscuring mist, shield, silent image (DC 18)  0 (at will)-dancing lights, detect magic, ghost sound (DC 17), light, mage hand, message, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: Sorcerer CL 17th; concentration +23
+  8 (4/day): [ scintillating pattern (DC 25), temporal stasis (DC 24) ]
+  7 (6/day): [ mass hold person (DC 23), reverse gravity, teleport object (DC 23) ]
+  6 (7/day): [ antimagic field, mislead, programmed image (DC 23) ]
+  5 (7/day): [ mind fog (DC 21), polymorph, sending, teleport ]
+  4 (7/day): [ confusion (DC 20), rainbow pattern (DC 21), stone shape, stoneskin ]
+  3 (7/day): [ dispel magic, haste, suggestion (DC 19), tongues ]
+  2 (8/day): [ glitterdust (DC 18), invisibility, phantom trap, pyrotechnics, see invisibility ]
+  1 (8/day): [ expeditious retreat, magic aura, obscuring mist, shield, silent image (DC 18) ]
+  0 (at will): [ dancing lights, detect magic, ghost sound (DC 17), light, mage hand, message, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -69,7 +69,12 @@ SpecialAbilities:
     Any creature reduced to 0 or fewer hit points by a great wyrm forest dragon's breath weapon must also make a Fortitude save (same DC as the forest dragon's breath weapon) or be petrified as the flesh to stone spell. This is a death effect.
   Woodland Stride (Ex): >
     As the druid ability of the same name.
-SpellsKnown: Spells Known (CL 7th; concentration +10)  3rd (5/day)-stinking cloud (DC 16), wind wall  2nd (7/day)-fog cloud, hideous laughter (DC 15), touch of idiocy  1st (7/day)-hypnotism (DC 14), obscuring mist, magic missile, ray of enfeeblement (DC 14), shield  0 (at-will)-daze (DC 13), detect magic, ghost sound, mage hand, read magic, resistance, touch of fatigue
+SpellsKnown:
+  _: CL 7th; concentration +10
+  3 (5/day): [ stinking cloud (DC 16), wind wall ]
+  2 (7/day): [ fog cloud, hideous laughter (DC 15), touch of idiocy ]
+  1 (7/day): [ hypnotism (DC 14), obscuring mist, magic missile, ray of enfeeblement (DC 14), shield ]
+  0 (at-will): [ daze (DC 13), detect magic, ghost sound, mage hand, read magic, resistance, touch of fatigue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

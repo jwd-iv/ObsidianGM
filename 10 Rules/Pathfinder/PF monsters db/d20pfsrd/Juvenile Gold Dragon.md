@@ -65,7 +65,10 @@ SpecialAbilities:
     A young or older gold dragon is treated as one size category larger when determining his fly speed.
   Weakening Breath (Su): >
     Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
-SpellsKnown: Spells Known (CL 3rd; concentration +7)  1st (6/day)-divine favor, mage armor, shield  0 (at will)-detect magic, light, mage hand, mending, stabilize
+SpellsKnown:
+  _: CL 3rd; concentration +7
+  1 (6/day): [ divine favor, mage armor, shield ]
+  0 (at will): [ detect magic, light, mage hand, mending, stabilize ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

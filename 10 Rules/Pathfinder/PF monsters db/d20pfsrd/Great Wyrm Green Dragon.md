@@ -69,7 +69,17 @@ SpecialAbilities:
     A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
   Woodland Stride (Ex): >
     A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
-SpellsKnown: Spells Known (CL 17th; concentration +23)  8th (4/day)-power word stun, sunburst (DC 24)  7th (6/day)-plane shift, prismatic spray, summon monster VII  6th (7/day)-acid fog, disintegrate (DC 22), true seeing  5th (7/day)-baleful polymorph (DC 21), polymorph, summon monster V, teleport  4th (7/day)-dimension door, ice storm, scrying (DC 20), stoneskin  3rd (7/day)-dispel magic, displacement, fireball (DC 19), haste  2nd (8/day)-alter self, detect thoughts (DC 18), locate object, mirror image, see invisibility  1st (8/day)-magic missile, shield, silent image (DC 17), summon monster I, ventriloquism (DC 17)  0 (at will)-acid splash, bleed, dancing lights, detect magic, ghost sound, mage hand, message, resistance, prestidigitation
+SpellsKnown:
+  _: CL 17th; concentration +23
+  8 (4/day): [ power word stun, sunburst (DC 24) ]
+  7 (6/day): [ plane shift, prismatic spray, summon monster VII ]
+  6 (7/day): [ acid fog, disintegrate (DC 22), true seeing ]
+  5 (7/day): [ baleful polymorph (DC 21), polymorph, summon monster V, teleport ]
+  4 (7/day): [ dimension door, ice storm, scrying (DC 20), stoneskin ]
+  3 (7/day): [ dispel magic, displacement, fireball (DC 19), haste ]
+  2 (8/day): [ alter self, detect thoughts (DC 18), locate object, mirror image, see invisibility ]
+  1 (8/day): [ magic missile, shield, silent image (DC 17), summon monster I, ventriloquism (DC 17) ]
+  0 (at will): [ acid splash, bleed, dancing lights, detect magic, ghost sound, mage hand, message, resistance, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

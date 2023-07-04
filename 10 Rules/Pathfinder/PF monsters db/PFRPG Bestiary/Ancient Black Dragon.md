@@ -73,7 +73,14 @@ SpecialAbilities:
     A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed. Hissing green acid drips from the fanged maw of this blackscaled, horned dragon.
   Water Breathing (Ex): >
     A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged. Age Category S pecial Abilities Caster Level Wyrmling Immunity to acid, water breathing - Very young Swamp stride - Young Speak with reptiles - Juvenile Darkness - Young adult DR 5/magic, spell resistance 1st Adult Corrupt water, frightful presence 3rd Mature adult DR 10/magic 5th Old Acidic bite, plant growth 7th Very old DR 15/magic 9th Ancient Acid pool, insect plague 11th Wyrm DR 20/magic 13th Great wyrm Charm reptiles 15th
-SpellsKnown: Spells Known (CL 11th) 5th (4/day)-cone of cold (DC 19), wall of force 4th (7/day)-arcane eye, black tentacles, dimension door 3rd (7/day)-dispel magic, heroism, hold person (DC 17), slow (DC 17) 2nd (7/day)-blur, glitterdust (DC 16), invisibility, summon swarm, whispering wind 1st (7/day)-alarm, mage armor, magic missile, obscuring mist, true strike 0 (at will)-dancing lights, detect magic, light, mage hand, mending, message, prestidigitation, read magic, resistance
+SpellsKnown:
+  _: CL 11th
+  5 (4/day): [ cone of cold (DC 19), wall of force ]
+  4 (7/day): [ arcane eye, black tentacles, dimension door ]
+  3 (7/day): [ dispel magic, heroism, hold person (DC 17), slow (DC 17) ]
+  2 (7/day): [ blur, glitterdust (DC 16), invisibility, summon swarm, whispering wind ]
+  1 (7/day): [ alarm, mage armor, magic missile, obscuring mist, true strike ]
+  0 (at will): [ dancing lights, detect magic, light, mage hand, mending, message, prestidigitation, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

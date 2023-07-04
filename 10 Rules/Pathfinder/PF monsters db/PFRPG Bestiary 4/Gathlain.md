@@ -57,7 +57,10 @@ RacialMods:
 Languages: Common, Sylvan
 SQ: bloodline arcana (+2 DC for compulsion spells)
 SpecialAbilities: 
-SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +4)  1st (4/day)-color spray (DC 14), magic missile  0 (at will)-dancing lights, daze (DC 15), ghost sound (DC 13), ray of frost
+SpellsKnown:
+  _: Sorcerer CL 1st; concentration +4
+  1 (4/day): [ color spray (DC 14), magic missile ]
+  0 (at will): [ dancing lights, daze (DC 15), ghost sound (DC 13), ray of frost ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: fey

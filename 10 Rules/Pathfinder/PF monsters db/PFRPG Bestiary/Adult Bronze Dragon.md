@@ -73,7 +73,12 @@ SpecialAbilities:
     A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
   Wave Mastery (Su): >
     For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water. Age Category S pecial Abilities C aster Level Wyrmling Immunity to electricity, - repulsion breath, water breathing Very young Speak with animals - Young Change shape 1st Juvenile Wave mastery, create food and water 3rd Young adult DR 5/magic, spell resistance 5th Adult frightful presence, fog cloud 7th Mature adult DR 10/magic 9th Old Electricity aura, detect thoughts 11th Very old DR 15/magic 13th Ancient Vortex, control water 15th Wyrm DR 20/magic 17th Great wyrm Tidal wave, control weather 19th
-SpellsKnown: Spells Known (CL 7th) 3rd (5/day)-dispel magic, slow (DC 18) 2nd (7/day)-blur, gust of wind, mirror image 1st (8/day)-alarm, mage armor, obscuring mist, shield, true strike 0 (at will)-detect magic, light, message, resistance, 2 more
+SpellsKnown:
+  _: CL 7th
+  3 (5/day): [ dispel magic, slow (DC 18) ]
+  2 (7/day): [ blur, gust of wind, mirror image ]
+  1 (8/day): [ alarm, mage armor, obscuring mist, shield, true strike ]
+  0 (at will): [ detect magic, light, message, resistance, 2 more ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -65,7 +65,12 @@ SpecialAbilities:
     A great wyrm brine dragon's natural attacks are so laden with salt and acidic crystals that every time it strikes a creature with one of these attacks, the target must make a Fortitude save (DC equals the dragon's breath weapon save DC) or be stunned for a round from the pain.
   Spell-like Abilities (Sp): >
     A brine dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) at the listed age. Very young-speak with animals (fish only); Young- obscuring mist; Juvenile-water breathing; Adult-control water; Ancient-horrid wilting (3/day); Great wyrm-tsunami^[This spell is from the Pathfinder RPG Advanced Player's Guide] (3/day).
-SpellsKnown: Spells Known (CL 7th; concentration +10)  3rd (5/day)-aqueous orb^[PFRPG Advanced Player's Guide] (DC 16), sleet storm (DC 16)  2nd (7/day)-alter self, invisibility, slipstream^[PFRPG Advanced Player's Guide]  1st (7/day)-color spray (DC 14), feather fall, flare burst^[PFRPG Advanced Player's Guide] (DC 14), ray of enfeeblement (DC 14), touch of the sea^[PFRPG Advanced Player's Guide]  0 (at will)-detect magic, detect poison, mage hand, open/ close, prestidigitation, read magic, resistance
+SpellsKnown:
+  _: CL 7th; concentration +10
+  3 (5/day): [ aqueous orb (DC 16), sleet storm (DC 16) ]
+  2 (7/day): [ alter self, invisibility, slipstream ]
+  1 (7/day): [ color spray (DC 14), feather fall, flare burst (DC 14), ray of enfeeblement (DC 14), touch of the sea ]
+  0 (at will): [ detect magic, detect poison, mage hand, open/ close, prestidigitation, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

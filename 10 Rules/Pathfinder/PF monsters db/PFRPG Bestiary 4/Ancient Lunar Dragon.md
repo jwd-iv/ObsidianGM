@@ -69,7 +69,16 @@ SpecialAbilities:
     Rays and ranged touch effects that strike an ancient or older lunar dragon but fail to overcome its spell resistance are reflected back at their source, using the original attack roll to determine whether they hit.
   Reflected Light (Ex): >
     A very young or older lunar dragon can't be blinded or dazzled by bright light or patterns.
-SpellsKnown: Sorcerer Spells Known (CL 15th; concentration +22)  7th (5/day)-greater teleport, waves of exhaustion  6th (7/day)-cold ice strikeUM (DC 23), greater dispel magic, true seeing  5th (7/day)-dominate person (DC 22), feeblemind (DC 22), fire snake (DC 22), mage's private sanctum  4th (7/day)-charm monster (DC 21), fire shield, greater invisibility, lesser globe of invulnerability  3rd (8/day)-haste, heroism, tongues, vampiric touch  2nd (8/day)-bear's endurance, detect thoughts (DC 19), hypnotic pattern (DC 19), minor image (DC 19), mirror image  1st (8/day)-comprehend languages, mage armor, protection from evil, shocking grasp, vanishAPG  0 (at will)-detect magic, light, read magic, 4 more
+SpellsKnown:
+  _: Sorcerer CL 15th; concentration +22
+  7 (5/day): [ greater teleport, waves of exhaustion ]
+  6 (7/day): [ cold ice strikeUM (DC 23), greater dispel magic, true seeing ]
+  5 (7/day): [ dominate person (DC 22), feeblemind (DC 22), fire snake (DC 22), mage's private sanctum ]
+  4 (7/day): [ charm monster (DC 21), fire shield, greater invisibility, lesser globe of invulnerability ]
+  3 (8/day): [ haste, heroism, tongues, vampiric touch ]
+  2 (8/day): [ bear's endurance, detect thoughts (DC 19), hypnotic pattern (DC 19), minor image (DC 19), mirror image ]
+  1 (8/day): [ comprehend languages, mage armor, protection from evil, shocking grasp, vanishAPG ]
+  0 (at will): [ detect magic, light, read magic, 4 more ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

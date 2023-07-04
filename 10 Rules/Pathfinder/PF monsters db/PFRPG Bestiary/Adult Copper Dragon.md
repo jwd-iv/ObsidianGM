@@ -73,7 +73,12 @@ SpecialAbilities:
     A juvenile or older copper dragon receives a +1 bonus per age categroy on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
   Uncanny Dodge (Ex): >
     A young or older copper dragon is always looking out for an ambush. He can never be caught flat-footed. This ability functions like the rogue ability of the same name. Age Category S pecial Abilities C aster Level Wyrmling Immunity to acid, climb stone, - slow breath Very young Grease - Young Uncanny dodge 1st Juvenile Trap master, hideous laughter 3rd Young adult DR 5/magic, spell resistance 5th Adult Frightful presence, stone shape 7th Mature adult DR 10/magic 9th Old Slow aura, transmute rock/mud 11th Very old DR 15/magic 13th Ancient Mass laughter, wall of stone 15th Wyrm DR 20/magic 17th Great wyrm Deadly joke, move earth 19th
-SpellsKnown: Spells Known (CL 7th) 3rd (5/day)-dispel magic, major image (DC 17) 2nd (7/day)-glitterdust (DC 16), invisibility, phantom trap 1st (7/day)-alarm, identify, magic missile, shield, silent image (DC 15) 0 (at will)-detect magic, ghost sound (DC 14), light, message, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: CL 7th
+  3 (5/day): [ dispel magic, major image (DC 17) ]
+  2 (7/day): [ glitterdust (DC 16), invisibility, phantom trap ]
+  1 (7/day): [ alarm, identify, magic missile, shield, silent image (DC 15) ]
+  0 (at will): [ detect magic, ghost sound (DC 14), light, message, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -69,7 +69,12 @@ SpecialAbilities:
     Any flying creature damaged by the breath weapon of an ancient or older sky dragon must make a Fortitude save with the same DC as the sky dragon's breath weapon or lose the ability to fly for 1d4 rounds.
   Primal Lightning (Su): >
     An old or older sky dragon's breath weapon can affect creatures normally immune or resistant to electricity damage. A creature immune to electricity damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures' electricity resistance is treated as 10 less than normal.
-SpellsKnown: Spells Known (CL 7th; concentration +12)  3rd (5/day)-blink, lightning bolt (DC 18)  2nd (7/day)-glitterdust (DC 17), invisibility, resist energy  1st (8/day)-endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp  0 (at will)-detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic
+SpellsKnown:
+  _: CL 7th; concentration +12
+  3 (5/day): [ blink, lightning bolt (DC 18) ]
+  2 (7/day): [ glitterdust (DC 17), invisibility, resist energy ]
+  1 (8/day): [ endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp ]
+  0 (at will): [ detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

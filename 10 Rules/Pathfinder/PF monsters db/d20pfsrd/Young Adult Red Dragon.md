@@ -59,7 +59,11 @@ SQ:
 SpecialAbilities:
   Smoke Vision (Ex): >
     A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
-SpellsKnown: Spells Known (CL 5th; concentration +7)  2nd (5/day)-resist energy, see invisibility  1st (7/day)-alarm, magic missile, shield, true strike  0 (at will)-arcane mark, bleed, light, magehand, message, read magic
+SpellsKnown:
+  _: CL 5th; concentration +7
+  2 (5/day): [ resist energy, see invisibility ]
+  1 (7/day): [ alarm, magic missile, shield, true strike ]
+  0 (at will): [ arcane mark, bleed, light, magehand, message, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

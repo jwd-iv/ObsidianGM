@@ -65,7 +65,14 @@ SpecialAbilities:
     Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
   Umbral Scion (Ex): >
     Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
-SpellsKnown: Spells Known (CL 11th; concentration +17) 5th (5/day)-slay living, unhallow(DC 21) 4th (7/day)-enervation, inflict critical wounds (DC 20), unholy blight(DC 20) 3rd (7/day)-dispel magic, haste, inflict serious wounds (DC 19), lightning bolt(DC 19) 2nd (8/day)-alter self, blur, command undead (DC 18), invisibility, web(DC 18) 1st (8/day)-grease (DC 17), inflict light wounds (DC 17), magic missile, reduce person (DC 17), shield 0 (at will)-acid splash, bleed (DC 16), detect magic, detect poison, disrupt undead (DC 16), ghost sound, mage hand, ray of frost, read magic
+SpellsKnown:
+  _: CL 11th; concentration +17
+  5 (5/day): [ slay living, unhallow(DC 21) ]
+  4 (7/day): [ enervation, inflict critical wounds (DC 20), unholy blight(DC 20) ]
+  3 (7/day): [ dispel magic, haste, inflict serious wounds (DC 19), lightning bolt(DC 19) ]
+  2 (8/day): [ alter self, blur, command undead (DC 18), invisibility, web(DC 18) ]
+  1 (8/day): [ grease (DC 17), inflict light wounds (DC 17), magic missile, reduce person (DC 17), shield ]
+  0 (at will): [ acid splash, bleed (DC 16), detect magic, detect poison, disrupt undead (DC 16), ghost sound, mage hand, ray of frost, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

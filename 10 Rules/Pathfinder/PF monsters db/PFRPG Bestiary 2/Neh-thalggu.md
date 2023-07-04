@@ -63,7 +63,12 @@ SpecialAbilities:
     Bite-injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d2 Strength damage and staggered for 1 round; cure 2 consecutive saves. The save DC is Constitution-based.  Spells A neh-thalggu casts spells as a 7th-level sorcerer. For each negative level it takes from missing brains, its caster level is reduced by 1. A neh-thalggu with no collected brains cannot cast any of its spells.
   Strange Knowledge (Ex): >
     All knowledge skill are class skills for neh-thalggus.
-SpellsKnown: Sorcerer Spells Known (CL 7th; concentration +17)   3rd (5/day)-lightning bolt (DC16), hold person (DC 16)   2nd (7/day)-acid arrow, alter self, invisibility   1st (7/day)-grease (DC 14), magic missile, ray of enfeeblement (DC 14), shield, unseen servant   0 (at will)-acid splash, dancing lights, detect magic, mage hand, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: Sorcerer CL 7th; concentration +17
+  3 (5/day): [ lightning bolt (DC16), hold person (DC 16) ]
+  2 (7/day): [ acid arrow, alter self, invisibility ]
+  1 (7/day): [ grease (DC 14), magic missile, ray of enfeeblement (DC 14), shield, unseen servant ]
+  0 (at will): [ acid splash, dancing lights, detect magic, mage hand, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

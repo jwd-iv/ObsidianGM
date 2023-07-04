@@ -65,7 +65,14 @@ SpecialAbilities:
     Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
   Trap Master (Ex): >
     A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
-SpellsKnown: Sorcerer Spells Known (CL 11th; concentration +16)  5th (5/day)-mind fog (DC 20), teleport  4th (7/day)-confusion (DC 19), rainbow pattern (DC 20), stone shape  3rd (7/day)-dispel magic, haste, major image (DC 19), tongues  2nd (7/day)-glitterdust (DC 17), invisibility, phantom trap, pyrotechnics, see invisibility  1st (8/day)-alarm, identify, magic missile, shield, silent image (DC 17)  0 (at will)-dancing lights, detect magic, ghost sound (DC 16), light, mage hand, message, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: Sorcerer CL 11th; concentration +16
+  5 (5/day): [ mind fog (DC 20), teleport ]
+  4 (7/day): [ confusion (DC 19), rainbow pattern (DC 20), stone shape ]
+  3 (7/day): [ dispel magic, haste, major image (DC 19), tongues ]
+  2 (7/day): [ glitterdust (DC 17), invisibility, phantom trap, pyrotechnics, see invisibility ]
+  1 (8/day): [ alarm, identify, magic missile, shield, silent image (DC 17) ]
+  0 (at will): [ dancing lights, detect magic, ghost sound (DC 16), light, mage hand, message, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

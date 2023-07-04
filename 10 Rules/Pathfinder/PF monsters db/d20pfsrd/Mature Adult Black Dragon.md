@@ -65,7 +65,11 @@ SpecialAbilities:
     A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.
   Water Breathing (Ex): >
     A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
-SpellsKnown: Spells Known (CL 5th, concentration +7) 2nd (5/day)-blur, summon swarm 1st (7/day)-alarm, mage armor, magic missile, obscuring mist 0 (at will)-dancing lights, detect magic, mending, message, read magic, prestidigitation
+SpellsKnown:
+  _: CL 5th, concentration +7
+  2 (5/day): [ blur, summon swarm ]
+  1 (7/day): [ alarm, mage armor, magic missile, obscuring mist ]
+  0 (at will): [ dancing lights, detect magic, mending, message, read magic, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

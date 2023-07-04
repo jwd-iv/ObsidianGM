@@ -69,7 +69,16 @@ SpecialAbilities:
     Any creature reduced to 0 or fewer hit points by a great wyrm forest dragon's breath weapon must also make a Fortitude save (same DC as the forest dragon's breath weapon) or be petrified as the flesh to stone spell. This is a death effect.
   Woodland Stride (Ex): >
     As the druid ability of the same name.
-SpellsKnown: Spells Known (CL 15th; concentration +20)  7th (4/day)-power word blind, waves of exhaustion (DC 22)  6th (6/day)-acid fog, disintegrate (DC 21), move earth  5th (7/day)-baleful polymorph (DC 20), cloudkill (DC 20), feeblemind (DC 20), passwall  4th (7/day)-bestow curse (DC 19), charm monster (DC 19), solid fog, stone shape  3rd (7/day)-lightning bolt (DC 18), wind wall, slow (DC 18), stinking cloud (DC 18)  2nd (7/day)-fog cloud, glitterdust, hideous laughter, invisibility, touch of idiocy   1st (8/day)-hypnotism (DC 16), obscuring mist, magic missile, ray of enfeeblement (DC 16), shield  0 (at-will)-dancing lights, daze (DC 15), detect magic, ghost sound, mage hand, mending, read magic, resistance, touch of fatigue
+SpellsKnown:
+  _: CL 15th; concentration +20
+  7 (4/day): [ power word blind, waves of exhaustion (DC 22) ]
+  6 (6/day): [ acid fog, disintegrate (DC 21), move earth ]
+  5 (7/day): [ baleful polymorph (DC 20), cloudkill (DC 20), feeblemind (DC 20), passwall ]
+  4 (7/day): [ bestow curse (DC 19), charm monster (DC 19), solid fog, stone shape ]
+  3 (7/day): [ lightning bolt (DC 18), wind wall, slow (DC 18), stinking cloud (DC 18) ]
+  2 (7/day): [ fog cloud, glitterdust, hideous laughter, invisibility, touch of idiocy ]
+  1 (8/day): [ hypnotism (DC 16), obscuring mist, magic missile, ray of enfeeblement (DC 16), shield ]
+  0 (at-will): [ dancing lights, daze (DC 15), detect magic, ghost sound, mage hand, mending, read magic, resistance, touch of fatigue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -71,7 +71,10 @@ SpecialAbilities:
     Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
   Spell-Like Abilities (Sp): >
     An umbral dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Young-darkness; Juvenile- vampiric touch; Adult-shadow walk; Old-project image; Ancient-finger of death (3/day), Great wyrm-shades.
-SpellsKnown: Spells Known (CL 1st; concentration +4)  1st (4/day)-inflict light wounds (DC 14), shield  0 (at will)-bleed (DC 13), detect magic, detect poison, read magic
+SpellsKnown:
+  _: CL 1st; concentration +4
+  1 (4/day): [ inflict light wounds (DC 14), shield ]
+  0 (at will): [ bleed (DC 13), detect magic, detect poison, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

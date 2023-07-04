@@ -73,7 +73,16 @@ SpecialAbilities:
     A gold dragon gains the following spell-like abilities upon reaching the listed age category. Its caster level for these effects is equal to its Hit Dice, and any save DCs are Charisma-based. A gold dragon can use these abilities at will. Very young-detect evil; Juvenile-bless; Adult-daylight; Old-geas/quest; Ancient-sunburst; Great wyrm-foresight.
   Weakening Breath (Su): >
     Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half ). Age Category S pecial Abilities C aster Level* Wyrmling Fire subtype, weakening breath - Very young Change shape, detect evil - Young Fast flight, detect gems 1st Juvenile Bless 3rd Young adult DR 5/magic, spell resistance 5th Adult Frightful presence, luck, daylight 7th Mature adult DR 10/magic 9th Old Fire aura, geas/quest 11th Very old DR 15/magic 13th Ancient Sunburst 15th Wyrm DR 20/magic 17th Great wyrm Divine aid, foresight 19th * A gold dragon can cast cleric spells as arcane spells.
-SpellsKnown: Spells Known (CL 15th) 7th (5/day)-greater teleport, resurrection 6th (7/day)-antimagic field, greater dispel magic, heal 5th (7/day)-dispel evil, plane shift, teleport, true seeing 4th (7/day)-divination, restoration, spell immunity, stoneskin 3rd (7/day)-dispel magic, haste, invisibility purge, prayer 2nd (8/day)-aid, cure moderate wounds, lesser restoration, resist energy, silence 1st (8/day)-alarm, divine favor, mage armor, shield, shield of faith 0 (at will)-detect magic, light, mending, stabilize, 6 more
+SpellsKnown:
+  _: CL 15th
+  7 (5/day): [ greater teleport, resurrection ]
+  6 (7/day): [ antimagic field, greater dispel magic, heal ]
+  5 (7/day): [ dispel evil, plane shift, teleport, true seeing ]
+  4 (7/day): [ divination, restoration, spell immunity, stoneskin ]
+  3 (7/day): [ dispel magic, haste, invisibility purge, prayer ]
+  2 (8/day): [ aid, cure moderate wounds, lesser restoration, resist energy, silence ]
+  1 (8/day): [ alarm, divine favor, mage armor, shield, shield of faith ]
+  0 (at will): [ detect magic, light, mending, stabilize, 6 more ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

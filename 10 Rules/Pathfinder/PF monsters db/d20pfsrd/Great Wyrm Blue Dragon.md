@@ -69,7 +69,17 @@ SpecialAbilities:
     A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener's Sense Motive check.
   Storm Breath (Su): >
     A wyrm blue dragon can use its breath weapon to create a storm of lightning. This functions as call lightning storm but the damage is 24d8. The dragon can call down 1 bolt per round as a free action for 1d6 rounds. The save DC is 32. Additional uses of this ability extend the duration by an additional 1d6 rounds.
-SpellsKnown: Spells Known (CL 17th; concentration +23)  8th (4/day)-iron body, prismatic wall  7th (6/day)-insanity (DC 23), reverse gravity, simulacrum  6th (7/day)-forceful hand, mislead, mass hold person (DC 22)  5th (7/day)-dream, persistent image, hold monster (DC 21), teleport  4th (7/day)-dimension door, enervation, fire shield, stoneskin  3rd (7/day)-dispel magic, displacement, haste, vampiric touch  2nd (8/day)-darkness, false life, invisibility, resist energy, shatter  1st (8/day)-alarm, mage armor, shield, true strike, unseen servant  0 (at will)-arcane mark, bleed (DC 16), detect magic, light, mage hand, mending, message, read magic, resistance
+SpellsKnown:
+  _: CL 17th; concentration +23
+  8 (4/day): [ iron body, prismatic wall ]
+  7 (6/day): [ insanity (DC 23), reverse gravity, simulacrum ]
+  6 (7/day): [ forceful hand, mislead, mass hold person (DC 22) ]
+  5 (7/day): [ dream, persistent image, hold monster (DC 21), teleport ]
+  4 (7/day): [ dimension door, enervation, fire shield, stoneskin ]
+  3 (7/day): [ dispel magic, displacement, haste, vampiric touch ]
+  2 (8/day): [ darkness, false life, invisibility, resist energy, shatter ]
+  1 (8/day): [ alarm, mage armor, shield, true strike, unseen servant ]
+  0 (at will): [ arcane mark, bleed (DC 16), detect magic, light, mage hand, mending, message, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

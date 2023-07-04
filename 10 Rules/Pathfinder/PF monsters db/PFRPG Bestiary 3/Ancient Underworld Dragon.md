@@ -67,7 +67,15 @@ SpecialAbilities:
     A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
   Underworld Burrower (Ex): >
     An adult underworld dragon gains a 10-foot bonus to its burrow speed. When the underworld dragon becomes old and every two age categories thereafter, its burrow speed increases by an additional 10 feet.
-SpellsKnown: Spells Known (CL 13th; concentration +18)  6th (4/day)-disintegrate (DC 21), flesh to stone (DC 21)  5th (7/day)-passwall, transmute rock to mud, waves of fatigue  4th (7/day)-enervation, shout (DC 19), solid fog, stone shape  3rd (7/day)-displacement, fireball (DC 18), protection from good, rage, slow  2nd (7/day)-acid arrow, daze monster (DC 17), flaming sphere (DC 17), scorching ray  1st (8/day)-burning hands (DC 16), cause fear (DC 16) magic missile, ray of enfeeblement (DC 16), true strike  0 (at will)-acid splash, bleed (DC 15), detect magic, flare (DC 15), ghost sound, mage hand, read magic, resistance, touch of fatigue (DC 15)
+SpellsKnown:
+  _: CL 13th; concentration +18
+  6 (4/day): [ disintegrate (DC 21), flesh to stone (DC 21) ]
+  5 (7/day): [ passwall, transmute rock to mud, waves of fatigue ]
+  4 (7/day): [ enervation, shout (DC 19), solid fog, stone shape ]
+  3 (7/day): [ displacement, fireball (DC 18), protection from good, rage, slow ]
+  2 (7/day): [ acid arrow, daze monster (DC 17), flaming sphere (DC 17), scorching ray ]
+  1 (8/day): [ burning hands (DC 16), cause fear (DC 16) magic missile, ray of enfeeblement (DC 16), true strike ]
+  0 (at will): [ acid splash, bleed (DC 15), detect magic, flare (DC 15), ghost sound, mage hand, read magic, resistance, touch of fatigue (DC 15) ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -59,7 +59,12 @@ SQ: amphibious
 SpecialAbilities:
   Poison (Ex): >
     Bite-injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 2 saves.  Spells A water naga casts spells as a 7th-level sorcerer.
-SpellsKnown: Spells Known (CL 7th; concentration +11)  3rd (5/day)-protection from energy, suggestion (DC 17)  2nd (7/day)-acid arrow, invisibility, mirror image  1st (7/day)-expeditious retreat, magic missile, obscuring mist, shield, true strike  0 (at will)-acid splash, daze (DC 14), detect magic, light, mage hand, open/close, read magic
+SpellsKnown:
+  _: CL 7th; concentration +11
+  3 (5/day): [ protection from energy, suggestion (DC 17) ]
+  2 (7/day): [ acid arrow, invisibility, mirror image ]
+  1 (7/day): [ expeditious retreat, magic missile, obscuring mist, shield, true strike ]
+  0 (at will): [ acid splash, daze (DC 14), detect magic, light, mage hand, open/close, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

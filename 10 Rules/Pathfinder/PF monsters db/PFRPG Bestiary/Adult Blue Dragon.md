@@ -71,7 +71,11 @@ SpecialAbilities:
     A blue dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Young-ghost sound; Juvenile-minor image; Adult-ventriloquism; Old-hallucinatory terrain; Ancient- veil; Great wyrm-mirage arcana.
   Storm Breath (Su): >
     An ancient or older blue dragon can use its breath weapon to create a storm of lightning. This functions as call lightning storm, but the damage is equal to the dragon's breath weapon. The dragon can call down 1 bolt per round as a free action for 1d6 rounds. The save DC is equal to the dragon's breath weapon DC. Additional uses of this ability extend the duration by an additional 1d6 rounds. Age Category S pecial Abilities Caster Level Wyrmling Desert thirst, immune to electricity - Very young Sound imitation - Young Ghost sound - Juvenile Frightful presence, minor image 1st Young adult DR 5/magic, spell resistance 3rd Adult Electricity aura, ventriloquism 5th Mature adult DR 10/magic 7th Old Mirage, hallucinatory terrain 9th Very old DR 15/magic 11th Ancient Storm breath, veil 13th Wyrm DR 20/magic 15th Great wyrm Sandstorm, mirage arcana 17th
-SpellsKnown: Spells Known (CL 5th) 2nd (5/day)-invisibility, resist energy 1st (7/day)-alarm, mage armor, shield, true strike 0 (at will)-arcane mark, detect magic, mage hand, mending, read magic, resistance
+SpellsKnown:
+  _: CL 5th
+  2 (5/day): [ invisibility, resist energy ]
+  1 (7/day): [ alarm, mage armor, shield, true strike ]
+  0 (at will): [ arcane mark, detect magic, mage hand, mending, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

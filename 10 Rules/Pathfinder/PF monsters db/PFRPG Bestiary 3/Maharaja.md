@@ -59,7 +59,18 @@ SQ: change shape (any humanoid; alter self )
 SpecialAbilities:
   Extra Initiative (Su): >
     When an encounter starts, a maharaja rolls twice for initiative. The maharaja acts normally on the higher of the two initiative counts each round. On the lower initiative count, the maharaja can take a single standard action.  Spells A maharaja casts arcane spells as an 18th-level sorcerer.
-SpellsKnown: Spells Known (CL 18th; concentration +27)  9th (4/day)-weird (DC 28)  8th (6/day)-greater shadow evocation, mind blank  7th (7/day)-greater shadow conjuration, mass invisibility, spell turning  6th (7/day)-greater dispel magic, mass suggestion (DC 25), true seeing  5th (8/day)-baleful polymorph (DC 24), feeblemind (DC 24), mind fog (DC 24), teleport  4th (8/day)-charm monster (DC 23), dimension door, lesser globe of invulnerability, scrying  3rd (8/day)-dispel magic, nondetection, suggestion (DC 22), vampiric touch (DC 22)  2nd (8/day)-darkness, knock, misdirection (DC 21), resist energy, see invisibility  1st (9/day)-charm person (DC 20), identify, mage armor, magic missile, ventriloquism (DC 20)  0 (at will)-arcane mark, bleed (DC 19), daze (DC 19), detect magic, ghost sound, mage hand, message, prestidigitation, read magic
+SpellsKnown:
+  _: CL 18th; concentration +27
+  9 (4/day): [ weird (DC 28) ]
+  8 (6/day): [ greater shadow evocation, mind blank ]
+  7 (7/day): [ greater shadow conjuration, mass invisibility, spell turning ]
+  6 (7/day): [ greater dispel magic, mass suggestion (DC 25), true seeing ]
+  5 (8/day): [ baleful polymorph (DC 24), feeblemind (DC 24), mind fog (DC 24), teleport ]
+  4 (8/day): [ charm monster (DC 23), dimension door, lesser globe of invulnerability, scrying ]
+  3 (8/day): [ dispel magic, nondetection, suggestion (DC 22), vampiric touch (DC 22) ]
+  2 (8/day): [ darkness, knock, misdirection (DC 21), resist energy, see invisibility ]
+  1 (9/day): [ charm person (DC 20), identify, mage armor, magic missile, ventriloquism (DC 20) ]
+  0 (at will): [ arcane mark, bleed (DC 19), daze (DC 19), detect magic, ghost sound, mage hand, message, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -59,7 +59,10 @@ SQ:
 SpecialAbilities:
   Smoke Vision (Ex): >
     A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
-SpellsKnown: Spells Known (CL 3rd; concentration +5, ranged touch +14)  1st (4/day, 3 remaining) - mage armor, ray of enfeeblement, true strike  0th (at will) - arcane mark, flare (DC 12), mage hand, open/close, prestidigitation
+SpellsKnown:
+  _: CL 3rd; concentration +5, ranged touch +14
+  1 (4/day, 3 remaining): [ mage armor, ray of enfeeblement, true strike ]
+  0 (at will): [ arcane mark, flare (DC 12), mage hand, open/close, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

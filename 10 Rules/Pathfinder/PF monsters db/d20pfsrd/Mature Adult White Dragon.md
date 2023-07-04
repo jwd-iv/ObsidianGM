@@ -63,7 +63,10 @@ SpecialAbilities:
     This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
   Snow Vision (Ex): >
     A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
-SpellsKnown: Spells Known (CL 3rd; concentration +4)  1st (6/day)-magic aura, shield, true strike  0 (at will)-dancing lights, detect magic, ghost sound, mending, ray of frost
+SpellsKnown:
+  _: CL 3rd; concentration +4
+  1 (6/day): [ magic aura, shield, true strike ]
+  0 (at will): [ dancing lights, detect magic, ghost sound, mending, ray of frost ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -73,7 +73,13 @@ SpecialAbilities:
     A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.
   Spell-Like Abilities (Sp): >
     A white dragon gains the following spell-like abilities usable at will upon reaching the listed age category. Juvenile-fog cloud; Young adult-gust of wind; Ancient-wall of ice; Great wyrm-control weather. Age Category S pecial Abilities Caster Level Wyrmling Icewalking, cold subtype - Very young Snow vision - Young Ice shape - Juvenile Fog cloud - Young adult DR 5/magic, spell resistance, - gust of wind Adult Cold aura, frightful presence 1st Mature adult DR 10/magic 3rd Old Freezing fog 5th Very old DR 15/magic 7th Ancient Blizzard, wall of ice 9th Wyrm DR 20/magic 11th Great wyrm Ice tomb, control weather 13th
-SpellsKnown: Spells Known (CL 9th) 4th (4/day)-charm monster (DC 17), dimension door 3rd (7/day)-dispel magic, displacement, lightning bolt (DC 16) 2nd (7/day)-invisibility, fog cloud, resist energy, see invisibility 1st (7/day)-alarm, grease (DC 14), magic aura, shield, true strike 0 (at will)-acid splash, dancing lights, detect magic, ghost sound, mage hand, message, ray of frost, mending
+SpellsKnown:
+  _: CL 9th
+  4 (4/day): [ charm monster (DC 17), dimension door ]
+  3 (7/day): [ dispel magic, displacement, lightning bolt (DC 16) ]
+  2 (7/day): [ invisibility, fog cloud, resist energy, see invisibility ]
+  1 (7/day): [ alarm, grease (DC 14), magic aura, shield, true strike ]
+  0 (at will): [ acid splash, dancing lights, detect magic, ghost sound, mage hand, message, ray of frost, mending ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

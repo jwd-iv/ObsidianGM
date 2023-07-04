@@ -67,7 +67,12 @@ SpecialAbilities:
     Instead of dealing cold damage, a very young or older void dragon can breathe a cone-shaped suffocation effect. An air-dependent creature that fails its Fortitude save suffocates (Pathfinder RPG Core Rulebook 445) for a number of rounds equal to the dragon's age category. The save DC is Constitution-based.
   Void Gaze (Su): >
     A creature within 30 feet of an adult or older void dragon must succeed at a Will save or become confused for 1d6 rounds. This gaze attack is a mind-affecting effect. The save DC is Charisma-based.
-SpellsKnown: Sorcerer Spells Known (CL 7th; concentration +12)  3rd (5/day)-dispel magic, lightning bolt (DC 18)  2nd (7/day)-invisibility, resist energy, touch of idiocy (DC 17)  1st (8/day)-alarm, cause fear (DC 17), hypnotism (DC 17), mage armor, obscuring mist  0 (at will)-detect magic, mage hand, read magic, 4 more
+SpellsKnown:
+  _: Sorcerer CL 7th; concentration +12
+  3 (5/day): [ dispel magic, lightning bolt (DC 18) ]
+  2 (7/day): [ invisibility, resist energy, touch of idiocy (DC 17) ]
+  1 (8/day): [ alarm, cause fear (DC 17), hypnotism (DC 17), mage armor, obscuring mist ]
+  0 (at will): [ detect magic, mage hand, read magic, 4 more ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

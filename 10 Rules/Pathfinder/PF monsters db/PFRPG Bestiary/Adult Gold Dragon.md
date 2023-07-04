@@ -73,7 +73,12 @@ SpecialAbilities:
     A gold dragon gains the following spell-like abilities upon reaching the listed age category. Its caster level for these effects is equal to its Hit Dice, and any save DCs are Charisma-based. A gold dragon can use these abilities at will. Very young-detect evil; Juvenile-bless; Adult-daylight; Old-geas/quest; Ancient-sunburst; Great wyrm-foresight.
   Weakening Breath (Su): >
     Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half ). Age Category S pecial Abilities C aster Level* Wyrmling Fire subtype, weakening breath - Very young Change shape, detect evil - Young Fast flight, detect gems 1st Juvenile Bless 3rd Young adult DR 5/magic, spell resistance 5th Adult Frightful presence, luck, daylight 7th Mature adult DR 10/magic 9th Old Fire aura, geas/quest 11th Very old DR 15/magic 13th Ancient Sunburst 15th Wyrm DR 20/magic 17th Great wyrm Divine aid, foresight 19th * A gold dragon can cast cleric spells as arcane spells.
-SpellsKnown: Spells Known (CL 7th) 3rd (5/day)-dispel magic, prayer 2nd (7/day)-aid, cure moderate wounds (DC 17), resist energy 1st (7/day)-alarm, divine favor, mage armor, shield, shield of faith 0 (at will)-detect magic, light, mending, stabilize, 3 more
+SpellsKnown:
+  _: CL 7th
+  3 (5/day): [ dispel magic, prayer ]
+  2 (7/day): [ aid, cure moderate wounds (DC 17), resist energy ]
+  1 (7/day): [ alarm, divine favor, mage armor, shield, shield of faith ]
+  0 (at will): [ detect magic, light, mending, stabilize, 3 more ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

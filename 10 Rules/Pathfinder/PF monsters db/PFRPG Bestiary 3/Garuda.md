@@ -63,7 +63,12 @@ SpecialAbilities:
     When a garuda makes a diving aerial charge, it can make a full attack with its natural weapons.
   Talon or Wing (Ex): >
     A garuda cannot use its wing attacks while flying, and cannot use its talon attacks while not flying.
-SpellsKnown: Spells Known (CL 7th; concentration +10)   3rd (5/day)-displacement, haste   2nd (7/day)-alter self, protection from arrows, see invisibility   1st (7/day)-grease (DC 14), mage armor, shield, shocking grasp, true strike   0 (at will)-detect magic, detect poison, light, mage hand, mending, message, prestidigitation
+SpellsKnown:
+  _: CL 7th; concentration +10
+  3 (5/day): [ displacement, haste ]
+  2 (7/day): [ alter self, protection from arrows, see invisibility ]
+  1 (7/day): [ grease (DC 14), mage armor, shield, shocking grasp, true strike ]
+  0 (at will): [ detect magic, detect poison, light, mage hand, mending, message, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

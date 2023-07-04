@@ -67,7 +67,10 @@ SpecialAbilities:
     An old or older solar dragon can use its channel life ability to instead channel radiation that deals an equal amount of damage to living creatures. A living creature that succeeds at a Fortitude save takes half damage.
   Primal Fire (Su): >
     A very young or older solar dragon's breath weapon can affect creatures normally immune or resistant to fire damage. A creature immune to fire damage still takes half damage from the breath weapon (no damage with a successful saving throw). A resistant creature's fire resistance is treated as 10 less than normal.
-SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +4)  1st (4/day)-color spray (DC 14), mage armor  0 (at will)-bleed (DC 13), detect poison, flare (DC 13), read magic
+SpellsKnown:
+  _: Sorcerer CL 1st; concentration +4
+  1 (4/day): [ color spray (DC 14), mage armor ]
+  0 (at will): [ bleed (DC 13), detect poison, flare (DC 13), read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

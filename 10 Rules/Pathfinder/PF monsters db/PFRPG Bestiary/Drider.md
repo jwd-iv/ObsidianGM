@@ -61,7 +61,12 @@ SpecialAbilities:
     Bite-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save. The save DC is Constitution-based.  Spells A drider casts spells as a 6th-level cleric, sorcerer, or wizard, but does not gain any other class abilities.
   Undersized Weapons (Ex): >
     Although a drider is Large, its upper torso is the same size as that of a Medium humanoid's upper torso. As a result, it wields weapons as if it were one size category smaller than its actual size (Medium for most driders).
-SpellsKnown: Spells Known (CL 6th)  3rd (4/day)-lightning bolt (DC 16)  2nd (6/day)-invisibility, web (DC 15)  1st (7/day)-mage armor, magic missile, ray of enfeeblement (DC 14), silent image (DC 14)  0 (at will)-bleed (DC 13), daze (DC 13), ghost sound, mage hand, ray of frost, read magic, resistance
+SpellsKnown:
+  _: CL 6th
+  3 (4/day): [ lightning bolt (DC 16) ]
+  2 (6/day): [ invisibility, web (DC 15) ]
+  1 (7/day): [ mage armor, magic missile, ray of enfeeblement (DC 14), silent image (DC 14) ]
+  0 (at will): [ bleed (DC 13), daze (DC 13), ghost sound, mage hand, ray of frost, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

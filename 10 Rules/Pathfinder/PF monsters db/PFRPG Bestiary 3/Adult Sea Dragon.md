@@ -67,7 +67,12 @@ SpecialAbilities:
     Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon's cone breath weapon. This line deals bludgeoning damage.
   Unfettered Swimmer (Su): >
     A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon's swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.
-SpellsKnown: Spells Known (CL 7th; concentration +12)  3rd (5/day)-hold person (DC 18), sleet storm  2nd (7/day)-gust of wind (DC 17), mirror image, see invisibility  1st (8/day)-charm person (DC 16), chill touch, color spray (DC 16), expeditious retreat, sleep (DC 16)  0 (at will)-acid splash, daze (DC 15), detect magic, mage hand, ray of frost, read magic, resistance
+SpellsKnown:
+  _: CL 7th; concentration +12
+  3 (5/day): [ hold person (DC 18), sleet storm ]
+  2 (7/day): [ gust of wind (DC 17), mirror image, see invisibility ]
+  1 (8/day): [ charm person (DC 16), chill touch, color spray (DC 16), expeditious retreat, sleep (DC 16) ]
+  0 (at will): [ acid splash, daze (DC 15), detect magic, mage hand, ray of frost, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

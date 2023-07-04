@@ -67,7 +67,16 @@ SpecialAbilities:
     An adult or older vortex dragon can strike with its bite through a rift in space. This allows it to make its bite attack against a target anywhere within the radius of its alien presence as long as the dragon can see the creature. This doesn't apply to attacks of opportunity.
   Galactic Emissary (Su): >
     A young or older vortex dragon halves the time of any starflight journey. In addition, it's immune to any effect that bars extradimensional travel.
-SpellsKnown: Sorcerer Spells Known (CL 15th; concentration +22)  7th (5/day)-forcecage (DC 24), spell turning  6th (7/day)-forceful hand, shadow walk (DC 23), true seeing  5th (7/day)-dream, passwall, telekinesis, wall of force  4th (7/day)-fear (DC 21), scrying (DC 21), solid fog, stoneskin  3rd (8/day)-dispel magic, haste, nondetection, tongues  2nd (8/day)-cat's grace, mirror image, obscure object, resist energy, scorching ray  1st (8/day)-feather fall, identify, mage armor, magic missile, true strike  0 (at will)-detect magic, light, message, read magic, 5 more
+SpellsKnown:
+  _: Sorcerer CL 15th; concentration +22
+  7 (5/day): [ forcecage (DC 24), spell turning ]
+  6 (7/day): [ forceful hand, shadow walk (DC 23), true seeing ]
+  5 (7/day): [ dream, passwall, telekinesis, wall of force ]
+  4 (7/day): [ fear (DC 21), scrying (DC 21), solid fog, stoneskin ]
+  3 (8/day): [ dispel magic, haste, nondetection, tongues ]
+  2 (8/day): [ cat's grace, mirror image, obscure object, resist energy, scorching ray ]
+  1 (8/day): [ feather fall, identify, mage armor, magic missile, true strike ]
+  0 (at will): [ detect magic, light, message, read magic, 5 more ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

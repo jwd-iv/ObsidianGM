@@ -71,7 +71,15 @@ SpecialAbilities:
     A blue dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Young-ghost sound; Juvenile-minor image; Adult-ventriloquism; Old-hallucinatory terrain; Ancient- veil; Great wyrm-mirage arcana.
   Storm Breath (Su): >
     An ancient or older blue dragon can use its breath weapon to create a storm of lightning. This functions as call lightning storm, but the damage is equal to the dragon's breath weapon. The dragon can call down 1 bolt per round as a free action for 1d6 rounds. The save DC is equal to the dragon's breath weapon DC. Additional uses of this ability extend the duration by an additional 1d6 rounds. Age Category S pecial Abilities Caster Level Wyrmling Desert thirst, immune to electricity - Very young Sound imitation - Young Ghost sound - Juvenile Frightful presence, minor image 1st Young adult DR 5/magic, spell resistance 3rd Adult Electricity aura, ventriloquism 5th Mature adult DR 10/magic 7th Old Mirage, hallucinatory terrain 9th Very old DR 15/magic 11th Ancient Storm breath, veil 13th Wyrm DR 20/magic 15th Great wyrm Sandstorm, mirage arcana 17th
-SpellsKnown: Spells Known (CL 13th) 6th (4/day)-forceful hand, mislead 5th (7/day)-dream, persistent image, hold monster (DC 20) 4th (7/day)-dimension door, enervation, fire shield, stoneskin 3rd (7/day)-dispel magic, displacement, haste, vampiric touch 2nd (7/day)-darkness, false life, invisibility, resist energy, shatter 1st (7/day)-alarm, mage armor, shield, true strike, unseen servant 0 (at will)-arcane mark, bleed (DC 15), detect magic, light, mage hand, mending, message, read magic, resistance
+SpellsKnown:
+  _: CL 13th
+  6 (4/day): [ forceful hand, mislead ]
+  5 (7/day): [ dream, persistent image, hold monster (DC 20) ]
+  4 (7/day): [ dimension door, enervation, fire shield, stoneskin ]
+  3 (7/day): [ dispel magic, displacement, haste, vampiric touch ]
+  2 (7/day): [ darkness, false life, invisibility, resist energy, shatter ]
+  1 (7/day): [ alarm, mage armor, shield, true strike, unseen servant ]
+  0 (at will): [ arcane mark, bleed (DC 15), detect magic, light, mage hand, mending, message, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

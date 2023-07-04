@@ -65,7 +65,16 @@ SpecialAbilities:
     A great wyrm brine dragon's natural attacks are so laden with salt and acidic crystals that every time it strikes a creature with one of these attacks, the target must make a Fortitude save (DC equals the dragon's breath weapon save DC) or be stunned for a round from the pain.
   Spell-like Abilities (Sp): >
     A brine dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) at the listed age. Very young-speak with animals (fish only); Young- obscuring mist; Juvenile-water breathing; Adult-control water; Ancient-horrid wilting (3/day); Great wyrm-tsunami^[This spell is from the Pathfinder RPG Advanced Player's Guide] (3/day).
-SpellsKnown: Spells Known (CL 15th; concentration +20)  7th (4/day)-control weather, mass fly^[PFRPG Advanced Player's Guide]  6th (6/day)-fluid form^[PFRPG Advanced Player's Guide], true seeing, transformation  5th (7/day)-break enchantment, dismissal, teleport, wall of force  4th (7/day)-ball lightning^[PFRPG Advanced Player's Guide] (DC 19), ice storm, greater invisibility, solid fog  3rd (7/day)-aqueous orb^[PFRPG Advanced Player's Guide] (DC 18), deep slumber (DC 18), dispel magic, sleet storm (DC 18)  2nd (7/day)-alter self, detect thoughts (DC 17), invisibility, make whole, slipstream^[PFRPG Advanced Player's Guide]  1st (8/day)-color spray (DC 16), feather fall, flare burst^[PFRPG Advanced Player's Guide] (DC 16), ray of enfeeblement, touch of the sea^[PFRPG Advanced Player's Guide]  0 (at will)-arcane mark, detect magic, detect poison, mage hand, message, open/ close, prestidigitation, read magic, resistance
+SpellsKnown:
+  _: CL 15th; concentration +20
+  7 (4/day): [ control weather, mass fly ]
+  6 (6/day): [ fluid form, true seeing, transformation ]
+  5 (7/day): [ break enchantment, dismissal, teleport, wall of force ]
+  4 (7/day): [ ball lightning (DC 19), ice storm, greater invisibility, solid fog ]
+  3 (7/day): [ aqueous orb (DC 18), deep slumber (DC 18), dispel magic, sleet storm (DC 18) ]
+  2 (7/day): [ alter self, detect thoughts (DC 17), invisibility, make whole, slipstream ]
+  1 (8/day): [ color spray (DC 16), feather fall, flare burst (DC 16), ray of enfeeblement, touch of the sea ]
+  0 (at will): [ arcane mark, detect magic, detect poison, mage hand, message, open/ close, prestidigitation, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

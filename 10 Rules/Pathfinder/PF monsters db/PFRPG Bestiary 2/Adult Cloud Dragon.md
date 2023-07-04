@@ -67,7 +67,11 @@ SpecialAbilities:
     A cloud dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young-obscuring mist; Young-fog cloud; Adult-solid fog; Old-cloudkill (3/day); Ancient-wind walk; Great wyrm-storm of vengeance (1/day).
   Thundering Bite (Su): >
     An ancient or older cloud dragon's bite makes a thundering crash whenever it attacks, dealing an additional 2d6 points of sonic damage. A great wyrm's thundering bite deals an additional 4d6 sonic damage.
-SpellsKnown: Spells Known (CL 5th; concentration +9)  2nd (5/day)-blur, see invisibility  1st (7/day)-charm person (DC 15), detect secret doors, shield, true strike  0 (at will)-dancing lights, detect poison, light, message, prestidigitation, read magic
+SpellsKnown:
+  _: CL 5th; concentration +9
+  2 (5/day): [ blur, see invisibility ]
+  1 (7/day): [ charm person (DC 15), detect secret doors, shield, true strike ]
+  0 (at will): [ dancing lights, detect poison, light, message, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

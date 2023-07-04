@@ -75,7 +75,16 @@ SpecialAbilities:
     A silver dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Very young-detect evil; Juvenile-feather fall; Adult-fog cloud; Old-control winds; Ancient-control weather; Great wyrm-reverse gravity.
   True Courage (Ex): >
     A great wyrm silver dragon can fight on through pain and death. When reduced to below 0 hit points, it remains conscious, automatically stabilizes, and can continue to act (although it is staggered). If it takes damage or is the target of a spell that causes its death, it remains alive for 1 round and can act normally (it is not staggered for this final round). Age Category S pecial Abilities L evel* Wyrmling Change shape, cold subtype, - immune to acid, paralyzing breath Very young Cloudwalking, detect evil - Young Graceful flight 1st Juvenile Fog vision, feather fall 3rd Young adult DR 5/magic, spell resistance 5th Adult Frightful presence, fog cloud 7th Mature adult DR 10/magic 9th Old Cold aura, control winds 11th Very old DR 15/magic 13th Ancient Reflective scales, control weather 15th Wyrm DR 20/magic 17th Great wyrm True courage, reverse gravity 19th * A silver dragon can cast cleric spells as arcane spells.
-SpellsKnown: Spells Known (CL 15th) 7th (5/day)-holy word (DC 24), repulsion (DC 24) 6th (7/day)-banishment (DC 23), greater dispel magic, heal 5th (7/day)-break enchantment, flame strike (DC 22), plane shift, wall of force 4th (7/day)-dimension door, freedom of movement, restoration, solid fog 3rd (7/day)-cure serious wounds, dispel magic, hold person (DC 20), wind wall 2nd (8/day)-augury, calm emotions (DC 19), cure moderate wounds, invisibility, web 1st (8/day)-bless, divine favor, protection from evil, shield, true strike 0 (at will)-detect magic, flare (DC 17), light, message, prestidigitation, read magic, stabilize, resistance, virtue
+SpellsKnown:
+  _: CL 15th
+  7 (5/day): [ holy word (DC 24), repulsion (DC 24) ]
+  6 (7/day): [ banishment (DC 23), greater dispel magic, heal ]
+  5 (7/day): [ break enchantment, flame strike (DC 22), plane shift, wall of force ]
+  4 (7/day): [ dimension door, freedom of movement, restoration, solid fog ]
+  3 (7/day): [ cure serious wounds, dispel magic, hold person (DC 20), wind wall ]
+  2 (8/day): [ augury, calm emotions (DC 19), cure moderate wounds, invisibility, web ]
+  1 (8/day): [ bless, divine favor, protection from evil, shield, true strike ]
+  0 (at will): [ detect magic, flare (DC 17), light, message, prestidigitation, read magic, stabilize, resistance, virtue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

@@ -61,7 +61,11 @@ SpecialAbilities:
     A creature bitten by a marai's bite (from either its actual mouth or the snakes it has for hands) must succeed at a DC 19 Will save or become confused for 1 round. The save DC is Constitution-based.
   Energy Bolts (Ex): >
     Once every 1d4 rounds as a standard action that provokes an attack of opportunity, a marai's six snake arms can each spit a bolt of energy to a maximum range of 60 feet. Each bolt deals 1d8 points of damage and has an additional effect if the target fails to resist it with a DC 19 Fortitude save, as summarized below. The save DC is Constitution-based.  Amethyst Viper: Cold damage plus sickened for 1d4 rounds.  Crimson Viper: Fire damage plus burn (1d4, DC 19).  Emerald Viper: Acid damage plus nauseated for 1 round.  Magenta Viper: Electricity damage plus staggered for 1 round.  Turquoise Viper: Sonic damage plus stunned for 1 round.  Violet Viper: Force damage plus knocked prone.  Spells A marai casts arcane spells as a 5th-level sorcerer.
-SpellsKnown: Spells Known (CL 5th; concentration +9)   2nd (5/day)-invisibility, scorching ray   1st (7/day)-charm person (DC 15), jump, mage armor, magic missile   0 (at will)-bleed (DC 14), detect magic, ghost sound (DC 14), mage hand, open/close, read magic
+SpellsKnown:
+  _: CL 5th; concentration +9
+  2 (5/day): [ invisibility, scorching ray ]
+  1 (7/day): [ charm person (DC 15), jump, mage armor, magic missile ]
+  0 (at will): [ bleed (DC 14), detect magic, ghost sound (DC 14), mage hand, open/close, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

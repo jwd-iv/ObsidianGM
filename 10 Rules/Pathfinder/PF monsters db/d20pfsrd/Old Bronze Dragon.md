@@ -65,7 +65,14 @@ SpecialAbilities:
     A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
   Wave Mastery (Su): >
     For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
-SpellsKnown: Sorcerer Spells Known (CL 11th; concentration+17) 5th (5/day)- mind fog, teleport 4th (7/day)- dimension door, ice storm, solid fog 3rd (7/day)- dispel magic, heroism, slow (DC 19), suggestion 2nd (8/day)- blur, gust of wind, invisibility, mirror image, web 1st (8/day)- alarm, mage armor, obscuring mist, shield, true strike 0 (at will)- detect magic, detect poison, light, mage hand, mending, message, read magic, resistance, prestidigitation
+SpellsKnown:
+  _: Sorcerer CL 11th; concentration+17
+  5 (5/day): [ mind fog, teleport ]
+  4 (7/day): [ dimension door, ice storm, solid fog ]
+  3 (7/day): [ dispel magic, heroism, slow (DC 19), suggestion ]
+  2 (8/day): [ blur, gust of wind, invisibility, mirror image, web ]
+  1 (8/day): [ alarm, mage armor, obscuring mist, shield, true strike ]
+  0 (at will): [ detect magic, detect poison, light, mage hand, mending, message, read magic, resistance, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

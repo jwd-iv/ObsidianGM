@@ -59,7 +59,10 @@ SQ: bloodline arcana (+2 DC for compulsion spells), change shape, kitsune magic
 SpecialAbilities:
   Change Shape (Su): >
     A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on Disguise checks made to appear human. This ability otherwise functions as alter self, except that the kitsune does not adjust her ability scores.  Kitsune Magic (Ex/Sp) Kitsune add 1 to the DC of any saving throws of enchantment spells they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day-dancing lights.
-SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +4)  1st (4/day)-charm person (DC 15), sleep (DC 17)  0 (at will)-daze, detect magic, prestidigitation, read magic
+SpellsKnown:
+  _: Sorcerer CL 1st; concentration +4
+  1 (4/day): [ charm person (DC 15), sleep (DC 17) ]
+  0 (at will): [ daze, detect magic, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: fey

@@ -69,7 +69,18 @@ SpecialAbilities:
     Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
   Umbral Scion (Ex): >
     Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
-SpellsKnown: Spells Known (CL 19th; concentration +27) 9th (4/day)-suffocation, mass (DC 27), wish 8th (7/day)-horrid wilting (DC 26), screen, trap the soul(DC 26) 7th (7/day)-destruction (DC 25), limited wish, waves of exhaustion 6th (7/day)-harm (DC 24), mislead, veil(DC 24) 5th (7/day)-greater command (DC 23), slay living (DC 23), teleport, unhallow 4th (7/day)-enervation, inflict critical wounds (DC 22), phantasmal killer (DC 22), unholy blight(DC 22) 3rd (7/day)-dispel magic, haste, inflict serious wounds (DC 21), lightning bolt(DC 21) 2nd (7/day)-alter self, blur, command undead (DC 20), invisibility, web(DC 20) 1st (7/day)-inflict light wounds (DC 19), grease (DC 19), magic missile, reduce person (DC 19), shield 0 (at will)-acid splash, bleed (DC 18), detect magic, detect poison, disrupt undead (DC 18), ghost sound, mage hand, ray of frost, read magic
+SpellsKnown:
+  _: CL 19th; concentration +27
+  9 (4/day): [ suffocation, mass (DC 27), wish ]
+  8 (7/day): [ horrid wilting (DC 26), screen, trap the soul(DC 26) ]
+  7 (7/day): [ destruction (DC 25), limited wish, waves of exhaustion ]
+  6 (7/day): [ harm (DC 24), mislead, veil(DC 24) ]
+  5 (7/day): [ greater command (DC 23), slay living (DC 23), teleport, unhallow ]
+  4 (7/day): [ enervation, inflict critical wounds (DC 22), phantasmal killer (DC 22), unholy blight(DC 22) ]
+  3 (7/day): [ dispel magic, haste, inflict serious wounds (DC 21), lightning bolt(DC 21) ]
+  2 (7/day): [ alter self, blur, command undead (DC 20), invisibility, web(DC 20) ]
+  1 (7/day): [ inflict light wounds (DC 19), grease (DC 19), magic missile, reduce person (DC 19), shield ]
+  0 (at will): [ acid splash, bleed (DC 18), detect magic, detect poison, disrupt undead (DC 18), ghost sound, mage hand, ray of frost, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

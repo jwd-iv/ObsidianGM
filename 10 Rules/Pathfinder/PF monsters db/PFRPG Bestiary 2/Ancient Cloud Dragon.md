@@ -67,7 +67,15 @@ SpecialAbilities:
     A cloud dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young-obscuring mist; Young-fog cloud; Adult-solid fog; Old-cloudkill (3/day); Ancient-wind walk; Great wyrm-storm of vengeance (1/day).
   Thundering Bite (Su): >
     An ancient or older cloud dragon's bite makes a thundering crash whenever it attacks, dealing an additional 2d6 points of sonic damage. A great wyrm's thundering bite deals an additional 4d6 sonic damage.
-SpellsKnown: Spells Known (CL 13th; concentration +19)  6th (5/day)-chain lightning (DC 22), greater dispel magic  5th (7/day)-cone of cold (DC 21), dismissal (DC 21), teleport  4th (7/day)-elemental body I, ice storm, lesser geas (DC 20), river of wind^[PFRPG Advanced Player's Guide]  3rd (7/day)-arcane sight, cloak of winds^[PFRPG Advanced Player's Guide], stinking cloud (DC 19), suggestion (DC 19)  2nd (8/day)-eagle's splendor, glitterdust (DC 18), gust of wind, locate object, see invisibility  1st (8/day)-alter winds^[PFRPG Advanced Player's Guide], charm person (DC 17), detect secret doors, erase, true strike  0 (at will)-dancing lights, detect poison, light, mage hand, message, prestidigitation, read magic, resistance, touch of fatigue
+SpellsKnown:
+  _: CL 13th; concentration +19
+  6 (5/day): [ chain lightning (DC 22), greater dispel magic ]
+  5 (7/day): [ cone of cold (DC 21), dismissal (DC 21), teleport ]
+  4 (7/day): [ elemental body I, ice storm, lesser geas (DC 20), river of wind ]
+  3 (7/day): [ arcane sight, cloak of winds, stinking cloud (DC 19), suggestion (DC 19) ]
+  2 (8/day): [ eagle's splendor, glitterdust (DC 18), gust of wind, locate object, see invisibility ]
+  1 (8/day): [ alter winds, charm person (DC 17), detect secret doors, erase, true strike ]
+  0 (at will): [ dancing lights, detect poison, light, mage hand, message, prestidigitation, read magic, resistance, touch of fatigue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

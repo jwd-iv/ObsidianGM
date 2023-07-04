@@ -69,7 +69,18 @@ SpecialAbilities:
     Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
   Trap Master (Ex): >
     A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue's Trapfinding class feature.
-SpellsKnown: Sorcerer Spells Known (CL 19th; concentration +26)  9th (4/day)- clashing rocks* (DC 26), weird (DC 27)  8th (6/day)- irresistible dance (DC 25), scintillating pattern (DC 26), temporal stasis (DC 25)  7th (7/day)- mass hold person (DC 24), reverse gravity, teleport object (DC 24)  6th (7/day)- antimagic field, mislead, programmed image (DC 24)  5th (7/day)- mind fog (DC 22), polymorph, sending, teleport  4th (7/day)- confusion (DC 21), rainbow pattern (DC 22), stone shape, stoneskin  3rd (8/day)- dispel magic, haste, suggestion (DC 20), tongues  2nd (8/day)- glitterdust (DC 19), invisibility, phantom trap, pyrotechnics, see invisibility  1st (8/day)- expeditious retreat, magic aura, obscuring mist, shield, silent image (DC 19)  0 (at will)- dancing lights, detect magic, ghost sound (DC 18), light, mage hand, message, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: Sorcerer CL 19th; concentration +26
+  9 (4/day): [ clashing rocks* (DC 26), weird (DC 27) ]
+  8 (6/day): [ irresistible dance (DC 25), scintillating pattern (DC 26), temporal stasis (DC 25) ]
+  7 (7/day): [ mass hold person (DC 24), reverse gravity, teleport object (DC 24) ]
+  6 (7/day): [ antimagic field, mislead, programmed image (DC 24) ]
+  5 (7/day): [ mind fog (DC 22), polymorph, sending, teleport ]
+  4 (7/day): [ confusion (DC 21), rainbow pattern (DC 22), stone shape, stoneskin ]
+  3 (8/day): [ dispel magic, haste, suggestion (DC 20), tongues ]
+  2 (8/day): [ glitterdust (DC 19), invisibility, phantom trap, pyrotechnics, see invisibility ]
+  1 (8/day): [ expeditious retreat, magic aura, obscuring mist, shield, silent image (DC 19) ]
+  0 (at will): [ dancing lights, detect magic, ghost sound (DC 18), light, mage hand, message, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

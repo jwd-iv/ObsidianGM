@@ -65,7 +65,15 @@ SpecialAbilities:
     A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.
   Sleep Breath (Su): >
     Instead of a line of fire, a brass dragon can breathe a 50 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+9 rounds.
-SpellsKnown: Sorcerer Spells Known (CL 13th; concentration +17)  6th (4/day)--forceful hand, greater dispel magic  5th (6/day)--dominate person (DC 21), mirage arcana, prying eyes  4th (7/day)--charm monster (DC 20), confusion (DC 20), dimensional anchor, locate creature  3rd (7/day)--displacement, heroism, hold person (DC 19), tongues  2nd (7/day)--alter self, detect thoughts (DC 16), locate object, resist energy, see invisibility  1st (7/day)--alarm, charm person (DC 17), protection from evil, shield, ventriloquism  0 (at will)--arcane mark, dancing lights, detect magic, detect poison, ghost sound (DC 14), mage hand, message, prestidigitation, read magic
+SpellsKnown:
+  _: Sorcerer CL 13th; concentration +17
+  6 (4/day): [ -forceful hand, greater dispel magic ]
+  5 (6/day): [ -dominate person (DC 21), mirage arcana, prying eyes ]
+  4 (7/day): [ -charm monster (DC 20), confusion (DC 20), dimensional anchor, locate creature ]
+  3 (7/day): [ -displacement, heroism, hold person (DC 19), tongues ]
+  2 (7/day): [ -alter self, detect thoughts (DC 16), locate object, resist energy, see invisibility ]
+  1 (7/day): [ -alarm, charm person (DC 17), protection from evil, shield, ventriloquism ]
+  0 (at will): [ -arcane mark, dancing lights, detect magic, detect poison, ghost sound (DC 14), mage hand, message, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

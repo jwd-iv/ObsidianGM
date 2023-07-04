@@ -69,7 +69,18 @@ SpecialAbilities:
     A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
   Wave Mastery (Su): >
     For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
-SpellsKnown: Sorcerer Spells Known (CL 19th; concentration +27)  9th (4/day)- freedom, tsunami*  8th (7/day)- antipathy, discern location, storm bolts*  7th (7/day)- mass fly, spell turning, statue  6th (7/day)- greater dispel magic, mass suggestion (DC 24), mislead  5th (7/day)- dismissal, interposing hand, mind fog, teleport  4th (8/day)- dimension door, ice storm, solid fog, stoneskin  3rd (8/day)- dispel magic, heroism, slow (DC 21), suggestion  2nd (8/day)- blur, gust of wind, invisibility, mirror image, web  1st (8/day)- alarm, mage armor, obscuring mist, shield, true strike  0 (at will)-  detect magic, detect poison, light, mage hand, mending, message, read magic, resistance, prestidigitation
+SpellsKnown:
+  _: Sorcerer CL 19th; concentration +27
+  9 (4/day): [ freedom, tsunami* ]
+  8 (7/day): [ antipathy, discern location, storm bolts* ]
+  7 (7/day): [ mass fly, spell turning, statue ]
+  6 (7/day): [ greater dispel magic, mass suggestion (DC 24), mislead ]
+  5 (7/day): [ dismissal, interposing hand, mind fog, teleport ]
+  4 (8/day): [ dimension door, ice storm, solid fog, stoneskin ]
+  3 (8/day): [ dispel magic, heroism, slow (DC 21), suggestion ]
+  2 (8/day): [ blur, gust of wind, invisibility, mirror image, web ]
+  1 (8/day): [ alarm, mage armor, obscuring mist, shield, true strike ]
+  0 (at will): [ detect magic, detect poison, light, mage hand, mending, message, read magic, resistance, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

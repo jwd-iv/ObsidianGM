@@ -61,7 +61,12 @@ SpecialAbilities:
     A formian taskmaster can inspire competence or inspire courage as a 7th-level bard (typically 20 rounds/day). The taskmaster's performance is purely mental and only affects formians from its own hive within telepathic range.
   Poison (Ex): >
     Sting-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d4 Dexterity; cure 2 consecutive saves.  Spells A formian taskmaster casts spells as a 7th-level bard. It favors enchantment and illusion spells.
-SpellsKnown: Bard Spells Known (CL 7th; concentration +11)  3rd (2)-confusion (DC 18), good hope 2nd (4)-heroism, invisibility, sound burst (DC 16), suggestion (DC 17)  1st (5)-charm person (DC 16), comprehend languages, cure light wounds, hideous laughter (DC 16), silent image (DC 15)  0 (at will)-dancing lights, daze (DC 15), detect magic, mending, message, prestidigitation
+SpellsKnown:
+  _: Bard CL 7th; concentration +11
+  3 (2): [ confusion (DC 18), good hope ]
+  2 (4): [ heroism, invisibility, sound burst (DC 16), suggestion (DC 17) ]
+  1 (5): [ charm person (DC 16), comprehend languages, cure light wounds, hideous laughter (DC 16), silent image (DC 15) ]
+  0 (at will): [ dancing lights, daze (DC 15), detect magic, mending, message, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

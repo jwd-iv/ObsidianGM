@@ -276,9 +276,20 @@ class Statblock
 		print()
 
 		if (data.SpellsKnown)
-			text += ` **Spells Known**: ${data.SpellsKnown};`
+		{
+			text += ` **Spells Known** (${data.SpellsKnown._})`
+			
+			print()
 
-		print()
+			text += Object.keys(data.SpellsKnown)
+				.filter(key => key !== '_')
+				.map(key =>
+					`- ${key}—` + data.SpellsKnown[key].join(', ')
+				)
+				.join("\n")
+
+			print()
+		}
 
 		if (data.SpellsPrepared)
 			text += ` **Spells Prepared**: ${data.SpellsPrepared};`
@@ -289,7 +300,7 @@ class Statblock
 		{
 			Object.keys(data.SpecialAbilities)
 				.map(key => dv.paragraph(
-					`*${key}* - ` + data.SpecialAbilities[key]
+					`*${key}*—` + data.SpecialAbilities[key]
 				))
 		}
 

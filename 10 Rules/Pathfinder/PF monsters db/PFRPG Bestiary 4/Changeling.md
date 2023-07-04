@@ -58,7 +58,10 @@ Languages: Common, Draconic, Elven, Orc
 SQ: hulking changeling, witch's familiar (spider)
 SpecialAbilities: 
 SpellsKnown: 
-SpellsPrepared: Witch Spells Prepared (CL 1st; concentration +3)  1st-hypnotism (DC 14), sleep (DC 14)  0 (at will)-daze (DC 13), light, touch of fatigue (DC 13)
+SpellsPrepared:
+  _: Witch CL 1st; concentration +3
+  1: [ hypnotism (DC 14), sleep (DC 14) ]
+  0 (at will): [ daze (DC 13), light, touch of fatigue (DC 13) ]
 SpellDomains: 
 Bloodline: 
 Environment: any

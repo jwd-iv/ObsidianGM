@@ -69,7 +69,10 @@ SpecialAbilities:
     Three times per day as an immediate action, an ancient or older time dragon can force a creature (including itself) to reroll any d20 roll. The target must use the result of the second roll.
   Time Travel (Su): >
     Up to three times in its life, a great wyrm time dragon can travel to any point in time, taking with it a number of willing creatures equal to its Charisma modifier.
-SpellsKnown: Sorcerer Spells Known (CL 1st; concentration +3)  1st (4/day)-erase, mage armor  0 (at will)-mage hand, message, read magic, resistance
+SpellsKnown:
+  _: Sorcerer CL 1st; concentration +3
+  1 (4/day): [ erase, mage armor ]
+  0 (at will): [ mage hand, message, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

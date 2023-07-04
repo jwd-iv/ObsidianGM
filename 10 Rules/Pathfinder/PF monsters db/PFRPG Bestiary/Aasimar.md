@@ -58,7 +58,10 @@ Languages: Celestial, Common, Draconic
 SQ: 
 SpecialAbilities: 
 SpellsKnown: 
-SpellsPrepared: Spells Prepared (CL 1st) 1st-bless, command (DC 14), protection from evilD 0 (at will)-detect magic, guidance, stabilize
+SpellsPrepared:
+  _: CL 1st
+  1st: [ bless, command (DC 14), protection from evil ]
+  0 (at will): [ detect magic, guidance, stabilize ]
 SpellDomains: Good, Healing
 Bloodline: 
 Environment: land

@@ -75,7 +75,16 @@ SpecialAbilities:
     This allows a Gargantuan or larger dragon to sweep with its tail as a standard action. The sweep affects a half-circle with a radius of 30 feet (or 40 feet for a Colossal dragon), extending from an intersection on the edge of the dragon's space in any direction. Creatures within the swept area are affected if they are four or more size categories smaller than the dragon. A tail sweep automatically deals the indicated damage plus 1-1/2 times the dragon's Strength bonus (round down). Affected creatures can attempt Reflex saves to take half damage (DC equal to that of the dragon's breath weapon).
   Water Breathing (Ex): >
     A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
-SpellsKnown: Spells Known (CL 15th, concentration +20) 7th (4/day)-force cage, power word blind 6th (6/day)-acid fog, contingency, disintegrate 5th (7/day)-cone of cold (DC 19), dominate person, wall of force, waves of fatigue 4th (7/day)-arcane eye, black tentacles, dimension door, enervation 3rd (7/day)-dispel magic, heroism, hold person (DC 17), slow (DC 17) 2nd (7/day)-blur, glitterdust (DC 16), invisibility, summon swarm, whispering wind 1st (8/day)-alarm, mage armor, magic missile, obscuring mist, true strike 0 (at will)-dancing lights, detect magic, light, mage hand, mending, message, prestidigitation, read magic, resistance
+SpellsKnown:
+  _: CL 15th, concentration +20
+  7 (4/day): [ force cage, power word blind ]
+  6 (6/day): [ acid fog, contingency, disintegrate ]
+  5 (7/day): [ cone of cold (DC 19), dominate person, wall of force, waves of fatigue ]
+  4 (7/day): [ arcane eye, black tentacles, dimension door, enervation ]
+  3 (7/day): [ dispel magic, heroism, hold person (DC 17), slow (DC 17) ]
+  2 (7/day): [ blur, glitterdust (DC 16), invisibility, summon swarm, whispering wind ]
+  1 (8/day): [ alarm, mage armor, magic missile, obscuring mist, true strike ]
+  0 (at will): [ dancing lights, detect magic, light, mage hand, mending, message, prestidigitation, read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

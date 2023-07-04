@@ -67,7 +67,10 @@ SpecialAbilities:
     A crystal dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) upon reaching the listed age category. Very young-color spray; Juvenile-glitterdust; Adult-rainbow pattern; Old- stone to flesh (3/day); Ancient-prismatic spray (3/day); Great wyrm-imprisonment (1/day).
   Tremorsense (Ex): >
     Crystal dragons do not gain tremorsense until juvenile age (30 ft.), improving at adult (60 ft.) and old (120 ft.).
-SpellsKnown: Spells Known (CL 1st; concentration +7)  1st (5/day)-shield, unseen servant  0 (at will)-acid splash, detect magic, ghost sound, read magic
+SpellsKnown:
+  _: CL 1st; concentration +7
+  1 (5/day): [ shield, unseen servant ]
+  0 (at will): [ acid splash, detect magic, ghost sound, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

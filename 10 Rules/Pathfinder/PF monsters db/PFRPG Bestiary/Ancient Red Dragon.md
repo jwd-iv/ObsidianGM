@@ -69,7 +69,16 @@ SpecialAbilities:
     A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
   Spell-Like Abilities (Sp): >
     A red dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Young-detect magic; Juvenile-pyrotechnics; Adult-suggestion; Old-wall of fire; Ancient-find the path; Great wyrm-discern location. Age Category S pecial Abilities Caster Level Wyrmling Fire subtype - Very young Smoke vision - Young Detect magic 1st Juvenile Frightful presence, pyrotechnics 3rd Young adult DR 5/magic, spell resistance 5th Adult Fire aura, suggestion 7th Mature adult DR 10/magic 9th Old Manipulate flames, wall of fire 11th Very old DR 15/magic 13th Ancient Melt stone, find the path 15th Wyrm DR 20/magic 17th Great wyrm Incinerate, discern location 19th
-SpellsKnown: Spells Known (CL 15th) 7th (4/day)-limited wish, spell turning 6th (6/day)-antimagic field, contingency, greater dispel magic 5th (7/day)-polymorph, telekinesis (DC 20), teleport, wall of force 4th (7/day)-fear (DC 19), fire shield, greater invisibility, stoneskin 3rd (7/day)-dispel magic, displacement, haste, tongues 2nd (7/day)-alter self, detect thoughts (DC 17), misdirection (DC 17), resist energy, see invisibility 1st (8/day)-alarm, grease (DC 16), magic missile, shield, true strike 0 (at will)-arcane mark, bleed, light, mage hand, mending, message, open/close, prestidigitation, read magic
+SpellsKnown:
+  _: CL 15th
+  7 (4/day): [ limited wish, spell turning ]
+  6 (6/day): [ antimagic field, contingency, greater dispel magic ]
+  5 (7/day): [ polymorph, telekinesis (DC 20), teleport, wall of force ]
+  4 (7/day): [ fear (DC 19), fire shield, greater invisibility, stoneskin ]
+  3 (7/day): [ dispel magic, displacement, haste, tongues ]
+  2 (7/day): [ alter self, detect thoughts (DC 17), misdirection (DC 17), resist energy, see invisibility ]
+  1 (8/day): [ alarm, grease (DC 16), magic missile, shield, true strike ]
+  0 (at will): [ arcane mark, bleed, light, mage hand, mending, message, open/close, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

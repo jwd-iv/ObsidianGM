@@ -67,7 +67,11 @@ SpecialAbilities:
     A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
   Underworld Burrower (Ex): >
     An adult underworld dragon gains a 10-foot bonus to its burrow speed. When the underworld dragon becomes old and every two age categories thereafter, its burrow speed increases by an additional 10 feet.
-SpellsKnown: Spells Known (CL 5th; concentration +8)  2nd (5/day)-flaming sphere (DC 15), scorching ray  1st (7/day)-burning hands (DC 14), cause fear (DC 14) magic missile, ray of enfeeblement (DC 14)  0 (at will)-acid splash, bleed (DC 13), detect magic, flare (DC 13), read magic, resistance
+SpellsKnown:
+  _: CL 5th; concentration +8
+  2 (5/day): [ flaming sphere (DC 15), scorching ray ]
+  1 (7/day): [ burning hands (DC 14), cause fear (DC 14) magic missile, ray of enfeeblement (DC 14) ]
+  0 (at will): [ acid splash, bleed (DC 13), detect magic, flare (DC 13), read magic, resistance ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

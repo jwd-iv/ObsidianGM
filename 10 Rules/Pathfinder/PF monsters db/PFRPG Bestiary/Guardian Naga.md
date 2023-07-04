@@ -61,7 +61,13 @@ SpecialAbilities:
     Bite-injury or spit-contact; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 2 consecutive saves. The save DC is Constitution-based. Spells A guardian naga casts spells as a 9th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a guardian naga.
   Spit (Ex): >
     A guardian naga can spit its venom up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Opponents hit by this attack must make successful saves (see above) to avoid the effect.
-SpellsKnown: Spells Known (CL 9th) 4th (5/day)-divine power, greater invisibility 3rd (7/day)-cure serious wounds, dispel magic, lightning bolt (DC 17) 2nd (7/day)-detect thoughts (DC 16), lesser restoration, see invisibility, scorching ray 1st (7/day)-cure light wounds, divine favor, expeditious retreat, mage armor, magic missile 0 (at will)-daze (DC 14), detect magic, light, mage hand, open/close, ray of frost, read magic, stabilize
+SpellsKnown:
+  _: CL 9th
+  4 (5/day): [ divine power, greater invisibility ]
+  3 (7/day): [ cure serious wounds, dispel magic, lightning bolt (DC 17) ]
+  2 (7/day): [ detect thoughts (DC 16), lesser restoration, see invisibility, scorching ray ]
+  1 (7/day): [ cure light wounds, divine favor, expeditious retreat, mage armor, magic missile ]
+  0 (at will): [ daze (DC 14), detect magic, light, mage hand, open/close, ray of frost, read magic, stabilize ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

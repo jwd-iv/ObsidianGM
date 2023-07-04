@@ -65,7 +65,12 @@ SpecialAbilities:
     A magma dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young-burning hands; Juvenile-scorching ray; Adult- wall of fire; Old-fire shield (warm shield, constant); Ancient-delayed blast fireball (3/day); Great wyrm-wall of lava^[This spell is from the Pathfinder RPG Advanced Player's Guide].
   Superheated (Su): >
     At young age and older, a magma dragon's bite attack deals additional fire damage equal to its age category.
-SpellsKnown: Spells Known (CL 7th; concentration +10)  3rd (5/day)-dispel magic, fireball (DC 16)  2nd (7/day)-dust of twilight^[PFRPG Advanced Player's Guide], flaming sphere (DC 15), glitterdust (DC 15), pyrotechnics (DC 15)  1st (7/day)-feather fall, flare burst^[PFRPG Advanced Player's Guide] (DC 14), grease (DC 14), shield, true strike  0 (at will)-bleed (DC 13), detect magic, detect poison, open/ close, read magic, spark^[PFRPG Advanced Player's Guide], touch of fatigue
+SpellsKnown:
+  _: CL 7th; concentration +10
+  3 (5/day): [ dispel magic, fireball (DC 16) ]
+  2 (7/day): [ dust of twilight, flaming sphere (DC 15), glitterdust (DC 15), pyrotechnics (DC 15) ]
+  1 (7/day): [ feather fall, flare burst (DC 14), grease (DC 14), shield, true strike ]
+  0 (at will): [ bleed (DC 13), detect magic, detect poison, open/close, read magic, spark, touch of fatigue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

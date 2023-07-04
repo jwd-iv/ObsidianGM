@@ -59,7 +59,11 @@ SQ: change shape (any humanoid, alter self )
 SpecialAbilities:
   Detect Thoughts (Su): >
     A rakshasa can detect thoughts as per the spell of the same name (CL 18th). It can suppress or resume this ability as a free action. When a rakshasa uses this ability, it always functions as if it had spent three rounds concentrating and thus gains the maximum amount of information possible. A creature can resist this effect with a DC 18 Will save. The save DC is Charisma-based.
-SpellsKnown: Spells Known (CL 7th) 3rd (5/day)-lightning bolt (DC 16), suggestion (DC 16) 2nd (7/day)-acid arrow, invisibility, minor image 1st (7/day)-charm person (DC 14), mage armor, magic missile, shield, silent image 0-dancing lights, detect magic, ghost sound (DC 13), mage hand, mending, message, prestidigitation
+SpellsKnown:
+  _: CL 7th
+  3 (5/day): [ lightning bolt (DC 16), suggestion (DC 16) ]
+  2 (7/day): [ acid arrow, invisibility, minor image ]
+  1 (7/day): [ charm person (DC 14), mage armor, magic missile, shield, silent image 0-dancing lights, detect magic, ghost sound (DC 13), mage hand, mending, message, prestidigitation ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

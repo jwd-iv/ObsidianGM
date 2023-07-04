@@ -67,7 +67,17 @@ SpecialAbilities:
     An ancient or older brass dragon can create a powerful sandstorm once per day as a full-round action. This storm has a radius of 1 mile and lasts for 1 minute per age category of the dragon. This functions as a sandstorm (Pathfinder RPG Core Rulebook 431), except that it is also accompanied by windstorm-level winds.
   Sleep Breath (Su): >
     Instead of a line of fire, a brass dragon can breathe a 50 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+11 rounds.
-SpellsKnown: Sorcerer Spells Known (CL 17th; concentration +22)  8th (4/day)--demand (DC 25), power word stun  7th (6/day)--greater teleport, mass hold person (DC 24), power word blind   6th (6/day)--forceful hand, geas, greater dispel magic  5th (7/day)--contact other plane, dominate person (DC 22), mirage arcana, prying eyes  4th (7/day)--charm monster (DC 21), confusion (DC 21), dimensional anchor, locate creature  3rd (7/day)--displacement, heroism, hold person (DC 20), tongues  2nd (7/day)--alter self, detect thoughts (DC 17), locate object, resist energy, see invisibility  1st (8/day)--alarm, charm person (DC 18), protection from evil, shield, ventriloquism  0 (at will)--arcane mark, dancing lights, detect magic, detect poison, ghost sound (DC 15), mage hand, message, prestidigitation, read magic
+SpellsKnown:
+  _: Sorcerer CL 17th; concentration +22
+  8 (4/day): [ -demand (DC 25), power word stun ]
+  7 (6/day): [ -greater teleport, mass hold person (DC 24), power word blind ]
+  6 (6/day): [ -forceful hand, geas, greater dispel magic ]
+  5 (7/day): [ -contact other plane, dominate person (DC 22), mirage arcana, prying eyes ]
+  4 (7/day): [ -charm monster (DC 21), confusion (DC 21), dimensional anchor, locate creature ]
+  3 (7/day): [ -displacement, heroism, hold person (DC 20), tongues ]
+  2 (7/day): [ -alter self, detect thoughts (DC 17), locate object, resist energy, see invisibility ]
+  1 (8/day): [ -alarm, charm person (DC 18), protection from evil, shield, ventriloquism ]
+  0 (at will): [ -arcane mark, dancing lights, detect magic, detect poison, ghost sound (DC 15), mage hand, message, prestidigitation, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

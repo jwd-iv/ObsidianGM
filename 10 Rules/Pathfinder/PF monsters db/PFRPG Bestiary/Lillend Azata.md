@@ -57,7 +57,12 @@ RacialMods: +4 Survival
 Languages: Celestial, Draconic, Infernal; truespeech
 SQ: 
 SpecialAbilities: Bardic Performance A lillend has the bardic performance ability of a 7th-level bard, granting her access to that ability's countersong, fascinate, inspire courage, inspire competence, and suggestion aspects. Spells A lillend casts spells as a 7th-level bard. They favor enchantment and healing spells.
-SpellsKnown: Spells Known (CL 7th) 3rd (2/day)-charm monster (DC 17), cure serious wounds 2nd (4/day)-hold person (DC 16), invisibility, sound burst (DC 16), suggestion (DC 16) 1st (5/day)-charm person (DC 15), cure light wounds, identify, sleep (DC 15) 0 (at will)-dancing lights, daze (DC 14), detect magic, lullaby (DC 14), mage hand, read magic
+SpellsKnown:
+  _: CL 7th
+  3 (2/day): [ charm monster (DC 17), cure serious wounds ]
+  2 (4/day): [ hold person (DC 16), invisibility, sound burst (DC 16), suggestion (DC 16) ]
+  1 (5/day): [ charm person (DC 15), cure light wounds, identify, sleep (DC 15) ]
+  0 (at will): [ dancing lights, daze (DC 14), detect magic, lullaby (DC 14), mage hand, read magic ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 

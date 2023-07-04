@@ -64,7 +64,16 @@ SpecialAbilities:
   Light Ray (Ex): >
     A ghaele's light rays have a range of 300 feet. This attack bypasses all damage reduction. Spells Ghaeles cast divine spells as 13th-level clerics. They do not gain access to domains or other cleric abilities.
 SpellsKnown: 
-SpellsPrepared: Spells Prepared (CL 13th) 7th-holy word (DC 21) 6th-banishment (DC 20), heal (DC 20) 5th-flame strike (DC 19), raise dead, true seeing 4th-death ward, dismissal (2) (DC 18), divine power, restoration 3rd-cure serious wounds (3), searing light (2) 2nd-aid, align weapon, bear's endurance, lesser restoration (2) 1st-bless, command (DC 15), divine favor, obscuring mist, shield of faith 0 (at will)-detect magic, purify food and drink, stabilize, virtue
+SpellsPrepared:
+  _: CL 13th
+  7th: [ holy word (DC 21) ]
+  6th: [ banishment (DC 20), heal (DC 20) ]
+  5th: [ flame strike (DC 19), raise dead, true seeing ]
+  4th: [ death ward, dismissal (2) (DC 18), divine power, restoration ]
+  3rd: [ cure serious wounds (3), searing light (2) ]
+  2nd: [ aid, align weapon, bear's endurance, lesser restoration (2) ]
+  1st: [ bless, command (DC 15), divine favor, obscuring mist, shield of faith ]
+  0 (at will): [ detect magic, purify food and drink, stabilize, virtue ]
 SpellDomains: 
 Bloodline: 
 Environment: any (Elysium)

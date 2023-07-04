@@ -63,7 +63,13 @@ SpecialAbilities:
     A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener's Sense Motive check.
   Woodland Stride (Ex): >
     As the druid ability of the same name.
-SpellsKnown: Spells Known (CL 9th; concentration +13) 4th (4/day)-charm monster (DC 17), solid fog 3rd (7/day)-lightning bolt (DC 16), wind wall, stinking cloud(DC 16) 2nd (7/day)-fog cloud, hideous laughter, invisibility, touch of idiocy 1st (7/day)-hypnotism (DC 14), obscuring mist, magic missile, ray of enfeeblement (DC 14), shield 0 (at-will)-daze (DC 13), detect magic, ghost sound, mage hand, mending, read magic, resistance, touch of fatigue
+SpellsKnown:
+  _: CL 9th; concentration +13
+  4 (4/day): [ charm monster (DC 17), solid fog ]
+  3 (7/day): [ lightning bolt (DC 16), wind wall, stinking cloud(DC 16) ]
+  2 (7/day): [ fog cloud, hideous laughter, invisibility, touch of idiocy ]
+  1 (7/day): [ hypnotism (DC 14), obscuring mist, magic missile, ray of enfeeblement (DC 14), shield ]
+  0 (at-will): [ daze (DC 13), detect magic, ghost sound, mage hand, mending, read magic, resistance, touch of fatigue ]
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
