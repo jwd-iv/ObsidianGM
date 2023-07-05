@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +14 (1d8+4), 2 slams +14 (2d6+4)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "1d8+4"
+  - Attack: "2 slams +14"
+    Effect: "2d6+4"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: bone prison (ranged touch +12)

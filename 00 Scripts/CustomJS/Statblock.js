@@ -185,7 +185,10 @@ class Statblock
 		print()
 
 		if (data.Melee)
-			text += ` **Melee** ${data.Melee};`
+			text += ' **Melee** '
+				+ data.Melee.map(m => `${m.Attack} (${m.Effect})`)
+					.join(', ')
+				+ ';'
 
 		if (data.Reach)
 			text += ` **Reach** ${data.Reach};`
@@ -193,7 +196,10 @@ class Statblock
 		print()
 
 		if (data.Ranged)
-			text += `**Ranged** ${data.Ranged}`
+			text += ' **Ranged** '
+				+ data.Ranged.map(r => `${r.Attack} (${r.Effect})`)
+					.join(', ')
+				+ ';'
 
 		print()
 

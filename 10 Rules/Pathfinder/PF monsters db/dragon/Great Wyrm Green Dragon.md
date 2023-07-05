@@ -36,7 +36,15 @@ Climb:
 Fly: 250 ft.
 Maneuverability: clumsy
 Swim: 40 ft.
-Melee: bite +33 (4d8+21/19-20), 2 claws +33 (4d6+14/19-20), 2 wings +31 (2d8+7), tail slap +31 (4d6+21)
+Melee: 
+  - Attack: "bite +33"
+    Effect: "4d8+21/19-20"
+  - Attack: "2 claws +33"
+    Effect: "4d6+14/19-20"
+  - Attack: "2 wings +31"
+    Effect: "2d8+7"
+  - Attack: "tail slap +31"
+    Effect: "4d6+21"
 Reach: 20 ft. (30 ft. with bite)
 Ranged: 
 SpecialAttacks: awaken treants, breath weapon (70-ft. cone, DC 31, 24d6 acid), crush (Large creatures, DC 31, 4d8+21), miasma, tail sweep (Medium creatures, DC 31, 2d8+21)

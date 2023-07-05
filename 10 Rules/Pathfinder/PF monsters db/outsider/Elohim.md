@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 30 ft.
-Melee: 2 claws +27 (2d8+7), 8 tentacles +22 (2d8+3 plus grab)
+Melee: 
+  - Attack: "2 claws +27"
+    Effect: "2d8+7"
+  - Attack: "8 tentacles +22"
+    Effect: "2d8+3 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: breath weapon (60-ft. cone, 20d8 electricity, Reflex DC 32 half, usable every 1d4 rounds), constrict (2d8+10), mythic magic, mythic power (6/day, surge +1d8)

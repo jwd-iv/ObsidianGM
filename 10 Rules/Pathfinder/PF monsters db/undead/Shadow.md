@@ -35,7 +35,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: good
 Swim: 
-Melee: incorporeal touch +4 (1d6 Strength damage)
+Melee: 
+  - Attack: "incorporeal touch +4"
+    Effect: "1d6 Strength damage"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: create spawn

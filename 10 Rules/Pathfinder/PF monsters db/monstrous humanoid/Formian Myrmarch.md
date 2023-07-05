@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: sting +16 (1d8+5 plus poison), 2 claws +16 (1d4+5/19-20), bite +16 (1d6+5)
+Melee: 
+  - Attack: "sting +16"
+    Effect: "1d8+5 plus poison"
+  - Attack: "2 claws +16"
+    Effect: "1d4+5/19-20"
+  - Attack: "bite +16"
+    Effect: "1d6+5"
 Reach: 5 ft.
-Ranged: javelin +15/+10/+5 (1d6+5 plus poison)
+Ranged: 
+  - Attack: "javelin +15/+10/+5"
+    Effect: "1d6+5 plus poison"
 SpecialAttacks: poison
 SpellLikeAbilities: Spell-Like Abilities (CL 12th; concentration +15)  At Will-charm monster (DC 17), clairaudience/ clairvoyance, detect thoughts (DC 15)  3/day-hold monster (DC 18)  1/day-feeblemind (DC 18)
 STR: 20

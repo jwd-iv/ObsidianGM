@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: bite +13 (1d6+3 plus grab)
+Melee: 
+  - Attack: "bite +13"
+    Effect: "1d6+3 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

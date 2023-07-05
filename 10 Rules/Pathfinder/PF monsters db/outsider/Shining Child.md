@@ -35,9 +35,13 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 touches +19 (4d10 fire plus burning touch)
+Melee: 
+  - Attack: "2 touches +19"
+    Effect: "4d10 fire plus burning touch"
 Reach: 5 ft.
-Ranged: searing ray +19 touch (10d6 fire)
+Ranged: 
+  - Attack: "searing ray +19 touch"
+    Effect: "10d6 fire"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 12th; concentration +19)   At Will-greater teleport (self plus 50 lbs. of objects only), light, major image (DC 20)   3/day-greater dispel magic, mirage arcana (DC 20), rainbow pattern (DC 22), spell turning, sunbeam, wall of force   1/day-scintillating pattern (DC 25), screen (DC 25), symbol of insanity (DC 25)
 STR: 10

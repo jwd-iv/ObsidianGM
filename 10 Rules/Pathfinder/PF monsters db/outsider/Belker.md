@@ -35,7 +35,13 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +12 (1d6+2), 2 claws +12 (1d6+2), 2 wings +10 (1d6+1)
+Melee: 
+  - Attack: "bite +12"
+    Effect: "1d6+2"
+  - Attack: "2 claws +12"
+    Effect: "1d6+2"
+  - Attack: "2 wings +10"
+    Effect: "1d6+1"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: smoke claws

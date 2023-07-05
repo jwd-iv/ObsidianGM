@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: 2 slams +8 (2d6)
+Melee: 
+  - Attack: "2 slams +8"
+    Effect: "2d6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: drowning touch (DC 14), enchanting music (DC 19)

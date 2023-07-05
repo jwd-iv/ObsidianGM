@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 tentacles +13 touch (1d6 electricity plus neural pulse)
+Melee: 
+  - Attack: "2 tentacles +13 touch"
+    Effect: "1d6 electricity plus neural pulse"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: 

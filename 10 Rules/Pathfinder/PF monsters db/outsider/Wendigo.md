@@ -35,7 +35,11 @@ Climb:
 Fly: 120 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +26 (2d8+9/19-20 plus 4d6 cold and grab), 2 claws +26 (2d6+9/19-20 plus 4d6 cold)
+Melee: 
+  - Attack: "bite +26"
+    Effect: "2d8+9/19-20 plus 4d6 cold and grab"
+  - Attack: "2 claws +26"
+    Effect: "2d6+9/19-20 plus 4d6 cold"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: dream haunting, howl, rend (2 claws, 1d8+13 plus 4d6 cold plus 1d4 Cha damage), wendigo psychosis

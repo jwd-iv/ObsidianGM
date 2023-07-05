@@ -36,9 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 claws +14 (1d6+3)
+Melee: 
+  - Attack: "2 claws +14"
+    Effect: "1d6+3"
 Reach: 5 ft.
-Ranged: +1 composite longbow +19/+14/+9 (1d8+4/19-20/3 plus  1d6 negative energy and paralysis)
+Ranged: 
+  - Attack: "+1 composite longbow +19/+14/+9"
+    Effect: "1d8+4/19-20/3 plus  1d6 negative energy and paralysis"
 SpecialAttacks: devour soul, dread howl, infused arrows
 SpellLikeAbilities: 
 STR: 17

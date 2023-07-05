@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +27 (3d6+11/19-20)
+Melee: 
+  - Attack: "2 claws +27"
+    Effect: "3d6+11/19-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: bleed (1 Con drain), rend (2 claws, 3d6+11 plus bleed and seize skin)

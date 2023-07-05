@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 claws +18 (3d8+4/19-20 plus grab)
+Melee: 
+  - Attack: "2 claws +18"
+    Effect: "3d8+4/19-20 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: writhing snakes

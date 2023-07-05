@@ -36,7 +36,11 @@ Climb:
 Fly: 30 ft.
 Maneuverability: average
 Swim: 
-Melee: 2 claws +9 (2d6+3), bite +9 (2d6+3 plus grab)
+Melee: 
+  - Attack: "2 claws +9"
+    Effect: "2d6+3"
+  - Attack: "bite +9"
+    Effect: "2d6+3 plus grab"
 Reach: 5 ft. (10 ft. with bite)
 Ranged: 
 SpecialAttacks: blood drain (1d2 Constitution), fear cone (30 ft., DC 16)

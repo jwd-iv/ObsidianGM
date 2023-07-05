@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: bite +13 (1d6+3 plus 1d6 cold), 4 claws +14 (1d4+3)
+Melee: 
+  - Attack: "bite +13"
+    Effect: "1d6+3 plus 1d6 cold"
+  - Attack: "4 claws +14"
+    Effect: "1d4+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: black bile

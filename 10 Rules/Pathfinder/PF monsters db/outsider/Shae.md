@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk falchion +8 (2d4+4/18-20 plus 1d6 cold) or touch +7 (1d6 cold)
+Melee: 
+  - Attack: "mwk falchion +8"
+    Effect: "2d4+4/18-20 plus 1d6 cold"
+  - Attack: "touch +7"
+    Effect: "1d6 cold"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

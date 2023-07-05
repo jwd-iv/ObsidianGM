@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: short sword +10/+5 (1d4+2/19-20 plus bleed), bite +5 (1d3+1)
+Melee: 
+  - Attack: "short sword +10/+5"
+    Effect: "1d4+2/19-20 plus bleed"
+  - Attack: "bite +5"
+    Effect: "1d3+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed (1d4), sneak attack +1d6

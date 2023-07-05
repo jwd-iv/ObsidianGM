@@ -35,9 +35,13 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +15 (3d6+18 plus poison)
+Melee: 
+  - Attack: "bite +15"
+    Effect: "3d6+18 plus poison"
 Reach: 20 ft.
-Ranged: barbed hairs +4 touch (nausea)
+Ranged: 
+  - Attack: "barbed hairs +4 touch"
+    Effect: "nausea"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 35

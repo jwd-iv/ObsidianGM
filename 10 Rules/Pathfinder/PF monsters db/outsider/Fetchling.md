@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +3 (1d4+1/19-20)
+Melee: 
+  - Attack: "dagger +3"
+    Effect: "1d4+1/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: sneak attack +1d6

@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk dagger +17/+12/+7 (1d4+1/19-20)
+Melee: 
+  - Attack: "mwk dagger +17/+12/+7"
+    Effect: "1d4+1/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

@@ -35,7 +35,13 @@ Climb: 50 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 bites +26 (2d6+10), 4 claws +26 (1d8+10), gore +26 (2d6+10)
+Melee: 
+  - Attack: "2 bites +26"
+    Effect: "2d6+10"
+  - Attack: "4 claws +26"
+    Effect: "1d8+10"
+  - Attack: "gore +26"
+    Effect: "2d6+10"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: breath weapon (80-foot cone, 20d8 fire damage, Reflex DC 29 half, usable once every 1d4 rounds), entangling chains, powerful charge (gore, 4d8+24)

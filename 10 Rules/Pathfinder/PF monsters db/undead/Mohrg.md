@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +15 (2d8+5 plus grab), tongue +10 melee touch (paralysis)
+Melee: 
+  - Attack: "2 slams +15"
+    Effect: "2d8+5 plus grab"
+  - Attack: "tongue +10 melee touch"
+    Effect: "paralysis"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: create spawn, paralysis (1d4 minutes, DC 21)

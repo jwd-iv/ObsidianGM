@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 20 ft.
-Melee: gaff +16/+11 (2d6+12) or   2 slams +16 (1d6+8)
+Melee: 
+  - Attack: "gaff +16/+11"
+    Effect: "2d6+12"
+  - Attack: "2 slams +16"
+    Effect: "1d6+8"
 Reach: 10 ft.
-Ranged: rock +12 (2d6+9)
+Ranged: 
+  - Attack: "rock +12"
+    Effect: "2d6+9"
 SpecialAttacks: rock throwing (120 ft.)
 SpellLikeAbilities: Spell-Like Abilities (CL 12th; concentration +13)   3/day-augury, bestow curse (DC 15), fog cloud
 STR: 27

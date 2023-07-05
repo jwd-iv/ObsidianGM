@@ -36,9 +36,13 @@ Climb: 10 ft.
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: 2 claws +3 (1d3-2)
+Melee: 
+  - Attack: "2 claws +3"
+    Effect: "1d3-2"
 Reach: 5 ft.
-Ranged: dart +3 (1d2-2)
+Ranged: 
+  - Attack: "dart +3"
+    Effect: "1d2-2"
 SpecialAttacks: congeal water
 SpellLikeAbilities: Spell-Like Abilities (CL 1st; concentration +0)   At Will-create water, prestidigitation   1/day-sleep (DC 10)
 STR: 7

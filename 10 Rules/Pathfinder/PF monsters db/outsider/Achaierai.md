@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +10 (2d6+4), 2 claws +10 (1d6+4)
+Melee: 
+  - Attack: "bite +10"
+    Effect: "2d6+4"
+  - Attack: "2 claws +10"
+    Effect: "1d6+4"
 Reach: 10 ft. with claw
 Ranged: 
 SpecialAttacks: black cloud

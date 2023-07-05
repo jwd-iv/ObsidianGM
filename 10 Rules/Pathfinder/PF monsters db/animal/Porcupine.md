@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: tail slap +2 (1d3)
+Melee: 
+  - Attack: "tail slap +2"
+    Effect: "1d3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +15 (2d6+3), 2 claws +15 (1d8+3)
+Melee: 
+  - Attack: "bite +15"
+    Effect: "2d6+3"
+  - Attack: "2 claws +15"
+    Effect: "1d8+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: ripping gaze

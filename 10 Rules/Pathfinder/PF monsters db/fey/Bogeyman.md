@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +13 (1d8+1/19-20)
+Melee: 
+  - Attack: "2 claws +13"
+    Effect: "1d8+1/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: sneak attack +6d6, striking fear

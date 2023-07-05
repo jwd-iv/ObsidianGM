@@ -36,9 +36,13 @@ Climb:
 Fly: 30 ft., 40 without armor
 Maneuverability: perfect
 Swim: 
-Melee: +1 holy halberd +18/+13/+8 (1d10+7/x3)
+Melee: 
+  - Attack: "+1 holy halberd +18/+13/+8"
+    Effect: "1d10+7/x3"
 Reach: 5 ft.
-Ranged: +1 holy composite longbow +20/+15/+10 (1d8+5/x3)
+Ranged: 
+  - Attack: "+1 holy composite longbow +20/+15/+10"
+    Effect: "1d8+5/x3"
 SpecialAttacks: healing arrow, holy weapons
 SpellLikeAbilities: Spell-Like Abilities (CL 13th; concentration +18)  Constant-detect evil, see invisibility   At Will-cure light wounds, dimension door   3/day-alarm, breath of life, dispel magic, neutralize poison, remove curse, remove disease, restoration   1/day-dispel evil (DC 20), heal, true seeing
 STR: 18

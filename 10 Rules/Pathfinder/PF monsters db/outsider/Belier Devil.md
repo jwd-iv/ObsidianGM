@@ -35,7 +35,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +23 (4d8+7), 3 tongues +23 (2d6+7/19-20 plus grab)
+Melee: 
+  - Attack: "bite +23"
+    Effect: "4d8+7"
+  - Attack: "3 tongues +23"
+    Effect: "2d6+7/19-20 plus grab"
 Reach: 10 ft. (20 ft. with tongues)
 Ranged: 
 SpecialAttacks: blood drain (1d4 Con damage), constrict (1d6+7), possession, strangle

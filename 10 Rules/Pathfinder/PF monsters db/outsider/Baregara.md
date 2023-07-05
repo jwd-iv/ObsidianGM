@@ -36,7 +36,13 @@ Climb: 40 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +23 (1d8+8), 2 claws +23 (1d10+8 plus grab), gore +23 (1d8+8)
+Melee: 
+  - Attack: "bite +23"
+    Effect: "1d8+8"
+  - Attack: "2 claws +23"
+    Effect: "1d10+8 plus grab"
+  - Attack: "gore +23"
+    Effect: "1d8+8"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: devouring grapple, monstrous challenge, onearmed hold

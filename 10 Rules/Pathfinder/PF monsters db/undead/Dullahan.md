@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 keen longsword +14/+9 (1d8+6/17-20 plus 1d6 cold)
+Melee: 
+  - Attack: "+1 keen longsword +14/+9"
+    Effect: "1d8+6/17-20 plus 1d6 cold"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: chilling blade, death's calling, summon mount

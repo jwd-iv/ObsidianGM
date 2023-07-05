@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 100 ft.
-Melee: bite +46 (8d6+20/19-20 plus grab), 2 claws +46 (4d8+20/19-20), 2 tail slaps +44 (6d6+10/19-20)
+Melee: 
+  - Attack: "bite +46"
+    Effect: "8d6+20/19-20 plus grab"
+  - Attack: "2 claws +46"
+    Effect: "4d8+20/19-20"
+  - Attack: "2 tail slaps +44"
+    Effect: "6d6+10/19-20"
 Reach: 60 ft.
-Ranged: firebolts +31 touch (damage variable; see below)
+Ranged: 
+  - Attack: "firebolts +31 touch"
+    Effect: "damage variable; see below"
 SpecialAttacks: breath weapon, ferocity, fast swallow, hurl foe, reflexive breath, swallow whole (10d6 bludgeoning and 10d6 fire damage, AC 30, 69 hp), trample (4d8+30, DC 47)
 SpellLikeAbilities: 
 STR: 50

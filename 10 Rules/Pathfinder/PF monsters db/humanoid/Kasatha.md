@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: sai +3 (1d4+1) or unarmed strike +3 (1d6+1) or flurry of blows +2/+2 (1d6+1)
+Melee: 
+  - Attack: "sai +3"
+    Effect: "1d4+1"
+  - Attack: "unarmed strike +3"
+    Effect: "1d6+1"
+  - Attack: "flurry of blows +2/+2"
+    Effect: "1d6+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: flurry of blows, stunning fist (1/day, DC 13)

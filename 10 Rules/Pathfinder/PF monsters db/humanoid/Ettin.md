@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 flails +12/+7 (2d6+6)
+Melee: 
+  - Attack: "2 flails +12/+7"
+    Effect: "2d6+6"
 Reach: 10 ft.
-Ranged: 2 javelins +5 (1d8+6)
+Ranged: 
+  - Attack: "2 javelins +5"
+    Effect: "1d8+6"
 SpecialAttacks: superior two-weapon fighting
 SpellLikeAbilities: 
 STR: 23

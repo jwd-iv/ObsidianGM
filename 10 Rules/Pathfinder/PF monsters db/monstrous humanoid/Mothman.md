@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 claw +13 (1d6+1)
+Melee: 
+  - Attack: "2 claw +13"
+    Effect: "1d6+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: mind-warping gaze

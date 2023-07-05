@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk short sword +6 (1d6+2/19-20)
+Melee: 
+  - Attack: "mwk short sword +6"
+    Effect: "1d6+2/19-20"
 Reach: 5 ft.
-Ranged: mwk shortbow +5 (1d6/x3)
+Ranged: 
+  - Attack: "mwk shortbow +5"
+    Effect: "1d6/x3"
 SpecialAttacks: sneak attack +2d6
 SpellLikeAbilities: 
 STR: 14

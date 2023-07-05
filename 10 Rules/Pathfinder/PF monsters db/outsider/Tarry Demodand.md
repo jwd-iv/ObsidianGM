@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft. (40 in armor)
 Maneuverability: average
 Swim: 
-Melee: mwk short sword +27/+22/+17/+12 (1d6+9/19-20), mwk short sword +27/+22/+17 (1d6+4/19-20), bite +22 (1d8+4)
+Melee: 
+  - Attack: "mwk short sword +27/+22/+17/+12"
+    Effect: "1d6+9/19-20"
+  - Attack: "mwk short sword +27/+22/+17"
+    Effect: "1d6+4/19-20"
+  - Attack: "bite +22"
+    Effect: "1d8+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: adhesion, faith-stealing strike (DC 22)

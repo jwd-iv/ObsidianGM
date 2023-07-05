@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: 2 slams +15 (2d6+7 plus entrap)
+Melee: 
+  - Attack: "2 slams +15"
+    Effect: "2d6+7 plus entrap"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: entrap (DC 19, 10 minutes, hardness 5, hp 15)

@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: spiked chain +26/+21/+16/+11 (2d4+10/19-20 plus chains of the dead) or 2 claws +25 (2d8+7)
+Melee: 
+  - Attack: "spiked chain +26/+21/+16/+11"
+    Effect: "2d4+10/19-20 plus chains of the dead"
+  - Attack: "2 claws +25"
+    Effect: "2d8+7"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: chains of the dead  Space 5 ft.; Reach 5 ft. (10 ft. with spiked chain)

@@ -35,7 +35,9 @@ Climb:
 Fly: 30 ft.
 Maneuverability: poor
 Swim: 
-Melee: slam +3 (1d4+4 plus grab)
+Melee: 
+  - Attack: "slam +3"
+    Effect: "1d4+4 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: constrict (1d4+4), grab (any size)

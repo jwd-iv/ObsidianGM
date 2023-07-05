@@ -36,9 +36,19 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: longsword +5 (2d6+5/19-20), longsword +5 (2d6+2/19-20), 2 slams +4 (1d6+2)
+Melee: 
+  - Attack: "longsword +5"
+    Effect: "2d6+5/19-20"
+  - Attack: "longsword +5"
+    Effect: "2d6+2/19-20"
+  - Attack: "2 slams +4"
+    Effect: "1d6+2"
 Reach: 10 ft.
-Ranged: shobhad longrifle +6 (2d6/x4) or 2 javelins +5 (1d8+5)
+Ranged: 
+  - Attack: "shobhad longrifle +6"
+    Effect: "2d6/x4"
+  - Attack: "2 javelins +5"
+    Effect: "1d8+5"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 20

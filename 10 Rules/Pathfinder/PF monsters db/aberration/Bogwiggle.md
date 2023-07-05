@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: bite +4 (1d4+1), tongue -1 touch (sticky tongue)
+Melee: 
+  - Attack: "bite +4"
+    Effect: "1d4+1"
+  - Attack: "tongue -1 touch"
+    Effect: "sticky tongue"
 Reach: 5 ft. (10 ft. with tongue)
 Ranged: 
 SpecialAttacks: 

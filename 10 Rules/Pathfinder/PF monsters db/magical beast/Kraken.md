@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft. (jet 280)
-Melee: 2 arms +26 (2d6+10/19-20 plus grab), 8 tentacles +24  (1d8+5 plus grab), bite +26 (2d8+10)
+Melee: 
+  - Attack: "2 arms +26"
+    Effect: "2d6+10/19-20 plus grab"
+  - Attack: "8 tentacles +24"
+    Effect: "1d8+5 plus grab"
+  - Attack: "bite +26"
+    Effect: "2d8+10"
 Reach: 20 ft. (60 ft. with arm, 40 ft. with tentacle)
 Ranged: 
 SpecialAttacks: constrict (tentacles, 1d8+10), ink cloud, rend ship

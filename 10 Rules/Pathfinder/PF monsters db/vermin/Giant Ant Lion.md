@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +10 (2d8+7 plus grab)
+Melee: 
+  - Attack: "bite +10"
+    Effect: "2d8+7 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: sand trap

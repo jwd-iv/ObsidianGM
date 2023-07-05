@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: bite +25 (4d6+15/19-20)
+Melee: 
+  - Attack: "bite +25"
+    Effect: "4d6+15/19-20"
 Reach: 5 ft.
-Ranged: 3 sonic beams +17 (5d6 sonic)
+Ranged: 
+  - Attack: "3 sonic beams +17"
+    Effect: "5d6 sonic"
 SpecialAttacks: staggering gaze, trample (1d10+15, DC 28)
 SpellLikeAbilities: Spell-Like Abilities (CL 16th; concentration +19)  At Will-shatter (DC 16)  3/day-charm monster (DC 18), quickened confusion (DC 18)  1/day-bestow curse (DC 18, ranged touch attack, 30 ft.)
 STR: 30

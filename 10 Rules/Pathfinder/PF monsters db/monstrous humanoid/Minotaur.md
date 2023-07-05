@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: greataxe +9/+4 (3d6+6/x3) and gore +4 (1d6+2)
+Melee: 
+  - Attack: "greataxe +9/+4"
+    Effect: "3d6+6/x3"
+  - Attack: "gore +4"
+    Effect: "1d6+2"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: powerful charge (gore +11, 2d6+6)

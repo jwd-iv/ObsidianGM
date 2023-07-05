@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: bite +19 (1d6+3 plus 2d6 electricity), 2 slams +19 (1d6+3 plus 2d6 electricity)
+Melee: 
+  - Attack: "bite +19"
+    Effect: "1d6+3 plus 2d6 electricity"
+  - Attack: "2 slams +19"
+    Effect: "1d6+3 plus 2d6 electricity"
 Reach: 5 ft. (10 ft. with slam)
-Ranged: eel dart +19 touch (1d6+3 plus 1d6 electricity)
+Ranged: 
+  - Attack: "eel dart +19 touch"
+    Effect: "1d6+3 plus 1d6 electricity"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 17

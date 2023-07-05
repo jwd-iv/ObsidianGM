@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 dagger +13/+8 (1d4+4/19-20), touch +7 (1d4 Wisdom drain), 2 claws +7 (1d4+2)
+Melee: 
+  - Attack: "+1 dagger +13/+8"
+    Effect: "1d4+4/19-20"
+  - Attack: "touch +7"
+    Effect: "1d4 Wisdom drain"
+  - Attack: "2 claws +7"
+    Effect: "1d4+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: Wisdom drain

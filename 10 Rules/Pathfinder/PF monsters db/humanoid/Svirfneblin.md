@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: heavy pick +3 (1d4+1/x4)
+Melee: 
+  - Attack: "heavy pick +3"
+    Effect: "1d4+1/x4"
 Reach: 5 ft.
-Ranged: light crossbow +4 (1d6/19-20)
+Ranged: 
+  - Attack: "light crossbow +4"
+    Effect: "1d6/19-20"
 SpecialAttacks: favored enemy (dwarf +2), +1 to attack vs. dwarven and reptilian humanoids
 SpellLikeAbilities: Spell-Like Abilities (CL 1st) Constant-nondetection 1/day-blindness/deafness (DC 12), blur, disguise self
 STR: 13

@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +2 battleaxe +19/+14/+9 (1d8+6/x3)
+Melee: 
+  - Attack: "+2 battleaxe +19/+14/+9"
+    Effect: "1d8+6/x3"
 Reach: 5 ft.
-Ranged: mwk throwing axe +17 (1d6+4)
+Ranged: 
+  - Attack: "mwk throwing axe +17"
+    Effect: "1d6+4"
 SpecialAttacks: challenge of single combat
 SpellLikeAbilities: Spell-Like Abilities (CL 10th; concentration +10)  Constant-deathwatch, freedom of movement   At Will-rage   3/day-divine power 1/day-heroes' feast
 STR: 19

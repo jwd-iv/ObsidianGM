@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk dagger +10/+5 (1d4+2/19-20 plus black smear poison)
+Melee: 
+  - Attack: "mwk dagger +10/+5"
+    Effect: "1d4+2/19-20 plus black smear poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: death throes, sneak attack +2d6

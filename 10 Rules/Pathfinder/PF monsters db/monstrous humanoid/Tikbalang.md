@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +18 (2d4+7/19-20), 2 hooves +13 (1d8+10)
+Melee: 
+  - Attack: "bite +18"
+    Effect: "2d4+7/19-20"
+  - Attack: "2 hooves +13"
+    Effect: "1d8+10"
 Reach: 10 ft.
-Ranged: 4 spines +14 (1d6+8)
+Ranged: 
+  - Attack: "4 spines +14"
+    Effect: "1d6+8"
 SpecialAttacks: pounce, spines, trample (1d8+10, DC 23)
 SpellLikeAbilities: Spell-Like Abilities (CL 12th; concentration +16)  Constant-spider climb   At Will-ventriloquism (DC 15), invisibility   3/day-major image (DC 17)   1/day-fly (self only), mirage arcana (DC 19)   1/week-maze
 STR: 24

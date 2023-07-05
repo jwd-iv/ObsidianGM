@@ -35,7 +35,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +10 (2d6+5 plus 1d6 fire), tail slap +5 (1d6+2)
+Melee: 
+  - Attack: "bite +10"
+    Effect: "2d6+5 plus 1d6 fire"
+  - Attack: "tail slap +5"
+    Effect: "1d6+2"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: fireball breath

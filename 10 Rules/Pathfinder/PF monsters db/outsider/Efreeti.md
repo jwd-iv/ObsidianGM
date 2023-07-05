@@ -35,7 +35,11 @@ Climb:
 Fly: 40 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 slams +15 (1d8+6 plus 1d6 fire) or mwk falchion +16/+11 (2d6+9/18-20)
+Melee: 
+  - Attack: "2 slams +15"
+    Effect: "1d8+6 plus 1d6 fire"
+  - Attack: "mwk falchion +16/+11"
+    Effect: "2d6+9/18-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: change size, heat

@@ -36,9 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: Cicatrix +50/+45/+40/+35 (1d6+17/17-20 plus 1 bleed and 2d6 vicious)
+Melee: 
+  - Attack: "Cicatrix +50/+45/+40/+35"
+    Effect: "1d6+17/17-20 plus 1 bleed and 2d6 vicious"
 Reach: 10 ft.
-Ranged: Cicatrix +47 (1d6+17/17-20 plus 1 bleed)
+Ranged: 
+  - Attack: "Cicatrix +47"
+    Effect: "1d6+17/17-20 plus 1 bleed"
 SpecialAttacks: smite evil 7/day (+5 attack and AC, +20 damage, disintegrate evil outsiders)
 SpellLikeAbilities: >
   Spell-Like Abilities (CL 20th; concentration +25)  Constant-detect evil, true seeing  At Will-command* (DC 16), greater teleport, haste*, paladin's sacrificeAPG, pain strikeAPG (DC 18)  3/day-discern location, geas/quest (DC 21), heal, holy word* (DC 22), mark of justice (DC 20), mass pain strikeAPG (DC 20), searing light*^[*: can use mythic version in their realm]

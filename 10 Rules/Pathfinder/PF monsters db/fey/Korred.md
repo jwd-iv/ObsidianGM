@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: club +8 (1d4+6)
+Melee: 
+  - Attack: "club +8"
+    Effect: "1d4+6"
 Reach: 5 ft.
-Ranged: rock +8 (1d6+4)
+Ranged: 
+  - Attack: "rock +8"
+    Effect: "1d6+4"
 SpecialAttacks: animated hair, stunning laugh, rock throwing (100 ft.)
 SpellLikeAbilities: Spell-Like Abilities (CL 6th; concentration +7)  At will-animate rope, shatter (DC 13), stone shape  1/day-stone tell
 STR: 19

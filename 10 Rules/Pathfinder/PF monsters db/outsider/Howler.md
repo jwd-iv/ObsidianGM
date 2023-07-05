@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +8 (1d8+4), quills +3 (1d4+2 plus pain)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "1d8+4"
+  - Attack: "quills +3"
+    Effect: "1d4+2 plus pain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: howl

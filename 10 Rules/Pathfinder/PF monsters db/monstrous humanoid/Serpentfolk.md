@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk dagger +11 (1d4-1/19-20), bite +5 (1d6-1 plus poison)
+Melee: 
+  - Attack: "mwk dagger +11"
+    Effect: "1d4-1/19-20"
+  - Attack: "bite +5"
+    Effect: "1d6-1 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

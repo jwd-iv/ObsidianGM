@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: +2 quarterstaff +16/+11/+6 (1d6+4), +2 quarterstaff +16/+11 (1d6+3), sting +11 (1d8+1 plus mind sting)
+Melee: 
+  - Attack: "+2 quarterstaff +16/+11/+6"
+    Effect: "1d6+4"
+  - Attack: "+2 quarterstaff +16/+11"
+    Effect: "1d6+3"
+  - Attack: "sting +11"
+    Effect: "1d8+1 plus mind sting"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: merope consumption

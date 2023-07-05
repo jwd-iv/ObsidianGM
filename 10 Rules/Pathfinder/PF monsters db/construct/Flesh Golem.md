@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +13 (2d8+5)
+Melee: 
+  - Attack: "2 slams +13"
+    Effect: "2d8+5"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: berserk

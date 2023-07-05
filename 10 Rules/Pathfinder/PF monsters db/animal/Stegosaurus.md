@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: tail +16 (4d6+12 plus trip)
+Melee: 
+  - Attack: "tail +16"
+    Effect: "4d6+12 plus trip"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: 

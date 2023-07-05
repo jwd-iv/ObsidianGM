@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: spear +3 (1d8+3/x3)
+Melee: 
+  - Attack: "spear +3"
+    Effect: "1d8+3/x3"
 Reach: 5 ft.
-Ranged: spear +1 (1d8+2/x3)
+Ranged: 
+  - Attack: "spear +1"
+    Effect: "1d8+2/x3"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 15

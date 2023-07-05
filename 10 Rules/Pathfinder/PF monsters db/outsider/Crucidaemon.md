@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: daggers +29/+29/+24/+19/+14 (1d4+11/17-20)
+Melee: 
+  - Attack: "daggers +29/+29/+24/+19/+14"
+    Effect: "1d4+11/17-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: bleed (2d6), chained daggers, trap making

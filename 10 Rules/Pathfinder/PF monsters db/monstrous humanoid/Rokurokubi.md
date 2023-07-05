@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +24 (2d6+4/19-20 plus rokurokubi's curse), 2 claws +23 (1d6+4)
+Melee: 
+  - Attack: "bite +24"
+    Effect: "2d6+4/19-20 plus rokurokubi's curse"
+  - Attack: "2 claws +23"
+    Effect: "1d6+4"
 Reach: 5 ft. (20 ft. with bite)
 Ranged: 
 SpecialAttacks: elongate neck, rokurokubi's curse

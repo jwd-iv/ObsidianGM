@@ -35,7 +35,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +2 (1d4 plus grab, attach, and disease)
+Melee: 
+  - Attack: "bite +2"
+    Effect: "1d4 plus grab, attach, and disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: blood drain (1 Constitution)

@@ -35,9 +35,15 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: short sword +3 (1d4+1/19-20)
+Melee: 
+  - Attack: "short sword +3"
+    Effect: "1d4+1/19-20"
 Reach: 5 ft.
-Ranged: dart +5 (1d3+1) or  net +5 (special)
+Ranged: 
+  - Attack: "dart +5"
+    Effect: "1d3+1"
+  - Attack: "net +5"
+    Effect: "special"
 SpecialAttacks: favored enemy (vermin +2)
 SpellLikeAbilities: 
 STR: 12

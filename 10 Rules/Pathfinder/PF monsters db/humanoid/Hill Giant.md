@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: greatclub +14/+9 (2d8+10) or 2 slams +13 (1d8+7)
+Melee: 
+  - Attack: "greatclub +14/+9"
+    Effect: "2d8+10"
+  - Attack: "2 slams +13"
+    Effect: "1d8+7"
 Reach: 10 ft.
-Ranged: rock +6 (1d8+10)
+Ranged: 
+  - Attack: "rock +6"
+    Effect: "1d8+10"
 SpecialAttacks: rock throwing (120 ft.)
 SpellLikeAbilities: 
 STR: 25

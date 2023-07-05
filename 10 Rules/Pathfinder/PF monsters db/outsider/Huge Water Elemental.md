@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 90 ft.
-Melee: 2 slams +15 (2d6+7)
+Melee: 
+  - Attack: "2 slams +15"
+    Effect: "2d6+7"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: drench, vortex (DC 22), water mastery

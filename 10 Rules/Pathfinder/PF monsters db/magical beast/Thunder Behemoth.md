@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +33 (4d6+16 plus grab), gore +33 (4d6+16), 2 stomps +28 (2d8+8 plus trip)
+Melee: 
+  - Attack: "bite +33"
+    Effect: "4d6+16 plus grab"
+  - Attack: "gore +33"
+    Effect: "4d6+16"
+  - Attack: "2 stomps +28"
+    Effect: "2d8+8 plus trip"
 Reach: 20 ft.
-Ranged: 4 rocks +15 (3d6+24 plus stun)
+Ranged: 
+  - Attack: "4 rocks +15"
+    Effect: "3d6+24 plus stun"
 SpecialAttacks: fast swallow, mighty roar, rock spitting, ruinous, swallow whole (4d6+24 bludgeoning and 4d6 fire damage, AC 27, 33 hp), trample (2d8+24, DC 38)
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +22)   3/day-earthquake (DC 20)
 STR: 43

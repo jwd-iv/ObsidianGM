@@ -35,7 +35,11 @@ Climb: 40 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +8 (2d6+7 plus poison), tail slap +3 (1d3 nonlethal plus trip)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "2d6+7 plus poison"
+  - Attack: "tail slap +3"
+    Effect: "1d3 nonlethal plus trip"
 Reach: 15 ft. (20 ft. with tail slap)
 Ranged: 
 SpecialAttacks: 

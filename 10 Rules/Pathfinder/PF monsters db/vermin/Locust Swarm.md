@@ -36,7 +36,9 @@ Climb: 10 ft.
 Fly: 30 ft.
 Maneuverability: average
 Swim: 
-Melee: swarm (1d6)
+Melee: 
+  - Attack: "swarm"
+    Effect: "1d6"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: devour, distraction (DC 12), voracious (see giant locust)

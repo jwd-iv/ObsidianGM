@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk trident +9 (1d8+3)
+Melee: 
+  - Attack: "mwk trident +9"
+    Effect: "1d8+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

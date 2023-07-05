@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: poor
 Swim: 
-Melee: bite +9 (1d4-2 plus petrification)
+Melee: 
+  - Attack: "bite +9"
+    Effect: "1d4-2 plus petrification"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

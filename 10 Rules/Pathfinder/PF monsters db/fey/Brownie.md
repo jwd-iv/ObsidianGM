@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: short sword +6 (1d2-2/19-20)
+Melee: 
+  - Attack: "short sword +6"
+    Effect: "1d2-2/19-20"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: 

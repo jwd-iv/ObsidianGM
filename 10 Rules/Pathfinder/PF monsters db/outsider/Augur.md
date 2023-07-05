@@ -36,7 +36,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: gore +4 (1d4-1 plus bleed)
+Melee: 
+  - Attack: "gore +4"
+    Effect: "1d4-1 plus bleed"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: bleed (1d2), unnerving gaze (30 ft., DC 9)

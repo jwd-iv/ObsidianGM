@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 talons +5 (1d8+2),bite +5 (1d6+2), foreclaws +0 (1d4+1)
+Melee: 
+  - Attack: "2 talons +5"
+    Effect: "1d8+2"
+  - Attack: "bite +5"
+    Effect: "1d6+2"
+  - Attack: "foreclaws +0"
+    Effect: "1d4+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: pounce

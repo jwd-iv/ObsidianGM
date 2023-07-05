@@ -36,9 +36,19 @@ Climb:
 Fly: 80 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +16 (1d6+3), 2 claws +16 (1d4+3), 2 talons +16 (1d4+3), 2 wings +11 (1d4+1)
+Melee: 
+  - Attack: "bite +16"
+    Effect: "1d6+3"
+  - Attack: "2 claws +16"
+    Effect: "1d4+3"
+  - Attack: "2 talons +16"
+    Effect: "1d4+3"
+  - Attack: "2 wings +11"
+    Effect: "1d4+1"
 Reach: 5 ft.
-Ranged: +1 shock longbow +17/+12/+7 (1d8+4/x3 plus 1d6 electricity)
+Ranged: 
+  - Attack: "+1 shock longbow +17/+12/+7"
+    Effect: "1d8+4/x3 plus 1d6 electricity"
 SpecialAttacks: hatred, swooping pounce, talon or wing
 SpellLikeAbilities: 
 STR: 16

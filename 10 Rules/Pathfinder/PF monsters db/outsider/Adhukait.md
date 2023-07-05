@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 mwk kukris +15/+10 (1d4+5/18-20), 2 claws +9 (1d4+2)
+Melee: 
+  - Attack: "2 mwk kukris +15/+10"
+    Effect: "1d4+5/18-20"
+  - Attack: "2 claws +9"
+    Effect: "1d4+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: dance of disaster

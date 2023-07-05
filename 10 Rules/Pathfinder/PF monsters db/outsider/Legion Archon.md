@@ -36,9 +36,13 @@ Climb:
 Fly: 90 ft.
 Maneuverability: average
 Swim: 
-Melee: +1 flaming burst greatsword +13/+8 (2d6+5/17-20 plus 1d6 fire)
+Melee: 
+  - Attack: "+1 flaming burst greatsword +13/+8"
+    Effect: "2d6+5/17-20 plus 1d6 fire"
 Reach: 5 ft.
-Ranged: +1 flaming javelin +10 (1d6+4 plus 1d6 fire)
+Ranged: 
+  - Attack: "+1 flaming javelin +10"
+    Effect: "1d6+4 plus 1d6 fire"
 SpecialAttacks: flames of faith
 SpellLikeAbilities: Spell-Like Abilities (CL 8th; concentration +11)  Constant-detect evil, magic circle against evil   At Will-aid, continual flame, greater teleport (self plus 50 lbs. of objects only), message   3/day-align weapon, mirror image, versatile weapon*
 STR: 16

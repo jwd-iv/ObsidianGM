@@ -35,7 +35,9 @@ Climb:
 Fly: 30 ft.
 Maneuverability: good
 Swim: 
-Melee: +1 longsword +16/+11 (1d8+7/19-20)
+Melee: 
+  - Attack: "+1 longsword +16/+11"
+    Effect: "1d8+7/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

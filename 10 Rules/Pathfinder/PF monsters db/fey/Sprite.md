@@ -36,9 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: short sword +0 (1d2-4/19-20)
+Melee: 
+  - Attack: "short sword +0"
+    Effect: "1d2-4/19-20"
 Reach: 0 ft.
-Ranged: short bow +7 (1d2-4/x3)
+Ranged: 
+  - Attack: "short bow +7"
+    Effect: "1d2-4/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 5th; concentration +5)  Constant-detect evil, detect good   At Will-dancing lights, daze (DC 10)   1/day-color spray (DC 11)
 STR: 3

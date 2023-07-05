@@ -36,7 +36,11 @@ Climb:
 Fly: 30 ft.
 Maneuverability: good
 Swim: 
-Melee: +3 falchion +31/+26/+21/+16 (2d4+15/15-20), 4 bites +23 (1d6+4)
+Melee: 
+  - Attack: "+3 falchion +31/+26/+21/+16"
+    Effect: "2d4+15/15-20"
+  - Attack: "4 bites +23"
+    Effect: "1d6+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: detect thoughts (DC 29), extra initiative

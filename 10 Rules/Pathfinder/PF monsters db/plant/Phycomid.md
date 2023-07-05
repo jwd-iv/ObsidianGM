@@ -37,7 +37,9 @@ Maneuverability:
 Swim: 
 Melee: 
 Reach: 5 ft.
-Ranged: acid pellet +5 touch (2d6 acid plus spores)
+Ranged: 
+  - Attack: "acid pellet +5 touch"
+    Effect: "2d6 acid plus spores"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 5

@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: 2 claws +6 (1d6+4 plus grab)
+Melee: 
+  - Attack: "2 claws +6"
+    Effect: "1d6+4 plus grab"
 Reach: 10 ft.
-Ranged: javelin +6 (1d8+4)
+Ranged: 
+  - Attack: "javelin +6"
+    Effect: "1d8+4"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 19

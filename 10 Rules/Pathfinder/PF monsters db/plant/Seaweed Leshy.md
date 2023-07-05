@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 20 ft.
-Melee: slam +4 (1d6)
+Melee: 
+  - Attack: "slam +4"
+    Effect: "1d6"
 Reach: 5 ft.
-Ranged: water jet +5 touch (1 plus blind)
+Ranged: 
+  - Attack: "water jet +5 touch"
+    Effect: "1 plus blind"
 SpecialAttacks: sneak attack +1d6
 SpellLikeAbilities: Spell-Like Abilities (CL 8th; concentration +9)  Constant-pass without trace   1/day-entangle (in water only, DC 12)
 STR: 10

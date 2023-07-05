@@ -36,7 +36,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: perfect
 Swim: 
-Melee: terrifying touch +9 (3d8 plus Will DC 17 or shaken)
+Melee: 
+  - Attack: "terrifying touch +9"
+    Effect: "3d8 plus Will DC 17 or shaken"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: create haunt, terrifying touch (DC 17)

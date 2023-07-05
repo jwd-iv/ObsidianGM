@@ -36,9 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: mwk trident +6 (1d8+1)
+Melee: 
+  - Attack: "mwk trident +6"
+    Effect: "1d8+1"
 Reach: 5 ft.
-Ranged: mwk longbow +9 (1d8/x3)
+Ranged: 
+  - Attack: "mwk longbow +9"
+    Effect: "1d8/x3"
 SpecialAttacks: astral recoil
 SpellLikeAbilities: Spell-Like Abilities (CL 3rd; concentration +1)   3/day-floating disk (see below), shield, spiritual weapon
 STR: 12

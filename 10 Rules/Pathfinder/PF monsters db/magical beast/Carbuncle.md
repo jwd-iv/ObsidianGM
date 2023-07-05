@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +1 (1d3-3)
+Melee: 
+  - Attack: "bite +1"
+    Effect: "1d3-3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: fatal faker, specious suggestion

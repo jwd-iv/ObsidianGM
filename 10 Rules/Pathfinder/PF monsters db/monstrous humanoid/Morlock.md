@@ -35,7 +35,11 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: club +5 (1d6+2), bite +0 (1d4+1)
+Melee: 
+  - Attack: "club +5"
+    Effect: "1d6+2"
+  - Attack: "bite +0"
+    Effect: "1d4+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: leap attack, sneak attack +1d6, swarming

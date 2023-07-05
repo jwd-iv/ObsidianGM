@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +19 (1d8+6), 4 hooves +17 (1d8+3)
+Melee: 
+  - Attack: "bite +19"
+    Effect: "1d8+6"
+  - Attack: "4 hooves +17"
+    Effect: "1d8+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (DC 22), powerful charge (hoof, 2d8+12), trample (1d8+9, DC 23)

@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: 4 bites +25 (1d8+8/19-20 plus bleed), 4 tentacles +23 (1d6+4 plus grab)
+Melee: 
+  - Attack: "4 bites +25"
+    Effect: "1d8+8/19-20 plus bleed"
+  - Attack: "4 tentacles +23"
+    Effect: "1d6+4 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: bleed (1d6), constrict (1d6+8)

@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: gore +31 (4d8+16 plus push), 2 hooves +29 (2d8+11), tail slap +29 (2d6+5 plus push)
+Melee: 
+  - Attack: "gore +31"
+    Effect: "4d8+16 plus push"
+  - Attack: "2 hooves +29"
+    Effect: "2d8+11"
+  - Attack: "tail slap +29"
+    Effect: "2d6+5 plus push"
 Reach: 15 ft. (15 ft. with tail slap)
 Ranged: 
 SpecialAttacks: destructive charge, push (gore, tail slap, 10 ft.), thundering path, trample (2d8+16), unstoppable force

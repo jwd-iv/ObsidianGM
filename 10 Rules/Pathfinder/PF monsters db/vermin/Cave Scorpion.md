@@ -35,7 +35,11 @@ Climb: 40 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +2 (1d4), sting +2 (1d4 plus poison)
+Melee: 
+  - Attack: "2 claws +2"
+    Effect: "1d4"
+  - Attack: "sting +2"
+    Effect: "1d4 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: rend (2 claws, 2d4)

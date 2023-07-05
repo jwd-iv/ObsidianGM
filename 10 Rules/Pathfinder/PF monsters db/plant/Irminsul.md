@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 slams +14 (5d6+12)
+Melee: 
+  - Attack: "4 slams +14"
+    Effect: "5d6+12"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: mythic power (7/day, surge +1d10)

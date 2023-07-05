@@ -35,9 +35,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +3 unholy battleaxe +37/+32/+27/+22 (6d6+22/19-20/x3), claw +29 (2d8+9) or  2 claws +34 (2d8+19)
+Melee: 
+  - Attack: "+3 unholy battleaxe +37/+32/+27/+22"
+    Effect: "6d6+22/19-20/x3"
+  - Attack: "claw +29"
+    Effect: "2d8+9"
+  - Attack: "2 claws +34"
+    Effect: "2d8+19"
 Reach: 30 ft.
-Ranged: rock +16/+11/+6/+1 (4d6+28)
+Ranged: 
+  - Attack: "rock +16/+11/+6/+1"
+    Effect: "4d6+28"
 SpecialAttacks: godslayer, rock-throwing (100 ft.), trample (2d8+28, DC 40)
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +27)  Constant-air walk, mind blank, spell turning, true seeing  At Will-bestow curse (DC 21), break enchantment, divination, greater dispel magic, sending  3/day-disintegrate (DC 23), greater scrying (DC 24), heal, mass suggestion (DC 23)  1/day-greater planar ally, imprisonment (DC 26), meteor swarm (DC 26), true resurrection
 STR: 49

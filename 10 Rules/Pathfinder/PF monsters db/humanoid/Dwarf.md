@@ -36,9 +36,15 @@ Climb:
 Fly:
 Maneuverability:
 Swim:
-Melee: dwarven waraxe +3 (1d10+1/x3) or  dagger +2 (1d4+1/19-20)
+Melee: 
+  - Attack: "dwarven waraxe +3"
+    Effect: "1d10+1/x3"
+  - Attack: "dagger +2"
+    Effect: "1d4+1/19-20"
 Reach: 5 ft.
-Ranged: light crossbow +1 (1d8/19-20)
+Ranged: 
+  - Attack: "light crossbow +1"
+    Effect: "1d8/19-20"
 SpecialAttacks: +1 on attack rolls against goblinoid and orc humanoids TACTICS
   During Combat The warrior prefers melee combat and working with other
   soldiers. He uses alchemist's fire against targets resistant to weapon damage.

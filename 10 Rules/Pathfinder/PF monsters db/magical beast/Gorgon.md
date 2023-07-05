@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: gore +14 (2d8+7), 2 hooves +9 (1d6+3)
+Melee: 
+  - Attack: "gore +14"
+    Effect: "2d8+7"
+  - Attack: "2 hooves +9"
+    Effect: "1d6+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (60-foot cone, turn to stone, Fortitude DC 21 negates), trample (2d8+10, DC 21)

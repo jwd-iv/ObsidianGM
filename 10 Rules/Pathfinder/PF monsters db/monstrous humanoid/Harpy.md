@@ -35,7 +35,11 @@ Climb:
 Fly: 80 ft.
 Maneuverability: average
 Swim: 
-Melee: morningstar +8/+3 (1d8+1), 2 talons +3 (1d6)
+Melee: 
+  - Attack: "morningstar +8/+3"
+    Effect: "1d8+1"
+  - Attack: "2 talons +3"
+    Effect: "1d6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: captivating song

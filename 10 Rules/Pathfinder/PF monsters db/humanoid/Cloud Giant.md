@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: morningstar +22/+17/+12 (4d6+18) or 2 slams +22 (2d6+12)
+Melee: 
+  - Attack: "morningstar +22/+17/+12"
+    Effect: "4d6+18"
+  - Attack: "2 slams +22"
+    Effect: "2d6+12"
 Reach: 15 ft.
-Ranged: rock +12 (2d6+18)
+Ranged: 
+  - Attack: "rock +12"
+    Effect: "2d6+18"
 SpecialAttacks: rock throwing (140 ft.)
 SpellLikeAbilities: Spell-Like Abilities (CL 16th) At will-levitate (self plus 2,000 lbs.), obscuring mist 1/day-fog cloud
 STR: 35

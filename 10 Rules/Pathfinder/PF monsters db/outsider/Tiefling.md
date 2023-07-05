@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: short sword +3 (1d6+1/19-20)
+Melee: 
+  - Attack: "short sword +3"
+    Effect: "1d6+1/19-20"
 Reach: 5 ft.
-Ranged: light crossbow +3 (1d8/19-20)
+Ranged: 
+  - Attack: "light crossbow +3"
+    Effect: "1d8/19-20"
 SpecialAttacks: sneak attack +1d6
 SpellLikeAbilities: Spell-Like Abilities (CL 1st) 1/day-darkness
 STR: 13

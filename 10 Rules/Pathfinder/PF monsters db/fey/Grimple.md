@@ -36,9 +36,13 @@ Climb: 20 ft.
 Fly: 20 ft.
 Maneuverability: clumsy
 Swim: 
-Melee: bite +3 (1d3-4)
+Melee: 
+  - Attack: "bite +3"
+    Effect: "1d3-4"
 Reach: 0 ft.
-Ranged: rock +3 (1d2-4)
+Ranged: 
+  - Attack: "rock +3"
+    Effect: "1d2-4"
 SpecialAttacks: putrid vomit
 SpellLikeAbilities: Spell-Like Abilities (CL 1st; concentration -1)   At Will-prestidigitation   3/day-grease (DC 9), mage hand, open/close
 STR: 3

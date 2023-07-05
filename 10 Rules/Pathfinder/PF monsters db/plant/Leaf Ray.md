@@ -36,7 +36,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: average
 Swim: 
-Melee: stinger +3 (1d4+1 plus poison)
+Melee: 
+  - Attack: "stinger +3"
+    Effect: "1d4+1 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: poison, seed

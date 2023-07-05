@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +2 quarterstaff +22/+17/+12 (1d6+9 plus energy drain) or  2 claws +20 (1d4+5 plus energy drain)
+Melee: 
+  - Attack: "+2 quarterstaff +22/+17/+12"
+    Effect: "1d6+9 plus energy drain"
+  - Attack: "2 claws +20"
+    Effect: "1d4+5 plus energy drain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: draining weapon, energy drain (1 level, DC 21), fear gaze, soul crush

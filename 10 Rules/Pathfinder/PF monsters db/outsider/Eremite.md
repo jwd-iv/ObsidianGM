@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +30 (2d6+10 plus pain), 2 claws +30 (2d6+10/19-20 plus grab and pain), 2 wings +25 (1d8+5 plus pain)
+Melee: 
+  - Attack: "bite +30"
+    Effect: "2d6+10 plus pain"
+  - Attack: "2 claws +30"
+    Effect: "2d6+10/19-20 plus grab and pain"
+  - Attack: "2 wings +25"
+    Effect: "1d8+5 plus pain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: evisceration, unnerving gaze (30 ft., DC 31)

@@ -36,9 +36,13 @@ Climb: 20 ft.
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +6 (1d8+4)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "1d8+4"
 Reach: 5 ft.
-Ranged: spit +5 touch (1d3 acid)
+Ranged: 
+  - Attack: "spit +5 touch"
+    Effect: "1d3 acid"
 SpecialAttacks: voracious
 SpellLikeAbilities: 
 STR: 16

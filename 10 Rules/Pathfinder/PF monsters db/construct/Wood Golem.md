@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +12 (2d6+4)
+Melee: 
+  - Attack: "2 slams +12"
+    Effect: "2d6+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: splintering

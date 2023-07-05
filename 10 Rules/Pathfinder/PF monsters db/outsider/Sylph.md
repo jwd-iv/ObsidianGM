@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger -1 (1d4-1/19-20)
+Melee: 
+  - Attack: "dagger -1"
+    Effect: "1d4-1/19-20"
 Reach: 5 ft.
-Ranged: dagger +3 (1d4-1/19-20)
+Ranged: 
+  - Attack: "dagger +3"
+    Effect: "1d4-1/19-20"
 SpecialAttacks: sneak attack +1d6
 SpellLikeAbilities: Spell-Like Abilities (CL 1st; concentration +1)  1/day-feather fall
 STR: 8

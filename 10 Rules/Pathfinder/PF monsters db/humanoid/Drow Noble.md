@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk rapier +4 (1d6+1/18-20)
+Melee: 
+  - Attack: "mwk rapier +4"
+    Effect: "1d6+1/18-20"
 Reach: 5 ft.
-Ranged: hand crossbow +5 (1d4/19-20 plus poison)
+Ranged: 
+  - Attack: "hand crossbow +5"
+    Effect: "1d4/19-20 plus poison"
 SpecialAttacks: bleeding touch (6/day), channel negative energy (4/day, 2d6, DC 12), touch of chaos (6/day)
 SpellLikeAbilities: Spell-Like Abilities (CL 3rd) Constant-detect magic At Will-dancing lights, deeper darkness, faerie fire, feather fall, levitate 1/day-divine favor, dispel magic, suggestion (DC 14)
 STR: 12

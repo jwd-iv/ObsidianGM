@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 shortspear +9 (1d6+6)
+Melee: 
+  - Attack: "+1 shortspear +9"
+    Effect: "1d6+6"
 Reach: 5 ft.
-Ranged: mwk javelin +5 (1d6+3)
+Ranged: 
+  - Attack: "mwk javelin +5"
+    Effect: "1d6+3"
 SpecialAttacks: infuse arms and armor, mythic power (1/day, surge +1d6)
 SpellLikeAbilities: Spell-Like Abilities (CL 4th; concentration +3)   1/day-barkskin, true strike
 STR: 17

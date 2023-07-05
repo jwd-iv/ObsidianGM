@@ -35,7 +35,9 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +9 (1d6+4 plus 1d6 cold)
+Melee: 
+  - Attack: "2 claws +9"
+    Effect: "1d6+4 plus 1d6 cold"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: frightful gaze, rend (2 claws, 1d6+6 plus  1d6 cold)

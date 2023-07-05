@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +32 (3d10+19/19-20) or stomp +32 (6d10+28 plus pinning stomp)
+Melee: 
+  - Attack: "2 slams +32"
+    Effect: "3d10+19/19-20"
+  - Attack: "stomp +32"
+    Effect: "6d10+28 plus pinning stomp"
 Reach: 30 ft.
-Ranged: light ballista +13 (3d8/x3)
+Ranged: 
+  - Attack: "light ballista +13"
+    Effect: "3d8/x3"
 SpecialAttacks: mythic power (7/day, surge +1d10), mythic quickening, pinning stomp
 SpellLikeAbilities: Spell-Like Abilities (CL 15th; concentration +16)   3/day-wall of stone (DC 16)   1/day-repulsion (DC 17)
 STR: 48

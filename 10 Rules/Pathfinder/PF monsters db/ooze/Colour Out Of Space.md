@@ -36,7 +36,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: disintegrating touch +15 touch (6d6; DC 22)
+Melee: 
+  - Attack: "disintegrating touch +15 touch"
+    Effect: "6d6; DC 22"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: feed

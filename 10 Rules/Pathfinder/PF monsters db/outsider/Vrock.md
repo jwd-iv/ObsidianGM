@@ -35,7 +35,13 @@ Climb:
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: 2 claws +13 (2d6+5), bite +13 (1d8+5), 2 talons +13 (1d6+5)
+Melee: 
+  - Attack: "2 claws +13"
+    Effect: "2d6+5"
+  - Attack: "bite +13"
+    Effect: "1d8+5"
+  - Attack: "2 talons +13"
+    Effect: "1d6+5"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: dance of ruin, spores, stunning screech

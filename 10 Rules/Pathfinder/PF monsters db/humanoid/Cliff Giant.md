@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: greatclub +17/+12 (2d8+12) or 2 slams +17 (1d8+8)
+Melee: 
+  - Attack: "greatclub +17/+12"
+    Effect: "2d8+12"
+  - Attack: "2 slams +17"
+    Effect: "1d8+8"
 Reach: 10 ft.
-Ranged: rock +12 (1d8+8)
+Ranged: 
+  - Attack: "rock +12"
+    Effect: "1d8+8"
 SpecialAttacks: rock throwing (120 ft.)
 SpellLikeAbilities: Spell-Like Abilities (CL 14th; concentration +15)   At Will-detect poison, know direction   3/day-animal messenger, cure moderate wounds, detect animals or plants, speak with animals, stone shape   1/day-commune with nature
 STR: 26

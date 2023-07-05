@@ -35,7 +35,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: poor
 Swim: 
-Melee: sting +10 melee (1d6+4 plus poison), bite +10 melee  (2d6+4 plus grab), 2 wings +5 (1d6+2)
+Melee: 
+  - Attack: "sting +10 melee"
+    Effect: "1d6+4 plus poison"
+  - Attack: "bite +10 melee"
+    Effect: "2d6+4 plus grab"
+  - Attack: "2 wings +5"
+    Effect: "1d6+2"
 Reach: 5 ft.  Special Attack rake (2 talons +10, 1d6+4)
 Ranged: 
 SpecialAttacks: 

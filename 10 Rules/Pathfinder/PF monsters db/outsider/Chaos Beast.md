@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 claws +13 (1d6+3 plus corporeal instability)
+Melee: 
+  - Attack: "4 claws +13"
+    Effect: "1d6+3 plus corporeal instability"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

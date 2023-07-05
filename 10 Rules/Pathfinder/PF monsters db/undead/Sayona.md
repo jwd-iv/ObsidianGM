@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +18 (2d6+1 plus bleed and paralysis), 2 claws +18 (2d6+1 plus bleed and paralysis)
+Melee: 
+  - Attack: "bite +18"
+    Effect: "2d6+1 plus bleed and paralysis"
+  - Attack: "2 claws +18"
+    Effect: "2d6+1 plus bleed and paralysis"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: absorb blood, blood drain (1d4 Con), fear cone (60 ft., DC 23), paralysis (1d4 rounds, DC 23), staggering gaze

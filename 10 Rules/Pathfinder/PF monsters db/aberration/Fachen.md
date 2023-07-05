@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: battleaxe +10 (1d8+5/x3), bite +5 (1d6+2)
+Melee: 
+  - Attack: "battleaxe +10"
+    Effect: "1d8+5/x3"
+  - Attack: "bite +5"
+    Effect: "1d6+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: gore +14 (2d6+7 plus 1d6 fire), 2 hooves +9 (1d8+3)
+Melee: 
+  - Attack: "gore +14"
+    Effect: "2d6+7 plus 1d6 fire"
+  - Attack: "2 hooves +9"
+    Effect: "1d8+3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: steam cloud, trample (1d8+10, DC 21)

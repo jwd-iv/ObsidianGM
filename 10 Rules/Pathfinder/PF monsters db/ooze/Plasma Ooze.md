@@ -36,9 +36,13 @@ Climb:
 Fly: 30 ft.
 Maneuverability: perfect
 Swim: 
-Melee: slam +24 (4d6+19 plus 4d6 electricity, 4d6 fire, and grab)
+Melee: 
+  - Attack: "slam +24"
+    Effect: "4d6+19 plus 4d6 electricity, 4d6 fire, and grab"
 Reach: 20 ft.
-Ranged: 1d4 plasma rays +11 touch (4d6 electricity plus 4d6 fire)
+Ranged: 
+  - Attack: "1d4 plasma rays +11 touch"
+    Effect: "4d6 electricity plus 4d6 fire"
 SpecialAttacks: constrict (4d6+19 plus 4d6 electricity and 4d6 fire), engulf (DC 33, 4d6 electricity plus 4d6 fire)
 SpellLikeAbilities: 
 STR: 36

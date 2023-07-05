@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk spear +15/+10 (1d8+7/x3), 2 claws +9 (1d6+2 plus grab), sting +9 (1d6+2 plus poison)
+Melee: 
+  - Attack: "mwk spear +15/+10"
+    Effect: "1d8+7/x3"
+  - Attack: "2 claws +9"
+    Effect: "1d6+2 plus grab"
+  - Attack: "sting +9"
+    Effect: "1d6+2 plus poison"
 Reach: 10 ft.
-Ranged: mwk spear +12 (1d8+5/x3)
+Ranged: 
+  - Attack: "mwk spear +12"
+    Effect: "1d8+5/x3"
 SpecialAttacks: constrict (1d6+5)
 SpellLikeAbilities: Spell-Like Abilities (CL 10th; concentration +10)   1/day-summon nature's ally V (1d3 giant scorpions)
 STR: 20

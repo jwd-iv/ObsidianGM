@@ -36,7 +36,15 @@ Climb:
 Fly: 200 ft.
 Maneuverability: poor
 Swim: 60 ft.
-Melee: bite +29 (2d8+15 plus 2d6 acid), 2 claws +28 (2d6+10), 2 wings +26 (1d8+5), tail slap +26 (2d6+15)
+Melee: 
+  - Attack: "bite +29"
+    Effect: "2d8+15 plus 2d6 acid"
+  - Attack: "2 claws +28"
+    Effect: "2d6+10"
+  - Attack: "2 wings +26"
+    Effect: "1d8+5"
+  - Attack: "tail slap +26"
+    Effect: "2d6+15"
 Reach: 10 ft. (15 ft. with bite)
 Ranged: 
 SpecialAttacks: acidic bite, breath weapon (100-ft. line, DC 26, 18d6 acid), corrupt water, crush (DC 26, 2d8+15)

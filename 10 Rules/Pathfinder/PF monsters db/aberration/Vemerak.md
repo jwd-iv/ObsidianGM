@@ -35,7 +35,13 @@ Climb: 40 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +22 (2d6+11), 2 claws +22 (1d8+11 plus grab),  3 tentacles +19 (1d6+5 plus grab)
+Melee: 
+  - Attack: "bite +22"
+    Effect: "2d6+11"
+  - Attack: "2 claws +22"
+    Effect: "1d8+11 plus grab"
+  - Attack: "3 tentacles +19"
+    Effect: "1d6+5 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: breath weapon (90-foot line, 14d8 acid damage, DC 24 half, once every 1d4 rounds), constrict (tentacles 1d6+5 or claws 1d8+11), earthquake

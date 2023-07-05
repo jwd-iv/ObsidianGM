@@ -36,7 +36,9 @@ Climb:
 Fly: 15 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +5 touch (6d6 negative energy)
+Melee: 
+  - Attack: "+5 touch"
+    Effect: "6d6 negative energy"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: enveloping mists (DC 17, 3d6 negative energy and staggered)

@@ -36,7 +36,11 @@ Climb:
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: +1 adamantine scythe +14/+9 (2d4+7/x4) or 2 claws +13 (1d6+4)
+Melee: 
+  - Attack: "+1 adamantine scythe +14/+9"
+    Effect: "2d4+7/x4"
+  - Attack: "2 claws +13"
+    Effect: "1d6+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

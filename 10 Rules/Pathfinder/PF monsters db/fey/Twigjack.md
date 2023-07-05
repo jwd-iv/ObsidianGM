@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: spear +3 (1d4-1/x3) or   2 claws +7 (1d4-1)
+Melee: 
+  - Attack: "spear +3"
+    Effect: "1d4-1/x3"
+  - Attack: "2 claws +7"
+    Effect: "1d4-1"
 Reach: 0 ft. (5 ft. with spear)
 Ranged: 
 SpecialAttacks: sneak attack +2d6, splinterspray

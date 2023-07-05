@@ -36,9 +36,13 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: +3 cold iron keen longsword +20/+20/+15 (1d8+12/17-20 plus bleed)
+Melee: 
+  - Attack: "+3 cold iron keen longsword +20/+20/+15"
+    Effect: "1d8+12/17-20 plus bleed"
 Reach: 5 ft.
-Ranged: +3 ironwood longbow +20/+20/+15 (1d8+3/x3 plus bleed)
+Ranged: 
+  - Attack: "+3 ironwood longbow +20/+20/+15"
+    Effect: "1d8+3/x3 plus bleed"
 SpecialAttacks: bleed (1d6), favored enemy (all humanoids +10), ironwood mastery
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +25)  Constant-blur, haste (self only), protection from evil, protection from law, speak with animals, speak with plants   At Will-whispering wind   3/day-animate plants, black tentacles, cure critical wounds, haste, ironwood, move earth, plant growth, summon nature's ally VI, summon (level 6, 1d4+1 centaurs or 1 treant 100%), tree stride   1/day-finger of death (DC 23), repel metal or stone, summon nature's ally IX
 STR: 20

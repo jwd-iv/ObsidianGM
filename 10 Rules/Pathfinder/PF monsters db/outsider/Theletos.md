@@ -35,7 +35,11 @@ Climb:
 Fly: 30 ft.
 Maneuverability: poor
 Swim: 
-Melee: 2 slams +13 (1d6+4), 2 tentacles +8 (1d4+2 plus fate drain)
+Melee: 
+  - Attack: "2 slams +13"
+    Effect: "1d6+4"
+  - Attack: "2 tentacles +8"
+    Effect: "1d4+2 plus fate drain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: wreath of fate

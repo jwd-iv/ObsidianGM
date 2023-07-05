@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: longsword +7 (2d6+4/19-20), slam +2 (2d6+4)
+Melee: 
+  - Attack: "longsword +7"
+    Effect: "2d6+4/19-20"
+  - Attack: "slam +2"
+    Effect: "2d6+4"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

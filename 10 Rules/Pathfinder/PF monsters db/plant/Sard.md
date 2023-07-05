@@ -35,9 +35,13 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +25 (4d10+16/19-20 plus 4d6 electricity)
+Melee: 
+  - Attack: "2 slams +25"
+    Effect: "4d10+16/19-20 plus 4d6 electricity"
 Reach: 30 ft.
-Ranged: 4 thorns +17 (2d8+16 plus poison)
+Ranged: 
+  - Attack: "4 thorns +17"
+    Effect: "2d8+16 plus poison"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +27)   At Will-control weather, lightning bolt (DC 20), tree shape (Colossal tree), transport via plants   3/day-chain lightning (DC 23), quickened lightning bolt (DC 20)   1/day-storm of vengeance (DC 26), whirlwind (DC 25)
 STR: 42

@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +10/+5 (1d4/19-20), snake bite +5 (1d4 plus poison)
+Melee: 
+  - Attack: "dagger +10/+5"
+    Effect: "1d4/19-20"
+  - Attack: "snake bite +5"
+    Effect: "1d4 plus poison"
 Reach: 5 ft.
-Ranged: mwk longbow +11/+6 (1d8/x3)
+Ranged: 
+  - Attack: "mwk longbow +11/+6"
+    Effect: "1d8/x3"
 SpecialAttacks: petrifying gaze
 SpellLikeAbilities: 
 STR: 10

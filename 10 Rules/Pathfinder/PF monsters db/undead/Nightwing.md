@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +23 (4d10+18/19- 20 plus 4d6 cold and magic drain)
+Melee: 
+  - Attack: "bite +23"
+    Effect: "4d10+18/19- 20 plus 4d6 cold and magic drain"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: channel energy (7d6, DC 28, 8/day)

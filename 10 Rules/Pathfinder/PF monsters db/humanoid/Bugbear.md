@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: morningstar +5 (1d8+3)
+Melee: 
+  - Attack: "morningstar +5"
+    Effect: "1d8+3"
 Reach: 5 ft.
-Ranged: javelin +3 (1d6+3)
+Ranged: 
+  - Attack: "javelin +3"
+    Effect: "1d6+3"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 16

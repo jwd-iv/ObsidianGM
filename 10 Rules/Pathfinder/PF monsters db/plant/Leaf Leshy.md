@@ -36,9 +36,13 @@ Climb: 10 ft.
 Fly: 10 ft.
 Maneuverability: clumsy
 Swim: 
-Melee: shortspear +2 (1d4-2/19-20)
+Melee: 
+  - Attack: "shortspear +2"
+    Effect: "1d4-2/19-20"
 Reach: 5 ft.
-Ranged: seedpods +2 touch (1 plus deafen)
+Ranged: 
+  - Attack: "seedpods +2 touch"
+    Effect: "1 plus deafen"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 2nd; concentration +3)  Constant-pass without trace
 STR: 6

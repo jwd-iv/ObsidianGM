@@ -36,7 +36,11 @@ Climb: 20 ft.
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +18 (2d8+10/19-20 plus bleed), tail slap +12 (1d10+3 plus trip)
+Melee: 
+  - Attack: "bite +18"
+    Effect: "2d8+10/19-20 plus bleed"
+  - Attack: "tail slap +12"
+    Effect: "1d10+3 plus trip"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: bleed (1d6), clinging corrosion, pounce, savage bite

@@ -35,9 +35,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: longspear +3 (1d8+3/x3) or greatsword +3 (2d6+3/19-20) or dagger +3 (1d4+2/19-20)
+Melee: 
+  - Attack: "longspear +3"
+    Effect: "1d8+3/x3"
+  - Attack: "greatsword +3"
+    Effect: "2d6+3/19-20"
+  - Attack: "dagger +3"
+    Effect: "1d4+2/19-20"
 Reach: 5 ft. (10 ft. with longspear)
-Ranged: javelin +2 (1d6+2)
+Ranged: 
+  - Attack: "javelin +2"
+    Effect: "1d6+2"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 15

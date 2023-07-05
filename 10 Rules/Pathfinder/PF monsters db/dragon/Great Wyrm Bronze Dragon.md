@@ -36,7 +36,15 @@ Climb:
 Fly: 250 ft.
 Maneuverability: clumsy
 Swim: 60 ft.
-Melee: bite +34 (4d8+21/19-20), 2 claws +34 (4d6+14/19-20), tail slap +32 (4d6+21), 2 wings +32 (2d8+7)
+Melee: 
+  - Attack: "bite +34"
+    Effect: "4d8+21/19-20"
+  - Attack: "2 claws +34"
+    Effect: "4d6+14/19-20"
+  - Attack: "tail slap +32"
+    Effect: "4d6+21"
+  - Attack: "2 wings +32"
+    Effect: "2d8+7"
 Reach: 20 ft. (30 ft. with bite)
 Ranged: 
 SpecialAttacks: breath weapon (140-ft. line, DC 32, 24d6 electricity), crush (4d8+21, DC 32), repulsion breath, tail sweep (2d8+21, DC 32), tidal wave, vortex

@@ -35,7 +35,9 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: 4 slams +30 (3d6+15/19-20 plus grab)
+Melee: 
+  - Attack: "4 slams +30"
+    Effect: "3d6+15/19-20 plus grab"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: constrict (3d6+15), maddening cacophony,  engulf (4d6+22 bludgeoning damage plus 8d6 acid damage,  AC 19, hp 33), trample (4d8+15, DC 36)

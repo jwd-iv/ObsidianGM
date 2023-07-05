@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +19 (1d6+8/19-20 plus 1 Con damage), bite +19  (2d6+8 plus poison), 2 tentacles +14 (1d6+4)
+Melee: 
+  - Attack: "2 slams +19"
+    Effect: "1d6+8/19-20 plus 1 Con damage"
+  - Attack: "bite +19"
+    Effect: "2d6+8 plus poison"
+  - Attack: "2 tentacles +14"
+    Effect: "1d6+4"
 Reach: 5 ft. (10 ft. with slams and tentacles)
 Ranged: 
 SpecialAttacks: horrific appearance (DC 20)

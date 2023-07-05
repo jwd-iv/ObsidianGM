@@ -36,7 +36,9 @@ Climb:
 Fly: 30 ft.
 Maneuverability: perfect
 Swim: 
-Melee: incorporeal touch +4 (1d4 Wisdom damage)
+Melee: 
+  - Attack: "incorporeal touch +4"
+    Effect: "1d4 Wisdom damage"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: babble, touch of insanity

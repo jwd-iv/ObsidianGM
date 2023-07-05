@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +11 (1d8+6), gore +11 (1d8+6)
+Melee: 
+  - Attack: "2 claws +11"
+    Effect: "1d8+6"
+  - Attack: "gore +11"
+    Effect: "1d8+6"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: rend (2 claws, 1d8+9), smash and bash

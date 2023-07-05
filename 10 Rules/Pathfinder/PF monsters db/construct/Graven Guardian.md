@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 keen scimitar +10/+5 (1d6+5/15-20 plus bleed) or slam +9 (1d6+4)
+Melee: 
+  - Attack: "+1 keen scimitar +10/+5"
+    Effect: "1d6+5/15-20 plus bleed"
+  - Attack: "slam +9"
+    Effect: "1d6+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed 2, magic weapon, rest eternal

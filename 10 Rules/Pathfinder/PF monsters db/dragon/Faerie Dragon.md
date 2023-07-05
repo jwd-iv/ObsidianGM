@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 30 ft.
-Melee: bite +4 (1d3-1)
+Melee: 
+  - Attack: "bite +4"
+    Effect: "1d3-1"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: breath weapon (5-ft. cone, euphoria, Fort DC 12 negates, usable every 1d4 rounds)

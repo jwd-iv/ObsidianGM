@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +29 (2d10+10)
+Melee: 
+  - Attack: "2 slams +29"
+    Effect: "2d10+10"
 Reach: 10 ft.
-Ranged: cannon +26/+21 (6d6+7/19-20/x4)
+Ranged: 
+  - Attack: "cannon +26/+21"
+    Effect: "6d6+7/19-20/x4"
 SpecialAttacks: cannon
 SpellLikeAbilities: 
 STR: 30

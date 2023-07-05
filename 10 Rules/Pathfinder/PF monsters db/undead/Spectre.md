@@ -35,7 +35,9 @@ Climb:
 Fly: 80 ft.
 Maneuverability: perfect
 Swim: 
-Melee: incorporeal touch +10 (1d8 plus energy drain)
+Melee: 
+  - Attack: "incorporeal touch +10"
+    Effect: "1d8 plus energy drain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: create spawn, energy drain (2 levels, DC 16)

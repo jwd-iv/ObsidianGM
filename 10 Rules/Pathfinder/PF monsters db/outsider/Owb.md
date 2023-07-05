@@ -36,9 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 claws +12 (1d8+4 plus 1d6 cold)
+Melee: 
+  - Attack: "2 claws +12"
+    Effect: "1d8+4 plus 1d6 cold"
 Reach: 5 ft.
-Ranged: burning cold +14 touch (3d6 cold)
+Ranged: 
+  - Attack: "burning cold +14 touch"
+    Effect: "3d6 cold"
 SpecialAttacks: burning cold, curse of darkness
 SpellLikeAbilities: Spell-Like Abilities (CL 8th; concentration +11)  Constant-blur  At Will-deeper darkness, detect thoughts, dust of twillightAPG (DC 15)  5/day-shadow stepUM  1/day-plane shift (self only, to or from the Shadow Plane only)
 STR: 18

@@ -36,7 +36,11 @@ Climb:
 Fly: 40 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +10 (1d6+3 plus bleed), 2 claws +10 (1d6+3 plus grab)
+Melee: 
+  - Attack: "bite +10"
+    Effect: "1d6+3 plus bleed"
+  - Attack: "2 claws +10"
+    Effect: "1d6+3 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed (1d4), blood drain (1 Constitution), dust cloud, fell shriek, powerful charge (claw, 2d6+6)

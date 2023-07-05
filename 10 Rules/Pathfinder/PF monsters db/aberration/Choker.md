@@ -35,7 +35,9 @@ Climb: 10 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 tentacles +6 (1d4+3 plus grab)
+Melee: 
+  - Attack: "2 tentacles +6"
+    Effect: "1d4+3 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: constrict (1d4+3), grab (Large), strangle

@@ -35,9 +35,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: rhoka sword +8 (1d8+6/18-20), bite +2 (1d4+2 plus 2 Str) or  bite +7 (1d4+4 plus 2 Str)
+Melee: 
+  - Attack: "rhoka sword +8"
+    Effect: "1d8+6/18-20"
+  - Attack: "bite +2"
+    Effect: "1d4+2 plus 2 Str"
+  - Attack: "bite +7"
+    Effect: "1d4+4 plus 2 Str"
 Reach: 5 ft.
-Ranged: composite longbow +4 (1d8+4/x3)
+Ranged: 
+  - Attack: "composite longbow +4"
+    Effect: "1d8+4/x3"
 SpecialAttacks: blood drain (1 Con)
 SpellLikeAbilities: Spell-Like Abilities (CL 3rd; concentration +5)  At will-feather fall  3/day-align weapon, death knell (DC 14), ray of enfeeblement (DC 13)
 STR: 19

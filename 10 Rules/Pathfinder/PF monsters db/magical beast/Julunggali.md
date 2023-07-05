@@ -36,7 +36,11 @@ Climb:
 Fly: 20 ft.
 Maneuverability: average
 Swim: 90 ft.
-Melee: bite +29 (4d8+14 plus grab and poison and pull or push), slam +29 (4d6+14)
+Melee: 
+  - Attack: "bite +29"
+    Effect: "4d8+14 plus grab and poison and pull or push"
+  - Attack: "slam +29"
+    Effect: "4d6+14"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: amazing initiative, constrict (4d8+21), fast swallow, mythic power (8/ day, surge +1d10), pull (bite, 30 ft.), push (bite, 30 ft.), swallow whole (4d8 acid damage, AC 26, 39 hp)

@@ -36,7 +36,9 @@ Climb: 15 ft.
 Fly: 
 Maneuverability: 
 Swim: 15 ft.
-Melee: 5 bites +11 (1d4+1 plus disease)
+Melee: 
+  - Attack: "5 bites +11"
+    Effect: "1d4+1 plus disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: disease, plaguebringer

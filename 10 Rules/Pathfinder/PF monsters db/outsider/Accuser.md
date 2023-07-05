@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +5 (1d6 plus 1d6 acid  and disease)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d6 plus 1d6 acid  and disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

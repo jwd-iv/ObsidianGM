@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +6 (1d8)
+Melee: 
+  - Attack: "2 slams +6"
+    Effect: "1d8"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: compel condemned, kiss of death

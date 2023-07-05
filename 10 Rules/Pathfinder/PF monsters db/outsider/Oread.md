@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: longsword +3 (1d8+3/19-20)
+Melee: 
+  - Attack: "longsword +3"
+    Effect: "1d8+3/19-20"
 Reach: 5 ft.
-Ranged: composite longbow +4 (1d8+2/x3)
+Ranged: 
+  - Attack: "composite longbow +4"
+    Effect: "1d8+2/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 1st; concentration +0)  1/day-magic stone
 STR: 15

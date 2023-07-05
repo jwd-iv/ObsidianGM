@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk longsword +5 (1d8+2/19-20) or 2 slams +4 (1d4+2)
+Melee: 
+  - Attack: "mwk longsword +5"
+    Effect: "1d8+2/19-20"
+  - Attack: "2 slams +4"
+    Effect: "1d4+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

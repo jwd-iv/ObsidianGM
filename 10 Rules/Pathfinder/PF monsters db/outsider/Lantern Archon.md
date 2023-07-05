@@ -37,7 +37,9 @@ Maneuverability: perfect
 Swim: 
 Melee: 
 Reach: 5 ft.
-Ranged: 2 light rays +3 ranged touch (1d6)
+Ranged: 
+  - Attack: "2 light rays +3 ranged touch"
+    Effect: "1d6"
 SpecialAttacks: 
 SpellLikeAbilities: >
   Spell-Like Abilities (CL 3rd): At Will-aid, continual flame, detect evil, greater teleport (self plus 50 lbs. of objects only)

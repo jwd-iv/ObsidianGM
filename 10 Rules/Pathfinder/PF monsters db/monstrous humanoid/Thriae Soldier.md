@@ -36,9 +36,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: sting +10 (1d8+7 plus poison)
+Melee: 
+  - Attack: "sting +10"
+    Effect: "1d8+7 plus poison"
 Reach: 5 ft.
-Ranged: composite longbow +8 (1d8+5/x3 plus poison) or   Rapid Shot +6/+6 (1d8+5/x3 plus poison)
+Ranged: 
+  - Attack: "composite longbow +8"
+    Effect: "1d8+5/x3 plus poison"
+  - Attack: "Rapid Shot +6/+6"
+    Effect: "1d8+5/x3 plus poison"
 SpecialAttacks: merope consumption
 SpellLikeAbilities: 
 STR: 20

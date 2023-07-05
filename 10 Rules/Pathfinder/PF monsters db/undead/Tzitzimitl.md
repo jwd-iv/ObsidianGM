@@ -36,9 +36,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +26 (2d8+14 plus 3d6 electricity and energy drain), 2 claws +27 (2d6+14/19-20 plus 3d6 electricity)
+Melee: 
+  - Attack: "bite +26"
+    Effect: "2d8+14 plus 3d6 electricity and energy drain"
+  - Attack: "2 claws +27"
+    Effect: "2d6+14/19-20 plus 3d6 electricity"
 Reach: 20 ft.
-Ranged: eye beam +17 touch (10d6 electricity and 10d6 force)
+Ranged: 
+  - Attack: "eye beam +17 touch"
+    Effect: "10d6 electricity and 10d6 force"
 SpecialAttacks: eclipse, energy drain (2 levels, DC 31)
 SpellLikeAbilities: Spell-Like Abilities (CL 19th; concentration +29)  Constant-arcane sight, fly, true seeing  At Will-bestow curse (DC 24), deeper darkness  3/day-animate dead, contagion (DC 24), greater teleport, haste  1/day-create undead, temporal stasis (DC 28), wail of the banshee (DC 29)
 STR: 39

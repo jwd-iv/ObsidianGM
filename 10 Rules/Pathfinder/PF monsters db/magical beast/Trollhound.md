@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +8 (1d10+6 plus disease and trip)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "1d10+6 plus disease and trip"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

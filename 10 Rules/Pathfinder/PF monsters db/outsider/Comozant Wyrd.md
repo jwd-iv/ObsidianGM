@@ -38,7 +38,9 @@ Maneuverability: good
 Swim: 
 Melee: 
 Reach: 5 ft.
-Ranged: lightning lash +8 (2d8 electricity damage)
+Ranged: 
+  - Attack: "lightning lash +8"
+    Effect: "2d8 electricity damage"
 SpecialAttacks: lightning lash
 SpellLikeAbilities: Spell-Like Abilities (CL 7th; concentration +11)   2/day-control weather (standard action; intensify or dispel storm only)
 STR: -

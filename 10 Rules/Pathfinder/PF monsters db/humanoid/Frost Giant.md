@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: greataxe +18/+13 (3d6+13) or 2 slams  +18 (1d8+9)
+Melee: 
+  - Attack: "greataxe +18/+13"
+    Effect: "3d6+13"
+  - Attack: "2 slams  +18"
+    Effect: "1d8+9"
 Reach: 10 ft.
-Ranged: rock +9 (1d8+13)
+Ranged: 
+  - Attack: "rock +9"
+    Effect: "1d8+13"
 SpecialAttacks: rock throwing (120 ft.)
 SpellLikeAbilities: 
 STR: 29

@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +27 (2d6+12 plus 3d6 electricity or sonic and blindness or deafness)
+Melee: 
+  - Attack: "2 slams +27"
+    Effect: "2d6+12 plus 3d6 electricity or sonic and blindness or deafness"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: fists of lightning and thunder

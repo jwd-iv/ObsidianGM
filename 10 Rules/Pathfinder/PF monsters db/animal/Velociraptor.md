@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +6 (1d4+1), 2 talons +6 (1d6+1/19-20)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "1d4+1"
+  - Attack: "2 talons +6"
+    Effect: "1d6+1/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: leaping charge

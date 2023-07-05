@@ -36,7 +36,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: good
 Swim: 
-Melee: rapier +8 (1d2-2/18-20)
+Melee: 
+  - Attack: "rapier +8"
+    Effect: "1d2-2/18-20"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: sneak attack +1d6

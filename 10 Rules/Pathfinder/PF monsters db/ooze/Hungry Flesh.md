@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 20 ft.
-Melee: slam +5 (1d6+4 plus disease and grab)
+Melee: 
+  - Attack: "slam +5"
+    Effect: "1d6+4 plus disease and grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: constrict (1d6+4 plus disease)

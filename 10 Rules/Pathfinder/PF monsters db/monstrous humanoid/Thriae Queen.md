@@ -36,7 +36,11 @@ Climb:
 Fly: 50 ft.
 Maneuverability: good
 Swim: 
-Melee: +2 axiomatic light mace +35/+30/+25/+20 (2d6+11/19-20), sting +27 (2d8+4/19-20 plus poison)
+Melee: 
+  - Attack: "+2 axiomatic light mace +35/+30/+25/+20"
+    Effect: "2d6+11/19-20"
+  - Attack: "sting +27"
+    Effect: "2d8+4/19-20 plus poison"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: launch merope, spawn soldiers

@@ -35,7 +35,9 @@ Climb: 15 ft.
 Fly: 
 Maneuverability: 
 Swim: 15 ft.
-Melee: swarm (1d6 plus disease)
+Melee: 
+  - Attack: "swarm"
+    Effect: "1d6 plus disease"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: disease, distraction (DC 12)

@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk longsword +27/+22/+17 (4d6+22/17-20) or  2 slams +26 (2d6+15)
+Melee: 
+  - Attack: "mwk longsword +27/+22/+17"
+    Effect: "4d6+22/17-20"
+  - Attack: "2 slams +26"
+    Effect: "2d6+15"
 Reach: 20 ft.
-Ranged: mwk spear +12/+7/+2 (4d6+15/x3)
+Ranged: 
+  - Attack: "mwk spear +12/+7/+2"
+    Effect: "4d6+15/x3"
 SpecialAttacks: command giants, runes, spark shower
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +24)  Constant-air walk At will-charm person (DC 15), suggestion (DC 17)  3/day-mass charm monster (DC 22), dominate person (DC 19)  1/day-demand (DC 22), true seeing
 STR: 41

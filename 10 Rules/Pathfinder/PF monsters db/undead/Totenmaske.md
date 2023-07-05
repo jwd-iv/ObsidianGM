@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +13 (1d8+4 plus 1d4 Cha drain), 2 claws +13 (1d6+4)
+Melee: 
+  - Attack: "bite +13"
+    Effect: "1d8+4 plus 1d4 Cha drain"
+  - Attack: "2 claws +13"
+    Effect: "1d6+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: fleshdrink, shape flesh

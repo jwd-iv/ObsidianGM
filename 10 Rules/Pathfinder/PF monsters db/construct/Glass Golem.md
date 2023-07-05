@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +16 (2d8+5 plus bleed)
+Melee: 
+  - Attack: "2 slams +16"
+    Effect: "2d8+5 plus bleed"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: bleed (1d8), dazzling brightness

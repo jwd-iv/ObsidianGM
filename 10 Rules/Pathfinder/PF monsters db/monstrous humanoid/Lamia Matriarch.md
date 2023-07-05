@@ -35,7 +35,11 @@ Climb: 40 ft.
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: +1 scimitars +14/+14/+9/+9/+4 (1d6+6/15-20 plus 1 Wisdom drain on first hit each round) or  touch +16 (1d4 Wisdom drain)
+Melee: 
+  - Attack: "+1 scimitars +14/+14/+9/+9/+4"
+    Effect: "1d6+6/15-20 plus 1 Wisdom drain on first hit each round"
+  - Attack: "touch +16"
+    Effect: "1d4 Wisdom drain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: Wisdom drain

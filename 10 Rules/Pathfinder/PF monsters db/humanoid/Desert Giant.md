@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk scimitars +16/+16/+11/+11 (1d8+8/15-20) or   2 slams +16 (1d8+8)
+Melee: 
+  - Attack: "mwk scimitars +16/+16/+11/+11"
+    Effect: "1d8+8/15-20"
+  - Attack: "2 slams +16"
+    Effect: "1d8+8"
 Reach: 10 ft.
-Ranged: rock +12 (1d8+12)
+Ranged: 
+  - Attack: "rock +12"
+    Effect: "1d8+12"
 SpecialAttacks: rock throwing (100 ft.), scimitar training
 SpellLikeAbilities: 
 STR: 26

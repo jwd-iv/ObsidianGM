@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +20 (3d6+14 plus grab), bite +19 (2d8+14)
+Melee: 
+  - Attack: "2 claws +20"
+    Effect: "3d6+14 plus grab"
+  - Attack: "bite +19"
+    Effect: "2d8+14"
 Reach: 20 ft.
-Ranged: rock +8 (3d6+14)
+Ranged: 
+  - Attack: "rock +8"
+    Effect: "3d6+14"
 SpecialAttacks: accurate strikes, constrict (3d6+14), eye gouge, fascinating gaze, mythic power (6/day, surge +1d8), rend (2 claws, 3d6+21), rock throwing (200 ft.)
 SpellLikeAbilities: Spell-Like Abilities (CL 14th; concentration +20)  Constant-arcane sight, detect scrying, true seeing   At Will-arcane eye, clairaudience/ clairvoyance, status, true strike   3/day-quickened true strike
 STR: 39

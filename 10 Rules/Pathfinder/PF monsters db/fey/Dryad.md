@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +7 (1d4)
+Melee: 
+  - Attack: "dagger +7"
+    Effect: "1d4"
 Reach: 5 ft.
-Ranged: masterwork longbow +8 (1d8)
+Ranged: 
+  - Attack: "masterwork longbow +8"
+    Effect: "1d8"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 6th)  Constant-speak with plants At will-entangle (DC 15), tree shape, wood shape (1 lb. only)  3/day-charm person (DC 15), deep slumber (DC 17), tree stride  1/day-suggestion (DC 17)
 STR: 10

@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: slam -1 (1d3-4)
+Melee: 
+  - Attack: "slam -1"
+    Effect: "1d3-4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (15-ft. line, 1d6 cold or 1d6 fire, Reflex DC 12 half, usable every 1d4 rounds)

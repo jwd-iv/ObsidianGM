@@ -36,7 +36,13 @@ Climb:
 Fly: 200 ft.
 Maneuverability: clumsy
 Swim: 
-Melee: bite +30 (4d6+11 plus disease), 2 claws +30 (2d8+11 plus disease), tail slap +24 (2d8+5 plus disease)
+Melee: 
+  - Attack: "bite +30"
+    Effect: "4d6+11 plus disease"
+  - Attack: "2 claws +30"
+    Effect: "2d8+11 plus disease"
+  - Attack: "tail slap +24"
+    Effect: "2d8+5 plus disease"
 Reach: 10 ft. (15 ft. with bite)
 Ranged: 
 SpecialAttacks: breath weapon (60-ft. cone, 1d6 Str drain plus mummy rot, Fortitude DC 27 negates, usable every 1d4 rounds)

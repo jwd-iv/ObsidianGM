@@ -36,9 +36,15 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +21 (2d6+11), 2 claws +21 (1d10+11)
+Melee: 
+  - Attack: "bite +21"
+    Effect: "2d6+11"
+  - Attack: "2 claws +21"
+    Effect: "1d10+11"
 Reach: 15 ft.
-Ranged: acid spit +13 touch (10d6 acid)
+Ranged: 
+  - Attack: "acid spit +13 touch"
+    Effect: "10d6 acid"
 SpecialAttacks: acid spit, rend (1d10+11)
 SpellLikeAbilities: Spell-Like Abilities (CL 16th; concentration +23)   At Will-dancing lights, faerie fire   3/day-daylight, giant vermin, insect plague, repel vermin (DC 21), summon swarm
 STR: 32

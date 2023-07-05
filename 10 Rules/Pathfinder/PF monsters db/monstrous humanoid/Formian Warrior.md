@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: sting +6 (1d4+2 plus poison), 2 claws +6 (1d4+2 plus grab)
+Melee: 
+  - Attack: "sting +6"
+    Effect: "1d4+2 plus poison"
+  - Attack: "2 claws +6"
+    Effect: "1d4+2 plus grab"
 Reach: 5 ft.
-Ranged: javelin +7 (1d6+2 plus poison)
+Ranged: 
+  - Attack: "javelin +7"
+    Effect: "1d6+2 plus poison"
 SpecialAttacks: deadly grasp, poison
 SpellLikeAbilities: 
 STR: 14

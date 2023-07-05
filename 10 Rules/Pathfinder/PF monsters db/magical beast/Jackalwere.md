@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk battleaxe +6 (1d8+2/x3), bite +0 (1d6+1) or bite +5 (1d6+3)
+Melee: 
+  - Attack: "mwk battleaxe +6"
+    Effect: "1d8+2/x3"
+  - Attack: "bite +0"
+    Effect: "1d6+1"
+  - Attack: "bite +5"
+    Effect: "1d6+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: sleep gaze, weapon intuition

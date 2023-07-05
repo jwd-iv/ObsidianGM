@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +5 (1d6+2), 2 tendrils +3 (1d4+1 plus pull)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d6+2"
+  - Attack: "2 tendrils +3"
+    Effect: "1d4+1 plus pull"
 Reach: 5 ft. (15 ft. with tendrils)
 Ranged: 
 SpecialAttacks: pull (tendril, 5 ft.), star-shriek

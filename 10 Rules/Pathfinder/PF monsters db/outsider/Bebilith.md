@@ -35,7 +35,11 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +19 (2d6+9 plus rot) and 2 claws +19 (2d4+9/19-20)
+Melee: 
+  - Attack: "bite +19"
+    Effect: "2d6+9 plus rot"
+  - Attack: "2 claws +19"
+    Effect: "2d4+9/19-20"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: dismantle armor, penetrating strike, web (+11  ranged, DC 23, 12 hp)

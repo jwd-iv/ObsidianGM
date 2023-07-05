@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: gore +23 (5d10+15/19-20)
+Melee: 
+  - Attack: "gore +23"
+    Effect: "5d10+15/19-20"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: powerful charge (gore, 10d10+15), trample (5d10+15, DC 31)

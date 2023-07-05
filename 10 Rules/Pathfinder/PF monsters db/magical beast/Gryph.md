@@ -35,7 +35,11 @@ Climb:
 Fly: 50 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +5 (1d6/x3), claw +5 (grab)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d6/x3"
+  - Attack: "claw +5"
+    Effect: "grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: implant eggs

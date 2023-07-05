@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +8 (1d6+2)
+Melee: 
+  - Attack: "2 claws +8"
+    Effect: "1d6+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: cursed gaze, sandstorm

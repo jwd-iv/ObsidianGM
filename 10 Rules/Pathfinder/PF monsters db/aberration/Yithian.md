@@ -36,7 +36,9 @@ Climb: 10 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 pincers +15 (2d8+9/x3)
+Melee: 
+  - Attack: "2 pincers +15"
+    Effect: "2d8+9/x3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: amnesia, deadly pincers, mind swap

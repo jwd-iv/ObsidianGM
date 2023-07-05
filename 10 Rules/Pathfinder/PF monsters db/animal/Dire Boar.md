@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: gore +8 melee (2d6+9)
+Melee: 
+  - Attack: "gore +8 melee"
+    Effect: "2d6+9"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

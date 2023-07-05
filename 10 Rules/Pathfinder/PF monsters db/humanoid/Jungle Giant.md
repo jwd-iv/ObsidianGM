@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +17 (2d6+8)
+Melee: 
+  - Attack: "2 slams +17"
+    Effect: "2d6+8"
 Reach: 15 ft.
-Ranged: mwk composite longbow +15/+10/+5 (3d6+8/19-20/x3)
+Ranged: 
+  - Attack: "mwk composite longbow +15/+10/+5"
+    Effect: "3d6+8/19-20/x3"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 26

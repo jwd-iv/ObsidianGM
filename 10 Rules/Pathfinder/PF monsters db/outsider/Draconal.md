@@ -35,7 +35,11 @@ Climb:
 Fly: 120 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +36 (2d6+13 plus 1d6 energy), 2 claws +31 (1d8+6 plus 1d6 energy)
+Melee: 
+  - Attack: "bite +36"
+    Effect: "2d6+13 plus 1d6 energy"
+  - Attack: "2 claws +31"
+    Effect: "1d8+6 plus 1d6 energy"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: breath weapon (120-ft. line, 20d6 energy damage, Reflex DC 30 half, usable once every 1d4 rounds)

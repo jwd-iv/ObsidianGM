@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +4 (1d4+2), 2 claws +4 (1d3+2)
+Melee: 
+  - Attack: "bite +4"
+    Effect: "1d4+2"
+  - Attack: "2 claws +4"
+    Effect: "1d3+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: blood rage

@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft. (90 with haste)
 Maneuverability: good
 Swim: 
-Melee: +2 quarterstaff +24/+24/+19/+14/+9 (1d6+4 plus touch of ages), +2 quarterstaff +24/+19/+14 (1d6+3 plus touch of ages) or   touch +23 (touch of ages)
+Melee: 
+  - Attack: "+2 quarterstaff +24/+24/+19/+14/+9"
+    Effect: "1d6+4 plus touch of ages"
+  - Attack: "+2 quarterstaff +24/+19/+14"
+    Effect: "1d6+3 plus touch of ages"
+  - Attack: "touch +23"
+    Effect: "touch of ages"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

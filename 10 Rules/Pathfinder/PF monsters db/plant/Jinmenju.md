@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +15 (2d6+8/19-20), 2 slams +16 (1d8+8)
+Melee: 
+  - Attack: "bite +15"
+    Effect: "2d6+8/19-20"
+  - Attack: "2 slams +16"
+    Effect: "1d8+8"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: enticing head-fruits, intoxicating stench

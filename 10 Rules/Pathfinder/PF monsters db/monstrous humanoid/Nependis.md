@@ -36,7 +36,11 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +21 (1d6+10 plus grab), gore +21 (2d6+10)
+Melee: 
+  - Attack: "2 claws +21"
+    Effect: "1d6+10 plus grab"
+  - Attack: "gore +21"
+    Effect: "2d6+10"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: abduct, roar

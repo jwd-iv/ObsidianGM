@@ -35,7 +35,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: poor
 Swim: 
-Melee: 4 claws +16 (1d4+5 plus grab)
+Melee: 
+  - Attack: "4 claws +16"
+    Effect: "1d4+5 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: soul siphoning

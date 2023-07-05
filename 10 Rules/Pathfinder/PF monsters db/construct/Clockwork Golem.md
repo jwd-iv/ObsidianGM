@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +23 (2d10+8 plus grab)
+Melee: 
+  - Attack: "2 slams +23"
+    Effect: "2d10+8 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: death burst, grind, wall of gears

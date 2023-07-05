@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 40 ft.
-Melee: 2 claws +32 (2d6+16/19-20), 6 tentacles +27 (1d8+8/19-20 plus grab)
+Melee: 
+  - Attack: "2 claws +32"
+    Effect: "2d6+16/19-20"
+  - Attack: "6 tentacles +27"
+    Effect: "1d8+8/19-20 plus grab"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: constrict (1d8+8), overwhelming mind

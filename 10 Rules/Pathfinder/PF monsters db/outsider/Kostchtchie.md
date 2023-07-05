@@ -36,9 +36,15 @@ Climb: 60 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +5 adamantine icy burst warhammer +53/+48/+43/+38 (3d6+24/19-20/x3 plus 1d6 cold), slam +48 (1d8+19 plus grab)
+Melee: 
+  - Attack: "+5 adamantine icy burst warhammer +53/+48/+43/+38"
+    Effect: "3d6+24/19-20/x3 plus 1d6 cold"
+  - Attack: "slam +48"
+    Effect: "1d8+19 plus grab"
 Reach: 15 ft.
-Ranged: rock +37/+32/+27/+22 (2d6+19)
+Ranged: 
+  - Attack: "rock +37/+32/+27/+22"
+    Effect: "2d6+19"
 SpecialAttacks: clutch foe, crushing blow, favored enemy (giants +4, humans +4, see below), powerful slam, rock throwing (600 ft.), vengeful strike
 SpellLikeAbilities: >
   Spell-Like Abilities (CL 26th; concentration +34)  Constant-air walk, detect good, detect law, freedom of movement, true seeing, unholy aura (DC 26)  At Will-astral projection, blasphemy* (DC 25), cone of cold* (DC 23), desecrate*, enlarge person*, greater dispel magic, greater teleport, telekinesis* (DC 23), shapechange, unhallow, unholy blight* (DC 22)  3/day-polar ray*, power word stun*, summon demons, symbol of stunning (DC 25)  1/day-mass icy prisonUM (DC 27), polar midnightUM (DC 27), time stop*^[*: can use mythic version in their realm]

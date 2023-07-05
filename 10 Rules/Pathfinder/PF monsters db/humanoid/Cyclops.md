@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: greataxe +11/+6 (3d6+7/x3)
+Melee: 
+  - Attack: "greataxe +11/+6"
+    Effect: "3d6+7/x3"
 Reach: 10 ft.
-Ranged: heavy crossbow +5 (2d8/19-20)
+Ranged: 
+  - Attack: "heavy crossbow +5"
+    Effect: "2d8/19-20"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 21

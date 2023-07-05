@@ -36,7 +36,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 40 ft.
-Melee: bite +32 (2d6+9/19-20 plus grab and poison), 2 claws +32 (2d6+9), tail slap +30 (2d6+4), 2 wings +30 (1d8+4)
+Melee: 
+  - Attack: "bite +32"
+    Effect: "2d6+9/19-20 plus grab and poison"
+  - Attack: "2 claws +32"
+    Effect: "2d6+9"
+  - Attack: "tail slap +30"
+    Effect: "2d6+4"
+  - Attack: "2 wings +30"
+    Effect: "1d8+4"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: breath weapon (60-ft. cone, 20d6 cold, Reflex DC 30 half, usable every 1d4 rounds; or beetles), poison

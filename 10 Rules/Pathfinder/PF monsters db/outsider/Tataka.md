@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: unarmed strike +24/+19/+14/+9 (2d6+7/19-20), bite +19 (1d8+3)
+Melee: 
+  - Attack: "unarmed strike +24/+19/+14/+9"
+    Effect: "2d6+7/19-20"
+  - Attack: "bite +19"
+    Effect: "1d8+3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: detect thoughts (DC 24), martial artist

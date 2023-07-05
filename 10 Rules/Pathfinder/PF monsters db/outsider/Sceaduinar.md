@@ -35,7 +35,11 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +14 (1d6+3 plus 1d6 negative energy and energy drain), 2 wings +9 (1d6+1 plus 1d6 negative energy)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "1d6+3 plus 1d6 negative energy and energy drain"
+  - Attack: "2 wings +9"
+    Effect: "1d6+1 plus 1d6 negative energy"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: energy drain (1 level, DC 17), entropic touch

@@ -35,7 +35,11 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +13 (2d6+5) or mwk scimitar +14/+9 (1d8+7/18-20)
+Melee: 
+  - Attack: "2 slams +13"
+    Effect: "2d6+5"
+  - Attack: "mwk scimitar +14/+9"
+    Effect: "1d8+7/18-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: earth mastery, metalmorph, stone curse

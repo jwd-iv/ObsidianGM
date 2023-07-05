@@ -36,7 +36,13 @@ Climb:
 Fly: 120 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +32 (2d8+12/19-20 plus grab), 2 claws +32 (2d6+12), tail slap +30 (2d10+6)
+Melee: 
+  - Attack: "bite +32"
+    Effect: "2d8+12/19-20 plus grab"
+  - Attack: "2 claws +32"
+    Effect: "2d6+12"
+  - Attack: "tail slap +30"
+    Effect: "2d10+6"
 Reach: 20 ft. (25 ft. with tail)
 Ranged: 
 SpecialAttacks: create ghul, rend (2 claws, 2d6+18), shake faith, swallow whole (6d6+18 plus 4d6 energy damage, AC 25, 37 hp), torturous gullet, trample (2d8+18, DC 34)

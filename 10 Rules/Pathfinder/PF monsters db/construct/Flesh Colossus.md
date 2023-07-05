@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +28 (2d12+16/19-20/x3 plus grab) or stomp +28 (4d12+24 plus pinning stomp)
+Melee: 
+  - Attack: "2 slams +28"
+    Effect: "2d12+16/19-20/x3 plus grab"
+  - Attack: "stomp +28"
+    Effect: "4d12+24 plus pinning stomp"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: constrict (2d12+16), mythic power (6/day, surge +1d8), mythic quickening, pinning stomp

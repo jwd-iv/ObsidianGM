@@ -36,9 +36,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: +5 holy cold iron club +48/+43/+38/+33 (1d8+18/15-20), gore +43 (2d8+18)
+Melee: 
+  - Attack: "+5 holy cold iron club +48/+43/+38/+33"
+    Effect: "1d8+18/15-20"
+  - Attack: "gore +43"
+    Effect: "2d8+18"
 Reach: 10 ft.
-Ranged: +5 evil outsider bane composite longbow +51/+46/+41/+36 (2d6+14/19-20/x4)
+Ranged: 
+  - Attack: "+5 evil outsider bane composite longbow +51/+46/+41/+36"
+    Effect: "2d6+14/19-20/x4"
 SpecialAttacks: greater slaying arrow, horned lord's charge, powerful charge (gore, 4d8+13 and horned lord's charge), wild shape (as 20th level druid)
 SpellLikeAbilities: >
   Spell-Like Abilities (CL 20th; concentration +25)  Constant-detect evil, detect lies, detect poison, freedom of movement, true seeing  At Will-greater teleport, haste*, true strike*  3/day-break enchantment*, breath of life*, dimensional anchor (DC 19)  1/day-discern location, mage's disjunction* (DC 24), time stop*^[*: can use mythic version in their realm]

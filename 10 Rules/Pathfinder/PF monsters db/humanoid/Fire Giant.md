@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: greatsword +21/+16/+11 (3d6+15) or 2 slams +20 (1d8+10)
+Melee: 
+  - Attack: "greatsword +21/+16/+11"
+    Effect: "3d6+15"
+  - Attack: "2 slams +20"
+    Effect: "1d8+10"
 Reach: 10 ft.
-Ranged: rock +10 (1d8+15 plus 1d6 fire)
+Ranged: 
+  - Attack: "rock +10"
+    Effect: "1d8+15 plus 1d6 fire"
 SpecialAttacks: heated rock, rock throwing (120 ft.)
 SpellLikeAbilities: 
 STR: 31

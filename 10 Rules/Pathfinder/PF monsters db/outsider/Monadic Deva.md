@@ -35,7 +35,9 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: +3 morningstar +22/+17/+12 (1d8+10 plus solid blow)
+Melee: 
+  - Attack: "+3 morningstar +22/+17/+12"
+    Effect: "1d8+10 plus solid blow"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

@@ -35,7 +35,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: perfect
 Swim: 
-Melee: incorporeal touch +16 (6d8 negative energy plus nightmare curse)
+Melee: 
+  - Attack: "incorporeal touch +16"
+    Effect: "6d8 negative energy plus nightmare curse"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

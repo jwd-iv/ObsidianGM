@@ -35,9 +35,15 @@ Climb:
 Fly: 120 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 claws +18  (2d6+8/19-20  plus grab), bite +18  (2d8+8/19-20)
+Melee: 
+  - Attack: "2 claws +18"
+    Effect: "2d6+8/19-20  plus grab"
+  - Attack: "bite +18"
+    Effect: "2d8+8/19-20"
 Reach: 20 ft.
-Ranged: thunderbolt +13  ranged touch (6d6  electricity and 6d6 sonic)
+Ranged: 
+  - Attack: "thunderbolt +13  ranged touch"
+    Effect: "6d6  electricity and 6d6 sonic"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 11th; concentration +12)  At will-control weather
 STR: 26

@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: spur +4 (1d3-4 plus poison)
+Melee: 
+  - Attack: "spur +4"
+    Effect: "1d3-4 plus poison"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: poison

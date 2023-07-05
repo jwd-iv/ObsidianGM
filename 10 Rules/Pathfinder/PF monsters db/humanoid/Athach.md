@@ -35,9 +35,19 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +19 (1d8+11), bite +19 (2d6+11 plus poison) or   heavy mace +19/+14 (3d6+11), bite +17 (2d6+5 plus poison)
+Melee: 
+  - Attack: "2 slams +19"
+    Effect: "1d8+11"
+  - Attack: "bite +19"
+    Effect: "2d6+11 plus poison"
+  - Attack: "heavy mace +19/+14"
+    Effect: "3d6+11"
+  - Attack: "bite +17"
+    Effect: "2d6+5 plus poison"
 Reach: 15 ft.
-Ranged: rock +10/+5 (2d6+16)
+Ranged: 
+  - Attack: "rock +10/+5"
+    Effect: "2d6+16"
 SpecialAttacks: rock throwing (140 ft.), swift claw
 SpellLikeAbilities: 
 STR: 32

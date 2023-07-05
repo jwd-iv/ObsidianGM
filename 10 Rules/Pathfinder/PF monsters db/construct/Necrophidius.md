@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +6 (1d8+4 plus paralysis)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "1d8+4 plus paralysis"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: dance of death

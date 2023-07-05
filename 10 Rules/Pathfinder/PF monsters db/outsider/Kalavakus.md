@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +16 (1d6+6), 2 claws +16 (1d8+6), gore +16 (2d6+6)
+Melee: 
+  - Attack: "bite +16"
+    Effect: "1d6+6"
+  - Attack: "2 claws +16"
+    Effect: "1d8+6"
+  - Attack: "gore +16"
+    Effect: "2d6+6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: enslave soul, horns, powerful charge (gore, 4d6+12)

@@ -35,9 +35,13 @@ Climb:
 Fly: 40 ft.
 Maneuverability: average
 Swim: 
-Melee: short sword -1 (1d3-3/19-20)
+Melee: 
+  - Attack: "short sword -1"
+    Effect: "1d3-3/19-20"
 Reach: 0 ft.
-Ranged: longbow +6 (1d4-3/x3)
+Ranged: 
+  - Attack: "longbow +6"
+    Effect: "1d4-3/x3"
 SpecialAttacks: fiddle
 SpellLikeAbilities: Spell-Like Abilities (CL 9th; concentration +11)   3/day-disguise self, entangle (DC 13), invisibility (self only), pyrotechnics (DC 14)
 STR: 5

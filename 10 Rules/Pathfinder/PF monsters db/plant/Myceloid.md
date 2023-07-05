@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +6 (1d6+3 plus disease)
+Melee: 
+  - Attack: "2 claws +6"
+    Effect: "1d6+3 plus disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: spore cloud

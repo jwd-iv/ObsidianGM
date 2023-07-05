@@ -37,7 +37,9 @@ Climb:
 Fly: 20 ft.
 Maneuverability: perfect
 Swim: 
-Melee: sting +5 (1d4 plus acid injection)
+Melee: 
+  - Attack: "sting +5"
+    Effect: "1d4 plus acid injection"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: stench spray

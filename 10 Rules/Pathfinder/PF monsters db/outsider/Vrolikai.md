@@ -35,7 +35,21 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +1 black flame knife +29/+24/+19/+14 (1d6+11/19-20 plus energy drain), 3 +1 black flame knives +29 (1d6+6/19-20 plus energy drain), bite +23 (1d8+5), sting +23 (1d6+5 plus madness) or bite +28 (1d8+10), 4 claws +28 (1d6+10), sting +28 (1d6+10 plus madness)
+Melee: 
+  - Attack: "+1 black flame knife +29/+24/+19/+14"
+    Effect: "1d6+11/19-20 plus energy drain"
+  - Attack: "3 +1 black flame knives +29"
+    Effect: "1d6+6/19-20 plus energy drain"
+  - Attack: "bite +23"
+    Effect: "1d8+5"
+  - Attack: "sting +23"
+    Effect: "1d6+5 plus madness"
+  - Attack: "bite +28"
+    Effect: "1d8+10"
+  - Attack: "4 claws +28"
+    Effect: "1d6+10"
+  - Attack: "sting +28"
+    Effect: "1d6+10 plus madness"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: black flame knives, death-stealing gaze, multiweapon mastery

@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: warhammer +3 (1d8+1/x3)
+Melee: 
+  - Attack: "warhammer +3"
+    Effect: "1d8+1/x3"
 Reach: 5 ft.
-Ranged: light crossbow +0 (1d8/19-20)
+Ranged: 
+  - Attack: "light crossbow +0"
+    Effect: "1d8/19-20"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 3rd) 1/day-enlarge person (self only), invisibility (self only)
 STR: 12

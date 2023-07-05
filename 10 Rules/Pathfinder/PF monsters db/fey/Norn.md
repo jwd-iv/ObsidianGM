@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: shears +21/+21/+16 (1d8+12/15-20 plus energy drain), touch +11 (energy drain)
+Melee: 
+  - Attack: "shears +21/+21/+16"
+    Effect: "1d8+12/15-20 plus energy drain"
+  - Attack: "touch +11"
+    Effect: "energy drain"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: energy drain (2 levels, DC 30), shift fate, snip thread

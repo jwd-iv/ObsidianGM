@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: dagger +7 (1d2/19-20)
+Melee: 
+  - Attack: "dagger +7"
+    Effect: "1d2/19-20"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: poison

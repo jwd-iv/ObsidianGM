@@ -36,7 +36,11 @@ Climb: 20 ft.
 Fly: 20 ft.
 Maneuverability: clumsy
 Swim: 
-Melee: 2 claws +13 (1d6+5 plus grab), bite +13 (1d6+5 plus poison)
+Melee: 
+  - Attack: "2 claws +13"
+    Effect: "1d6+5 plus grab"
+  - Attack: "bite +13"
+    Effect: "1d6+5 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: blood drain (1d2 Constitution), poison

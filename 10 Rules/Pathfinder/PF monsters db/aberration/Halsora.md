@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +13 (1d8+4 plus spores)
+Melee: 
+  - Attack: "2 claws +13"
+    Effect: "1d8+4 plus spores"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: acidic tears, sneak attack +2d6, spores

@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft. (20 in armor)
-Melee: mwk scimitar +26/+21/+16 (2d6+12/15-20 plus poison), mwk scimitar +26 (2d6+12/15-20 plus poison), bite +19 (2d8+6 plus grab and poison)
+Melee: 
+  - Attack: "mwk scimitar +26/+21/+16"
+    Effect: "2d6+12/15-20 plus poison"
+  - Attack: "mwk scimitar +26"
+    Effect: "2d6+12/15-20 plus poison"
+  - Attack: "bite +19"
+    Effect: "2d8+6 plus grab and poison"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: dual wielder, infused weapons, swallow whole (2d6+12 acid damage, AC 13, 16 hp)

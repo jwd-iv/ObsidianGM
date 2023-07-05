@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: 2 claws +2 (1d4 plus grab and poison)
+Melee: 
+  - Attack: "2 claws +2"
+    Effect: "1d4 plus grab and poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: death frenzy, constrict (1d4)

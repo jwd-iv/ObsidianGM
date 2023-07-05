@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: bite +25 (2d6+11 plus grab), 2 slam +25 (1d8+11 plus grab)
+Melee: 
+  - Attack: "bite +25"
+    Effect: "2d6+11 plus grab"
+  - Attack: "2 slam +25"
+    Effect: "1d8+11 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: breath weapon (60-ft. line, 12d8 fire damage, Reflex DC 18 half, usable every 1d4 rounds, 3/day), grind, swallow whole (2d8+16 slashing damage plus 2d6 fire damage, AC 17, 12 hp)

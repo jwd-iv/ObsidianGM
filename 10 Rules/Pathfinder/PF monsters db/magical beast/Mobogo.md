@@ -36,7 +36,13 @@ Climb:
 Fly: 30 ft.
 Maneuverability: poor
 Swim: 40 ft.
-Melee: bite +20 (2d6+9), 2 slams +20 (1d8+9) or tongue +20 (1d6+9 plus grab and pull)
+Melee: 
+  - Attack: "bite +20"
+    Effect: "2d6+9"
+  - Attack: "2 slams +20"
+    Effect: "1d8+9"
+  - Attack: "tongue +20"
+    Effect: "1d6+9 plus grab and pull"
 Reach: 15 ft. (45 ft. with tongue)
 Ranged: 
 SpecialAttacks: crush (DC 21, 2d8+13, see page 92), pull (tongue, 5 ft.), swallow whole (2d6+13 bludgeoning damage, AC 17, 13 hp), vile croak

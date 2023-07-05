@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +7 (1d6+4), tail slap +7 (1d6+4 plus 1d4 Cha damage)
+Melee: 
+  - Attack: "slam +7"
+    Effect: "1d6+4"
+  - Attack: "tail slap +7"
+    Effect: "1d6+4 plus 1d4 Cha damage"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: lashing tail, manipulate luck

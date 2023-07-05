@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +6 (1d6+1 plus grab)
+Melee: 
+  - Attack: "2 claws +6"
+    Effect: "1d6+1 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: dazzling burst

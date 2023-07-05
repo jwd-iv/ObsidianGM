@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: naginataUC +5 (1d8+4/x4) or claw +4 (1d4+4)
+Melee: 
+  - Attack: "naginataUC +5"
+    Effect: "1d8+4/x4"
+  - Attack: "claw +4"
+    Effect: "1d4+4"
 Reach: 5 ft. (10 ft. with naginata)
-Ranged: longbow +3 (1d8/x3)
+Ranged: 
+  - Attack: "longbow +3"
+    Effect: "1d8/x3"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 17

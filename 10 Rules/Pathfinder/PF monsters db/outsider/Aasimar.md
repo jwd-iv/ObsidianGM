@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: heavy mace -1 (1d8-1)
+Melee: 
+  - Attack: "heavy mace -1"
+    Effect: "1d8-1"
 Reach: 5 ft.
-Ranged: light crossbow +0 (1d8/19-20)
+Ranged: 
+  - Attack: "light crossbow +0"
+    Effect: "1d8/19-20"
 SpecialAttacks: channel positive energy (5/day, 1d6, DC 12); rebuke death (1d4+1, 6/day); touch of good (6/day)
 SpellLikeAbilities: Spell-Like Abilities (CL 1st) 1/day-daylight
 STR: 8

@@ -36,7 +36,11 @@ Climb:
 Fly: 90 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +10 (1d3-1), tail slap +5 (1d3-1)
+Melee: 
+  - Attack: "bite +10"
+    Effect: "1d3-1"
+  - Attack: "tail slap +5"
+    Effect: "1d3-1"
 Reach: 0 ft. (5 ft. with tail)
 Ranged: 
 SpecialAttacks: stygian breath

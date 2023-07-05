@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 slams +18 (1d4+3)
+Melee: 
+  - Attack: "4 slams +18"
+    Effect: "1d4+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: wand magic

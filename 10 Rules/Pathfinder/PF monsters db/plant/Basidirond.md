@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +10 (1d8+7 plus spores)
+Melee: 
+  - Attack: "slam +10"
+    Effect: "1d8+7 plus spores"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: hallucination cloud, spores

@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: kukri +1 (1d4+1/18-20 plus poison)
+Melee: 
+  - Attack: "kukri +1"
+    Effect: "1d4+1/18-20 plus poison"
 Reach: 5 ft.
-Ranged: shuriken +3 (1d2+1 plus poison)
+Ranged: 
+  - Attack: "shuriken +3"
+    Effect: "1d2+1 plus poison"
 SpecialAttacks: poison (DC 12), sneak attack +1d6
 SpellLikeAbilities: 
 STR: 13

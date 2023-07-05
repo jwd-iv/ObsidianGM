@@ -35,7 +35,9 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: +4 greatsword +23/+18/+13 (2d6+11/19-20)
+Melee: 
+  - Attack: "+4 greatsword +23/+18/+13"
+    Effect: "2d6+11/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: trumpet

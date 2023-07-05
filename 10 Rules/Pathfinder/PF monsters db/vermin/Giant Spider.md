@@ -35,7 +35,11 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +2 (1d6 plus poison) Special Attack web (+5 ranged, DC 12, hp 2)
+Melee: 
+  - Attack: "bite +2"
+    Effect: "1d6 plus poison"
+  - Attack: "Special Attack web"
+    Effect: "+5 ranged, DC 12, hp 2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

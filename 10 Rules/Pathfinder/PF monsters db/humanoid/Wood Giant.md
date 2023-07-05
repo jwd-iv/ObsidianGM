@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: longsword +10/+5 (2d6+5/19-20) or   2 slams +10 (1d6+5)
+Melee: 
+  - Attack: "longsword +10/+5"
+    Effect: "2d6+5/19-20"
+  - Attack: "2 slams +10"
+    Effect: "1d6+5"
 Reach: 10 ft.
-Ranged: mwk composite longbow +9/+9/+4 (2d6+5/x3)
+Ranged: 
+  - Attack: "mwk composite longbow +9/+9/+4"
+    Effect: "2d6+5/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 7th; concentration +8)  Constant-pass without trace, speak with animals   3/day-charm animal (DC 12), quench, tree shape   1/day-enlarge person (self only), spike growth
 STR: 20

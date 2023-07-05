@@ -36,7 +36,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +8 (1d3-1)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "1d3-1"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: haunting melody

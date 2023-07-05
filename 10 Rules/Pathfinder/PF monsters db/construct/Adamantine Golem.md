@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +41 (6d10+13/19-20)
+Melee: 
+  - Attack: "2 slams +41"
+    Effect: "6d10+13/19-20"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: destructive strike, trample (6d10+19, DC 38)

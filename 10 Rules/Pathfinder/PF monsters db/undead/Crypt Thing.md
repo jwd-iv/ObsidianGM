@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +10 (1d8+4)
+Melee: 
+  - Attack: "2 claws +10"
+    Effect: "1d8+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: teleporting burst

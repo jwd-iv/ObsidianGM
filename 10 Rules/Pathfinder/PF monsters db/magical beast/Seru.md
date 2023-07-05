@@ -36,9 +36,13 @@ Climb:
 Fly: 40 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +6 (1d4-2 plus poison)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "1d4-2 plus poison"
 Reach: 5 ft.
-Ranged: spit venom +6 ranged touch (poison)
+Ranged: 
+  - Attack: "spit venom +6 ranged touch"
+    Effect: "poison"
 SpecialAttacks: poison, spit venom
 SpellLikeAbilities: 
 STR: 6

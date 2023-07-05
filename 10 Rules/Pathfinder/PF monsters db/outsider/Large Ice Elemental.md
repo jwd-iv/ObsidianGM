@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: 2 slams +12 (1d8+5 plus 1d6 cold)
+Melee: 
+  - Attack: "2 slams +12"
+    Effect: "1d8+5 plus 1d6 cold"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: numbing cold (DC 17)

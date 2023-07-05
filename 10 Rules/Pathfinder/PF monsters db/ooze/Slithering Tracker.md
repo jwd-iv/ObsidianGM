@@ -35,7 +35,9 @@ Climb: 10 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +7 (1d6+3 plus grab and paralysis)
+Melee: 
+  - Attack: "2 slams +7"
+    Effect: "1d6+3 plus grab and paralysis"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: blood drain (1d2 Constitution), grab (Colossal)

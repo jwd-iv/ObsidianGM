@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +13 (1d8+8 plus grab), sting +13 (1d8+8 plus poison)
+Melee: 
+  - Attack: "2 claws +13"
+    Effect: "1d8+8 plus grab"
+  - Attack: "sting +13"
+    Effect: "1d8+8 plus poison"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: constrict (1d8+8), sudden strike

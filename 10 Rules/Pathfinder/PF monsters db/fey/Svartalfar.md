@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 longsword +9/+6 (1d8+4/19-20)
+Melee: 
+  - Attack: "+1 longsword +9/+6"
+    Effect: "1d8+4/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bane, quickened spell strike, sneak attack +3d6

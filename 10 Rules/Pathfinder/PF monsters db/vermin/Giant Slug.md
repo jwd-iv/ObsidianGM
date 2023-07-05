@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: tongue +15 (2d10+12 plus 2d8 acid)
+Melee: 
+  - Attack: "tongue +15"
+    Effect: "2d10+12 plus 2d8 acid"
 Reach: 15 ft.
-Ranged: spit acid +3 (10d6 acid)
+Ranged: 
+  - Attack: "spit acid +3"
+    Effect: "10d6 acid"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 27

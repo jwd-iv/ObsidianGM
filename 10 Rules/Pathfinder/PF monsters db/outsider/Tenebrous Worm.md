@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +14 (2d6+4 plus 6d6 acid)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "2d6+4 plus 6d6 acid"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: poison

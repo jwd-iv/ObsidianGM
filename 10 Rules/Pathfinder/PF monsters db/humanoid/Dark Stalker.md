@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 short swords +6/+6 (1d6+2 plus poison/19-20)
+Melee: 
+  - Attack: "2 short swords +6/+6"
+    Effect: "1d6+2 plus poison/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: death throes, sneak attack (+3d6)

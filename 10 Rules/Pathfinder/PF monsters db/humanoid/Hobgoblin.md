@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: longsword +4 (1d8+2/19-20)
+Melee: 
+  - Attack: "longsword +4"
+    Effect: "1d8+2/19-20"
 Reach: 5 ft.
-Ranged: longbow +3 (1d8/x3)
+Ranged: 
+  - Attack: "longbow +3"
+    Effect: "1d8/x3"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 15

@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +14 (1d8+6 plus misfortune), 2 slams +14 (1d6+6 plus misfortune)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "1d8+6 plus misfortune"
+  - Attack: "2 slams +14"
+    Effect: "1d6+6 plus misfortune"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

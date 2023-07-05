@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: 2 slams +17 (2d6+6) or mwk trident +18/+13/+8 (2d6+9)
+Melee: 
+  - Attack: "2 slams +17"
+    Effect: "2d6+6"
+  - Attack: "mwk trident +18/+13/+8"
+    Effect: "2d6+9"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: vortex (1/10 minutes, 10-50 ft. tall, 1d8+4 damage, DC 22), water mastery, water's fury

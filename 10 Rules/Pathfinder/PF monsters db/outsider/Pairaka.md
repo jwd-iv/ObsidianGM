@@ -36,7 +36,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 claws +14 (1d6+3 plus disease)
+Melee: 
+  - Attack: "2 claws +14"
+    Effect: "1d6+3 plus disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: lustful dreams

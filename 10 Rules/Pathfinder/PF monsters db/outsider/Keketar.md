@@ -35,7 +35,13 @@ Climb:
 Fly: 40 ft.
 Maneuverability: perfect
 Swim: 40 ft.
-Melee: bite +31 (4d8+9 plus warpwave), 2 claws +31 (2d6+9 plus warpwave), tail slap +29 (2d8+4 plus grab)
+Melee: 
+  - Attack: "bite +31"
+    Effect: "4d8+9 plus warpwave"
+  - Attack: "2 claws +31"
+    Effect: "2d6+9 plus warpwave"
+  - Attack: "tail slap +29"
+    Effect: "2d8+4 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: constrict (1d8+9), reshape reality

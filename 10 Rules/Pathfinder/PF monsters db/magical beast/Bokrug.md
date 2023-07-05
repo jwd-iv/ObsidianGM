@@ -36,7 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 120 ft.
-Melee: bite +44 (4d8+22/19-20), 2 claws +44 (2d8+22/19-20), sting +44 (3d6+22/19-20 plus poison), tentacle beard +39 (4d6+22 plus grab)
+Melee: 
+  - Attack: "bite +44"
+    Effect: "4d8+22/19-20"
+  - Attack: "2 claws +44"
+    Effect: "2d8+22/19-20"
+  - Attack: "sting +44"
+    Effect: "3d6+22/19-20 plus poison"
+  - Attack: "tentacle beard +39"
+    Effect: "4d6+22 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: constrict (4d6+22), critical poisoning, mythic power (10/day, surge +1d12), poison, powerful blows (bite, claws, sting, tentacle beard), vengeful dreams

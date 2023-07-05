@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +8 (2d8+6)
+Melee: 
+  - Attack: "slam +8"
+    Effect: "2d8+6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: poison, spores, trample (2d8+6, DC 17)

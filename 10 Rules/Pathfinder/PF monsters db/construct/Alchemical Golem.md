@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +19 (2d8+8 plus alchemy)
+Melee: 
+  - Attack: "2 slams +19"
+    Effect: "2d8+8 plus alchemy"
 Reach: 10 ft.
-Ranged: bomb +15 (8d6 energy damage)
+Ranged: 
+  - Attack: "bomb +15"
+    Effect: "8d6 energy damage"
 SpecialAttacks: alchemy, bombs, splash
 SpellLikeAbilities: 
 STR: 27

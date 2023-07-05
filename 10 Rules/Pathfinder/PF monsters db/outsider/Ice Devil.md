@@ -35,7 +35,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: +1 frost spear +21/+16/+11 (2d6+10/x3 plus 1d6 cold  plus slow), bite +14 (2d6+6), tail +14 (3d6+3 plus slow)
+Melee: 
+  - Attack: "+1 frost spear +21/+16/+11"
+    Effect: "2d6+10/x3 plus 1d6 cold  plus slow"
+  - Attack: "bite +14"
+    Effect: "2d6+6"
+  - Attack: "tail +14"
+    Effect: "3d6+3 plus slow"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

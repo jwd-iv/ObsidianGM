@@ -36,7 +36,17 @@ Climb:
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: +2 unholy morningstar +36/+31/+26/+21 (1d8+11), bite +32 (2d6+4), claw +32 (1d6+4) or   bite +34 (2d6+9), 2 claws +34 (1d6+9)
+Melee: 
+  - Attack: "+2 unholy morningstar +36/+31/+26/+21"
+    Effect: "1d8+11"
+  - Attack: "bite +32"
+    Effect: "2d6+4"
+  - Attack: "claw +32"
+    Effect: "1d6+4"
+  - Attack: "bite +34"
+    Effect: "2d6+9"
+  - Attack: "2 claws +34"
+    Effect: "1d6+9"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: faith-stealing strike (DC 27)

@@ -35,7 +35,9 @@ Climb:
 Fly: 20 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 claws +18 (1d8+9 plus energy drain)
+Melee: 
+  - Attack: "2 claws +18"
+    Effect: "1d8+9 plus energy drain"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: devour soul, energy drain (1 level, DC 20)

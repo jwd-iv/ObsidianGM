@@ -35,7 +35,9 @@ Climb:
 Fly: 100 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 claws +18  (1d6+1/19-20 plus 1d6  Wisdom damage)
+Melee: 
+  - Attack: "2 claws +18"
+    Effect: "1d6+1/19-20 plus 1d6  Wisdom damage"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: find target, soul drain

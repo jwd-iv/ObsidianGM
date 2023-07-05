@@ -35,9 +35,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: short sword +5 (1d4) or aklys +5 (1d6)
+Melee: 
+  - Attack: "short sword +5"
+    Effect: "1d4"
+  - Attack: "aklys +5"
+    Effect: "1d6"
 Reach: 5 ft.
-Ranged: repeating light crossbow +5 (1d6/19-20 plus poison) or aklys +5 (1d6)
+Ranged: 
+  - Attack: "repeating light crossbow +5"
+    Effect: "1d6/19-20 plus poison"
+  - Attack: "aklys +5"
+    Effect: "1d6"
 SpecialAttacks: sneak attack +1d6
 SpellLikeAbilities: Spell-Like Abilities (CL 3rd) At will-darkness, ghost sound (DC 13) 1/day-daze (DC 13), sound burst (DC 15)
 STR: 11

@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: poor
 Swim: 
-Melee: mwk scimitar +11/+11/+6/+6 (1d6+3/18-20)
+Melee: 
+  - Attack: "mwk scimitar +11/+11/+6/+6"
+    Effect: "1d6+3/18-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: paired weapons, raptor dive

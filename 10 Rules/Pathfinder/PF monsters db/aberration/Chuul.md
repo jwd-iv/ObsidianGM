@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 20 ft.
-Melee: 2 claws +14 (2d6+7 plus grab)
+Melee: 
+  - Attack: "2 claws +14"
+    Effect: "2d6+7 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: constrict (2d6+7), paralytic tentacles

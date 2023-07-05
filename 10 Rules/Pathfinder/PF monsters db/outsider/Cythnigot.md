@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +6 (1d6+1 plus spores)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "1d6+1 plus spores"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: horrific appearance (10 feet, DC 9)

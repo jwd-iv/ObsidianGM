@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +5 quarterstaff +32/+27/+22/+17 (3d6+14), +5 quarterstaff +32 (3d6+9) or  2 slams +29 (2d10+9)
+Melee: 
+  - Attack: "+5 quarterstaff +32/+27/+22/+17"
+    Effect: "3d6+14"
+  - Attack: "+5 quarterstaff +32"
+    Effect: "3d6+9"
+  - Attack: "2 slams +29"
+    Effect: "2d10+9"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: 

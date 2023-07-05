@@ -36,7 +36,11 @@ Climb:
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: mwk scimitar +14/+9 (1d6+7/18-20) or 2 slams +13 (1d4+5)
+Melee: 
+  - Attack: "mwk scimitar +14/+9"
+    Effect: "1d6+7/18-20"
+  - Attack: "2 slams +13"
+    Effect: "1d4+5"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: pain redoubled

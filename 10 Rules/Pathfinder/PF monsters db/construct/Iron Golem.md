@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +28 (2d10+16/19-20)
+Melee: 
+  - Attack: "2 slams +28"
+    Effect: "2d10+16/19-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: breath weapon, powerful blows

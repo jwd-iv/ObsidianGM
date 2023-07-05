@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: spear +11/+6 (1d8+4/x3 plus 1d6 fire), tail slap +6 (2d6+1  plus 1d6 fire and grab)
+Melee: 
+  - Attack: "spear +11/+6"
+    Effect: "1d8+4/x3 plus 1d6 fire"
+  - Attack: "tail slap +6"
+    Effect: "2d6+1  plus 1d6 fire and grab"
 Reach: 5 ft. (10 ft. with tail)
 Ranged: 
 SpecialAttacks: constrict (2d6+4 plus 1d6 fire), heat

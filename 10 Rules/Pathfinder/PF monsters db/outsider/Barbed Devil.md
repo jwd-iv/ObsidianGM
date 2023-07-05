@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +18 (2d8+6/19-20 plus fear and grab)
+Melee: 
+  - Attack: "2 claws +18"
+    Effect: "2d8+6/19-20 plus fear and grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: fear, impale 3d8+9

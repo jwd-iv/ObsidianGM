@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +17 (1d8+7), 2 claws +18 (2d8+7/19-20 plus disease)
+Melee: 
+  - Attack: "bite +17"
+    Effect: "1d8+7"
+  - Attack: "2 claws +18"
+    Effect: "2d8+7/19-20 plus disease"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: blinding breath, disease

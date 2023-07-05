@@ -36,9 +36,23 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 80 ft.
-Melee: bite +21 (1d8+7/19-20), 2 claws +20 (1d6+7), sting +20 (1d6+7 plus poison) or   spear +20/+15/+10 (2d6+10/3 plus poison), bite +19 (1d8+3/19-20), sting +18 (1d6+3 plus poison)
+Melee: 
+  - Attack: "bite +21"
+    Effect: "1d8+7/19-20"
+  - Attack: "2 claws +20"
+    Effect: "1d6+7"
+  - Attack: "sting +20"
+    Effect: "1d6+7 plus poison"
+  - Attack: "spear +20/+15/+10"
+    Effect: "2d6+10/3 plus poison"
+  - Attack: "bite +19"
+    Effect: "1d8+3/19-20"
+  - Attack: "sting +18"
+    Effect: "1d6+3 plus poison"
 Reach: 10 ft.
-Ranged: spear +15 (2d6+7/3 plus poison)
+Ranged: 
+  - Attack: "spear +15"
+    Effect: "2d6+7/3 plus poison"
 SpecialAttacks: boiling sea
 SpellLikeAbilities: Spell-Like Abilities (CL 12th; concentration +14)  Constant-detect good, detect magic   At Will-control water, curse water, deeper darkness, dimension door   3/day-hallucinatory terrain (DC 16), stinking cloud (DC 15), summon (level 6, 1 pairaka 60%), quench (DC 15)
 STR: 24

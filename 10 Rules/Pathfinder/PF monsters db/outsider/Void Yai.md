@@ -36,9 +36,15 @@ Climb:
 Fly: 40 ft. (60 w/o armor)
 Maneuverability: good
 Swim: 
-Melee: mwk greatclub +39/+34/+29/+24 (3d8+25/19-20) or 2 slams +38 (2d6+17)
+Melee: 
+  - Attack: "mwk greatclub +39/+34/+29/+24"
+    Effect: "3d8+25/19-20"
+  - Attack: "2 slams +38"
+    Effect: "2d6+17"
 Reach: 15 ft.
-Ranged: void missile +23 touch (6d6 plus energy drain)
+Ranged: 
+  - Attack: "void missile +23 touch"
+    Effect: "6d6 plus energy drain"
 SpecialAttacks: commanding voice, energy drain (2 levels, DC 28), void trap
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +27)  Constant-fire shield (chill shield), fly, true seeing  At Will-deeper darkness, gaseous form (self only), greater dispel magic, greater teleport (self plus armor, weapons, and 50 lbs. of objects only), invisibility (self only), minor creation, vision  3/day-cone of cold (DC 22), demand (DC 25), dominate person (DC 22), major creation, mass charm monster (DC 25), polar ray, teleport object (DC 24)  1/day-implosion (DC 26), plane shift (DC 24)
 STR: 44

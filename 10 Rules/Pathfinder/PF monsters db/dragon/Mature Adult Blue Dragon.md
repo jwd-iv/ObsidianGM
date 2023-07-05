@@ -36,7 +36,15 @@ Climb:
 Fly: 200 ft.
 Maneuverability: poor
 Swim: 
-Melee: bite +26 (2d8+13), 2 claws +25 (2d6+9), 2 wings +23 (1d8+4), tail slap +23 (2d6+13)
+Melee: 
+  - Attack: "bite +26"
+    Effect: "2d8+13"
+  - Attack: "2 claws +25"
+    Effect: "2d6+9"
+  - Attack: "2 wings +23"
+    Effect: "1d8+4"
+  - Attack: "tail slap +23"
+    Effect: "2d6+13"
 Reach: 10 ft. (15 ft. with bite)
 Ranged: 
 SpecialAttacks: breath weapon (100-ft. line, DC 24, 14d8 electricity), crush (Small creatures, DC 24, 2d8+13), desert thirst (DC 24)

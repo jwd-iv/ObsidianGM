@@ -35,7 +35,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +13 (2d6+6 plus 1d6 cold), tail slap +8 (1d8+3)
+Melee: 
+  - Attack: "bite +13"
+    Effect: "2d6+6 plus 1d6 cold"
+  - Attack: "tail slap +8"
+    Effect: "1d8+3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: freezing mist breath

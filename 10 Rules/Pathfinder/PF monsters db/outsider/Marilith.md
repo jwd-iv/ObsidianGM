@@ -35,7 +35,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 longsword +24/+19/+14/+9 (2d6+8/17-20), 5 +1 longswords +24 (2d6+4/17-20), tail slap +17 (2d6+3 plus grab) or 6 slams +22 (1d8+7), tail slap +17 (2d6+3 plus grab)
+Melee: 
+  - Attack: "+1 longsword +24/+19/+14/+9"
+    Effect: "2d6+8/17-20"
+  - Attack: "5 +1 longswords +24"
+    Effect: "2d6+4/17-20"
+  - Attack: "tail slap +17"
+    Effect: "2d6+3 plus grab"
+  - Attack: "6 slams +22"
+    Effect: "1d8+7"
+  - Attack: "tail slap +17"
+    Effect: "2d6+3 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: constrict (tail slap, 2d6+10 plus crushing coils), infuse weapon, multiweapon mastery

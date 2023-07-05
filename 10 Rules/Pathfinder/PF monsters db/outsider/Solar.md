@@ -35,9 +35,17 @@ Climb:
 Fly: 150 ft. (100 in armor)
 Maneuverability: perfect
 Swim: 
-Melee: +5 dancing greatsword +35/+30/+25/+20 (3d6+18) or slam +30 (2d8+13)
+Melee: 
+  - Attack: "+5 dancing greatsword +35/+30/+25/+20"
+    Effect: "3d6+18"
+  - Attack: "slam +30"
+    Effect: "2d8+13"
 Reach: 10 ft.
-Ranged: +5 composite longbow (+9 Str bonus) +31/+26/+21/+16 (2d6+14 plus slaying arrow)
+Ranged: 
+  - Attack: "+5 composite longbow"
+    Effect: "+9 Str bonus"
+  - Attack: "+31/+26/+21/+16"
+    Effect: "2d6+14 plus slaying arrow"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 20th) Constant-detect evil, detect snares and pits, discern lies (DC 21), true seeing At Will-aid, animate objects, commune, continual flame, dimensional anchor, greater dispel magic, holy smite (DC 21), imprisonment (DC 26), invisibility (self only), lesser restoration, remove curse, remove disease, remove fear, resist energy, summon monster VII, speak with dead (DC 20), waves of fatigue 3/day-blade barrier (DC 23), earthquake (DC 25), heal, mass charm monster (DC 25), permanency, resurrection, waves of exhaustion 1/day-greater restoration, power word blind, power word kill, power word stun, prismatic spray (DC 24), wish
 STR: 28

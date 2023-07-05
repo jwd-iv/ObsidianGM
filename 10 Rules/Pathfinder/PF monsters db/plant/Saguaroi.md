@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +10 (1d6+5)
+Melee: 
+  - Attack: "2 slams +10"
+    Effect: "1d6+5"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: needle cone

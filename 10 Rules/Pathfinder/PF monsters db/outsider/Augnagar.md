@@ -35,7 +35,11 @@ Climb: 50 ft.
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +23 (2d6+11 plus 1d8 bleed and rotting curse),   3 claws +23 (1d8+11 plus 1d8 bleed)
+Melee: 
+  - Attack: "bite +23"
+    Effect: "2d6+11 plus 1d8 bleed and rotting curse"
+  - Attack: "3 claws +23"
+    Effect: "1d8+11 plus 1d8 bleed"
 Reach: 15 ft. (30 ft. with claws)
 Ranged: 
 SpecialAttacks: bleed, horrific appearance (DC 21)

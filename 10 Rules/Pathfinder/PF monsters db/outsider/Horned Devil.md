@@ -35,7 +35,19 @@ Climb:
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: +1 unholy spiked chain +26/+21/+16 (2d6+11  plus stun), bite +22 (2d8+5), tail +22 (2d6+5 plus  infernal wound) or 2 claws +24 (2d6+10), bite +24  (2d8+10), tail +22 (2d6+5 plus infernal wound)
+Melee: 
+  - Attack: "+1 unholy spiked chain +26/+21/+16"
+    Effect: "2d6+11  plus stun"
+  - Attack: "bite +22"
+    Effect: "2d8+5"
+  - Attack: "tail +22"
+    Effect: "2d6+5 plus  infernal wound"
+  - Attack: "2 claws +24"
+    Effect: "2d6+10"
+  - Attack: "bite +24"
+    Effect: "2d8+10"
+  - Attack: "tail +22"
+    Effect: "2d6+5 plus infernal wound"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

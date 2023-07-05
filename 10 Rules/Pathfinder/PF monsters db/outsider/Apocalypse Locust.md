@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 pincers +7 (1d8+3 plus grab), sting +11 (1d6+6 plus sting)
+Melee: 
+  - Attack: "2 pincers +7"
+    Effect: "1d8+3 plus grab"
+  - Attack: "sting +11"
+    Effect: "1d6+6 plus sting"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: abyssal torment, breath weapon (30-ft. line, 1d6 fire damage plus accursed brand, Will DC 15 negates, usable every 2d4 rounds), constrict (1d8+9), maddening buzz, mythic power (3/day, surge +1d6), sting

@@ -35,9 +35,21 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: short swords +13/+13/+8 (1d6+3/19-20), claw +13 (1d4+3 plus grab), bite +7 (1d3+1 plus paralysis), or 4 claws +13 (1d4+3 plus grab), bite +12 (1d3+3 plus paralysis)
+Melee: 
+  - Attack: "short swords +13/+13/+8"
+    Effect: "1d6+3/19-20"
+  - Attack: "claw +13"
+    Effect: "1d4+3 plus grab"
+  - Attack: "bite +7"
+    Effect: "1d3+1 plus paralysis"
+  - Attack: "or 4 claws +13"
+    Effect: "1d4+3 plus grab"
+  - Attack: "bite +12"
+    Effect: "1d3+3 plus paralysis"
 Reach: 5 ft.
-Ranged: 2 longbows +13 (1d8/x3)
+Ranged: 
+  - Attack: "2 longbows +13"
+    Effect: "1d8/x3"
 SpecialAttacks: implant, paralysis (1d4 hours, DC 16)
 SpellLikeAbilities: 
 STR: 17

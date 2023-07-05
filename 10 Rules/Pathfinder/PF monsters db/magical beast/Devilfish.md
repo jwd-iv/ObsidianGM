@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft. (jet 240)
-Melee: tentacles +7 (3d6+4 plus grab)
+Melee: 
+  - Attack: "tentacles +7"
+    Effect: "3d6+4 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: savage bite (+7 melee, 2d6+4/18-20 plus poison), unholy blood

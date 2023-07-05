@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: greatclub +7 (2d8+7)
+Melee: 
+  - Attack: "greatclub +7"
+    Effect: "2d8+7"
 Reach: 10 ft.
-Ranged: javelin +1 (1d8+5)
+Ranged: 
+  - Attack: "javelin +1"
+    Effect: "1d8+5"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 21

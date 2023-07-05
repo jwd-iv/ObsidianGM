@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: longsword +29/+24/+19/+14 (6d6+22/17-20) or 2 slams +29 (2d8+15)
+Melee: 
+  - Attack: "longsword +29/+24/+19/+14"
+    Effect: "6d6+22/17-20"
+  - Attack: "2 slams +29"
+    Effect: "2d8+15"
 Reach: 30 ft.
-Ranged: rock +18 (2d8+22)
+Ranged: 
+  - Attack: "rock +18"
+    Effect: "2d8+22"
 SpecialAttacks: breath weapon (60-ft. cone, 20d6 fire, DC 31, usable every 1d4 rounds), rock throwing (180 ft.)
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +25)  Constant-true seeing   3/day-greater shout (DC 23)   1/day-destruction (DC 22), earthquake (DC 23), power word stun
 STR: 41

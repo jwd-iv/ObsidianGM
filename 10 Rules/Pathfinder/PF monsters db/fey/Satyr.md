@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +6 (1d4+2/19-20), horns +1 (1d6+1)
+Melee: 
+  - Attack: "dagger +6"
+    Effect: "1d4+2/19-20"
+  - Attack: "horns +1"
+    Effect: "1d6+1"
 Reach: 5 ft.
-Ranged: short bow +6 (1d6/x3)
+Ranged: 
+  - Attack: "short bow +6"
+    Effect: "1d6/x3"
 SpecialAttacks: pipes
 SpellLikeAbilities: Spell-Like Abilities (CL 8th) At will-charm person (DC 15), dancing lights, ghost sound (DC 14), sleep (DC 15), suggestion (DC 17) 1/day-fear (DC 18), summon nature's ally III
 STR: 14

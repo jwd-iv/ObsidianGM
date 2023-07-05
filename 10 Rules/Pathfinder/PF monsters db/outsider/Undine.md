@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft. (20 in armor)
-Melee: trident +0 (1d8)
+Melee: 
+  - Attack: "trident +0"
+    Effect: "1d8"
 Reach: 5 ft.
-Ranged: sling +2 (1d4)
+Ranged: 
+  - Attack: "sling +2"
+    Effect: "1d4"
 SpecialAttacks: channel positive energy 7/day (DC 12, 1d6)
 SpellLikeAbilities: Spell-Like Abilities (CL 1st; concentration +3)  1/day-hydraulic push*   Domain Spell-Like Abilities (CL 1st; concentration +4)  6/day-dazing touch  6/day-icicle (1d6+1 cold damage)
 STR: 11

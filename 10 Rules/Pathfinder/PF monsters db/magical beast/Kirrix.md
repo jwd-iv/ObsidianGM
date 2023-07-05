@@ -36,7 +36,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +7 (1d8+6)
+Melee: 
+  - Attack: "bite +7"
+    Effect: "1d8+6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: expel pathogens

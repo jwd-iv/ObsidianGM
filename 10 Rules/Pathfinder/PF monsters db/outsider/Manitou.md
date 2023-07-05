@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +30 (4d10+12)
+Melee: 
+  - Attack: "2 slams +30"
+    Effect: "4d10+12"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: spirit stampede

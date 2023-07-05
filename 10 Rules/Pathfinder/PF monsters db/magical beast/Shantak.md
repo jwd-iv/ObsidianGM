@@ -35,7 +35,11 @@ Climb:
 Fly: 80 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +17 (2d6+8) 2 talons +17 (1d8+8 plus grab)
+Melee: 
+  - Attack: "bite +17"
+    Effect: "2d6+8"
+  - Attack: "2 talons +17"
+    Effect: "1d8+8 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: 

@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk short sword +11/+6 (1d8+3/19-20), bite +5 (1d8+1 plus poison)
+Melee: 
+  - Attack: "mwk short sword +11/+6"
+    Effect: "1d8+3/19-20"
+  - Attack: "bite +5"
+    Effect: "1d8+1 plus poison"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: confusion command

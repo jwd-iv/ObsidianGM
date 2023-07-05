@@ -35,7 +35,9 @@ Climb:
 Fly: 120 ft. (90 in armor)
 Maneuverability: good
 Swim: 
-Melee: +5 holy starknife +29/+24/+19/+14 (1d6+12/x3)
+Melee: 
+  - Attack: "+5 holy starknife +29/+24/+19/+14"
+    Effect: "1d6+12/x3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: smite evil 1/day (+6 attack and AC, +19 damage)

@@ -36,9 +36,17 @@ Climb:
 Fly: 120 ft.
 Maneuverability: poor
 Swim: 
-Melee: bite +14 (1d8+6 plus bleed), 2 talons +14 (1d6+6), 2 wings +9 (1d6+3 plus bleed)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "1d8+6 plus bleed"
+  - Attack: "2 talons +14"
+    Effect: "1d6+6"
+  - Attack: "2 wings +9"
+    Effect: "1d6+3 plus bleed"
 Reach: 5 ft.
-Ranged: 2 wing razors +10 (2d6+6 plus bleed)
+Ranged: 
+  - Attack: "2 wing razors +10"
+    Effect: "2d6+6 plus bleed"
 SpecialAttacks: bleed (1d6), glare, wing razors
 SpellLikeAbilities: 
 STR: 22

@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +5 (1d8+3), 2 claws +5 (1d6+3)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d8+3"
+  - Attack: "2 claws +5"
+    Effect: "1d6+3"
 Reach: 5 ft.
-Ranged: spray +5 touch (musk)
+Ranged: 
+  - Attack: "spray +5 touch"
+    Effect: "musk"
 SpecialAttacks: musk
 SpellLikeAbilities: 
 STR: 17

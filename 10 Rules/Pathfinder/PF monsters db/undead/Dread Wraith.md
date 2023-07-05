@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: incorporeal touch +20 (3d6 negative energy plus 1d8 Con  drain [Fort DC 23])
+Melee: 
+  - Attack: "incorporeal touch +20"
+    Effect: "3d6 negative energy plus 1d8 Con  drain [Fort DC 23]"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: create spawn

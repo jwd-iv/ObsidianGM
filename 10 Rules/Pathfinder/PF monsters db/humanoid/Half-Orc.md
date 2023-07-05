@@ -40,7 +40,9 @@ Climb:
 Fly:
 Maneuverability:
 Swim:
-Melee: club +3 (1d6+2/x2)
+Melee: 
+  - Attack: "club +3"
+    Effect: "1d6+2/x2"
 Reach: 5 ft.
 Ranged:
 SpecialAttacks:

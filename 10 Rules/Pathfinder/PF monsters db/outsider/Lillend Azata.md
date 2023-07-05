@@ -35,7 +35,11 @@ Climb:
 Fly: 70 ft.
 Maneuverability: average
 Swim: 
-Melee: +1 longsword +12/+7 (2d6+8/19-20), tail slap +6 (2d6+2 plus grab)
+Melee: 
+  - Attack: "+1 longsword +12/+7"
+    Effect: "2d6+8/19-20"
+  - Attack: "tail slap +6"
+    Effect: "2d6+2 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: bardic performance (20 rounds/day), constrict (2d6+5)

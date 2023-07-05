@@ -36,7 +36,11 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 20 ft.
-Melee: bite +22 (2d8+11/19-20 plus poison), 4 claws +22 (3d6+11)
+Melee: 
+  - Attack: "bite +22"
+    Effect: "2d8+11/19-20 plus poison"
+  - Attack: "4 claws +22"
+    Effect: "3d6+11"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: poison, rend (2 claws, 3d6+16)

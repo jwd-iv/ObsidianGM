@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +3 speed wounding heavy mace +29/+29/+24/+19/+14 (6d6+19/19-20/x3 plus bleed and push), slam +26 (2d8+24 plus push)
+Melee: 
+  - Attack: "+3 speed wounding heavy mace +29/+29/+24/+19/+14"
+    Effect: "6d6+19/19-20/x3 plus bleed and push"
+  - Attack: "slam +26"
+    Effect: "2d8+24 plus push"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: bleed (4d6), blood rage, mythic power (8/day, surge +1d10), push (heavy mace or slam, 10 ft.), rock throwing (100 ft.), trample (2d8+24, DC 35)

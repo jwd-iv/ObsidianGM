@@ -35,7 +35,15 @@ Climb:
 Fly: 80 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +29 (2d6+12 plus burn), 2 claw +29 (1d8+12 plus burn),  gore +29 (2d8+12 plus burn), 2 wings +27 (1d8+6)
+Melee: 
+  - Attack: "bite +29"
+    Effect: "2d6+12 plus burn"
+  - Attack: "2 claw +29"
+    Effect: "1d8+12 plus burn"
+  - Attack: "gore +29"
+    Effect: "2d8+12 plus burn"
+  - Attack: "2 wings +27"
+    Effect: "1d8+6"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: burn (2d6, DC 31), hellfire

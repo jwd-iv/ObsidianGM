@@ -35,7 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: ranseur +3 (2d4+1/x3), bite -2 (1d6 plus sinful bite) or  bite +3 (1d6+1 plus sinful bite), 2 claws +3 (1d4+1)
+Melee: 
+  - Attack: "ranseur +3"
+    Effect: "2d4+1/x3"
+  - Attack: "bite -2"
+    Effect: "1d6 plus sinful bite"
+  - Attack: "bite +3"
+    Effect: "1d6+1 plus sinful bite"
+  - Attack: "2 claws +3"
+    Effect: "1d4+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

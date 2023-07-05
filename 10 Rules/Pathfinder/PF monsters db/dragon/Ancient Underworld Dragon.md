@@ -36,7 +36,15 @@ Climb:
 Fly: 200 ft.
 Maneuverability: poor
 Swim: 
-Melee: bite +33 (2d8+18), 2 claws +33 (2d6+12/19-20), gore +32 (2d6+18), tail slap +27 (2d6+18)
+Melee: 
+  - Attack: "bite +33"
+    Effect: "2d8+18"
+  - Attack: "2 claws +33"
+    Effect: "2d6+12/19-20"
+  - Attack: "gore +32"
+    Effect: "2d6+18"
+  - Attack: "tail slap +27"
+    Effect: "2d6+18"
 Reach: 10 ft. (15 ft. with bite)
 Ranged: 
 SpecialAttacks: adamantine claws, breath weapon (100-ft. line, 20d6 fire damage, DC 28), crush (DC 28, 2d8+12)

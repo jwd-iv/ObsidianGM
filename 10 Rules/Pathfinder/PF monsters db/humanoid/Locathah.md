@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: longspear +2 (1d8/x3)
+Melee: 
+  - Attack: "longspear +2"
+    Effect: "1d8/x3"
 Reach: 5 ft.
-Ranged: light crossbow +2 (1d8/19-20)
+Ranged: 
+  - Attack: "light crossbow +2"
+    Effect: "1d8/19-20"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 10

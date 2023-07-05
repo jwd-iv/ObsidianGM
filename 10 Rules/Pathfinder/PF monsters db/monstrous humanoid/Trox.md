@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: warhammer +7 (2d6+7/x3)
+Melee: 
+  - Attack: "warhammer +7"
+    Effect: "2d6+7/x3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: frenzy, rage (6 rounds/day)

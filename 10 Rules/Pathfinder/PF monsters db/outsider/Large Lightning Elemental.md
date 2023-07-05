@@ -35,7 +35,9 @@ Climb:
 Fly: 100 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 slams +13 (1d8+3 plus 1d6 electricity)
+Melee: 
+  - Attack: "2 slams +13"
+    Effect: "1d8+3 plus 1d6 electricity"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: metal mastery, spark leap

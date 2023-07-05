@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam -1 (1d3-2 plus ensnare)
+Melee: 
+  - Attack: "slam -1"
+    Effect: "1d3-2 plus ensnare"
 Reach: 5 ft.
-Ranged: seed +3 (1 plus ensnare)
+Ranged: 
+  - Attack: "seed +3"
+    Effect: "1 plus ensnare"
 SpecialAttacks: sneak attack +1d6
 SpellLikeAbilities: Spell-Like Abilities (CL 2nd; concentration +4)  Constant-pass without trace
 STR: 6

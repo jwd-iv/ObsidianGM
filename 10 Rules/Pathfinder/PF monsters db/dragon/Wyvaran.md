@@ -36,7 +36,11 @@ Climb:
 Fly: 30 ft. (20 in armor)
 Maneuverability: clumsy
 Swim: 
-Melee: shortspear +1 (1d6) or slapping tail +0 (1d8; attacks of opportunity only)
+Melee: 
+  - Attack: "shortspear +1"
+    Effect: "1d6"
+  - Attack: "slapping tail +0"
+    Effect: "1d8; attacks of opportunity only"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

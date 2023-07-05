@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk dagger +9 (1d4/19-20)
+Melee: 
+  - Attack: "mwk dagger +9"
+    Effect: "1d4/19-20"
 Reach: 5 ft.
-Ranged: mwk sling +9 (1d4)
+Ranged: 
+  - Attack: "mwk sling +9"
+    Effect: "1d4"
 SpecialAttacks: weep
 SpellLikeAbilities: Spell-Like Abilities (CL 7th; concentration +12)   At Will-meld into stone, stone tell
 STR: 10

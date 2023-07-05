@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: brass falchion +29 (3d6+11/18-20 plus 2d6 fire), slam +29 (2d6+11 plus 2d6 fire)
+Melee: 
+  - Attack: "brass falchion +29"
+    Effect: "3d6+11/18-20 plus 2d6 fire"
+  - Attack: "slam +29"
+    Effect: "2d6+11 plus 2d6 fire"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: breath weapon (DC 20), heat (2d6 fire)

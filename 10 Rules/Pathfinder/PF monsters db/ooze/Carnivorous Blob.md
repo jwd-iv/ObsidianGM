@@ -35,7 +35,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 20 ft.
-Melee: slam +17 (8d6+19 plus 1d4 Con drain and grab)
+Melee: 
+  - Attack: "slam +17"
+    Effect: "8d6+19 plus 1d4 Con drain and grab"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: absorb flesh, constrict (8d6+19 plus 1d4 Con drain)

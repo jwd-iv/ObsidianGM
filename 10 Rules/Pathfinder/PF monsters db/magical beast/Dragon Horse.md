@@ -35,7 +35,9 @@ Climb:
 Fly: 120 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 hooves +16 (2d6+7 plus 1d6 electricity)
+Melee: 
+  - Attack: "2 hooves +16"
+    Effect: "2d6+7 plus 1d6 electricity"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapons, flying charge Space 10 ft.; Reach 10 ft.

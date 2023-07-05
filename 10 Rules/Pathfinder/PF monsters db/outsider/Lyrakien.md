@@ -35,7 +35,9 @@ Climb:
 Fly: 80 ft.
 Maneuverability: perfect
 Swim: 
-Melee: slam +2 (1d2-3)
+Melee: 
+  - Attack: "slam +2"
+    Effect: "1d2-3"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: starlight blast

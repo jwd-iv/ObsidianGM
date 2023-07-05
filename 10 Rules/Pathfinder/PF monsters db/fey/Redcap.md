@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: Medium scythe +10 (2d4+10/x4), kick +4 (1d4+6)
+Melee: 
+  - Attack: "Medium scythe +10"
+    Effect: "2d4+10/x4"
+  - Attack: "kick +4"
+    Effect: "1d4+6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

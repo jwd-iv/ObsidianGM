@@ -35,7 +35,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +10 (2d6+7 plus poison and grab)
+Melee: 
+  - Attack: "bite +10"
+    Effect: "2d6+7 plus poison and grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: ethereal ambush

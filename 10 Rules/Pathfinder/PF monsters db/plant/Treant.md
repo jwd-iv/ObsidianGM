@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +17 (2d6+9/19-20)
+Melee: 
+  - Attack: "2 slams +17"
+    Effect: "2d6+9/19-20"
 Reach: 15 ft.
-Ranged: rock +7 (2d6+13)
+Ranged: 
+  - Attack: "rock +7"
+    Effect: "2d6+13"
 SpecialAttacks: rock throwing (180 ft.), trample (2d6+13, DC 25)
 SpellLikeAbilities: 
 STR: 29

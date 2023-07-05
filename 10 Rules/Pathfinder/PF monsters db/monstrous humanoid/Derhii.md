@@ -36,9 +36,15 @@ Climb: 30 ft.
 Fly: 60 ft.
 Maneuverability: poor
 Swim: 
-Melee: mwk falchion +12/+7 (2d6+7/18-20) or 2 slams +11 (1d6+5)
+Melee: 
+  - Attack: "mwk falchion +12/+7"
+    Effect: "2d6+7/18-20"
+  - Attack: "2 slams +11"
+    Effect: "1d6+5"
 Reach: 10 ft.
-Ranged: javelin +9 (1d8+5)
+Ranged: 
+  - Attack: "javelin +9"
+    Effect: "1d8+5"
 SpecialAttacks: aerial charge, knockdown
 SpellLikeAbilities: 
 STR: 21

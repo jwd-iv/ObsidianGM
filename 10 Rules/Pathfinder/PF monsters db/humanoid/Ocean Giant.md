@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: mwk trident +29/+24/+19 (3d6+22) or 2 slams +27 (2d6+15)
+Melee: 
+  - Attack: "mwk trident +29/+24/+19"
+    Effect: "3d6+22"
+  - Attack: "2 slams +27"
+    Effect: "2d6+15"
 Reach: 15 ft.
-Ranged: rock +13 (2d8+22)
+Ranged: 
+  - Attack: "rock +13"
+    Effect: "2d8+22"
 SpecialAttacks: conch focus, rock throwing (110 ft.)
 SpellLikeAbilities: Spell-Like Abilities (CL 14th; concentration +18)  Constant-freedom of movement   3/day-aqueous orbAPG (DC 17), control winds (DC 19), shout (DC 18), summon nature's ally VII (swimming creatures only), water breathing   1/day-vortexAPG (DC 20)
 STR: 40

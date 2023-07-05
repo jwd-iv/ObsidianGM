@@ -35,7 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +12 (1d6+5), bite +12 (1d6+5) or longspear +12/+7 (1d8+7/×3), bite +7 (1d6+2)
+Melee: 
+  - Attack: "2 claws +12"
+    Effect: "1d6+5"
+  - Attack: "bite +12"
+    Effect: "1d6+5"
+  - Attack: "longspear +12/+7"
+    Effect: "1d8+7/×3"
+  - Attack: "bite +7"
+    Effect: "1d6+2"
 Reach: 5 ft. (10 ft. with longspear)
 Ranged: 
 SpecialAttacks: sneak attack +2d6

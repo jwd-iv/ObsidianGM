@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk Large  falchion +8/+3  (2d6+3/18-20)
+Melee: 
+  - Attack: "mwk Large  falchion +8/+3"
+    Effect: "2d6+3/18-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

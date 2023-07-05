@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +10 (2d6+2 plus bleed and grab)
+Melee: 
+  - Attack: "2 slams +10"
+    Effect: "2d6+2 plus bleed and grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed (1d6), blood drain (1d2 Con), constrict (2d6+2 plus bleed)

@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: touch +30 (20d8 energy)
+Melee: 
+  - Attack: "touch +30"
+    Effect: "20d8 energy"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: sphere of creation, sphere of oblivion

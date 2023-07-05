@@ -35,9 +35,19 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +37 (4d8+15/15-20/x3 plus grab), 2 claws +37  (1d12+15), 2 gores +37 (1d10+15), tail slap +32 (3d8+7)
+Melee: 
+  - Attack: "bite +37"
+    Effect: "4d8+15/15-20/x3 plus grab"
+  - Attack: "2 claws +37"
+    Effect: "1d12+15"
+  - Attack: "2 gores +37"
+    Effect: "1d10+15"
+  - Attack: "tail slap +32"
+    Effect: "3d8+7"
 Reach: 30 ft. (60 ft. with tail slap)
-Ranged: 6 spines +25 (2d10+15/x3)
+Ranged: 
+  - Attack: "6 spines +25"
+    Effect: "2d10+15/x3"
 SpecialAttacks: rush, spines, swallow whole (6d6+22 plus 6d6  acid, AC 27, hp 52)
 SpellLikeAbilities: 
 STR: 41

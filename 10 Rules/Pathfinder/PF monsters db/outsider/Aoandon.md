@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: touch of madness +19 touch (10d6)
+Melee: 
+  - Attack: "touch of madness +19 touch"
+    Effect: "10d6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

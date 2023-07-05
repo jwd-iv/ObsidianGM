@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +13 (1d10+5/19-20 plus 1d6 acid and corrupting bite), 2 claws +12 (1d6+5)
+Melee: 
+  - Attack: "bite +13"
+    Effect: "1d10+5/19-20 plus 1d6 acid and corrupting bite"
+  - Attack: "2 claws +12"
+    Effect: "1d6+5"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: corrupting bite, vicious jaws

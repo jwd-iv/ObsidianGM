@@ -36,7 +36,13 @@ Climb:
 Fly: 90 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 claws +14 (1d6+8), tail slap +9 (1d8+4 plus bleed), 2 wings +9 (1d8+4 plus bleed)
+Melee: 
+  - Attack: "2 claws +14"
+    Effect: "1d6+8"
+  - Attack: "tail slap +9"
+    Effect: "1d8+4 plus bleed"
+  - Attack: "2 wings +9"
+    Effect: "1d8+4 plus bleed"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed (2d6), cold iron killer, shadow doubles, sneak attack +3d6

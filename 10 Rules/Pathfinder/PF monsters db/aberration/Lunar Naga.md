@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +7 (2d6+3 plus poison)
+Melee: 
+  - Attack: "bite +7"
+    Effect: "2d6+3 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: hypnosis, sneak attack +3d6

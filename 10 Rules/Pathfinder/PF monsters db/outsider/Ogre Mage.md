@@ -35,9 +35,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: greatsword +14/+9 (3d6+10)
+Melee: 
+  - Attack: "greatsword +14/+9"
+    Effect: "3d6+10"
 Reach: 10 ft.
-Ranged: composite longbow +10 (2d6+7)
+Ranged: 
+  - Attack: "composite longbow +10"
+    Effect: "2d6+7"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 9th) Constant-fly At will-darkness, invisibility 1/day-charm monster (DC 17), cone of cold (DC 18), gaseous form, deep slumber (DC 16)
 STR: 24

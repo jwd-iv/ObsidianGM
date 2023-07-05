@@ -35,7 +35,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: +2 wounding halberd (2d8+18/19-20/x3), bite +24 (1d8+5)
+Melee: 
+  - Attack: "+2 wounding halberd"
+    Effect: "2d8+18/19-20/x3"
+  - Attack: "bite +24"
+    Effect: "1d8+5"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: weapon steep

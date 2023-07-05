@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: shortspear +9/+4 (1d6+4), bite +4 (1d8+1)
+Melee: 
+  - Attack: "shortspear +9/+4"
+    Effect: "1d6+4"
+  - Attack: "bite +4"
+    Effect: "1d8+1"
 Reach: 5 ft.
-Ranged: shortspear +10 (1d6+3)
+Ranged: 
+  - Attack: "shortspear +10"
+    Effect: "1d6+3"
 SpecialAttacks: suffocating water
 SpellLikeAbilities: Spell-Like Abilities (CL 6th; concentration +7)   3/day- control water, dancing lights, grease (DC 12), hydraulic push* (DC 12), water breathing   1/day-aqueous orb* (DC 14), neutralize poison, remove disease
 STR: 16

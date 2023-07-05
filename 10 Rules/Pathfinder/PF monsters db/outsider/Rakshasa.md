@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 kukri +16/+11 (1d4+4/15-20), claw +10 (1d4+1), bite +10 (1d6+1)
+Melee: 
+  - Attack: "+1 kukri +16/+11"
+    Effect: "1d4+4/15-20"
+  - Attack: "claw +10"
+    Effect: "1d4+1"
+  - Attack: "bite +10"
+    Effect: "1d6+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: detect thoughts

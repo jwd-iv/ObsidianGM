@@ -36,7 +36,9 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +4 (1d6+3/19-20)
+Melee: 
+  - Attack: "bite +4"
+    Effect: "1d6+3/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: devastating maw, sneak attack +1d6, swarming

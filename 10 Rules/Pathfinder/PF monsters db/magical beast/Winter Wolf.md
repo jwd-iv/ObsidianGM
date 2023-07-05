@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +10 (1d8+7 plus 1d6 cold and trip)
+Melee: 
+  - Attack: "bite +10"
+    Effect: "1d8+7 plus 1d6 cold and trip"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (every 1d4 rounds, 15-ft. cone, 6d6 cold damage, Reflex half DC 17)

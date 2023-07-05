@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: improvised weapon +4 (1d4+2/x3)
+Melee: 
+  - Attack: "improvised weapon +4"
+    Effect: "1d4+2/x3"
 Reach: 0 ft.
-Ranged: improvised weapon +6 (1d3+2/x3)
+Ranged: 
+  - Attack: "improvised weapon +6"
+    Effect: "1d3+2/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 6th; concentration +8)   At Will-invisibility (self only), statue (self only)   3/day-hide from animals, purify food and drink   1/week-commune with nature (CL 12th)
 STR: 8

@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: slam +9 (2d6+9 plus grab and nausea)
+Melee: 
+  - Attack: "slam +9"
+    Effect: "2d6+9 plus grab and nausea"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: create spawn, constrict (2d6+9)

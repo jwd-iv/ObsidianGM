@@ -35,7 +35,11 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: +3 holy greatsword +27/+22/+17 (3d6+15/19-20) or slam +24 (2d8+12)
+Melee: 
+  - Attack: "+3 holy greatsword +27/+22/+17"
+    Effect: "3d6+15/19-20"
+  - Attack: "slam +24"
+    Effect: "2d8+12"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

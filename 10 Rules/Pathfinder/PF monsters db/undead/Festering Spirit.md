@@ -36,7 +36,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: good
 Swim: 
-Melee: incorporeal touch +11 (1d4 Con damage plus slime)
+Melee: 
+  - Attack: "incorporeal touch +11"
+    Effect: "1d4 Con damage plus slime"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: create spawn, slime, trample (1 Con plus slime, DC 16)

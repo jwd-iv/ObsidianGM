@@ -35,7 +35,11 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +22 (2d6+10), 2 hooves +17 (2d6+5 plus 1d6 fire)
+Melee: 
+  - Attack: "bite +22"
+    Effect: "2d6+10"
+  - Attack: "2 hooves +17"
+    Effect: "2d6+5 plus 1d6 fire"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: smoke (DC 22)

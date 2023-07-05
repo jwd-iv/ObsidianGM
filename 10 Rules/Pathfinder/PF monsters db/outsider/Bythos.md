@@ -35,7 +35,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: good
 Swim: 
-Melee: 4 slams +23 (1d6+6 plus 1d6 cold and aging strike)
+Melee: 
+  - Attack: "4 slams +23"
+    Effect: "1d6+6 plus 1d6 cold and aging strike"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: confusion gaze, temporal strike

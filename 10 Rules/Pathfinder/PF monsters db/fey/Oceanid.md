@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 80 ft.
-Melee: slam +6 (1d4+3)
+Melee: 
+  - Attack: "slam +6"
+    Effect: "1d4+3"
 Reach: 5 ft.
-Ranged: waterspout +8 (7d6)
+Ranged: 
+  - Attack: "waterspout +8"
+    Effect: "7d6"
 SpecialAttacks: water telekinesis
 SpellLikeAbilities: Spell-Like Abilities (CL 9th; concentration +14)  Constant-speak with animals (sea creatures only) At will-control water, create water, purify food and drink (water only), water breathing (up to 9 creatures at a time)  3/day-control winds, summon nature's ally V (sea creatures or water elementals only)  1/day-control weather
 STR: 14

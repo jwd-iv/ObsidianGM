@@ -37,9 +37,13 @@ Climb:
 Fly:
 Maneuverability:
 Swim:
-Melee: rapier +1 (1d6+1/18-20)
+Melee: 
+  - Attack: "rapier +1"
+    Effect: "1d6+1/18-20"
 Reach: 5 ft.
-Ranged: dagger +3 (1d4+1/19-20)
+Ranged: 
+  - Attack: "dagger +3"
+    Effect: "1d4+1/19-20"
 SpecialAttacks:
 SpellLikeAbilities:
 STR: 12

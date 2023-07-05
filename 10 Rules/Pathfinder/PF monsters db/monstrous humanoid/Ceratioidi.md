@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: 2 shortspears +8 (1d6+3) or 2 slams +7 (1d4+3)
+Melee: 
+  - Attack: "2 shortspears +8"
+    Effect: "1d6+3"
+  - Attack: "2 slams +7"
+    Effect: "1d4+3"
 Reach: 5 ft.
-Ranged: 2 shortspears +5 (1d6+3)
+Ranged: 
+  - Attack: "2 shortspears +5"
+    Effect: "1d6+3"
 SpecialAttacks: lure
 SpellLikeAbilities: 
 STR: 17

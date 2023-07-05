@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +15 (1d8+4 plus grab)
+Melee: 
+  - Attack: "2 claws +15"
+    Effect: "1d8+4 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: constrict (1d8+4)

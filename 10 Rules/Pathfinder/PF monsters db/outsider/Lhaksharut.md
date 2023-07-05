@@ -35,9 +35,19 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +2 wounding spear +32/+27/+22/+17 (3d6+17/x3 plus 1 bleed), +2 wounding longsword +32 (3d6+12/19-20 plus 1 bleed), +2 wounding morningstar +32 (3d6+12 plus 1 bleed) or   4 slams +30 (2d8+10)
+Melee: 
+  - Attack: "+2 wounding spear +32/+27/+22/+17"
+    Effect: "3d6+17/x3 plus 1 bleed"
+  - Attack: "+2 wounding longsword +32"
+    Effect: "3d6+12/19-20 plus 1 bleed"
+  - Attack: "+2 wounding morningstar +32"
+    Effect: "3d6+12 plus 1 bleed"
+  - Attack: "4 slams +30"
+    Effect: "2d8+10"
 Reach: 15 ft.
-Ranged: 2 energy bolts +21 (10d6 energy)
+Ranged: 
+  - Attack: "2 energy bolts +21"
+    Effect: "10d6 energy"
 SpecialAttacks: cunning reflexes, multiweapon mastery, wounding weapons
 SpellLikeAbilities: Spell-Like Abilities (CL 22th; concentration +27)  Constant-detect chaos, detect magic, shield of law (DC 23), true seeing   At Will-dispel magic, greater teleport (self plus 50 lbs. of objects only), sending   3/day-dictum (DC 22), dimensional anchor (DC 19), dimensional lock (DC 23), disintegrate (DC 21), dismissal (DC 20), greater scrying (DC 22), plane shift (DC 20), wall of force   1/day-imprisonment (DC 24)
 STR: 31

@@ -36,7 +36,13 @@ Climb: 30 ft.
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: unarmed strike +31/+36/+31/+26 (2d10+8) or +5 quarterstaff +44/+39/+34/+29 (1d8+13) or flurry of blows +38/+38/+33/+33/+28/+28/+23 (2d10+8)
+Melee: 
+  - Attack: "unarmed strike +31/+36/+31/+26"
+    Effect: "2d10+8"
+  - Attack: "+5 quarterstaff +44/+39/+34/+29"
+    Effect: "1d8+13"
+  - Attack: "flurry of blows +38/+38/+33/+33/+28/+28/+23"
+    Effect: "2d10+8"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: shatter spells, stunning fist (8/day, DC 22)

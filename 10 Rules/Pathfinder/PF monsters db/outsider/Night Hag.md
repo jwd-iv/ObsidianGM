@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +13 (1d4+5), bite +13 (2d6+5 plus disease)
+Melee: 
+  - Attack: "2 claws +13"
+    Effect: "1d4+5"
+  - Attack: "bite +13"
+    Effect: "2d6+5 plus disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: dream haunting

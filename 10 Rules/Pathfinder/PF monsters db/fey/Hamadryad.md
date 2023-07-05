@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk dagger +16/+11 (1d4+5/19-20)
+Melee: 
+  - Attack: "mwk dagger +16/+11"
+    Effect: "1d4+5/19-20"
 Reach: 5 ft.
-Ranged: +2 speed composite longbow +18/+18/+13 (1d8+7/x3)
+Ranged: 
+  - Attack: "+2 speed composite longbow +18/+18/+13"
+    Effect: "1d8+7/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +26)  Constant-speak with animals, speak with plants   At Will-entangle (DC 17), hold animal (DC 18), rusting grasp, tree shape, wood shape (10 lbs. only)   5/day-charm monster (DC 20), charm person (DC 17), confusion (DC 19), deep slumber (DC 19), neutralize poison, sending (dryads only), suggestion (DC 19), tree stride   1/day-call lightning storm (DC 21), changestaff, greater heroism, heal, liveoak, summon nature's ally VIII
 STR: 12

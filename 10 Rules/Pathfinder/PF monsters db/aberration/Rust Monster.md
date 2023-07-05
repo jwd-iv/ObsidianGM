@@ -35,7 +35,11 @@ Climb: 10 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +6 (1d3), antennae +6 touch (rust)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "1d3"
+  - Attack: "antennae +6 touch"
+    Effect: "rust"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

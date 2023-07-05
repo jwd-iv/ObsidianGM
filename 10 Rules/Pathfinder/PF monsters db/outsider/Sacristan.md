@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk spiked chain +18/+13/+8 (2d4+7) or 2 claws +17 (1d4+5)
+Melee: 
+  - Attack: "mwk spiked chain +18/+13/+8"
+    Effect: "2d4+7"
+  - Attack: "2 claws +17"
+    Effect: "1d4+5"
 Reach: 5 ft. (10 ft. with spiked chain)
 Ranged: 
 SpecialAttacks: shadow scream, unnerving gaze (30 ft., DC 18)

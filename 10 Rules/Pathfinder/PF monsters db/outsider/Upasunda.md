@@ -36,7 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk longsword +19/+14/+9 (1d8+6/19-20), mwk spear +19  (1d8+9/3), mwk kukri +19 (1d4+6/18-20), 2 slams +13 (1d4+3) or  6 slams +18 (1d4+6)
+Melee: 
+  - Attack: "mwk longsword +19/+14/+9"
+    Effect: "1d8+6/19-20"
+  - Attack: "mwk spear +19"
+    Effect: "1d8+9/3"
+  - Attack: "mwk kukri +19"
+    Effect: "1d4+6/18-20"
+  - Attack: "2 slams +13"
+    Effect: "1d4+3"
+  - Attack: "6 slams +18"
+    Effect: "1d4+6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: infused weapons, multiweapon mastery

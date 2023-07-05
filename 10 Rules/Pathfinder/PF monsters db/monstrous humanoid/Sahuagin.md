@@ -35,9 +35,19 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: trident +4 (1d8+3), bite -1 (1d4+1) or 2 claws +4 (1d4+2),  bite +4 (1d4+2)
+Melee: 
+  - Attack: "trident +4"
+    Effect: "1d8+3"
+  - Attack: "bite -1"
+    Effect: "1d4+1"
+  - Attack: "2 claws +4"
+    Effect: "1d4+2"
+  - Attack: "bite +4"
+    Effect: "1d4+2"
 Reach: 5 ft.
-Ranged: heavy crossbow +3 (1d10/19-20)
+Ranged: 
+  - Attack: "heavy crossbow +3"
+    Effect: "1d10/19-20"
 SpecialAttacks: blood frenzy
 SpellLikeAbilities: 
 STR: 14

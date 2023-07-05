@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: longsword +6 (1d8+3 plus energy drain) or slam +6 (1d4+3 plus energy drain)
+Melee: 
+  - Attack: "longsword +6"
+    Effect: "1d8+3 plus energy drain"
+  - Attack: "slam +6"
+    Effect: "1d4+3 plus energy drain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: create spawn, energy drain (1 level, DC 16)

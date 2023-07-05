@@ -670,11 +670,11 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Melee:
-    input: text
-    accessorKey: Melee
-    key: Melee
-    id: Melee
+  MeleeList:
+    input: formula
+    accessorKey: MeleeList
+    key: MeleeList
+    id: MeleeList
     label: Melee
     position: 43
     skipPersist: false
@@ -689,6 +689,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      formula_query: ${row.Melee.map(m => `${m.Attack} (${m.Effect})`).join(', ')}
   Reach:
     input: text
     accessorKey: Reach
@@ -708,11 +709,11 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Ranged:
-    input: text
-    accessorKey: Ranged
-    key: Ranged
-    id: Ranged
+  RangedList:
+    input: formula
+    accessorKey: RangedList
+    key: RangedList
+    id: RangedList
     label: Ranged
     position: 45
     skipPersist: false
@@ -727,6 +728,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      formula_query: ${row.Ranged.map(r => `${r.Attack} (${r.Effect})`).join(', ')}
   SpecialAttacks:
     input: text
     accessorKey: SpecialAttacks

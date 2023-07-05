@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk greatclub +10 (1d10+6) or 2 claws +9 (1d6+4)
+Melee: 
+  - Attack: "mwk greatclub +10"
+    Effect: "1d10+6"
+  - Attack: "2 claws +9"
+    Effect: "1d6+4"
 Reach: 5 ft.
-Ranged: mwk composite longbow +9 (1d8+4/x3)
+Ranged: 
+  - Attack: "mwk composite longbow +9"
+    Effect: "1d8+4/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 5th; concentration +8)   3/day-darkness, fly   1/day-charm person (DC 14), deep slumber (DC 16), invisibility (self only)
 STR: 18

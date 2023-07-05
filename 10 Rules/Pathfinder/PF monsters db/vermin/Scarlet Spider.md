@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +7 (1d3-4 plus poison)
+Melee: 
+  - Attack: "bite +7"
+    Effect: "1d3-4 plus poison"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: poison

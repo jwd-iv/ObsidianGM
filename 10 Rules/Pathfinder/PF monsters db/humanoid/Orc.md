@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: falchion +5 (2d4+4/18-20)
+Melee: 
+  - Attack: "falchion +5"
+    Effect: "2d4+4/18-20"
 Reach: 5 ft.
-Ranged: javelin +1 (1d6+3)
+Ranged: 
+  - Attack: "javelin +1"
+    Effect: "1d6+3"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 17

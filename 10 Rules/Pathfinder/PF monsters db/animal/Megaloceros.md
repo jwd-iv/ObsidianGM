@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: gore +7 (2d6+5), 2 hooves +2 (1d4+2)
+Melee: 
+  - Attack: "gore +7"
+    Effect: "2d6+5"
+  - Attack: "2 hooves +2"
+    Effect: "1d4+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: powerful charge (4d6+7)

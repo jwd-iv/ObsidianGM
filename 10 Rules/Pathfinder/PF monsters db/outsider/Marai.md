@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 7 bites +14 (1d4+2 plus confusion)
+Melee: 
+  - Attack: "7 bites +14"
+    Effect: "1d4+2 plus confusion"
 Reach: 5 ft.
-Ranged: 6 energy bolts +14 touch (1d8 plus special)
+Ranged: 
+  - Attack: "6 energy bolts +14 touch"
+    Effect: "1d8 plus special"
 SpecialAttacks: detect thoughts (DC 18), energy bolts
 SpellLikeAbilities: 
 STR: 14

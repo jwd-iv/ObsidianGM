@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +9 (1d8+1)
+Melee: 
+  - Attack: "2 slams +9"
+    Effect: "1d8+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: death gaze

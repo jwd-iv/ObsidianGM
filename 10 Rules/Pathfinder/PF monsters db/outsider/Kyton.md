@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 chains +11 (2d4+2)
+Melee: 
+  - Attack: "4 chains +11"
+    Effect: "2d4+2"
 Reach: 5 ft. (10 ft. with chains)
 Ranged: 
 SpecialAttacks: dancing chains,  unnerving gaze

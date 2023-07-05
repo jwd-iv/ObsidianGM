@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk dagger +9 (1d3+2/19-20)
+Melee: 
+  - Attack: "mwk dagger +9"
+    Effect: "1d3+2/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (15-ft. cone, 2d6 fire damage, Reflex DC 14 half, usable every 2d4 rounds), frightening gaze, vault, sneak attack +1d6

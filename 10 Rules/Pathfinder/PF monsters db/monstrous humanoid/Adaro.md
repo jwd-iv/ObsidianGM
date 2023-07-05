@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: spear +8 (1d8+4/x3 plus poison), bite +2 (1d6+1)
+Melee: 
+  - Attack: "spear +8"
+    Effect: "1d8+4/x3 plus poison"
+  - Attack: "bite +2"
+    Effect: "1d6+1"
 Reach: 5 ft.
-Ranged: spear +8 (1d8+3/x3 plus poison)
+Ranged: 
+  - Attack: "spear +8"
+    Effect: "1d8+3/x3 plus poison"
 SpecialAttacks: rain frenzy
 SpellLikeAbilities: 
 STR: 16

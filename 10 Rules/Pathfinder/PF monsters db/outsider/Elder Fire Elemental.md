@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +23 (2d8+8 plus burn)
+Melee: 
+  - Attack: "2 slams +23"
+    Effect: "2d8+8 plus burn"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: burn (2d10, DC 22)

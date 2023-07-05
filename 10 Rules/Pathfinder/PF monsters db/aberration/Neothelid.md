@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 4 tongues +21 (3d6+10/19-20 plus grab)
+Melee: 
+  - Attack: "4 tongues +21"
+    Effect: "3d6+10/19-20 plus grab"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: breath weapon (50-ft. cone, 14d10 acid, Reflex  DC 27 half, once every 1d4 rounds), mind thrust, psychic  crush, swallow whole (2d6+10 plus 2d6 acid, AC 23, hp 23)

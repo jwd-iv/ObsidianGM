@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 80 ft.
-Melee: 2 slams +22 (4d10+10)
+Melee: 
+  - Attack: "2 slams +22"
+    Effect: "4d10+10"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: capsize, dooming gaze (60 ft., DC 27)

@@ -36,7 +36,9 @@ Climb: 50 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 bites +23 (4d10+10 plus grab)
+Melee: 
+  - Attack: "2 bites +23"
+    Effect: "4d10+10 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: channel negative energy (8d6, DC 24, 9/day), constrict (4d10+10 plus energy drain), energy drain (1 level, DC 26), life-draining coils

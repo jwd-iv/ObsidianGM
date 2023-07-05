@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +32 (3d10+13/19-20 plus grab), bite +27 (4d8+6)
+Melee: 
+  - Attack: "2 claws +32"
+    Effect: "3d10+13/19-20 plus grab"
+  - Attack: "bite +27"
+    Effect: "4d8+6"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: blood rage, brutal surge, gruesome dismemberment, mythic power (7/day, surge +1d10)

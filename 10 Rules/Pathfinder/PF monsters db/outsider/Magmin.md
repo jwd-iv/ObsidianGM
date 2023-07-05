@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: touch +7 (1 fire plus burn) or   slam +7 (1d6+3 plus 1 fire and burn)
+Melee: 
+  - Attack: "touch +7"
+    Effect: "1 fire plus burn"
+  - Attack: "slam +7"
+    Effect: "1d6+3 plus 1 fire and burn"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: burn (1d6, DC 14)

@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 120 ft.
-Melee: bite +48 (6d6+17/19-20 plus grab), 4 tentacles +43 (2d6+8/19-20 plus grab)
+Melee: 
+  - Attack: "bite +48"
+    Effect: "6d6+17/19-20 plus grab"
+  - Attack: "4 tentacles +43"
+    Effect: "2d6+8/19-20 plus grab"
 Reach: 15 ft. (30 ft. with tentacle)
 Ranged: 
 SpecialAttacks: breath weapon, command aquatic creature, constrict (2d6+25), fast swallow, poison, swallow whole (transformation, AC 17, 67 hp)

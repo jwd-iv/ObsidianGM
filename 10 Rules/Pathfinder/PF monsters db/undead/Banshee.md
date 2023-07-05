@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: incorporeal touch +26 (14d6 negative energy plus terror)
+Melee: 
+  - Attack: "incorporeal touch +26"
+    Effect: "14d6 negative energy plus terror"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: wail

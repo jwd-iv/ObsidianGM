@@ -36,7 +36,15 @@ Climb:
 Fly: 100 ft.
 Maneuverability: average
 Swim: 60 ft.
-Melee: bite +35 (4d6+12), 2 claws +35 (2d8+12), tail slap +30 (2d6+6), 2 wings +30 (2d6+6)
+Melee: 
+  - Attack: "bite +35"
+    Effect: "4d6+12"
+  - Attack: "2 claws +35"
+    Effect: "2d8+12"
+  - Attack: "tail slap +30"
+    Effect: "2d6+6"
+  - Attack: "2 wings +30"
+    Effect: "2d6+6"
 Reach: 15 ft. (15 ft. with bite)
 Ranged: 
 SpecialAttacks: adamantine weapons, breath weapon (100-ft. line, 14d6 fire damage, Reflex DC 22 half, usable every 1d4 rounds), self-destruction

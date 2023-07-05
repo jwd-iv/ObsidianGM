@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +3 weapon +38/+33/+28/+23 (6d6+22 plus hundred-handed whirlwind) or   slam +35 (4d8+28 plus stun)
+Melee: 
+  - Attack: "+3 weapon +38/+33/+28/+23"
+    Effect: "6d6+22 plus hundred-handed whirlwind"
+  - Attack: "slam +35"
+    Effect: "4d8+28 plus stun"
 Reach: 30 ft.
-Ranged: rock +22/+17/+12/+7 (8d8+31/18-20)
+Ranged: 
+  - Attack: "rock +22/+17/+12/+7"
+    Effect: "8d8+31/18-20"
 SpecialAttacks: rock throwing (200 ft.), stunning slam
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +27)  Constant-air walk, spell turning, true seeing   At Will-bestow curse (DC 21), break enchantment, chain lightning (DC 23), greater dispel magic, find the path, sending   3/day-greater scrying (DC 24), heal, mass suggestion (DC 23)   1/day-dominate monster (DC 26), greater spell immunity, imprisonment (DC 26), storm of vengeance (DC 26)
 STR: 48

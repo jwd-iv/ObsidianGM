@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: claw +11 (1d6+7 plus grab)
+Melee: 
+  - Attack: "claw +11"
+    Effect: "1d6+7 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: mark quarry, pus burst

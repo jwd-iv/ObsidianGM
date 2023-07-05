@@ -35,7 +35,15 @@ Climb: 20 ft.
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +25 (2d6+12 plus 2d4 Strength drain), 2 claws +25  (2d6+12), 2 pincers +23 (1d12+6), tail slap +23 (2d6+6)
+Melee: 
+  - Attack: "bite +25"
+    Effect: "2d6+12 plus 2d4 Strength drain"
+  - Attack: "2 claws +25"
+    Effect: "2d6+12"
+  - Attack: "2 pincers +23"
+    Effect: "1d12+6"
+  - Attack: "tail slap +23"
+    Effect: "2d6+6"
 Reach: 20 ft. (30 ft. with tail slap)
 Ranged: 
 SpecialAttacks: paralyzing gaze, rend (2 claws, 2d6+18)

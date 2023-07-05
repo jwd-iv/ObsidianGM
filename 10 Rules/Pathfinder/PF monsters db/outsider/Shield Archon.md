@@ -35,7 +35,9 @@ Climb:
 Fly: 90 ft. (60 in armor)
 Maneuverability: good
 Swim: 
-Melee: +3 shortspear +16/+11 (1d8+10)
+Melee: 
+  - Attack: "+3 shortspear +16/+11"
+    Effect: "1d8+10"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: transpose ally

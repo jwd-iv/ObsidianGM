@@ -36,9 +36,15 @@ Climb:
 Fly: 60 ft. (40 in armor)
 Maneuverability: good
 Swim: 
-Melee: +1 katana* +27/+22/+17/+12 (2d6+16/18-20) or 2 slams +26 (1d10+10)
+Melee: 
+  - Attack: "+1 katana* +27/+22/+17/+12"
+    Effect: "2d6+16/18-20"
+  - Attack: "2 slams +26"
+    Effect: "1d10+10"
 Reach: 10 ft.
-Ranged: fiery missile +19 touch (4d6 fire plus burn)
+Ranged: 
+  - Attack: "fiery missile +19 touch"
+    Effect: "4d6 fire plus burn"
 SpecialAttacks: burn (2d6, DC 26), smoke form
 SpellLikeAbilities: Spell-Like Abilities (CL 15th; concentration +17)  Constant-fly   At Will-darkness, invisibility (self only), scorching ray   3/day-charm monster (DC 16), deep slumber (DC 15), fireball (DC 15), fire shield (warm shield only), wall of fire   1/day-incendiary cloud (DC 20)
 STR: 31

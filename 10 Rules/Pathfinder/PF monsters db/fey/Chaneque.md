@@ -36,9 +36,13 @@ Climb: 20 ft.
 Fly: 60 ft.
 Maneuverability: clumsy
 Swim: 
-Melee: claw +5 (1d3+3)
+Melee: 
+  - Attack: "claw +5"
+    Effect: "1d3+3"
 Reach: 5 ft.
-Ranged: thrown skull +5 (1d4+3 plus steal soul)
+Ranged: 
+  - Attack: "thrown skull +5"
+    Effect: "1d4+3 plus steal soul"
 SpecialAttacks: mythic power (1/day, surge +1d6), steal soul
 SpellLikeAbilities: Spell-Like Abilities (CL 5th; concentration +4)  3/day-fear (DC 13)
 STR: 6

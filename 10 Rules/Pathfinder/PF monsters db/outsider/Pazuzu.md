@@ -36,7 +36,17 @@ Climb:
 Fly: 150 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +5 anarchic keen unholy longsword +54/+49/+44/+39 (2d6+20/17-20), bite +49 (2d6+15), claw +49 (1d6+15), sting +49 (2d8+15 plus poison), 2 talons +49 (1d6+15)
+Melee: 
+  - Attack: "+5 anarchic keen unholy longsword +54/+49/+44/+39"
+    Effect: "2d6+20/17-20"
+  - Attack: "bite +49"
+    Effect: "2d6+15"
+  - Attack: "claw +49"
+    Effect: "1d6+15"
+  - Attack: "sting +49"
+    Effect: "2d8+15 plus poison"
+  - Attack: "2 talons +49"
+    Effect: "1d6+15"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: hear name, poison, possession, profane wishcraft, swarm master

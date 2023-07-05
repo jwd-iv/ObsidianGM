@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 stings +0 (1d3-1 plus 1d2 acid)
+Melee: 
+  - Attack: "2 stings +0"
+    Effect: "1d3-1 plus 1d2 acid"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: devour, soporific pollen

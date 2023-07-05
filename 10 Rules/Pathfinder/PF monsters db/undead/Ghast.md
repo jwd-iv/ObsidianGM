@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +5 (1d6+3 plus disease and paralysis) and 2 claws +5 (1d6+3 plus paralysis)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d6+3 plus disease and paralysis"
+  - Attack: "2 claws +5"
+    Effect: "1d6+3 plus paralysis"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: paralysis (1d4+1 rounds, DC 15, effects elves normally), stench

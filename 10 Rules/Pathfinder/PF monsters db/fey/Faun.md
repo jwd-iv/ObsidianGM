@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +4 (1d4+2/19-20)
+Melee: 
+  - Attack: "dagger +4"
+    Effect: "1d4+2/19-20"
 Reach: 5 ft.
-Ranged: shortbow +4 (1d6/x3)
+Ranged: 
+  - Attack: "shortbow +4"
+    Effect: "1d6/x3"
 SpecialAttacks: panpipes
 SpellLikeAbilities: Spell-Like Abilities (CL 3rd; concentration +6)   At Will-ghost sound (DC 13)   1/day-hideous laughter (DC 15), sleep (DC 14)
 STR: 14

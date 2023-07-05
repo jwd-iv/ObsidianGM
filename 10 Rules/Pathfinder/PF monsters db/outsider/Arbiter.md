@@ -35,7 +35,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: short sword +7 (1d3/19-20)
+Melee: 
+  - Attack: "short sword +7"
+    Effect: "1d3/19-20"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: electrical burst

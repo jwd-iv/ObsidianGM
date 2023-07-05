@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: touch +10 (poison)
+Melee: 
+  - Attack: "touch +10"
+    Effect: "poison"
 Reach: 5 ft.
-Ranged: spray +15 touch (poison)
+Ranged: 
+  - Attack: "spray +15 touch"
+    Effect: "poison"
 SpecialAttacks: drowning kiss
 SpellLikeAbilities: Spell-Like Abilities (CL 12th; concentration +17)   At Will-control water, suggestion (DC 18; only against creatures that are currently fascinated by her beguiling aura)   1/day-summon monster VI (water elementals only)
 STR: 11

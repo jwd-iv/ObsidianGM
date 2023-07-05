@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 gore +6 (2d4-1)
+Melee: 
+  - Attack: "+1 gore +6"
+    Effect: "2d4-1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: magic horn

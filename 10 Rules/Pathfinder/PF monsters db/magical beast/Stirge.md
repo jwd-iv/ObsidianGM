@@ -35,7 +35,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: average
 Swim: 
-Melee: touch +7 (attach)
+Melee: 
+  - Attack: "touch +7"
+    Effect: "attach"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: blood drain

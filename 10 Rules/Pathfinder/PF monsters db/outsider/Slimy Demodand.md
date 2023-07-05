@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft. (40 in armor)
 Maneuverability: average
 Swim: 
-Melee: bite +30 (1d10+9 plus 2d6 acid), 2 claws +30 (2d6+13/19- 20 plus 2d6 acid and grab)
+Melee: 
+  - Attack: "bite +30"
+    Effect: "1d10+9 plus 2d6 acid"
+  - Attack: "2 claws +30"
+    Effect: "2d6+13/19- 20 plus 2d6 acid and grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: acid, dread claws, faith-stealing strike (DC 23)

@@ -37,7 +37,15 @@ Climb:
 Fly: 80 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +28 (2d6+12), 2 claws +28 (1d8+12 plus infernal wound), 2 slams +26 (1d8+6), tail slap +26 (2d6+6)
+Melee: 
+  - Attack: "bite +28"
+    Effect: "2d6+12"
+  - Attack: "2 claws +28"
+    Effect: "1d8+12 plus infernal wound"
+  - Attack: "2 slams +26"
+    Effect: "1d8+6"
+  - Attack: "tail slap +26"
+    Effect: "2d6+6"
 Reach: 15 ft. (20 ft. with tail)
 Ranged: 
 SpecialAttacks: infernal wound

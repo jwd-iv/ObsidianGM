@@ -36,7 +36,11 @@ Climb:
 Fly: 20 ft.
 Maneuverability: poor
 Swim: 
-Melee: bite +31 (3d6+19/19-20/x3 plus grab), 2 talons +31 (1d8+13)
+Melee: 
+  - Attack: "bite +31"
+    Effect: "3d6+19/19-20/x3 plus grab"
+  - Attack: "2 talons +31"
+    Effect: "1d8+13"
 Reach: 15 ft. (20 ft. with bite)
 Ranged: 
 SpecialAttacks: deadly bite, shriek, swallow whole (3d6+19 bludgeoning plus 2d6 acid damage, AC 20, 23 hp)

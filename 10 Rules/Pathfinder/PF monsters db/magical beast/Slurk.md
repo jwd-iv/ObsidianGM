@@ -35,7 +35,9 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +4 (2d6+3)
+Melee: 
+  - Attack: "bite +4"
+    Effect: "2d6+3"
 Reach: 5 ft.
 Ranged: slime squirt +4 ranged touch
 SpecialAttacks: belly grease, slime

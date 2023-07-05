@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +2 bastard sword +20/+15/+10 (1d10+8/19-20), slam +13 (2d6+3) or   2 slams +18 (2d6+6)
+Melee: 
+  - Attack: "+2 bastard sword +20/+15/+10"
+    Effect: "1d10+8/19-20"
+  - Attack: "slam +13"
+    Effect: "2d6+3"
+  - Attack: "2 slams +18"
+    Effect: "2d6+6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

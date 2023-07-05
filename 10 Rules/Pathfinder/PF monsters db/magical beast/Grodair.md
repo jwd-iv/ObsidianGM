@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: bite +11 (1d8+4), 2 tentacles +6 (1d4+2 plus trip)
+Melee: 
+  - Attack: "bite +11"
+    Effect: "1d8+4"
+  - Attack: "2 tentacles +6"
+    Effect: "1d4+2 plus trip"
 Reach: 5 ft.
-Ranged: water blast +7 touch (1d8 plus push)
+Ranged: 
+  - Attack: "water blast +7 touch"
+    Effect: "1d8 plus push"
 SpecialAttacks: death flood, push (water blast, 5 ft.)
 SpellLikeAbilities: Spell-Like Abilities (CL 7th; concentration +9)   At Will-control water
 STR: 18

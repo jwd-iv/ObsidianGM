@@ -35,9 +35,15 @@ Climb:
 Fly: 100 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +1 scimitar +13/+8 (1d6+8/18-20) or slam +12 (1d6+7)
+Melee: 
+  - Attack: "+1 scimitar +13/+8"
+    Effect: "1d6+8/18-20"
+  - Attack: "slam +12"
+    Effect: "1d6+7"
 Reach: 5 ft.
-Ranged: +1 composite longbow +12/+7 (1d8+6/x3)
+Ranged: 
+  - Attack: "+1 composite longbow +12/+7"
+    Effect: "1d8+6/x3"
 SpecialAttacks: whirlwind blast
 SpellLikeAbilities: Spell-Like Abilities (CL 6th) At Will-blur, charm person (DC 13), gust of wind (DC 14), mirror image, wind wall 2/day-lightning bolt (DC 15), cure serious wounds
 STR: 20

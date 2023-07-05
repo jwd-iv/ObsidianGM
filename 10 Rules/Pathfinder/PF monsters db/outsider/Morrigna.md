@@ -36,7 +36,11 @@ Climb: 15 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +24 (2d6+6), 2 wrappings +19 (1d6+3 plus grab)
+Melee: 
+  - Attack: "2 slams +24"
+    Effect: "2d6+6"
+  - Attack: "2 wrappings +19"
+    Effect: "1d6+3 plus grab"
 Reach: 5 ft. (10 ft. with wrappings)
 Ranged: 
 SpecialAttacks: wrappings

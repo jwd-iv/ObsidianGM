@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: sting +7 (2d6+3)
+Melee: 
+  - Attack: "sting +7"
+    Effect: "2d6+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: shard spike +7 (3d6, range increment 60 ft.)

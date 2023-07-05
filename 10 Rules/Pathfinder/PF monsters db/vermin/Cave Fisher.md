@@ -35,9 +35,13 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +5 (1d4+3)
+Melee: 
+  - Attack: "2 claws +5"
+    Effect: "1d4+3"
 Reach: 5 ft.
-Ranged: filament +3 (drag)
+Ranged: 
+  - Attack: "filament +3"
+    Effect: "drag"
 SpecialAttacks: pull (filament, 10 feet)
 SpellLikeAbilities: 
 STR: 17

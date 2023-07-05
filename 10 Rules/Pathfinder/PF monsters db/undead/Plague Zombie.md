@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +4 (1d6+4 plus disease)
+Melee: 
+  - Attack: "slam +4"
+    Effect: "1d6+4 plus disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: death burst

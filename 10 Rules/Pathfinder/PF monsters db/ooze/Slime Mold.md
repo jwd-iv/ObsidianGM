@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +4 (1d6+4 plus disease)
+Melee: 
+  - Attack: "slam +4"
+    Effect: "1d6+4 plus disease"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: engulf (DC 14, 1d6+4 bludgeoning plus disease)

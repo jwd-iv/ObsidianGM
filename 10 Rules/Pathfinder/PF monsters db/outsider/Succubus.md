@@ -35,7 +35,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: 2 claws +11 (1d6+1)
+Melee: 
+  - Attack: "2 claws +11"
+    Effect: "1d6+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: energy drain, profane gift

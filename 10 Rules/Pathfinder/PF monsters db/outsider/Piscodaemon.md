@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: 2 claws +18 (2d6+7/18-20/x3 plus grab and 1d6 bleed), tentacles +16 (1d10+3 plus poison)
+Melee: 
+  - Attack: "2 claws +18"
+    Effect: "2d6+7/18-20/x3 plus grab and 1d6 bleed"
+  - Attack: "tentacles +16"
+    Effect: "1d10+3 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: constrict (2d6+10)

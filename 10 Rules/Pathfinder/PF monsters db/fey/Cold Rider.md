@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +2 icy burst glaive +12/+7 (1d10+6/x3 plus 1d6 cold), gore +4 (2d6+1 plus 1d6 cold)
+Melee: 
+  - Attack: "+2 icy burst glaive +12/+7"
+    Effect: "1d10+6/x3 plus 1d6 cold"
+  - Attack: "gore +4"
+    Effect: "2d6+1 plus 1d6 cold"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

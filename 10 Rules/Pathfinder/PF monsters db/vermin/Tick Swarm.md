@@ -35,7 +35,9 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: swarm (4d6 plus disease, distraction, and blood drain)
+Melee: 
+  - Attack: "swarm"
+    Effect: "4d6 plus disease, distraction, and blood drain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: blood drain (1d4 Con), cling, distraction (DC 21)

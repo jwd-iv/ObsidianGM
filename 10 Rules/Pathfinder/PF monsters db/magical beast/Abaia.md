@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 80 ft.
-Melee: bite +21 (3d6+8/19-20 plus grab), tail slap +15 (2d6+4 plus grab)
+Melee: 
+  - Attack: "bite +21"
+    Effect: "3d6+8/19-20 plus grab"
+  - Attack: "tail slap +15"
+    Effect: "2d6+4 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: constrict (2d6+12), endless coils

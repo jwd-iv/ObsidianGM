@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +3 (1d6+2), slam +3 (1d4+2 plus strangling entangle)
+Melee: 
+  - Attack: "bite +3"
+    Effect: "1d6+2"
+  - Attack: "slam +3"
+    Effect: "1d4+2 plus strangling entangle"
 Reach: 5 ft. (10 ft. with slam)
 Ranged: 
 SpecialAttacks: breath weapon (20-ft. cone, 1d10 fire, Reflex DC 12 half, usable every 1d4 rounds), explode, strangling ensnare (DC 14)

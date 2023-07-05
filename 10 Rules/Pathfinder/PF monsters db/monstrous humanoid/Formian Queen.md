@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +33 (4d8+10)
+Melee: 
+  - Attack: "2 claws +33"
+    Effect: "4d8+10"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: telepathic feedback

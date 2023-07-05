@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +9 (1d4-1 plus steal breath), touch +4 melee touch  (steal voice)
+Melee: 
+  - Attack: "bite +9"
+    Effect: "1d4-1 plus steal breath"
+  - Attack: "touch +4 melee touch"
+    Effect: "steal voice"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

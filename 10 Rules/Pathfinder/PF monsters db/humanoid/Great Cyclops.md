@@ -36,9 +36,19 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk greatclub +24/+19/+14 (3d8+19), gore +18 (1d8+6) or gore +23 (1d8+13), 2 slams +23 (2d6+13)
+Melee: 
+  - Attack: "mwk greatclub +24/+19/+14"
+    Effect: "3d8+19"
+  - Attack: "gore +18"
+    Effect: "1d8+6"
+  - Attack: "gore +23"
+    Effect: "1d8+13"
+  - Attack: "2 slams +23"
+    Effect: "2d6+13"
 Reach: 15 ft.
-Ranged: rock +12 (2d6+19)
+Ranged: 
+  - Attack: "rock +12"
+    Effect: "2d6+19"
 SpecialAttacks: powerful charge (gore, 4d8+24), rock throwing (120 ft.)
 SpellLikeAbilities: 
 STR: 36

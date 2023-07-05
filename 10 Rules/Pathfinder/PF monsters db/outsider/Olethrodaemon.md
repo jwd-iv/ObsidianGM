@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 bites +28 (2d8+12/19-20 plus grab), 4 claws +28 (2d6+12 plus grab), gore +28 (2d8+12)
+Melee: 
+  - Attack: "2 bites +28"
+    Effect: "2d8+12/19-20 plus grab"
+  - Attack: "4 claws +28"
+    Effect: "2d6+12 plus grab"
+  - Attack: "gore +28"
+    Effect: "2d8+12"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: drain soul, soul-drained breath, trample (2d8+18, DC 32)

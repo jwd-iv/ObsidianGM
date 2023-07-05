@@ -36,7 +36,9 @@ Climb:
 Fly: 20 ft.
 Maneuverability: average
 Swim: 
-Melee: slam +21 (6d6+7 plus 1d3 Wis drain)
+Melee: 
+  - Attack: "slam +21"
+    Effect: "6d6+7 plus 1d3 Wis drain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

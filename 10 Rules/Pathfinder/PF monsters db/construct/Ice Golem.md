@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +9 (1d6+3 plus 1d6 cold)
+Melee: 
+  - Attack: "2 slams +9"
+    Effect: "1d6+3 plus 1d6 cold"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (20-ft. cone, 3d6 cold damage, Reflex DC 13 half, usable once every 1d4 rounds), cold (1d6), icy destruction

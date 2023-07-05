@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: club +2 (1d4) or dagger +6 (1d3/19-20 plus poison)
+Melee: 
+  - Attack: "club +2"
+    Effect: "1d4"
+  - Attack: "dagger +6"
+    Effect: "1d3/19-20 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bardic performance (7 rounds), dark curse, death throes, sneak attack +1d6

@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +6 (1d4+6)
+Melee: 
+  - Attack: "slam +6"
+    Effect: "1d4+6"
 Reach: 5 ft.
-Ranged: net +4 (entangle, see page 147 of the Core Rulebook)
+Ranged: 
+  - Attack: "net +4"
+    Effect: "entangle, see page 147 of the Core Rulebook"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 19

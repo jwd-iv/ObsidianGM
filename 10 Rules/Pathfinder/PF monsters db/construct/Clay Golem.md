@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +19 (2d10+7 plus cursed wound)
+Melee: 
+  - Attack: "2 slams +19"
+    Effect: "2d10+7 plus cursed wound"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: berserk, haste

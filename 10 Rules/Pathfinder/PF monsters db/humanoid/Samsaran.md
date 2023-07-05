@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: spear -1 (1d6-1)
+Melee: 
+  - Attack: "spear -1"
+    Effect: "1d6-1"
 Reach: 5 ft.
-Ranged: sling +2 (1d4-1)
+Ranged: 
+  - Attack: "sling +2"
+    Effect: "1d4-1"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 1st; concentration +3)  1/day-comprehend languages, deathwatch, stabilize
 STR: 8

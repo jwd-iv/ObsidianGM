@@ -36,7 +36,11 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +15 (1d6+6), 4 tentacles +11 (1d6+3)
+Melee: 
+  - Attack: "2 claws +15"
+    Effect: "1d6+6"
+  - Attack: "4 tentacles +11"
+    Effect: "1d6+3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: rend (2 tentacles, 1d6+9 plus Wisdom drain)

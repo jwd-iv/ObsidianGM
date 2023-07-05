@@ -35,7 +35,11 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: warhammer +0 (1d4-2/x3), bite -2 (1d3-2)
+Melee: 
+  - Attack: "warhammer +0"
+    Effect: "1d4-2/x3"
+  - Attack: "bite -2"
+    Effect: "1d3-2"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: speedy sabotage, wrecking crew

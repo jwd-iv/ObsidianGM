@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: flindbar +6 (1d8+6/x2 plus disarm, trip)
+Melee: 
+  - Attack: "flindbar +6"
+    Effect: "1d8+6/x2 plus disarm, trip"
 Reach: 5 ft.
-Ranged: composite longbow +5 (1d8+4/x3)
+Ranged: 
+  - Attack: "composite longbow +5"
+    Effect: "1d8+4/x3"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 18

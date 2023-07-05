@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 1d4+2 slag blades +13 (1d8+6/19-20 plus 2d6 fire)
+Melee: 
+  - Attack: "1d4+2 slag blades +13"
+    Effect: "1d8+6/19-20 plus 2d6 fire"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: excruciating burn (DC 16), molten form, slag blades

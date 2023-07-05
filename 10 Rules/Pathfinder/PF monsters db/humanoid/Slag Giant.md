@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: warhammer +15/+10 (2d6+12/x3) or 2 slams +14 (1d8+8)
+Melee: 
+  - Attack: "warhammer +15/+10"
+    Effect: "2d6+12/x3"
+  - Attack: "2 slams +14"
+    Effect: "1d8+8"
 Reach: 10 ft.
-Ranged: rock +8 (1d8+8)
+Ranged: 
+  - Attack: "rock +8"
+    Effect: "1d8+8"
 SpecialAttacks: rock throwing (120 ft.)
 SpellLikeAbilities: 
 STR: 27

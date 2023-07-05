@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: bite +20 (2d6+10/19-20 plus grab), 4 tentacles +18 (1d8+5 plus grab), tongue +18 (1d4+5 plus grab)
+Melee: 
+  - Attack: "bite +20"
+    Effect: "2d6+10/19-20 plus grab"
+  - Attack: "4 tentacles +18"
+    Effect: "1d8+5 plus grab"
+  - Attack: "tongue +18"
+    Effect: "1d4+5 plus grab"
 Reach: 15 ft. (30 ft. with tongue)
 Ranged: 
 SpecialAttacks: constrict (tentacle, 1d6+10), swallow whole (3d6+10 damage, AC 19, hp 18)

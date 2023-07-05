@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: 2 slams +13 (2d6+3 plus grab)
+Melee: 
+  - Attack: "2 slams +13"
+    Effect: "2d6+3 plus grab"
 Reach: 5 ft.
-Ranged: mudball +12 touch (blindness)
+Ranged: 
+  - Attack: "mudball +12 touch"
+    Effect: "blindness"
 SpecialAttacks: engulf (DC 17, 1d6+3 bludgeoning and smother), smother
 SpellLikeAbilities: 
 STR: 17

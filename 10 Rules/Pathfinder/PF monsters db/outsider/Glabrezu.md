@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 pincers +20 (2d8+10/19-20), 2 claws +20 (1d6+10), bite +20 (1d8+10)
+Melee: 
+  - Attack: "2 pincers +20"
+    Effect: "2d8+10/19-20"
+  - Attack: "2 claws +20"
+    Effect: "1d6+10"
+  - Attack: "bite +20"
+    Effect: "1d8+10"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: rend (2 pincers, 2d8+15)

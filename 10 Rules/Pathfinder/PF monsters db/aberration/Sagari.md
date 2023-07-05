@@ -36,7 +36,11 @@ Climb:
 Fly: 30 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +1 (1d4-1), tentacle +1 (1d4-1)
+Melee: 
+  - Attack: "bite +1"
+    Effect: "1d4-1"
+  - Attack: "tentacle +1"
+    Effect: "1d4-1"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: baleful whinny, lashing strike

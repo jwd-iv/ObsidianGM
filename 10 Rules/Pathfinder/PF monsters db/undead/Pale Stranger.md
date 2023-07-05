@@ -38,7 +38,9 @@ Maneuverability:
 Swim: 
 Melee: 
 Reach: 5 ft.
-Ranged: +1 pistols +15/+15/+10/+10/+5 (1d8+1/19-20/x4)
+Ranged: 
+  - Attack: "+1 pistols +15/+15/+10/+10/+5"
+    Effect: "1d8+1/19-20/x4"
 SpecialAttacks: pistols, stranger's shot
 SpellLikeAbilities: 
 STR: 17

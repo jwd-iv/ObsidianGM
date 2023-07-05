@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +9 (1d8+5), 2 pincers +4 (1d6+2), sting +9 (1d6+5 plus poison)
+Melee: 
+  - Attack: "bite +9"
+    Effect: "1d8+5"
+  - Attack: "2 pincers +4"
+    Effect: "1d6+2"
+  - Attack: "sting +9"
+    Effect: "1d6+5 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: implant

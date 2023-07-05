@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: bite +27 (4d8+15/15-20 plus 4d6 cold and grab)
+Melee: 
+  - Attack: "bite +27"
+    Effect: "4d8+15/15-20 plus 4d6 cold and grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: savage bite, shore storming, swallow whole (2d8+15 bludgeoning damage plus 4d6 cold, AC 19, 18 hp)

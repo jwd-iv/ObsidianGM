@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: battleaxe +4 (1d8+1/3), claw -1 (1d4) or 2 claws +4 (1d4+1)
+Melee: 
+  - Attack: "battleaxe +4"
+    Effect: "1d8+1/3"
+  - Attack: "claw -1"
+    Effect: "1d4"
+  - Attack: "2 claws +4"
+    Effect: "1d4+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: corpse call (DC 16)

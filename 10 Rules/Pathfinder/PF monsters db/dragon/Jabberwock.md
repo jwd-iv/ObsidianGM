@@ -35,9 +35,19 @@ Climb:
 Fly: 80 ft.
 Maneuverability: poor
 Swim: 
-Melee: bite +37 (4d8+19/19-20/x3), 2 claws +37 (3d6+13/19-20 plus grab), tail slap +32 (2d8+19), 2 wings +32 (1d8+6)
+Melee: 
+  - Attack: "bite +37"
+    Effect: "4d8+19/19-20/x3"
+  - Attack: "2 claws +37"
+    Effect: "3d6+13/19-20 plus grab"
+  - Attack: "tail slap +32"
+    Effect: "2d8+19"
+  - Attack: "2 wings +32"
+    Effect: "1d8+6"
 Reach: 15 ft.
-Ranged: 2 eye rays +29 touch (15d6 fire/19-20 plus burn)
+Ranged: 
+  - Attack: "2 eye rays +29 touch"
+    Effect: "15d6 fire/19-20 plus burn"
 SpecialAttacks: burble, burn (6d6, DC 34), eye rays, whiffling
 SpellLikeAbilities: 
 STR: 37

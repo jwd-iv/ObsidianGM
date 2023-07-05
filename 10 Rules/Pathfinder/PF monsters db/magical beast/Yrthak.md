@@ -35,9 +35,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +17 (2d6+7), 2 claws +17 (1d8+7)
+Melee: 
+  - Attack: "bite +17"
+    Effect: "2d6+7"
+  - Attack: "2 claws +17"
+    Effect: "1d8+7"
 Reach: 10 ft.
-Ranged: sonic lance +12 ranged touch (8d6 sonic)
+Ranged: 
+  - Attack: "sonic lance +12 ranged touch"
+    Effect: "8d6 sonic"
 SpecialAttacks: explosion
 SpellLikeAbilities: 
 STR: 24

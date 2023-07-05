@@ -36,9 +36,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 60 ft.
-Melee: mwk spear +35/+30/+25/+20 (3d6+21/19-20/x3) or 2 slams +34 (2d6+14)
+Melee: 
+  - Attack: "mwk spear +35/+30/+25/+20"
+    Effect: "3d6+21/19-20/x3"
+  - Attack: "2 slams +34"
+    Effect: "2d6+14"
 Reach: 15 ft. (20 ft. with spear)
-Ranged: acidic missile +23 touch (4d6 acid plus nausea)
+Ranged: 
+  - Attack: "acidic missile +23 touch"
+    Effect: "4d6 acid plus nausea"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 18th; concentration +24)  Constant-fly, freedom of movement, water walk   At Will-invisibility (self only), liquid form, water breathing   3/day-charm monster (DC 20), cone of cold (DC 21), control water, polar ray
 STR: 39

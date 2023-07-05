@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 5 claws +21 (1d6+8/19-20)
+Melee: 
+  - Attack: "5 claws +21"
+    Effect: "1d6+8/19-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: rend (2 claws, 1d8+12 plus 2 Con damage)

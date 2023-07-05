@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 claws +13 (1d4+1)
+Melee: 
+  - Attack: "4 claws +13"
+    Effect: "1d4+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: body thief, sneak attack +3d6

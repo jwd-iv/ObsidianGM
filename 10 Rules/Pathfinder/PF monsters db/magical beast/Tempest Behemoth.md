@@ -36,9 +36,17 @@ Climb:
 Fly: 200 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +41 (4d6+16/19-20 plus bleed), 2 talons +41 (2d8+16 plus bleed), wings +36 (8d8+8)
+Melee: 
+  - Attack: "bite +41"
+    Effect: "4d6+16/19-20 plus bleed"
+  - Attack: "2 talons +41"
+    Effect: "2d8+16 plus bleed"
+  - Attack: "wings +36"
+    Effect: "8d8+8"
 Reach: 30 ft.
-Ranged: 6 scales +31 (1d10+16/19-20 plus bleed)
+Ranged: 
+  - Attack: "6 scales +31"
+    Effect: "1d10+16/19-20 plus bleed"
 SpecialAttacks: bleed (2d6), gale, ruinous, thunderbolt
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +22)   3/day-storm of vengeance (DC 21)
 STR: 43

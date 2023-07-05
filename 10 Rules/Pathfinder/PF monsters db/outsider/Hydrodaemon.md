@@ -35,9 +35,15 @@ Climb:
 Fly: 40 ft.
 Maneuverability: average; see glide, below
 Swim: 60 ft.
-Melee: bite +13 (1d8+4 plus grab), 2 claws +13 (1d6+4)
+Melee: 
+  - Attack: "bite +13"
+    Effect: "1d8+4 plus grab"
+  - Attack: "2 claws +13"
+    Effect: "1d6+4"
 Reach: 10 ft.
-Ranged: sleep spittle +11 (sleep)
+Ranged: 
+  - Attack: "sleep spittle +11"
+    Effect: "sleep"
 SpecialAttacks: rake (2 claws +13, 1d6+4)
 SpellLikeAbilities: Spell-Like Abilities (CL 9th; concentration +11)  Constant-detect magic, water walk   At Will-acid arrow, deeper darkness   3/day-control water, greater teleport (self plus 50 lbs. of objects only), summon monster V (Large water elemental only)   1/day-desecrate, summon (level 3, 1 hydrodaemon 50%)
 STR: 18

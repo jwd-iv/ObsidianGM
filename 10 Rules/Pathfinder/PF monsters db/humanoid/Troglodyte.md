@@ -35,9 +35,21 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: club +2 (1d6+1), claw -3 (1d4), bite -3 (1d4) or  2 claws +2 (1d4+1), bite +2 (1d4+1)
+Melee: 
+  - Attack: "club +2"
+    Effect: "1d6+1"
+  - Attack: "claw -3"
+    Effect: "1d4"
+  - Attack: "bite -3"
+    Effect: "1d4"
+  - Attack: "2 claws +2"
+    Effect: "1d4+1"
+  - Attack: "bite +2"
+    Effect: "1d4+1"
 Reach: 5 ft.
-Ranged: javelin +0 (1d6)
+Ranged: 
+  - Attack: "javelin +0"
+    Effect: "1d6"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 12

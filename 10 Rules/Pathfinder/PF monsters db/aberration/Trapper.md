@@ -36,7 +36,9 @@ Climb: 5 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +17 (3d6+15 plus grab)
+Melee: 
+  - Attack: "slam +17"
+    Effect: "3d6+15 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: constrict (3d6+15), smother (see lurker above)

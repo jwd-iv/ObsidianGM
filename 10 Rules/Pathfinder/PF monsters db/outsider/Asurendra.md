@@ -36,7 +36,11 @@ Climb: 50 ft.
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 50 ft.
-Melee: bite +33 (2d6+13 plus grab and poison), 6 claws +33 (2d6+13 plus curse)
+Melee: 
+  - Attack: "bite +33"
+    Effect: "2d6+13 plus grab and poison"
+  - Attack: "6 claws +33"
+    Effect: "2d6+13 plus curse"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: curse of false wisdom, spirit blades (+29, 3d6+7/19-20), swallow whole (4d6+19 bludgeoning plus 4d8+12 acid damage, AC 15, 38 hp)

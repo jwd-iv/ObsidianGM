@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +2 (1d6 plus 1d6 acid)
+Melee: 
+  - Attack: "slam +2"
+    Effect: "1d6 plus 1d6 acid"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: engulf, paralysis

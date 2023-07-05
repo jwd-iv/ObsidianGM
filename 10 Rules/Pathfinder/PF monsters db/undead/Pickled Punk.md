@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +4 (1d3-4 plus attach)
+Melee: 
+  - Attack: "bite +4"
+    Effect: "1d3-4 plus attach"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: attach, death throes, irritant

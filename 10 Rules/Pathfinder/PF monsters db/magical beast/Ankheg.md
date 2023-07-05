@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +5 (2d6+4 plus 1d4 acid and grab)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "2d6+4 plus 1d4 acid and grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: spit acid

@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: Huge club +20/+15 (2d6+11 plus disease), slam +15 (1d8+5 plus disease) or   2 slams +20 (1d8+11 plus disease)
+Melee: 
+  - Attack: "Huge club +20/+15"
+    Effect: "2d6+11 plus disease"
+  - Attack: "slam +15"
+    Effect: "1d8+5 plus disease"
+  - Attack: "2 slams +20"
+    Effect: "1d8+11 plus disease"
 Reach: 10 ft.
-Ranged: rock +12 (1d8+16 plus disease)
+Ranged: 
+  - Attack: "rock +12"
+    Effect: "1d8+16 plus disease"
 SpecialAttacks: disease, rock throwing (120 ft.)
 SpellLikeAbilities: 
 STR: 33

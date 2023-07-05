@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: heavy flail +7 (2d8+7/19-20)
+Melee: 
+  - Attack: "heavy flail +7"
+    Effect: "2d8+7/19-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

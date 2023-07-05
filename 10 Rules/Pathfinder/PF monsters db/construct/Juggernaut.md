@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +24 (4d6+19 plus wounding)
+Melee: 
+  - Attack: "slam +24"
+    Effect: "4d6+19 plus wounding"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: soul-powered, vicious trample (8d6+38 plus wounding, DC 30)

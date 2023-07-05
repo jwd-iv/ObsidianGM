@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +28 (3d6+15/19-20 plus 4d6 cold)
+Melee: 
+  - Attack: "2 claws +28"
+    Effect: "3d6+15/19-20 plus 4d6 cold"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: channel energy (8d6, DC 29, 8/day), fear gaze, swift sundering

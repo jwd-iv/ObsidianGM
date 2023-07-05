@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: 2 chains +17 (2d6+7 plus 1d6 electricity and trip)
+Melee: 
+  - Attack: "2 chains +17"
+    Effect: "2d6+7 plus 1d6 electricity and trip"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

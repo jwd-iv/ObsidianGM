@@ -35,9 +35,15 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk heavy mace +9/+4 (1d8+3), bite +3 (1d4+1 plus poison)
+Melee: 
+  - Attack: "mwk heavy mace +9/+4"
+    Effect: "1d8+3"
+  - Attack: "bite +3"
+    Effect: "1d4+1 plus poison"
 Reach: 5 ft.
-Ranged: mwk composite longbow +8/+3 (1d8+2/x3)
+Ranged: 
+  - Attack: "mwk composite longbow +8/+3"
+    Effect: "1d8+2/x3"
 SpecialAttacks: web (+7 ranged, DC 18, hp 9)
 SpellLikeAbilities: Spell-Like Abilities (CL 9th)  Constant-detect good, detect law, detect magic At will-dancing lights, darkness, faerie fire  1/day-clairaudience/clairvoyance, deeper darkness, dispel magic, levitate, suggestion (DC 16)
 STR: 15

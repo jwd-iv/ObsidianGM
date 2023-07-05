@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 tail lashes +22 (4d6+15/19-20)
+Melee: 
+  - Attack: "2 tail lashes +22"
+    Effect: "4d6+15/19-20"
 Reach: 60 ft.
 Ranged: 
 SpecialAttacks: trample (2d8+22, DC 35)

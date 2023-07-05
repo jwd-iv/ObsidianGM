@@ -36,7 +36,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +17 (6d8+22 plus poison)
+Melee: 
+  - Attack: "bite +17"
+    Effect: "6d8+22 plus poison"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: poison, poisoned web (+13 ranged, DC 23, 14 hp), trample (4d8+22, DC 32)

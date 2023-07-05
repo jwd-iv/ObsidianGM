@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +7 (1d6+3), 2 claws +7 (1d3+3), snakes +2 (1d4+1)
+Melee: 
+  - Attack: "bite +7"
+    Effect: "1d6+3"
+  - Attack: "2 claws +7"
+    Effect: "1d3+3"
+  - Attack: "snakes +2"
+    Effect: "1d4+1"
 Reach: 5 ft. (10 ft. with snakes)
 Ranged: 
 SpecialAttacks: breath weapon (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), pounce

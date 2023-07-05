@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +2 (1d6+3 plus allergic reaction)
+Melee: 
+  - Attack: "bite +2"
+    Effect: "1d6+3 plus allergic reaction"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

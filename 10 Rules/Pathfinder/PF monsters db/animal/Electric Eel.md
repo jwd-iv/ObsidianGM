@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: bite +3 (1d6+1) and tail -2 touch (1d6 electricity)
+Melee: 
+  - Attack: "bite +3"
+    Effect: "1d6+1"
+  - Attack: "tail -2 touch"
+    Effect: "1d6 electricity"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

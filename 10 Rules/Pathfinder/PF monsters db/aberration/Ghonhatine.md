@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +16 (1d6+8), bite +16 (2d6+8), tail slap +14 (1d8+4)
+Melee: 
+  - Attack: "2 claws +16"
+    Effect: "1d6+8"
+  - Attack: "bite +16"
+    Effect: "2d6+8"
+  - Attack: "tail slap +14"
+    Effect: "1d8+4"
 Reach: 10 ft. (15 ft. with tail)
-Ranged: regurgitate +6 (2d6 acid plus filth fever)
+Ranged: 
+  - Attack: "regurgitate +6"
+    Effect: "2d6 acid plus filth fever"
 SpecialAttacks: feed, filth fever
 SpellLikeAbilities: 
 STR: 27

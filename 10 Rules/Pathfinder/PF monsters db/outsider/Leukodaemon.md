@@ -35,9 +35,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +16 (1d8+7), 2 claws +16 (1d6+7)
+Melee: 
+  - Attack: "bite +16"
+    Effect: "1d8+7"
+  - Attack: "2 claws +16"
+    Effect: "1d6+7"
 Reach: 10 ft.
-Ranged: +1 composite longbow +18/+13 (2d6+8/x3 plus contagion)
+Ranged: 
+  - Attack: "+1 composite longbow +18/+13"
+    Effect: "2d6+8/x3 plus contagion"
 SpecialAttacks: breath of flies
 SpellLikeAbilities: Spell-Like Abilities (CL 10th; concentration +13)  Constant-deathwatch, detect good   At Will-contagion (DC 17), dispel magic, greater teleport (self plus 50 lbs. of objects only)   1/day-harm (DC 19), summon (level 3, 1 leukodaemon only, 35%)
 STR: 25

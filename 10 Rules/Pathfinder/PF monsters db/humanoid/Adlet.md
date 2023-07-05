@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 spear +17/+12/+7 (1d8+7/x3), bite +10 (1d6+2 plus 1d6 cold)
+Melee: 
+  - Attack: "+1 spear +17/+12/+7"
+    Effect: "1d8+7/x3"
+  - Attack: "bite +10"
+    Effect: "1d6+2 plus 1d6 cold"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: frozen breath

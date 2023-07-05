@@ -36,9 +36,15 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +5 (1d6+1), 2 claws +5 (1d4+1)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d6+1"
+  - Attack: "2 claws +5"
+    Effect: "1d4+1"
 Reach: 5 ft.
-Ranged: longbow +6 (1d8/x3)
+Ranged: 
+  - Attack: "longbow +6"
+    Effect: "1d8/x3"
 SpecialAttacks: rend (2 claws 1d4 +1)
 SpellLikeAbilities: Spell-Like Abilities (CL 4th; concentration +4)  Constant-pass without trace
 STR: 13

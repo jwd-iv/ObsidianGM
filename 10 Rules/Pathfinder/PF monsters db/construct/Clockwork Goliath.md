@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 slams +41 (3d6+17)
+Melee: 
+  - Attack: "4 slams +41"
+    Effect: "3d6+17"
 Reach: 20 ft.
-Ranged: cannon +29/+24/+19/+14 (6d6/x4)
+Ranged: 
+  - Attack: "cannon +29/+24/+19/+14"
+    Effect: "6d6/x4"
 SpecialAttacks: self-destruction, trample (3d6+25, DC 41)
 SpellLikeAbilities: 
 STR: 45

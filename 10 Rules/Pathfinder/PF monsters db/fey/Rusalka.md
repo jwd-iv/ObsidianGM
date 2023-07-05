@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: staggering touch +16 (stagger), 4 tresses +16 (2d6+5 plus grab)
+Melee: 
+  - Attack: "staggering touch +16"
+    Effect: "stagger"
+  - Attack: "4 tresses +16"
+    Effect: "2d6+5 plus grab"
 Reach: 5 ft. (15 ft. with tresses)
 Ranged: 
 SpecialAttacks: beckoning call, constrict (2d6+7), tresses

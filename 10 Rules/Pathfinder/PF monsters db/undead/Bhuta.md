@@ -36,7 +36,9 @@ Climb:
 Fly: 30 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 incorporeal claws +17 (5d8 plus bleed)
+Melee: 
+  - Attack: "2 incorporeal claws +17"
+    Effect: "5d8 plus bleed"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed (1d8), blood drain (1d6 Constitution)

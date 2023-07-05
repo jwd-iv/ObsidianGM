@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: slam +6 (1d2-3), 2 wings +6 (1d1-3 plus daze)
+Melee: 
+  - Attack: "slam +6"
+    Effect: "1d2-3"
+  - Attack: "2 wings +6"
+    Effect: "1d1-3 plus daze"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: daze, tears of anguish

@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk quarterstaff +7 (1d6+2), mwk quarterstaff +7 (1d6+1), slam +2 (1d6+1)
+Melee: 
+  - Attack: "mwk quarterstaff +7"
+    Effect: "1d6+2"
+  - Attack: "mwk quarterstaff +7"
+    Effect: "1d6+1"
+  - Attack: "slam +2"
+    Effect: "1d6+1"
 Reach: 5 ft.
-Ranged: sling +8 (1d4+2)
+Ranged: 
+  - Attack: "sling +8"
+    Effect: "1d4+2"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 7th; concentration +11)  Constant-detect poison   At Will-purify food and drink   3/day-magic stone, major creation (up to 1 cubic foot)   1/day-create food and water, shrink item, veil (self only)
 STR: 14

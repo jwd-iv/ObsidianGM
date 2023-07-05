@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk longsword +8 (1d8+4/19-20), slam +2 (1d6+2 plus grab)
+Melee: 
+  - Attack: "mwk longsword +8"
+    Effect: "1d8+4/19-20"
+  - Attack: "slam +2"
+    Effect: "1d6+2 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: blood drain (1 Constitution), sneak attack +2d6

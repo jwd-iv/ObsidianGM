@@ -36,9 +36,17 @@ Climb:
 Fly: 120 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +32 (2d8+12 plus 2d6 fire), 2 claws +32 (2d8+12 plus 2d6 fire), tail slap +30 (1d4+6 plus banishing swipe)
+Melee: 
+  - Attack: "bite +32"
+    Effect: "2d8+12 plus 2d6 fire"
+  - Attack: "2 claws +32"
+    Effect: "2d8+12 plus 2d6 fire"
+  - Attack: "tail slap +30"
+    Effect: "1d4+6 plus banishing swipe"
 Reach: 20 ft.
-Ranged: glaring ray +23 touch (20d6 fire)
+Ranged: 
+  - Attack: "glaring ray +23 touch"
+    Effect: "20d6 fire"
 SpecialAttacks: banishing swipe, glaring ray, radiant feathers
 SpellLikeAbilities: Spell-Like Abilities (CL 16th; concentration +22)  Constant-detect evil, detect magic, tongues   At Will-daylight, zone of truth (DC 18)   3/day-flame strike (DC 21), mass cure critical wounds
 STR: 34

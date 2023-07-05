@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: bite +8 (1d6+1 plus trip), 4 claws +7 (1d3+1)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "1d6+1 plus trip"
+  - Attack: "4 claws +7"
+    Effect: "1d3+1"
 Reach: 5 ft. (10 ft. with bite)
 Ranged: 
 SpecialAttacks: blood-freezing howl, pounce

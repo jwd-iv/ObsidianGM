@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +5 (1d8+6)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d8+6"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: sudden charge

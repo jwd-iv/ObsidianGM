@@ -35,7 +35,11 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +8 (1d3-2), tail slap +3 (1d3-2 plus confusion)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "1d3-2"
+  - Attack: "tail slap +3"
+    Effect: "1d3-2 plus confusion"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: 

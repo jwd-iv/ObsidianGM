@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +14 (1d6+2 plus 1d6 Dexterity drain),  2 claws +14 (1d4+2)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "1d6+2 plus 1d6 Dexterity drain"
+  - Attack: "2 claws +14"
+    Effect: "1d4+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: sneak attack +5d6

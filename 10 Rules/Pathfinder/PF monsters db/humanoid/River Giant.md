@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: spear +11/+6 (2d6+7/x3) or 2 slams +10 (1d8+5)
+Melee: 
+  - Attack: "spear +11/+6"
+    Effect: "2d6+7/x3"
+  - Attack: "2 slams +10"
+    Effect: "1d8+5"
 Reach: 10 ft.
-Ranged: rock +6 (1d8+5)
+Ranged: 
+  - Attack: "rock +6"
+    Effect: "1d8+5"
 SpecialAttacks: rock throwing (100 ft.)
 SpellLikeAbilities: 
 STR: 20

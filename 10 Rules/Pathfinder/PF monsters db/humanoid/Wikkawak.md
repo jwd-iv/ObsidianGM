@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: battleaxe +9 (1d8+7/x3)
+Melee: 
+  - Attack: "battleaxe +9"
+    Effect: "1d8+7/x3"
 Reach: 5 ft.
-Ranged: javelin +7 (1d6+5)
+Ranged: 
+  - Attack: "javelin +7"
+    Effect: "1d6+5"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 4th; concentration +5)   3/day-quench
 STR: 20

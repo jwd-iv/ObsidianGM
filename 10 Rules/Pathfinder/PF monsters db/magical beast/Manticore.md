@@ -35,9 +35,15 @@ Climb:
 Fly: 50 ft.
 Maneuverability: clumsy
 Swim: 
-Melee: bite +10 (1d8+5), 2 claws +10 (2d4+5)
+Melee: 
+  - Attack: "bite +10"
+    Effect: "1d8+5"
+  - Attack: "2 claws +10"
+    Effect: "2d4+5"
 Reach: 5 ft.
-Ranged: 4 spikes +8 (1d6+5)
+Ranged: 
+  - Attack: "4 spikes +8"
+    Effect: "1d6+5"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 20

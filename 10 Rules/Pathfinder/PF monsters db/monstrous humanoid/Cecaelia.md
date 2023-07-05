@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft. (jet 200)
-Melee: mwk spear +11/+6 (1d8+4/x3), 2 tentacles +5 (1d4+1 plus grab)
+Melee: 
+  - Attack: "mwk spear +11/+6"
+    Effect: "1d8+4/x3"
+  - Attack: "2 tentacles +5"
+    Effect: "1d4+1 plus grab"
 Reach: 5 ft. (10 ft. with tentacles)
-Ranged: mwk spear +12 (1d8+3/x3)
+Ranged: 
+  - Attack: "mwk spear +12"
+    Effect: "1d8+3/x3"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 16

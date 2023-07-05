@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: sting +7 (1d4-1 plus poison)
+Melee: 
+  - Attack: "sting +7"
+    Effect: "1d4-1 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

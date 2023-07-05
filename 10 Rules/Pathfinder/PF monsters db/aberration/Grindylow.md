@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft. (jet 200)
-Melee: spear +2 (1d6+1/x3), bite -2 (1d3)
+Melee: 
+  - Attack: "spear +2"
+    Effect: "1d6+1/x3"
+  - Attack: "bite -2"
+    Effect: "1d3"
 Reach: 5 ft.
-Ranged: spear +3 (1d6+1/x3)
+Ranged: 
+  - Attack: "spear +3"
+    Effect: "1d6+1/x3"
 SpecialAttacks: tangling tentacles
 SpellLikeAbilities: 
 STR: 12

@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +2 frost quarterstaff +15/+10 (1d6+6 plus 1d6 cold) or 2 claws +13 (1d4+3)
+Melee: 
+  - Attack: "+2 frost quarterstaff +15/+10"
+    Effect: "1d6+6 plus 1d6 cold"
+  - Attack: "2 claws +13"
+    Effect: "1d4+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (30-ft. cone, 4d6 cold and blinded for 1d6 rounds, Reflex DC 18 partial, usable every 1d4 round)

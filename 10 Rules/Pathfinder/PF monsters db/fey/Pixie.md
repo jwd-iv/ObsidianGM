@@ -35,9 +35,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: short sword +8  (1d4-2/19-20)
+Melee: 
+  - Attack: "short sword +8"
+    Effect: "1d4-2/19-20"
 Reach: 5 ft.
-Ranged: longbow +8  (1d6-2/×3)
+Ranged: 
+  - Attack: "longbow +8"
+    Effect: "1d6-2/×3"
 SpecialAttacks: special arrows
 SpellLikeAbilities: Spell-Like Abilities (CL 8th)  Constant-detect chaos, detect evil, detect good, detect law  1/day-dancing lights, detect thoughts (DC 15), dispel magic, entangle (DC 14), lesser confusion (DC 14), permanent image (DC 19; visual and auditory elements only), shield
 STR: 7

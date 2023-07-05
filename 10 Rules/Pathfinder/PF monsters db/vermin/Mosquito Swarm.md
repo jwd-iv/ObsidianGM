@@ -35,7 +35,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: good
 Swim: 
-Melee: swarm (2d6 plus disease and bleed)
+Melee: 
+  - Attack: "swarm"
+    Effect: "2d6 plus disease and bleed"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed (1d6), disease (malaria, DC 13), distraction (DC 13)

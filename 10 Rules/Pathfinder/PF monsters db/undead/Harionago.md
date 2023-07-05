@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +15 (1d6+4/19-20 plus paralysis), 4 hair barbs +12 (1d6+2/19-20 plus bleed)
+Melee: 
+  - Attack: "2 claws +15"
+    Effect: "1d6+4/19-20 plus paralysis"
+  - Attack: "4 hair barbs +12"
+    Effect: "1d6+2/19-20 plus bleed"
 Reach: 5 ft. (10 ft. with hair barbs)
 Ranged: 
 SpecialAttacks: bleed (5), infectious laughter, paralysis (1d4+1 rounds, DC 23)

@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 touches +2 (1 plus bleed)
+Melee: 
+  - Attack: "2 touches +2"
+    Effect: "1 plus bleed"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed (1d6), compel courage, unnerving gaze (30 ft., DC 19)

@@ -36,7 +36,9 @@ Climb:
 Fly: 30 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 touches +10 (4d6 cold plus chilling touch)
+Melee: 
+  - Attack: "2 touches +10"
+    Effect: "4d6 cold plus chilling touch"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: chilling touch, fascinating gaze

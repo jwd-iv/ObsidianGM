@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +10 (1d8+6 plus adhesive)
+Melee: 
+  - Attack: "slam +10"
+    Effect: "1d8+6 plus adhesive"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: constrict (slam, 1d8+6)

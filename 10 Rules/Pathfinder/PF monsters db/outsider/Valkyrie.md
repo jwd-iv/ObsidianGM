@@ -36,9 +36,13 @@ Climb:
 Fly: 100 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +2 returning spear +23/+18/+13/+8 (1d8+8/x3)
+Melee: 
+  - Attack: "+2 returning spear +23/+18/+13/+8"
+    Effect: "1d8+8/x3"
 Reach: 5 ft.
-Ranged: +2 returning spear +22 (1d8+6/x3)
+Ranged: 
+  - Attack: "+2 returning spear +22"
+    Effect: "1d8+6/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 12th; concentration +18)  Constant-deathwatch, tongues   At Will-aid, death ward, gentle repose, plane shift (self and mount only)   3/day-call lightning storm (DC 21), divine power, geas/quest   1/day-breath of life, heal, summon (level 8, 1 sleipnir 100%)
 STR: 18

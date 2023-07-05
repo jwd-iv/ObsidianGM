@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk heavy pick +9 (1d4+6/x4)
+Melee: 
+  - Attack: "mwk heavy pick +9"
+    Effect: "1d4+6/x4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: earth mastery, pech magic, stone knowledge

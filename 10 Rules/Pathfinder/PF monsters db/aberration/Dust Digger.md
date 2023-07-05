@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +5 (1d8+3 plus grab), 5 tentacles +3 (1d4+1 plus grab)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d8+3 plus grab"
+  - Attack: "5 tentacles +3"
+    Effect: "1d4+1 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: sinkhole, swallow whole (2d8+4 bludgeoning, AC 13, 4 hp)

@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +1 pliers +8 (1d4-2/ 19-20/x2), bite +7 (1d4-3 plus paralysis)
+Melee: 
+  - Attack: "+1 pliers +8"
+    Effect: "1d4-2/ 19-20/x2"
+  - Attack: "bite +7"
+    Effect: "1d4-3 plus paralysis"
 Reach: 0 ft. (5 ft. with pliers)
 Ranged: 
 SpecialAttacks: death throes, paralysis (1d3 rounds, DC 11), pliers, tricky thief

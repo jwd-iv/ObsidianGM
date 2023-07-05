@@ -35,7 +35,11 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 claws +31 (4d6+15/19-20 plus grab), 4 wings +26 (2d8+7)
+Melee: 
+  - Attack: "2 claws +31"
+    Effect: "4d6+15/19-20 plus grab"
+  - Attack: "4 wings +26"
+    Effect: "2d8+7"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: abyssal transformation, entropic beams, horrific appearance (DC 30)

@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +25 (1d6+4 plus siphon), 2 slams +25 (1d4+4)
+Melee: 
+  - Attack: "bite +25"
+    Effect: "1d6+4 plus siphon"
+  - Attack: "2 slams +25"
+    Effect: "1d4+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: droning wings, siphon, sneak attack +4d6

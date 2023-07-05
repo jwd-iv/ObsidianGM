@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +14 (1d8+7 plus grab)
+Melee: 
+  - Attack: "2 claws +14"
+    Effect: "1d8+7 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: baleful shriek, constrict (1d6+7)

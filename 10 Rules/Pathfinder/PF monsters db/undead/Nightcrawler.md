@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +32 (4d10+18/19-20 plus 4d6 cold and grab), sting +32 (4d6+18/19-20 plus 4d6 cold and poison)
+Melee: 
+  - Attack: "bite +32"
+    Effect: "4d10+18/19-20 plus 4d6 cold and grab"
+  - Attack: "sting +32"
+    Effect: "4d6+18/19-20 plus 4d6 cold and poison"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: channel negative energy (9d6, DC 31, 9/day), energy drain (1 level, DC 28), swallow whole (4d10+22 bludgeoning plus energy drain, AC 23, 31 hp)

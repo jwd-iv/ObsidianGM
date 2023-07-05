@@ -36,7 +36,11 @@ Climb:
 Fly: 120 ft.
 Maneuverability: good
 Swim: 
-Melee: gore +14 (1d8+5), 2 hooves +8 (1d6+2)
+Melee: 
+  - Attack: "gore +14"
+    Effect: "1d8+5"
+  - Attack: "2 hooves +8"
+    Effect: "1d6+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (15-ft. cone, 5d6 fire damage, Reflex DC 18 for half, usable every 1d4 rounds), powerful charge (gore, 2d8+14)

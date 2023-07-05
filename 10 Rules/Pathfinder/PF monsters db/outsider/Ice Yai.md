@@ -36,9 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 4 slams +24 (2d8+9)
+Melee: 
+  - Attack: "4 slams +24"
+    Effect: "2d8+9"
 Reach: 10 ft.
-Ranged: icy missile +17 touch (4d6 cold)
+Ranged: 
+  - Attack: "icy missile +17 touch"
+    Effect: "4d6 cold"
 SpecialAttacks: staggering strikes
 SpellLikeAbilities: Spell-Like Abilities (CL 18th; concentration +22)  Constant-fly, mage armor   At Will-darkness, invisibility (self only)   3/day- charm monster (DC 18), cone of cold (DC 19), deep slumber (DC 17), gaseous form (self only)   1/day-polar ray, solid fog
 STR: 29

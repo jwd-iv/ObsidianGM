@@ -36,7 +36,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +3 (1d4 plus 1d8 acid)
+Melee: 
+  - Attack: "slam +3"
+    Effect: "1d4 plus 1d8 acid"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: acid, stink

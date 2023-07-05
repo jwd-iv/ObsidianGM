@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: +1 flaming greatsword +17/+12/+7 (2d6+7/19-20 plus 1d6 fire)
+Melee: 
+  - Attack: "+1 flaming greatsword +17/+12/+7"
+    Effect: "2d6+7/19-20 plus 1d6 fire"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

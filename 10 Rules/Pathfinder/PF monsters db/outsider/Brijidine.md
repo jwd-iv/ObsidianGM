@@ -35,9 +35,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: +1 flaming burst keen longsword +25/+20/+15/+10 (1d8+8/17-20 plus 1d6 fire and burn)
+Melee: 
+  - Attack: "+1 flaming burst keen longsword +25/+20/+15/+10"
+    Effect: "1d8+8/17-20 plus 1d6 fire and burn"
 Reach: 5 ft.
-Ranged: lava blast +24 (16d6 fire plus burn and entrap)
+Ranged: 
+  - Attack: "lava blast +24"
+    Effect: "16d6 fire plus burn and entrap"
 SpecialAttacks: entrap (DC 26, instantaneous, hardness 8, hp 30), burn (2d6, DC 26), trample (1d8+7, DC 24)
 SpellLikeAbilities: Spell-Like Abilities (CL 19th; concentration +25)  Constant-holy aura (DC 24)   At Will-flaming sphere (DC 18), heat metal (DC 18), meld into stone (self only), soften earth and stone, stone shape   5/day-cure serious wounds, flame strike (DC 21), move earth, spike stones (DC 20), stone tell, summon nature's ally V (earth and fire elementals only), wall of stone (DC 22)   3/day-earthquake, fire storm (DC 23), heal, stoneskin, wall of fire
 STR: 20

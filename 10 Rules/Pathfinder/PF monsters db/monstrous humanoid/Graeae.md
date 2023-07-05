@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 claw +8 (1d6+2)
+Melee: 
+  - Attack: "2 claw +8"
+    Effect: "1d6+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: luck ripple, mythic power (2/day, surge +1d6)

@@ -35,7 +35,9 @@ Climb: 10 ft.
 Fly: 
 Maneuverability: 
 Swim: 20 ft.
-Melee: swarm (1d6 acid plus distraction)
+Melee: 
+  - Attack: "swarm"
+    Effect: "1d6 acid plus distraction"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: distraction (DC 11)

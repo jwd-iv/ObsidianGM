@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +18 (3d6+4)
+Melee: 
+  - Attack: "2 slams +18"
+    Effect: "3d6+4"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: drain memory, quivering palm (1/day, DC 25), stunning fist (4/day, DC 25)

@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +14 (1d4+2 plus poison)
+Melee: 
+  - Attack: "2 claws +14"
+    Effect: "1d4+2 plus poison"
 Reach: 5 ft.
-Ranged: 2 quills +15 (1d4+2 plus poison)
+Ranged: 
+  - Attack: "2 quills +15"
+    Effect: "1d4+2 plus poison"
 SpecialAttacks: sneak attack +3d6, spawn undead
 SpellLikeAbilities: Spell-Like Abilities (CL 10th; concentration +14)  Constant-deathwatch, detect good, detect magic   At Will-command undead (DC 16), produce flame   3/day-animate dead, death knell (DC 16), invisibility, ray of enfeeblement (DC 15), scare (DC 16)   1/day-nondetection (DC 17)
 STR: 14

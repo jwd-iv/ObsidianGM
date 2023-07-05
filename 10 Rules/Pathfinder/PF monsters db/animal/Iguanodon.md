@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +13 (1d8+8/x3)
+Melee: 
+  - Attack: "2 claws +13"
+    Effect: "1d8+8/x3"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: thumb spikes

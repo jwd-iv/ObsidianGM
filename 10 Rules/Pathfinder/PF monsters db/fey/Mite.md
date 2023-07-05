@@ -35,9 +35,13 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +0 (1d3-1/19-20)
+Melee: 
+  - Attack: "dagger +0"
+    Effect: "1d3-1/19-20"
 Reach: 5 ft.
-Ranged: dart +2 (1d3-1)
+Ranged: 
+  - Attack: "dart +2"
+    Effect: "1d3-1"
 SpecialAttacks: hatred
 SpellLikeAbilities: Spell-Like Abilities (CL 1st)  At will-prestidigitation  1/day-doom (DC 10)
 STR: 8

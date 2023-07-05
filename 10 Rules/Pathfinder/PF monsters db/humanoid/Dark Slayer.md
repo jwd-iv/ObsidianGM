@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: kukri +8 (1d3-1/18-20 plus black smear poison)
+Melee: 
+  - Attack: "kukri +8"
+    Effect: "1d3-1/18-20 plus black smear poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: death throes, poison use, sneak attack +2d6, soul harvest

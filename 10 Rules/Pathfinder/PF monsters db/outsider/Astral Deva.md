@@ -35,7 +35,11 @@ Climb:
 Fly: 100 ft.
 Maneuverability: good
 Swim: 
-Melee: +2 disrupting warhammer +26/+21/+16 (1d8+14/x3 plus stun) or slam +23 (1d8+12)
+Melee: 
+  - Attack: "+2 disrupting warhammer +26/+21/+16"
+    Effect: "1d8+14/x3 plus stun"
+  - Attack: "slam +23"
+    Effect: "1d8+12"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

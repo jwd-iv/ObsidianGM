@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +8 (2d6+9)
+Melee: 
+  - Attack: "slam +8"
+    Effect: "2d6+9"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: clobbering charge

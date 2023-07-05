@@ -35,7 +35,9 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +4 melee (1d3-4)
+Melee: 
+  - Attack: "bite +4 melee"
+    Effect: "1d3-4"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: 

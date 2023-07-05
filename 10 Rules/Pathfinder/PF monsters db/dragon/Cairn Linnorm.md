@@ -36,7 +36,13 @@ Climb: 40 ft.
 Fly: 100 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +29 (3d8+13/19-20 plus poison), 2 claws +29 (2d6+13), tail +24 (3d6+6 plus grab)
+Melee: 
+  - Attack: "bite +29"
+    Effect: "3d8+13/19-20 plus poison"
+  - Attack: "2 claws +29"
+    Effect: "2d6+13"
+  - Attack: "tail +24"
+    Effect: "3d6+6 plus grab"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: breath weapon, constrict (tail, 2d6+19), death curse

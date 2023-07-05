@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 80 ft.
-Melee: +1 shocking burst shortspear  +28/+23/+18/+13 (1d6+10 plus 1d6  electricity), tail slap +22 (1d6+4 plus  push and stun)
+Melee: 
+  - Attack: "+1 shocking burst shortspear  +28/+23/+18/+13"
+    Effect: "1d6+10 plus 1d6  electricity"
+  - Attack: "tail slap +22"
+    Effect: "1d6+4 plus  push and stun"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: shockwave, push (tail slap, 10 ft.)

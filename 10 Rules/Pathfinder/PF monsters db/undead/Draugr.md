@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: greataxe +5 (1d12+4/x3 plus nausea) or  slam +5 (1d10+4 plus nausea)
+Melee: 
+  - Attack: "greataxe +5"
+    Effect: "1d12+4/x3 plus nausea"
+  - Attack: "slam +5"
+    Effect: "1d10+4 plus nausea"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

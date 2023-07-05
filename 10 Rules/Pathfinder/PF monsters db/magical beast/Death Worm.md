@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +11 (2d8+6 plus poison)
+Melee: 
+  - Attack: "bite +11"
+    Effect: "2d8+6 plus poison"
 Reach: 5 ft.
-Ranged: electrical jolt +8 ranged touch (4d6 electricity)
+Ranged: 
+  - Attack: "electrical jolt +8 ranged touch"
+    Effect: "4d6 electricity"
 SpecialAttacks: breath weapon (30-ft. line, 8d6 acid damage, Reflex DC 17 for half, usable every 1d4 rounds)
 SpellLikeAbilities: 
 STR: 18

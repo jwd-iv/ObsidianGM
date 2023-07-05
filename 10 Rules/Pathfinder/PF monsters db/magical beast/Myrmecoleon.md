@@ -36,7 +36,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mandibles +14 (4d8+9/19-20 plus grab)
+Melee: 
+  - Attack: "mandibles +14"
+    Effect: "4d8+9/19-20 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: blood drain (1d2 Con), constrict (4d8+9), death throes, mythic power (3/day, surge +1d6), scalding spray, trample (2d8+9, DC 21)

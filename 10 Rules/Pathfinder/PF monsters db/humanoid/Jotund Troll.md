@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: club +20/+15/+10 (2d6+10/19-20), bite +15 (2d6+5 plus grab), claw +15 (1d8+5 plus grab)
+Melee: 
+  - Attack: "club +20/+15/+10"
+    Effect: "2d6+10/19-20"
+  - Attack: "bite +15"
+    Effect: "2d6+5 plus grab"
+  - Attack: "claw +15"
+    Effect: "1d8+5 plus grab"
 Reach: 15 ft.
-Ranged: rock +10 (2d8+15)
+Ranged: 
+  - Attack: "rock +10"
+    Effect: "2d8+15"
 SpecialAttacks: all-seeing attacks, cacophonous roar, fast swallow, rock throwing (120 ft.), swallow whole (4d6+15 bludgeoning, AC 21, 21 hp)
 SpellLikeAbilities: 
 STR: 31

@@ -35,7 +35,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 60 ft.
-Melee: bite +35 (5d10+22/19-20 plus 4d6 cold, energy drain, and grab), tail slap +30 (4d8+12/19-20 plus 4d6 cold)
+Melee: 
+  - Attack: "bite +35"
+    Effect: "5d10+22/19-20 plus 4d6 cold, energy drain, and grab"
+  - Attack: "tail slap +30"
+    Effect: "4d8+12/19-20 plus 4d6 cold"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: channel energy (10d6, DC 33, 10/day), energy drain (2 levels, DC 31), swallow whole (5d10+28 bludgeoning plus energy drain, AC 25, 39 hp)

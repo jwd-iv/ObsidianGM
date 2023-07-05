@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +22 (2d8+10 plus grab), 2 claws +23 (2d6+10/19-20)
+Melee: 
+  - Attack: "bite +22"
+    Effect: "2d8+10 plus grab"
+  - Attack: "2 claws +23"
+    Effect: "2d6+10/19-20"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: breath weapon (30-ft. cone, 12d6 bludgeoning damage, Reflex DC 24 half, usable every 1d4 rounds), corpse consumption, swallow whole (6d6 bludgeoning damage, AC 20, 18 hp)

@@ -36,7 +36,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 3 blades +4 (1d4-1)
+Melee: 
+  - Attack: "3 blades +4"
+    Effect: "1d4-1"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: wrath

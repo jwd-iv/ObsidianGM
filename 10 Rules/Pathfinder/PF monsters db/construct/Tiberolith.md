@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +19 (3d8+8)
+Melee: 
+  - Attack: "2 slams +19"
+    Effect: "3d8+8"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: corrosive strikes, shockwave

@@ -35,7 +35,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: poor
 Swim: 
-Melee: spear +2 (1d6+1/x3)
+Melee: 
+  - Attack: "spear +2"
+    Effect: "1d6+1/x3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

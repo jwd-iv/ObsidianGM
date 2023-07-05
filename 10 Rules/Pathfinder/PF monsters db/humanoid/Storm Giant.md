@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft. (30 in armor)
-Melee: mwk greatsword +27/+22/+17 (4d6+21/17-20) or  2 slams +26 (2d6+14)
+Melee: 
+  - Attack: "mwk greatsword +27/+22/+17"
+    Effect: "4d6+21/17-20"
+  - Attack: "2 slams +26"
+    Effect: "2d6+14"
 Reach: 15 ft.
-Ranged: mwk composite longbow +15/+10/+5  (3d6+14/x3)
+Ranged: 
+  - Attack: "mwk composite longbow +15/+10/+5"
+    Effect: "3d6+14/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 15th)  Constant-freedom of movement  2/day-control weather, levitate  1/day-call lightning (DC 15), chain lightning (DC 18)
 STR: 39

@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: mwk trident +5 (1d8+1)
+Melee: 
+  - Attack: "mwk trident +5"
+    Effect: "1d8+1"
 Reach: 5 ft.
-Ranged: heavy crossbow +3 (1d10/19-20)
+Ranged: 
+  - Attack: "heavy crossbow +3"
+    Effect: "1d10/19-20"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 7th; concentration +7)  1/day-summon nature's ally II (Small water elemental or 1d3 dolphins only)
 STR: 12

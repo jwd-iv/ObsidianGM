@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +40 (4d6+18/19-20 plus grab), 3 stings +40 (3d6+18/19-20 plus 2d6 fire and poison)
+Melee: 
+  - Attack: "2 claws +40"
+    Effect: "4d6+18/19-20 plus grab"
+  - Attack: "3 stings +40"
+    Effect: "3d6+18/19-20 plus 2d6 fire and poison"
 Reach: 50 ft.
 Ranged: 
 SpecialAttacks: burrowing charge, constrict (4d6+27), heat beam, hurl foe, poison, trample (2d8+27, DC 43), web (+27 ranged, DC 40, 30 hp)

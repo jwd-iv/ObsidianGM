@@ -35,7 +35,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +14 melee (1d8+5), 2 claws +14 melee (1d6+5), sting  +14 melee (3d4+5 plus poison)
+Melee: 
+  - Attack: "bite +14 melee"
+    Effect: "1d8+5"
+  - Attack: "2 claws +14 melee"
+    Effect: "1d6+5"
+  - Attack: "sting  +14 melee"
+    Effect: "3d4+5 plus poison"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

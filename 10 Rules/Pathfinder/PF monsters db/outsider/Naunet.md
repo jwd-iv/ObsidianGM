@@ -35,7 +35,13 @@ Climb:
 Fly: 30 ft.
 Maneuverability: perfect
 Swim: 30 ft.
-Melee: bite +14 (1d8+5) , tail slap +11 (1d6+2 plus grab), 2 tentacles +11 (1d6+2 plus confusion)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "1d8+5"
+  - Attack: "tail slap +11"
+    Effect: "1d6+2 plus grab"
+  - Attack: "2 tentacles +11"
+    Effect: "1d6+2 plus confusion"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: adaptive strike, coalesce chaos, constrict (1d6+5)

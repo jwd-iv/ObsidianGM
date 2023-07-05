@@ -36,7 +36,13 @@ Climb:
 Fly: 200 ft.
 Maneuverability: average
 Swim: 
-Melee: 2 bites +41 (6d6+17/19-20), 2 talons +41 (3d8+17), tail slap +36 (10d6+8/19-20 plus bleed)
+Melee: 
+  - Attack: "2 bites +41"
+    Effect: "6d6+17/19-20"
+  - Attack: "2 talons +41"
+    Effect: "3d8+17"
+  - Attack: "tail slap +36"
+    Effect: "10d6+8/19-20 plus bleed"
 Reach: 50 ft. (75 ft. with tail)
 Ranged: 
 SpecialAttacks: bleed (5d6), blinding flash, breath weapon, hurl foe, hurricane, thunderous blast

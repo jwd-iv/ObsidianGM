@@ -35,7 +35,11 @@ Climb:
 Fly: 40 ft.
 Maneuverability: poor
 Swim: 
-Melee: bite +23 (3d8+11/19-20), 2 claws +23 (2d6+11)
+Melee: 
+  - Attack: "bite +23"
+    Effect: "3d8+11/19-20"
+  - Attack: "2 claws +23"
+    Effect: "2d6+11"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: unholy nimbus

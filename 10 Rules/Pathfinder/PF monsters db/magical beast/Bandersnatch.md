@@ -36,9 +36,17 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +32 (2d8+13 plus grab), 2 claws +32 (2d6+13/19-20), tail slap +27 (2d8+19/3 plus pain)
+Melee: 
+  - Attack: "bite +32"
+    Effect: "2d8+13 plus grab"
+  - Attack: "2 claws +32"
+    Effect: "2d6+13/19-20"
+  - Attack: "tail slap +27"
+    Effect: "2d8+19/3 plus pain"
 Reach: 15 ft. (20 ft. with tail slap)
-Ranged: 4 quills +26 (1d10+13/19-20)
+Ranged: 
+  - Attack: "4 quills +26"
+    Effect: "1d10+13/19-20"
 SpecialAttacks: bounding charge, brutal tail, gaze, lash out, pounce, rake (4 claws, +32, 2d6+13/19-20), rend (2 claws, 2d6+19)
 SpellLikeAbilities: 
 STR: 36

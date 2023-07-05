@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft. (jet 260)
-Melee: bite +14 (2d6+7), 2 arms +14 (1d6+7), tentacles +12 (4d6+3/19-20 plus grab)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "2d6+7"
+  - Attack: "2 arms +14"
+    Effect: "1d6+7"
+  - Attack: "tentacles +12"
+    Effect: "4d6+3/19-20 plus grab"
 Reach: 15 ft. (30 ft. with arms and tentacles)
 Ranged: 
 SpecialAttacks: constrict (4d6+10)

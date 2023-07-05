@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: maul of the titans +33/+28/+23/+18 (6d8+28/17-20) or  2 slams +30 (2d8+17)
+Melee: 
+  - Attack: "maul of the titans +33/+28/+23/+18"
+    Effect: "6d8+28/17-20"
+  - Attack: "2 slams +30"
+    Effect: "2d8+17"
 Reach: 30 ft.
 Ranged: 
 SpecialAttacks: trample (2d8+25, DC 37)

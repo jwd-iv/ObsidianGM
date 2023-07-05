@@ -35,7 +35,11 @@ Climb:
 Fly: 40 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 claws +11 touch (1d6 plus 1d6 cold), bite +11 touch (1d8 plus 1d6 cold)
+Melee: 
+  - Attack: "2 claws +11 touch"
+    Effect: "1d6 plus 1d6 cold"
+  - Attack: "bite +11 touch"
+    Effect: "1d8 plus 1d6 cold"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: pounce, sprint, shadow blend

@@ -35,7 +35,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: touch +7 (bleed and blood siphon)
+Melee: 
+  - Attack: "touch +7"
+    Effect: "bleed and blood siphon"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bleed (1d6)

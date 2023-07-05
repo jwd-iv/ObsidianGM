@@ -36,7 +36,15 @@ Climb:
 Fly: 200 ft.
 Maneuverability: poor
 Swim: 
-Melee: bite +22 (2d8+12), 2 claws +22 (2d6+8), 2 wings +20 (2d6+4), tail slap +20 (2d8+12)
+Melee: 
+  - Attack: "bite +22"
+    Effect: "2d8+12"
+  - Attack: "2 claws +22"
+    Effect: "2d6+8"
+  - Attack: "2 wings +20"
+    Effect: "2d6+4"
+  - Attack: "tail slap +20"
+    Effect: "2d8+12"
 Reach: 10 ft. (15 ft. with bite)
 Ranged: 
 SpecialAttacks: bewildering breath, breath weapon (100-ft. line, 12d8 cold, DC 23), crush, moonsilver

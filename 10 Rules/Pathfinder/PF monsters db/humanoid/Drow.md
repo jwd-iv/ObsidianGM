@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: rapier +2 (1d6/18-20)
+Melee: 
+  - Attack: "rapier +2"
+    Effect: "1d6/18-20"
 Reach: 5 ft.
-Ranged: hand crossbow +3 (1d4/19-20 plus poison)
+Ranged: 
+  - Attack: "hand crossbow +3"
+    Effect: "1d4/19-20 plus poison"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 1st) 1/day-dancing lights, darkness, faerie fire
 STR: 11

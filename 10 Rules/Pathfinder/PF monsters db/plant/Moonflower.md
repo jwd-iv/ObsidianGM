@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +15 (2d6+9 plus grab), 2 tentacles +13 (1d8+4)
+Melee: 
+  - Attack: "bite +15"
+    Effect: "2d6+9 plus grab"
+  - Attack: "2 tentacles +13"
+    Effect: "1d8+4"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: light pulse, pod prison

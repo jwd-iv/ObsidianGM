@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 vines +20 (1d10+7 plus grab and bleed)
+Melee: 
+  - Attack: "4 vines +20"
+    Effect: "1d10+7 plus grab and bleed"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: bleed (2d6), constrict (1d10+10), feed

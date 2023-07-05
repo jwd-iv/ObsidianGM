@@ -35,7 +35,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 30 ft.
-Melee: bite +8 (1d8+4), tail slap +3 (1d8+2)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "1d8+4"
+  - Attack: "tail slap +3"
+    Effect: "1d8+2"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: acidic cloud

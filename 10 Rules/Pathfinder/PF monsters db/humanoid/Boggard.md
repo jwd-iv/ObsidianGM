@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: morningstar +5 (1d8+3), tongue -1 touch (sticky tongue)
+Melee: 
+  - Attack: "morningstar +5"
+    Effect: "1d8+3"
+  - Attack: "tongue -1 touch"
+    Effect: "sticky tongue"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: terrifying croak

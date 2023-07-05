@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: trunk +7 touch (disenchant), 2 hooves +2 (1d6+2)
+Melee: 
+  - Attack: "trunk +7 touch"
+    Effect: "disenchant"
+  - Attack: "2 hooves +2"
+    Effect: "1d6+2"
 Reach: 5 ft. (10 ft. with trunk)
 Ranged: 
 SpecialAttacks: power spray

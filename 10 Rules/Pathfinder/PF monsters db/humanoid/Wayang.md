@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +0 (1d3-1/19-20)
+Melee: 
+  - Attack: "dagger +0"
+    Effect: "1d3-1/19-20"
 Reach: 5 ft.
-Ranged: blowgun +4 (1)
+Ranged: 
+  - Attack: "blowgun +4"
+    Effect: "1"
 SpecialAttacks: 
 SpellLikeAbilities: Wayang Spell-Like Abilities (CL 1st; concentration +2)  1/day-ghost sound (DC 11), pass without trace, ventriloquism (DC 12)   Arcane School Spell-Like Abilities (CL 1st; concentration +4)  6/day-blinding ray
 STR: 8

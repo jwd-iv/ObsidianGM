@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +29 (6d6+25/19-20 plus grab), slam +29 (3d8+25/19-20)
+Melee: 
+  - Attack: "bite +29"
+    Effect: "6d6+25/19-20 plus grab"
+  - Attack: "slam +29"
+    Effect: "3d8+25/19-20"
 Reach: 60 ft.
 Ranged: 
 SpecialAttacks: breath weapon, overwhelming strength, swallow whole (20d6 acid damage, AC 26, 29 hp), trample (DC 37)

@@ -35,7 +35,9 @@ Climb:
 Fly: 20 ft.
 Maneuverability: good
 Swim: 
-Melee: 4 tentacles +14 (1d4+1  plus grab)
+Melee: 
+  - Attack: "4 tentacles +14"
+    Effect: "1d4+1  plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: deadly embrace

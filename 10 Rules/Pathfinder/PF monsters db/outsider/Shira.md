@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +21 (1d8+9/19-20), 2 claws +21 (1d8+9 plus grab)
+Melee: 
+  - Attack: "bite +21"
+    Effect: "1d8+9/19-20"
+  - Attack: "2 claws +21"
+    Effect: "1d8+9 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: consume essence, dusty pelt, rake (2 claws +21, 1d8+9)

@@ -35,9 +35,13 @@ Climb:
 Fly: 20 ft. (15 in armor)
 Maneuverability: perfect
 Swim: 
-Melee: scimitar +9/+4 (1d6+4/18-20)
+Melee: 
+  - Attack: "scimitar +9/+4"
+    Effect: "1d6+4/18-20"
 Reach: 5 ft.
-Ranged: composite longbow +8/+3 (1d8+3/x3)
+Ranged: 
+  - Attack: "composite longbow +8/+3"
+    Effect: "1d8+3/x3"
 SpecialAttacks: change size
 SpellLikeAbilities: Spell-Like Abilities (CL 8th) 3/day-invisibility (self only), plane shift (willing targets to elemental planes, Astral Plane, or Material Plane only), speak with animals 1/day-create food and water, ethereal jaunt (for 1 hour)
 STR: 16

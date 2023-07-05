@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: trident +2 (1d8+1)
+Melee: 
+  - Attack: "trident +2"
+    Effect: "1d8+1"
 Reach: 5 ft.
-Ranged: heavy crossbow +2 (1d10 (19–20)
+Ranged: 
+  - Attack: "heavy crossbow +2"
+    Effect: "1d10 (19–20"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 13

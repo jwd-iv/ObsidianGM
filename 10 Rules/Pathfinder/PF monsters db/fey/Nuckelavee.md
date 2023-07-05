@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: mwk longsword +11 (1d8+9/19-20), bite +10 (1d8+6 plus disease), 2 hooves +5 (1d6+3 plus disease)
+Melee: 
+  - Attack: "mwk longsword +11"
+    Effect: "1d8+9/19-20"
+  - Attack: "bite +10"
+    Effect: "1d8+6 plus disease"
+  - Attack: "2 hooves +5"
+    Effect: "1d6+3 plus disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (30-ft. cone, 10d6 damage plus disease, Reflex DC 21 half, usable every 1d4 rounds), trample (1d6+7, DC 21)

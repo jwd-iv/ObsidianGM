@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger -1 (1d3-2/19-20)
+Melee: 
+  - Attack: "dagger -1"
+    Effect: "1d3-2/19-20"
 Reach: 5 ft.
-Ranged: light crossbow +3 (1d6/19-20)
+Ranged: 
+  - Attack: "light crossbow +3"
+    Effect: "1d6/19-20"
 SpecialAttacks: swarming
 SpellLikeAbilities: 
 STR: 6

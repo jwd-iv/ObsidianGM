@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: bite +3 (1d6+2 plus grab) or tongue +3 touch (grab)
+Melee: 
+  - Attack: "bite +3"
+    Effect: "1d6+2 plus grab"
+  - Attack: "tongue +3 touch"
+    Effect: "grab"
 Reach: 5 ft. (15 ft. with tongue)
 Ranged: 
 SpecialAttacks: pull (tongue, 5 feet), swallow whole (1d4 bludgeoning damage, AC 10, 1 hp), tongue

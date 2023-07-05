@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 tentacles +4 (1d4+1 plus rot)
+Melee: 
+  - Attack: "4 tentacles +4"
+    Effect: "1d4+1 plus rot"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: 

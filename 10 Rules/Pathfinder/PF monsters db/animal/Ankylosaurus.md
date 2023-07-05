@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: tail +14 (3d6+12 plus stun)
+Melee: 
+  - Attack: "tail +14"
+    Effect: "3d6+12 plus stun"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: 

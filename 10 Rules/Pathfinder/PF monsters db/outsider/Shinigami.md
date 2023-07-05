@@ -36,7 +36,11 @@ Climb:
 Fly: 40 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +3 axiomatic scythe +30/+25/+20/+15 (2d6+10/x4), 2 wings +21 (1d8+2)
+Melee: 
+  - Attack: "+3 axiomatic scythe +30/+25/+20/+15"
+    Effect: "2d6+10/x4"
+  - Attack: "2 wings +21"
+    Effect: "1d8+2"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: destroy soul

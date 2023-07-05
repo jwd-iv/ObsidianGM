@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +15 (2d6+9/19-20 plus 1d10 electricity), tail slap +9 (1d8+3 plus push)
+Melee: 
+  - Attack: "bite +15"
+    Effect: "2d6+9/19-20 plus 1d10 electricity"
+  - Attack: "tail slap +9"
+    Effect: "1d8+3 plus push"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: dazzling emergence, push (tail slap, 10 ft.), sandstorm breath, savage bite

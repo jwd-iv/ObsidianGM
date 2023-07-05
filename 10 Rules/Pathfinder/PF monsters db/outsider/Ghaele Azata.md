@@ -35,9 +35,13 @@ Climb:
 Fly: 150 ft.
 Maneuverability: perfect
 Swim: 
-Melee: +2 holy greatsword +22/+17/+12 (2d6+12)
+Melee: 
+  - Attack: "+2 holy greatsword +22/+17/+12"
+    Effect: "2d6+12"
 Reach: 5 ft.
-Ranged: 2 light rays +14 ranged touch (2d12)
+Ranged: 
+  - Attack: "2 light rays +14 ranged touch"
+    Effect: "2d12"
 SpecialAttacks: gaze
 SpellLikeAbilities: Spell-Like Abilities (CL 13th) Constant-detect evil, holy aura (DC 21), see invisibility At will-aid, charm monster (DC 17), continual flame, cure light wounds, dancing lights, detect thoughts (DC 15), disguise self, dispel magic, hold monster (DC 18), greater invisibility (self only), major image (DC 16), greater teleport (self plus 50 lbs. of objects only) 3/day-globe of invulnerability 1/day-chain lightning (DC 19), prismatic spray (DC 20), wall of force
 STR: 25

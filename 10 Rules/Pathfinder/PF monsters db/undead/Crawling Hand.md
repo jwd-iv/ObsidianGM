@@ -35,7 +35,9 @@ Climb: 40 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: claw +5 (1d1+1 plus grab)
+Melee: 
+  - Attack: "claw +5"
+    Effect: "1d1+1 plus grab"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: mark quarry, strangle

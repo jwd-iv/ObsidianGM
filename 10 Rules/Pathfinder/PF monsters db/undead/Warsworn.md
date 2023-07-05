@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 slams +21 (2d6+12 plus energy drain)
+Melee: 
+  - Attack: "4 slams +21"
+    Effect: "2d6+12 plus energy drain"
 Reach: 5 ft.
-Ranged: 1 scrap ball +12 (2d6+12)
+Ranged: 
+  - Attack: "1 scrap ball +12"
+    Effect: "2d6+12"
 SpecialAttacks: absorb dying creature, energy drain (1 level, DC 26), trample (2d6+18, DC 31)
 SpellLikeAbilities: Spell-Like Abilities (CL 18th; concentration +25)  3/day-extended animate objects (7 Medium weapons only), telekinesis (violent thrust, heavy armor only)
 STR: 34

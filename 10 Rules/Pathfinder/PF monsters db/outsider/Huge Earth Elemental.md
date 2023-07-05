@@ -35,7 +35,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +17 (2d8+9)
+Melee: 
+  - Attack: "2 slams +17"
+    Effect: "2d8+9"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: earth mastery

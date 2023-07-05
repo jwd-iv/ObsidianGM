@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +7 (1d8+3 plus disease)
+Melee: 
+  - Attack: "2 slams +7"
+    Effect: "1d8+3 plus disease"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: plague carrier

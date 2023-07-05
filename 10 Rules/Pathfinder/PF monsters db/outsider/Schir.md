@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk halberd +10 (1d10+4/x3 plus disease), gore +3 (1d6+1) or   gore +8 (1d6+4)
+Melee: 
+  - Attack: "mwk halberd +10"
+    Effect: "1d10+4/x3 plus disease"
+  - Attack: "gore +3"
+    Effect: "1d6+1"
+  - Attack: "gore +8"
+    Effect: "1d6+4"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: powerful charge (gore, 3d6+4)

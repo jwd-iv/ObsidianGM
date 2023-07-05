@@ -35,7 +35,9 @@ Climb:
 Fly: 100 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 slams +25 (2d8+9)
+Melee: 
+  - Attack: "2 slams +25"
+    Effect: "2d8+9"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: whirlwind (DC 27)

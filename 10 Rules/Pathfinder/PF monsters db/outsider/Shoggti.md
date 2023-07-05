@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +12 (1d8+6), 4 tentacles +8 (1d4+3 plus grab)
+Melee: 
+  - Attack: "bite +12"
+    Effect: "1d8+6"
+  - Attack: "4 tentacles +8"
+    Effect: "1d4+3 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: braincloud, horrific appearance (DC 15), constrict (1d4+6)

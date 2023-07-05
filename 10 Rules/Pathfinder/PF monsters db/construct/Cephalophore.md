@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +18 (2d6+7 plus dazing strike)
+Melee: 
+  - Attack: "2 slams +18"
+    Effect: "2d6+7 plus dazing strike"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: dazing gaze

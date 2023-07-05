@@ -35,9 +35,13 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: incorporeal touch +13 (8d6 fire plus witchflame)
+Melee: 
+  - Attack: "incorporeal touch +13"
+    Effect: "8d6 fire plus witchflame"
 Reach: 5 ft.
-Ranged: witchflame bolt +13 (8d6 fire plus witchflame)
+Ranged: 
+  - Attack: "witchflame bolt +13"
+    Effect: "8d6 fire plus witchflame"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 9th; concentration +16)  At Will-dancing lights, disguise self, ghost sound (DC 17), invisibility, pyrotechnics (DC 19), ray of enfeeblement (DC 18)  1/day-summon (level 4, 2 will-o'- wisps 50%)
 STR: -

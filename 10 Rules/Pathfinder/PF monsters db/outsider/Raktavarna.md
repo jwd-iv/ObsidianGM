@@ -36,7 +36,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 20 ft.
-Melee: bite +8 (1d4-2 plus poison)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "1d4-2 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: detect thoughts (DC 13)

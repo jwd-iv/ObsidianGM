@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +10 (1d4-1 plus grab)
+Melee: 
+  - Attack: "slam +10"
+    Effect: "1d4-1 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: discorporate, grab (Large), squirming embrace

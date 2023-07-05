@@ -35,9 +35,15 @@ Climb:
 Fly: 50 ft.
 Maneuverability: good
 Swim: 
-Melee: +1 longsword +15/+10  (1d8+8/19-20)
+Melee: 
+  - Attack: "+1 longsword +15/+10"
+    Effect: "1d8+8/19-20"
 Reach: 5 ft.
-Ranged: +1 flaming composite  longbow +14/+14/+9  (1d8+6/x3 plus 1d6 fire) or  rope +15 touch (entangle)
+Ranged: 
+  - Attack: "+1 flaming composite  longbow +14/+14/+9"
+    Effect: "1d8+6/x3 plus 1d6 fire"
+  - Attack: "rope +15 touch"
+    Effect: "entangle"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 12th)  Constant-true seeing At will-fear (single target, DC 19), greater teleport (self plus 50 lbs. of objects only), minor image (DC 17), unholy blight (DC 19)  1/day-summon (level 3, 2 bearded devils, 50%)
 STR: 20

@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.; in fiery form only
 Maneuverability: perfect
 Swim: 
-Melee: bite +18 (2d4+4), 2 claws +18 (1d6+4 plus grab)
+Melee: 
+  - Attack: "bite +18"
+    Effect: "2d4+4"
+  - Attack: "2 claws +18"
+    Effect: "1d6+4 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: blood drain (1d2 Con), detonate

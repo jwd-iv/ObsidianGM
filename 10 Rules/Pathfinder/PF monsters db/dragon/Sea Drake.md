@@ -35,7 +35,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 60 ft.
-Melee: bite +12 (1d8+6 plus 1d6 electricity),  tail slap +7 (1d8+3)
+Melee: 
+  - Attack: "bite +12"
+    Effect: "1d8+6 plus 1d6 electricity"
+  - Attack: "tail slap +7"
+    Effect: "1d8+3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: ball lightning breath, capsize

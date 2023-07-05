@@ -36,7 +36,13 @@ Climb: 30 ft.
 Fly: 80 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +25 (2d6+6 plus 1d4 Cha drain), 2 talons +25 (1d6+6 plus grab and popobala fever), 2 wings +20 (1d6+3)
+Melee: 
+  - Attack: "bite +25"
+    Effect: "2d6+6 plus 1d4 Cha drain"
+  - Attack: "2 talons +25"
+    Effect: "1d6+6 plus grab and popobala fever"
+  - Attack: "2 wings +20"
+    Effect: "1d6+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: rend (2 talons, 2d6+9)

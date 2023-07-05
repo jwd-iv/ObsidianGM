@@ -36,9 +36,13 @@ Climb:
 Fly:
 Maneuverability:
 Swim:
-Melee: short sword +3 (1d4/19-20)
+Melee: 
+  - Attack: "short sword +3"
+    Effect: "1d4/19-20"
 Reach: 5 ft.
-Ranged: composite longbow +6 (1d6/x3)
+Ranged: 
+  - Attack: "composite longbow +6"
+    Effect: "1d6/x3"
 SpecialAttacks: favored enemy (humanoid [human] +2), +1 on attack rolls against
   goblinoid and reptilian humanoids
 SpellLikeAbilities:

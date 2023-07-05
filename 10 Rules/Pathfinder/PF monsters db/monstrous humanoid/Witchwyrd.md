@@ -35,7 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: ranseur +11/+6 (2d4+4/x3), 2 slams  +6 (1d4+1 plus grab) or  4 slams +11 (1d4+3 plus grab)
+Melee: 
+  - Attack: "ranseur +11/+6"
+    Effect: "2d4+4/x3"
+  - Attack: "2 slams  +6"
+    Effect: "1d4+1 plus grab"
+  - Attack: "4 slams +11"
+    Effect: "1d4+3 plus grab"
 Reach: 5 ft. (10 ft.  with ranseur)
 Ranged: 
 SpecialAttacks: force bolt

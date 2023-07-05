@@ -35,7 +35,9 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: swarm (2d6 plus distraction)
+Melee: 
+  - Attack: "swarm"
+    Effect: "2d6 plus distraction"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: distraction (DC 14)

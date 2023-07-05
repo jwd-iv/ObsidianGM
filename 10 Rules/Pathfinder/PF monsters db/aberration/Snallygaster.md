@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +6 (1d8+3/x3 plus bleed), 2 claws +6 (1d4+3), sucking tentacles +1 (1d4+1 plus grab)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "1d8+3/x3 plus bleed"
+  - Attack: "2 claws +6"
+    Effect: "1d4+3"
+  - Attack: "sucking tentacles +1"
+    Effect: "1d4+1 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: aerial charge, bleed (1d6), sucking tentacles

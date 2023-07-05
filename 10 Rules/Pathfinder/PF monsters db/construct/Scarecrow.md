@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +8 (1d8+3 plus fear)
+Melee: 
+  - Attack: "2 slams +8"
+    Effect: "1d8+3 plus fear"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: fascinating gaze

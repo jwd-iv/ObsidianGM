@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk warhammer +4 (1d8+1/x3 plus 1d6 fire)
+Melee: 
+  - Attack: "mwk warhammer +4"
+    Effect: "1d8+1/x3 plus 1d6 fire"
 Reach: 5 ft.
-Ranged: light hammer +3 (1d4+1 plus 1d6 fire)
+Ranged: 
+  - Attack: "light hammer +3"
+    Effect: "1d4+1 plus 1d6 fire"
 SpecialAttacks: heat (1d6 fire)
 SpellLikeAbilities: 
 STR: 13

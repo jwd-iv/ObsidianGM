@@ -36,9 +36,13 @@ Climb:
 Fly: 40 ft.
 Maneuverability: good
 Swim: 
-Melee: mwk rapier +11 (1d6+1/18-20)
+Melee: 
+  - Attack: "mwk rapier +11"
+    Effect: "1d6+1/18-20"
 Reach: 5 ft.
-Ranged: longbow +10 (1d8/x3)
+Ranged: 
+  - Attack: "longbow +10"
+    Effect: "1d8/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 10th; concentration +12)   At Will-dancing lights   1/day-confusion (DC 16), deep slumber (DC 15), entangle (DC 13), glitterdust (DC 14), major image (DC 15)
 STR: 13

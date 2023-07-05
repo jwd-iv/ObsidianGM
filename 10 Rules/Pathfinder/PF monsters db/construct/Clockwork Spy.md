@@ -36,7 +36,9 @@ Climb:
 Fly: 30 ft.
 Maneuverability: clumsy
 Swim: 
-Melee: slam +3 (1d2)
+Melee: 
+  - Attack: "slam +3"
+    Effect: "1d2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: record audio, self-destruct

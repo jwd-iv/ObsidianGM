@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 90 ft.
-Melee: bite +9 (1d6+3), 2 claws +9 (1d6+3)
+Melee: 
+  - Attack: "bite +9"
+    Effect: "1d6+3"
+  - Attack: "2 claws +9"
+    Effect: "1d6+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: ink cloud

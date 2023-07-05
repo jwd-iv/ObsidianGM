@@ -35,7 +35,11 @@ Climb: 40 ft.
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 3 stings +27 (1d6+8/19-20 plus ability drain), 5 tentacles +22 (1d6+4 plus 2d6 acid)
+Melee: 
+  - Attack: "3 stings +27"
+    Effect: "1d6+8/19-20 plus ability drain"
+  - Attack: "5 tentacles +22"
+    Effect: "1d6+4 plus 2d6 acid"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: horrific appearance (DC 27), savage stingers

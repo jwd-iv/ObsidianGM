@@ -35,7 +35,13 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail slap +18 (1d12+2 plus energy drain)
+Melee: 
+  - Attack: "bite +23"
+    Effect: "2d6+5 plus energy drain and grab"
+  - Attack: "2 claws +23"
+    Effect: "1d8+5 plus energy drain"
+  - Attack: "tail slap +18"
+    Effect: "1d12+2 plus energy drain"
 Reach: 10 ft. (15 ft. with tail)
 Ranged: 
 SpecialAttacks: devour soul, energy drain (1 level, DC 25)

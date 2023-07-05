@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +6 (1d3/19-20 plus poison)
+Melee: 
+  - Attack: "dagger +6"
+    Effect: "1d3/19-20 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: death throes, sneak attack (+1d6)

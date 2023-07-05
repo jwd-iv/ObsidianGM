@@ -36,7 +36,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: poor
 Swim: 
-Melee: 2 claws +17 (2d6+6/19-20)
+Melee: 
+  - Attack: "2 claws +17"
+    Effect: "2d6+6/19-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: pounce, rake (2 claws +17, 2d6+6)

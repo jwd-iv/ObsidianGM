@@ -35,7 +35,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: 2 claws +32 (2d8+13), 2 wings +30 (2d6+6), bite +32 (4d6+13 plus poison and disease), tail slap +30 (2d8+6 plus grab)
+Melee: 
+  - Attack: "2 claws +32"
+    Effect: "2d8+13"
+  - Attack: "2 wings +30"
+    Effect: "2d6+6"
+  - Attack: "bite +32"
+    Effect: "4d6+13 plus poison and disease"
+  - Attack: "tail slap +30"
+    Effect: "2d8+6 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: constrict 2d8+19, devil shaping

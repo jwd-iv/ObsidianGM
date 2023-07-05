@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +10 (2d4+3), bite +10 (2d6+3), gore +10 (2d6+3)
+Melee: 
+  - Attack: "2 claws +10"
+    Effect: "2d4+3"
+  - Attack: "bite +10"
+    Effect: "2d6+3"
+  - Attack: "gore +10"
+    Effect: "2d6+3"
 Reach: 5 ft.
-Ranged: javelin +9 (1d6+3)
+Ranged: 
+  - Attack: "javelin +9"
+    Effect: "1d6+3"
 SpecialAttacks: disorienting gaze
 SpellLikeAbilities: Spell-Like Abilities (CL 14th; concentration +20)   At Will-dimension door, fly, hallucinatory terrain (DC 20)   3/day-baleful polymorph (DC 21), control winds, cure critical wounds (DC 20), ice storm (DC 20), sleet storm (DC 19), summon nature's ally IV
 STR: 16

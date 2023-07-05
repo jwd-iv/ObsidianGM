@@ -35,7 +35,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +6 (1d4+1 plus disease)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "1d4+1 plus disease"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: soul lock

@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 3 bites +11 (1d6+3 plus cerberus's jaws)
+Melee: 
+  - Attack: "3 bites +11"
+    Effect: "1d6+3 plus cerberus's jaws"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: rend (2 bites, 1d6+4 or 3 bites, 1d6+8)

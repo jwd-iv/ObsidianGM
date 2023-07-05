@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 longsword +18/+13/+8 (2d6+11/17-20) or   2 slams +17 (1d6+7)
+Melee: 
+  - Attack: "+1 longsword +18/+13/+8"
+    Effect: "2d6+11/17-20"
+  - Attack: "2 slams +17"
+    Effect: "1d6+7"
 Reach: 10 ft.
-Ranged: mwk spear +13/+8/+3 (2d6+7/x3)
+Ranged: 
+  - Attack: "mwk spear +13/+8/+3"
+    Effect: "2d6+7/x3"
 SpecialAttacks: crushing blow, mortal challenge
 SpellLikeAbilities: 
 STR: 25

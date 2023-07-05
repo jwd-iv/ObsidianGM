@@ -35,7 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +8 (1d8+3), slam +8 (1d4+1) or mwk greatsword +9/+4 (2d6+3), bite +3 (1d8+2)
+Melee: 
+  - Attack: "bite +8"
+    Effect: "1d8+3"
+  - Attack: "slam +8"
+    Effect: "1d4+1"
+  - Attack: "mwk greatsword +9/+4"
+    Effect: "2d6+3"
+  - Attack: "bite +3"
+    Effect: "1d8+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

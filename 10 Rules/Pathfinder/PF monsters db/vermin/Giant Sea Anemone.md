@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: tentacles +3 (2d6+1 plus grab and poison)
+Melee: 
+  - Attack: "tentacles +3"
+    Effect: "2d6+1 plus grab and poison"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: swallow whole (1d6+1 bludgeoning damage, AC 11, 3 hp)

@@ -36,7 +36,13 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: 2 claws +31 (4d8+14/16-20/x4), gore +28 (4d6+7), 4 tentacles +29 (2d6+7)
+Melee: 
+  - Attack: "2 claws +31"
+    Effect: "4d8+14/16-20/x4"
+  - Attack: "gore +28"
+    Effect: "4d6+7"
+  - Attack: "4 tentacles +29"
+    Effect: "2d6+7"
 Reach: 15 ft. (20 ft. with claws)
 Ranged: 
 SpecialAttacks: impregnate surrogate, mythic power (10/day, surge +1d12), razor claws, well of life

@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: scimitar +0 (1d6/18-20)
+Melee: 
+  - Attack: "scimitar +0"
+    Effect: "1d6/18-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

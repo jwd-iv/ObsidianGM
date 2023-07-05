@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +13 (1d6+7), 2 claws +13 (1d6+7 plus grab)
+Melee: 
+  - Attack: "bite +13"
+    Effect: "1d6+7"
+  - Attack: "2 claws +13"
+    Effect: "1d6+7 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: rend (2 claws, 2d6+10)

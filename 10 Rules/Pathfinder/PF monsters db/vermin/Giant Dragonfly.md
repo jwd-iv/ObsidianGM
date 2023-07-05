@@ -35,7 +35,9 @@ Climb:
 Fly: 80 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +9 (2d8+6 plus grab)
+Melee: 
+  - Attack: "bite +9"
+    Effect: "2d8+6 plus grab"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: darting charge

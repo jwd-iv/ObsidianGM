@@ -35,7 +35,13 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: +1 vorpal unholy longsword +31/+26/+21/+16 (2d6+13), +1 vorpal flaming whip +30/+25/+20 (1d4+7 plus 1d6 fire and entangle) or 2 slams +31 (1d10+12)
+Melee: 
+  - Attack: "+1 vorpal unholy longsword +31/+26/+21/+16"
+    Effect: "2d6+13"
+  - Attack: "+1 vorpal flaming whip +30/+25/+20"
+    Effect: "1d4+7 plus 1d6 fire and entangle"
+  - Attack: "2 slams +31"
+    Effect: "1d10+12"
 Reach: 10 ft. (20 ft. with whip)
 Ranged: 
 SpecialAttacks: 

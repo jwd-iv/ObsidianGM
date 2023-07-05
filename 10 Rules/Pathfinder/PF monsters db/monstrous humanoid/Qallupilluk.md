@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: bite +13 (1d6+5), 2 claws +13 (1d6+5 plus grab)
+Melee: 
+  - Attack: "bite +13"
+    Effect: "1d6+5"
+  - Attack: "2 claws +13"
+    Effect: "1d6+5 plus grab"
 Reach: 5 ft.
-Ranged: javelin +10 (1d6+4)
+Ranged: 
+  - Attack: "javelin +10"
+    Effect: "1d6+4"
 SpecialAttacks: curse of scales
 SpellLikeAbilities: Spell-Like Abilities (CL 8th; concentration +10)   At Will-water breathing   3/day-charm animal (DC 13), charm person (DC 13), chill metal (DC 14), sleet storm   1/day-commune with nature, divination
 STR: 20

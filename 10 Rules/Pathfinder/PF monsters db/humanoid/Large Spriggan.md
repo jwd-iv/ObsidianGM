@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk morningstar +9 (2d6 +5)
+Melee: 
+  - Attack: "mwk morningstar +9"
+    Effect: "2d6 +5"
 Reach: 10 ft.
-Ranged: light crossbow +5 (2d6/19-20)
+Ranged: 
+  - Attack: "light crossbow +5"
+    Effect: "2d6/19-20"
 SpecialAttacks: sneak attack +2d6
 SpellLikeAbilities: Spell-Like Abilities (CL 4th; concentration +4)  At will-flare (DC 10), scare (DC 12), shatter (DC 12)
 STR: 21

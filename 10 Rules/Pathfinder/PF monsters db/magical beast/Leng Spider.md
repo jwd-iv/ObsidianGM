@@ -35,9 +35,15 @@ Climb: 40 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk flail +22/+17/+12 (3d6+8), bite +16 (2d6+4 plus poison)
+Melee: 
+  - Attack: "mwk flail +22/+17/+12"
+    Effect: "3d6+8"
+  - Attack: "bite +16"
+    Effect: "2d6+4 plus poison"
 Reach: 15 ft.
-Ranged: mwk bolas +23 (1d8+8)
+Ranged: 
+  - Attack: "mwk bolas +23"
+    Effect: "1d8+8"
 SpecialAttacks: web (+24 ranged, DC 25, 15 hp), web weaponry
 SpellLikeAbilities: Spell-Like Abilities (CL 15th; concentration +21)  Constant-arcane sight, freedom of movement, tongues   At Will-dispel magic, fabricate (webs only)   3/day-air walk, invisibility, major image (DC 19)   1/day-charm monster (DC 20), insanity (DC 23), mirage arcana (DC 21), veil (DC 22)
 STR: 26

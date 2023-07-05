@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: rapier +4 (1d6+1/18-20)
+Melee: 
+  - Attack: "rapier +4"
+    Effect: "1d6+1/18-20"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

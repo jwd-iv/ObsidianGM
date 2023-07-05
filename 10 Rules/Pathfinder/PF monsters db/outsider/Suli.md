@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: scimitar +4 (1d6+3/18-20)
+Melee: 
+  - Attack: "scimitar +4"
+    Effect: "1d6+3/18-20"
 Reach: 5 ft.
-Ranged: shortbow +2 (1d6/x3)
+Ranged: 
+  - Attack: "shortbow +2"
+    Effect: "1d6/x3"
 SpecialAttacks: elemental assault, favored enemy (humans +2)
 SpellLikeAbilities: 
 STR: 15

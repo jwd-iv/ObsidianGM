@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: tendril +5 (1d4+4)
+Melee: 
+  - Attack: "tendril +5"
+    Effect: "1d4+4"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: create yellow musk zombie, pollen spray

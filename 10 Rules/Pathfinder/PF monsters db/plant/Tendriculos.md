@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +11 (2d6+7 plus grab), 2 tentacles +6 (1d6+3 plus grab)
+Melee: 
+  - Attack: "bite +11"
+    Effect: "2d6+7 plus grab"
+  - Attack: "2 tentacles +6"
+    Effect: "1d6+3 plus grab"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: paralysis (3d6 rounds, DC 18), swallow whole (2d6 acid damage plus paralysis, AC 15, 7 hp)

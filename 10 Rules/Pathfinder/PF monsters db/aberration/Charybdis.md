@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 50 ft.
-Melee: bite +20 (2d8+12/19-20 plus grab), 2 claws +20 (2d6+12)
+Melee: 
+  - Attack: "bite +20"
+    Effect: "2d8+12/19-20 plus grab"
+  - Attack: "2 claws +20"
+    Effect: "2d6+12"
 Reach: 20 ft.
 Ranged: 
 SpecialAttacks: fast swallow, rending claws, swallow whole (6d6 bludgeoning damage plus 6d6 acid damage, AC 21, hp 18), vortex

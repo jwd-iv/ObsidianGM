@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: short sword +5 (1d4-2/19-20)
+Melee: 
+  - Attack: "short sword +5"
+    Effect: "1d4-2/19-20"
 Reach: 5 ft.
-Ranged: light crossbow +5 (1d6/19-20)
+Ranged: 
+  - Attack: "light crossbow +5"
+    Effect: "1d6/19-20"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 6th; concentration +10)  3/day-charm person (DC 15)  1/day-water breathing (CL 12th)
 STR: 7

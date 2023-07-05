@@ -36,9 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +19 (2d8+13 plus burn and grab)
+Melee: 
+  - Attack: "2 slams +19"
+    Effect: "2d8+13 plus burn and grab"
 Reach: 30 ft.
-Ranged: burning brand +9 (4d6+13 plus burn)
+Ranged: 
+  - Attack: "burning brand +9"
+    Effect: "4d6+13 plus burn"
 SpecialAttacks: burn (1d6 fire, DC 17), wicker cage
 SpellLikeAbilities: 
 STR: 37

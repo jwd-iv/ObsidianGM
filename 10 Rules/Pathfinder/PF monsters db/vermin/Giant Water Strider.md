@@ -36,7 +36,11 @@ Climb:
 Fly: 20 ft.
 Maneuverability: poor
 Swim: 
-Melee: 2 claws +2 (1d4+1), bite +2 (1d2+1)
+Melee: 
+  - Attack: "2 claws +2"
+    Effect: "1d4+1"
+  - Attack: "bite +2"
+    Effect: "1d2+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

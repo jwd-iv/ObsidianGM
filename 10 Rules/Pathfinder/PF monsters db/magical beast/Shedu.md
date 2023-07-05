@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: gore +17 (2d8+7/19-20), 2 hooves +12 (1d6+3), 2 wings +12 (1d6+3)
+Melee: 
+  - Attack: "gore +17"
+    Effect: "2d8+7/19-20"
+  - Attack: "2 hooves +12"
+    Effect: "1d6+3"
+  - Attack: "2 wings +12"
+    Effect: "1d6+3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: trample (2d6+10, DC 22)

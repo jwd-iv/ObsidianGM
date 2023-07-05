@@ -36,7 +36,11 @@ Climb:
 Fly: 30 ft.
 Maneuverability: good
 Swim: 
-Melee: dagger +5 (1d4/19-20) or touch +5 (1d4 Cha damage)
+Melee: 
+  - Attack: "dagger +5"
+    Effect: "1d4/19-20"
+  - Attack: "touch +5"
+    Effect: "1d4 Cha damage"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: life drain, mythic power (3/day, surge +1d6)

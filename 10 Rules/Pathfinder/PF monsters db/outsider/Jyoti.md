@@ -35,9 +35,15 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: +1 ghost touch spear +14/+9/+4 (1d8+4/x3 plus 1d6 fire), bite +8 (1d6+1 plus 1d6 fire)
+Melee: 
+  - Attack: "+1 ghost touch spear +14/+9/+4"
+    Effect: "1d8+4/x3 plus 1d6 fire"
+  - Attack: "bite +8"
+    Effect: "1d6+1 plus 1d6 fire"
 Reach: 5 ft.
-Ranged: ray +16 ranged touch (by spell)
+Ranged: 
+  - Attack: "ray +16 ranged touch"
+    Effect: "by spell"
 SpecialAttacks: breath weapon (60-ft. cone, 11d6 fire, Reflex DC 19 half, usable once every 1d4 rounds), positive energy
 SpellLikeAbilities: Spell-Like Abilities (CL 11th; concentration +13)  Constant-mage armor   3/day-aid, cure serious wounds, daylight, dimension door, lesser restoration, searing light   1/day-breath of life, disrupting weapon
 STR: 14

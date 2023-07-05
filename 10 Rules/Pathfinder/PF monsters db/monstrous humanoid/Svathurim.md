@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: mwk lance +22/+17/+12 (3d6+13/x3), gore +21 (2d6+9), 2 hooves +16 (1d8+4)
+Melee: 
+  - Attack: "mwk lance +22/+17/+12"
+    Effect: "3d6+13/x3"
+  - Attack: "gore +21"
+    Effect: "2d6+9"
+  - Attack: "2 hooves +16"
+    Effect: "1d8+4"
 Reach: 10 ft. (20 ft. with lance)
-Ranged: mwk composite longbow +16/+11/+6 (3d6+9/x3)
+Ranged: 
+  - Attack: "mwk composite longbow +16/+11/+6"
+    Effect: "3d6+9/x3"
 SpecialAttacks: natural jouster, thunderous trample, trample (1d8+13, DC 26)
 SpellLikeAbilities: 
 STR: 29

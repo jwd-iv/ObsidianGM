@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +4 (1d4+1 plus energy drain)
+Melee: 
+  - Attack: "slam +4"
+    Effect: "1d4+1 plus energy drain"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: create spawn, energy drain (1 level, DC 14)

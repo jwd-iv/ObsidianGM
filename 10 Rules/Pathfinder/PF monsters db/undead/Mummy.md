@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +14 (1d8+10 plus mummy rot)
+Melee: 
+  - Attack: "slam +14"
+    Effect: "1d8+10 plus mummy rot"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

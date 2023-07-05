@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +5 (1d8+1 plus 1d6 fire)
+Melee: 
+  - Attack: "bite +5"
+    Effect: "1d8+1 plus 1d6 fire"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (10-ft. cone, once every 2d4  rounds, 2d6 fire damage, Reflex DC 14 for half )

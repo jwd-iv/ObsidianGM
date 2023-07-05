@@ -35,7 +35,11 @@ Climb:
 Fly: 30 ft.
 Maneuverability: good
 Swim: 
-Melee: 4 bites +15 (1d6+3/19-20 plus 1d4 acid), bite +15 (2d6+3/19-20 plus 1d4 acid)
+Melee: 
+  - Attack: "4 bites +15"
+    Effect: "1d6+3/19-20 plus 1d4 acid"
+  - Attack: "bite +15"
+    Effect: "2d6+3/19-20 plus 1d4 acid"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: horrific appearance (DC 18)

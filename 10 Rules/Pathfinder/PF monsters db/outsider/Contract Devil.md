@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: binding contract (whip) +20/+15/+10 (1d4+7 plus bleed and grab), gore +11 (2d6+1)
+Melee: 
+  - Attack: "binding contract"
+    Effect: "whip"
+  - Attack: "+20/+15/+10"
+    Effect: "1d4+7 plus bleed and grab"
+  - Attack: "gore +11"
+    Effect: "2d6+1"
 Reach: 5 ft. (10 ft. with binding contract)
 Ranged: 
 SpecialAttacks: binding contract, bleed (1d6), impale (2d8+4)

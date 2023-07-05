@@ -36,7 +36,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 3 claws +9 (1d8+3 plus grab), bite +10 (1d6+3)
+Melee: 
+  - Attack: "3 claws +9"
+    Effect: "1d8+3 plus grab"
+  - Attack: "bite +10"
+    Effect: "1d6+3"
 Reach: 5 ft. (10 ft. with claws)
 Ranged: 
 SpecialAttacks: breath weapon (30-ft. line, 2d6 acid damage plus recurring damage, Reflex DC 18 half, usable every 1d4 rounds), constrict (1d8+3), implant eggs

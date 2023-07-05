@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 3 vines +11 (1d6+7 plus grab and pull)
+Melee: 
+  - Attack: "3 vines +11"
+    Effect: "1d6+7 plus grab and pull"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: constrict (1d6+7), hallucinatory spores, pull (vine, 5 feet), strangle, swallow whole (2d6+7 bludgeoning damage, AC 16, 8 hp), vines

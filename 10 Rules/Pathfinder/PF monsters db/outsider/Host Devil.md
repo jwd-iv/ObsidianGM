@@ -36,7 +36,11 @@ Climb:
 Fly: 50 ft.
 Maneuverability: average
 Swim: 
-Melee: mwk ranseur +12/+7 (2d4+6/x3) or 2 claws +11 (1d6+4 plus 2 bleed)
+Melee: 
+  - Attack: "mwk ranseur +12/+7"
+    Effect: "2d4+6/x3"
+  - Attack: "2 claws +11"
+    Effect: "1d6+4 plus 2 bleed"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: noxious breath, rend (2 claws, 1d6+6 plus 2 bleed)

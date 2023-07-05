@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: gore +10 (2d6+12)
+Melee: 
+  - Attack: "gore +10"
+    Effect: "2d6+12"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: stampede (see aurochs), trample (2d6+12, DC 20)

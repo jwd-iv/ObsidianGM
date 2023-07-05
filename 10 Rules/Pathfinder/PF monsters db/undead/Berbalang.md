@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +9 (1d6+3 plus paralysis), 2 claws +9 (1d6+3 plus paralysis) or   incorporeal touch +10 (1d4 Con damage)
+Melee: 
+  - Attack: "bite +9"
+    Effect: "1d6+3 plus paralysis"
+  - Attack: "2 claws +9"
+    Effect: "1d6+3 plus paralysis"
+  - Attack: "incorporeal touch +10"
+    Effect: "1d4 Con damage"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: paralysis (1d4+1 rounds, DC 18)

@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 halberd +18/+13 (1d10+14/x3)
+Melee: 
+  - Attack: "+1 halberd +18/+13"
+    Effect: "1d10+14/x3"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: latch

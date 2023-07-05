@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +7 (1d8+7 plus grab)
+Melee: 
+  - Attack: "slam +7"
+    Effect: "1d8+7 plus grab"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: constrict (1d8+7), entangle

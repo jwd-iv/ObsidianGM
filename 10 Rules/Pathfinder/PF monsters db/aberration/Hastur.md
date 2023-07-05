@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 4 tattered lash +41 (2d8+7 plus bleed)
+Melee: 
+  - Attack: "4 tattered lash +41"
+    Effect: "2d8+7 plus bleed"
 Reach: 40 ft.
 Ranged: 
 SpecialAttacks: bleed (1d6), fulvous dreams, mythic power (10/ day, surge +1d12), reveal visage, sneak attack +10d6, Yellow Sign

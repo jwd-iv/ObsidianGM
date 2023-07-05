@@ -35,7 +35,9 @@ Climb:
 Fly: 50 ft.
 Maneuverability: perfect
 Swim: 
-Melee: shock +16 touch (2d8 electricity)
+Melee: 
+  - Attack: "shock +16 touch"
+    Effect: "2d8 electricity"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

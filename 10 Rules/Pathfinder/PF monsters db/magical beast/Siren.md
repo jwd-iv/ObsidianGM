@@ -35,7 +35,9 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: 2 talons +11 (1d6)
+Melee: 
+  - Attack: "2 talons +11"
+    Effect: "1d6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: bardic performance, siren's song, sneak attack +2d6

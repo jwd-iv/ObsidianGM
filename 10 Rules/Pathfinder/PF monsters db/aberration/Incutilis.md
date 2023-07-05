@@ -36,7 +36,9 @@ Climb: 5 ft.
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: 2 tentacles +2 (1d4+2 plus grab)
+Melee: 
+  - Attack: "2 tentacles +2"
+    Effect: "1d4+2 plus grab"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: puppetmaster

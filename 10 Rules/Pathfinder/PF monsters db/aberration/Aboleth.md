@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 60 ft.
-Melee: 4 tentacles +10 (1d6+5 plus slime)
+Melee: 
+  - Attack: "4 tentacles +10"
+    Effect: "1d6+5 plus slime"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: 

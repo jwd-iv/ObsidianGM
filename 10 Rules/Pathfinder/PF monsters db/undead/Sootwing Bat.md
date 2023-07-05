@@ -36,7 +36,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: good
 Swim: 
-Melee: bite +4 (1d3-3 plus disease and paralysis)
+Melee: 
+  - Attack: "bite +4"
+    Effect: "1d3-3 plus disease and paralysis"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: disease (DC 10), paralysis (1d4+1 rounds, DC 10, elves are immune to this effect)

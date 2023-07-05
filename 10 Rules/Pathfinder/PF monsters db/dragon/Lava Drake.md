@@ -36,7 +36,13 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: bite +17 (1d8+7), 2 claws +17 (1d6+7), tail slap +15 (1d8+3)
+Melee: 
+  - Attack: "bite +17"
+    Effect: "1d8+7"
+  - Attack: "2 claws +17"
+    Effect: "1d6+7"
+  - Attack: "tail slap +15"
+    Effect: "1d8+3"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: magma shake, pyroclastic vomit

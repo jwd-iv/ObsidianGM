@@ -35,7 +35,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +14 (2d6+9), 3 roots +12 (1d6+4 plus pull)
+Melee: 
+  - Attack: "bite +14"
+    Effect: "2d6+9"
+  - Attack: "3 roots +12"
+    Effect: "1d6+4 plus pull"
 Reach: 15 ft. (60 ft. with root)
 Ranged: 
 SpecialAttacks: pull (root, 10 ft.)

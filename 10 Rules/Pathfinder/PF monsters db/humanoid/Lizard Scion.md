@@ -36,9 +36,19 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: mwk trident +9 (2d6+3), bite +5 (1d8+1) or 2 claws +7 (1d6+3), bite +5 (1d8+1)
+Melee: 
+  - Attack: "mwk trident +9"
+    Effect: "2d6+3"
+  - Attack: "bite +5"
+    Effect: "1d8+1"
+  - Attack: "2 claws +7"
+    Effect: "1d6+3"
+  - Attack: "bite +5"
+    Effect: "1d8+1"
 Reach: 10 ft.
-Ranged: mwk javelin +5 (1d8+3)
+Ranged: 
+  - Attack: "mwk javelin +5"
+    Effect: "1d8+3"
 SpecialAttacks: blood rage
 SpellLikeAbilities: 
 STR: 16

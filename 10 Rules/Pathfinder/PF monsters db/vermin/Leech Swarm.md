@@ -35,7 +35,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 30 ft.
-Melee: swarm (2d6 plus poison)
+Melee: 
+  - Attack: "swarm"
+    Effect: "2d6 plus poison"
 Reach: 0 ft.
 Ranged: 
 SpecialAttacks: blood drain, distraction (DC 15)

@@ -36,9 +36,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 200 ft.
-Melee: bite +39 (6d6+18/19-20 plus grab), 2 claws +39 (3d6+18), tail slap +34 (4d6+9 plus trip)
+Melee: 
+  - Attack: "bite +39"
+    Effect: "6d6+18/19-20 plus grab"
+  - Attack: "2 claws +39"
+    Effect: "3d6+18"
+  - Attack: "tail slap +34"
+    Effect: "4d6+9 plus trip"
 Reach: 20 ft.
-Ranged: water jet +20 (4d8+18/19-20 plus stun and push)
+Ranged: 
+  - Attack: "water jet +20"
+    Effect: "4d8+18/19-20 plus stun and push"
 SpecialAttacks: capsize (DC 25), fast swallow, push (water jet, 20 ft.), rend (2 claws, 3d6+18), ruinous, swallow whole (4d6+27 bludgeoning, AC 28, 39 hp)
 SpellLikeAbilities: Spell-Like Abilities (CL 20th; concentration +22)   3/day-tsunami (DC 21)
 STR: 47

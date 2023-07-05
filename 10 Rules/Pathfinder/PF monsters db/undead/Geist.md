@@ -36,7 +36,9 @@ Climb:
 Fly: 40 ft.
 Maneuverability: perfect
 Swim: 
-Melee: incorporeal bite +14 (1d6 negative energy plus 1d4 Con)
+Melee: 
+  - Attack: "incorporeal bite +14"
+    Effect: "1d6 negative energy plus 1d4 Con"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: spiritual manipulation, terrifying laughter (30 ft.; DC 21)

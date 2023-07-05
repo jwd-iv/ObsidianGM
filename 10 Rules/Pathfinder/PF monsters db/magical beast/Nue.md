@@ -36,7 +36,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +17 (2d6+6 plus energy drain), bite +17 (1d4+6 plus poison), 2 claws +17 (1d6+6)
+Melee: 
+  - Attack: "bite +17"
+    Effect: "2d6+6 plus energy drain"
+  - Attack: "bite +17"
+    Effect: "1d4+6 plus poison"
+  - Attack: "2 claws +17"
+    Effect: "1d6+6"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: energy drain (2 levels, DC 16), pounce

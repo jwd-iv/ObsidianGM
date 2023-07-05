@@ -35,7 +35,11 @@ Climb:
 Fly: 60 ft.
 Maneuverability: perfect
 Swim: 
-Melee: 2 slams +10 (1d8+4) or mwk scimitar +11/+6 (1d8+4/18-20)
+Melee: 
+  - Attack: "2 slams +10"
+    Effect: "1d8+4"
+  - Attack: "mwk scimitar +11/+6"
+    Effect: "1d8+4/18-20"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: air mastery, whirlwind (1/10 minutes, 10-50 ft. tall, 1d8+4 damage, DC 17)

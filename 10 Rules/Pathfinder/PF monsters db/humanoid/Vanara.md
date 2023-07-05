@@ -36,7 +36,11 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: quarterstaff +1 (1d6+1) or flurry of blows +0/+0 (1d6+1)
+Melee: 
+  - Attack: "quarterstaff +1"
+    Effect: "1d6+1"
+  - Attack: "flurry of blows +0/+0"
+    Effect: "1d6+1"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: flurry of blows, stunning fist (1/day, DC 13)

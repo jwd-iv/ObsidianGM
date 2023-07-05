@@ -36,7 +36,9 @@ Climb: 10 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: slam +18 (7d8+9/18-20 plus entrap)
+Melee: 
+  - Attack: "slam +18"
+    Effect: "7d8+9/18-20 plus entrap"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: crystallize, entrap (DC 22, 1d10 rounds, hardness 10, hp 10), razor sharp

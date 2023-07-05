@@ -35,7 +35,11 @@ Climb:
 Fly: 30 ft.
 Maneuverability: perfect
 Swim: 
-Melee: bite +32 (6d6+16/19-20 plus grab), 4 tentacles +27 (3d8+8/19-20 plus grab)
+Melee: 
+  - Attack: "bite +32"
+    Effect: "6d6+16/19-20 plus grab"
+  - Attack: "4 tentacles +27"
+    Effect: "3d8+8/19-20 plus grab"
 Reach: 30 ft. (60 ft. with tentacle)
 Ranged: 
 SpecialAttacks: spore cough, constrict (3d8+16), swallow whole (20d8 acid, AC 28, 41 hp)

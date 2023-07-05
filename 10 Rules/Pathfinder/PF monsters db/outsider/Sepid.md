@@ -36,7 +36,11 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: +1 falchion +23/+18/+13 (2d6+11/15-20) or 2 claws +21 (1d6+7)
+Melee: 
+  - Attack: "+1 falchion +23/+18/+13"
+    Effect: "2d6+11/15-20"
+  - Attack: "2 claws +21"
+    Effect: "1d6+7"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: rain of debris

@@ -36,7 +36,15 @@ Climb:
 Fly: 60 ft.
 Maneuverability: average
 Swim: 
-Melee: +1 conductive falchion +29/+24/+19/+14 (2d6+13/15-20 plus 1d10 electricity), gore +22 (2d8+4) or   2 claws +27 (2d6+8), gore +27 (2d8+8)
+Melee: 
+  - Attack: "+1 conductive falchion +29/+24/+19/+14"
+    Effect: "2d6+13/15-20 plus 1d10 electricity"
+  - Attack: "gore +22"
+    Effect: "2d8+4"
+  - Attack: "2 claws +27"
+    Effect: "2d6+8"
+  - Attack: "gore +27"
+    Effect: "2d8+8"
 Reach: 10 ft.
 Ranged: 
 SpecialAttacks: create spawn, dust vortex, shocking touch

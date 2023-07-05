@@ -38,7 +38,9 @@ Maneuverability:
 Swim: 
 Melee: 
 Reach: 5 ft.
-Ranged: spore pod +7 touch (spores)
+Ranged: 
+  - Attack: "spore pod +7 touch"
+    Effect: "spores"
 SpecialAttacks: infestation, spores
 SpellLikeAbilities: Spell-Like Abilities (CL 8th; concentration +9)   1/day-dominate person (DC 16)
 STR: 2

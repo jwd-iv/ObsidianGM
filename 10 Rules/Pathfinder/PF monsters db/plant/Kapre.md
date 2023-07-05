@@ -36,7 +36,9 @@ Climb: 30 ft.
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 slams +17 (2d6+12)
+Melee: 
+  - Attack: "2 slams +17"
+    Effect: "2d6+12"
 Reach: 15 ft.
 Ranged: 
 SpecialAttacks: blow smoke

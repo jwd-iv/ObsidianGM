@@ -35,9 +35,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +3 (1d4+1/19-20), bite -2 (1d3)
+Melee: 
+  - Attack: "dagger +3"
+    Effect: "1d4+1/19-20"
+  - Attack: "bite -2"
+    Effect: "1d3"
 Reach: 5 ft.
-Ranged: short bow +3 (1d6/x3)
+Ranged: 
+  - Attack: "short bow +3"
+    Effect: "1d6/x3"
 SpecialAttacks: sneak attack +1d6
 SpellLikeAbilities: 
 STR: 12

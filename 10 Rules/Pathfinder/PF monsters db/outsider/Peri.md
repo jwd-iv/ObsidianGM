@@ -36,7 +36,11 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: +2 flaming burst scimitar +27/+22/+17/+12 (1d6+11/18-20 plus 1d6 fire), 2 wings +20 (1d6+3 plus burn)
+Melee: 
+  - Attack: "+2 flaming burst scimitar +27/+22/+17/+12"
+    Effect: "1d6+11/18-20 plus 1d6 fire"
+  - Attack: "2 wings +20"
+    Effect: "1d6+3 plus burn"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: burn (2d6, DC 23), whirlwind dance

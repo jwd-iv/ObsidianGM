@@ -36,7 +36,15 @@ Climb: 30 ft.
 Fly: 200 ft.
 Maneuverability: average
 Swim: 30 ft.
-Melee: 2 claws +36 (2d8+14), bite +36 (4d6+21 plus grab and poison), 2 wings +34 (2d6+7), tail slap +34 (2d8+21 plus grab)
+Melee: 
+  - Attack: "2 claws +36"
+    Effect: "2d8+14"
+  - Attack: "bite +36"
+    Effect: "4d6+21 plus grab and poison"
+  - Attack: "2 wings +34"
+    Effect: "2d6+7"
+  - Attack: "tail slap +34"
+    Effect: "2d8+21 plus grab"
 Reach: 15 ft. (20 ft. with bite)
 Ranged: 
 SpecialAttacks: agonizing venom, breath weapon (60-ft. cone, 2d4 Con damage from poison, Fortitude DC 33 half, usable every 1d4 rounds), constrict (2d8+21), fast swallow, lingering poisonous cloud, mythic power (10/day, surge +1d12), poison, swallow whole (6d6 bludgeoning damage plus poison, AC 25, 52 hp)

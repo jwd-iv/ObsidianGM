@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +6 (2d8+6)
+Melee: 
+  - Attack: "bite +6"
+    Effect: "2d8+6"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: breath weapon (15-ft. cone, 2d4 acid damage, Reflex DC 14 half, usable once every 1d4 rounds), trample (1d6+6, DC 16)

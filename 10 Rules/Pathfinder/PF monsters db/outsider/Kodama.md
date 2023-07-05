@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: 2 claws +9 (1d3+2)
+Melee: 
+  - Attack: "2 claws +9"
+    Effect: "1d3+2"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: distracting gaze, sneak attack +2d6

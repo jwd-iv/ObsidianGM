@@ -36,7 +36,9 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: kick +1 (1d6+1 plus trip)
+Melee: 
+  - Attack: "kick +1"
+    Effect: "1d6+1 plus trip"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: 

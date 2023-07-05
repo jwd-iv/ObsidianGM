@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: sting +13 (1d4+3 plus poison), 2 claws +13 (1d4+3)
+Melee: 
+  - Attack: "sting +13"
+    Effect: "1d4+3 plus poison"
+  - Attack: "2 claws +13"
+    Effect: "1d4+3"
 Reach: 5 ft.
-Ranged: dart +12/+7 (1d4+3)
+Ranged: 
+  - Attack: "dart +12/+7"
+    Effect: "1d4+3"
 SpecialAttacks: poison
 SpellLikeAbilities: Spell-Like Abilities (CL 10th; concentration +14)  3/day-detect thoughts (DC 16), sending (to the hive queen only)
 STR: 17

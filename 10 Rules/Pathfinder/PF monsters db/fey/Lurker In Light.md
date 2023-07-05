@@ -35,7 +35,11 @@ Climb:
 Fly: 30 ft.
 Maneuverability: average
 Swim: 
-Melee: 2 claws +9 (1d3+1) or  dagger +9 (1d3+1/19-20 plus poison)
+Melee: 
+  - Attack: "2 claws +9"
+    Effect: "1d3+1"
+  - Attack: "dagger +9"
+    Effect: "1d3+1/19-20 plus poison"
 Reach: 5 ft.
 Ranged: 
 SpecialAttacks: sneak attack +3d6

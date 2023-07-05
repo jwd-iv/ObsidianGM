@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: dagger +3 (1d2-4/19-20)
+Melee: 
+  - Attack: "dagger +3"
+    Effect: "1d2-4/19-20"
 Reach: 0 ft.
-Ranged: shortbow +3 (1d3-4/x3)
+Ranged: 
+  - Attack: "shortbow +3"
+    Effect: "1d3-4/x3"
 SpecialAttacks: 
 SpellLikeAbilities: Spell-Like Abilities (CL 1st; concentration -1)  At will-prestidigitation, speak with animals  1/day-shatter (DC 10)
 STR: 3

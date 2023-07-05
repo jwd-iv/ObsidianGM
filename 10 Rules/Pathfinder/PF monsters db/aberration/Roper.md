@@ -35,9 +35,13 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +20 (4d8+18/19-20)
+Melee: 
+  - Attack: "bite +20"
+    Effect: "4d8+18/19-20"
 Reach: 10 ft.
-Ranged: 6 strands +10 touch (1d6 Strength)
+Ranged: 
+  - Attack: "6 strands +10 touch"
+    Effect: "1d6 Strength"
 SpecialAttacks: pull (strand, 5 feet), strands
 SpellLikeAbilities: 
 STR: 34

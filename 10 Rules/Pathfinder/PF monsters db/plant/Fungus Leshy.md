@@ -36,9 +36,15 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +2 (1d6), 2 claws +2 (1d3)
+Melee: 
+  - Attack: "bite +2"
+    Effect: "1d6"
+  - Attack: "2 claws +2"
+    Effect: "1d3"
 Reach: 5 ft.
-Ranged: puffball +4 (1 plus spores)
+Ranged: 
+  - Attack: "puffball +4"
+    Effect: "1 plus spores"
 SpecialAttacks: spores
 SpellLikeAbilities: Spell-Like Abilities (CL 4th; concentration +6)  Constant-pass without trace
 STR: 10

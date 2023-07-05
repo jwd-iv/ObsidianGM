@@ -35,9 +35,17 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 40 ft.
-Melee: trident +4 (1d8+2), claw +2 (1d4+1), bite +2 (1d6+1)
+Melee: 
+  - Attack: "trident +4"
+    Effect: "1d8+2"
+  - Attack: "claw +2"
+    Effect: "1d4+1"
+  - Attack: "bite +2"
+    Effect: "1d6+1"
 Reach: 5 ft.
-Ranged: trident +3 (1d8+2)
+Ranged: 
+  - Attack: "trident +3"
+    Effect: "1d8+2"
 SpecialAttacks: 
 SpellLikeAbilities: 
 STR: 15

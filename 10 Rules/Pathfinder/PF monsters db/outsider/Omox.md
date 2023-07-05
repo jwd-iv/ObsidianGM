@@ -35,9 +35,13 @@ Climb: 20 ft.
 Fly: 
 Maneuverability: 
 Swim: 80 ft.
-Melee: 2 slams +21 (1d6+8 plus 3d6 acid and grab)
+Melee: 
+  - Attack: "2 slams +21"
+    Effect: "1d6+8 plus 3d6 acid and grab"
 Reach: 5 ft.
-Ranged: slime +20 (1d6 plus 3d6 acid and entangle)
+Ranged: 
+  - Attack: "slime +20"
+    Effect: "1d6 plus 3d6 acid and entangle"
 SpecialAttacks: smothering
 SpellLikeAbilities: Spell-Like Abilities (CL 12th; concentration +16)  At will-create water, greater teleport (self plus 50 lbs. of objects only), liquid leap (see below), telekinesis (DC 19)  3/day-gaseous form, control water, poison (DC 18), stinking cloud (DC 17)  1/day-acid fog, summon (level 4, 1 omox 30% or 1d4 babaus 60%)
 STR: 26
