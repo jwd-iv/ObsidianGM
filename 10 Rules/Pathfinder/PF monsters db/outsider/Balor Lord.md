@@ -36,7 +36,7 @@ Climb:
 Fly: 90 ft.
 Maneuverability: good
 Swim: 
-Melee: (rage) +1 vorpal unholy longsword +40/+35/+30/+25 (2d6+17), +1 vorpal flaming whip+39/+34/+29 (1d4+9 plus 1d6 fire and entangle) or 2 slams +40(1d10+16)
+Melee: +1 vorpal unholy longsword +40/+35/+30/+25 (2d6+17), +1 vorpal flaming whip+39/+34/+29 (1d4+9 plus 1d6 fire and entangle) or 2 slams +40(1d10+16)
 Reach: 10 ft. (20 ft. with whip)
 Ranged: 
 SpecialAttacks: rage (27 rounds/day), rage powers (knockback)

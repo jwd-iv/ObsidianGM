@@ -35,10 +35,10 @@ Climb:
 Fly: 60 ft.
 Maneuverability: good
 Swim: 
-Melee: incorporeal touch +6 (1d6 negative energy plus 1d6 Con drain) Special Attack create spawn
+Melee: incorporeal touch +6 (1d6 negative energy plus 1d6 Con drain)
 Reach: 5 ft.
 Ranged: 
-SpecialAttacks: 
+SpecialAttacks: create spawn
 SpellLikeAbilities: 
 STR: -
 DEX: 16

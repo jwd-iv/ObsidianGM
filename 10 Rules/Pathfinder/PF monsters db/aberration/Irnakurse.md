@@ -36,7 +36,7 @@ Climb:
 Fly: 
 Maneuverability: 
 Swim: 
-Melee: bite +8 14 (1d8+7), 4 tentacles +8 (1d6+3 plus mind lash)
+Melee: bite +8 (1d8+7), 4 tentacles +8 (1d6+3 plus mind lash)
 Reach: 10 ft. (15 ft. with tentacles)
 Ranged: 
 SpecialAttacks: soul scream, rend (2 tentacles 2d6+10; 3 tentacles 3d6+10; 4 tentacles 4d6+10)
