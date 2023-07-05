@@ -32,26 +32,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Brief:
-    input: text
-    accessorKey: Brief
-    key: Brief
-    id: Brief
-    label: Brief
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 302
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   CR:
     input: number
     key: CR
@@ -79,46 +59,6 @@ columns:
     id: MR
     label: MR
     position: 6
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Image:
-    input: text
-    accessorKey: Image
-    key: Image
-    id: newColumn70
-    label: Image
-    position: 7
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    isSorted: false
-    isSortedDesc: true
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  aliases:
-    input: text
-    accessorKey: aliases
-    key: aliases
-    id: aliases
-    label: aliases
-    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -346,25 +286,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  ACMods:
-    input: text
-    accessorKey: ACMods
-    key: ACMods
-    id: ACMods
-    label: ACMods
-    position: 21
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   HP:
     input: text
     accessorKey: HP
@@ -372,25 +293,6 @@ columns:
     id: HP
     label: HP
     position: 22
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  HD:
-    input: text
-    accessorKey: HD
-    key: HD
-    id: HD
-    label: HD
-    position: 23
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -844,120 +746,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  STR:
-    input: text
-    accessorKey: STR
-    key: STR
-    id: STR
-    label: STR
-    position: 47
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  DEX:
-    input: text
-    accessorKey: DEX
-    key: DEX
-    id: DEX
-    label: DEX
-    position: 48
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  CON:
-    input: text
-    accessorKey: CON
-    key: CON
-    id: CON
-    label: CON
-    position: 49
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  INT:
-    input: text
-    accessorKey: INT
-    key: INT
-    id: INT
-    label: INT
-    position: 50
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  WIS:
-    input: text
-    accessorKey: WIS
-    key: WIS
-    id: WIS
-    label: WIS
-    position: 51
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  CHA:
-    input: text
-    accessorKey: CHA
-    key: CHA
-    id: CHA
-    label: CHA
-    position: 52
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   BAB:
     input: text
     accessorKey: BAB
@@ -1015,63 +803,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Feats:
-    input: text
-    accessorKey: Feats
-    key: Feats
-    id: Feats
-    label: Feats
-    position: 56
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Skills:
-    input: text
-    accessorKey: Skills
-    key: Skills
-    id: Skills
-    label: Skills
-    position: 57
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  RacialMods:
-    input: text
-    accessorKey: RacialMods
-    key: RacialMods
-    id: RacialMods
-    label: RacialMods
-    position: 58
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Languages:
     input: text
     accessorKey: Languages
@@ -1103,120 +834,6 @@ columns:
     sortIndex: -1
     isSorted: false
     isSortedDesc: true
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  SpellLikeAbilities:
-    input: text
-    accessorKey: SpellLikeAbilities
-    key: SpellLikeAbilities
-    id: SpellLikeAbilities
-    label: SpellLikeAbilities
-    position: 61
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  SpellDomains:
-    input: text
-    accessorKey: SpellDomains
-    key: SpellDomains
-    id: SpellDomains
-    label: SpellDomains
-    position: 62
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Bloodline:
-    input: text
-    accessorKey: Bloodline
-    key: Bloodline
-    id: Bloodline
-    label: Bloodline
-    position: 63
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  SpellsKnown:
-    input: text
-    accessorKey: SpellsKnown
-    key: SpellsKnown
-    id: SpellsKnown
-    label: SpellsKnown
-    position: 64
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  SpellsPrepared:
-    input: text
-    accessorKey: SpellsPrepared
-    key: SpellsPrepared
-    id: SpellsPrepared
-    label: SpellsPrepared
-    position: 65
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  SpecialAbilities:
-    input: text
-    accessorKey: SpecialAbilities
-    key: SpecialAbilities
-    id: SpecialAbilities
-    label: SpecialAbilities
-    position: 66
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -1264,25 +881,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Group:
-    input: text
-    accessorKey: Group
-    key: Group
-    id: Group
-    label: Group
-    position: 69
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Organization:
     input: text
     accessorKey: Organization
@@ -1309,25 +907,6 @@ columns:
     id: Treasure
     label: Treasure
     position: 71
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Description:
-    input: text
-    accessorKey: Description
-    key: Description
-    id: Description
-    label: Description
-    position: 72
     skipPersist: false
     isHidden: false
     sortIndex: -1
