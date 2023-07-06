@@ -64,12 +64,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest/swamps
 Temperature: warm
 Organization: solitary, pair, or pack (3-6)
 Treasure: none
-Description: >
-  Larger even than the tyrannosaurus, the spinosaurus is 60 feet long and weighs 25,000 pounds or more. It hunts primarily along coastal and river shorelines.  Spinosaurus Companions  Starting Statistics: Size Medium; Speed 30 ft., swim 20 ft.; AC +3 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 18, Dex 15, Con 15, Int 2, Wis 13, Cha 3.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Larger even than the tyrannosaurus, the spinosaurus is 60 feet long and weighs 25,000 pounds or more. It hunts primarily along coastal and river shorelines.  Spinosaurus Companions  Starting Statistics: Size Medium; Speed 30 ft., swim 20 ft.; AC +3 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 18, Dex 15, Con 15, Int 2, Wis 13, Cha 3.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex -2, Con +4.

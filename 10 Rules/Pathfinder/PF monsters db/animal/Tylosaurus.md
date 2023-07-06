@@ -61,12 +61,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: aquatic
 Temperature: warm
 Organization: solitary, pair, or school (3-6)
 Treasure: None
-Description: >
-  This predatory marine lizard swims with four flippered limbs and a powerful, fluke-like tail. Its extended snout is filled with sharp teeth, and it feeds on both aquatic and surface prey. They are known to attack ships, mistaking them for basking whales or other creatures. A tylosaurus grows up to 50 feet in length and weighs 30,000 pounds.  TYLOSAURUS COMPANIONS  Starting Stats: Size Medium; Speed 20 ft., swim 50 ft.; AC +3 natural armor; Attack bite (1d6); Ability Scores Str 10, Dex 17, Con 10, Int 2, Wis 13, Cha 9; SQ low-light vision, scent.  7th-level Adv.: Size Large; AC +2 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4; SQ grab.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This predatory marine lizard swims with four flippered limbs and a powerful, fluke-like tail. Its extended snout is filled with sharp teeth, and it feeds on both aquatic and surface prey. They are known to attack ships, mistaking them for basking whales or other creatures. A tylosaurus grows up to 50 feet in length and weighs 30,000 pounds.  TYLOSAURUS COMPANIONS  Starting Stats: Size Medium; Speed 20 ft., swim 50 ft.; AC +3 natural armor; Attack bite (1d6); Ability Scores Str 10, Dex 17, Con 10, Int 2, Wis 13, Cha 9; SQ low-light vision, scent.  7th-level Adv.: Size Large; AC +2 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4; SQ grab.

@@ -61,12 +61,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest/plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-12)
 Treasure: none
-Description: >
-  This herbivore is 30 feet long and weighs 10,500 pounds. It is notable for the long, curved crest atop its skull.  PARASAUROLOPHUS COMPANIONS  Starting Stats: Size Medium; Speed 30 ft.; AC +2 natural armor; Attack tail (1d6); Ability Scores Str 11, Dex 18, Con 9, Int 2, Wis 13, Cha 10; SQ low-light vision, scent.  7th-level Advancement: Size Large; AC +2 natural armor; Attack tail (1d8); Ability Scores Str +8, Dex -2, Con +4; SQ trample (1d8).
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This herbivore is 30 feet long and weighs 10,500 pounds. It is notable for the long, curved crest atop its skull.  PARASAUROLOPHUS COMPANIONS  Starting Stats: Size Medium; Speed 30 ft.; AC +2 natural armor; Attack tail (1d6); Ability Scores Str 11, Dex 18, Con 9, Int 2, Wis 13, Cha 10; SQ low-light vision, scent.  7th-level Advancement: Size Large; AC +2 natural armor; Attack tail (1d8); Ability Scores Str +8, Dex -2, Con +4; SQ trample (1d8).

@@ -65,12 +65,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest
 Temperature: warm
 Organization: solitary, pair, or pack (3-12)
 Treasure: none
-Description: >
-  As swift and agile as it is deadly, the deinonychus is a pack hunter, running with several of its kind to take down prey and rip it apart with their gutting talons. You can apply the young simple template to create statistics for smaller, more agile velociraptors. Conversely, you can either increase the deinonychus to Large size and its Hit Dice to 8 or simply apply the giant and advanced simple templates to create a formidable megaraptor. Elasmosaurus Companions Starting Statistics: Size Medium; Speed 20 ft., swim 50 ft.; AC +2 natural armor; Attack bite (1d8); Ability Scores Str 10, Dex 18, Con 12, Int 2, Wis 13, Cha 9; Special Qualities low-light vision, scent. 4th-Level Advancement: Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+As swift and agile as it is deadly, the deinonychus is a pack hunter, running with several of its kind to take down prey and rip it apart with their gutting talons. You can apply the young simple template to create statistics for smaller, more agile velociraptors. Conversely, you can either increase the deinonychus to Large size and its Hit Dice to 8 or simply apply the giant and advanced simple templates to create a formidable megaraptor. Elasmosaurus Companions Starting Statistics: Size Medium; Speed 20 ft., swim 50 ft.; AC +2 natural armor; Attack bite (1d8); Ability Scores Str 10, Dex 18, Con 12, Int 2, Wis 13, Cha 9; Special Qualities low-light vision, scent. 4th-Level Advancement: Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4.

@@ -64,12 +64,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-14)
 Treasure: none
-Description: >
-  The diplodocus is one of the longest dinosaurs, capable of reaching lengths of 100 feet or more. Much of this length is taken up by the diplodocus's tremendously powerful whiplike tail, a devastating weapon capable of striking at a considerable range.  Diplodocus Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +6 natural armor; Attack tail (1d8); Ability Scores Str 10, Dex 14, Con 10, Int 2, Wis 12, Cha 10; SQ low-light vision, scent.  7th-level Advancement: Size Large; AC +3 natural armor; Attack tail (2d6); Ability Scores Str +6, Con +4; SQ tail lash.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The diplodocus is one of the longest dinosaurs, capable of reaching lengths of 100 feet or more. Much of this length is taken up by the diplodocus's tremendously powerful whiplike tail, a devastating weapon capable of striking at a considerable range.  Diplodocus Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +6 natural armor; Attack tail (1d8); Ability Scores Str 10, Dex 14, Con 10, Int 2, Wis 12, Cha 10; SQ low-light vision, scent.  7th-level Advancement: Size Large; AC +3 natural armor; Attack tail (2d6); Ability Scores Str +6, Con +4; SQ tail lash.

@@ -64,12 +64,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: plains
 Temperature: temperate/warm
 Organization: solitary or pair
 Treasure: none
-Description: >
-  A pachycephalosaurus is a normally peaceful dinosaur that grows irate and violent during mating season or when its herd is intruded upon by potential predators. The dinosaur's skull has a distinctive dome-shaped crown surrounded by numerous bony horns- this, combined with the dinosaur's powerful, compact neck, allows it to make battering-ram-like charges capable of inf licting great damage.  Pachycephalosauruses grow to a length of 15 feet and weigh 1,400 pounds.  Pachycephalosaurus Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +3 natural armor; Attack gore (1d8); Ability Scores Str 15, Dex 16, Con 13, Int 2, Wis 12, Cha 5.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack gore (1d10); Ability Scores Str +8, Dex -2, Con +4; Special Qualities clobbering charge.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A pachycephalosaurus is a normally peaceful dinosaur that grows irate and violent during mating season or when its herd is intruded upon by potential predators. The dinosaur's skull has a distinctive dome-shaped crown surrounded by numerous bony horns- this, combined with the dinosaur's powerful, compact neck, allows it to make battering-ram-like charges capable of inf licting great damage.  Pachycephalosauruses grow to a length of 15 feet and weigh 1,400 pounds.  Pachycephalosaurus Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +3 natural armor; Attack gore (1d8); Ability Scores Str 15, Dex 16, Con 13, Int 2, Wis 12, Cha 5.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack gore (1d10); Ability Scores Str +8, Dex -2, Con +4; Special Qualities clobbering charge.

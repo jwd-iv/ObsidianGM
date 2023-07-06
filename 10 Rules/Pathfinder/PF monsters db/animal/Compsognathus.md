@@ -63,11 +63,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest/plains
 Temperature: temperate/warm
 Organization: solitary, pair, or pack (5-20)
 Treasure: none
-Description: The compsognathus is a small dinosaur that moves in swift, darting motions. Its bite injects a venom that causes numbness and weakness, a trait that the animal uses to bring down larger prey. A compsognathus measures 3 feet long and weighs 15 pounds.  These dinosaurs can serve spellcasters as a familiar. A compsognathus familiar grants its master a +4 bonus on Initiative checks.
 Race: 
 Class: 
 MR: 
@@ -77,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The compsognathus is a small dinosaur that moves in swift, darting motions. Its bite injects a venom that causes numbness and weakness, a trait that the animal uses to bring down larger prey. A compsognathus measures 3 feet long and weighs 15 pounds.  These dinosaurs can serve spellcasters as a familiar. A compsognathus familiar grants its master a +4 bonus on Initiative checks.

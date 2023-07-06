@@ -64,12 +64,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest (coastal)
 Temperature: warm
 Organization: solitary, pair, or flock (3-9)
 Treasure: none
-Description: >
-  The dimorphodon's jaws contain two separate rows teeth: several large fangs near the front (used to grip prey and inject poison) and numerous smaller, sharp teeth along the rest of the jaw. Dimorphodons are known for being easy to train. Handle Animal checks to train dimorphodons are attempted with a +4 bonus, and a dimorphodon can know one bonus trick chosen by its trainer once the creature has been fully domesticated. A dimorphodon's wingspan is between 4 and 5 feet long.  Dimorphodon Companions  Starting Statistics: Size Small; Speed 10 ft., fly 80 ft. (clumsy); AC +1 natural armor; Attack bite (1d4); Ability Scores Str 8, Dex 15, Con 12, Int 2, Wis 14, Cha 6; SQ low-light vision, scent. 4th-Level Advancement: Attack bite (1d6); Ability Scores Str +2, Con +2; Special Attacks poison ( frequency 1 round (6); effect 1 Str damage; cure 1 save, Con-based DC).
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The dimorphodon's jaws contain two separate rows teeth: several large fangs near the front (used to grip prey and inject poison) and numerous smaller, sharp teeth along the rest of the jaw. Dimorphodons are known for being easy to train. Handle Animal checks to train dimorphodons are attempted with a +4 bonus, and a dimorphodon can know one bonus trick chosen by its trainer once the creature has been fully domesticated. A dimorphodon's wingspan is between 4 and 5 feet long.  Dimorphodon Companions  Starting Statistics: Size Small; Speed 10 ft., fly 80 ft. (clumsy); AC +1 natural armor; Attack bite (1d4); Ability Scores Str 8, Dex 15, Con 12, Int 2, Wis 14, Cha 6; SQ low-light vision, scent. 4th-Level Advancement: Attack bite (1d6); Ability Scores Str +2, Con +2; Special Attacks poison ( frequency 1 round (6); effect 1 Str damage; cure 1 save, Con-based DC).

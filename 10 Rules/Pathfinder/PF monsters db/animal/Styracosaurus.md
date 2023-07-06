@@ -64,12 +64,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-16)
 Treasure: none
-Description: >
-  The styracosaurus is a bulky dinosaur with a solid frame and a very distinctive skull-a horned frill extends back from its head, protecting its neck and serving as a highly effective natural weapon that allows it to make attacks of opportunity. It is notorious for its ill temper, savagely attacking any creature that it perceives as a threat or even as an irritant. A styracosaurus is 18 feet long and weighs nearly 3 tons.  Styracosaurus Companions Starting Statistics: Size Medium; Speed 30 ft.; AC +6 natural armor; Attack gore (1d8); Ability Scores Str 10, Dex 13, Con 11, Int 2, Wis 12, Cha 7; SQ low-light vision, scent. 7th-Level Advancement: Size Large, AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex -2, Con +4; SQ ferocity, reflexive strike.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The styracosaurus is a bulky dinosaur with a solid frame and a very distinctive skull-a horned frill extends back from its head, protecting its neck and serving as a highly effective natural weapon that allows it to make attacks of opportunity. It is notorious for its ill temper, savagely attacking any creature that it perceives as a threat or even as an irritant. A styracosaurus is 18 feet long and weighs nearly 3 tons.  Styracosaurus Companions Starting Statistics: Size Medium; Speed 30 ft.; AC +6 natural armor; Attack gore (1d8); Ability Scores Str 10, Dex 13, Con 11, Int 2, Wis 12, Cha 7; SQ low-light vision, scent. 7th-Level Advancement: Size Large, AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex -2, Con +4; SQ ferocity, reflexive strike.

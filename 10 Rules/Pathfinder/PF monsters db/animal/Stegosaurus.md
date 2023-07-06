@@ -61,12 +61,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-12)
 Treasure: none
-Description: >
-  The stegosaurus is one of the most distinctive-looking dinosaurs-its twin rows of dorsal plates and spiked tail are enough to give most predators second thoughts before attacking. It is 30 feet long, 14 feet tall, and weighs 5,000 pounds. Stegosaurus Companions Starting Stats: Size Med.; Speed 30 ft.; AC +6 natural armor; Attack tail (2d6); Ability Scores Str 10, Dex 18, Con 10, Int 2, Wis 12, Cha 10; Special Qualities lowlight vision, scent. 7th-Level Adv: Size Large; AC +3 natural armor; Attack tail (2d8 plus trip); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The stegosaurus is one of the most distinctive-looking dinosaurs-its twin rows of dorsal plates and spiked tail are enough to give most predators second thoughts before attacking. It is 30 feet long, 14 feet tall, and weighs 5,000 pounds. Stegosaurus Companions Starting Stats: Size Med.; Speed 30 ft.; AC +6 natural armor; Attack tail (2d6); Ability Scores Str 10, Dex 18, Con 10, Int 2, Wis 12, Cha 10; Special Qualities lowlight vision, scent. 7th-Level Adv: Size Large; AC +3 natural armor; Attack tail (2d8 plus trip); Ability Scores Str +8, Dex -2, Con +4.

@@ -64,12 +64,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest
 Temperature: warm
 Organization: solitary, pair, or pack (3-12)
 Treasure: none
-Description: >
-  A dimetrodon is a quadrupedal reptile similar in shape to a crocodile, but with a blunter snout filled with jagged, sharp teeth. Its most distinguishing feature is the massive sail that runs the length of its back. By extending or contracting the fin, the cold-blooded reptile can control its body temperature with ease. While they are not technically dinosaurs, dimetrodons are still often found dwelling in regions inhabited by such creatures.  A fully grown adult dimetrodon can reach a length of up to 15 feet and weigh upward of 2,000 pounds.  Dimetrodon Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +2 natural armor; Attack bite (1d8); Ability Scores Str 12, Dex 16, Con 14, Int 1, Wis 12, Cha 3; Special Qualities tearing bite. 7th-Level Advancement: Size Large; AC +1 natural armor; Attack bite (2d8); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A dimetrodon is a quadrupedal reptile similar in shape to a crocodile, but with a blunter snout filled with jagged, sharp teeth. Its most distinguishing feature is the massive sail that runs the length of its back. By extending or contracting the fin, the cold-blooded reptile can control its body temperature with ease. While they are not technically dinosaurs, dimetrodons are still often found dwelling in regions inhabited by such creatures.  A fully grown adult dimetrodon can reach a length of up to 15 feet and weigh upward of 2,000 pounds.  Dimetrodon Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +2 natural armor; Attack bite (1d8); Ability Scores Str 12, Dex 16, Con 14, Int 1, Wis 12, Cha 3; Special Qualities tearing bite. 7th-Level Advancement: Size Large; AC +1 natural armor; Attack bite (2d8); Ability Scores Str +8, Dex -2, Con +4.

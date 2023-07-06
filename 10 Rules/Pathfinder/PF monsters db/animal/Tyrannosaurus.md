@@ -63,12 +63,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest/plains
 Temperature: warm
 Organization: solitary, pair, or pack (3-6)
 Treasure: none
-Description: >
-  The tyrannosaurus is an apex predator that measures 40 feet long and weighs 14,000 pounds. Tyrannosaurus Companions Starting Statistics: Size Medium, Speed 30 ft.; AC +4 natural armor; Attack bite (1d8); Ability Scores Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; Special Qualities low-light vision, scent. 7th-Level Adv.: Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities grab, powerful bite.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The tyrannosaurus is an apex predator that measures 40 feet long and weighs 14,000 pounds. Tyrannosaurus Companions Starting Statistics: Size Medium, Speed 30 ft.; AC +4 natural armor; Attack bite (1d8); Ability Scores Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; Special Qualities low-light vision, scent. 7th-Level Adv.: Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities grab, powerful bite.

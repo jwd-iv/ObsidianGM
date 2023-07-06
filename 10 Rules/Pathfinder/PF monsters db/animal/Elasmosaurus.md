@@ -61,11 +61,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: aquatic
 Temperature: warm
 Organization: solitary, pair, or school (3-6)
 Treasure: none
-Description: The sleek elasmosaurus is a long-necked, aquatic reptile. Although not technically a dinosaur, they and their kind are often found hunting in oceans and lakes in areas where dinosaurs are more common. You can create statistics for smaller, similar aquatic reptiles (such as the pleisosaurus) by applying the young simple template to the statistics presented above. An elasmosaurus is 45 feet long and weighs 4,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -75,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The sleek elasmosaurus is a long-necked, aquatic reptile. Although not technically a dinosaur, they and their kind are often found hunting in oceans and lakes in areas where dinosaurs are more common. You can create statistics for smaller, similar aquatic reptiles (such as the pleisosaurus) by applying the young simple template to the statistics presented above. An elasmosaurus is 45 feet long and weighs 4,000 pounds.

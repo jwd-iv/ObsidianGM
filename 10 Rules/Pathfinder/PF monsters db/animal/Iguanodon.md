@@ -64,12 +64,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest/swamps
 Temperature: warm
 Organization: solitary, pair, or pack (3-6)
 Treasure: none
-Description: >
-  Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests where they can take advantage of abundant vegetation. The iguanodon is capable of moving on two feet or on four, quickly switching from one stance to the other, depending on whether it needs to move through dense foliage or to reach delectable morsels hanging up in the canopy.  Although iguanodons are herbivores, they are notoriously quick to anger. Their thumb spikes make their claws particularly devastating weapons-a well-placed blow from one of these claws can turn a hungry predator into a cowering beast with one swift strike. Iguanodons are 30 feet long and weigh 6,000 pounds.  Iguanodon Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +3 natural armor; Attack claw (1d6); Ability Scores Str 17, Dex 15, Con 15, Int 2, Wis 12, Cha 7.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack claw (1d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities thumb spikes.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Iguanodons are large, herbivorous dinosaurs that inhabit swamps and forests where they can take advantage of abundant vegetation. The iguanodon is capable of moving on two feet or on four, quickly switching from one stance to the other, depending on whether it needs to move through dense foliage or to reach delectable morsels hanging up in the canopy.  Although iguanodons are herbivores, they are notoriously quick to anger. Their thumb spikes make their claws particularly devastating weapons-a well-placed blow from one of these claws can turn a hungry predator into a cowering beast with one swift strike. Iguanodons are 30 feet long and weigh 6,000 pounds.  Iguanodon Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +3 natural armor; Attack claw (1d6); Ability Scores Str 17, Dex 15, Con 15, Int 2, Wis 12, Cha 7.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack claw (1d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities thumb spikes.

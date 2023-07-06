@@ -63,12 +63,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest/plains
 Temperature: temperate/warm
 Organization: solitary, pair, or pack (3-6)
 Treasure: None
-Description: >
-  A huge, swift hunter, the allosaurus measures 30 feet in length and weighs 10,000 pounds.   ALLOSAURUS COMPANIONS  Starting Statistics: Size Medium, Speed 40 ft.; AC +4 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; Special Qualities low-light vision, scent.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities grab, pounce.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A huge, swift hunter, the allosaurus measures 30 feet in length and weighs 10,000 pounds.   ALLOSAURUS COMPANIONS  Starting Statistics: Size Medium, Speed 40 ft.; AC +4 natural armor; Attack bite (1d6), 2 claws (1d4); Ability Scores Str 14, Dex 16, Con 10, Int 2, Wis 15, Cha 10; Special Qualities low-light vision, scent.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8), 2 claws (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities grab, pounce.

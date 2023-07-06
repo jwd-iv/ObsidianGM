@@ -61,12 +61,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: plains
 Temperature: warm
 Organization: solitary, pair, or herd (5-8)
 Treasure: none
-Description: >
-  The triceratops is a stubborn and shorttempered herbivore. A typical triceratops is 30 feet long and weighs 20,000 pounds. Triceratops Companions Starting Statistics: Size Medium; Speed 30 ft.; AC +6 natural armor; Attack gore (1d8); Ability Scores Str 10, Dex 13, Con 11, Int 2, Wis 12, Cha 7. 7th-Level Advancement: Size Large, AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities powerful charge.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The triceratops is a stubborn and shorttempered herbivore. A typical triceratops is 30 feet long and weighs 20,000 pounds. Triceratops Companions Starting Statistics: Size Medium; Speed 30 ft.; AC +6 natural armor; Attack gore (1d8); Ability Scores Str 10, Dex 13, Con 11, Int 2, Wis 12, Cha 7. 7th-Level Advancement: Size Large, AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities powerful charge.

@@ -63,12 +63,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest/plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-12)
 Treasure: none
-Description: >
-  The ankylosaurus is a powerful, squat dinosaur more than capable of defending itself against enemies. Its back is heavily armored with thick bony plates and spikes. A solid blow from an ankylosaurus's tail can leave most creatures stunned long enough for the armored dinosaur to make good an escape, although once confronted, most ankylosauruses are too ill-tempered and stubborn to flee. Instead, they stand their ground and use their tails to great effect in battle. An ankylosaurus is 30 feet long and weighs 6,000 pounds. Ankylosaurus Companions Starting Statistics: Size Medium; Speed 30 ft.; AC +9 natural armor; Attack tail (1d6); Ability Scores Str 10, Dex 14, Con 9, Int 2, Wis 12, Cha 8; Special Qualities low-light vision, scent. 7th-Level Advancement: Size Large; AC +2 natural armor; Attack tail (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities stun.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The ankylosaurus is a powerful, squat dinosaur more than capable of defending itself against enemies. Its back is heavily armored with thick bony plates and spikes. A solid blow from an ankylosaurus's tail can leave most creatures stunned long enough for the armored dinosaur to make good an escape, although once confronted, most ankylosauruses are too ill-tempered and stubborn to flee. Instead, they stand their ground and use their tails to great effect in battle. An ankylosaurus is 30 feet long and weighs 6,000 pounds. Ankylosaurus Companions Starting Statistics: Size Medium; Speed 30 ft.; AC +9 natural armor; Attack tail (1d6); Ability Scores Str 10, Dex 14, Con 9, Int 2, Wis 12, Cha 8; Special Qualities low-light vision, scent. 7th-Level Advancement: Size Large; AC +2 natural armor; Attack tail (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities stun.

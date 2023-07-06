@@ -61,12 +61,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: forest/plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-12)
 Treasure: none
-Description: >
-  A brachiosaurus is 80 feet long and weighs 32 tons. Brachiosaurus Companions Starting Statistics: Size Medium; Speed 30 ft.; AC +3 natural armor; Attack tail (2d4); Ability Scores Str 13, Dex 14, Con 11, Int 2, Wis 13, Cha 10; Special Qualities lowlight vision, scent. 7th-Level Adv.: Size Large; AC +2 natural armor; Attack tail (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities trample (1d8).
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A brachiosaurus is 80 feet long and weighs 32 tons. Brachiosaurus Companions Starting Statistics: Size Medium; Speed 30 ft.; AC +3 natural armor; Attack tail (2d4); Ability Scores Str 13, Dex 14, Con 11, Int 2, Wis 13, Cha 10; Special Qualities lowlight vision, scent. 7th-Level Adv.: Size Large; AC +2 natural armor; Attack tail (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities trample (1d8).

@@ -61,12 +61,11 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
+Group: dinosaur
 Environment: any (coastal)
 Temperature: warm
 Organization: solitary, pair, or flock (3-12)
 Treasure: none
-Description: >
-  The pteranodon is not itself a dinosaur but rather a large flying reptile that is often found in areas dinosaurs are common. Its flight lacks grace, so it lands on the ground to fight foes it can't carry away. A pteranodon has a wingspan of 30 feet but only weighs 40 pounds. Pteranodon Companions Starting Statistics: Size Medium; Speed 10 ft., fly 50 ft. (clumsy); AC +0 natural armor; Attack bite (1d8); Ability Scores Str 8, Dex 21, Con 10, Int 2, Wis 14, Cha 12; Special Qualities low-light vision, scent. 7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The pteranodon is not itself a dinosaur but rather a large flying reptile that is often found in areas dinosaurs are common. Its flight lacks grace, so it lands on the ground to fight foes it can't carry away. A pteranodon has a wingspan of 30 feet but only weighs 40 pounds. Pteranodon Companions Starting Statistics: Size Medium; Speed 10 ft., fly 50 ft. (clumsy); AC +0 natural armor; Attack bite (1d8); Ability Scores Str 8, Dex 21, Con 10, Int 2, Wis 14, Cha 12; Special Qualities low-light vision, scent. 7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4.
