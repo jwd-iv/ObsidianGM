@@ -66,8 +66,6 @@ Environment: oceans
 Temperature: cold
 Organization: solitary, pair, or herd (3-24)
 Treasure: none
-Description: >
-  Walruses normally have gray or brown hides, fading to nearly white when immersed in cold water, and turning pink from increased blood flow when basking in the sun. A thick layer of blubber serves as protection from both predators and cold. A typical male walrus weighs 1 to 2 tons and measures 10 feet in length, with females about a third lighter and about 9 feet long. Both sexes have tusks up to 3 feet long, and stiff whiskers used to feel out the hiding places of shellfish. A walrus lives up to 40 years. Owing to their fearsome tusks, prodigious strength, and willingness to fight as a herd, only the most aggressive or hungry polar predators risk attacking an adult walrus. People hunt walruses for meat and for their tusks, valued for their worth as ivory and as impressive trophies in their own right.  Walrus Companions Starting Statistics: Size Medium; Speed 10 ft., swim 40 ft.; AC +4 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 13, Con 14, Int 2, Wis 13, Cha 6; SQ hold breath, low-light vision. 7th-Level Advancement: Size Large; AC +4 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -77,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Walruses normally have gray or brown hides, fading to nearly white when immersed in cold water, and turning pink from increased blood flow when basking in the sun. A thick layer of blubber serves as protection from both predators and cold. A typical male walrus weighs 1 to 2 tons and measures 10 feet in length, with females about a third lighter and about 9 feet long. Both sexes have tusks up to 3 feet long, and stiff whiskers used to feel out the hiding places of shellfish. A walrus lives up to 40 years. Owing to their fearsome tusks, prodigious strength, and willingness to fight as a herd, only the most aggressive or hungry polar predators risk attacking an adult walrus. People hunt walruses for meat and for their tusks, valued for their worth as ivory and as impressive trophies in their own right.  Walrus Companions Starting Statistics: Size Medium; Speed 10 ft., swim 40 ft.; AC +4 natural armor; Attack bite (1d6); Ability Scores Str 12, Dex 13, Con 14, Int 2, Wis 13, Cha 6; SQ hold breath, low-light vision. 7th-Level Advancement: Size Large; AC +4 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4.

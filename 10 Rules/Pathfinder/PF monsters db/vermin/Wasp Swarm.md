@@ -67,7 +67,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, fury (3-6 swarms), maelstrom (7-12 swarms)
 Treasure: none
-Description: A wasp swarm is a flying mass of thousands of carnivorous wasps. In such large numbers, they become voracious hunters, capable of taking down large creatures with their venom-filled stings. While a wasp swarm is capable of inf licting hundreds of stings, its true danger arises from its insatiable appetite for meat.  Wasp swarms surround and attack any living prey in their paths, and are swift to seek out new prey once their anger is aroused. An enraged wasp swarm often loses track of its hive or the original source of its anger, and presented with a constant series of new targets to swarm and sting, a swarm can continue its rampage nonstop until it is destroyed or dispersed.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A wasp swarm is a flying mass of thousands of carnivorous wasps. In such large numbers, they become voracious hunters, capable of taking down large creatures with their venom-filled stings. While a wasp swarm is capable of inf licting hundreds of stings, its true danger arises from its insatiable appetite for meat.  Wasp swarms surround and attack any living prey in their paths, and are swift to seek out new prey once their anger is aroused. An enraged wasp swarm often loses track of its hive or the original source of its anger, and presented with a constant series of new targets to swarm and sting, a swarm can continue its rampage nonstop until it is destroyed or dispersed.

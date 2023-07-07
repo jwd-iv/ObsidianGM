@@ -13,7 +13,7 @@ Initiative: -1
 Senses: low-light vision; Perception +14
 Aura: 
 AC: 24, touch 8, f lat-footed 24
-ACMods: ((+8 armor, –1 Dex, +8 natural, –1 size)
+ACMods: ((+8 armor, -1 Dex, +8 natural, -1 size)
 HP: 142
 HD: (15d8+75)
 HPMods: 
@@ -71,7 +71,6 @@ Environment: mountains
 Temperature: warm
 Organization: solitary, gang (2-5), band (6-12 plus 35% noncombatants and 1 adept or cleric of 1st-2nd level), raiding party (6-12 plus 1 adept or sorcerer of 3rd-5th level, 2-5 hell hounds, and 2-3 trolls or ettins), or tribe (20-30 plus 1 adept, cleric, or sorcerer of 6th-7th level; 1 fighter or ranger of 8th-9th level as king; and 17-38 hell hounds, 12-22 trolls, 7-12 ettins, and 1-2 young red dragons)
 Treasure: standard (half-plate, greatsword, other treasure)
-Description: Fire giants are the most rigid and militaristic of all the giant races. They constantly train for war and practice brutal tactics on anyone and everyone that gets in their way. Their rigid command structure is complete with soldiers, officers, and even generals, and they obey orders from their kings unquestioningly.  Fire giants have bright orange hair that flickers and glows almost as if it were af lame. An adult male is 12 to 16 feet tall, has a chest that measures 9 feet around, and weighs about 7,000 pounds. Females are slightly shorter and lighter. Fire giants can live to be 350 years old.  Fire giants wear sturdy cloth or leather garments colored red, orange, yellow, or black. Warriors wear helmets and half-plate armor of blackened steel and wield large greatswords that they use to cut swaths across the battlefield. In large groups, fire giants fight with brutal and efficient group tactics, and aren't afraid to sacrifice one or two of their members to draw an enemy into an ambush.  Fire giants prefer hot locations-the hotter, the better.  They've been found in deserts, volcanoes, hot springs, and deep beneath the earth near lava vents. They live in castles, walled settlements, or large caverns, and the design of these locations reflects their rigid, militaristic lifestyle, with officers living in better quarters than the rank-and-file.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Fire giants are the most rigid and militaristic of all the giant races. They constantly train for war and practice brutal tactics on anyone and everyone that gets in their way. Their rigid command structure is complete with soldiers, officers, and even generals, and they obey orders from their kings unquestioningly.  Fire giants have bright orange hair that flickers and glows almost as if it were af lame. An adult male is 12 to 16 feet tall, has a chest that measures 9 feet around, and weighs about 7,000 pounds. Females are slightly shorter and lighter. Fire giants can live to be 350 years old.  Fire giants wear sturdy cloth or leather garments colored red, orange, yellow, or black. Warriors wear helmets and half-plate armor of blackened steel and wield large greatswords that they use to cut swaths across the battlefield. In large groups, fire giants fight with brutal and efficient group tactics, and aren't afraid to sacrifice one or two of their members to draw an enemy into an ambush.  Fire giants prefer hot locations-the hotter, the better.  They've been found in deserts, volcanoes, hot springs, and deep beneath the earth near lava vents. They live in castles, walled settlements, or large caverns, and the design of these locations reflects their rigid, militaristic lifestyle, with officers living in better quarters than the rank-and-file.

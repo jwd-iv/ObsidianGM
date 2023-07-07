@@ -66,7 +66,6 @@ Environment: islands
 Temperature: warm
 Organization: solitary
 Treasure: none
-Description: These immense, ancient tortoises never stop growing.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These immense, ancient tortoises never stop growing.

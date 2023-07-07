@@ -65,7 +65,6 @@ Environment: rivers
 Temperature: warm
 Organization: solitary or bloat (2-8)
 Treasure: none
-Description: The behemoth hippopotamus is a true monster.  Standing taller than an elephant, this animal has few enemies in the natural world-even dinosaurs and dire crocodiles avoid fights with them. Making them even more dangerous is the fact that they are practically carnivores-while not above eating plant matter, they devour carrion or foolish creatures that come too close.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The behemoth hippopotamus is a true monster.  Standing taller than an elephant, this animal has few enemies in the natural world-even dinosaurs and dire crocodiles avoid fights with them. Making them even more dangerous is the fact that they are practically carnivores-while not above eating plant matter, they devour carrion or foolish creatures that come too close.

@@ -69,8 +69,6 @@ Environment: rivers
 Temperature: warm
 Organization: solitary, pair, or bloat (3-20)
 Treasure: none
-Description: >
-  The ill-tempered "river horse" has a well-earned reputation for hostility, despite the fact that it is a herbivore.  HIPPO COMPANIONS  Starting Statistics: Size Medium; Speed 40 ft.; AC +6 natural armor; Attack bite (1d8); Ability Scores Str 11, Dex 12, Con 12, Int 2, Wis 13, Cha 5; Special Qualities low-light vision, scent, sweat.  7th-Level Advancement: Size Large; AC +2 nat. arm.; Attack bite (2d8); Ability Scores Str +8, Dex -2, Con +4; Special Ability trample.
 Race: 
 Class: 
 MR: 
@@ -80,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The ill-tempered "river horse" has a well-earned reputation for hostility, despite the fact that it is a herbivore.  HIPPO COMPANIONS  Starting Statistics: Size Medium; Speed 40 ft.; AC +6 natural armor; Attack bite (1d8); Ability Scores Str 11, Dex 12, Con 12, Int 2, Wis 13, Cha 5; Special Qualities low-light vision, scent, sweat.  7th-Level Advancement: Size Large; AC +2 nat. arm.; Attack bite (2d8); Ability Scores Str +8, Dex -2, Con +4; Special Ability trample.

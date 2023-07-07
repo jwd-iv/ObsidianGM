@@ -76,7 +76,6 @@ Environment: forest (fey wilds)
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Zomoks are dragonlike creatures made out of animate plant matter. Native to the realm of the fey, they are guardians of mystic forests. Some travel to the Material Plane and adapt to its woodlands, defending them against massive destruction-forest fires, logging, undead armies, and so on-and use their abilities to heal and regrow damaged areas. Rather than having a distinct physical body, a zomok is more like a spirit animating a collective mass of vegetation, and over time it sheds and acquires new material from its environment, changing its appearance to match its current location. Zomoks do not need to eat, and any creature they swallow is usually left behind as a mashed corpse to decay and provide nutrition for plants. A typical zomok is about 18 feet tall and 30 feet long, and weighs 30 tons.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Zomoks are dragonlike creatures made out of animate plant matter. Native to the realm of the fey, they are guardians of mystic forests. Some travel to the Material Plane and adapt to its woodlands, defending them against massive destruction-forest fires, logging, undead armies, and so on-and use their abilities to heal and regrow damaged areas. Rather than having a distinct physical body, a zomok is more like a spirit animating a collective mass of vegetation, and over time it sheds and acquires new material from its environment, changing its appearance to match its current location. Zomoks do not need to eat, and any creature they swallow is usually left behind as a mashed corpse to decay and provide nutrition for plants. A typical zomok is about 18 feet tall and 30 feet long, and weighs 30 tons.

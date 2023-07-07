@@ -76,7 +76,6 @@ Environment: any
 Temperature: any
 Organization: solitary or retinue (1 plus 3-7 guards and sycophants of 1st-3rd level)
 Treasure: double (dagger, other treasure)
-Description: Leanan sidhe are regal fey who pride themselves as patrons of the arts. By establishing a magical link with a talented mortal performer or artist, the leanan sidhe enhances her target's skill, but slowly feeds on his life energy. Many tragic stories of talented artists who have a creative burst and then fall into obscurity or suddenly die can be attributed to the inf luence of these creatures. A leanan sidhe prefers to avoid direct combat and relies on her minions and devotees to protect her-all of whom hope to become her next special project, despite the cost of this arrangement.
 Race: 
 Class: 
 MR: 3
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Leanan sidhe are regal fey who pride themselves as patrons of the arts. By establishing a magical link with a talented mortal performer or artist, the leanan sidhe enhances her target's skill, but slowly feeds on his life energy. Many tragic stories of talented artists who have a creative burst and then fall into obscurity or suddenly die can be attributed to the inf luence of these creatures. A leanan sidhe prefers to avoid direct combat and relies on her minions and devotees to protect her-all of whom hope to become her next special project, despite the cost of this arrangement.

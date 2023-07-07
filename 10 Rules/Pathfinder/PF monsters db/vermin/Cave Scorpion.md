@@ -69,7 +69,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, or swarm (3-12)
 Treasure: none
-Description: The squat cave scorpion is quite well suited for life in caves. With its bulky armor, a cave scorpion at rest looks like a pile of stones. The cave scorpion's favorite food is dwarven meat, and when a cave scorpion finds a working dwarven mine, it can quickly become a major inconvenience.  Dwarven societies often post hefty bounties on cave scorpion stingers.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The squat cave scorpion is quite well suited for life in caves. With its bulky armor, a cave scorpion at rest looks like a pile of stones. The cave scorpion's favorite food is dwarven meat, and when a cave scorpion finds a working dwarven mine, it can quickly become a major inconvenience.  Dwarven societies often post hefty bounties on cave scorpion stingers.

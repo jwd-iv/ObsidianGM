@@ -74,7 +74,6 @@ Environment: any (fey wilds)
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Ankous are assassins for powerful fey nobles, sent to kill, terrify, and torture. They never speak, only telepathically whisper their lord's verdict to victims. A typical ankou is 10 feet tall and has an 8-foot wingspan, but weighs less than 100 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ankous are assassins for powerful fey nobles, sent to kill, terrify, and torture. They never speak, only telepathically whisper their lord's verdict to victims. A typical ankou is 10 feet tall and has an 8-foot wingspan, but weighs less than 100 pounds.

@@ -75,7 +75,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary
 Treasure: standard (dagger, other treasure)
-Description: Many have lost their lives in vain search of the beauty of the nymph, and many more to the madness and obsession their grace has upon minds and bodies unprepared for their companionship. Yet the nymph herself is not a cruel creature-a guardian of nature's purest places and most beautiful realms, she treats those who respect her and her abode with kindness, and may even favor someone who takes her fancy with magical gifts. Yet those who would seek to abuse or harm her or her home quickly find that behind her beauty is a fierce protector more than capable of defending her charge.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Many have lost their lives in vain search of the beauty of the nymph, and many more to the madness and obsession their grace has upon minds and bodies unprepared for their companionship. Yet the nymph herself is not a cruel creature-a guardian of nature's purest places and most beautiful realms, she treats those who respect her and her abode with kindness, and may even favor someone who takes her fancy with magical gifts. Yet those who would seek to abuse or harm her or her home quickly find that behind her beauty is a fierce protector more than capable of defending her charge.

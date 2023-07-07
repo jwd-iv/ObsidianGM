@@ -70,7 +70,6 @@ Environment: any (Abaddon)
 Temperature: any
 Organization: solitary, pair, or inquisition (3-6)
 Treasure: standard
-Description: Bloody representations of death by traps or torture, crucidaemons spend their existence subjecting creatures to an eternity of pain and terror. Whereas many daemons are quick to feed on the soul of mortals they capture, a crucidaemon lets its victims linger, marinating their souls in torment and pain so that when the time for feeding finally comes, they welcome their final oblivion with tears of gratitude.  Crucidaemons are 6 feet tall and weigh 250 pounds.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Bloody representations of death by traps or torture, crucidaemons spend their existence subjecting creatures to an eternity of pain and terror. Whereas many daemons are quick to feed on the soul of mortals they capture, a crucidaemon lets its victims linger, marinating their souls in torment and pain so that when the time for feeding finally comes, they welcome their final oblivion with tears of gratitude.  Crucidaemons are 6 feet tall and weigh 250 pounds.

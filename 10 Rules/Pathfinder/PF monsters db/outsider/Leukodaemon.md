@@ -75,7 +75,6 @@ Environment: any (Abaddon)
 Temperature: any
 Organization: solitary or wake (2-10)
 Treasure: standard (+1 composite longbow, other treasure)
-Description: Deacons of the Horseman of Pestilence, leukodaemons serve their lord in Abaddon as well as across the planes by spreading plagues and pandemics.  Leukodaemons stand upward of 14 feet tall but weigh just over 200 pounds. The skulls that serve as their heads can be replaced with any skulls, yet these creatures choose horse skulls to show their loyalty to the Horsemen. The creature's true head is merely a blistered knob between its shoulders.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Deacons of the Horseman of Pestilence, leukodaemons serve their lord in Abaddon as well as across the planes by spreading plagues and pandemics.  Leukodaemons stand upward of 14 feet tall but weigh just over 200 pounds. The skulls that serve as their heads can be replaced with any skulls, yet these creatures choose horse skulls to show their loyalty to the Horsemen. The creature's true head is merely a blistered knob between its shoulders.

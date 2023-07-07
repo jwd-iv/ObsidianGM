@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Fueled by hatred and a need for vengeance, a revenant rises from the grave to hunt and kill its murderer. Devoid of any compassion, emotion, or logic, a revenant has but one purpose, and cannot rest until it has found vengeance.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Fueled by hatred and a need for vengeance, a revenant rises from the grave to hunt and kill its murderer. Devoid of any compassion, emotion, or logic, a revenant has but one purpose, and cannot rest until it has found vengeance.

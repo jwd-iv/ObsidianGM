@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary or ride (2-8 valkyries)
 Treasure: triple (+2 breastplate, +2 returning spear, other treasure)
-Description: Valkyries are outsiders who scour the battlefields of the Material Plane for warriors of great prowess and legendary renown. With a glance, a valkyrie can tell who is near death and ready to give up life and who fights on to live another day, and can either claim the soul of the slain or aid the living to continue the fight.  Valkyries are always female, and appear as strong and beautiful human, dwarven, or elven women. A human valkyrie is 6 feet tall and weighs close to 200 pounds.  Valkyries serve a variety of deities, though they are most often associated with the gods of war, conf lict, valor, and courage. Although capable combatants in their own right, valkyries are almost always encountered mounted, typically on flying steeds such as dragon horses, pegasi, or sleipnirs.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Valkyries are outsiders who scour the battlefields of the Material Plane for warriors of great prowess and legendary renown. With a glance, a valkyrie can tell who is near death and ready to give up life and who fights on to live another day, and can either claim the soul of the slain or aid the living to continue the fight.  Valkyries are always female, and appear as strong and beautiful human, dwarven, or elven women. A human valkyrie is 6 feet tall and weighs close to 200 pounds.  Valkyries serve a variety of deities, though they are most often associated with the gods of war, conf lict, valor, and courage. Although capable combatants in their own right, valkyries are almost always encountered mounted, typically on flying steeds such as dragon horses, pegasi, or sleipnirs.

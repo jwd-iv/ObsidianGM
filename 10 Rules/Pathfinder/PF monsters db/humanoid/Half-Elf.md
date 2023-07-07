@@ -69,12 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or gang (3-5)
 Treasure: NPC gear (chainmail, longsword, shortbow)
-Description: Half-elves stand taller than humans but shorter than elves. They
-  inherit the lean build and comely features of their elven lineage, but their
-  skin color is dictated by their human side. While half-elves retain the
-  pointed ears of elves, theirs are more rounded and less pronounced. A
-  half-elf's human-like eyes tend to range a spectrum of exotic colors running
-  from amber or violet to emerald green and deep blue.
 Race: Half-elf
 Class: fighter 1
 MR:
@@ -84,3 +78,9 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Half-elves stand taller than humans but shorter than elves. They
+  inherit the lean build and comely features of their elven lineage, but their
+  skin color is dictated by their human side. While half-elves retain the
+  pointed ears of elves, theirs are more rounded and less pronounced. A
+  half-elf's human-like eyes tend to range a spectrum of exotic colors running
+  from amber or violet to emerald green and deep blue.

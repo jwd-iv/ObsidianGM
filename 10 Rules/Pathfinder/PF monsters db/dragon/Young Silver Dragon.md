@@ -92,7 +92,6 @@ Environment: mountains
 Temperature: temperate
 Organization: solitary
 Treasure: triple
-Description: Of all the dragons, silvers are the most courageous, holding themselves to a chivalrous code to help the weak, defeat evil, and behave in an honorable manner.
 Race: 
 Class: 
 MR: 
@@ -102,3 +101,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Of all the dragons, silvers are the most courageous, holding themselves to a chivalrous code to help the weak, defeat evil, and behave in an honorable manner.

@@ -74,7 +74,6 @@ Environment: underground (Plane of Earth)
 Temperature: any
 Organization: solitary, colony (2-4), or formation (5-10)
 Treasure: incidental
-Description: Natives of the endless caverns of the Plane of Earth, carnivorous crystals normally lead quiet existences, subsisting on minerals leeched from the surrounding rock. Living creatures, however, provide a veritable feast, as devouring the minerals in their bones and blood allows a crystal to reproduce in mere hours instead of years. Though lacking in anything that could be called intelligence, carnivorous crystals sense the living, and hunger for the sustenance trapped within their bodies.  On the Plane of Earth and in the deepest caverns of the Material Plane, ancient carnivorous crystals grow without bounds, reaching incredible sizes.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Natives of the endless caverns of the Plane of Earth, carnivorous crystals normally lead quiet existences, subsisting on minerals leeched from the surrounding rock. Living creatures, however, provide a veritable feast, as devouring the minerals in their bones and blood allows a crystal to reproduce in mere hours instead of years. Though lacking in anything that could be called intelligence, carnivorous crystals sense the living, and hunger for the sustenance trapped within their bodies.  On the Plane of Earth and in the deepest caverns of the Material Plane, ancient carnivorous crystals grow without bounds, reaching incredible sizes.

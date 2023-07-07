@@ -66,8 +66,6 @@ Environment: any (coastal)/water
 Temperature: temperate/warm
 Organization: solitary or bale (2-6)
 Treasure: none
-Description: >
-  An ancient relative of the smaller leatherback sea turtle, the archelon can grow up to 13 feet long and 16 feet from flipper to flipper. Weighing as much as 5,000 pounds, the archelon has an exceedingly powerful bite, and doesn't hesitate to use it to deter aquatic nuisances.  Like other sea turtles, female archelons come ashore to lay and bury their eggs in sandy beaches, preferably facing deep water and without coral reefs. Once done, they return to the sea, leaving their eggs defenseless.  These creatures are often used by coastal tribes as guardians and escorts from island to island. Aquatic creatures, particularly locathah, often use them as beasts of burden, but their relatively slow swim speed makes them poor mounts.  Archelon Companions  Starting Statistics: Size Medium; Speed 15 ft., swim 50 ft.; AC +10 natural armor; Attack bite (1d6); Ability Scores Str 8, Dex 10, Con 9, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, hold breath, scent.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8), Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -77,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+An ancient relative of the smaller leatherback sea turtle, the archelon can grow up to 13 feet long and 16 feet from flipper to flipper. Weighing as much as 5,000 pounds, the archelon has an exceedingly powerful bite, and doesn't hesitate to use it to deter aquatic nuisances.  Like other sea turtles, female archelons come ashore to lay and bury their eggs in sandy beaches, preferably facing deep water and without coral reefs. Once done, they return to the sea, leaving their eggs defenseless.  These creatures are often used by coastal tribes as guardians and escorts from island to island. Aquatic creatures, particularly locathah, often use them as beasts of burden, but their relatively slow swim speed makes them poor mounts.  Archelon Companions  Starting Statistics: Size Medium; Speed 15 ft., swim 50 ft.; AC +10 natural armor; Attack bite (1d6); Ability Scores Str 8, Dex 10, Con 9, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, hold breath, scent.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8), Ability Scores Str +8, Dex -2, Con +4.

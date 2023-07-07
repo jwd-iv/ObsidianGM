@@ -69,7 +69,6 @@ Environment: forest
 Temperature: cold
 Organization: solitary
 Treasure: none
-Description: Wolverines are territorial, especially when it comes to food, and have been known to defend their kills against much larger predators, such as black bears. They are fearsome opponents, launching into a frenzy when wounded. They tend to give off a very strong, unpleasant musk smell when angry.  Armed with powerful jaws, strong legs, and a thick hide, wolverines are remarkably strong for their size.  They are reckless in battle and throw themselves at their foes, clawing and biting furiously.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Wolverines are territorial, especially when it comes to food, and have been known to defend their kills against much larger predators, such as black bears. They are fearsome opponents, launching into a frenzy when wounded. They tend to give off a very strong, unpleasant musk smell when angry.  Armed with powerful jaws, strong legs, and a thick hide, wolverines are remarkably strong for their size.  They are reckless in battle and throw themselves at their foes, clawing and biting furiously.

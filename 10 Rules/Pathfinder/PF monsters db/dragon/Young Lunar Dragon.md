@@ -87,7 +87,6 @@ Environment: vacuum
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Lunar dragons frequently interact with mortals, spending long hours watching the activities occurring on planets that interest them.
 Race: 
 Class: 
 MR: 
@@ -97,3 +96,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Lunar dragons frequently interact with mortals, spending long hours watching the activities occurring on planets that interest them.

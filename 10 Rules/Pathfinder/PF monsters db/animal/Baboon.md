@@ -65,8 +65,6 @@ Environment: forest/plains
 Temperature: warm
 Organization: solitary, pair, or mission (3-6)
 Treasure: none
-Description: >
-  Baboons are known for their aggressive nature and distinctive build, including a canine-like maw filled with sharp teeth, strong jaw muscles, a short tail, and prominent calluses on their brightly colored and protruding buttocks. Though they are primarily vegetarians, baboons are known to eat fish, insects, shellfish, and other small creatures. Ferociously territorial, baboons are quick to rise and defend their homes from any sort of intruders. A baboon is 3 feet tall and weighs 70 pounds. Baboon Companions Starting Statistics: Size: Small; Speed: 30 ft.; Attack bite (1d4); Ability Scores: Str 12, Dex 15, Con 12, Int 2, Wis 12, Cha 5; Special Qualities: low-light vision. 4th-Level Advancement: Ability Scores Str +2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Baboons are known for their aggressive nature and distinctive build, including a canine-like maw filled with sharp teeth, strong jaw muscles, a short tail, and prominent calluses on their brightly colored and protruding buttocks. Though they are primarily vegetarians, baboons are known to eat fish, insects, shellfish, and other small creatures. Ferociously territorial, baboons are quick to rise and defend their homes from any sort of intruders. A baboon is 3 feet tall and weighs 70 pounds. Baboon Companions Starting Statistics: Size: Small; Speed: 30 ft.; Attack bite (1d4); Ability Scores: Str 12, Dex 15, Con 12, Int 2, Wis 12, Cha 5; Special Qualities: low-light vision. 4th-Level Advancement: Ability Scores Str +2, Con +2.

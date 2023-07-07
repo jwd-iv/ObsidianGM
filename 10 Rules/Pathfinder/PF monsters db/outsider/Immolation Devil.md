@@ -73,7 +73,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, pair, or council (3-6)
 Treasure: double
-Description: Immolation devils are tyrant warlords and terrifying field generals among Hell's legions. While many other greater devils manipulate and corrupt subtly and from afar, puragaus surround themselves with lesser diabolical minions, lead interplanar incursions, hold infernal redoubts upon mortal worlds, or strike against any who would defy the will of Hell.  Immolation devils stand just over 10 feet tall, with wingspans nearing 20 feet, and weigh 900 pounds.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Immolation devils are tyrant warlords and terrifying field generals among Hell's legions. While many other greater devils manipulate and corrupt subtly and from afar, puragaus surround themselves with lesser diabolical minions, lead interplanar incursions, hold infernal redoubts upon mortal worlds, or strike against any who would defy the will of Hell.  Immolation devils stand just over 10 feet tall, with wingspans nearing 20 feet, and weigh 900 pounds.

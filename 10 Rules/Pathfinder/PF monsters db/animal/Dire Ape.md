@@ -67,7 +67,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary, pair, or troop (3-6)
 Treasure: incidental
-Description: Known to many scholars as the gigantopithecus, the dire ape is a much more dangerous and bestial creature than the relatively peaceful gorilla. An adult male dire ape stands 9 feet tall and weighs 1,200 pounds.  The dire ape attacks anything that intrudes on its territory, including other dire apes not of its troop, and does not break off the attack until the trespasser is dead or runs off.  A dire ape makes no displays of toughness or warnings before it attacks- it simply leaps into action with little or no provocation, tearing at its opponents with claws and teeth. If a dire ape is stymied by a heavily armored foe, it attempts to grapple its foe, pin it to the ground, and rend it.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Known to many scholars as the gigantopithecus, the dire ape is a much more dangerous and bestial creature than the relatively peaceful gorilla. An adult male dire ape stands 9 feet tall and weighs 1,200 pounds.  The dire ape attacks anything that intrudes on its territory, including other dire apes not of its troop, and does not break off the attack until the trespasser is dead or runs off.  A dire ape makes no displays of toughness or warnings before it attacks- it simply leaps into action with little or no provocation, tearing at its opponents with claws and teeth. If a dire ape is stymied by a heavily armored foe, it attempts to grapple its foe, pin it to the ground, and rend it.

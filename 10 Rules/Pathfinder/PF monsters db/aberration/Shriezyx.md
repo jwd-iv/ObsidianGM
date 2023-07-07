@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or hive (3-12)
 Treasure: incidental
-Description: Devised by a cabal of ancient wizards to serve as guardians for monuments and laboratories, shriezyx are horrific spiderlike aberrations created in arcane vats out of the flesh of many different creatures. Having outlived their creators, they continue to lurk in ruins, caves, and the deep places of the world, spreading far beyond the original city where they were created. Shriezyx have no natural place in the Ecology, but easily fill the niche of any predator of comparable strength. They can subsist on rats and other vermin for long periods of time, but relish the opportunity for a more substantial meal. Derros, drow, and other subterranean races sometimes use them as guards or mounts, or subject them to torturous experimentation. These races use bribes of food and the threat of fire to keep the creatures in line. Shriezyx can reproduce with their own kind or lay unfertilized eggs that hatch into identical copies of their parent. Eggs remain viable for years, hatching after exposure to water, fresh air, or consistent warmth. A typical shriezyx is 3 feet tall and weighs 300 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Devised by a cabal of ancient wizards to serve as guardians for monuments and laboratories, shriezyx are horrific spiderlike aberrations created in arcane vats out of the flesh of many different creatures. Having outlived their creators, they continue to lurk in ruins, caves, and the deep places of the world, spreading far beyond the original city where they were created. Shriezyx have no natural place in the Ecology, but easily fill the niche of any predator of comparable strength. They can subsist on rats and other vermin for long periods of time, but relish the opportunity for a more substantial meal. Derros, drow, and other subterranean races sometimes use them as guards or mounts, or subject them to torturous experimentation. These races use bribes of food and the threat of fire to keep the creatures in line. Shriezyx can reproduce with their own kind or lay unfertilized eggs that hatch into identical copies of their parent. Eggs remain viable for years, hatching after exposure to water, fresh air, or consistent warmth. A typical shriezyx is 3 feet tall and weighs 300 pounds.

@@ -81,7 +81,6 @@ Environment: lakes/swamps
 Temperature: cold
 Organization: solitary
 Treasure: triple
-Description: Although legends speak of even more powerful linnorms, it's hard to believe after witnessing the devastation a two-headed tarn linnorm can wreak. Content to slumber away the centuries at the bottom of dark mountain lakes, the tarn linnorms are true horrors that even the mightiest of heroes fear.  A tarn linnorm is 120 feet long and weighs 24,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -91,3 +90,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Although legends speak of even more powerful linnorms, it's hard to believe after witnessing the devastation a two-headed tarn linnorm can wreak. Content to slumber away the centuries at the bottom of dark mountain lakes, the tarn linnorms are true horrors that even the mightiest of heroes fear.  A tarn linnorm is 120 feet long and weighs 24,000 pounds.

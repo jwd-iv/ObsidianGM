@@ -68,7 +68,6 @@ Environment: oceans
 Temperature: cold
 Organization: solitary, pair, or herd (1-3 and 5-20 walruses)
 Treasure: none
-Description: Towering over common walruses, emperor walruses live in only the most secluded arctic areas. They might be throwbacks to an earlier age of giant animals or bred by druids to be superior arctic predators. They often live in the company of common walruses, but are far more aggressive, driving off or killing any potential threats to the herd. Emperor walruses have a similar diet to common walruses, but may also eat giant crabs, seals, large fish, and seabirds. A full-grown male emperor walrus measures 20 feet in length and weighs around 16 tons, with tusks up to 6 feet long. It can live up to 80 years.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Towering over common walruses, emperor walruses live in only the most secluded arctic areas. They might be throwbacks to an earlier age of giant animals or bred by druids to be superior arctic predators. They often live in the company of common walruses, but are far more aggressive, driving off or killing any potential threats to the herd. Emperor walruses have a similar diet to common walruses, but may also eat giant crabs, seals, large fish, and seabirds. A full-grown male emperor walrus measures 20 feet in length and weighs around 16 tons, with tusks up to 6 feet long. It can live up to 80 years.

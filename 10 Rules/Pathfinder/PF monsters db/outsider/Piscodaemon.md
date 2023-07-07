@@ -71,7 +71,6 @@ Environment: any (Abaddon)
 Temperature: any
 Organization: solitary, pair, or knot (3-5)
 Treasure: standard
-Description: These aquatic daemons roam the lower planes sowing misery and blight. They delight in drawn-out deaths, poisoning creatures or dismembering victims to watch them slowly bleed out. On their home plane of Abaddon, piscodaemons gravitate toward the same aquatic regions inhabited by hydrodaemons, and often the stronger among their ranks end up leading armies of hydrodaemons against their enemies. These creatures serve as sergeants in the hierarchy of Abaddon, and run their units with an excess of cruelty and violence.  Instead of preying on the weak, piscodaemons enjoy targeting strong, well-armored warriors, knowing the pain of their weakening poison rests poorly on shoulders accustomed to bearing heavy weights and delivering devastating blows.  Piscodaemons are 7 feet tall and weigh 400 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These aquatic daemons roam the lower planes sowing misery and blight. They delight in drawn-out deaths, poisoning creatures or dismembering victims to watch them slowly bleed out. On their home plane of Abaddon, piscodaemons gravitate toward the same aquatic regions inhabited by hydrodaemons, and often the stronger among their ranks end up leading armies of hydrodaemons against their enemies. These creatures serve as sergeants in the hierarchy of Abaddon, and run their units with an excess of cruelty and violence.  Instead of preying on the weak, piscodaemons enjoy targeting strong, well-armored warriors, knowing the pain of their weakening poison rests poorly on shoulders accustomed to bearing heavy weights and delivering devastating blows.  Piscodaemons are 7 feet tall and weigh 400 pounds.

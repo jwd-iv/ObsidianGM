@@ -67,7 +67,6 @@ Environment: desert
 Temperature: warm
 Organization: solitary
 Treasure: none
-Description: Camels are large, desert-dwelling herd animals noted for their stamina and ill tempers. A typical camel stands about 6 feet at the shoulder and 7 feet at the hump.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Camels are large, desert-dwelling herd animals noted for their stamina and ill tempers. A typical camel stands about 6 feet at the shoulder and 7 feet at the hump.

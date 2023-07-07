@@ -66,7 +66,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, school (3-6), or pack (7-13)
 Treasure: none
-Description: The great white shark is one of the largest predatory fish in the ocean, and preys on seals, small whales, seabirds, dolphins, and turtles. Its strength and speed even allow it to leap out of the water to reach prey on land, rafts, or boats. Though fierce and ruthless, great white sharks are often careful when they encounter a new type of prey. They make many biting passes to evaluate the threat their quarry poses. An adult great white shark is 20 feet long and weighs 5,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The great white shark is one of the largest predatory fish in the ocean, and preys on seals, small whales, seabirds, dolphins, and turtles. Its strength and speed even allow it to leap out of the water to reach prey on land, rafts, or boats. Though fierce and ruthless, great white sharks are often careful when they encounter a new type of prey. They make many biting passes to evaluate the threat their quarry poses. An adult great white shark is 20 feet long and weighs 5,000 pounds.

@@ -76,7 +76,6 @@ Environment: urban
 Temperature: any
 Organization: solitary, pair, or squadron (3-12)
 Treasure: NPC gear (mwk shortspear, mwk breastplate, mwk heavy steel shield, 4 javelins, other treasure)
-Description: An udaeus (plural udaeoi) is a fierce humanoid who's obsessed with perfecting its skills at war. The first udaeoi were obedient warriors created by a deity out of dragon teeth, but now they are a distinct race and capable of reproducing on their own. Though an udaeus loves combat and is eager to demonstrate its abilities, it is violent only when it's in an honorable battle; only a desperate or manipulated udaeus would resort to thuggery. Udaeoi resemble tall, athletic humans with bone-white skin and black hair. They mark themselves with tattoos or brands, usually of weapons, dragons, or battle scenes. When an udaeus hardens its flesh with its innate magic, these markings look like carvings and cracks in a marble statue. Udaeoi might hire themselves out as mercenaries or serve as soldiers in a local army. Udaeoi prefer to fight alongside their own kind, and a squadron usually comprises members of the same fighting company or family unit.
 Race: 
 Class: 
 MR: 1
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+An udaeus (plural udaeoi) is a fierce humanoid who's obsessed with perfecting its skills at war. The first udaeoi were obedient warriors created by a deity out of dragon teeth, but now they are a distinct race and capable of reproducing on their own. Though an udaeus loves combat and is eager to demonstrate its abilities, it is violent only when it's in an honorable battle; only a desperate or manipulated udaeus would resort to thuggery. Udaeoi resemble tall, athletic humans with bone-white skin and black hair. They mark themselves with tattoos or brands, usually of weapons, dragons, or battle scenes. When an udaeus hardens its flesh with its innate magic, these markings look like carvings and cracks in a marble statue. Udaeoi might hire themselves out as mercenaries or serve as soldiers in a local army. Udaeoi prefer to fight alongside their own kind, and a squadron usually comprises members of the same fighting company or family unit.

@@ -76,7 +76,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Sometimes, a whale that dies after days of anger and pain arises as an undead monstrosity known as a bakekujira. A bakekujira weighs about 50 tons, and measures from 50 to 60 feet long.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Sometimes, a whale that dies after days of anger and pain arises as an undead monstrosity known as a bakekujira. A bakekujira weighs about 50 tons, and measures from 50 to 60 feet long.

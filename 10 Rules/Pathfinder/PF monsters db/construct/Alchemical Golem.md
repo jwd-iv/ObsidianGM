@@ -75,7 +75,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: This golem is a walking alchemical nightmare, capable of inflicting all manner of painful wounds on its foes.  Its ability to follow orders is granted by the otherwise mindless humanoid brain that floats in its dome-like head, while its animating force is a curious combination of alchemy and elemental spirits bound into the fluids and metals of its body.  Construction An alchemical golem's body is made of alchemical gear weighing 1,000 pounds and worth a total of 3,000 gp.  Alchemical Golem CL 10th; Price 33,000 gp Construction Requirements Craft Construct, geas/quest, gentle repose, major creation, resist energy, telekinesis, creator must be caster level 10th; Skill Craft (alchemy) DC 20; Cost 18,000 gp
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This golem is a walking alchemical nightmare, capable of inflicting all manner of painful wounds on its foes.  Its ability to follow orders is granted by the otherwise mindless humanoid brain that floats in its dome-like head, while its animating force is a curious combination of alchemy and elemental spirits bound into the fluids and metals of its body.  Construction An alchemical golem's body is made of alchemical gear weighing 1,000 pounds and worth a total of 3,000 gp.  Alchemical Golem CL 10th; Price 33,000 gp Construction Requirements Craft Construct, geas/quest, gentle repose, major creation, resist energy, telekinesis, creator must be caster level 10th; Skill Craft (alchemy) DC 20; Cost 18,000 gp

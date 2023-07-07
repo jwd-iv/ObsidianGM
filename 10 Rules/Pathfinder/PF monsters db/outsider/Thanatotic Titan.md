@@ -73,7 +73,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or war band (3-6)
 Treasure: standard (+3 full plate, +3 unholy battleaxe, other treasure)
-Description: Some believe that the titans were the first children of the gods-if this myth is true, then the fact that they waged war upon the gods becomes even more tragic. After they were betrayed to the gods by their own kin, the Thanatotic titans were banished into the Abyss. Today, they seethe with jealousy that their Elysian kin are allowed to wander the planes at will, while they can leave their Abyssal realm only by stealth. Now, these powerful outsiders spend much of their time brooding, fighting among themselves, and waging war for control of Abyssal realms against the legions of various demon lords.  Thanatotic titans see themselves as the true icons worthy of worship. Some work to found personal cults among mortals, while others simply wage unending crusades against the minions of the gods.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Some believe that the titans were the first children of the gods-if this myth is true, then the fact that they waged war upon the gods becomes even more tragic. After they were betrayed to the gods by their own kin, the Thanatotic titans were banished into the Abyss. Today, they seethe with jealousy that their Elysian kin are allowed to wander the planes at will, while they can leave their Abyssal realm only by stealth. Now, these powerful outsiders spend much of their time brooding, fighting among themselves, and waging war for control of Abyssal realms against the legions of various demon lords.  Thanatotic titans see themselves as the true icons worthy of worship. Some work to found personal cults among mortals, while others simply wage unending crusades against the minions of the gods.

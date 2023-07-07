@@ -70,7 +70,6 @@ Environment: any (haunted sites or ruins)
 Temperature: any
 Organization: solitary or haunting (2-7)
 Treasure: incidental
-Description: A geist is formed when an exceptionally evil humanoid is killed by a haunt and proves too tenacious to submit to death's call.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A geist is formed when an exceptionally evil humanoid is killed by a haunt and proves too tenacious to submit to death's call.

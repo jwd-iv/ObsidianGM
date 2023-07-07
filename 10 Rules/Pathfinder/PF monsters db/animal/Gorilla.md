@@ -65,7 +65,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary, pair, or troop (3-12)
 Treasure: none
-Description: An adult male ape is 8 feet tall and can weigh as much as 400 pounds. While generally shy and peaceful creatures when left to their own business, gorillas are territorial and become highly aggressive when provoked. This stat block can generally be used for any of the larger types of primates, such as gorillas-for smaller apes like orangutans and chimpanzees, apply the young simple template. Even smaller primates should use the stats for monkeys found on page 132. Gorillas typically make a large show of force before actually attacking, thumping their chests with their palms, stamping their feet, and roaring loudly. Any opponents who refuse to flee after this display are attacked. Troops of apes fight together in a frenzy, tearing opponents to pieces with their hands and teeth.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+An adult male ape is 8 feet tall and can weigh as much as 400 pounds. While generally shy and peaceful creatures when left to their own business, gorillas are territorial and become highly aggressive when provoked. This stat block can generally be used for any of the larger types of primates, such as gorillas-for smaller apes like orangutans and chimpanzees, apply the young simple template. Even smaller primates should use the stats for monkeys found on page 132. Gorillas typically make a large show of force before actually attacking, thumping their chests with their palms, stamping their feet, and roaring loudly. Any opponents who refuse to flee after this display are attacked. Troops of apes fight together in a frenzy, tearing opponents to pieces with their hands and teeth.

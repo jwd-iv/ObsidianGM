@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-6)
 Treasure: none
-Description: Junk golems are assembled from trash and spare parts, and often leave trails of garbage in their wakes.  Construction  A junk golem's body is made up of 250 pounds of assorted rubbish with 200 gp of spare metal and copper wire.  JUNK GOLEM  CL 7th; Price 10,200 gp  Construction  Requirements Craft Construct, false life, lesser geas, minor creation, rusting grasp, creator must be caster level 7th; Skill Craft (sculpture); Cost 5,200 gp
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Junk golems are assembled from trash and spare parts, and often leave trails of garbage in their wakes.  Construction  A junk golem's body is made up of 250 pounds of assorted rubbish with 200 gp of spare metal and copper wire.  JUNK GOLEM  CL 7th; Price 10,200 gp  Construction  Requirements Craft Construct, false life, lesser geas, minor creation, rusting grasp, creator must be caster level 7th; Skill Craft (sculpture); Cost 5,200 gp

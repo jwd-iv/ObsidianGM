@@ -63,7 +63,6 @@ Environment: forest
 Temperature: temperate/warm
 Organization: solitary, pair, or knot (3-100)
 Treasure: none
-Description: Toads are harmless, rough-skinned amphibians.
 Race: 
 Class: 
 MR: 
@@ -73,3 +72,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Toads are harmless, rough-skinned amphibians.

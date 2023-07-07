@@ -76,7 +76,6 @@ Environment: any (coastal)/water
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: A grodair is a bloated aquatic creature from the primal world of the fey. The bulbous sac on its spine is an extradimensional space that can contain thousands of gallons of water. The creature drains water (including small bits of debris and even very small creatures) from one place and releases it in another, typically creating boggy areas as it moves so it can travel more quickly than its tentacles can carry it. A grodair can rise up to 6 feet on its tentacles, measures 7 feet long, and weighs about 400 pounds.  A grodair is intelligent, but extremely absentminded and careless. Its memory is poor, and it has difficulty remembering things it was told even 5 minutes prior- though it can recall some events of the distant past with perfect (and often frustrating) clarity.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A grodair is a bloated aquatic creature from the primal world of the fey. The bulbous sac on its spine is an extradimensional space that can contain thousands of gallons of water. The creature drains water (including small bits of debris and even very small creatures) from one place and releases it in another, typically creating boggy areas as it moves so it can travel more quickly than its tentacles can carry it. A grodair can rise up to 6 feet on its tentacles, measures 7 feet long, and weighs about 400 pounds.  A grodair is intelligent, but extremely absentminded and careless. Its memory is poor, and it has difficulty remembering things it was told even 5 minutes prior- though it can recall some events of the distant past with perfect (and often frustrating) clarity.

@@ -70,7 +70,6 @@ Environment: any (Plane of Fire)
 Temperature: any
 Organization: solitary, pair, company (3-6), or band (7-12)
 Treasure: standard (mwk falchion, other gear)
-Description: The efreet (singular efreeti) are genies from the Plane of Fire. An efreeti stands about 12 feet tall and weighs about 2,000 pounds.  Efreet have few allies among geniekind. They certainly hate djinn, and attack them on sight. They hold an equally strong enmity for marids, and view the jann as frail and weak. Efreet often work closely with shaitans, yet even then alliances are temporary at best.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The efreet (singular efreeti) are genies from the Plane of Fire. An efreeti stands about 12 feet tall and weighs about 2,000 pounds.  Efreet have few allies among geniekind. They certainly hate djinn, and attack them on sight. They hold an equally strong enmity for marids, and view the jann as frail and weak. Efreet often work closely with shaitans, yet even then alliances are temporary at best.

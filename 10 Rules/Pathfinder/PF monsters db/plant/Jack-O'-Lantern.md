@@ -76,7 +76,6 @@ Environment: forest (pumpkin patches)/hills (pumpkin patches)/plains (pumpkin pa
 Temperature: temperate
 Organization: solitary or patch (2-12)
 Treasure: none
-Description: Jack-o'-lanterns are semi-intelligent plant creatures spawned by fell magic and driven to burn and consume living flesh. Though they are mobile, jack-o'- lanterns prefer to remain in one spot until their food supplies run out. They typically lair within pumpkin patches, where they lie in wait and use their pumpkin form ability to ambush unsuspecting prey. Jack-o'-lanterns have been known to grow where the corpse of a powerful evil witch or wicked fey was buried, though this form of reproduction sometimes takes decades. Jack-o'-lanterns can also reproduce on their own. Immediately after killing and devouring an intelligent being, a jack-o'-lantern excretes its victim's remains as a smoldering, paste-like slurry that quickly sinks into the ground. One day later, 1d3 fully mature-and ravenous-jack-o'- lanterns emerge from the tainted soil.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Jack-o'-lanterns are semi-intelligent plant creatures spawned by fell magic and driven to burn and consume living flesh. Though they are mobile, jack-o'- lanterns prefer to remain in one spot until their food supplies run out. They typically lair within pumpkin patches, where they lie in wait and use their pumpkin form ability to ambush unsuspecting prey. Jack-o'-lanterns have been known to grow where the corpse of a powerful evil witch or wicked fey was buried, though this form of reproduction sometimes takes decades. Jack-o'-lanterns can also reproduce on their own. Immediately after killing and devouring an intelligent being, a jack-o'-lantern excretes its victim's remains as a smoldering, paste-like slurry that quickly sinks into the ground. One day later, 1d3 fully mature-and ravenous-jack-o'- lanterns emerge from the tainted soil.

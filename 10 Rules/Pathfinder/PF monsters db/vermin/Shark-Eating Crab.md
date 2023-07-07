@@ -68,7 +68,6 @@ Environment: water
 Temperature: any
 Organization: solitary or cast (2-8)
 Treasure: none
-Description: Extremely fast and agile for such a large creature, the shark-eating crab preys on predators of the sea. Not limiting its consumption to just sharks, these crabs feed on fast-moving fish like barracudas and tuna, and even mollusks like giant squid. Their hunting skills have evolved over the ages to track the movements of fast creatures swimming above them as the crabs blend into their surroundings.  The typical shark-eating crab stands 16 feet tall and weighs just over 4,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Extremely fast and agile for such a large creature, the shark-eating crab preys on predators of the sea. Not limiting its consumption to just sharks, these crabs feed on fast-moving fish like barracudas and tuna, and even mollusks like giant squid. Their hunting skills have evolved over the ages to track the movements of fast creatures swimming above them as the crabs blend into their surroundings.  The typical shark-eating crab stands 16 feet tall and weighs just over 4,000 pounds.

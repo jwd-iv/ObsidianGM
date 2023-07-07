@@ -76,7 +76,6 @@ Environment: desert
 Temperature: warm
 Organization: solitary, pair, patrol (3-5 plus 2-4 giant scorpions), or cult (6-14 plus 3-6 temple guardians of 3rd level, 1 cleric or oracle leader of 6th level, and 4-9 giant scorpions)
 Treasure: standard (leather armor, masterwork spear)
-Description: Girtablilus fiercely guard ancient places and treasures lost to history. Far from civilized eyes, they thrive and piously protect their charges with the aid of monstrously large scorpions that girtablilus keep as pets.  All girtablilus share a zeal for religion, although the objects of veneration vary from tribe to tribe. Some girtablilu tribes still serve long-forgotten deities, preserving the divinities' names and holy rituals. Others embrace religions derived from prehistoric worship, devoted to the idea of gods that once were or might never have been.  Girtablilu leaders are clerics or oracles, and are responsible for the tribe's religious observances and laws. Tradition and service to the group are important. Those who violate tribal beliefs are killed or exiled into the harsh wasteland.  Girtablilus believe that no sacrifice in life (including death in the service of the gods) goes unrewarded in the hereafter; this belief makes them fierce and fearless fighters.  A girtablilu is 13 feet long and weighs 800 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Girtablilus fiercely guard ancient places and treasures lost to history. Far from civilized eyes, they thrive and piously protect their charges with the aid of monstrously large scorpions that girtablilus keep as pets.  All girtablilus share a zeal for religion, although the objects of veneration vary from tribe to tribe. Some girtablilu tribes still serve long-forgotten deities, preserving the divinities' names and holy rituals. Others embrace religions derived from prehistoric worship, devoted to the idea of gods that once were or might never have been.  Girtablilu leaders are clerics or oracles, and are responsible for the tribe's religious observances and laws. Tradition and service to the group are important. Those who violate tribal beliefs are killed or exiled into the harsh wasteland.  Girtablilus believe that no sacrifice in life (including death in the service of the gods) goes unrewarded in the hereafter; this belief makes them fierce and fearless fighters.  A girtablilu is 13 feet long and weighs 800 pounds.

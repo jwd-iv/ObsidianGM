@@ -74,7 +74,6 @@ Environment: underground
 Temperature: any
 Organization: solitary or nest (1 plus 7-19 giant wasps)
 Treasure: standard
-Description: When an ochre jelly infiltrates a colony of giant bees or wasps and consumes a queen egg, a strange reaction sometimes occurs between the jelly's fluids and the egg, resulting in a tyrant jelly-an intelligent ooze using an immature insect as a primitive brain. The tyrant jelly has unusual powers over vermin, and quickly takes control of the colony, sending its drones to gather food to sate its unnatural hunger. Other vermin are attracted to the scent of these creatures, and then fall under the tyrant's sway-a colony often has giant bees, centipedes, spiders, and wasps working together. A tyrant jelly's primary interests are food and survival. Magic or telepathy might allow a creature to bargain with it, exchanging food for its cooperation. Some insect cults hunt tyrant jellies, believing their strange substance has properties similar to a giant bee's royal jelly (Pathfinder RPG Bestiary 2 43) or can increase the intelligence of other vermin.
 Race: 
 Class: 
 MR: 3
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+When an ochre jelly infiltrates a colony of giant bees or wasps and consumes a queen egg, a strange reaction sometimes occurs between the jelly's fluids and the egg, resulting in a tyrant jelly-an intelligent ooze using an immature insect as a primitive brain. The tyrant jelly has unusual powers over vermin, and quickly takes control of the colony, sending its drones to gather food to sate its unnatural hunger. Other vermin are attracted to the scent of these creatures, and then fall under the tyrant's sway-a colony often has giant bees, centipedes, spiders, and wasps working together. A tyrant jelly's primary interests are food and survival. Magic or telepathy might allow a creature to bargain with it, exchanging food for its cooperation. Some insect cults hunt tyrant jellies, believing their strange substance has properties similar to a giant bee's royal jelly (Pathfinder RPG Bestiary 2 43) or can increase the intelligence of other vermin.

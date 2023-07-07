@@ -76,7 +76,6 @@ Environment: forest/hills/mountains
 Temperature: warm
 Organization: solitary, pair, or rampage (3-12)
 Treasure: standard
-Description: The deviant and destructive cousins of primal magma dragons, lava drakes rise from smoldering volcanic crevasses to terrorize and devour those creatures weaker than themselves. While far less intelligent that their draconic kin, they are equally arrogant and seek out the adoration of humanoids. They can and often do submerge themselves in molten rock, burrowing through the lava to sneak up on prey, or to provide a dramatic display of power to those who worship them. Thick, black-crusted scales cover a lava drake's body. Stockier than other drakes, adults can grow up to 18 feet in length and weigh over 3,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The deviant and destructive cousins of primal magma dragons, lava drakes rise from smoldering volcanic crevasses to terrorize and devour those creatures weaker than themselves. While far less intelligent that their draconic kin, they are equally arrogant and seek out the adoration of humanoids. They can and often do submerge themselves in molten rock, burrowing through the lava to sneak up on prey, or to provide a dramatic display of power to those who worship them. Thick, black-crusted scales cover a lava drake's body. Stockier than other drakes, adults can grow up to 18 feet in length and weigh over 3,000 pounds.

@@ -94,7 +94,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary
 Treasure: triple
-Description: Green dragons dwell in the ancient forests of the world, prowling under towering canopies in search of prey. Of all the chromatic dragons, green dragons are perhaps the easiest to deal with diplomatically.
 Race: 
 Class: 
 MR: 
@@ -104,3 +103,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Green dragons dwell in the ancient forests of the world, prowling under towering canopies in search of prey. Of all the chromatic dragons, green dragons are perhaps the easiest to deal with diplomatically.

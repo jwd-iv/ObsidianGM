@@ -72,7 +72,6 @@ Environment: swamps
 Temperature: cold
 Organization: solitary
 Treasure: standard
-Description: This reaver of the cold marsh is not just a monster; he is a force of nature. Where there is peace and prosperity in the world, Grendel strikes, eager to prove that tranquility is transitory and death is the only constant. Grendel stalks the edge of his fens looking for quiet settlements. Under cover of night, he strikes, murdering the strong in their beds and chasing the terrified with demonic glee. He then takes the prize of his carnage deep into his fen where his lust for blood is grotesquely sated.
 Race: 
 Class: 
 MR: 7
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This reaver of the cold marsh is not just a monster; he is a force of nature. Where there is peace and prosperity in the world, Grendel strikes, eager to prove that tranquility is transitory and death is the only constant. Grendel stalks the edge of his fens looking for quiet settlements. Under cover of night, he strikes, murdering the strong in their beds and chasing the terrified with demonic glee. He then takes the prize of his carnage deep into his fen where his lust for blood is grotesquely sated.

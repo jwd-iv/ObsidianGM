@@ -91,8 +91,16 @@ Environment: land/underground
 Temperature: any
 Organization: solitary, pair, or gang (3-6)
 Treasure: none
-Description: >
-  A necrocraft is a medley of undead body parts and corpses grafted together with dark magic to create a single animated undead creature with abilities based on its component pieces and the surgical and necromantic talents of its creator. Necrocrafts are better suited for brute force than delicate manipulation, and most creators build larger hulks rather than smaller, more agile (and fragile) necrocrafts. Though necrocrafts can be of virtually any size and can be made up of undead bodies or parts of any size, a typical Medium specimen is 7 feet tall and weighs 250 pounds. The details of the ritual to create a necrocraft vary greatly, and depend on the particular undead parts used and the intended size of the resulting creature. The final anatomy of the creation largely depends on the master's artistry, creativity, and personal preferences-as well as any specific goals it has in mind for the creature. For example, a necrocraft's "teeth" could actually be dozens of clawed ghoul talons, or its eyes and mouth might be located in its chest rather than in a distinct head.
+Race: 
+Class: 
+MR: 
+Copyright:
+  Content: PFRPG Bestiary 4
+---
+```dataviewjs
+customJS.Statblock.printMonsterWiki(dv)
+```
+A necrocraft is a medley of undead body parts and corpses grafted together with dark magic to create a single animated undead creature with abilities based on its component pieces and the surgical and necromantic talents of its creator. Necrocrafts are better suited for brute force than delicate manipulation, and most creators build larger hulks rather than smaller, more agile (and fragile) necrocrafts. Though necrocrafts can be of virtually any size and can be made up of undead bodies or parts of any size, a typical Medium specimen is 7 feet tall and weighs 250 pounds. The details of the ritual to create a necrocraft vary greatly, and depend on the particular undead parts used and the intended size of the resulting creature. The final anatomy of the creation largely depends on the master's artistry, creativity, and personal preferences-as well as any specific goals it has in mind for the creature. For example, a necrocraft's "teeth" could actually be dozens of clawed ghoul talons, or its eyes and mouth might be located in its chest rather than in a distinct head.
   
   **CREATING A NECROCRAFT**
   In order to create a necrocraft, a spellcaster must use at least five undead creatures (or their corpses), all of which must be under the creator's control, helpless, or slain. A larger undead or corpse can be used in place of two that are one size smaller. The creator must stitch, glue, or otherwise bind the parts together in the desired conf iguration, then cast animate dead and make whole to complete the construction (the material component cost of animate dead is 50 gp per Hit Die of the final necrocraft). The creator can't create a necrocraft with more Hit Dice than her caster level. As with animate dead, the necrocraft is under the creator's control when created. Note that creating a necrocraft requires casting a spell with the evil descriptor.
@@ -105,12 +113,3 @@ Description: >
     <tr><td> Gargantuan </td><td> 14d8 </td><td> 5 </td><td> 9  </td><td> 50  </td></tr>
     <tr><td> Colossal   </td><td> 18d8 </td><td> 6 </td><td> 11 </td><td> 100 </td></tr>
   </tbody></table>
-Race: 
-Class: 
-MR: 
-Copyright:
-  Content: PFRPG Bestiary 4
----
-```dataviewjs
-customJS.Statblock.printMonsterWiki(dv)
-```

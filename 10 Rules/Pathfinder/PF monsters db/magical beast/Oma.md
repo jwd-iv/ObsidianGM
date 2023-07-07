@@ -74,7 +74,6 @@ Environment: sky (gas giant)/vacuum
 Temperature: any
 Organization: solitary, pair, or pod (3-6)
 Treasure: incidental
-Description: Oma soar through gas giants and the vast gulfs between planets on magical electromagnetic fields, feeding on cosmic materials strained from planetary rings and atmospheres with their energy baleen. Anything ingested by an oma is eventually sequestered in a surprisingly habitable second stomach before being excreted, and some alien creatures use oma as living starships, using telepathy to guide the colossi through the void. A typical oma is 150 feet long and weighs 250 tons.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Oma soar through gas giants and the vast gulfs between planets on magical electromagnetic fields, feeding on cosmic materials strained from planetary rings and atmospheres with their energy baleen. Anything ingested by an oma is eventually sequestered in a surprisingly habitable second stomach before being excreted, and some alien creatures use oma as living starships, using telepathy to guide the colossi through the void. A typical oma is 150 feet long and weighs 250 tons.

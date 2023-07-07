@@ -70,7 +70,6 @@ Environment: underground
 Temperature: any
 Organization: solitary or gang (2-6)
 Treasure: none
-Description: Vegepygmies transformed by the vile fleshwarping process become halsoras, creatures twice cursed. The alchemical torture they undergo seems minor compared to what other fleshwarps suffer-it merely increases the mass and strength of the vegepygmy and deforms its eyes so they secrete acid. The process has a more interesting effect on the residual and previously inert russet mold within the body of the host vegepygmy. Mutating the mold, it creates a deadly spore that courses through the halsora's insides, is slowly excreted through the fingertips, and clumps on the claws of the creature. Though their sunken eyes and constant stream of acidic tears often make these creatures seem pitiful, they are fierce bundles of rage and self-hatred. The conditioning of the fleshwarpers causes them to attack and infect any enemy of the drow they come in contact with, but what's left of their consciousness rages against the mutated spores they carry. Worse still, many drow use these creatures to hunt down and even infect other tribes of vegepygmies.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Vegepygmies transformed by the vile fleshwarping process become halsoras, creatures twice cursed. The alchemical torture they undergo seems minor compared to what other fleshwarps suffer-it merely increases the mass and strength of the vegepygmy and deforms its eyes so they secrete acid. The process has a more interesting effect on the residual and previously inert russet mold within the body of the host vegepygmy. Mutating the mold, it creates a deadly spore that courses through the halsora's insides, is slowly excreted through the fingertips, and clumps on the claws of the creature. Though their sunken eyes and constant stream of acidic tears often make these creatures seem pitiful, they are fierce bundles of rage and self-hatred. The conditioning of the fleshwarpers causes them to attack and infect any enemy of the drow they come in contact with, but what's left of their consciousness rages against the mutated spores they carry. Worse still, many drow use these creatures to hunt down and even infect other tribes of vegepygmies.

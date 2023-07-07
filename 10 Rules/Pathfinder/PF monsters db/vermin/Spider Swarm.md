@@ -67,7 +67,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, tangle (3-6 swarms) or colony (11-20 swarms)
 Treasure: none
-Description: The sight of a carpet of swarming spiders is unsettling indeed-particularly when the swarm is made up of spiders each the size of a gold coin and possessing bladelike mandibles capable of lacerating flesh with sickening ease. A swarm of spiders is a colonial mass of arachnids that relies on overwhelming much larger prey with sheer numbers rather than catching smaller snacks. While spider swarms spin webs, these webs are incapable of catching larger prey and typically serve the swarm as a lair rather than a method of capturing dinner.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The sight of a carpet of swarming spiders is unsettling indeed-particularly when the swarm is made up of spiders each the size of a gold coin and possessing bladelike mandibles capable of lacerating flesh with sickening ease. A swarm of spiders is a colonial mass of arachnids that relies on overwhelming much larger prey with sheer numbers rather than catching smaller snacks. While spider swarms spin webs, these webs are incapable of catching larger prey and typically serve the swarm as a lair rather than a method of capturing dinner.

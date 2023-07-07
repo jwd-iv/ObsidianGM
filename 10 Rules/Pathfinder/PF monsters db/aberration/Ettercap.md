@@ -73,7 +73,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
 Treasure: standard
-Description: Ettercaps are typically 6 feet tall and weigh about 200 pounds. They are solitary creatures and rarely group with others of their kind, even to mate. When they do group, they tend to attract a variety of different spiders, forming a strange collective of ettercaps and arachnids. Ettercaps are known for building cunning traps out of webs and other natural materials, using them to trap prey. They build shelters out of webbing, often high up in the trees away from other ground-based predators, and use monstrous spiders as lookouts and guardians. Ettercaps are not brave creatures, but their traps often ensure that the enemy never draws a weapon. When an ettercap does engage its enemies, it attacks with its claws and venomous bite. It usually refuses to come within melee reach of any foe that is still able to move, and flees if an opponent gets free.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ettercaps are typically 6 feet tall and weigh about 200 pounds. They are solitary creatures and rarely group with others of their kind, even to mate. When they do group, they tend to attract a variety of different spiders, forming a strange collective of ettercaps and arachnids. Ettercaps are known for building cunning traps out of webs and other natural materials, using them to trap prey. They build shelters out of webbing, often high up in the trees away from other ground-based predators, and use monstrous spiders as lookouts and guardians. Ettercaps are not brave creatures, but their traps often ensure that the enemy never draws a weapon. When an ettercap does engage its enemies, it attacks with its claws and venomous bite. It usually refuses to come within melee reach of any foe that is still able to move, and flees if an opponent gets free.

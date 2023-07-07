@@ -72,7 +72,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary
 Treasure: standard
-Description: A tunche is a bizarre forest creature with twisted feline legs, a dense body resembling jungle undergrowth, clawed arms like those of a praying mantis, and a head resembling a cross between a monstrous spider's head and a jungle orchid. Although it has plant and animal features, a tunche is neither plant nor animal and is immune to effects that specifically target such creatures. Considering itself the ultimate protector of the jungle, a tunche prowls its domain in search of any who might despoil this vibrant and lush environment. If a tunche encounters travelers who treat the jungle with proper respect, it might simply observe them or demand an offering in exchange for allowing them to pass through its territory. A tunche especially enjoys toying with its victims, using its magic to confuse and mislead its opponents. A tunche rarely kills a foe without toying with it first, unless the target is actively harming plants or animals. A tunche stands 20 feet tall and weighs 4,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A tunche is a bizarre forest creature with twisted feline legs, a dense body resembling jungle undergrowth, clawed arms like those of a praying mantis, and a head resembling a cross between a monstrous spider's head and a jungle orchid. Although it has plant and animal features, a tunche is neither plant nor animal and is immune to effects that specifically target such creatures. Considering itself the ultimate protector of the jungle, a tunche prowls its domain in search of any who might despoil this vibrant and lush environment. If a tunche encounters travelers who treat the jungle with proper respect, it might simply observe them or demand an offering in exchange for allowing them to pass through its territory. A tunche especially enjoys toying with its victims, using its magic to confuse and mislead its opponents. A tunche rarely kills a foe without toying with it first, unless the target is actively harming plants or animals. A tunche stands 20 feet tall and weighs 4,000 pounds.

@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: Bone golems are most often crafted as guardians of tombs- and sometimes formed from the very corpses they guard.  Construction  The golem's body consists of bones from at least a dozen Medium or larger skeletons. The bones must be treated with oils and shellac worth 1,000 gp.  BONE GOLEM  CL 9th; Price 41,000 gp  Construction  Requirements Craft Construct, geas/quest, limited wish, telekinesis, and either animate dead or animate objects, creator must be at least caster level 9th; Skill Craft (sculpture) or Heal DC 15; Cost 21,000 gp
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Bone golems are most often crafted as guardians of tombs- and sometimes formed from the very corpses they guard.  Construction  The golem's body consists of bones from at least a dozen Medium or larger skeletons. The bones must be treated with oils and shellac worth 1,000 gp.  BONE GOLEM  CL 9th; Price 41,000 gp  Construction  Requirements Craft Construct, geas/quest, limited wish, telekinesis, and either animate dead or animate objects, creator must be at least caster level 9th; Skill Craft (sculpture) or Heal DC 15; Cost 21,000 gp

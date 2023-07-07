@@ -78,7 +78,7 @@ SpecialAbilities:
       - *Clunky* (+1 CP): Treat the object as though it had the staggered special quality.
       - *Flammable* (+1 CP): The object gains vulnerability fire.
       - *Haunted* (+1 CP): The object is haunted by a malevolent spirit. It takes damage from positive energy as if it were an undead creature and can be detect by detect undead.
-      - *Slower* (+1 CP): One of the object’s movement modes decreases by – 10 ft.
+      - *Slower* (+1 CP): One of the object’s movement modes decreases by - 10 ft.
 SpellsKnown: 
 SpellsPrepared: 
 SpellDomains: 
@@ -87,8 +87,16 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or group (3-12)
 Treasure: none
-Description: >
-  An animated object is not simply one monster, but a whole category.
+Race: 
+Class: 
+MR: 
+Copyright:
+  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object)'
+---
+```dataviewjs
+customJS.Statblock.printMonsterWiki(dv)
+```
+An animated object is not simply one monster, but a whole category.
   The stats presented here are for a Medium animated object (with 2 CP that have not been spent to gain additional abilities), but any object can become animated, most commonly via the spell animate objects.
   Permanent animated objects can be built using the Craft Construct feat (see page 314).
   
@@ -105,12 +113,3 @@ Description: >
       <tr><td> Gargantuan </td><td> Catapult      </td><td> 10d10+60 </td><td> 5  </td><td> 9   </td></tr>
       <tr><td> Colossal   </td><td> Ship          </td><td> 13d10+80 </td><td> 6  </td><td> 11  </td></tr>
     </tbody></table>
-Race: 
-Class: 
-MR: 
-Copyright:
-  Content: '[PFRPG Bestiary](http://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object)'
----
-```dataviewjs
-customJS.Statblock.printMonsterWiki(dv)
-```

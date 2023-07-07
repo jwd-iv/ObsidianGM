@@ -72,7 +72,6 @@ Environment: any (coastal)
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: A lorelei resembles an enormous, stony sea anemone with a humanlike face covering much of its body. Noted for their magical murmurs that entrance sailors, the creatures lurk near rocky shoals barely concealed by crashing waves or rushing rivers, eager to lure humanoids to their deaths. Also known as a "murmur stone" for its rocklike natural camouf lage, a lorelei is a solitary creature that shuns peaceful contact with other living things. It broods in the shadows of seaside cliffs and ocean trenches, emerging only to torment the living. When not pursuing complicated schemes, a lorelei is fond of wrecking ships on rocks and luring sailors beneath the surface to drown. Some scholars claim that these creatures were once a species of beautiful fey cursed by foul forces. This claim is backed by the fact that they behave much like nereids, nixies, and sirens. A lorelei stands 9 feet tall, not counting the mess of tentacles atop its body, and weighs around 2,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A lorelei resembles an enormous, stony sea anemone with a humanlike face covering much of its body. Noted for their magical murmurs that entrance sailors, the creatures lurk near rocky shoals barely concealed by crashing waves or rushing rivers, eager to lure humanoids to their deaths. Also known as a "murmur stone" for its rocklike natural camouf lage, a lorelei is a solitary creature that shuns peaceful contact with other living things. It broods in the shadows of seaside cliffs and ocean trenches, emerging only to torment the living. When not pursuing complicated schemes, a lorelei is fond of wrecking ships on rocks and luring sailors beneath the surface to drown. Some scholars claim that these creatures were once a species of beautiful fey cursed by foul forces. This claim is backed by the fact that they behave much like nereids, nixies, and sirens. A lorelei stands 9 feet tall, not counting the mess of tentacles atop its body, and weighs around 2,000 pounds.

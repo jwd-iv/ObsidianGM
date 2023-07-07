@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard (+2 quarterstaff, other treasure)
-Description: Toshigami, known also as blossom kami, are associated with cherry trees-particularly those that grow in inhabited areas. Often, long after a city has fallen to ruin, these kami guardians are all that remain to remember the lost city's glory. In this way, the toshigami are also associated with the passing of time.  Toshigami rarely show themselves except to those in dire need or who are harming their trees. Still, they have a fascination with mortals, and have even been known to form romantic relationships with them on occasion. A toshigami is 5 feet tall and weighs 100 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Toshigami, known also as blossom kami, are associated with cherry trees-particularly those that grow in inhabited areas. Often, long after a city has fallen to ruin, these kami guardians are all that remain to remember the lost city's glory. In this way, the toshigami are also associated with the passing of time.  Toshigami rarely show themselves except to those in dire need or who are harming their trees. Still, they have a fascination with mortals, and have even been known to form romantic relationships with them on occasion. A toshigami is 5 feet tall and weighs 100 pounds.

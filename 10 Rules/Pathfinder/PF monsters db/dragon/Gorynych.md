@@ -72,7 +72,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary
 Treasure: double
-Description: This sinister beast threatens entire countrysides with its plundering actions. No friend to its true dragon cousins, a gorynych sometimes threatens green and black dragons for mastery of their lands. A gorynych seeks out young dragons that have only established small hoards, killing the rival creatures and claiming their treasures as its own. It dominates drakes and wyverns, but true dragons consider it a repulsive throwback to an ancient line of mutants and deviants.  Motivated by greed, gluttony, and unnatural lust, a gorynych lives to collect treasure, feast as often as possible, and chase after humanoid maidens, using alter self and charm person as necessary.  Gorynyches are particularly creative with the use of their limited wishes in duplicating other spell effects to secure their desires and complete their hideous tasks.  When not busily stalking young dragons in order to steal their hoard or selecting maidens to kidnap, most gorynyches search out ancient ruins. There they install themselves as guardians, sometimes even gathering whole tribes of monstrous humanoids to act as their servants
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This sinister beast threatens entire countrysides with its plundering actions. No friend to its true dragon cousins, a gorynych sometimes threatens green and black dragons for mastery of their lands. A gorynych seeks out young dragons that have only established small hoards, killing the rival creatures and claiming their treasures as its own. It dominates drakes and wyverns, but true dragons consider it a repulsive throwback to an ancient line of mutants and deviants.  Motivated by greed, gluttony, and unnatural lust, a gorynych lives to collect treasure, feast as often as possible, and chase after humanoid maidens, using alter self and charm person as necessary.  Gorynyches are particularly creative with the use of their limited wishes in duplicating other spell effects to secure their desires and complete their hideous tasks.  When not busily stalking young dragons in order to steal their hoard or selecting maidens to kidnap, most gorynyches search out ancient ruins. There they install themselves as guardians, sometimes even gathering whole tribes of monstrous humanoids to act as their servants

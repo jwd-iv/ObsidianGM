@@ -71,7 +71,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or slaver band (3-10 plus 6-12 slaves of various races)
 Treasure: standard
-Description: The shoggti are masters of mind manipulation, capable of seizing control of the thoughts of others and charming them into docile allies. They invade other realms in slaver bands, seeking out creatures to capture alive and return to the Abyss as charmed slaves-the fates of these poor souls is unknown, but likely has something to do with the qlippoth drive to reclaim the Abyss as their own.  Although a shoggti lacks proper hands, it is capable of performing incredibly dextrous manipulations with the pincers at the tips of its tentacles. It cannot wield weapons in these pincers, but it can utilize magic items like wands, rods, staves, and the like. Shoggti are fond of wands in particular, particularly those that create mind-affecting effects that are easy to inf lict on victims of their braincloud ability.  A shoggti's body is an egg-shaped mass about 8 feet long-its tentacles are about 8 feet long as well. The whole creature weighs 900 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The shoggti are masters of mind manipulation, capable of seizing control of the thoughts of others and charming them into docile allies. They invade other realms in slaver bands, seeking out creatures to capture alive and return to the Abyss as charmed slaves-the fates of these poor souls is unknown, but likely has something to do with the qlippoth drive to reclaim the Abyss as their own.  Although a shoggti lacks proper hands, it is capable of performing incredibly dextrous manipulations with the pincers at the tips of its tentacles. It cannot wield weapons in these pincers, but it can utilize magic items like wands, rods, staves, and the like. Shoggti are fond of wands in particular, particularly those that create mind-affecting effects that are easy to inf lict on victims of their braincloud ability.  A shoggti's body is an egg-shaped mass about 8 feet long-its tentacles are about 8 feet long as well. The whole creature weighs 900 pounds.

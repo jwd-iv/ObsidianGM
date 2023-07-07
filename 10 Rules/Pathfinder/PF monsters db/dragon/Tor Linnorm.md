@@ -78,7 +78,6 @@ Environment: mountains (volcanic)
 Temperature: cold
 Organization: solitary
 Treasure: triple
-Description: Tor linnorms epitomize the raw and untempered power of their kin. They dwell in the tallest volcanic mountains, either in naturally formed caverns or in the craters themselves, and rain destruction down upon nearby mountain villages whenever the urge strikes them. Tor linnorms are brutes, but as far as linnorms go are relatively intelligent. With this intelligence comes an overwhelming vanity-unlike other linnorms, tor linnorms enjoy being adored and worshiped by lesser creatures, and have been known to delay eating prisoners who seem to be particularly cowed by their presence, simply basking in their victims' fear.  A tor linnorm is 50 feet long and weighs 15,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Tor linnorms epitomize the raw and untempered power of their kin. They dwell in the tallest volcanic mountains, either in naturally formed caverns or in the craters themselves, and rain destruction down upon nearby mountain villages whenever the urge strikes them. Tor linnorms are brutes, but as far as linnorms go are relatively intelligent. With this intelligence comes an overwhelming vanity-unlike other linnorms, tor linnorms enjoy being adored and worshiped by lesser creatures, and have been known to delay eating prisoners who seem to be particularly cowed by their presence, simply basking in their victims' fear.  A tor linnorm is 50 feet long and weighs 15,000 pounds.

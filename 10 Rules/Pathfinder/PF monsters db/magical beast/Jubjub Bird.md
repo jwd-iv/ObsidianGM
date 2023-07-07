@@ -76,7 +76,6 @@ Environment: forest
 Temperature: temperate/warm
 Organization: solitary or pair
 Treasure: incidental
-Description: The jubjub bird is a rare and dangerous bird that resembles a giant dodo bird, but with long, muscular legs and wings that provide functional, if awkward, flight. When attacked with magic, a jubjub bird's plumage shifts randomly in hue and pattern with each spell hurled against it.  Like the bandersnatch and other legendary creatures such as the jabberwock, the jubjub bird originally hails from the primal world of the fey. It has the dubious honor of being the least powerful and least intelligent of these creatures, which are known collectively as the "Tane," yet one should never assume that the jubjub bird is a pushover-its penchant for snapping off heads with its razor-sharp beak can quickly put such ideas to rest.  Powerful fey sometimes keep jubjub birds as guardians, and there are even reports of giants (particularly powerful tribes of jungle giants) using them as mounts. Such avian allies must be carefully trained, for few giants and fey are able to comfortably exist alongside a creature so prone to uttering such stunning shrieks so often.  Jubjub birds stand about 20 feet tall and weigh roughly 6,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The jubjub bird is a rare and dangerous bird that resembles a giant dodo bird, but with long, muscular legs and wings that provide functional, if awkward, flight. When attacked with magic, a jubjub bird's plumage shifts randomly in hue and pattern with each spell hurled against it.  Like the bandersnatch and other legendary creatures such as the jabberwock, the jubjub bird originally hails from the primal world of the fey. It has the dubious honor of being the least powerful and least intelligent of these creatures, which are known collectively as the "Tane," yet one should never assume that the jubjub bird is a pushover-its penchant for snapping off heads with its razor-sharp beak can quickly put such ideas to rest.  Powerful fey sometimes keep jubjub birds as guardians, and there are even reports of giants (particularly powerful tribes of jungle giants) using them as mounts. Such avian allies must be carefully trained, for few giants and fey are able to comfortably exist alongside a creature so prone to uttering such stunning shrieks so often.  Jubjub birds stand about 20 feet tall and weigh roughly 6,000 pounds.

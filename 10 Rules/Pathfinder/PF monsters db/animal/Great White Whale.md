@@ -69,7 +69,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, or pod (3-16)
 Treasure: none
-Description: Legendary in size and temper, great white whales are far more aggressive than their smaller kin.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Legendary in size and temper, great white whales are far more aggressive than their smaller kin.

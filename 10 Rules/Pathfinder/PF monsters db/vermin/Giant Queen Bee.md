@@ -67,7 +67,6 @@ Environment: plains
 Temperature: temperate/warm
 Organization: solitary or colony (1 queen and 3-18 giant bees)
 Treasure: incidental (royal jelly)
-Description: Bulbous and robust in comparison to others of the same species, giant queen bees are immense, fertile females, easily identified by their larger size and lighter stripes. They grow to 12 feet in length and weigh 140 pounds. Royal Jelly When a hive of bees needs a new queen to replace one that has died, they feed specially selected larvae royal jelly to trigger the larvae's transformation into new queens. The first queen to hatch then kills any other new queens. Royal jelly has remarkable effects on other creatures if eaten. A pound of royal jelly provides enough nourishment for a full day, and grants a +4 resistance bonus on all saving throws against disease for the next 24 hours. If a creature sleeps enough to heal damage within 24 hours of eating at least a pound of royal jelly, it heals twice the hit points and ability damage as it otherwise would. A typical bee hive contains 2d6 pounds of royal jelly-a single pound sells for 100 gp.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Bulbous and robust in comparison to others of the same species, giant queen bees are immense, fertile females, easily identified by their larger size and lighter stripes. They grow to 12 feet in length and weigh 140 pounds. Royal Jelly When a hive of bees needs a new queen to replace one that has died, they feed specially selected larvae royal jelly to trigger the larvae's transformation into new queens. The first queen to hatch then kills any other new queens. Royal jelly has remarkable effects on other creatures if eaten. A pound of royal jelly provides enough nourishment for a full day, and grants a +4 resistance bonus on all saving throws against disease for the next 24 hours. If a creature sleeps enough to heal damage within 24 hours of eating at least a pound of royal jelly, it heals twice the hit points and ability damage as it otherwise would. A typical bee hive contains 2d6 pounds of royal jelly-a single pound sells for 100 gp.

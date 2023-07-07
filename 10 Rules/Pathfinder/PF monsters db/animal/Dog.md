@@ -65,7 +65,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or pack (3-12)
 Treasure: none
-Description: The normal dog statistics presented here describe any small dog of about 20-50 pounds in weight. They can also be used for small wild canines such as coyotes, jackals, and feral dogs. In the wild, dogs are vicious and territorial creatures. Yet even more harrowing than a pack of wild dogs is the rabid dog. Rabies often affects animals like bats, wolverines, and rats, but the transformation of a normally friendly family pet goes through when it becomes rabid makes the dog perhaps the most notorious of the disease's classic carriers. A rabid creature can transmit rabies to a victim with a bite. Its CR increases by 1 (or up one step, in the case of a creature whose CR is less than 1). Rabies Type disease, injury; Save Fortitude DC 14 Onset 2d6 weeks; Frequency 1/day Effect 1 Con damage plus 1d3 Wis damage (minimum reduction to 1 Wis); Cure 2 consecutive saves
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The normal dog statistics presented here describe any small dog of about 20-50 pounds in weight. They can also be used for small wild canines such as coyotes, jackals, and feral dogs. In the wild, dogs are vicious and territorial creatures. Yet even more harrowing than a pack of wild dogs is the rabid dog. Rabies often affects animals like bats, wolverines, and rats, but the transformation of a normally friendly family pet goes through when it becomes rabid makes the dog perhaps the most notorious of the disease's classic carriers. A rabid creature can transmit rabies to a victim with a bite. Its CR increases by 1 (or up one step, in the case of a creature whose CR is less than 1). Rabies Type disease, injury; Save Fortitude DC 14 Onset 2d6 weeks; Frequency 1/day Effect 1 Con damage plus 1d3 Wis damage (minimum reduction to 1 Wis); Cure 2 consecutive saves

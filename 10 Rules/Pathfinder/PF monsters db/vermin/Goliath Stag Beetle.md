@@ -65,7 +65,6 @@ Environment: forest/plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-8)
 Treasure: none
-Description: Making its home in tropical and subtropical forests across the globe, the goliath beetle is among the largest species of giant beetle. While its diminutive cousins are primarily herbivores, the goliath stag beetle is carnivorous, hunting herd animals, humanoids, and even giants with ease. They typically use their trample attack against creatures smaller than themselves, returning after this punishing assault to pick off anything that's still moving with swift and deadly bites.  A goliath stag beetle is 25 feet long and weighs 8,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Making its home in tropical and subtropical forests across the globe, the goliath beetle is among the largest species of giant beetle. While its diminutive cousins are primarily herbivores, the goliath stag beetle is carnivorous, hunting herd animals, humanoids, and even giants with ease. They typically use their trample attack against creatures smaller than themselves, returning after this punishing assault to pick off anything that's still moving with swift and deadly bites.  A goliath stag beetle is 25 feet long and weighs 8,000 pounds.

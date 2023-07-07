@@ -75,7 +75,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: double
-Description: The legendary thrasfyr is one of the Tane-a group of powerful monsters created by godlike beings from the primal world of the fey. A thrasfyr without a master prefers to dwell in rugged hilly regions, where it spends most of its time slumbering and dreaming-it is said that all thrasfyrs dream of themselves as graceful and beautiful fey, for legends say that the first thrasfyrs were created from such creatures as a form of punishment.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The legendary thrasfyr is one of the Tane-a group of powerful monsters created by godlike beings from the primal world of the fey. A thrasfyr without a master prefers to dwell in rugged hilly regions, where it spends most of its time slumbering and dreaming-it is said that all thrasfyrs dream of themselves as graceful and beautiful fey, for legends say that the first thrasfyrs were created from such creatures as a form of punishment.

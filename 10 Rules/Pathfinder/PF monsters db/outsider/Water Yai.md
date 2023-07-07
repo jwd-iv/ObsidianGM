@@ -76,7 +76,6 @@ Environment: water
 Temperature: any
 Organization: solitary
 Treasure: standard (masterwork spear, other treasure)
-Description: The water yai clad themselves in the flesh of storm giants, yet these yai are more at home dwelling beneath the waves than they are above them. Unlike most oni, water yai have no real longing to rule or infiltrate societies- yet they still enjoy posing as humanoids. They often assume the forms of enormous merfolk in the water, but prefer to adopt the shapes of storm giants when on land. The water yai then pursues its favorite decadence-the acclimation of material wealth and luxuries. Water yai tend to be easily distracted by beautiful treasures, and despite their evil natures are prone to acts of unexpected frivolity.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The water yai clad themselves in the flesh of storm giants, yet these yai are more at home dwelling beneath the waves than they are above them. Unlike most oni, water yai have no real longing to rule or infiltrate societies- yet they still enjoy posing as humanoids. They often assume the forms of enormous merfolk in the water, but prefer to adopt the shapes of storm giants when on land. The water yai then pursues its favorite decadence-the acclimation of material wealth and luxuries. Water yai tend to be easily distracted by beautiful treasures, and despite their evil natures are prone to acts of unexpected frivolity.

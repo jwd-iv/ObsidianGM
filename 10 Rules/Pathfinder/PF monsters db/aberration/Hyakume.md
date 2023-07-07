@@ -72,7 +72,6 @@ Environment: underground
 Temperature: any
 Organization: solitary or enclave (2-6)
 Treasure: standard
-Description: Hideous and corpulent, with numerous eyes dotting their bodies, hyakumes are mystics of malevolence. They steal and collect the memories of other intelligent beings to increase their own knowledge.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Hideous and corpulent, with numerous eyes dotting their bodies, hyakumes are mystics of malevolence. They steal and collect the memories of other intelligent beings to increase their own knowledge.

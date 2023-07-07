@@ -66,7 +66,6 @@ Environment: any (coastal)/ocean
 Temperature: any
 Organization: solitary, pair, or shiver (3-6)
 Treasure: NPC gear (mwk trident, other treasure)
-Description: In either humanoid or hybrid form, a wereshark is generally burly, has a mouth full of unusually large teeth, and typically has a personality that is both crude and bullying. They're bloodthirsty and are very easy to anger. They will jump into fights they have no stake in just to snap bones and draw blood. Weresharks prefer life at sea or in port settlements commonly frequented by seagoing merchants and pirates. They can be found leading pirate gangs or loitering at seaside taverns accompanied by crowds of toadies. Since they get into fights so often, they try to stick close to the sea so they can escape into the water if they bite off more than they can chew. The other members of a wereshark's crew learn quickly that the boss is bound to skip out without much notice once a bigger fish comes along.
 Race: Human natural wereshark
 Class: fighter 3
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+In either humanoid or hybrid form, a wereshark is generally burly, has a mouth full of unusually large teeth, and typically has a personality that is both crude and bullying. They're bloodthirsty and are very easy to anger. They will jump into fights they have no stake in just to snap bones and draw blood. Weresharks prefer life at sea or in port settlements commonly frequented by seagoing merchants and pirates. They can be found leading pirate gangs or loitering at seaside taverns accompanied by crowds of toadies. Since they get into fights so often, they try to stick close to the sea so they can escape into the water if they bite off more than they can chew. The other members of a wereshark's crew learn quickly that the boss is bound to skip out without much notice once a bigger fish comes along.

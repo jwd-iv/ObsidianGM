@@ -72,7 +72,6 @@ Environment: forest
 Temperature: temperate/warm
 Organization: solitary
 Treasure: none
-Description: Vehement defenders of the unusual locations of the natural world, kapres have a complicated relationship with the "civilized" races. Formed of dense tree matter, they are as much part of the forest as their botanical brethren. Their intimidating physical size, territorial nature, and unusual approach to friendship often bring them into conf lict with local tribes and aggressive explorers. With slender limbs and thick, gnarled torsos, kapres are awkwardly humanoid in appearance, and if not for the soft glow of their eyes they could be mistaken for treants. Exceedingly secretive and wary, kapres prefer to avoid conf lict, using their imposing size and confounding auras to intimidate any would-be invaders. Leaning out of huge trees, they blow smoke onto lost explorers, persuading them to flee.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Vehement defenders of the unusual locations of the natural world, kapres have a complicated relationship with the "civilized" races. Formed of dense tree matter, they are as much part of the forest as their botanical brethren. Their intimidating physical size, territorial nature, and unusual approach to friendship often bring them into conf lict with local tribes and aggressive explorers. With slender limbs and thick, gnarled torsos, kapres are awkwardly humanoid in appearance, and if not for the soft glow of their eyes they could be mistaken for treants. Exceedingly secretive and wary, kapres prefer to avoid conf lict, using their imposing size and confounding auras to intimidate any would-be invaders. Leaning out of huge trees, they blow smoke onto lost explorers, persuading them to flee.

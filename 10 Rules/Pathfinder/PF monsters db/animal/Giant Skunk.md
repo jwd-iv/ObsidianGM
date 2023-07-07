@@ -72,7 +72,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary or pair
 Treasure: none
-Description: Much larger than their passive cousins, giant skunks are an aggressive lot. Having a greater bulk to maintain, giant skunks feed on creatures beyond just grubs and insects, often hunting small mammals and reptiles by night in addition to giant versions of insects. While giant skunks are dangerous to nearby settlements, farmers find a positive aspect in their presence, valuing the creatures' taste for giant insects and other more dangerous vermin.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Much larger than their passive cousins, giant skunks are an aggressive lot. Having a greater bulk to maintain, giant skunks feed on creatures beyond just grubs and insects, often hunting small mammals and reptiles by night in addition to giant versions of insects. While giant skunks are dangerous to nearby settlements, farmers find a positive aspect in their presence, valuing the creatures' taste for giant insects and other more dangerous vermin.

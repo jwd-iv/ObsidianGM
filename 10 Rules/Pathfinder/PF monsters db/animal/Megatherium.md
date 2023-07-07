@@ -65,8 +65,6 @@ Environment: forest
 Temperature: temperate/warm
 Organization: solitary or pair
 Treasure: none
-Description: >
-  The megatherium is a massive sloth weighing 10,000 pounds. It can balance on its hind legs and tail, allowing it to reach up to 20 feet high. Megatherium Companions Starting Statistics: Size Medium; Speed 40 ft., climb 10 ft.; AC +5 natural armor, Attack 2 claws (1d4); Ability Scores Str 9, Dex 14, Con 11, Int 2, Wis 13, Cha 6; Special Qualities lowlight vision, scent. 7th-Level Adv.: Size Large; AC +2 natural armor; Attack 2 claws (1d6), Ability Scores Str +8, Dex -2, Con +4; Special Qualities rend (2 claws, 1d8).
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The megatherium is a massive sloth weighing 10,000 pounds. It can balance on its hind legs and tail, allowing it to reach up to 20 feet high. Megatherium Companions Starting Statistics: Size Medium; Speed 40 ft., climb 10 ft.; AC +5 natural armor, Attack 2 claws (1d4); Ability Scores Str 9, Dex 14, Con 11, Int 2, Wis 13, Cha 6; Special Qualities lowlight vision, scent. 7th-Level Adv.: Size Large; AC +2 natural armor; Attack 2 claws (1d6), Ability Scores Str +8, Dex -2, Con +4; Special Qualities rend (2 claws, 1d8).

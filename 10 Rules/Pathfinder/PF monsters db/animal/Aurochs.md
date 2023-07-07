@@ -67,8 +67,6 @@ Environment: plains
 Temperature: temperate
 Organization: solitary, pair, or herd (3-30)
 Treasure: none
-Description: >
-  Aurochs (both singular and plural) are large herd animals similar to domesticated cattle. Aurochs Companions Starting Statistics: Size Medium; Speed 40 ft.; AC +1 natural armor, Attack gore (1d6); Ability Scores Str 14, Dex 12, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent. 7th-Level Adv.: Size Large; AC +3 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities stampede, trample.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Aurochs (both singular and plural) are large herd animals similar to domesticated cattle. Aurochs Companions Starting Statistics: Size Medium; Speed 40 ft.; AC +1 natural armor, Attack gore (1d6); Ability Scores Str 14, Dex 12, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent. 7th-Level Adv.: Size Large; AC +3 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities stampede, trample.

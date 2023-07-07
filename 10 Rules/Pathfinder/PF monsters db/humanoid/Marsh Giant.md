@@ -69,8 +69,6 @@ Environment: swamp (coastal)
 Temperature: temperate
 Organization: solitary, gang (2-6), or tribe (7-22, plus 20% noncombatants plus 1 cleric or witch leader of 4th-8th level, 1-3 barbarian or fighter champions of 2nd-5th level, 2-12 merrows, 10-20 boggards, and 6-12 giant frogs)
 Treasure: standard (gaff, other treasure)
-Description: >
-  Hideously ugly, marsh giants dwell in the most desolate of swamps- preferably those that share a sodden border with the sea. Marsh giants typically use a hooked club called a gaff (wielded in both hands) in combat-treat these weapons as flails, save that they do piercing damage.  Marsh giants are hateful thugs bound together by a common zealotry. Powerful opponents and beasts are the most prized of meals, though many marsh giants are also cannibals-they often attack fellow tribe members just to gorge on a particularly fearsome or delicious-looking relative.  deepest seas, creatures they believe are sent by their god. This has further contributed to their racial degradation, but the immediate offspring of these unholy unions are powerful. Deformed with tentacles, scales, and other aquatic traits, these marsh giants are known as "brineborn." They are advanced marsh giants with the aquatic subtype, a swim speed of 40 feet, the amphibious special quality, and the following additional spell-like abilities:  Constant-speak with animals; 3/day-contagion (DC 15), confusion (DC 15), quench (DC 14).
 Race: 
 Class: 
 MR: 
@@ -80,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Hideously ugly, marsh giants dwell in the most desolate of swamps- preferably those that share a sodden border with the sea. Marsh giants typically use a hooked club called a gaff (wielded in both hands) in combat-treat these weapons as flails, save that they do piercing damage.  Marsh giants are hateful thugs bound together by a common zealotry. Powerful opponents and beasts are the most prized of meals, though many marsh giants are also cannibals-they often attack fellow tribe members just to gorge on a particularly fearsome or delicious-looking relative.  deepest seas, creatures they believe are sent by their god. This has further contributed to their racial degradation, but the immediate offspring of these unholy unions are powerful. Deformed with tentacles, scales, and other aquatic traits, these marsh giants are known as "brineborn." They are advanced marsh giants with the aquatic subtype, a swim speed of 40 feet, the amphibious special quality, and the following additional spell-like abilities:  Constant-speak with animals; 3/day-contagion (DC 15), confusion (DC 15), quench (DC 14).

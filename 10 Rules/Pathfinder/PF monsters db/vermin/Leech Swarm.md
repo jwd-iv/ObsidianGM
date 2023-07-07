@@ -69,7 +69,6 @@ Environment: swamp (coastal)
 Temperature: temperate/warm
 Organization: solitary, pair, or infestation (3-6 swarms)
 Treasure: none
-Description: This horrifying cloud of ravenous, blood-draining parasites eschews the stealth of a lone leech's methods in favor of swift and merciless feeding.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This horrifying cloud of ravenous, blood-draining parasites eschews the stealth of a lone leech's methods in favor of swift and merciless feeding.

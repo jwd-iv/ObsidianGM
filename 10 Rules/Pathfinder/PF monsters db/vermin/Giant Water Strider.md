@@ -72,7 +72,6 @@ Environment: water
 Temperature: any
 Organization: solitary or colony (2-9)
 Treasure: incidental
-Description: A giant water strider is a long-legged insect with the ability to walk on water. It feeds on fish and birds. Water striders use their weak flight only to escape predators or for seasonal migrations to new breeding areas. They are sometimes kept as mounts by coast-dwelling humanoids. A giant water strider lives 1-2 years. Carrying more than a light load (200 pounds) prevents a giant water strider from using its water skating ability.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A giant water strider is a long-legged insect with the ability to walk on water. It feeds on fish and birds. Water striders use their weak flight only to escape predators or for seasonal migrations to new breeding areas. They are sometimes kept as mounts by coast-dwelling humanoids. A giant water strider lives 1-2 years. Carrying more than a light load (200 pounds) prevents a giant water strider from using its water skating ability.

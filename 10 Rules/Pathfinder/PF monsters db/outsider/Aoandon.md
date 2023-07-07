@@ -68,7 +68,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: An aoandon is an incorporeal outsider formed from the spirit of a woman who died pursuing some ill-fated relationship. An aoandon waits for her chance to seek revenge on those who wronged her in her mortal life. If that person is dead, she finds a surrogate-someone who reminds her of the wrongdoer-and acts out her delusions with unrelenting vindictiveness. These spirits can also appear as a result of mishaps with calling spells, but such instances are rare.  CALLING AN AOANDON  Calling an aoandon requires a paper lantern inscribed with runes and fueled by oils costing no less than 5,000 gp. Three or more creatures must chant the creature's name for 1 minute, then extinguish the lantern. There's a 1% chance per Hit Die the callers collectively possess that the aoandon is called. Relatives of the aoandon count as triple their normal Hit Dice. The aoandon isn't under the control of its conjurers, and can return to where she came from only after she has murdered at least one person she feels is responsible for her anguish.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+An aoandon is an incorporeal outsider formed from the spirit of a woman who died pursuing some ill-fated relationship. An aoandon waits for her chance to seek revenge on those who wronged her in her mortal life. If that person is dead, she finds a surrogate-someone who reminds her of the wrongdoer-and acts out her delusions with unrelenting vindictiveness. These spirits can also appear as a result of mishaps with calling spells, but such instances are rare.  CALLING AN AOANDON  Calling an aoandon requires a paper lantern inscribed with runes and fueled by oils costing no less than 5,000 gp. Three or more creatures must chant the creature's name for 1 minute, then extinguish the lantern. There's a 1% chance per Hit Die the callers collectively possess that the aoandon is called. Relatives of the aoandon count as triple their normal Hit Dice. The aoandon isn't under the control of its conjurers, and can return to where she came from only after she has murdered at least one person she feels is responsible for her anguish.

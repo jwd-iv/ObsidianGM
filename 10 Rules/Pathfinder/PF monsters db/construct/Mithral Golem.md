@@ -71,7 +71,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: Created from a massive quantity of the purest mithral, this golem is a thing of shining beauty. Unlike most golems, mithral golems are extremely agile, capable of moving at great speed and striking swiftly.  Construction  A mithral golem's body is made of 3,000 pounds of mithral and other precious metals, worth a total of 50,000 gp.  MITHRAL GOLEM  CL 18th; Price 250,000 gp  Construction  Requirements Craft Construct, animate objects, geas/quest, haste, polymorph any object, wish, creator must be caster level 18th; Skill Craft (sculpture) DC 25; Cost 150,000 gp
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Created from a massive quantity of the purest mithral, this golem is a thing of shining beauty. Unlike most golems, mithral golems are extremely agile, capable of moving at great speed and striking swiftly.  Construction  A mithral golem's body is made of 3,000 pounds of mithral and other precious metals, worth a total of 50,000 gp.  MITHRAL GOLEM  CL 18th; Price 250,000 gp  Construction  Requirements Craft Construct, animate objects, geas/quest, haste, polymorph any object, wish, creator must be caster level 18th; Skill Craft (sculpture) DC 25; Cost 150,000 gp

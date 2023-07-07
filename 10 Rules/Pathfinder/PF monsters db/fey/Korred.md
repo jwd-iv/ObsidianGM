@@ -73,7 +73,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, or gang (3-6)
 Treasure: standard (club, rope, shears, other treasure)
-Description: Korreds are an ancient fey race who like forested areas with nice, rocky ground. They resemble small, wildhaired humanoids with wild, knotted hair. Korreds especially like to dance in ancient stone circles within forest glades, often led by satyrs with panpipes. They are a shy race and do not take kindly to outsiders discovering them, even by accident. They almost always attack nonkorreds who stumble into their territory, seeking to kill them or at least drive them off.  Korred clothing normally consists of a simple leather apron, jerkin, or kilt, leaving their legs uncovered and their feet bare. Their clothes usually have a large pocket or pouch to hold their belongings. A korred's hair and beard grow quickly, sometimes an inch a day, and the korred trims its hair when the locks become too unruly, saving the trimmings in its pocket so it can weave them into ropes for its animate rope spell-like ability.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Korreds are an ancient fey race who like forested areas with nice, rocky ground. They resemble small, wildhaired humanoids with wild, knotted hair. Korreds especially like to dance in ancient stone circles within forest glades, often led by satyrs with panpipes. They are a shy race and do not take kindly to outsiders discovering them, even by accident. They almost always attack nonkorreds who stumble into their territory, seeking to kill them or at least drive them off.  Korred clothing normally consists of a simple leather apron, jerkin, or kilt, leaving their legs uncovered and their feet bare. Their clothes usually have a large pocket or pouch to hold their belongings. A korred's hair and beard grow quickly, sometimes an inch a day, and the korred trims its hair when the locks become too unruly, saving the trimmings in its pocket so it can weave them into ropes for its animate rope spell-like ability.

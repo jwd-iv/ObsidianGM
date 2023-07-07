@@ -76,7 +76,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Regal and proud, royal nagas haunt lost cities and forgotten kingdoms, guarding ancient treasures for their own inscrutable reasons. A royal naga's five faces are sharp and fierce, taking on a terrifying countenance when it becomes angered. Bespeaking their innate pride and vanity, royal nagas adorn their serpentine hoods and faces with elaborate and valuable piercings, crowns, or other precious accessories. Royal nagas are 18 feet long, and often weigh more than 750 pounds.  Royal nagas tend to be stern in nature and commanding in speech. Although naturally sociable, they are distrustful of strangers and seem to have great difficulty speaking to other creatures as equals.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Regal and proud, royal nagas haunt lost cities and forgotten kingdoms, guarding ancient treasures for their own inscrutable reasons. A royal naga's five faces are sharp and fierce, taking on a terrifying countenance when it becomes angered. Bespeaking their innate pride and vanity, royal nagas adorn their serpentine hoods and faces with elaborate and valuable piercings, crowns, or other precious accessories. Royal nagas are 18 feet long, and often weigh more than 750 pounds.  Royal nagas tend to be stern in nature and commanding in speech. Although naturally sociable, they are distrustful of strangers and seem to have great difficulty speaking to other creatures as equals.

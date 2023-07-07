@@ -67,8 +67,6 @@ Environment: plains
 Temperature: temperate
 Organization: solitary, pair, or herd (3-30)
 Treasure: none
-Description: >
-  The statistics above are for a typical riding horse, called by some a "light horse." Some horses are larger and heartier, bred for labor such as pulling plows or carriages. These horses are called "heavy horses" and gain the following adjustments to the base statistics detailed above.  Heavy Horse: A heavy horse gains the advanced simple template. In addition, it also gains a bite attack that inf licts 1d4 damage, and its hoof damage increases to 1d6. As with a light horse, a heavy horse can be specifically trained for combat with the Handle Animal skill.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The statistics above are for a typical riding horse, called by some a "light horse." Some horses are larger and heartier, bred for labor such as pulling plows or carriages. These horses are called "heavy horses" and gain the following adjustments to the base statistics detailed above.  Heavy Horse: A heavy horse gains the advanced simple template. In addition, it also gains a bite attack that inf licts 1d4 damage, and its hoof damage increases to 1d6. As with a light horse, a heavy horse can be specifically trained for combat with the Handle Animal skill.

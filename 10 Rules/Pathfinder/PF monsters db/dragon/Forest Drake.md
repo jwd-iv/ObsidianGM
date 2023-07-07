@@ -73,7 +73,6 @@ Environment: forest
 Temperature: any
 Organization: solitary, pair, or rampage (3-12)
 Treasure: standard
-Description: Forest drakes are the degenerate cousins of green dragons, possessed of cruel cunning but little actual wit. Like most drakes, forest drakes are bullies, prowling deep forests in search of their favorite prey-elves and fey. Forest drakes eagerly attack communities of such forest creatures unless driven off with arrows or other shows of force.  Like many other drake types, forest drakes organize themselves in packs called "rampages," and keep communal lairs in secluded forest locations. Such packs are usually made up of siblings who break from the pack only during mating season. A forest drake pack has a distinct pecking order, with younger and newer members receiving the least desirable portions of pack kills and the fewest mating options.  Forest drakes mate once a year, but do little to raise their offspring. A female lays a clutch of four to eight eggs, but abandons her young as soon as they hatch. Forest drake hatchlings immediately band together in a pack.  While few survive so long, forest drakes can live up to 200 years. Forest drakes are typically about 10 feet long with equally long tails, and weigh around 1,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Forest drakes are the degenerate cousins of green dragons, possessed of cruel cunning but little actual wit. Like most drakes, forest drakes are bullies, prowling deep forests in search of their favorite prey-elves and fey. Forest drakes eagerly attack communities of such forest creatures unless driven off with arrows or other shows of force.  Like many other drake types, forest drakes organize themselves in packs called "rampages," and keep communal lairs in secluded forest locations. Such packs are usually made up of siblings who break from the pack only during mating season. A forest drake pack has a distinct pecking order, with younger and newer members receiving the least desirable portions of pack kills and the fewest mating options.  Forest drakes mate once a year, but do little to raise their offspring. A female lays a clutch of four to eight eggs, but abandons her young as soon as they hatch. Forest drake hatchlings immediately band together in a pack.  While few survive so long, forest drakes can live up to 200 years. Forest drakes are typically about 10 feet long with equally long tails, and weigh around 1,000 pounds.

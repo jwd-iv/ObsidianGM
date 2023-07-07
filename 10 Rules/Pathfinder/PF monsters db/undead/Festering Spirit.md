@@ -74,7 +74,6 @@ Environment: land/underground
 Temperature: any
 Organization: solitary, pair, or gang (3-6)
 Treasure: incidental
-Description: A festering spirit arises when a vile person's corpse is put in a mass grave, or when such a person is buried, exhumed, and placed in a charnel house or ossuary. The lingering hatred and evil of the dead mixes with the worst remnants of dozens of other people, creating a frustrated incorporeal shade of sickness, hate, and rot. Powerful mortals might arise as multiple festering spirits, each spawned from a different aspect of the original creature's personality. A festering spirit can't travel more than a mile from its remains. When left alone for long periods, a festering spirit usually wanders the halls and rooms near its burial site, destroying things, indulging in pranks, or trying to eat and drink anything it finds palatable (which falls through its incorporeal body to no effect). Its senses can barely detect these treats, though some adventurers report that strong alcohol and spicy foods can distract the spirit as it savors these sensations.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A festering spirit arises when a vile person's corpse is put in a mass grave, or when such a person is buried, exhumed, and placed in a charnel house or ossuary. The lingering hatred and evil of the dead mixes with the worst remnants of dozens of other people, creating a frustrated incorporeal shade of sickness, hate, and rot. Powerful mortals might arise as multiple festering spirits, each spawned from a different aspect of the original creature's personality. A festering spirit can't travel more than a mile from its remains. When left alone for long periods, a festering spirit usually wanders the halls and rooms near its burial site, destroying things, indulging in pranks, or trying to eat and drink anything it finds palatable (which falls through its incorporeal body to no effect). Its senses can barely detect these treats, though some adventurers report that strong alcohol and spicy foods can distract the spirit as it savors these sensations.

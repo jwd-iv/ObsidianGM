@@ -67,7 +67,6 @@ Environment: any
 Temperature: temperate/warm
 Organization: solitary
 Treasure: none
-Description: Vipers are not particularly aggressive snakes, but their poisonous bite can be deadly.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Vipers are not particularly aggressive snakes, but their poisonous bite can be deadly.

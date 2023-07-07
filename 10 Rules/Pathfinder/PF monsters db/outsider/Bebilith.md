@@ -73,7 +73,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary or band (2-6)
 Treasure: standard
-Description: The Abyss is a terrible place, yet even in this horrific realm there exist predators and wild beasts that prey upon the demonic horde-the bebilith being the most notorious, a creature evolved to hunt and slay demons.  Far more intelligent than its verminous shape would suggest, it is perhaps a blessing that the bebilith is such a focused and devoted hunter of demons, for had these dangerous outsiders more of a mind to conquer and expand empires, their ability to plane shift would make them a menace indeed. Although, as an outsider, the bebilith has no biological need to eat, it does enjoy the sensation of chewing on demonic flesh.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The Abyss is a terrible place, yet even in this horrific realm there exist predators and wild beasts that prey upon the demonic horde-the bebilith being the most notorious, a creature evolved to hunt and slay demons.  Far more intelligent than its verminous shape would suggest, it is perhaps a blessing that the bebilith is such a focused and devoted hunter of demons, for had these dangerous outsiders more of a mind to conquer and expand empires, their ability to plane shift would make them a menace indeed. Although, as an outsider, the bebilith has no biological need to eat, it does enjoy the sensation of chewing on demonic flesh.

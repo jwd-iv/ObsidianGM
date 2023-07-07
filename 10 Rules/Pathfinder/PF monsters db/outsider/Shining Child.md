@@ -75,7 +75,6 @@ Environment: land (extraplanar)
 Temperature: any
 Organization: solitary, visitation (2-9), or incursion (11-20)
 Treasure: none
-Description: Creatures of burning light and strange geometry, shining children are a terror to behold. Beyond the flares of energy that constantly burst from their forms (particularly in beam-like gouts from their eyes and mouths), the creatures are vaguely humanoid, with strange hands that each bear four fingers. Occasionally summoned by powerful wizards in search of rare arcane knowledge, the shining children (who disdain individual names) communicate via telepathy, a psychic roar like metal tearing that sometimes resolves into strained and raspy words.  Though they harbor many secrets, their greatest secret may be their own origin. Numerous theories abound-that the shining children are beings from another dimension, avatars of a dying star grown sentient, or creatures of light battling living darkness at the edge of reality. A shining child stands just over 4-1/2 feet tall and weighs 85 pounds.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Creatures of burning light and strange geometry, shining children are a terror to behold. Beyond the flares of energy that constantly burst from their forms (particularly in beam-like gouts from their eyes and mouths), the creatures are vaguely humanoid, with strange hands that each bear four fingers. Occasionally summoned by powerful wizards in search of rare arcane knowledge, the shining children (who disdain individual names) communicate via telepathy, a psychic roar like metal tearing that sometimes resolves into strained and raspy words.  Though they harbor many secrets, their greatest secret may be their own origin. Numerous theories abound-that the shining children are beings from another dimension, avatars of a dying star grown sentient, or creatures of light battling living darkness at the edge of reality. A shining child stands just over 4-1/2 feet tall and weighs 85 pounds.

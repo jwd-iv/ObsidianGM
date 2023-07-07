@@ -68,7 +68,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: incidental
-Description: According to legend, primordial gods seeded the multiverse with the irminsuls, powerful and intelligent tree-like beings that bind all their worlds together by their roots. At one time, these beings were plentiful, and prized for their knowledge and mystic properties. But powerful creatures hacked them to the ground because they believed irminsuls' wood had special qualities or sought to protect themselves from whatever lay beyond the strange portals. Every irminsul is bound to a specific plane. The bound plane determines the creature's alignment, the nature of its regeneration, and the languages it knows. Sometimes irminsuls have special abilities based on the planes they are linked to. The sample irminsul is bound to the primal land of fey.
 Race: 
 Class: 
 MR: 7
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+According to legend, primordial gods seeded the multiverse with the irminsuls, powerful and intelligent tree-like beings that bind all their worlds together by their roots. At one time, these beings were plentiful, and prized for their knowledge and mystic properties. But powerful creatures hacked them to the ground because they believed irminsuls' wood had special qualities or sought to protect themselves from whatever lay beyond the strange portals. Every irminsul is bound to a specific plane. The bound plane determines the creature's alignment, the nature of its regeneration, and the languages it knows. Sometimes irminsuls have special abilities based on the planes they are linked to. The sample irminsul is bound to the primal land of fey.

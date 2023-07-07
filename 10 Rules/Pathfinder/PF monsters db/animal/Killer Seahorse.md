@@ -68,7 +68,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, or school (3-8)
 Treasure: none
-Description: These specially bred offshoots of the giant seahorse are used by aquatic creatures as guard animals. Vicious and territorial, they prefer larger prey and have been known to eat giant crabs and careless handlers. Killer seahorses are too unruly for use as mounts and only accept riders or baggage if magically controlled. Killer seahorses have been known to crush other creatures into a bloody pulp just before giving birth, ensuring a good meal for their newborns (called "fry"). A killer seahorse fry is the size of a human hand and is an aggressive swarm feeder, like a piranha. A light load for a killer seahorse is up to 2,500 pounds, a medium load is 4,900 pounds, and a heavy load is 7,400 pounds. A killer seahorse can drag 36,800 pounds.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These specially bred offshoots of the giant seahorse are used by aquatic creatures as guard animals. Vicious and territorial, they prefer larger prey and have been known to eat giant crabs and careless handlers. Killer seahorses are too unruly for use as mounts and only accept riders or baggage if magically controlled. Killer seahorses have been known to crush other creatures into a bloody pulp just before giving birth, ensuring a good meal for their newborns (called "fry"). A killer seahorse fry is the size of a human hand and is an aggressive swarm feeder, like a piranha. A light load for a killer seahorse is up to 2,500 pounds, a medium load is 4,900 pounds, and a heavy load is 7,400 pounds. A killer seahorse can drag 36,800 pounds.

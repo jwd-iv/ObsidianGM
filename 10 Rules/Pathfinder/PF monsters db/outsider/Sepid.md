@@ -72,7 +72,6 @@ Environment: any (Abaddon)
 Temperature: any
 Organization: solitary
 Treasure: standard (+1 falchion, other treasure)
-Description: Warlords among the divs, sepids spread fear, slaughter, and despair wherever they pass. They foster battles, incite rebellions, and seek heroes to slay, destroying all that which gives common people hope. With their falchions in hand, sepids often stand at the fore of the foul legions they raise.  Sepids delight in twisting the truth, but while all divs are liars, sepids make themselves predictable by always doing the opposite of what they claim, and wise opponents turn this knowledge to their own advantage.  Sepids stand 13 feet tall and weigh upward of 1,500 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Warlords among the divs, sepids spread fear, slaughter, and despair wherever they pass. They foster battles, incite rebellions, and seek heroes to slay, destroying all that which gives common people hope. With their falchions in hand, sepids often stand at the fore of the foul legions they raise.  Sepids delight in twisting the truth, but while all divs are liars, sepids make themselves predictable by always doing the opposite of what they claim, and wise opponents turn this knowledge to their own advantage.  Sepids stand 13 feet tall and weigh upward of 1,500 pounds.

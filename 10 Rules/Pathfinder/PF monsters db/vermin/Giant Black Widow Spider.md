@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or colony (3-8)
 Treasure: incidental
-Description: Females of this species are larger than males.  Males are identical to the typical giant spider (Pathfinder RPG Bestiary 258).
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Females of this species are larger than males.  Males are identical to the typical giant spider (Pathfinder RPG Bestiary 258).

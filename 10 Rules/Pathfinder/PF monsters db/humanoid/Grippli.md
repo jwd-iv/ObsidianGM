@@ -71,8 +71,6 @@ Environment: forest/swamp (coastal)
 Temperature: warm
 Organization: solitary, gang (2-5), pack (6-11), or tribe (21-30 plus 1 cleric leader of 3rd level)
 Treasure: NPC gear (leather armor, 4 darts, net, short sword, other treasure)
-Description: >
-  These small, intelligent, humanoid tree frogs live in primitive societies deep in the forests and marshes of the world. They hunt giant insects and eat fruits and flowers from their tree homes. They often barter with more advanced creatures for metal and gemstone ornaments.  Grippli hatchlings develop into adults in less than a year. Unless they meet a savage end from a forest threat, they can live 60 years, their skin graying and losing its luster as they age. A grippli stands just over 2 feet in height and weighs 30 pounds.  GRIPPLI CHARACTERS  Gripplis are def ined by their class levels-they do not possess racial Hit Dice. They have the following racial traits.  +2 Dexterity, +2 Wisdom, -2 Strength: Gripplis are nimble and alert, but spindly.  Small: Gripplis are Small sized.  Fast Speed: Gripplis have a base speed of 30 feet and a base climb speed of 20 feet.  Darkvision: Gripplis can see in the dark up to 60 feet.  Camouflage: +4 Stealth in marshes or forested areas.  Swamp Stride: See above.  Weapon Familiarity: Gripplis are proficient with nets.  Languages: Gripplis speak Common and Grippli. Gripplis with high Int scores can choose from the follo
 Race: Grippli
 Class: ranger 1
 MR: 
@@ -82,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These small, intelligent, humanoid tree frogs live in primitive societies deep in the forests and marshes of the world. They hunt giant insects and eat fruits and flowers from their tree homes. They often barter with more advanced creatures for metal and gemstone ornaments.  Grippli hatchlings develop into adults in less than a year. Unless they meet a savage end from a forest threat, they can live 60 years, their skin graying and losing its luster as they age. A grippli stands just over 2 feet in height and weighs 30 pounds.  GRIPPLI CHARACTERS  Gripplis are def ined by their class levels-they do not possess racial Hit Dice. They have the following racial traits.  +2 Dexterity, +2 Wisdom, -2 Strength: Gripplis are nimble and alert, but spindly.  Small: Gripplis are Small sized.  Fast Speed: Gripplis have a base speed of 30 feet and a base climb speed of 20 feet.  Darkvision: Gripplis can see in the dark up to 60 feet.  Camouflage: +4 Stealth in marshes or forested areas.  Swamp Stride: See above.  Weapon Familiarity: Gripplis are proficient with nets.  Languages: Gripplis speak Common and Grippli. Gripplis with high Int scores can choose from the follo

@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: A clay golem wears no clothing except for a metal or stiff leather garment around its hips. It stands over 8 feet tall and weighs 600 pounds.  Construction A clay golem's body must be sculpted from a single block of clay weighing at least 1,000 pounds, treated with rare oils and powders worth 1,500 gp.  Clay Golem CL 11th; Price 41,500 gp Construction Requirements Craft Construct, animate objects, bless, commune, prayer, resurrection, creator must be caster level 11th; Skill Craft (sculptures) or Craft (pottery) DC 16; Cost 21,500 gp
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A clay golem wears no clothing except for a metal or stiff leather garment around its hips. It stands over 8 feet tall and weighs 600 pounds.  Construction A clay golem's body must be sculpted from a single block of clay weighing at least 1,000 pounds, treated with rare oils and powders worth 1,500 gp.  Clay Golem CL 11th; Price 41,500 gp Construction Requirements Craft Construct, animate objects, bless, commune, prayer, resurrection, creator must be caster level 11th; Skill Craft (sculptures) or Craft (pottery) DC 16; Cost 21,500 gp

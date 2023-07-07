@@ -71,7 +71,6 @@ Environment: aquatic/underground
 Temperature: cold
 Organization: solitary or tide (2-6)
 Treasure: standard
-Description: Although even lunatics and doom-saying prophets desperately claim the monstrous shoggoth is nothing more than a drug-induced vision or thankfully unreal nightmare, the truth is altogether more dire. The shoggoths exist, although they keep to the deepest of ocean trenches or the most remote of forgotten caverns and ruins, emerging only rarely to spread madness and destruction in their slime-caked wakes.  The first shoggoths were created in eons past, long before the first gods turned their attentions to the Material Plane. Some hold that the aboleths engineered them, while certain strange texts hint of a race even older that engineered the first shoggoths as slaves. Eventually, these dread beasts developed enough intelligence to rebel against their creators, and now they lurk, patient but potent, in the lightless deep.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Although even lunatics and doom-saying prophets desperately claim the monstrous shoggoth is nothing more than a drug-induced vision or thankfully unreal nightmare, the truth is altogether more dire. The shoggoths exist, although they keep to the deepest of ocean trenches or the most remote of forgotten caverns and ruins, emerging only rarely to spread madness and destruction in their slime-caked wakes.  The first shoggoths were created in eons past, long before the first gods turned their attentions to the Material Plane. Some hold that the aboleths engineered them, while certain strange texts hint of a race even older that engineered the first shoggoths as slaves. Eventually, these dread beasts developed enough intelligence to rebel against their creators, and now they lurk, patient but potent, in the lightless deep.

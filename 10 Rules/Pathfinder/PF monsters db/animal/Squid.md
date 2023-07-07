@@ -71,8 +71,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, or school (3-12)
 Treasure: none
-Description: >
-  Squids are aggressive predators that fear little and are more than willing to attack prey larger than themselves. Squid Companions Starting Statistics: Size Medium; AC +1 natural; Speed swim 60 ft., jet 240 ft.; Attack tentacles (1d4 plus grab), bite (1d3); Ability Scores Str 14, Dex 15, Con 11, Int 2, Wis 12, Cha 2; Special Qualities low-light vision, ink cloud. 4th-Level Advancement: Ability Scores Str +2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -82,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Squids are aggressive predators that fear little and are more than willing to attack prey larger than themselves. Squid Companions Starting Statistics: Size Medium; AC +1 natural; Speed swim 60 ft., jet 240 ft.; Attack tentacles (1d4 plus grab), bite (1d3); Ability Scores Str 14, Dex 15, Con 11, Int 2, Wis 12, Cha 2; Special Qualities low-light vision, ink cloud. 4th-Level Advancement: Ability Scores Str +2, Con +2.

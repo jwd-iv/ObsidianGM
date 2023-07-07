@@ -77,7 +77,6 @@ Environment: any (Positive Energy Plane)
 Temperature: any
 Organization: solitary, pair, or flight (3-8)
 Treasure: double (+1 ghost touch spear, other treasure)
-Description: Enigmatic and swift to anger, the avian race known as the jyoti are xenophobic natives of the Positive Energy Plane. Though some believe the jyoti are inherently good because their home plane is the source of all life, these beliefs are quite in error, for the jyoti react to all other races with wary suspicion at best, and usually assume the worst and attack before they can themselves be attacked. They guard their crystalline cities from all intrusion, especially by creatures from other planes and servants of the gods. They have been known to hold dangerous artifacts in their vaults on behalf of desperate visitors, though in the case of holy or unholy artifacts, the jyoti are more likely to destroy the artifacts as soon as possible.  Jyoti loathe natives of the Shadow Plane and the Negative Energy Plane in particular, though there is an element of pity in their actions toward undead. They never discuss the sceaduinar, and even hearing that name inf lames jyoti into immediate anger. Those who dare argue on the sceaduinar's behalf are immediately attacked.
 Race: 
 Class: 
 MR: 
@@ -87,3 +86,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Enigmatic and swift to anger, the avian race known as the jyoti are xenophobic natives of the Positive Energy Plane. Though some believe the jyoti are inherently good because their home plane is the source of all life, these beliefs are quite in error, for the jyoti react to all other races with wary suspicion at best, and usually assume the worst and attack before they can themselves be attacked. They guard their crystalline cities from all intrusion, especially by creatures from other planes and servants of the gods. They have been known to hold dangerous artifacts in their vaults on behalf of desperate visitors, though in the case of holy or unholy artifacts, the jyoti are more likely to destroy the artifacts as soon as possible.  Jyoti loathe natives of the Shadow Plane and the Negative Energy Plane in particular, though there is an element of pity in their actions toward undead. They never discuss the sceaduinar, and even hearing that name inf lames jyoti into immediate anger. Those who dare argue on the sceaduinar's behalf are immediately attacked.

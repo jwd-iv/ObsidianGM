@@ -65,7 +65,6 @@ Environment: any
 Temperature: temperate
 Organization: solitary, pair, nest (3-12), or plague (13-100)
 Treasure: none
-Description: Fecund and secretive, rats are omnivorous rodents that particularly thrive in urban areas.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Fecund and secretive, rats are omnivorous rodents that particularly thrive in urban areas.

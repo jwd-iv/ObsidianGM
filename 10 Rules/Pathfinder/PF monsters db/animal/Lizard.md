@@ -65,7 +65,6 @@ Environment: any
 Temperature: temperate/warm
 Organization: solitary, pair, or nest (3-8)
 Treasure: none
-Description: Lizards can be found in any temperate or tropical climate.  When confronted with predators, a lizard flees and hides.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Lizards can be found in any temperate or tropical climate.  When confronted with predators, a lizard flees and hides.

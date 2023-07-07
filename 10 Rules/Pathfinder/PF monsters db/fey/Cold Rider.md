@@ -74,7 +74,6 @@ Environment: any
 Temperature: cold
 Organization: solitary, pair, or cavalry (3-12)
 Treasure: standard
-Description: Cold riders are terrifying armored majesties, clad in cloaks of frost with a pair of large crystal-blue antlers cresting their almost skeletal heads. Their icy armor and weapons are as much a part of them as their frozen flesh. Cold riders delight in perversion, slaughter, and the corruption of other fey. They prefer undead or cold-resistant steeds, but even when they have no access to such, their phantom steed spell-like ability ensures they never go long without a mount.  Cold riders are 7 feet tall, though their antlers easily add another 2 feet to their height. They weigh 300 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Cold riders are terrifying armored majesties, clad in cloaks of frost with a pair of large crystal-blue antlers cresting their almost skeletal heads. Their icy armor and weapons are as much a part of them as their frozen flesh. Cold riders delight in perversion, slaughter, and the corruption of other fey. They prefer undead or cold-resistant steeds, but even when they have no access to such, their phantom steed spell-like ability ensures they never go long without a mount.  Cold riders are 7 feet tall, though their antlers easily add another 2 feet to their height. They weigh 300 pounds.

@@ -67,7 +67,6 @@ Environment: land (lawful plane)
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Zelekhuts are bounty hunters and executioners all rolled into one. They seek out those beings who continually evade justice-either through active flight, or through power and station-and bring law and justice to the multiverse's most notorious fugitives and criminals.  Ironically, while zelekhuts are implacable and unrelenting in their duty, they have little interest in passing judgment of their own, a fact that often confuses other races. Rather, a zelekhut is content to enforce the laws of any given society, and while it might hunt a condemned serial killer or notorious thief across half a dozen planes, it will not shift a single hoof to capture a corrupt ruler whose offenses are 10 times worse, so long as the atrocities are within her technical rights as ruler. All zelekhuts understand that laws can and must differ from place to place, and it is not the zelekhut's job to moralize, merely to track down those who seek to flee their punishment.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Zelekhuts are bounty hunters and executioners all rolled into one. They seek out those beings who continually evade justice-either through active flight, or through power and station-and bring law and justice to the multiverse's most notorious fugitives and criminals.  Ironically, while zelekhuts are implacable and unrelenting in their duty, they have little interest in passing judgment of their own, a fact that often confuses other races. Rather, a zelekhut is content to enforce the laws of any given society, and while it might hunt a condemned serial killer or notorious thief across half a dozen planes, it will not shift a single hoof to capture a corrupt ruler whose offenses are 10 times worse, so long as the atrocities are within her technical rights as ruler. All zelekhuts understand that laws can and must differ from place to place, and it is not the zelekhut's job to moralize, merely to track down those who seek to flee their punishment.

@@ -69,7 +69,6 @@ Environment: any (good plane)
 Temperature: any
 Organization: solitary, pair, or squad (3-6)
 Treasure: double (+1 flaming greatsword, other treasure)
-Description: Movanic devas serve as infantry in the celestial armies, though they spend most of their time patrolling the Positive, Negative, and Material Planes. On the Positive Plane, they watch over wandering good souls, which sometimes puts them into conf lict with the jyoti. On the Negative Plane, they battle undead, the sceaduinar, and the other strange things that hunt in the hungry void. Their rare visits to the Material Plane are usually to help powerful mortals when a great menace threatens to plunge an entire realm into evil.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Movanic devas serve as infantry in the celestial armies, though they spend most of their time patrolling the Positive, Negative, and Material Planes. On the Positive Plane, they watch over wandering good souls, which sometimes puts them into conf lict with the jyoti. On the Negative Plane, they battle undead, the sceaduinar, and the other strange things that hunt in the hungry void. Their rare visits to the Material Plane are usually to help powerful mortals when a great menace threatens to plunge an entire realm into evil.

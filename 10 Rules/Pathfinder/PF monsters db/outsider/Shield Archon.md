@@ -71,7 +71,6 @@ Environment: any (Heaven)
 Temperature: any
 Organization: solitary, pair, or squad (3-5)
 Treasure: standard (full plate, other treasure)
-Description: Shield archons are the mighty rocks of celestial armies, withstanding waves of demons and devils without complaint. Though more than capable of tearing apart lesser demons and devils, their true strength lies in their ability to shrug off deadly attacks from superior opponents, giving their offense-oriented allies time to flank and overwhelm their mutual foes. Shield archons are 9 feet tall and weigh 800 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Shield archons are the mighty rocks of celestial armies, withstanding waves of demons and devils without complaint. Though more than capable of tearing apart lesser demons and devils, their true strength lies in their ability to shrug off deadly attacks from superior opponents, giving their offense-oriented allies time to flank and overwhelm their mutual foes. Shield archons are 9 feet tall and weigh 800 pounds.

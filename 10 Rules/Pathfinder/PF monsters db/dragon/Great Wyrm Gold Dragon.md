@@ -97,7 +97,6 @@ Environment: plains
 Temperature: warm
 Organization: solitary
 Treasure: triple
-Description: Gold dragons are the epitome of virtue. Other metallic dragons revere their gold cousins as the agents of divine forces and the paragons of dragonkind, and often seek them for advice or aid.
 Race: 
 Class: 
 MR: 
@@ -107,3 +106,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Gold dragons are the epitome of virtue. Other metallic dragons revere their gold cousins as the agents of divine forces and the paragons of dragonkind, and often seek them for advice or aid.

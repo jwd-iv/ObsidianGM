@@ -68,7 +68,6 @@ Environment: forest/plains
 Temperature: temperate
 Organization: solitary, pair, or prickle (3-6)
 Treasure: none
-Description: Porcupines are omnivorous mammals that often climb trees in search of food. The spines on their back provide camouflage as well as protection from natural predators- typically other small mammals. Though primarily nocturnal, porcupines do occasionally graze during the day, eating the twigs, roots, and stems of bushes, coniferous trees, and other flora. Porcupine quills normally lie flat against the creature's body, but stand stiff ly on end when the porcupine feels threatened.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Porcupines are omnivorous mammals that often climb trees in search of food. The spines on their back provide camouflage as well as protection from natural predators- typically other small mammals. Though primarily nocturnal, porcupines do occasionally graze during the day, eating the twigs, roots, and stems of bushes, coniferous trees, and other flora. Porcupine quills normally lie flat against the creature's body, but stand stiff ly on end when the porcupine feels threatened.

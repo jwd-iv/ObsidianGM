@@ -84,7 +84,6 @@ Environment: ruins
 Temperature: any
 Organization: solitary, pair, or harem (3-6)
 Treasure: standard
-Description: A rokurokubi is an evil hag-like creature who seeks to spread as much mayhem and despair as possible. Her skin ranges in hue from pale blue to muted green, so to disguise herself she must cover up her flesh with makeup and clothing, and retract her neck so it is no longer than a human's. A rokurokubi can mate with almost any male humanoid, monstrous humanoid, or humanoid-shaped creature. Her offspring is always a rokurokubi. The mate is usually devoured once the rokurokubi tires of his presence.
 Race: 
 Class: 
 MR: 
@@ -94,3 +93,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A rokurokubi is an evil hag-like creature who seeks to spread as much mayhem and despair as possible. Her skin ranges in hue from pale blue to muted green, so to disguise herself she must cover up her flesh with makeup and clothing, and retract her neck so it is no longer than a human's. A rokurokubi can mate with almost any male humanoid, monstrous humanoid, or humanoid-shaped creature. Her offspring is always a rokurokubi. The mate is usually devoured once the rokurokubi tires of his presence.

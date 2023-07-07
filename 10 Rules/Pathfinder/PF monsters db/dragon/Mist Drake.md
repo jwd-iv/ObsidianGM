@@ -76,7 +76,6 @@ Environment: hills (coastal)/swamp (coastal)
 Temperature: cold/temperate
 Organization: solitary, pair, or rampage (3-12)
 Treasure: standard
-Description: Mist drakes are less openly aggressive than most drakes, as they are not as physically strong and imposing as most of their kin. Their bodies are narrow and serpentine, more suited for quick strikes and hit-and-run tactics than for close combat. However, they excel at stealth for creatures of their size, and can expel a burst of thick fog whenever they need to create a diversion or screen themselves from archers trying to target them. In the mist, they move swiftly and silently to disperse groups of foes with their explosive breath and then single out one of their enemies for a quick and deadly attack before their victim's allies can regroup and come to its rescue. Mist drakes mate only once few decades, but are more caring parents than others of their ilk. After the clutch of two to six eggs hatch, the hatchlings stay with their mother for up to 20 years before seeking out their own hunting territory. Mist drakes live up to 200 years. A typical mist drake is 13 feet long from head to tail tip, but these lithe dragons rarely weigh more than 1,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Mist drakes are less openly aggressive than most drakes, as they are not as physically strong and imposing as most of their kin. Their bodies are narrow and serpentine, more suited for quick strikes and hit-and-run tactics than for close combat. However, they excel at stealth for creatures of their size, and can expel a burst of thick fog whenever they need to create a diversion or screen themselves from archers trying to target them. In the mist, they move swiftly and silently to disperse groups of foes with their explosive breath and then single out one of their enemies for a quick and deadly attack before their victim's allies can regroup and come to its rescue. Mist drakes mate only once few decades, but are more caring parents than others of their ilk. After the clutch of two to six eggs hatch, the hatchlings stay with their mother for up to 20 years before seeking out their own hunting territory. Mist drakes live up to 200 years. A typical mist drake is 13 feet long from head to tail tip, but these lithe dragons rarely weigh more than 1,000 pounds.

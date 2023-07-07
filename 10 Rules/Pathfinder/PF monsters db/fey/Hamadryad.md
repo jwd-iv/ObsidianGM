@@ -74,7 +74,6 @@ Environment: forest
 Temperature: temperate
 Organization: retinue (1 plus 2-5 dryads) or court (1 plus 2-12 centaurs, 2-12 dryads, 2-8 satyrs, and 1-2 treants)
 Treasure: triple (+2 speed composite longbow [+5] with 20 arrows, masterwork dagger, other treasure)
-Description: A hamadryad is the queen of her forest and the leader of all the dryads within it. Much as a dryad is bonded with one tree and is devoted to it, a hamadryad loves her chosen forest; while she does not sicken and die if separated from it, she loathes such separation. All nonevil woodland creatures acknowledge her as the wisest of dryads and respect her gifts of healing and diplomacy. In most forests, a hamadryad is the sister or wife of an erlking, and represents the protective, patient, and nurturing aspect of nature. With her healing magic, she can relieve the suffering of a dryad whose tree has been killed and sustain her long enough for her to bond with another tree. A hamadryad prefers to avoid direct confrontations, instead using her magic and allies to divert, confuse, and even befriend any would-be enemies. Her powers allow her to speak with or quickly travel to her subjects even when they are in the most remote parts of the forest. As a consequence, little happens in the forest without her knowledge, and those who enter her realm would do well to remember this.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A hamadryad is the queen of her forest and the leader of all the dryads within it. Much as a dryad is bonded with one tree and is devoted to it, a hamadryad loves her chosen forest; while she does not sicken and die if separated from it, she loathes such separation. All nonevil woodland creatures acknowledge her as the wisest of dryads and respect her gifts of healing and diplomacy. In most forests, a hamadryad is the sister or wife of an erlking, and represents the protective, patient, and nurturing aspect of nature. With her healing magic, she can relieve the suffering of a dryad whose tree has been killed and sustain her long enough for her to bond with another tree. A hamadryad prefers to avoid direct confrontations, instead using her magic and allies to divert, confuse, and even befriend any would-be enemies. Her powers allow her to speak with or quickly travel to her subjects even when they are in the most remote parts of the forest. As a consequence, little happens in the forest without her knowledge, and those who enter her realm would do well to remember this.

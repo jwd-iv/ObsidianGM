@@ -76,7 +76,6 @@ Environment: forest (Abyss)
 Temperature: warm
 Organization: solitary, pair, or troop (3-5)
 Treasure: standard
-Description: Although natives of the Abyss that often serve as minions for powerful demons or demon lords, baregaras are not in fact demons themselves. Some scholars classify them as "proto-demons"-monsters like bebiliths or xacabras that could perhaps someday complete their supernatural evolution into full demonic glory, but that have not quite yet reached that end. Of course, to the baregara's victims, these debates are incidental. In the Abyss, baregaras form small troops just like the apes of the Material Plane. These troops are led by the strongest fighter or an individual anointed by a powerful demon the baregara troop serves. Rivalries between troops are part of a complex hierarchy that is all but incomprehensible to non-baregaras, but planar scholars have observed that all baregaras take trophies from notable kills, and that these grisly mementos play some role in establishing the convoluted social standing of the troop leaders and their followers. Even when knuckle-walking on their enormous hands, baregaras stand over 12 feet high when measured to the top of their horns, and their dense bodies can weigh up to 1,500 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Although natives of the Abyss that often serve as minions for powerful demons or demon lords, baregaras are not in fact demons themselves. Some scholars classify them as "proto-demons"-monsters like bebiliths or xacabras that could perhaps someday complete their supernatural evolution into full demonic glory, but that have not quite yet reached that end. Of course, to the baregara's victims, these debates are incidental. In the Abyss, baregaras form small troops just like the apes of the Material Plane. These troops are led by the strongest fighter or an individual anointed by a powerful demon the baregara troop serves. Rivalries between troops are part of a complex hierarchy that is all but incomprehensible to non-baregaras, but planar scholars have observed that all baregaras take trophies from notable kills, and that these grisly mementos play some role in establishing the convoluted social standing of the troop leaders and their followers. Even when knuckle-walking on their enormous hands, baregaras stand over 12 feet high when measured to the top of their horns, and their dense bodies can weigh up to 1,500 pounds.

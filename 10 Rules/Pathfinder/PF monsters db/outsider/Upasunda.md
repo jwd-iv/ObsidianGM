@@ -78,7 +78,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, pair, or squad (3-6)
 Treasure: standard (weapons listed above plus other treasure)
-Description: Upasundas, also called beatific ones, are asuras who devote themselves to martial meditations and physical perfection. Upasundas seek monklike poise and skill, and through it, the ability to deal flawless destruction wherever they go. Their nickname suggests purity, and indeed, each beatific one is an expression of asura purity through devotion to the ideal of annihilation. It is believed that the first upasundas were created from the jealous followers of a man who achieved divinity through his own force of will. Those of his followers who felt abandoned when this new deity ascended to the Great Beyond sought other ways to achieve immortality, and fell pray to one of the asura ranas, who granted them their desire by transforming them into beatific ones.  Upasundas never surrender to foes in combat and rarely flee from battle. They hope to increase in skill and wisdom or to die in battle. On either path lies evolution toward a greater understanding of destruction in its countless forms.  An upasunda is 7 feet tall and weighs 240 pounds.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Upasundas, also called beatific ones, are asuras who devote themselves to martial meditations and physical perfection. Upasundas seek monklike poise and skill, and through it, the ability to deal flawless destruction wherever they go. Their nickname suggests purity, and indeed, each beatific one is an expression of asura purity through devotion to the ideal of annihilation. It is believed that the first upasundas were created from the jealous followers of a man who achieved divinity through his own force of will. Those of his followers who felt abandoned when this new deity ascended to the Great Beyond sought other ways to achieve immortality, and fell pray to one of the asura ranas, who granted them their desire by transforming them into beatific ones.  Upasundas never surrender to foes in combat and rarely flee from battle. They hope to increase in skill and wisdom or to die in battle. On either path lies evolution toward a greater understanding of destruction in its countless forms.  An upasunda is 7 feet tall and weighs 240 pounds.

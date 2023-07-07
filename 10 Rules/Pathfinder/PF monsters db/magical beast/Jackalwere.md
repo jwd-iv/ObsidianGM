@@ -78,7 +78,6 @@ Environment: desert
 Temperature: warm
 Organization: solitary, pair, hunt (1-2 jackalweres and 3-8 jackals), or pack (2-5 plus 3-12 jackals)
 Treasure: standard (leather armor, masterwork battleaxe, other treasure)
-Description: Jackalweres are evil, supernatural jackals born with the ability to assume human form. Some folks superstitiously consider jackalweres to be emissaries of evil spirits or wicked desert gods, and it is easy to understand why, as they can take the shape of a human and possess a keen intellect; however, they also have a taste for murder and humanoid flesh.  In its hybrid form, a jackalwere stands 6 feet tall and weighs 150 pounds.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Jackalweres are evil, supernatural jackals born with the ability to assume human form. Some folks superstitiously consider jackalweres to be emissaries of evil spirits or wicked desert gods, and it is easy to understand why, as they can take the shape of a human and possess a keen intellect; however, they also have a taste for murder and humanoid flesh.  In its hybrid form, a jackalwere stands 6 feet tall and weighs 150 pounds.

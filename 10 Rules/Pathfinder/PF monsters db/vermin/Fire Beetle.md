@@ -67,8 +67,6 @@ Environment: any
 Temperature: any
 Organization: solitary, cluster (2-6) or colony (7-12)
 Treasure: none
-Description: >
-  Although nocturnal, the fire beetle lacks darkvision- it relies on its own glowing glands for illumination. Caged fire beetles are a popular source of long-lasting illumination among eccentrics and miners. Other variations on the common fire beetle exist. The two most common variants are detailed below. Mining Beetle (CR 1/2): A mining beetle is an advanced fire beetle with the advanced simple template and a burrowing speed of 20 feet. Flash Beetle (CR 1/2): A flash beetle is an advanced fire beetle that can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10- foot burst must make a DC 12 Fortitude save or be dazzled for 1d3 rounds. The save DC is Constitution-based.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Although nocturnal, the fire beetle lacks darkvision- it relies on its own glowing glands for illumination. Caged fire beetles are a popular source of long-lasting illumination among eccentrics and miners. Other variations on the common fire beetle exist. The two most common variants are detailed below. Mining Beetle (CR 1/2): A mining beetle is an advanced fire beetle with the advanced simple template and a burrowing speed of 20 feet. Flash Beetle (CR 1/2): A flash beetle is an advanced fire beetle that can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10- foot burst must make a DC 12 Fortitude save or be dazzled for 1d3 rounds. The save DC is Constitution-based.

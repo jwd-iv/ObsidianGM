@@ -74,7 +74,6 @@ Environment: any (Astral Plane)
 Temperature: any
 Organization: solitary or pod (2-5 plus 1-2 young)
 Treasure: standard
-Description: An astral leviathan is an immense predator that patrols the silvery void of the Astral Plane in search of food and new experiences. Dangerous if provoked, it is intelligent enough to be reasoned with, though most visitors to that plane mistakenly believe it is just a beast. It requires only a minimal amount of physical food, as it primarily sustains itself on planar energies (particularly those radiating from natural portals to other planes) and invisible streamers of astral dust. Astral leviathans are curious about types of creatures they've never met before and places they haven't visited. Civilized inhabitants of the Astral Plane might befriend, bribe, or tame leviathans, using them as cargo vessels or navigators on journeys to remote locations. More savage races enslave them with enchantments and hooked barbs and use them for the same purpose. An astral leviathan is approximately 70 feet long and weighs 60 tons.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+An astral leviathan is an immense predator that patrols the silvery void of the Astral Plane in search of food and new experiences. Dangerous if provoked, it is intelligent enough to be reasoned with, though most visitors to that plane mistakenly believe it is just a beast. It requires only a minimal amount of physical food, as it primarily sustains itself on planar energies (particularly those radiating from natural portals to other planes) and invisible streamers of astral dust. Astral leviathans are curious about types of creatures they've never met before and places they haven't visited. Civilized inhabitants of the Astral Plane might befriend, bribe, or tame leviathans, using them as cargo vessels or navigators on journeys to remote locations. More savage races enslave them with enchantments and hooked barbs and use them for the same purpose. An astral leviathan is approximately 70 feet long and weighs 60 tons.

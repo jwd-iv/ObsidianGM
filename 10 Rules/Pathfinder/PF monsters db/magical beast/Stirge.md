@@ -71,7 +71,6 @@ Environment: swamp
 Temperature: temperate/warm
 Organization: solitary, colony (2-4), flock (5-8), storm (9-14), or swarm (15-40)
 Treasure: none
-Description: Stirges are vicious, blood-drinking swamp pests that prey on wild animals, livestock, and unwary travelers. While weak individually, swarms of the creatures are capable of draining a man dry in minutes, leaving only a desiccated husk in their wake.  Closer to mammals than insects, stirges carry their bodies through the air on four fleshy wings, searching out warm-blooded prey. They are fond of hiding near watering holes and waiting for travelers to drop their guard, then swooping out to attach and drink their fill by thrusting their long feeding tubes into unprotected veins. After feeding they flap heavily off into the mud and reeds to lay their eggs and rest until hunger drives them to hunt again.  Stirges are usually 1 foot long, with a wingspan of twice that, and weigh just under a pound. Their coloration is rust-red or reddish-brown with a dirty yellow underbelly, though stirges that have not fed in some time are often pale pink, their color deepening as they gorge.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Stirges are vicious, blood-drinking swamp pests that prey on wild animals, livestock, and unwary travelers. While weak individually, swarms of the creatures are capable of draining a man dry in minutes, leaving only a desiccated husk in their wake.  Closer to mammals than insects, stirges carry their bodies through the air on four fleshy wings, searching out warm-blooded prey. They are fond of hiding near watering holes and waiting for travelers to drop their guard, then swooping out to attach and drink their fill by thrusting their long feeding tubes into unprotected veins. After feeding they flap heavily off into the mud and reeds to lay their eggs and rest until hunger drives them to hunt again.  Stirges are usually 1 foot long, with a wingspan of twice that, and weigh just under a pound. Their coloration is rust-red or reddish-brown with a dirty yellow underbelly, though stirges that have not fed in some time are often pale pink, their color deepening as they gorge.

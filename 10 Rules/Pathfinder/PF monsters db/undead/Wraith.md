@@ -75,7 +75,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, gang (3-6), or pack (7-12)
 Treasure: none
-Description: Wraiths are undead creatures born of evil and darkness. They hate light and living things, as they have lost much of their connection to their former lives. Dread Wraith A wraith that exists for long enough and feeds on enough life force undergoes an unholy transformation, becoming a creature known as a dread wraith. This causes the wraith to increase in size and strength, and to inf lict 2d6 points of negative energy damage and 1d8 Constitution drain with its incorporeal touch. You can create a dread wraith by applying the giant and advanced simple templates, or you can increase the basic wraith to a Large 16 HD undead.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Wraiths are undead creatures born of evil and darkness. They hate light and living things, as they have lost much of their connection to their former lives. Dread Wraith A wraith that exists for long enough and feeds on enough life force undergoes an unholy transformation, becoming a creature known as a dread wraith. This causes the wraith to increase in size and strength, and to inf lict 2d6 points of negative energy damage and 1d8 Constitution drain with its incorporeal touch. You can create a dread wraith by applying the giant and advanced simple templates, or you can increase the basic wraith to a Large 16 HD undead.

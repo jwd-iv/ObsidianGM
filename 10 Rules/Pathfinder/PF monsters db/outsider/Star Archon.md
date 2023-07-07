@@ -67,7 +67,6 @@ Environment: any (Heaven)
 Temperature: any
 Organization: solitary or pair
 Treasure: double (full plate, heavy steel shield, +5 holy starknife)
-Description: Star archons are the tacticians and strategists of Heaven. Gifted with insight and powerful magic, they spend much of their time steering long-term plans for Heaven's armies and good folk in the world.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Star archons are the tacticians and strategists of Heaven. Gifted with insight and powerful magic, they spend much of their time steering long-term plans for Heaven's armies and good folk in the world.

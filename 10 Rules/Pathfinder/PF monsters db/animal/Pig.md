@@ -66,7 +66,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or herd (3-12)
 Treasure: none
-Description: This clever, sociable animal may be trained to do many tasks.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This clever, sociable animal may be trained to do many tasks.

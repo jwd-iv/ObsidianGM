@@ -75,7 +75,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary, pair, or flight (3-6)
 Treasure: standard
-Description: Couatls are servants of lawful and good deities, though some operate independently of any greater being. Respected and admired for their wisdom and beauty, they try to steer mortals onto the right path and use their powers to fight evil, particularly those known to shift between the planes.  Some couatls are viewed as benevolent gods by isolated societies, and while most couatls cringe at the thought of pretending to be a god, they allow such misconceptions to continue since they allow the couatls to guide and coax these societies onto paths of peace and cooperation with their neighbors. A couatl is about 12 feet long, with a wingspan of about 15 feet. It weighs 1,800 pounds.  As native outsiders, couatls must eat. They prefer the same foods as true snakes, such as mammals and birds, though they have been known to eat evil humanoids.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Couatls are servants of lawful and good deities, though some operate independently of any greater being. Respected and admired for their wisdom and beauty, they try to steer mortals onto the right path and use their powers to fight evil, particularly those known to shift between the planes.  Some couatls are viewed as benevolent gods by isolated societies, and while most couatls cringe at the thought of pretending to be a god, they allow such misconceptions to continue since they allow the couatls to guide and coax these societies onto paths of peace and cooperation with their neighbors. A couatl is about 12 feet long, with a wingspan of about 15 feet. It weighs 1,800 pounds.  As native outsiders, couatls must eat. They prefer the same foods as true snakes, such as mammals and birds, though they have been known to eat evil humanoids.

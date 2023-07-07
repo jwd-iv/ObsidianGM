@@ -69,7 +69,6 @@ Environment: any (Plane of Air)
 Temperature: any
 Organization: solitary, pair, company (3-6), or band (7-10)
 Treasure: standard (masterwork scimitar, other gear)
-Description: Djinn disdain physical combat, preferring to use their magical powers and aerial abilities against foes. A djinni overmatched in combat usually takes flight and becomes a whirlwind to harass those who follow. When faced with Gelatinous C Gelatinous Cube-Genie, Djinni no other option than melee combat, most djinn prefer to wield masterwork scimitars two-handed. Among other genies, djinn get along well with jann and marids. They are frequently at odds with the shaitans, and are sworn enemies of the efreet, despising these fiery genies more than any other genie race. So legendary is the conf lict between the efreet and the djinn that many spellcasters attempt (to varying degrees of success) to secure a djinni's servitude by promising to aid the cause against their hated enemies. A small percentage of djinn are noble. Noble djinn, often called viziers, have 10 Hit Dice, Strength 23, and Charisma 17, and can grant three wishes to any being (nongenies only) who captures them. Djinn nobles are CR 8.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Djinn disdain physical combat, preferring to use their magical powers and aerial abilities against foes. A djinni overmatched in combat usually takes flight and becomes a whirlwind to harass those who follow. When faced with Gelatinous C Gelatinous Cube-Genie, Djinni no other option than melee combat, most djinn prefer to wield masterwork scimitars two-handed. Among other genies, djinn get along well with jann and marids. They are frequently at odds with the shaitans, and are sworn enemies of the efreet, despising these fiery genies more than any other genie race. So legendary is the conf lict between the efreet and the djinn that many spellcasters attempt (to varying degrees of success) to secure a djinni's servitude by promising to aid the cause against their hated enemies. A small percentage of djinn are noble. Noble djinn, often called viziers, have 10 Hit Dice, Strength 23, and Charisma 17, and can grant three wishes to any being (nongenies only) who captures them. Djinn nobles are CR 8.

@@ -67,8 +67,6 @@ Environment: any (coastal)/water
 Temperature: temperate/warm
 Organization: solitary or band (2-5)
 Treasure: none
-Description: >
-  Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master a +2 bonus on all Fortitude saves. Giant Snapping Turtle Companions Starting Statistics: Size Medium; Speed 20 ft., swim 20 ft.; AC +10 natural; Attack bite (1d6); Ability Scores Str 8, Dex 10, Con 9, Int 1, Wis 13, Cha 6; Special Qualities low-light vision, hold breath, scent. 7th-Level Advancement: Size Large; AC +2 natural; Attack bite (1d8), Ability Scores Str +8, Dex -2, Con +4; Special Attack grab.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master a +2 bonus on all Fortitude saves. Giant Snapping Turtle Companions Starting Statistics: Size Medium; Speed 20 ft., swim 20 ft.; AC +10 natural; Attack bite (1d6); Ability Scores Str 8, Dex 10, Con 9, Int 1, Wis 13, Cha 6; Special Qualities low-light vision, hold breath, scent. 7th-Level Advancement: Size Large; AC +2 natural; Attack bite (1d8), Ability Scores Str +8, Dex -2, Con +4; Special Attack grab.

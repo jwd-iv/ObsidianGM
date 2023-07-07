@@ -74,7 +74,6 @@ Environment: land/underground
 Temperature: any
 Organization: solitary or cluster (2-5)
 Treasure: incidental
-Description: Created in a laboratory by an alchemist researching methods of regenerating human flesh, a hungry flesh is a freakish creature made of aggressive, malignant tissue. It lives only to feed and grow, and must consume large amounts of plant and animal matter to sustain itself. Each day, a hungry flesh must consume its own weight in food. A hungry flesh resists attempts to cut or pierce it, quickly repairing the damage and creating new fleshy growths. With the right food and attacks to catalyze its growth, a hungry flesh can balloon to twice its normal size in minutes. A hungry flesh can grow to Gargantuan size. A hungry flesh starts out at approximately 7 feet in diameter, and weighs 3,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Created in a laboratory by an alchemist researching methods of regenerating human flesh, a hungry flesh is a freakish creature made of aggressive, malignant tissue. It lives only to feed and grow, and must consume large amounts of plant and animal matter to sustain itself. Each day, a hungry flesh must consume its own weight in food. A hungry flesh resists attempts to cut or pierce it, quickly repairing the damage and creating new fleshy growths. With the right food and attacks to catalyze its growth, a hungry flesh can balloon to twice its normal size in minutes. A hungry flesh can grow to Gargantuan size. A hungry flesh starts out at approximately 7 feet in diameter, and weighs 3,000 pounds.

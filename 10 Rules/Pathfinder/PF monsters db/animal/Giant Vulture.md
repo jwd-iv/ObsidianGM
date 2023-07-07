@@ -68,7 +68,6 @@ Environment: plains/hills
 Temperature: warm
 Organization: solitary, pair, or flock (3-8)
 Treasure: none
-Description: Larger even than condors, giant vultures dwell only in regions where carrion is both large and plentiful, such as the primeval wildernesses where megafauna roam. They also flock to regions torn by war, feasting on the dead with no concern for allegiance or race. Giant vultures rarely wait for wounded creatures to finish dying before they feed, and are much braver than most wild animals. A giant vulture, for example, wouldn't think twice about swooping down on a heavily armored column of soldiers just to snatch up a few wounded stragglers from the end of the line.  A giant vulture stands more than 13 feet tall, has a wingspan of over 30 feet, and weighs 500 to 600 pounds.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Larger even than condors, giant vultures dwell only in regions where carrion is both large and plentiful, such as the primeval wildernesses where megafauna roam. They also flock to regions torn by war, feasting on the dead with no concern for allegiance or race. Giant vultures rarely wait for wounded creatures to finish dying before they feed, and are much braver than most wild animals. A giant vulture, for example, wouldn't think twice about swooping down on a heavily armored column of soldiers just to snatch up a few wounded stragglers from the end of the line.  A giant vulture stands more than 13 feet tall, has a wingspan of over 30 feet, and weighs 500 to 600 pounds.

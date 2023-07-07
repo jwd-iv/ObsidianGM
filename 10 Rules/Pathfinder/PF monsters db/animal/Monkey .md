@@ -65,7 +65,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary, pair, band (3-9), or troop (10-40)
 Treasure: none
-Description: Monkeys are highly social creatures. They spend the majority of their day searching for food.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Monkeys are highly social creatures. They spend the majority of their day searching for food.

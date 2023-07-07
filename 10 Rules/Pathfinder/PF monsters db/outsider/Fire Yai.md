@@ -74,7 +74,6 @@ Environment: hills/mountains
 Temperature: temperate/warm
 Organization: solitary, band (1 plus 4-8 fire giants), tribe (1 plus 20-30 fire giants), or dynasty (1 plus 2-20 other oni)
 Treasure: standard (+1 banded mail, +1 katana^[see Ultimate Combat], other treasure)
-Description: Fire yai prefer to live in luxury-an orderly and well-built abode is essential. Even a lone fire yai prefers to build or inhabit a fortified stone dwelling in its territory, and surrounds itself with as many luxuries as it can acquire. Vain, greedy, and brutal, fire yai are the most impulsive of their kind-several tales tell of clever heroes taunting fire yai to act rashly. They rarely let challenges pass uncontested and react quickly to squelch any threat to their rule.  While many fire yai seek out tribes of fire giants to infiltrate and rule, not all follow this compulsion. Capable of assuming the form of many types of humanoid, some fire yai seek to subtly invade and eventually rule entire nations of humanoids from within.  A fire yai is 16 feet tall and weighs 7,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Fire yai prefer to live in luxury-an orderly and well-built abode is essential. Even a lone fire yai prefers to build or inhabit a fortified stone dwelling in its territory, and surrounds itself with as many luxuries as it can acquire. Vain, greedy, and brutal, fire yai are the most impulsive of their kind-several tales tell of clever heroes taunting fire yai to act rashly. They rarely let challenges pass uncontested and react quickly to squelch any threat to their rule.  While many fire yai seek out tribes of fire giants to infiltrate and rule, not all follow this compulsion. Capable of assuming the form of many types of humanoid, some fire yai seek to subtly invade and eventually rule entire nations of humanoids from within.  A fire yai is 16 feet tall and weighs 7,000 pounds.

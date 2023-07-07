@@ -78,7 +78,6 @@ Environment: wastelands
 Temperature: any
 Organization: solitary, gang (2-5), band (6-9), raid (9-12 plus 1d4 giant vermin), or tribe (13-30 plus 35% noncombatants, plus 1 barbarian or fighter chief of 6th-8th level and 6-8 giant vermin)
 Treasure: standard (hide armor, Huge club, other treasure)
-Description: Whether because of disruptive magic, unearthed deep elements, or alien technology that fell calamitously from the sky, ash giants are victims of their barren terrains. Yet they somehow survive and even thrive in these desperate lands. Ash giants have an uncanny ability to bond with the enormous and often mutated vermin they share the landscape with, and sometimes use the largest of these creatures as mounts.  Ash giants are brash and violent, and their humor is incredibly dark. Killing someone through a prank is just as funny as tripping a friend while on a hunt. While not inherently evil, lifetimes of being antagonized by other tribes have practically bred violence into their minds.  Ash giants are 10 feet tall and weigh 1,200 pounds.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Whether because of disruptive magic, unearthed deep elements, or alien technology that fell calamitously from the sky, ash giants are victims of their barren terrains. Yet they somehow survive and even thrive in these desperate lands. Ash giants have an uncanny ability to bond with the enormous and often mutated vermin they share the landscape with, and sometimes use the largest of these creatures as mounts.  Ash giants are brash and violent, and their humor is incredibly dark. Killing someone through a prank is just as funny as tripping a friend while on a hunt. While not inherently evil, lifetimes of being antagonized by other tribes have practically bred violence into their minds.  Ash giants are 10 feet tall and weigh 1,200 pounds.

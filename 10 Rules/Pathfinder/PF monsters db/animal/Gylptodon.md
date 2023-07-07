@@ -65,8 +65,6 @@ Environment: plains
 Temperature: temperate
 Organization: solitary or pair
 Treasure: none
-Description: >
-  The gylptodon is often hunted for the value of its outer armor, made up of bony plates in turn composed of many smaller, knobby "scales." The creature is quite capable of defending itself with swipes from its deadly claws, as its ill-tempered nature often urges it to do. Gylptodon Companions Starting Statistics: Size Medium; Speed 20 ft.; AC +5 natural armor, Attack 2 claws (1d8); Ability Scores Str 13, Dex 12, Con 13, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent. 7th-Level Advancement: Size Large; AC +2 natural armor; Attack 2 claws (1d10); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The gylptodon is often hunted for the value of its outer armor, made up of bony plates in turn composed of many smaller, knobby "scales." The creature is quite capable of defending itself with swipes from its deadly claws, as its ill-tempered nature often urges it to do. Gylptodon Companions Starting Statistics: Size Medium; Speed 20 ft.; AC +5 natural armor, Attack 2 claws (1d8); Ability Scores Str 13, Dex 12, Con 13, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent. 7th-Level Advancement: Size Large; AC +2 natural armor; Attack 2 claws (1d10); Ability Scores Str +8, Dex -2, Con +4.

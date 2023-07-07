@@ -72,7 +72,6 @@ Environment: rivers
 Temperature: temperate/warm
 Organization: solitary
 Treasure: none
-Description: Platypuses are egg-laying mammals that live in riverside burrows and hunt larvae and shellfish.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Platypuses are egg-laying mammals that live in riverside burrows and hunt larvae and shellfish.

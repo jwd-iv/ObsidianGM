@@ -78,7 +78,6 @@ Environment: forest
 Temperature: cold
 Organization: solitary
 Treasure: triple
-Description: A beast covered with hundreds of spines, the taiga linnorm is a terror to all those who venture through the arctic forests of the north. Taiga linnorms take down foes and prey first with their electrifying breath and finish their victims off with their devastating bite.  In winter, when light is sparse and the nights are long, it is easy for a taiga linnorm to blend in with the coniferous forests it dwells in, hiding among the trees and ambushing imprudent travelers or unwary adventurers setting up camp. A taiga linnorm often lies in wait for days- sometimes weeks-just for the opportunity to maim and devour unsuspecting victims. When this subtler tactic does not work, a taiga linnorm simply rampages through the woods in order to find nearby settlements to pillage, taking twisted delight in shocking the inhabitants before shredding them with its massive jaws or destructive forelimbs. In any event, taiga linnorms rarely venture far from their woodland territories save for short flights to attack outlying villages.  A taiga linnorm is 50 feet long and weighs just over 13,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A beast covered with hundreds of spines, the taiga linnorm is a terror to all those who venture through the arctic forests of the north. Taiga linnorms take down foes and prey first with their electrifying breath and finish their victims off with their devastating bite.  In winter, when light is sparse and the nights are long, it is easy for a taiga linnorm to blend in with the coniferous forests it dwells in, hiding among the trees and ambushing imprudent travelers or unwary adventurers setting up camp. A taiga linnorm often lies in wait for days- sometimes weeks-just for the opportunity to maim and devour unsuspecting victims. When this subtler tactic does not work, a taiga linnorm simply rampages through the woods in order to find nearby settlements to pillage, taking twisted delight in shocking the inhabitants before shredding them with its massive jaws or destructive forelimbs. In any event, taiga linnorms rarely venture far from their woodland territories save for short flights to attack outlying villages.  A taiga linnorm is 50 feet long and weighs just over 13,000 pounds.

@@ -67,7 +67,6 @@ Environment: forest
 Temperature: cold
 Organization: solitary or pair
 Treasure: none
-Description: A large, powerful omnivore, the grizzly bear inhabits many of the world's forested hills. Equally happy consuming nuts, berries, fish, or small mammals, the grizzly is nonetheless fiercely territorial, and will chase off-or, failing that, kill and eat-any intruders it views as competition.  When faced with a foe or small group of threats, the grizzly attempts to subdue or kill with its claws.  When it can, the bear tries to grab a single target to deal continual damage until that target is dead, unconscious, or escapes.  To generate stats for a smaller bear (like a black bear), you can apply the young simple template to the grizzly bear's stat block. To generate stats for a larger grizzly or a polar bear, apply the advanced simple template to the grizzly's stats.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A large, powerful omnivore, the grizzly bear inhabits many of the world's forested hills. Equally happy consuming nuts, berries, fish, or small mammals, the grizzly is nonetheless fiercely territorial, and will chase off-or, failing that, kill and eat-any intruders it views as competition.  When faced with a foe or small group of threats, the grizzly attempts to subdue or kill with its claws.  When it can, the bear tries to grab a single target to deal continual damage until that target is dead, unconscious, or escapes.  To generate stats for a smaller bear (like a black bear), you can apply the young simple template to the grizzly bear's stat block. To generate stats for a larger grizzly or a polar bear, apply the advanced simple template to the grizzly's stats.

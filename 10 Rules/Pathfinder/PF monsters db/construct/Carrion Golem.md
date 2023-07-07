@@ -71,7 +71,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: Carrion golems are made from the partially decayed parts of numerous dead creatures-no two carrion golems are exactly alike in appearance. Most are created from the corpses of humanoid creatures that are then augmented here and there with parts taken from animals, resulting in a monster that stands 6 feet tall and weighs 120 pounds.  Construction  A carrion golem's body can be constructed using at least two Medium corpses and four smaller corpses. Special reagents worth 500 gp are also required.  Carrion Golem  CL 7th; Price 10,500 gp  Construction  Requirements Craft Construct, animate dead, contagion, false life, gentle repose, lesser geas, creator must be caster level 7th; Skill Craft (leather) or Heal DC 13; Cost 5,500 gp
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Carrion golems are made from the partially decayed parts of numerous dead creatures-no two carrion golems are exactly alike in appearance. Most are created from the corpses of humanoid creatures that are then augmented here and there with parts taken from animals, resulting in a monster that stands 6 feet tall and weighs 120 pounds.  Construction  A carrion golem's body can be constructed using at least two Medium corpses and four smaller corpses. Special reagents worth 500 gp are also required.  Carrion Golem  CL 7th; Price 10,500 gp  Construction  Requirements Craft Construct, animate dead, contagion, false life, gentle repose, lesser geas, creator must be caster level 7th; Skill Craft (leather) or Heal DC 13; Cost 5,500 gp

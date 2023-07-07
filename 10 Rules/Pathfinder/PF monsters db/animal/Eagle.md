@@ -67,7 +67,6 @@ Environment: mountains
 Temperature: temperate
 Organization: solitary or pair
 Treasure: none
-Description: Among the most majestic of raptors, these predatory birds pluck fish from streams and lakes, drop down on rodents and small mammals in alpine meadows, and have even been known to pull young mountain goats from the assumed safety of their cliffs.  These creatures, like all birds of prey, have powerful clawed talons and sharp, hooked beaks perfect for tearing flesh. Their enhanced eyesight allows them to spot prey from great distances, and they typically hunt in wide circling patterns high above the ground.  Eagles typically build their massive nests in the tops of tall trees or among the rocky crags of steep cliffs. During breeding season, an eagle lays two eggs, but only one chick normally survives, as the stronger of the two usually kills and eats the weaker.  Eagles generally weigh between 8 and 15 pounds, with a wingspan of up to 7 feet, depending on the species.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Among the most majestic of raptors, these predatory birds pluck fish from streams and lakes, drop down on rodents and small mammals in alpine meadows, and have even been known to pull young mountain goats from the assumed safety of their cliffs.  These creatures, like all birds of prey, have powerful clawed talons and sharp, hooked beaks perfect for tearing flesh. Their enhanced eyesight allows them to spot prey from great distances, and they typically hunt in wide circling patterns high above the ground.  Eagles typically build their massive nests in the tops of tall trees or among the rocky crags of steep cliffs. During breeding season, an eagle lays two eggs, but only one chick normally survives, as the stronger of the two usually kills and eats the weaker.  Eagles generally weigh between 8 and 15 pounds, with a wingspan of up to 7 feet, depending on the species.

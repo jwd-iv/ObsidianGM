@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: incidental
-Description: Mimics are thought to be the result of an alchemist's attempt to grant life to an inanimate object through the application of an eldritch reagent, the recipe for which is long lost. Over time, these strange but clever creatures have learned the ability to transform themselves into simulacra of man-made objects, particularly in locations that have infrequent traff ic by small numbers of creatures, thus increasing their odds of successfully attacking their victims. Though mimics are not inherently evil, some sages believe that mimics attack humans and other intelligent creatures for sport rather than merely for sustenance. The desire to completely fool others is thought to be a part of their being, and their surprise attacks against others are a culmination of those desires. A typical mimic has a volume of 150 cubic feet (5 feet by 5 feet by 6 feet) and weighs about 900 pounds. Legends and tales speak of mimics of much greater sizes, with the ability to assume the form of houses, ships, or entire dungeon complexes that they festoon with treasure (both real and false) to lure unsuspecting food within.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Mimics are thought to be the result of an alchemist's attempt to grant life to an inanimate object through the application of an eldritch reagent, the recipe for which is long lost. Over time, these strange but clever creatures have learned the ability to transform themselves into simulacra of man-made objects, particularly in locations that have infrequent traff ic by small numbers of creatures, thus increasing their odds of successfully attacking their victims. Though mimics are not inherently evil, some sages believe that mimics attack humans and other intelligent creatures for sport rather than merely for sustenance. The desire to completely fool others is thought to be a part of their being, and their surprise attacks against others are a culmination of those desires. A typical mimic has a volume of 150 cubic feet (5 feet by 5 feet by 6 feet) and weighs about 900 pounds. Legends and tales speak of mimics of much greater sizes, with the ability to assume the form of houses, ships, or entire dungeon complexes that they festoon with treasure (both real and false) to lure unsuspecting food within.

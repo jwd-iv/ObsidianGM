@@ -75,7 +75,6 @@ Environment: forest/mountains/underground
 Temperature: temperate
 Organization: solitary, pair, or gang (3-12)
 Treasure: NPC gear (leather armor, Medium scythe, other treasure)
-Description: Redcaps embody both capriciousness and sadism. These stumpy, misanthropic fey freaks exist seemingly to indulge in blissful bloodletting and self-indulgent slaughter.  Like prune-faced, angry old men, they mollycoddle their own inefficiencies and miseries in gore. Redcaps are most widely recognized for their long woolen caps, which they drench in the blood of their victims. Rumors and fairy stories abound concerning rituals and the cultural significance of their blood-soaked caps, though the practice likely evolved as an easy way for the brutish runts to create both fear and spectacle. Redcaps typically stand only 3 feet tall, with twisted frames, pointed ears, and long white beards. They dress in soiled leather armor and wear oversized, iron-shod boots that make a distinctive clanging when they run.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Redcaps embody both capriciousness and sadism. These stumpy, misanthropic fey freaks exist seemingly to indulge in blissful bloodletting and self-indulgent slaughter.  Like prune-faced, angry old men, they mollycoddle their own inefficiencies and miseries in gore. Redcaps are most widely recognized for their long woolen caps, which they drench in the blood of their victims. Rumors and fairy stories abound concerning rituals and the cultural significance of their blood-soaked caps, though the practice likely evolved as an easy way for the brutish runts to create both fear and spectacle. Redcaps typically stand only 3 feet tall, with twisted frames, pointed ears, and long white beards. They dress in soiled leather armor and wear oversized, iron-shod boots that make a distinctive clanging when they run.

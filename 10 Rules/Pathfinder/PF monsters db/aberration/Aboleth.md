@@ -69,7 +69,6 @@ Environment: aquatic
 Temperature: any
 Organization: solitary, pair, brood (3-6), or shoal (7-19)
 Treasure: double
-Description: As befits their hideous primeval appearance, the hermaphroditic aboleths are among the world's oldest forms of life. Ancient even when the gods first turned their eyes to the Material Plane, the aboleths have always existed apart from other mortal life, alien and cold and endlessly plotting. They once ruled the world with vast empires, and today view most other forms of life as either food or slaves-and sometimes both. They disdain the gods and see themselves as the true masters of creation.  An aboleth is 25 feet long and weighs 6,500 pounds.  In the darkest reaches of the sea, aboleths still dwell in grotesque cities built in nauseating and cyclopean styles.  There they are served by countless slaves culled from every nation, air-breathing and aquatic alike, although the air-breathing slaves are doubly bound by magic and the need to constantly replenish their water-breathing ability via the excretions of their aboleth masters. Lone aboleths are often advance scouts for these hidden cities, seeking out new slaves.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+As befits their hideous primeval appearance, the hermaphroditic aboleths are among the world's oldest forms of life. Ancient even when the gods first turned their eyes to the Material Plane, the aboleths have always existed apart from other mortal life, alien and cold and endlessly plotting. They once ruled the world with vast empires, and today view most other forms of life as either food or slaves-and sometimes both. They disdain the gods and see themselves as the true masters of creation.  An aboleth is 25 feet long and weighs 6,500 pounds.  In the darkest reaches of the sea, aboleths still dwell in grotesque cities built in nauseating and cyclopean styles.  There they are served by countless slaves culled from every nation, air-breathing and aquatic alike, although the air-breathing slaves are doubly bound by magic and the need to constantly replenish their water-breathing ability via the excretions of their aboleth masters. Lone aboleths are often advance scouts for these hidden cities, seeking out new slaves.

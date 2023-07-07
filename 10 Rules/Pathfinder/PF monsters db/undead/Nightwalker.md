@@ -69,7 +69,6 @@ Environment: any (Negative Energy Plane)
 Temperature: any
 Organization: solitary, pair, or gang (3-4)
 Treasure: standard
-Description: The most commonly encountered nightshade is the giant-like nightwalker. This powerful foe leads armies of undead against the living, but unlike most mortal generals the nightwalker is not content to stand back and observe the battles from safety. The undead creature is ever eager to put its tactics and plans to the test itself, and takes part in battles in every possible occurrence save for those that the creature has determined are self-destructive. This is not to say that the nightwalker never sacrifices its troops to gain a tactical advantage-just that these attacks are the only ones the monster feels no urge to participate in directly.  Nightwalkers enjoy inf licting despair before death, particularly by destroying valued objects or murdering loved ones before delivering the final blow to a foe.  A nightwalker is 20 feet tall and weighs 5,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The most commonly encountered nightshade is the giant-like nightwalker. This powerful foe leads armies of undead against the living, but unlike most mortal generals the nightwalker is not content to stand back and observe the battles from safety. The undead creature is ever eager to put its tactics and plans to the test itself, and takes part in battles in every possible occurrence save for those that the creature has determined are self-destructive. This is not to say that the nightwalker never sacrifices its troops to gain a tactical advantage-just that these attacks are the only ones the monster feels no urge to participate in directly.  Nightwalkers enjoy inf licting despair before death, particularly by destroying valued objects or murdering loved ones before delivering the final blow to a foe.  A nightwalker is 20 feet tall and weighs 5,000 pounds.

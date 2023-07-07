@@ -73,7 +73,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or haunt (3-8)
 Treasure: standard
-Description: Tales of demonic possession are common, used often by the ignorant to explain strange or violent behavior. While the majority of such cases are merely manifestations of madness or derangement, those that are legitimate possessions are often the work of shadow demons. Unlike many demons, shadow demons are incorporeal. When a particularly envious and evil mortal soul is pulled into the Abyss, it is transformed, split apart, and combined with other souls until what emerges is little more than jealous malevolence without the impediment of a physical body.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Tales of demonic possession are common, used often by the ignorant to explain strange or violent behavior. While the majority of such cases are merely manifestations of madness or derangement, those that are legitimate possessions are often the work of shadow demons. Unlike many demons, shadow demons are incorporeal. When a particularly envious and evil mortal soul is pulled into the Abyss, it is transformed, split apart, and combined with other souls until what emerges is little more than jealous malevolence without the impediment of a physical body.

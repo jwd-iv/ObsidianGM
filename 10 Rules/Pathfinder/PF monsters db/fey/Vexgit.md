@@ -71,7 +71,6 @@ Environment: underground/urban
 Temperature: any
 Organization: solitary, pair, mob (3-12), or infestation (13-20 with 1-3 sorcerers of 1st-3rd level, 1 rogue leader of 2nd-4th level, 2-14 trained dire rats, 2-5 trained venomous snakes, and 1-3 rat swarms)
 Treasure: standard (warhammer, other treasure)
-Description: Maniacally destructive little brutes, vexgits delight in scrapping and sabotaging the works of larger races. The larger and more complicated the target, the better. While one of these spiteful gremlins might delight in trapping someone behind a door with a jammed lock, loosening the wheels on a carriage, or sneakily removing all the nails from a small boat, it's when groups of vexgits get together that they're truly dangerous. In such instances, the portcullis of a vexgit-infested gatehouse turns into a deadly weapon, while a clock tower becomes an avalanche of gears waiting to topple. Engineers warn apprentices of masterful constructions destroyed by these unruly gremlins, with many blaming their greatest failures on such tiny saboteurs.  Like most gremlins, vexgits prefer to live underground, but cities and the devices they find there fascinate them, often drawing mobs of the dangerous fey to sewer tunnels and abandoned warehouses.  Vexgits stand 1-1/2 feet tall and weigh approximately 16 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Maniacally destructive little brutes, vexgits delight in scrapping and sabotaging the works of larger races. The larger and more complicated the target, the better. While one of these spiteful gremlins might delight in trapping someone behind a door with a jammed lock, loosening the wheels on a carriage, or sneakily removing all the nails from a small boat, it's when groups of vexgits get together that they're truly dangerous. In such instances, the portcullis of a vexgit-infested gatehouse turns into a deadly weapon, while a clock tower becomes an avalanche of gears waiting to topple. Engineers warn apprentices of masterful constructions destroyed by these unruly gremlins, with many blaming their greatest failures on such tiny saboteurs.  Like most gremlins, vexgits prefer to live underground, but cities and the devices they find there fascinate them, often drawing mobs of the dangerous fey to sewer tunnels and abandoned warehouses.  Vexgits stand 1-1/2 feet tall and weigh approximately 16 pounds.

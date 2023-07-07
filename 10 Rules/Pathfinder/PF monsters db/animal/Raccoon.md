@@ -66,7 +66,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary or gaze (2-4)
 Treasure: none
-Description: Raccoons are inquisitive and cunning, and often have strangely humanoid mannerisms, like washing their food in streams.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Raccoons are inquisitive and cunning, and often have strangely humanoid mannerisms, like washing their food in streams.

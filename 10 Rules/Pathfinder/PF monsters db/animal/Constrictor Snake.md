@@ -65,7 +65,6 @@ Environment: forest/swamps/fresh water
 Temperature: warm
 Organization: solitary or nest (2-6)
 Treasure: none
-Description: Be they jungle-dwelling pythons or swampdwelling boas like the anaconda, constrictor snakes are among the most deadly predatory animals of the tropical wilds.  Fortunately, these large snakes are relatively passive, save for when they are preparing to shed their skins or are particularly hungry. Nevertheless, the sinuous creatures are held in fear by many societies who often ascribe fiendish qualities to them.  The constrictor snake presented here is a relatively small one.  You can create stats for a larger maneater like an anaconda by applying the advanced and giant simple templates, or by advancing the stats above to a 7 HD Large snake (CR 5), or even a 14 HD Huge snake (CR 10).
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Be they jungle-dwelling pythons or swampdwelling boas like the anaconda, constrictor snakes are among the most deadly predatory animals of the tropical wilds.  Fortunately, these large snakes are relatively passive, save for when they are preparing to shed their skins or are particularly hungry. Nevertheless, the sinuous creatures are held in fear by many societies who often ascribe fiendish qualities to them.  The constrictor snake presented here is a relatively small one.  You can create stats for a larger maneater like an anaconda by applying the advanced and giant simple templates, or by advancing the stats above to a 7 HD Large snake (CR 5), or even a 14 HD Huge snake (CR 10).

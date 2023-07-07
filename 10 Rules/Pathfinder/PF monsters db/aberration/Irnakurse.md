@@ -72,7 +72,6 @@ Environment: underground
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Irnakurse, meaning "perfect ones" in the Elven language, represent the sum outpouring of drow hatred for their surface-world brethren. These brainwashed, rage-filled abominations are the result of elves subjected to fleshwarping-and were the drow to have their way, embodiments of the elven race's future. Each irnakurse suffers long under the knife of the dark elves' most practiced fleshwarpers until its body and mind lie in total ruin. When the weeks of torture and transformation are complete, what was once an elf emerges as a shrieking mockery of its lost grace, a horror of reworked flesh and broken bones, a "perfect" elf to the drow and a sin against life to elvenkind. Through the blasphemous tortures that create them, irnakurse are made completely mad and become unable to harm drow. All non-drow, however, they view as targets to vent their terror and rage upon. Elves especially provoke irnakurses' ire. No two irnakurse look exactly the same-drow torturers take profane pride in sculpting their elven victims into unique masterpieces of agony-most stand between 8 and 9 feet tall and weigh upward of 300 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Irnakurse, meaning "perfect ones" in the Elven language, represent the sum outpouring of drow hatred for their surface-world brethren. These brainwashed, rage-filled abominations are the result of elves subjected to fleshwarping-and were the drow to have their way, embodiments of the elven race's future. Each irnakurse suffers long under the knife of the dark elves' most practiced fleshwarpers until its body and mind lie in total ruin. When the weeks of torture and transformation are complete, what was once an elf emerges as a shrieking mockery of its lost grace, a horror of reworked flesh and broken bones, a "perfect" elf to the drow and a sin against life to elvenkind. Through the blasphemous tortures that create them, irnakurse are made completely mad and become unable to harm drow. All non-drow, however, they view as targets to vent their terror and rage upon. Elves especially provoke irnakurses' ire. No two irnakurse look exactly the same-drow torturers take profane pride in sculpting their elven victims into unique masterpieces of agony-most stand between 8 and 9 feet tall and weigh upward of 300 pounds.

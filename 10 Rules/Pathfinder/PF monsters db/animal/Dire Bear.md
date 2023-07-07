@@ -67,7 +67,6 @@ Environment: forest
 Temperature: cold
 Organization: solitary or pair
 Treasure: incidental
-Description: Larger, more aggressive, and far more deadly than its lesser cousins, the dire bear (known to barbarian tribes variously as the cave bear or the short-faced bear) is a primeval menace indeed.  This behemoth avoids more civilized reaches of the world, preferring to dwell in remote wilderness locations.  A dire bear is a rare and terrifying sight- especially to those not used to normal bears.  Unlike most bears, a dire bear is short-tempered and swift to anger when confronted with intruders in its territory.  Like a grizzly, a dire bear attempts to subdue or kill with its claws.  However, a dire bear is far more likely (and willing) to begin biting a grabbed foe.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Larger, more aggressive, and far more deadly than its lesser cousins, the dire bear (known to barbarian tribes variously as the cave bear or the short-faced bear) is a primeval menace indeed.  This behemoth avoids more civilized reaches of the world, preferring to dwell in remote wilderness locations.  A dire bear is a rare and terrifying sight- especially to those not used to normal bears.  Unlike most bears, a dire bear is short-tempered and swift to anger when confronted with intruders in its territory.  Like a grizzly, a dire bear attempts to subdue or kill with its claws.  However, a dire bear is far more likely (and willing) to begin biting a grabbed foe.

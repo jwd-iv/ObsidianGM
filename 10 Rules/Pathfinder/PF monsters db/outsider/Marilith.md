@@ -79,7 +79,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or platoon (1 marilith, 1-3 glabrezus, and 3-14 babaus)
 Treasure: double (6 mwk longswords, other treasure)
-Description: The leaders of Abyssal hordes and queens of Abyssal nations, the dreaded mariliths serve demon lords as governesses, advisors, and even lovers, yet their brilliance as tacticians makes them most sought after as generals and commanders of armies. The most powerful mariliths serve no one, and instead command ravenous fiendish legions. A marilith is 6 to 9 feet tall and measures 20 feet from head to tail tip. It weighs 4,000 pounds. Only the most arrogant and proud evil souls, typically those of cruel kings, sadistic generals, and exceptionally violent warlords, can trigger the manifestation of a marilith.
 Race: 
 Class: 
 MR: 
@@ -89,3 +88,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The leaders of Abyssal hordes and queens of Abyssal nations, the dreaded mariliths serve demon lords as governesses, advisors, and even lovers, yet their brilliance as tacticians makes them most sought after as generals and commanders of armies. The most powerful mariliths serve no one, and instead command ravenous fiendish legions. A marilith is 6 to 9 feet tall and measures 20 feet from head to tail tip. It weighs 4,000 pounds. Only the most arrogant and proud evil souls, typically those of cruel kings, sadistic generals, and exceptionally violent warlords, can trigger the manifestation of a marilith.

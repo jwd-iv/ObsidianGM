@@ -65,7 +65,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary or pair
 Treasure: none
-Description: Owls are nocturnal, rodent-eating birds that make very little noise in flight.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Owls are nocturnal, rodent-eating birds that make very little noise in flight.

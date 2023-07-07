@@ -72,8 +72,6 @@ Environment: any (Plane of Shadow)
 Temperature: any
 Organization: solitary, pair, or synod (5-9)
 Treasure: standard
-Description: >
-  Ostiariuses mind the gate between the world of mortals and the delights of the Plane of Shadow. Their role is twofold: admitting their brethren onto the Material Plane and-more insidiously- convincing mortals to willingly journey with them to their shadowed homeland. They are the emissaries of their race, encouraging susceptible mortals to abandon their tired philosophies and embrace the possibilities of a realm of inscrutable darkness. Most proudly stand over 6 feet tall, though their weights range from exceedingly light to grossly heavy.
 Race: 
 Class: 
 MR: 
@@ -83,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ostiariuses mind the gate between the world of mortals and the delights of the Plane of Shadow. Their role is twofold: admitting their brethren onto the Material Plane and-more insidiously- convincing mortals to willingly journey with them to their shadowed homeland. They are the emissaries of their race, encouraging susceptible mortals to abandon their tired philosophies and embrace the possibilities of a realm of inscrutable darkness. Most proudly stand over 6 feet tall, though their weights range from exceedingly light to grossly heavy.

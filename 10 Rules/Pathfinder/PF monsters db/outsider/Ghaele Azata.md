@@ -82,7 +82,6 @@ Environment: any (Elysium)
 Temperature: any
 Organization: solitary, pair, or squad (3-6)
 Treasure: triple (+2 holy greatsword)
-Description: Ghaeles are the most knightly of the azatas, hunting fiends, dragons, and undead with equal vigor. Most appear like idealized humans or elves and are quick to smile-and equally quick to strike against those they perceive as wicked.
 Race: 
 Class: 
 MR: 
@@ -92,3 +91,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ghaeles are the most knightly of the azatas, hunting fiends, dragons, and undead with equal vigor. Most appear like idealized humans or elves and are quick to smile-and equally quick to strike against those they perceive as wicked.

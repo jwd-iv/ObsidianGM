@@ -84,7 +84,6 @@ Environment: any (coastal)
 Temperature: temperate
 Organization: solitary
 Treasure: triple
-Description: Bronze dragons have been known to ally with travelers and adventurers if the cause and reward is right and just.
 Race: 
 Class: 
 MR: 
@@ -94,3 +93,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Bronze dragons have been known to ally with travelers and adventurers if the cause and reward is right and just.

@@ -72,7 +72,6 @@ Environment: desert
 Temperature: warm
 Organization: solitary
 Treasure: none
-Description: A giant emperor scorpion is an ambush predator, burying itself in soil or sand until prey approaches.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A giant emperor scorpion is an ambush predator, burying itself in soil or sand until prey approaches.

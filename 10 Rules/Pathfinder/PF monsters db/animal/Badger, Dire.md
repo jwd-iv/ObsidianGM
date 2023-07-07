@@ -67,7 +67,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, or clan (3-5)
 Treasure: incidental
-Description: A relentless predator, the violent and territorial dire badger hunts frequently, killing and devouring a variety of easy prey such as rabbits, deer, and occasionally livestock.  These creatures are unafraid of attacking creatures larger than they are, drawing upon an almost legendary tenacity that has won them honor and respect among many races, particularly forest-dwelling gnomes.  Dire badgers reside in deep burrows and warrens dug with their monstrous claws-but unlike typical badgers, a dire badger's claws are capable of tunneling through solid rock. Dire badgers possess little patience for disturbances or interruptions. Utterly fearless creatures, when confronted they attack brutally, and if injured, they violently erupt into a killing frenzy.  Dire badgers stand 4 feet tall at the shoulder, and weigh 500 pounds.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A relentless predator, the violent and territorial dire badger hunts frequently, killing and devouring a variety of easy prey such as rabbits, deer, and occasionally livestock.  These creatures are unafraid of attacking creatures larger than they are, drawing upon an almost legendary tenacity that has won them honor and respect among many races, particularly forest-dwelling gnomes.  Dire badgers reside in deep burrows and warrens dug with their monstrous claws-but unlike typical badgers, a dire badger's claws are capable of tunneling through solid rock. Dire badgers possess little patience for disturbances or interruptions. Utterly fearless creatures, when confronted they attack brutally, and if injured, they violently erupt into a killing frenzy.  Dire badgers stand 4 feet tall at the shoulder, and weigh 500 pounds.

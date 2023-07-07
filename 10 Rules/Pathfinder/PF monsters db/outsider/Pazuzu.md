@@ -89,7 +89,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary (unique)
 Treasure: triple (Scepter of Shibaxet, other treasure)
-Description: Pazuzu is among the oldest and most powerful of all demon lords. His Abyssal realm is located in one of that plane's greatest rifts. This vertical realm includes an immense city, at the heart of which can be found Shibaxet, Pazuzu's personal rookery and palace. Pazuzu appears as a four-winged, 15-foot-tall fiend. He takes great delight in corrupting mortals, particularly those of a pure heart and soul, offering them any one wish in return for nothing but their innocence.  PAZUZU'S CULT  Pazuzu, King of the Wind Demons, is worshiped by harpies and other evil avians, and by a large number of antipaladins who were once honorable but were tempted to chaos and evil-often by Pazuzu himself. His sacred places and temples are cliffside cathedrals, desert ruins, and spires atop mountain peaks. His unholy symbol is an image of himself with his right hand upraised. His favored weapon is the longsword. He grants access to the domains of Air, Chaos, Evil, and Trickery, and access to the subdomains of Cloud, Deception, Demon, and Wind.
 Race: 
 Class: 
 MR: 
@@ -99,3 +98,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Pazuzu is among the oldest and most powerful of all demon lords. His Abyssal realm is located in one of that plane's greatest rifts. This vertical realm includes an immense city, at the heart of which can be found Shibaxet, Pazuzu's personal rookery and palace. Pazuzu appears as a four-winged, 15-foot-tall fiend. He takes great delight in corrupting mortals, particularly those of a pure heart and soul, offering them any one wish in return for nothing but their innocence.  PAZUZU'S CULT  Pazuzu, King of the Wind Demons, is worshiped by harpies and other evil avians, and by a large number of antipaladins who were once honorable but were tempted to chaos and evil-often by Pazuzu himself. His sacred places and temples are cliffside cathedrals, desert ruins, and spires atop mountain peaks. His unholy symbol is an image of himself with his right hand upraised. His favored weapon is the longsword. He grants access to the domains of Air, Chaos, Evil, and Trickery, and access to the subdomains of Cloud, Deception, Demon, and Wind.

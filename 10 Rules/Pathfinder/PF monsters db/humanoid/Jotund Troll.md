@@ -78,7 +78,6 @@ Environment: hills/mountains
 Temperature: cold
 Organization: solitary or war party (1 jotund troll plus 2-5 hill giants or 3-12 ogres)
 Treasure: standard (club, other treasure)
-Description: Jotund trolls are gigantic, nine-headed horrors. Prowling frigid moors and marshes, these rapacious creatures have the same insatiable appetites of common trolls but require much more sustenance because of their excessive size. Jotund trolls stand 30 feet tall and weigh roughly 25,000 pounds. They can live for up to 100 years.  The jotund troll's nine heads each have their own brains and senses, but they share, after a fashion, the same mind. Despite this, a jotund troll's heads often argue and bicker, particularly over which head gets to eat. The fact that all nine maws lead to the same shared stomach makes little difference in such culinary disagreements.  Jotund trolls spawn with either their own kind or with other trolls. In the latter case, there is only a 5% chance the offspring will be a jotund troll. Apart from brief mating periods, jotund trolls are solitary, although some cull together bands of other giants into devastating war parties that can lay waste to entire regions.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Jotund trolls are gigantic, nine-headed horrors. Prowling frigid moors and marshes, these rapacious creatures have the same insatiable appetites of common trolls but require much more sustenance because of their excessive size. Jotund trolls stand 30 feet tall and weigh roughly 25,000 pounds. They can live for up to 100 years.  The jotund troll's nine heads each have their own brains and senses, but they share, after a fashion, the same mind. Despite this, a jotund troll's heads often argue and bicker, particularly over which head gets to eat. The fact that all nine maws lead to the same shared stomach makes little difference in such culinary disagreements.  Jotund trolls spawn with either their own kind or with other trolls. In the latter case, there is only a 5% chance the offspring will be a jotund troll. Apart from brief mating periods, jotund trolls are solitary, although some cull together bands of other giants into devastating war parties that can lay waste to entire regions.

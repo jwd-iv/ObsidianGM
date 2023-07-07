@@ -76,7 +76,6 @@ Environment: water
 Temperature: any
 Organization: solitary, pair, or tangle (3-9)
 Treasure: none
-Description: In sunless ocean trenches, aberrant fleshcrafters created the first galvos to serve as soldiers in their war against the sahuagin and skum. Since those days, galvos have moved beyond their darkened trenches, breeding and expanding into shallower, warmer waters. In recent years, they have come closer to civilizations, preying on coastal communities. A galvo can live both in the water and on land, and frightening stories tell of galvos springing up from the water to strike at prey both on ships and on beaches. A true horror to look upon, a galvo averages 7 feet tall and weighs around 300 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+In sunless ocean trenches, aberrant fleshcrafters created the first galvos to serve as soldiers in their war against the sahuagin and skum. Since those days, galvos have moved beyond their darkened trenches, breeding and expanding into shallower, warmer waters. In recent years, they have come closer to civilizations, preying on coastal communities. A galvo can live both in the water and on land, and frightening stories tell of galvos springing up from the water to strike at prey both on ships and on beaches. A true horror to look upon, a galvo averages 7 feet tall and weighs around 300 pounds.

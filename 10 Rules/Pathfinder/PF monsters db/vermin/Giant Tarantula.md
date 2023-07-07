@@ -71,7 +71,6 @@ Environment: forest
 Temperature: any
 Organization: solitary, pair, or colony (3-8)
 Treasure: incidental
-Description: A tarantula doesn't use a web to ensnare prey, though it may spin a trip wire to signal an alert when something approaches its burrow. These spiders grab with their appendages, inject paralyzing venom, and dispatch their unfortunate victims with their fangs. They also secrete digestive enzymes to liquefy their victims' bodies so that they can suck them up through their straw-like mouth openings. After a large meal, the tarantula may not need to eat for a month.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A tarantula doesn't use a web to ensnare prey, though it may spin a trip wire to signal an alert when something approaches its burrow. These spiders grab with their appendages, inject paralyzing venom, and dispatch their unfortunate victims with their fangs. They also secrete digestive enzymes to liquefy their victims' bodies so that they can suck them up through their straw-like mouth openings. After a large meal, the tarantula may not need to eat for a month.

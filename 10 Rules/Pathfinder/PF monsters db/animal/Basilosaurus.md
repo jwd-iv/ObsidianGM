@@ -68,8 +68,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, or pod (3-10)
 Treasure: none
-Description: >
-  Despite their saurian name, basilosauruses are in fact oceanic mammals, and at 60 feet in length are highly formidable beasts of the sea. In appearance, they resemble greatly elongated whales, but with long, toothed jaws resembling an alligator's. Inexperienced observers often confuse a basilosaurus with a sea serpent or water orm- and in all fairness, in the aftermath of a basilosaurus attack on an unsuspecting ship, such distinctions are largely academic anyway.  A basilosaurus relies as much on vision as echolocation to find prey, but sometimes mistakes smaller ships for food. Basilosauruses have few natural predators; only supernatural monsters like krakens, thalassic behemoths, and the largest of sea serpents can truly threaten a fully grown one.  Basilosaurus Companions  Starting Statistics: Size Medium; Speed swim 40 ft.; AC +1 natural armor; Attack bite (1d4), tail slap (1d4); Ability Scores Str 11, Dex 14, Con 12, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, hold breath.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d6), tail slap (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities blindsense 60 ft.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Despite their saurian name, basilosauruses are in fact oceanic mammals, and at 60 feet in length are highly formidable beasts of the sea. In appearance, they resemble greatly elongated whales, but with long, toothed jaws resembling an alligator's. Inexperienced observers often confuse a basilosaurus with a sea serpent or water orm- and in all fairness, in the aftermath of a basilosaurus attack on an unsuspecting ship, such distinctions are largely academic anyway.  A basilosaurus relies as much on vision as echolocation to find prey, but sometimes mistakes smaller ships for food. Basilosauruses have few natural predators; only supernatural monsters like krakens, thalassic behemoths, and the largest of sea serpents can truly threaten a fully grown one.  Basilosaurus Companions  Starting Statistics: Size Medium; Speed swim 40 ft.; AC +1 natural armor; Attack bite (1d4), tail slap (1d4); Ability Scores Str 11, Dex 14, Con 12, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, hold breath.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d6), tail slap (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities blindsense 60 ft.

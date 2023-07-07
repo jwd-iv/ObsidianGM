@@ -65,8 +65,6 @@ Environment: any
 Temperature: temperate/tropical
 Organization: solitary, pair, or colony (3-8)
 Treasure: incidental
-Description: >
-  The dire bat is usually found lairing in desolate areas, resting in caves or other secluded areas during the day and taking to the skies in search of prey at night. This immense creature has an average wingspan of 15 feet and weighs roughly 200 pounds. The dire bat generally doesn't shelter in groups larger than eight, often living a solitary life. A dire bat prefers feeding on livestock and herd animals. Dire Bat Animal Companion Starting Statistics: Size Medium; Speed 20 ft., fly 40 ft. (good); AC +0 natural armor; Attack bite (1d6); Ability Scores Str 9, Dex 17, Con 9, Int 2, Wis 14, Cha 6; Special Qualities blindsense 40 ft. 7th-Level Advancement: Size Large; AC +3 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The dire bat is usually found lairing in desolate areas, resting in caves or other secluded areas during the day and taking to the skies in search of prey at night. This immense creature has an average wingspan of 15 feet and weighs roughly 200 pounds. The dire bat generally doesn't shelter in groups larger than eight, often living a solitary life. A dire bat prefers feeding on livestock and herd animals. Dire Bat Animal Companion Starting Statistics: Size Medium; Speed 20 ft., fly 40 ft. (good); AC +0 natural armor; Attack bite (1d6); Ability Scores Str 9, Dex 17, Con 9, Int 2, Wis 14, Cha 6; Special Qualities blindsense 40 ft. 7th-Level Advancement: Size Large; AC +3 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4.

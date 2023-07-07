@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Grotesque curiosities, pickled punks are deformed, often-humanoid fetuses raised by necromancers and stored in jars of embalming fluid. Every pickled punk is different and the level of deformity spans a spectrum between the mildly lopsided to the utterly unfathomable. Though they seem harmless at first- even laughable-pickled punks are hungry creatures that attack without provocation when freed from their jars. Some pickled punks rock and wriggle in their jars in hopes of falling off a shelf or table and shattering their glass prison (such jars typically have hardness 1 and 2 hit points). Once freed, a pickled punk pulls itself across the ground with its malformed limbs in search of sustenance. Unless weaned from its taste for blood or constantly controlled, pickled punks become a danger to their creators. Some necromancers (especially those on the edge of sanity) and some intelligent undead cultivate a fondness for pickled punks and regard them as their children. They talk to their various jars in cooing tones and are known to even carry around favored specimens on outings and social calls, often granting them names and imagined personalities.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Grotesque curiosities, pickled punks are deformed, often-humanoid fetuses raised by necromancers and stored in jars of embalming fluid. Every pickled punk is different and the level of deformity spans a spectrum between the mildly lopsided to the utterly unfathomable. Though they seem harmless at first- even laughable-pickled punks are hungry creatures that attack without provocation when freed from their jars. Some pickled punks rock and wriggle in their jars in hopes of falling off a shelf or table and shattering their glass prison (such jars typically have hardness 1 and 2 hit points). Once freed, a pickled punk pulls itself across the ground with its malformed limbs in search of sustenance. Unless weaned from its taste for blood or constantly controlled, pickled punks become a danger to their creators. Some necromancers (especially those on the edge of sanity) and some intelligent undead cultivate a fondness for pickled punks and regard them as their children. They talk to their various jars in cooing tones and are known to even carry around favored specimens on outings and social calls, often granting them names and imagined personalities.

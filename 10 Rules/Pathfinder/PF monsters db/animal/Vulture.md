@@ -66,7 +66,6 @@ Environment: plains/hills
 Temperature: warm
 Organization: solitary, pair, or flock (3-24)
 Treasure: none
-Description: Though related to raptors and other birds of prey, vultures mainly feed on carrion they spot or scent from on high. Vultures have weak claws compared to predatory birds, but their sharp and wickedly hooked beaks tear living flesh as readily as the sharpest blade.  Despite dining on carrion, vultures prefer their corpses newly dead rather than rotten. Some even hunt smaller prey when food is scarce.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Though related to raptors and other birds of prey, vultures mainly feed on carrion they spot or scent from on high. Vultures have weak claws compared to predatory birds, but their sharp and wickedly hooked beaks tear living flesh as readily as the sharpest blade.  Despite dining on carrion, vultures prefer their corpses newly dead rather than rotten. Some even hunt smaller prey when food is scarce.

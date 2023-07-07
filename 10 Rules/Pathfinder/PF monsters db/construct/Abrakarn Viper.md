@@ -78,7 +78,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pair
 Treasure: none
-Description: Demonic spirits imbue this serpentine construct with the unnatural power to protect anyone who wears its diadem of control.  Construction  An abrakarn viper's body and its diadem of control are built from 5,000 pounds of magically treated brass and rare metals costing 10,000 gp in total.  ABRAKARN VIPER  CL 8th; Price 150,000 gp  Construction  Requirements Craft Construct, animate object, confusion, geas/ quest, shield other; Skill Craft (armor), Craft (blacksmithing), or Craft (weapons) DC 21; Cost 80,000 gp
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Demonic spirits imbue this serpentine construct with the unnatural power to protect anyone who wears its diadem of control.  Construction  An abrakarn viper's body and its diadem of control are built from 5,000 pounds of magically treated brass and rare metals costing 10,000 gp in total.  ABRAKARN VIPER  CL 8th; Price 150,000 gp  Construction  Requirements Craft Construct, animate object, confusion, geas/ quest, shield other; Skill Craft (armor), Craft (blacksmithing), or Craft (weapons) DC 21; Cost 80,000 gp

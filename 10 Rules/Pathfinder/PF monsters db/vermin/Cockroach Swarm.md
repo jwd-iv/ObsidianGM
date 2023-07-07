@@ -65,7 +65,6 @@ Environment: urban
 Temperature: temperate/warm
 Organization: solitary, pair, or intrusion (3-20 swarms)
 Treasure: none
-Description: Swarms of flesh-eating cockroaches are extremely virulent pests. Normally carnivorous scavengers, these vermin quickly transform into aggressive hunters when amassed in great numbers, actively seeking out territory and food and gravitating to locations that readily provide both, such as dumps, graveyards, sewers, swamps, and other foul areas filled with rotting waste.  Although a flesheating cockroach swarm prefers to feed on rot and carrion, these ravenous creatures do not balk at attacking living creatures as large as an elephant if given a chance.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Swarms of flesh-eating cockroaches are extremely virulent pests. Normally carnivorous scavengers, these vermin quickly transform into aggressive hunters when amassed in great numbers, actively seeking out territory and food and gravitating to locations that readily provide both, such as dumps, graveyards, sewers, swamps, and other foul areas filled with rotting waste.  Although a flesheating cockroach swarm prefers to feed on rot and carrion, these ravenous creatures do not balk at attacking living creatures as large as an elephant if given a chance.

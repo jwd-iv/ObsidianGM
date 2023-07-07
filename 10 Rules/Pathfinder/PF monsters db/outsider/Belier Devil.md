@@ -69,7 +69,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary
 Treasure: double
-Description: Masterful possessors and foul manipulators, belier devils are among the most feared masterminds of Hell. Known as bdellavritras to devilkind, these worm-like fiends avoid physical confrontation. Instead, they target inf luential individuals for possession, using them to manipulate events by proxy. If their schemes are uncovered, the devils retaliate with all the power at their host bodies' disposal.  A bdellavritra's voice can emanate from its worm-like maw, from any of its human-like mouths, or from all four at once, as it desires. Each mouth has its own distinct voice, often pleasing to the human ear. Bdellavritras typically reach lengths of 16 feet from worm-mouth to human heads, and weigh 3,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Masterful possessors and foul manipulators, belier devils are among the most feared masterminds of Hell. Known as bdellavritras to devilkind, these worm-like fiends avoid physical confrontation. Instead, they target inf luential individuals for possession, using them to manipulate events by proxy. If their schemes are uncovered, the devils retaliate with all the power at their host bodies' disposal.  A bdellavritra's voice can emanate from its worm-like maw, from any of its human-like mouths, or from all four at once, as it desires. Each mouth has its own distinct voice, often pleasing to the human ear. Bdellavritras typically reach lengths of 16 feet from worm-mouth to human heads, and weigh 3,000 pounds.

@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary, entourage (1 witchwyrd and 2-5 humanoid guards), or enclave (2-5 witchwyrds and 11-20 humanoid guards)
 Treasure: double
-Description: Alien merchants that travel between planets and planes, witchwyrds stand 7 feet tall, weigh 300 pounds, and are covered in hairless blue-gray skin. Witchwyrds new to a market or eager to avoid identification during an important business deal fold their second sets of flexible arms behind their backs and dress in robes, the better to pass as a lessinfamous humanoid race. Witchwyrds tend to prefer the driest, warmest regions of the areas they visit-perhaps an indicator of their mysterious home world.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Alien merchants that travel between planets and planes, witchwyrds stand 7 feet tall, weigh 300 pounds, and are covered in hairless blue-gray skin. Witchwyrds new to a market or eager to avoid identification during an important business deal fold their second sets of flexible arms behind their backs and dress in robes, the better to pass as a lessinfamous humanoid race. Witchwyrds tend to prefer the driest, warmest regions of the areas they visit-perhaps an indicator of their mysterious home world.

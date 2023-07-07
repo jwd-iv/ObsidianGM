@@ -74,7 +74,6 @@ Environment: water (waterfalls)
 Temperature: cold/temperate
 Organization: solitary
 Treasure: standard (mwk harp or violin, other treasure)
-Description: Pale and possessing unnatural beauty, fossegrims are wicked fey who haunt idyllic waterfalls, where they lure the unsuspecting near with song and the promise of treasure, only to drown them. Well built and elf like in appearance, fossegrims are gifted musicians, and their lairs often echo with the sound of bewitching music. They are never without their enchanting instruments.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Pale and possessing unnatural beauty, fossegrims are wicked fey who haunt idyllic waterfalls, where they lure the unsuspecting near with song and the promise of treasure, only to drown them. Well built and elf like in appearance, fossegrims are gifted musicians, and their lairs often echo with the sound of bewitching music. They are never without their enchanting instruments.

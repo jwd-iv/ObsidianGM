@@ -67,8 +67,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, or pod (3-18)
 Treasure: none
-Description: >
-  Dolphins are social predators that hunt shallow seas and rivers in large family groups called pods. Sailors are fond of dolphins and frequently tell tales of dolphins saving drowning fishermen or killing sharks with blows from their powerful snouts. Dolphin Companions Starting Statistics: Size Medium; Speed swim 80 ft.; AC +1 natural armor; Attack slam (1d4); Ability Scores Str 12, Dex 15, Con 13, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, hold breath. 4th-Level Advancement: Ability Scores Str +2, Dex +2, Con +2; Special Qualities blindsight 120 ft.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dolphins are social predators that hunt shallow seas and rivers in large family groups called pods. Sailors are fond of dolphins and frequently tell tales of dolphins saving drowning fishermen or killing sharks with blows from their powerful snouts. Dolphin Companions Starting Statistics: Size Medium; Speed swim 80 ft.; AC +1 natural armor; Attack slam (1d4); Ability Scores Str 12, Dex 15, Con 13, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, hold breath. 4th-Level Advancement: Ability Scores Str +2, Dex +2, Con +2; Special Qualities blindsight 120 ft.

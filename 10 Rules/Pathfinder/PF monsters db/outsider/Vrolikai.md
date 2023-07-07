@@ -85,7 +85,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary
 Treasure: double
-Description: A vrolikai is 14 feet tall but weighs only 500 pounds. Unlike other demons, it does not form from a sinful soul-it instead manifests from a nabasu demon that returns to the Abyss after growing to maturity on the Material Plane. Not all nabasus survive this transformation, but those who do become powerful indeed-vrolikai usually rule large regions of unclaimed Abyssal land, and often serve as assassins or ambassadors to demon lords in need of an agent in a distant realm.
 Race: 
 Class: 
 MR: 
@@ -95,3 +94,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A vrolikai is 14 feet tall but weighs only 500 pounds. Unlike other demons, it does not form from a sinful soul-it instead manifests from a nabasu demon that returns to the Abyss after growing to maturity on the Material Plane. Not all nabasus survive this transformation, but those who do become powerful indeed-vrolikai usually rule large regions of unclaimed Abyssal land, and often serve as assassins or ambassadors to demon lords in need of an agent in a distant realm.

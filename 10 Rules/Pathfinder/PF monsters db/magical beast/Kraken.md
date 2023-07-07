@@ -77,7 +77,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: The legendary kraken is one of the greatest of sailors' fears, for here is a creature the size of a whale, one that can strike from the unseen depths below, can command the winds and weather that a ship needs to move, and possesses the cruel intellect of the world's most creative and spiteful criminals. Some believe krakens to be a punishment of the gods, while others hold them to be the true lords of the deep, with the air-breathing races naught but their cattle.  A kraken measures nearly 100 feet in length and weighs 4,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -87,3 +86,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The legendary kraken is one of the greatest of sailors' fears, for here is a creature the size of a whale, one that can strike from the unseen depths below, can command the winds and weather that a ship needs to move, and possesses the cruel intellect of the world's most creative and spiteful criminals. Some believe krakens to be a punishment of the gods, while others hold them to be the true lords of the deep, with the air-breathing races naught but their cattle.  A kraken measures nearly 100 feet in length and weighs 4,000 pounds.

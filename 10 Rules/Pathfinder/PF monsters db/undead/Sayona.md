@@ -76,8 +76,6 @@ Environment: land/underground
 Temperature: any
 Organization: solitary or retinue (1d3 plus 2d6 spawn)
 Treasure: standard
-Description: >
-  Occasionally called "weeping vampires" for their ability to cry tears of blood, sayonas are powerful and intelligent undead creatures that hunt mortals to steal from them what they envy most: the ability to exist within living flesh. While they aren't true vampires, similarity between these two creatures creates substantial confusion to those unfamiliar with sayonas. While sayonas and vampires sustain themselves off mortal blood, sayonas don't consume the blood, but rather absorb it through their skin (even when using blood drain), using it to transform their twisted forms back into some semblance of the beauty they had-or believe they had- in life. Above all else, sayonas covet youth. Stories of their origins claim that the first sayona was a vain woman who grew old and whose lover left her for a younger paramour; the woman avenged herself by bathing in the blood of her lover's children, then killed herself. Doomed to undeath, she wanders the world crying tears of blood and preying on beautiful young women-slaying them, stealing their beauty, and transforming them into ghastly undead fiends to forever share her fate.
 Race: 
 Class: 
 MR: 
@@ -87,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Occasionally called "weeping vampires" for their ability to cry tears of blood, sayonas are powerful and intelligent undead creatures that hunt mortals to steal from them what they envy most: the ability to exist within living flesh. While they aren't true vampires, similarity between these two creatures creates substantial confusion to those unfamiliar with sayonas. While sayonas and vampires sustain themselves off mortal blood, sayonas don't consume the blood, but rather absorb it through their skin (even when using blood drain), using it to transform their twisted forms back into some semblance of the beauty they had-or believe they had- in life. Above all else, sayonas covet youth. Stories of their origins claim that the first sayona was a vain woman who grew old and whose lover left her for a younger paramour; the woman avenged herself by bathing in the blood of her lover's children, then killed herself. Doomed to undeath, she wanders the world crying tears of blood and preying on beautiful young women-slaying them, stealing their beauty, and transforming them into ghastly undead fiends to forever share her fate.

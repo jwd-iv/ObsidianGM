@@ -74,7 +74,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary or warband (1 shaggy demodand plus 2-5 tarry demodands)
 Treasure: double (+2 unholy morningstar, other treasure)
-Description: Shaggy demodands are obese outsiders that occupy the highest status within demodand society. The fleshy tyrants stand just under 7 feet tall and have huge bat wings capable of supporting their 600-pound weight. Their faces have the broad-set eyes of a toad and toothy underbites.  Although they still answer to their titanic masters, shaggy demodands are the masters of their kind, and serve the thanatotic titans as advisors, covert agents, or battlefield generals. In the Abyss, shaggy demodands command great armies, leading them against demonic hordes as the balance of Abyssal power ebbs and flows. Often underestimated due to their shape, these demodands are both intelligent and cunning, and approach battle with an effective mixture of strategy and ruthless detachment.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Shaggy demodands are obese outsiders that occupy the highest status within demodand society. The fleshy tyrants stand just under 7 feet tall and have huge bat wings capable of supporting their 600-pound weight. Their faces have the broad-set eyes of a toad and toothy underbites.  Although they still answer to their titanic masters, shaggy demodands are the masters of their kind, and serve the thanatotic titans as advisors, covert agents, or battlefield generals. In the Abyss, shaggy demodands command great armies, leading them against demonic hordes as the balance of Abyssal power ebbs and flows. Often underestimated due to their shape, these demodands are both intelligent and cunning, and approach battle with an effective mixture of strategy and ruthless detachment.

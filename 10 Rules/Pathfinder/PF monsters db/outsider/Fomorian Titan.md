@@ -72,7 +72,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or war band (3-6)
 Treasure: double (+3 speed wounding heavy mace, +4 moderate fortification full plate, other treasure)
-Description: Fomorian titans were the first titans created by the gods. In their pride, the titans intruded on the domain of their masters and created life of their own, so they too might be worshiped. The gods were forced to battle their creations, and though they won, they could not bring themselves to destroy the fomorians, and instead shackled the titans in armor that hid their beauty and imprisoned them in secret prisons across the multiverse.
 Race: 
 Class: 
 MR: 8
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Fomorian titans were the first titans created by the gods. In their pride, the titans intruded on the domain of their masters and created life of their own, so they too might be worshiped. The gods were forced to battle their creations, and though they won, they could not bring themselves to destroy the fomorians, and instead shackled the titans in armor that hid their beauty and imprisoned them in secret prisons across the multiverse.

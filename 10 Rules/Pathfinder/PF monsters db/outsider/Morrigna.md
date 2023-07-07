@@ -74,7 +74,6 @@ Environment: any (Purgatory)
 Temperature: any
 Organization: solitary of group (3-15)
 Treasure: standard (+2 glamered breastplate, other treasure)
-Description: Morrignas are Purgatory's investigators, bounty hunters, and assassins, tracking down those who flout the natural cycle of death and judgment. They stand 7 to 8 feet tall and weigh 200 to 250 pounds. Many morrignas prefer to assume the appearances of those who have died. They ensure the smooth operation of death's bureaucratic machine by eliminating complications, dedicating their existence to wiping out any forces that circumvent or corrupt the natural cycle of death and judgment.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Morrignas are Purgatory's investigators, bounty hunters, and assassins, tracking down those who flout the natural cycle of death and judgment. They stand 7 to 8 feet tall and weigh 200 to 250 pounds. Many morrignas prefer to assume the appearances of those who have died. They ensure the smooth operation of death's bureaucratic machine by eliminating complications, dedicating their existence to wiping out any forces that circumvent or corrupt the natural cycle of death and judgment.

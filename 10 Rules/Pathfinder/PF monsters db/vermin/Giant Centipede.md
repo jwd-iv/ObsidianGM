@@ -67,7 +67,6 @@ Environment: forest/underground
 Temperature: temperate/warm
 Organization: solitary, pair, or colony (3-6)
 Treasure: none
-Description: Giant centipedes attack nearly any living creatures with their poisonous jaws. These creatures adapt to many environments and feed voraciously on the local fauna, including humanoids. The coloration of giant centipedes mirrors that of normal centipedes and spans the spectrum, ranging from dull hues to bright reds and fiery oranges. Other species of giant centipedes exist as well, some smaller but most quite a bit larger. You can adjust the stats given here by changing Hit Dice and size (changing Strength, Dexterity, and Constitution as appropriate) to represent a wide range of giant centipede species. The following table lists the most common variants. Species CR Size H D House centipede 1/8 Tiny 1d8 Sewer centipede 1/4 Small 1d8 Hissing centipede 1 Large 2d8 Giant whiptail centipede 2 Huge 4d8 Great forest centipede 6 Gargantuan 7d8 Titan centipede 9 Colossal 10d8
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant centipedes attack nearly any living creatures with their poisonous jaws. These creatures adapt to many environments and feed voraciously on the local fauna, including humanoids. The coloration of giant centipedes mirrors that of normal centipedes and spans the spectrum, ranging from dull hues to bright reds and fiery oranges. Other species of giant centipedes exist as well, some smaller but most quite a bit larger. You can adjust the stats given here by changing Hit Dice and size (changing Strength, Dexterity, and Constitution as appropriate) to represent a wide range of giant centipede species. The following table lists the most common variants. Species CR Size H D House centipede 1/8 Tiny 1d8 Sewer centipede 1/4 Small 1d8 Hissing centipede 1 Large 2d8 Giant whiptail centipede 2 Huge 4d8 Great forest centipede 6 Gargantuan 7d8 Titan centipede 9 Colossal 10d8

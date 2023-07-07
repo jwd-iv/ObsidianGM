@@ -67,7 +67,6 @@ Environment: forest/plains/swamps
 Temperature: temperate
 Organization: solitary, pair, or knot (3-12)
 Treasure: none
-Description: Most giant toads live in dryer areas after maturing, returning to the water only to mate and give birth.  Giant toad companions are identical to giant frog companions (Pathfinder RPG Bestiary 135), save that they lack the frog's tongue and pull abilities.  Instead, they gain the poison skin ability at 4th level.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Most giant toads live in dryer areas after maturing, returning to the water only to mate and give birth.  Giant toad companions are identical to giant frog companions (Pathfinder RPG Bestiary 135), save that they lack the frog's tongue and pull abilities.  Instead, they gain the poison skin ability at 4th level.

@@ -77,7 +77,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or gang (3-6)
 Treasure: standard
-Description: The chernobue is a living manifestation of the vile fecundity of the Abyss-a monstrous, alien pregnancy made flesh. By infecting creatures with the Abyssal taint they carry, they spread pain and misfortune wherever they flop and writhe-and with their plane shift ability, they are ready to spread their filth throughout the multiverse. A chernobue is 13 feet long and weighs 500 pounds.
 Race: 
 Class: 
 MR: 
@@ -87,3 +86,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The chernobue is a living manifestation of the vile fecundity of the Abyss-a monstrous, alien pregnancy made flesh. By infecting creatures with the Abyssal taint they carry, they spread pain and misfortune wherever they flop and writhe-and with their plane shift ability, they are ready to spread their filth throughout the multiverse. A chernobue is 13 feet long and weighs 500 pounds.

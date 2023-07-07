@@ -71,7 +71,6 @@ Environment: any (Plane of Water)
 Temperature: any
 Organization: solitary, pair, or gang (3-8)
 Treasure: none
-Description: Water elementals are patient, relentless creatures made of living fresh or salt water. They prefer to hide or drag their opponents into the water to gain an advantage. As with other elementals, all water elementals have their own unique shapes and appearances. Most appear as wave-like creatures with vaguely humanoid faces and smaller wave "arms" to either side. Another common form is that of any aquatic creature, such as a shark or octopus, but made entirely out of water. Elemental Height Weight Vortex Save DC Vortex Height Small 4 ft. 34 lbs. 13 10-20 ft. Medium 8 ft. 280 lbs. 15 10-30 ft. Large 16 ft. 2,250 lbs. 19 10-40 ft. Huge 32 ft. 18,000 lbs. 22 10-50 ft. Greater 36 ft. 21,000 lbs. 25 10-60 ft. Elder 40 ft. 24,000 lbs. 28 10-60 ft.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Water elementals are patient, relentless creatures made of living fresh or salt water. They prefer to hide or drag their opponents into the water to gain an advantage. As with other elementals, all water elementals have their own unique shapes and appearances. Most appear as wave-like creatures with vaguely humanoid faces and smaller wave "arms" to either side. Another common form is that of any aquatic creature, such as a shark or octopus, but made entirely out of water. Elemental Height Weight Vortex Save DC Vortex Height Small 4 ft. 34 lbs. 13 10-20 ft. Medium 8 ft. 280 lbs. 15 10-30 ft. Large 16 ft. 2,250 lbs. 19 10-40 ft. Huge 32 ft. 18,000 lbs. 22 10-50 ft. Greater 36 ft. 21,000 lbs. 25 10-60 ft. Elder 40 ft. 24,000 lbs. 28 10-60 ft.

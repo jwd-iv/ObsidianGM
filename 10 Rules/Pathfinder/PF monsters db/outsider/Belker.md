@@ -73,7 +73,6 @@ Environment: any (Plane of Air)
 Temperature: any
 Organization: solitary, pair, or clutch (3-4)
 Treasure: incidental
-Description: Belkers are hateful elemental air creatures resembling fiends made of smoke. Xenophobic in the extreme, they see most non-elemental creatures as threats, and stalk and kill any such intruders in their territory. Among their elemental kin, they especially hate djinn and jann.  They tolerate air mephits, dust mephits, steam mephits, air elementals, and fire elementals, but given the choice, prefer the company of their own kind.  Belkers create no permanent lairs, but do claim and defend large territories from other living things, particularly areas ravaged by frequent storms, volcanic eruptions, hot springs, or forest fires. Some sages believe the belkers worship these dangerous natural phenomena; others speculate the elementals somehow feed on the unusual air from these sites. Still other scholars theorize that the reclusive beasts require the energy from these phenomena to feed or reproduce.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Belkers are hateful elemental air creatures resembling fiends made of smoke. Xenophobic in the extreme, they see most non-elemental creatures as threats, and stalk and kill any such intruders in their territory. Among their elemental kin, they especially hate djinn and jann.  They tolerate air mephits, dust mephits, steam mephits, air elementals, and fire elementals, but given the choice, prefer the company of their own kind.  Belkers create no permanent lairs, but do claim and defend large territories from other living things, particularly areas ravaged by frequent storms, volcanic eruptions, hot springs, or forest fires. Some sages believe the belkers worship these dangerous natural phenomena; others speculate the elementals somehow feed on the unusual air from these sites. Still other scholars theorize that the reclusive beasts require the energy from these phenomena to feed or reproduce.

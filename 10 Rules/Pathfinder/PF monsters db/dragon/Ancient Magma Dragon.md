@@ -88,7 +88,6 @@ Environment: mountains (Plane of Fire)/underground (Plane of Fire)
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Temperamental and prone to violent outbursts, magma dragons are regarded by most other dragons as dangerously insane-an assumption that, more often than not, proves correct. One can rarely predict a magma dragon's state of mind until it either attacks or attempts to engage in conversation. For their part, magma dragons can justify all of their actions-they just rarely feel the need to do so.
 Race: 
 Class: 
 MR: 
@@ -98,3 +97,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Temperamental and prone to violent outbursts, magma dragons are regarded by most other dragons as dangerously insane-an assumption that, more often than not, proves correct. One can rarely predict a magma dragon's state of mind until it either attacks or attempts to engage in conversation. For their part, magma dragons can justify all of their actions-they just rarely feel the need to do so.

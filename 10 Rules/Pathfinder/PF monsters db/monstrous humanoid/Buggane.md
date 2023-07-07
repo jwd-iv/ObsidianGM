@@ -74,7 +74,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, hunting party (3-5), or clan (6-30)
 Treasure: standard
-Description: Bugganes are a race of blind, hairless giants that dwell deep underground. Distantly related to ogres, bugganes share their surface-dwelling cousins' appetite for the flesh of sentient beings, and are coldly efficient killers who tenaciously stalk their prey in absolute silence. Bugganes pursue and slay those who trespass into their well-marked territories, carrying their victims back to their lairs where they are unceremoniously consumed by the entire clan. Dull-witted and savage, bugganes disdain the use of even the most primitive weapons and tools. They rely on their tusks and claws, all of which are capable of shredding flesh, bone, and solid rock with equal ease. Their useless, mole-like eyes react painfully to bright light. A typical buggane stands between 8 and 9 feet tall and weighs 900 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Bugganes are a race of blind, hairless giants that dwell deep underground. Distantly related to ogres, bugganes share their surface-dwelling cousins' appetite for the flesh of sentient beings, and are coldly efficient killers who tenaciously stalk their prey in absolute silence. Bugganes pursue and slay those who trespass into their well-marked territories, carrying their victims back to their lairs where they are unceremoniously consumed by the entire clan. Dull-witted and savage, bugganes disdain the use of even the most primitive weapons and tools. They rely on their tusks and claws, all of which are capable of shredding flesh, bone, and solid rock with equal ease. Their useless, mole-like eyes react painfully to bright light. A typical buggane stands between 8 and 9 feet tall and weighs 900 pounds.

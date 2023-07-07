@@ -71,7 +71,6 @@ Environment: underground
 Temperature: non-cold
 Organization: solitary, pair, or grove (3-8)
 Treasure: incidental
-Description: The strange fungal basidirond is a deadly plant monster that feeds on mineral-rich moisture, be it runoff from cave walls or fresh blood. By ensuring a constant flow of nutritious moisture, canny cave dwellers can use basidironds as guardians for their lairs, although they must take care to avoid the plant's hunting routes lest they become its latest victims.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The strange fungal basidirond is a deadly plant monster that feeds on mineral-rich moisture, be it runoff from cave walls or fresh blood. By ensuring a constant flow of nutritious moisture, canny cave dwellers can use basidironds as guardians for their lairs, although they must take care to avoid the plant's hunting routes lest they become its latest victims.

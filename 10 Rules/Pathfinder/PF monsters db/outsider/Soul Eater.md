@@ -73,7 +73,6 @@ Environment: any (Outer Planes)
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Summoned forth from the inky swamps of Abaddon, a soul eater is an extraplanar entity devoid of emotion or reason and possessing a hunger that may only be sated by devouring the souls of the living. The very nature of a soul eater makes it an ideal and terrifyingly efficient tool of death, and it is for this reason they are often conjured by vile spellcasters pursuing morbid agendas. Even when not seeing to the heinous commands of a sinister magic user, the soul eater prowls and hunts, constantly seeking living souls upon which to gorge itself.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Summoned forth from the inky swamps of Abaddon, a soul eater is an extraplanar entity devoid of emotion or reason and possessing a hunger that may only be sated by devouring the souls of the living. The very nature of a soul eater makes it an ideal and terrifyingly efficient tool of death, and it is for this reason they are often conjured by vile spellcasters pursuing morbid agendas. Even when not seeing to the heinous commands of a sinister magic user, the soul eater prowls and hunts, constantly seeking living souls upon which to gorge itself.

@@ -65,8 +65,6 @@ Environment: freshwater
 Temperature: temperate
 Organization: solitary, pair, or school (3-6)
 Treasure: none
-Description: >
-  Gars are predatory fish that live in deep lakes and rivers. Sleek and swift, they regard anything their own size or smaller as food. A typical gar is 7 feet long and weighs 200 pounds. One species known as the alligator gar can grow to lengths of 10 feet. An alligator gar is a gar with the advanced creature template.  GAR COMPANIONS  Starting Statistics: Size Medium; Speed swim 60 ft., AC +1 natural, Attack bite 1d6; Ability Scores Str 14, Dex 14, Con 15, Int 1, Wis 13, Cha 2; Special Ability grab.  7th-Level Advancement: Size Large; AC +3 natural, Attack bite 1d8, Ability Scores +8 Str, -2 Dex, +4 Con.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Gars are predatory fish that live in deep lakes and rivers. Sleek and swift, they regard anything their own size or smaller as food. A typical gar is 7 feet long and weighs 200 pounds. One species known as the alligator gar can grow to lengths of 10 feet. An alligator gar is a gar with the advanced creature template.  GAR COMPANIONS  Starting Statistics: Size Medium; Speed swim 60 ft., AC +1 natural, Attack bite 1d6; Ability Scores Str 14, Dex 14, Con 15, Int 1, Wis 13, Cha 2; Special Ability grab.  7th-Level Advancement: Size Large; AC +3 natural, Attack bite 1d8, Ability Scores +8 Str, -2 Dex, +4 Con.

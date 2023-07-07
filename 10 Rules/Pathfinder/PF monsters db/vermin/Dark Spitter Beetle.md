@@ -66,7 +66,6 @@ Environment: underground
 Temperature: any
 Organization: single, pair, or cluster (3-6)
 Treasure: none
-Description: Spitter beetles are used as mounts by duergar explorers.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Spitter beetles are used as mounts by duergar explorers.

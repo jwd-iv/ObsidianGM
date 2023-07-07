@@ -68,8 +68,6 @@ Environment: hills
 Temperature: warm
 Organization: solitary or pack (2-5)
 Treasure: none
-Description: >
-  These carnivorous, wide-jawed marsupials typically hunt at night and have a reputation for savagery. By day, they nest in hollow trees or clusters of bushes.  Thylacine Companions  Starting Statistics: Size Small; Speed 30 ft.; Attack bite (1d4); Ability Scores Str 12, Dex 15, Con 16, Int 2, Wis 13, Cha 7; Special Qualities low-light vision, powerful jaws.  4th-Level Advancement: Size Medium; AC +2 natural armor; Attack bite (1d6); Ability Scores Str +4, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These carnivorous, wide-jawed marsupials typically hunt at night and have a reputation for savagery. By day, they nest in hollow trees or clusters of bushes.  Thylacine Companions  Starting Statistics: Size Small; Speed 30 ft.; Attack bite (1d4); Ability Scores Str 12, Dex 15, Con 16, Int 2, Wis 13, Cha 7; Special Qualities low-light vision, powerful jaws.  4th-Level Advancement: Size Medium; AC +2 natural armor; Attack bite (1d6); Ability Scores Str +4, Dex -2, Con +4.

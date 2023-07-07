@@ -82,7 +82,6 @@ Environment: hills
 Temperature: warm
 Organization: solitary
 Treasure: triple
-Description: This whimsical dragon spends most of its time in combat trying to annoy and frustrate its enemies.
 Race: 
 Class: 
 MR: 
@@ -92,3 +91,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This whimsical dragon spends most of its time in combat trying to annoy and frustrate its enemies.

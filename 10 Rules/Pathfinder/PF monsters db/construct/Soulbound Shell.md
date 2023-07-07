@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary or workshop (1 plus 2-8 other constructs)
 Treasure: standard (mwk dagger, other treasure)
-Description: A soulbound shell is the perfected version of a soulbound mannequin, allowing the soul to retain its spellcasting.  Construction  A soulbound shell is constructed from marble, a 5,000 gp gem for the soul focus, and the soul of a willing spellcaster of at least 12th level who dies at the culmination of the creation process and animates the stone shell.  SOULBOUND SHELL  CL 12th; Price 115,000 gp  Construction  Requirements Craft Construct, false life, magic jar, make whole, mnemonic enhancer, stoneskin; Skill Craft (sculpture); Cost 60,000 gp
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A soulbound shell is the perfected version of a soulbound mannequin, allowing the soul to retain its spellcasting.  Construction  A soulbound shell is constructed from marble, a 5,000 gp gem for the soul focus, and the soul of a willing spellcaster of at least 12th level who dies at the culmination of the creation process and animates the stone shell.  SOULBOUND SHELL  CL 12th; Price 115,000 gp  Construction  Requirements Craft Construct, false life, magic jar, make whole, mnemonic enhancer, stoneskin; Skill Craft (sculpture); Cost 60,000 gp

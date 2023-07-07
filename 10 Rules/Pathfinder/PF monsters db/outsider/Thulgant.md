@@ -75,7 +75,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or patrol (3-4)
 Treasure: double
-Description: The dreaded thulgant is among the most dangerous of the qlippoth, for it supports an array of deadly and painful physical attacks with a wide range of potent magical powers. Born from the cannibalistic orgies of augnagar qlippoth, each thulgant exists for one purpose only-the eradication of all demons from the Abyss.  Yet thulgants do not spend all of their lives hunting and destroying demons. They rule horrific hives deep in the Abyss populated by all manner of hideous minions, many of which are bound into servitude via binding spells. These qlippoth are fond of decorating their lairs with petrified or enstasised victims of great power-the more powerful the victims, the greater the prestige held by the thulgant.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The dreaded thulgant is among the most dangerous of the qlippoth, for it supports an array of deadly and painful physical attacks with a wide range of potent magical powers. Born from the cannibalistic orgies of augnagar qlippoth, each thulgant exists for one purpose only-the eradication of all demons from the Abyss.  Yet thulgants do not spend all of their lives hunting and destroying demons. They rule horrific hives deep in the Abyss populated by all manner of hideous minions, many of which are bound into servitude via binding spells. These qlippoth are fond of decorating their lairs with petrified or enstasised victims of great power-the more powerful the victims, the greater the prestige held by the thulgant.

@@ -73,7 +73,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or slaver gang (3-6 kalavakuses plus 10-20 slaves)
 Treasure: standard
-Description: Known to some as "horned demons," the kalavakus demons are hulking, muscled beasts. They work as slavers on the Abyss, sometimes as harem keepers or captains of the guard for a more powerful demon, and at other times as mercenaries who sell their captured victims for profit to anyone with the funds to pay.  A kalavakus is 7 feet tall and weighs 450 pounds. They form from the souls of evil mortals who were slavers in their mortal lives.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Known to some as "horned demons," the kalavakus demons are hulking, muscled beasts. They work as slavers on the Abyss, sometimes as harem keepers or captains of the guard for a more powerful demon, and at other times as mercenaries who sell their captured victims for profit to anyone with the funds to pay.  A kalavakus is 7 feet tall and weighs 450 pounds. They form from the souls of evil mortals who were slavers in their mortal lives.

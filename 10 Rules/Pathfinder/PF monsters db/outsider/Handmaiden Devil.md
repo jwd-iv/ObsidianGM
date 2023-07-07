@@ -71,7 +71,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, retinue (1 gylou and 2d4 erinyes), or cortege (1-4 gylous and 2d10 erinyes)
 Treasure: standard
-Description: Known as handmaiden devils, Mothers of Pain, and Maids of Miscarriage, gylous attend to the whims and schemes of Hell's few female overlords. Like manipulative matrons amid decadent mortal courts, these deceivers hide their fathomless evil beneath illusions of beauty, graciousness, and tradition. Gylous particularly loathe children. It's said that the persistent cry of a babe can sometimes cause these fiends to abandon their illusions and viciously attack.  As greater devils, gylous can command many lesser devils, yet harbor an exclusive favoritism for erinyes. A gylou weighs 160 pounds and stands stiff ly at 5-1/2 feet- though many wear their head-sprouting tentacles in tall, elaborate coiffures.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Known as handmaiden devils, Mothers of Pain, and Maids of Miscarriage, gylous attend to the whims and schemes of Hell's few female overlords. Like manipulative matrons amid decadent mortal courts, these deceivers hide their fathomless evil beneath illusions of beauty, graciousness, and tradition. Gylous particularly loathe children. It's said that the persistent cry of a babe can sometimes cause these fiends to abandon their illusions and viciously attack.  As greater devils, gylous can command many lesser devils, yet harbor an exclusive favoritism for erinyes. A gylou weighs 160 pounds and stands stiff ly at 5-1/2 feet- though many wear their head-sprouting tentacles in tall, elaborate coiffures.

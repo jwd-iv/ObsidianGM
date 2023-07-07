@@ -67,8 +67,6 @@ Environment: forest/plains
 Temperature: cold/temperate
 Organization: solitary, pair, or herd (3-50)
 Treasure: none
-Description: >
-  The megaloceros is a powerful and enormous elk, also known as a "great elk" or "king stag." It stands about 6 feet tall at the shoulder and has antlers spanning up to 12 feet. It weighs 1,400 pounds.  MEGALOCEROS COMPANIONS  Starting Statistics: Size Medium; Speed 50 ft.; AC +3 natural armor, Attack gore (1d8); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 15, Cha 5; Special Abilities low-light vision, scent.  7th-Level Adv.: Size Large; AC +2 natural armor; Attack gore (2d6), 2 hooves (1d4); Ability Scores Str +8, Dex -2, Con +4; Special Qualities powerful charge (2d6).
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The megaloceros is a powerful and enormous elk, also known as a "great elk" or "king stag." It stands about 6 feet tall at the shoulder and has antlers spanning up to 12 feet. It weighs 1,400 pounds.  MEGALOCEROS COMPANIONS  Starting Statistics: Size Medium; Speed 50 ft.; AC +3 natural armor, Attack gore (1d8); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 15, Cha 5; Special Abilities low-light vision, scent.  7th-Level Adv.: Size Large; AC +2 natural armor; Attack gore (2d6), 2 hooves (1d4); Ability Scores Str +8, Dex -2, Con +4; Special Qualities powerful charge (2d6).

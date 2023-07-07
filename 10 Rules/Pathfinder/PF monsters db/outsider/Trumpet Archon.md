@@ -78,7 +78,6 @@ Environment: any (Heaven)
 Temperature: any
 Organization: solitary, pair, or squad (3-5)
 Treasure: standard
-Description: Messengers of good deities and mighty celestials, trumpet archons serve as the vanguard of divine armies and rally the legions of heaven to war. When lawful good deities have the need to communicate directly with a group of mortals, they often send trumpet archons to act as their intermediaries. Trumpet archons speak with clear, musical voices. Their otherworldly eyes are white and pupilless. All trumpet archons carry a gleaming magical trumpet or horn with which they create wondrous music, sound calls to other archons, paralyze enemies, or defend the virtuous. They typically adorn their trumpet with the standard of their liege.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Messengers of good deities and mighty celestials, trumpet archons serve as the vanguard of divine armies and rally the legions of heaven to war. When lawful good deities have the need to communicate directly with a group of mortals, they often send trumpet archons to act as their intermediaries. Trumpet archons speak with clear, musical voices. Their otherworldly eyes are white and pupilless. All trumpet archons carry a gleaming magical trumpet or horn with which they create wondrous music, sound calls to other archons, paralyze enemies, or defend the virtuous. They typically adorn their trumpet with the standard of their liege.

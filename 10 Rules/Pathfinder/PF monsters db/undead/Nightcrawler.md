@@ -71,7 +71,6 @@ Environment: any (Negative Energy Plane)
 Temperature: any
 Organization: solitary or pair
 Treasure: standard
-Description: Although the nightcrawler might appear to be little more than an immense and frightening vermin, with its centipede-like body and numerous glowing eyes, it is actually incredibly intelligent. When not cleansing the deep caverns of life, the nightcrawler spends its time plotting how best to carry out its own private stages of the overall nightshade plan to expunge life from all worlds, conferring with its undead minions and, when necessary, observing living creatures from afar while invisible to learn about hidden enclaves that its depredations might otherwise have missed.  It would be one thing if the nightcrawlers remained in the deep caverns, for these regions are rife with foul life the world is better off without. Yet unfortunately for those who dwell upon the surface, nightcrawlers often crawl up through the tunnels to bring their devastation to the night above. Although they always retreat underground before the first tentative rays of dawn color the eastern skies, they can spread an incredible amount of ruin in the span of a few short hours each night.  A nightcrawler is 60 feet long and weighs 10,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Although the nightcrawler might appear to be little more than an immense and frightening vermin, with its centipede-like body and numerous glowing eyes, it is actually incredibly intelligent. When not cleansing the deep caverns of life, the nightcrawler spends its time plotting how best to carry out its own private stages of the overall nightshade plan to expunge life from all worlds, conferring with its undead minions and, when necessary, observing living creatures from afar while invisible to learn about hidden enclaves that its depredations might otherwise have missed.  It would be one thing if the nightcrawlers remained in the deep caverns, for these regions are rife with foul life the world is better off without. Yet unfortunately for those who dwell upon the surface, nightcrawlers often crawl up through the tunnels to bring their devastation to the night above. Although they always retreat underground before the first tentative rays of dawn color the eastern skies, they can spread an incredible amount of ruin in the span of a few short hours each night.  A nightcrawler is 60 feet long and weighs 10,000 pounds.

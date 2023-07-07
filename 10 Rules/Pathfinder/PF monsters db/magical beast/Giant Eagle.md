@@ -67,7 +67,6 @@ Environment: mountains
 Temperature: temperate
 Organization: solitary, pair, or eyrie (3-12)
 Treasure: none
-Description: A typical giant eagle stands about 15 feet tall, has a wingspan of up to 30 feet, and resembles its smaller cousins in nearly every way except size. It weighs 500 pounds.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A typical giant eagle stands about 15 feet tall, has a wingspan of up to 30 feet, and resembles its smaller cousins in nearly every way except size. It weighs 500 pounds.

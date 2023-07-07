@@ -68,7 +68,6 @@ Environment: desert/forest
 Temperature: temperate/warm
 Organization: solitary or nest (2-5)
 Treasure: incidental (acid-proof items)
-Description: Sepses are born live. A hatchling soon grows up to 7 feet long and weighs 10 pounds.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Sepses are born live. A hatchling soon grows up to 7 feet long and weighs 10 pounds.

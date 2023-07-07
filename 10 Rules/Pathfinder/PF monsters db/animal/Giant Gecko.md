@@ -68,8 +68,6 @@ Environment: forest/mountains
 Temperature: warm
 Organization: solitary, pair, or nest (3-6)
 Treasure: none
-Description: >
-  These lizards are mostly docile and shy away from attacking creatures larger than a cat or dog. Despite their shyness, they are ultimately curious creatures, and often approach bigger creatures simply to investigate. Of course, a giant gecko is more than capable of defending itself, biting creatures that react violently to the lizard when fleeing is not an option.  Some humanoids train giant geckos as bestial guardians. Smaller humanoids (in particular, goblins) can even use the creatures as mounts, taking advantage of their superior climbing skills to attack from seemingly impossible positions and angles. A giant gecko measures 8 feet from nose to tail and weighs 120 pounds. Coloration among giant geckos can vary wildly, though most are some shade of green.  Giant Gecko Companions  Starting Statistics: Size Small; Speed 30 ft.; Attack bite (1d6); Ability Scores Str 11, Dex 15, Con 12, Int 2, Wis 14, Cha 7; Special Qualities expert climber, low-light vision.  4th-Level Advancement: Size Medium; Speed 40 ft.; AC +2 natural armor; Attack bite (2d4); Ability Scores Str +4, Dex -2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These lizards are mostly docile and shy away from attacking creatures larger than a cat or dog. Despite their shyness, they are ultimately curious creatures, and often approach bigger creatures simply to investigate. Of course, a giant gecko is more than capable of defending itself, biting creatures that react violently to the lizard when fleeing is not an option.  Some humanoids train giant geckos as bestial guardians. Smaller humanoids (in particular, goblins) can even use the creatures as mounts, taking advantage of their superior climbing skills to attack from seemingly impossible positions and angles. A giant gecko measures 8 feet from nose to tail and weighs 120 pounds. Coloration among giant geckos can vary wildly, though most are some shade of green.  Giant Gecko Companions  Starting Statistics: Size Small; Speed 30 ft.; Attack bite (1d6); Ability Scores Str 11, Dex 15, Con 12, Int 2, Wis 14, Cha 7; Special Qualities expert climber, low-light vision.  4th-Level Advancement: Size Medium; Speed 40 ft.; AC +2 natural armor; Attack bite (2d4); Ability Scores Str +4, Dex -2, Con +2.

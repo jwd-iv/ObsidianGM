@@ -74,7 +74,6 @@ Environment: land
 Temperature: warm
 Organization: solitary, pair, or family (2 adults and 1-2 calves with the young creature template)
 Treasure: none
-Description: A disenchanter is a blue-furred creature that resembles a single-humped camel with a prehensile trunk. The creatures can sense magic, which they consume for sustenance, draining the power of magic items and storing their magical energy in their humps. Disenchanters are social creatures, and often seek the companionship of other intelligent beings, making excellent mounts and trackers for treasure hunters. A typical disenchanter is 8 feet long and weighs 1,600 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A disenchanter is a blue-furred creature that resembles a single-humped camel with a prehensile trunk. The creatures can sense magic, which they consume for sustenance, draining the power of magic items and storing their magical energy in their humps. Disenchanters are social creatures, and often seek the companionship of other intelligent beings, making excellent mounts and trackers for treasure hunters. A typical disenchanter is 8 feet long and weighs 1,600 pounds.

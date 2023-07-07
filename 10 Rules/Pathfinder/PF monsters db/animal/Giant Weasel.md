@@ -66,8 +66,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or den (3-6)
 Treasure: incidental
-Description: >
-  Like their smaller cousins, giant weasels have long, slender bodies and short legs, and come in a variety of colors from reddish brown to snowy white. Giant weasels are active and tenacious predators, and have a reputation for being as clever as they are quick. Both highly aggressive and extremely territorial, they frequently attack creatures that are much larger than they are. Giant weasels are often trained to serve as guards and mounts by various Small humanoid s . Adult giant weasels can grow to be 5 feet long, stand as high as 2-1/2 feet tall at the shoulder, and weigh up to 150 pounds.  Giant Weasel Companions Starting Statistics: Size Small; Speed 30 ft., climb 10 ft.; AC +1 natural armor; Attack bite (1d4); Ability Scores Str 10, Dex 19, Con 13, Int 2, Wis 12, Cha 10; Special Attacks blood drain (1 Con), grab; SQ low-light vision, scent. 4th-Level Advancement: Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex -2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -77,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Like their smaller cousins, giant weasels have long, slender bodies and short legs, and come in a variety of colors from reddish brown to snowy white. Giant weasels are active and tenacious predators, and have a reputation for being as clever as they are quick. Both highly aggressive and extremely territorial, they frequently attack creatures that are much larger than they are. Giant weasels are often trained to serve as guards and mounts by various Small humanoid s . Adult giant weasels can grow to be 5 feet long, stand as high as 2-1/2 feet tall at the shoulder, and weigh up to 150 pounds.  Giant Weasel Companions Starting Statistics: Size Small; Speed 30 ft., climb 10 ft.; AC +1 natural armor; Attack bite (1d4); Ability Scores Str 10, Dex 19, Con 13, Int 2, Wis 12, Cha 10; Special Attacks blood drain (1 Con), grab; SQ low-light vision, scent. 4th-Level Advancement: Size Medium; Attack bite (1d6); Ability Scores Str +4, Dex -2, Con +2.

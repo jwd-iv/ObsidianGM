@@ -74,7 +74,6 @@ Environment: oceans
 Temperature: cold
 Organization: solitary, family (2-6 plus 1-4 aquatic monsters)
 Treasure: standard
-Description: A qallupilluk is a sinister and much-dreaded haglike denizen of cold seas. An ambush predator, she waits near gaps and weak points in the ice and listens for the footsteps of creatures above, sometimes humming or tapping on the ice like a trapped seal in the hope of drawing the curious within range of her alluring scent. When one grabs a victim, she either drowns her prey, saving the body to eat later, or transforms her prey into a monstrous servant that she treats as her own child-and eventually, as a mate. All qallupilluks are female, but they can reproduce with other aquatic monsters. Their offspring are always qallupilluks. Qallupilluks may craft hovels or lodges from stone or coral on the seabed. A few craft semipermanent homes in the submerged recesses of icebergs. They often know fragments of ancient and obscure natural secrets.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A qallupilluk is a sinister and much-dreaded haglike denizen of cold seas. An ambush predator, she waits near gaps and weak points in the ice and listens for the footsteps of creatures above, sometimes humming or tapping on the ice like a trapped seal in the hope of drawing the curious within range of her alluring scent. When one grabs a victim, she either drowns her prey, saving the body to eat later, or transforms her prey into a monstrous servant that she treats as her own child-and eventually, as a mate. All qallupilluks are female, but they can reproduce with other aquatic monsters. Their offspring are always qallupilluks. Qallupilluks may craft hovels or lodges from stone or coral on the seabed. A few craft semipermanent homes in the submerged recesses of icebergs. They often know fragments of ancient and obscure natural secrets.

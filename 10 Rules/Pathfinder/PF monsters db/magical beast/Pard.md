@@ -72,7 +72,6 @@ Environment: forest/plains
 Temperature: temperate/warm
 Organization: solitary, pair, or den (1-2 adults and 1-4 cubs)
 Treasure: incidental
-Description: Pards are alien catlike creatures known for their unnatural swiftness. They have sleek, short-furred bodies and long legs built for speed. Their color and markings vary widely, even among members of the same family, ranging through every color imaginable, with some bearing stripes, others spots, and a few solid-colored coats. Adult pards are 6 feet long and weigh 100 pounds. Pards are carnivores and usually hunt small game and larger birds (such as swans), though many have developed a fondness for the flesh of gnomes and quicklings. Smarter than common beasts, pards are semi-intelligent, mate for life, and have a complex social structure. Pards also possess a form of telepathy they use to communicate amongst themselves, and can use this on a limited basis to confront intruders or create mutually beneficial alliances.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Pards are alien catlike creatures known for their unnatural swiftness. They have sleek, short-furred bodies and long legs built for speed. Their color and markings vary widely, even among members of the same family, ranging through every color imaginable, with some bearing stripes, others spots, and a few solid-colored coats. Adult pards are 6 feet long and weigh 100 pounds. Pards are carnivores and usually hunt small game and larger birds (such as swans), though many have developed a fondness for the flesh of gnomes and quicklings. Smarter than common beasts, pards are semi-intelligent, mate for life, and have a complex social structure. Pards also possess a form of telepathy they use to communicate amongst themselves, and can use this on a limited basis to confront intruders or create mutually beneficial alliances.

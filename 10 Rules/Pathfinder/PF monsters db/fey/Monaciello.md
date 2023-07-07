@@ -72,7 +72,6 @@ Environment: urban
 Temperature: any
 Organization: solitary, pair, congregation (3-12), or infestation (13-20 plus 1-3 sorcerers of 1st-3rd level, 1 rogue leader of 2nd-4th level, 2-14 trained dire rats, 2-5 trained venomous snakes, and 1-3 rat swarms)
 Treasure: double (always gold coins)
-Description: Most often found in urban environments, this gremlin lives among humanity, taunting religious and scholarly organizations with its pranks. Monaciello gremlins are most commonly found in monasteries and cathedrals where they wriggle their way up from the sewers and catacombs to play tricks on the devout. These tricksters pull blankets off sleeping clergy members, harass servants, spoil food, and hide valuables from their owners. Enamored with gold, they often overinf late the value of things with illusions, and even throw handfuls of gold coins (or illusions of gold coins if they are feeling especially stingy) to distract creatures on their trail. They pull these coins from their ever-present magical bags, confident they can always pilfer more. A monaciello stands 2-1/2 feet tall and weighs approximately 20 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Most often found in urban environments, this gremlin lives among humanity, taunting religious and scholarly organizations with its pranks. Monaciello gremlins are most commonly found in monasteries and cathedrals where they wriggle their way up from the sewers and catacombs to play tricks on the devout. These tricksters pull blankets off sleeping clergy members, harass servants, spoil food, and hide valuables from their owners. Enamored with gold, they often overinf late the value of things with illusions, and even throw handfuls of gold coins (or illusions of gold coins if they are feeling especially stingy) to distract creatures on their trail. They pull these coins from their ever-present magical bags, confident they can always pilfer more. A monaciello stands 2-1/2 feet tall and weighs approximately 20 pounds.

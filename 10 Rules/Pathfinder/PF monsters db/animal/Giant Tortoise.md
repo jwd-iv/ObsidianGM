@@ -72,7 +72,6 @@ Environment: desert/island
 Temperature: warm
 Organization: solitary, pair, or herd (6-12)
 Treasure: none
-Description: Giant tortoises typically live on tropical islands without large predators. Despite their impressive shells, their slow speed makes them easy prey, especially for vermin and other creatures that consume their eggs. Tortoises are herbivores, and can survive for months or even years without food or water. Despite being poor swimmers, their buoyancy and long necks capable mean they can survive for significant periods at sea. A typical giant tortoise is 3-1/2 feet tall to the top of the shell and weighs 500 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant tortoises typically live on tropical islands without large predators. Despite their impressive shells, their slow speed makes them easy prey, especially for vermin and other creatures that consume their eggs. Tortoises are herbivores, and can survive for months or even years without food or water. Despite being poor swimmers, their buoyancy and long necks capable mean they can survive for significant periods at sea. A typical giant tortoise is 3-1/2 feet tall to the top of the shell and weighs 500 pounds.

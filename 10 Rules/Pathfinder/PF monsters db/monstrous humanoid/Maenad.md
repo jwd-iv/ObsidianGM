@@ -74,7 +74,6 @@ Environment: forest/plains
 Temperature: temperate
 Organization: solitary, pair, or revel (3-12)
 Treasure: standard
-Description: Creatures of unbridled violence and decadence, maenads roam the world inviting others to join in on their debased revels. Though they can otherwise pass for humans, maenads appear bestial when raging or engaging in a bloody revel. They consume massive amounts of wine and food, cause fights, and tear their foes limb from limb. They control people's minds, subconsciously inviting them to engage in their bloody festivities and fostering urges that lead to excesses of hunger, lust, anger, and violence. Maenads can live for thousands of years. They insinuate themselves into normal society before attempting to influence the community. They travel their entire lives in search of creatures to influence into debauchery, cannibalism, and gluttony.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Creatures of unbridled violence and decadence, maenads roam the world inviting others to join in on their debased revels. Though they can otherwise pass for humans, maenads appear bestial when raging or engaging in a bloody revel. They consume massive amounts of wine and food, cause fights, and tear their foes limb from limb. They control people's minds, subconsciously inviting them to engage in their bloody festivities and fostering urges that lead to excesses of hunger, lust, anger, and violence. Maenads can live for thousands of years. They insinuate themselves into normal society before attempting to influence the community. They travel their entire lives in search of creatures to influence into debauchery, cannibalism, and gluttony.

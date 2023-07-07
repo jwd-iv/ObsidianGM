@@ -71,8 +71,16 @@ Temperature: any
 Organization: solitary, pair, or gang (3-5)
 Treasure: NPC gear (leather armor, rapier, daggers (12), backpack, grappling
   hook, hooded lantern, oil (5), rations (3), silk rope, thieves' tools, 25 gp)
-Description: >
-  Generally taller than humans, elves possess a graceful, slender
+Race: Elf
+Class: rogue 1
+MR:
+Copyright:
+  Content: d20pfsrd
+---
+```dataviewjs
+customJS.Statblock.printMonsterWiki(dv)
+```
+Generally taller than humans, elves possess a graceful, slender
   physique that is accentuated by their long, pointed ears.   Elf Characters
   Elves are defined by their class levels-they do not possess racial HD. They
   have the following racial traits.  • Ability Score Racial Traits: Elves are
@@ -94,12 +102,3 @@ Description: >
   shortbows (including composite shortbows), and treat any weapon with the word
   "elven" in its name as a martial weapon.  • Low-Light Vision: Elves can see
   twice as far as humans in conditions of dim light.
-Race: Elf
-Class: rogue 1
-MR:
-Copyright:
-  Content: d20pfsrd
----
-```dataviewjs
-customJS.Statblock.printMonsterWiki(dv)
-```

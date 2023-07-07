@@ -72,7 +72,6 @@ Environment: underground
 Temperature: any
 Organization: solitary
 Treasure: incidental
-Description: The taint of demonkind has long corrupted the troglodyte bloodline. Each generation a few mutant creatures marked with the taint of the Abyss are born, and fiendish deformities and stillbirths reeking of brimstone are all too common. The rapacious slaugrak is one of these fiendish mutants.  A slaugrak is born with an unnatural and incessant hunger for living flesh. Young slaugraks grow at an unnatural rate, reaching full and awful maturity in just 2 weeks. From birth, a slaugrak is little more than a walking collection of fangs and claws with no thought other than to slay and eat.  Slaugraks are sterile and solitary, holding no special love for troglodytes. A well-fed captive slaugrak might form an affectionate bond with its troglodyte keeper, but this affection merely makes the slaugrak more likely to eat its keeper last.  A typical slaugrak stands 12 to 14 feet tall and weighs 6,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The taint of demonkind has long corrupted the troglodyte bloodline. Each generation a few mutant creatures marked with the taint of the Abyss are born, and fiendish deformities and stillbirths reeking of brimstone are all too common. The rapacious slaugrak is one of these fiendish mutants.  A slaugrak is born with an unnatural and incessant hunger for living flesh. Young slaugraks grow at an unnatural rate, reaching full and awful maturity in just 2 weeks. From birth, a slaugrak is little more than a walking collection of fangs and claws with no thought other than to slay and eat.  Slaugraks are sterile and solitary, holding no special love for troglodytes. A well-fed captive slaugrak might form an affectionate bond with its troglodyte keeper, but this affection merely makes the slaugrak more likely to eat its keeper last.  A typical slaugrak stands 12 to 14 feet tall and weighs 6,000 pounds.

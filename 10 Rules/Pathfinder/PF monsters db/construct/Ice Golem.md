@@ -71,7 +71,6 @@ Environment: any
 Temperature: cold
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: Ice golems are humanoid automatons formed of carved ice. Their appearance can range from roughly chiseled figures of ice and snow to elaborately detailed ice sculptures and beautiful crystalline statues. Ice golems cannot speak, and move with the sound of cracking and popping ice. An ice golem stands 7 feet tall and weighs 500 pounds. Construction An ice golem's body must be constructed from a single block of ice weighing at least 1,000 pounds. The ice is treated with magical powders and unguents worth at least 500 gp. Ice Golem CL 12th; Price 18,500 gp Construction Requirements Craft Construct, chill touch, cone of cold, geas/ quest, ice storm, resist energy (cold), creator must be caster level 12th; Skill Craft (sculptures) DC 17; Cost 9,500 gp
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ice golems are humanoid automatons formed of carved ice. Their appearance can range from roughly chiseled figures of ice and snow to elaborately detailed ice sculptures and beautiful crystalline statues. Ice golems cannot speak, and move with the sound of cracking and popping ice. An ice golem stands 7 feet tall and weighs 500 pounds. Construction An ice golem's body must be constructed from a single block of ice weighing at least 1,000 pounds. The ice is treated with magical powders and unguents worth at least 500 gp. Ice Golem CL 12th; Price 18,500 gp Construction Requirements Craft Construct, chill touch, cone of cold, geas/ quest, ice storm, resist energy (cold), creator must be caster level 12th; Skill Craft (sculptures) DC 17; Cost 9,500 gp

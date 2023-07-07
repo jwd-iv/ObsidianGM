@@ -67,7 +67,6 @@ Environment: plains/urban
 Temperature: hot/temperate
 Organization: solitary, pair, or pack (3-12)
 Treasure: none
-Description: Cats typically weigh 5-15 pounds when fully grown.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Cats typically weigh 5-15 pounds when fully grown.

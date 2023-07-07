@@ -78,7 +78,6 @@ Environment: oceans
 Temperature: warm
 Organization: solitary, pair, or shoal (3-22)
 Treasure: standard
-Description: The bane of fishermen and divers, ningyos lurk in tropical waters, gorging themselves on fish and attacking anything they can sink their tiny fangs into. Primitive, miniature mer-monsters, ningyos are frightening bogeymen of the sea, often attacking seagoers, ships, and fishing tackle out of blind hunger. These terrors swarm by night and can easily drag opponents down to drown amid a swarm of claws and needling teeth. A slain ningyo always returns to life by night, adopting old habits or searching for its killer, and reverting to a corpse at dawn. Sometimes its corpse washes up on shore as a gruesome and fascinating curiosity, animating the next night to attack its would-be collector. A ningyo measures approximately 2 to 2-1/2 feet long from head to tail, and weighs 6 to 9 pounds.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The bane of fishermen and divers, ningyos lurk in tropical waters, gorging themselves on fish and attacking anything they can sink their tiny fangs into. Primitive, miniature mer-monsters, ningyos are frightening bogeymen of the sea, often attacking seagoers, ships, and fishing tackle out of blind hunger. These terrors swarm by night and can easily drag opponents down to drown amid a swarm of claws and needling teeth. A slain ningyo always returns to life by night, adopting old habits or searching for its killer, and reverting to a corpse at dawn. Sometimes its corpse washes up on shore as a gruesome and fascinating curiosity, animating the next night to attack its would-be collector. A ningyo measures approximately 2 to 2-1/2 feet long from head to tail, and weighs 6 to 9 pounds.

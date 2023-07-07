@@ -73,7 +73,6 @@ Environment: water (Nirvana)
 Temperature: any
 Organization: solitary, pair, or pod (3-6)
 Treasure: double (+1 shocking burst shortspear, other treasure)
-Description: Cetaceals are great waterdwelling agathions who swim the planar seas and commune with the creatures of the deeps.  Rarely seen by landwalkers, they defend the waters against aquatic evils such as aboleths. Their spirits usually were those of great mortal leaders of aquatic or coastal tribes, or good folk who died underwater serving some great cause, reborn in a celestial form that is part humanoid, part orca. They are social beings and develop close friendships with other celestials and marine creatures.  A cetaceal is 8 feet long and weighs 400 pounds, although some grow quite a bit larger than that.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Cetaceals are great waterdwelling agathions who swim the planar seas and commune with the creatures of the deeps.  Rarely seen by landwalkers, they defend the waters against aquatic evils such as aboleths. Their spirits usually were those of great mortal leaders of aquatic or coastal tribes, or good folk who died underwater serving some great cause, reborn in a celestial form that is part humanoid, part orca. They are social beings and develop close friendships with other celestials and marine creatures.  A cetaceal is 8 feet long and weighs 400 pounds, although some grow quite a bit larger than that.

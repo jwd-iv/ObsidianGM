@@ -72,7 +72,6 @@ Environment: forest
 Temperature: any
 Organization: solitary
 Treasure: incidental
-Description: A wolf-in-sheep's-clothing appears at first to be little more than a tree stump sitting in a clearing, perhaps with a small animal sitting atop it. Only when a predator comes close does it become clear that the small animal is in fact long dead, given false life by tendrils springing up through its form, but by then it's too late, as the wolf-in-sheep's-clothing drags the would-be hunter into its waiting maw.  Though intelligent, these monsters see little need for the company of others. Their method of reproduction is as hideous as their tactic of using corpses as lures, for they implant their parasitic eggs in living hosts, giving their spawn a fresh meal to eat upon hatching.  A wolf-in-sheep's-clothing is usually about 4 to 5 feet across and weighs 200 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A wolf-in-sheep's-clothing appears at first to be little more than a tree stump sitting in a clearing, perhaps with a small animal sitting atop it. Only when a predator comes close does it become clear that the small animal is in fact long dead, given false life by tendrils springing up through its form, but by then it's too late, as the wolf-in-sheep's-clothing drags the would-be hunter into its waiting maw.  Though intelligent, these monsters see little need for the company of others. Their method of reproduction is as hideous as their tactic of using corpses as lures, for they implant their parasitic eggs in living hosts, giving their spawn a fresh meal to eat upon hatching.  A wolf-in-sheep's-clothing is usually about 4 to 5 feet across and weighs 200 pounds.

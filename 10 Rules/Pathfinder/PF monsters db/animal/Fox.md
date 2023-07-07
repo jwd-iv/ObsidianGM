@@ -66,7 +66,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or skulk (3-12)
 Treasure: none
-Description: This cunning yet wary animal pounces on live prey.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This cunning yet wary animal pounces on live prey.

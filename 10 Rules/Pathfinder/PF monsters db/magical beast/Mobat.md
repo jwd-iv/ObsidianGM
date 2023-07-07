@@ -67,7 +67,6 @@ Environment: forest/hills/underground
 Temperature: temperate/warm
 Organization: solitary or colony (2-8)
 Treasure: incidental
-Description: Mobats are magical giant bats with wolfish grins and immense wingspans. Survivors of a lost era, they are rarely seen beyond the dark forests and deep caves they haunt.  Although mobats are omnivores, they vastly prefer the flavor of fresh meat over that of other prey.  Mobats' fur varies in coloration, from deep auburn to almost black, and their skin is black. A mobat's wingspan is 15 feet across, and it weighs 250 pounds.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Mobats are magical giant bats with wolfish grins and immense wingspans. Survivors of a lost era, they are rarely seen beyond the dark forests and deep caves they haunt.  Although mobats are omnivores, they vastly prefer the flavor of fresh meat over that of other prey.  Mobats' fur varies in coloration, from deep auburn to almost black, and their skin is black. A mobat's wingspan is 15 feet across, and it weighs 250 pounds.

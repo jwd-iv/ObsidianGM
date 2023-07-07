@@ -73,7 +73,6 @@ Environment: aquatic/underground
 Temperature: cold
 Organization: solitary, pair, gang (3-5), or tribe (6-14)
 Treasure: standard
-Description: In the darkest depths of the earth, in strange frozen rivers and subterranean lakes of frigid black water dwell the mysterious and ferocious chardas. These xenophobic humanoids rarely venture far from their domains, settling in small tribes and building rocky huts underwater or muddy domes along the subterranean shore.  A typical charda stands just under 4 feet tall but weighs 250 pounds. Chardas reproduce by laying eggs in small clutches of two to four, which they bury among rocks offshore. Females fiercely protect their own clutches, but show no predisposition toward protecting the clutches of other chardas, even those within their tribe.  Devoutly religious, chardas prefer to worship gods of war or cold. They hunt in small packs composed of both males and females. Hunting and slaying help determine an individual's power within the group. Chardas often engage in infanticide and cannibalism. While they patrol their territories in groups, they fight individually with little strategy or structure. Chardas do not assist each other with their kills, as they perceive aid as a weakness and a dishonor to both themselves and their foes.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+In the darkest depths of the earth, in strange frozen rivers and subterranean lakes of frigid black water dwell the mysterious and ferocious chardas. These xenophobic humanoids rarely venture far from their domains, settling in small tribes and building rocky huts underwater or muddy domes along the subterranean shore.  A typical charda stands just under 4 feet tall but weighs 250 pounds. Chardas reproduce by laying eggs in small clutches of two to four, which they bury among rocks offshore. Females fiercely protect their own clutches, but show no predisposition toward protecting the clutches of other chardas, even those within their tribe.  Devoutly religious, chardas prefer to worship gods of war or cold. They hunt in small packs composed of both males and females. Hunting and slaying help determine an individual's power within the group. Chardas often engage in infanticide and cannibalism. While they patrol their territories in groups, they fight individually with little strategy or structure. Chardas do not assist each other with their kills, as they perceive aid as a weakness and a dishonor to both themselves and their foes.

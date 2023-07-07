@@ -69,7 +69,6 @@ Environment: any (Abaddon)
 Temperature: any
 Organization: solitary or infestation (2-6)
 Treasure: standard
-Description: These brutal daemons personify death resulting from violent insanity, such as being murdered by a maniac or torn to shreds by a pack of rabid predators. These insectoid creatures roam the Outer Planes, scavenging battlefields and following the inevitable trail of violence in those hostile worlds. They hunt the weak and dying along the fringe of battles, feeding off their victims' suffering until they make their kill. Attacks from a derghodaemon often come from within a cloud of biting insects.  Brutish and low on intellect, derghodaemons find themselves serving as front-line fighters in fiendish armies. A derghodaemon stands 9 feet tall and weighs 800 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These brutal daemons personify death resulting from violent insanity, such as being murdered by a maniac or torn to shreds by a pack of rabid predators. These insectoid creatures roam the Outer Planes, scavenging battlefields and following the inevitable trail of violence in those hostile worlds. They hunt the weak and dying along the fringe of battles, feeding off their victims' suffering until they make their kill. Attacks from a derghodaemon often come from within a cloud of biting insects.  Brutish and low on intellect, derghodaemons find themselves serving as front-line fighters in fiendish armies. A derghodaemon stands 9 feet tall and weighs 800 pounds.

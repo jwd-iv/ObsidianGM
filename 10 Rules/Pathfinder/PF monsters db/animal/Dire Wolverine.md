@@ -69,7 +69,6 @@ Environment: forest
 Temperature: cold
 Organization: solitary or pair
 Treasure: none
-Description: Dire wolverines tend to be even more territorial than their smaller wolverine cousins, and they defend to the death the areas where they choose to live, often selecting humanoidsettled regions as their own and then fearlessly tearing the settlements apart.  Dire wolverines grow to about 12 feet in length and can weigh as much as 2,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dire wolverines tend to be even more territorial than their smaller wolverine cousins, and they defend to the death the areas where they choose to live, often selecting humanoidsettled regions as their own and then fearlessly tearing the settlements apart.  Dire wolverines grow to about 12 feet in length and can weigh as much as 2,000 pounds.

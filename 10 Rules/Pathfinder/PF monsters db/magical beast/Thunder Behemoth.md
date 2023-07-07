@@ -78,7 +78,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pair
 Treasure: none
-Description: Thunder behemoths walk the land as little more than roving appetites, driven by an all-consuming hunger to devour every animal, plant, and even building in sight. They indiscriminately gorge their five seemingly bottomless stomachs on forests and jungles, collapse mine and mountain alike in search of ore, and raze settlements and strongholds for the cowering morsels within.  Thunder behemoths are sent by the gods to destroy wicked cities, raze great temples or monuments that offend divine eyes, and otherwise act as instruments of divine wrath on the surface of a world or just below it. The days before a thunder behemoth arrives are fraught with minor but unnerving earthquakes, mass exoduses of burrowing animals to the surface, and an increase in fallen trees and sinkholes.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Thunder behemoths walk the land as little more than roving appetites, driven by an all-consuming hunger to devour every animal, plant, and even building in sight. They indiscriminately gorge their five seemingly bottomless stomachs on forests and jungles, collapse mine and mountain alike in search of ore, and raze settlements and strongholds for the cowering morsels within.  Thunder behemoths are sent by the gods to destroy wicked cities, raze great temples or monuments that offend divine eyes, and otherwise act as instruments of divine wrath on the surface of a world or just below it. The days before a thunder behemoth arrives are fraught with minor but unnerving earthquakes, mass exoduses of burrowing animals to the surface, and an increase in fallen trees and sinkholes.

@@ -73,7 +73,6 @@ Environment: any (evil plane)
 Temperature: any
 Organization: solitary, mounted (1 and 1 nightmare), or coven (3 hags of any type)
 Treasure: standard
-Description: Terrifying murderesses and greedy soul brokers, night hags prey upon mortals while they're most vulnerable.  Preferring to kill their prey slowly, haunting their dreams night after night, these hags trap the tormented souls of their victims within dark gems so they might be sold in the infernal markets of the outer planes. Night hags vary widely in appearance, standing between 5-1/2 and 7 feet tall, and weighing from 150 to 300 pounds.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Terrifying murderesses and greedy soul brokers, night hags prey upon mortals while they're most vulnerable.  Preferring to kill their prey slowly, haunting their dreams night after night, these hags trap the tormented souls of their victims within dark gems so they might be sold in the infernal markets of the outer planes. Night hags vary widely in appearance, standing between 5-1/2 and 7 feet tall, and weighing from 150 to 300 pounds.

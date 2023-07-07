@@ -70,7 +70,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, or pack (3-6)
 Treasure: none
-Description: Ratfolk have just as much enthusiasm for alchemy as they do for rodents, and they combined these two interests to create the kirrix-the result of generations of riding rat husbandry combined with regular infusions. These alchemical modifications have given kirrixes six legs and the ability to consume and transmit diseases without ill effect to the creatures themselves.  Many ratfolk settlements raise these gregarious creatures, with whom the ratfolk share their warrens in a symbiotic relationship. The kirrixes prowl the ratfolk tunnels and act as scavengers-searching for unfamiliar scents, consuming detritus, and removing harmful diseases from the ratfolk settlement. If the warren comes under attack, the kirrixes act as guards, and squeeze through or block tunnels as necessary to buy time for their ratfolk allies to escape.  A typical adult kirrix is 9 feet long and usually weighs under 500 pounds.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ratfolk have just as much enthusiasm for alchemy as they do for rodents, and they combined these two interests to create the kirrix-the result of generations of riding rat husbandry combined with regular infusions. These alchemical modifications have given kirrixes six legs and the ability to consume and transmit diseases without ill effect to the creatures themselves.  Many ratfolk settlements raise these gregarious creatures, with whom the ratfolk share their warrens in a symbiotic relationship. The kirrixes prowl the ratfolk tunnels and act as scavengers-searching for unfamiliar scents, consuming detritus, and removing harmful diseases from the ratfolk settlement. If the warren comes under attack, the kirrixes act as guards, and squeeze through or block tunnels as necessary to buy time for their ratfolk allies to escape.  A typical adult kirrix is 9 feet long and usually weighs under 500 pounds.

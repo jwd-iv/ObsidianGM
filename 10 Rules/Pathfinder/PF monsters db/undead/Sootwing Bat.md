@@ -68,7 +68,6 @@ Environment: any
 Temperature: any
 Organization: solitary or colony (4-12)
 Treasure: none
-Description: Ghoul spellcasters use these smaller cousins to skavelings as familiars. An evil spellcaster can gain a sootwing bat as a familiar at 5th level by taking the Improved Familiar feat. A sootwing bat familiar grants its master a +1 bonus to channel resistance (if the master has any).
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ghoul spellcasters use these smaller cousins to skavelings as familiars. An evil spellcaster can gain a sootwing bat as a familiar at 5th level by taking the Improved Familiar feat. A sootwing bat familiar grants its master a +1 bonus to channel resistance (if the master has any).

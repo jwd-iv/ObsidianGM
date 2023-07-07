@@ -67,7 +67,6 @@ Environment: hills
 Temperature: temperate
 Organization: solitary
 Treasure: none
-Description: Weasels are predators content with raiding chicken coops or attacking pets when they encounter civilization.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Weasels are predators content with raiding chicken coops or attacking pets when they encounter civilization.

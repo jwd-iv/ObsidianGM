@@ -77,7 +77,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or pack (3-30)
 Treasure: standard
-Description: Akatas hail from a strange, distant planet that long ago succumbed to a cataclysmic end. Countless akatas clung to fragments of the dead planet, entering hibernation and riding these asteroids until they eventually crashed upon a new planet-akatas' cocoons protected them from the impact, and they soon awoke to seek out suitable hosts to spawn their young. Left untended, an akata scourge can quickly grow into a significant threat. A typical akata stands 3-1/2 feet tall and weighs 400 pounds.  VOID ZOMBIE (CR +1)  A humanoid killed by void death becomes a void zombie. A void zombie is a fast zombie (Pathfinder RPG Bestiary page 289) that gains a secondary "tongue" attack (actually the larval akata's feeding tendril), dealing 1d6 points of damage. A void zombie also gains the following special attack.  Blood Drain (Ex) If a void zombie hits a living creature with its tongue attack, it drains blood, dealing 2 points of Strength damage before the tongue detaches.
 Race: 
 Class: 
 MR: 
@@ -87,3 +86,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Akatas hail from a strange, distant planet that long ago succumbed to a cataclysmic end. Countless akatas clung to fragments of the dead planet, entering hibernation and riding these asteroids until they eventually crashed upon a new planet-akatas' cocoons protected them from the impact, and they soon awoke to seek out suitable hosts to spawn their young. Left untended, an akata scourge can quickly grow into a significant threat. A typical akata stands 3-1/2 feet tall and weighs 400 pounds.  VOID ZOMBIE (CR +1)  A humanoid killed by void death becomes a void zombie. A void zombie is a fast zombie (Pathfinder RPG Bestiary page 289) that gains a secondary "tongue" attack (actually the larval akata's feeding tendril), dealing 1d6 points of damage. A void zombie also gains the following special attack.  Blood Drain (Ex) If a void zombie hits a living creature with its tongue attack, it drains blood, dealing 2 points of Strength damage before the tongue detaches.

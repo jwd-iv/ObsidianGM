@@ -69,7 +69,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, or pod (3-16)
 Treasure: none
-Description: Whales are frequently hunted for their meat and the valuable oil in their blubber. Baleen whales have no teeth and attack with a tail slap; toothed whales like sperm whales instead attack with a bite. Whale companions are smaller species- rules for such companions are the same as those for orcas (see page 88 of the Pathfinder RPG Bestiary.)
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Whales are frequently hunted for their meat and the valuable oil in their blubber. Baleen whales have no teeth and attack with a tail slap; toothed whales like sperm whales instead attack with a bite. Whale companions are smaller species- rules for such companions are the same as those for orcas (see page 88 of the Pathfinder RPG Bestiary.)

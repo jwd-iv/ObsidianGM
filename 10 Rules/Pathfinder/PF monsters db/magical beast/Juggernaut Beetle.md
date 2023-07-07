@@ -68,7 +68,6 @@ Environment: underground
 Temperature: any
 Organization: single or pair
 Treasure: none
-Description: One duergar steers a juggernaut while two riders attack.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+One duergar steers a juggernaut while two riders attack.

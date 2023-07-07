@@ -65,7 +65,6 @@ Environment: any
 Temperature: temperate
 Organization: solitary, pair, flock (3-12), or unkindness (13-100)
 Treasure: none
-Description: The raven is an omnivorous scavenger that eats carrion, insects, food waste, berries, and even small animals.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The raven is an omnivorous scavenger that eats carrion, insects, food waste, berries, and even small animals.

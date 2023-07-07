@@ -65,8 +65,6 @@ Environment: oceans
 Temperature: warm
 Organization: solitary, pair, or flight (3-12)
 Treasure: none
-Description: >
-  These fish are nonaggressive and generally avoid contact with other creatures. They filter plankton and similar small organisms from the water through their gaping, toothless maws.  Manta Ray Companion Starting Statistics: Size Medium; Speed swim 60 ft.; AC +1 natural; Attack tail slap (1d4); Ability Scores Str 8, Dex 15, Con 11, Int 1, Wis 13, Cha 2; Special Qualities low-light vision.  4th-Level Advancement: Size: Large; AC +2 natural armor; Attack tail slap (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities blindsense 30 ft.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These fish are nonaggressive and generally avoid contact with other creatures. They filter plankton and similar small organisms from the water through their gaping, toothless maws.  Manta Ray Companion Starting Statistics: Size Medium; Speed swim 60 ft.; AC +1 natural; Attack tail slap (1d4); Ability Scores Str 8, Dex 15, Con 11, Int 1, Wis 13, Cha 2; Special Qualities low-light vision.  4th-Level Advancement: Size: Large; AC +2 natural armor; Attack tail slap (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities blindsense 30 ft.

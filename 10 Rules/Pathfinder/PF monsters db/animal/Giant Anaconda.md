@@ -65,7 +65,6 @@ Environment: swamps
 Temperature: warm
 Organization: solitary or pair
 Treasure: none
-Description: Of the multitude of slithering predators that infest jungles, forests, and swamps, few inspire such terror as the giant anaconda. Incredibly strong, fearless hunters, these creatures are capable of taking down and eating elephants, dinosaurs, and giants. Their olive green and black mottled scales afford them exceptional camouf lage in the murky waters they call home. A giant anaconda can grow to a length of 60 feet.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Of the multitude of slithering predators that infest jungles, forests, and swamps, few inspire such terror as the giant anaconda. Incredibly strong, fearless hunters, these creatures are capable of taking down and eating elephants, dinosaurs, and giants. Their olive green and black mottled scales afford them exceptional camouf lage in the murky waters they call home. A giant anaconda can grow to a length of 60 feet.

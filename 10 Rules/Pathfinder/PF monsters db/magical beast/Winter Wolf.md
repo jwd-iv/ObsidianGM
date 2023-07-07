@@ -65,7 +65,6 @@ Environment: forest/plains
 Temperature: cold
 Organization: solitary, pair, or pack (6-11)
 Treasure: standard
-Description: Winter wolves are larger, smarter, more ferocious variants of worgs with white fur and a deadly breath weapon. A typical winter wolf is 8 feet long, stands 4-1/2 feet tall at the shoulder, and weighs about 450 pounds. Winter wolves will often ally themselves with frost giants, hill giants, and other large humanoids, serving entire tribes of giants as both scouts and guards.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Winter wolves are larger, smarter, more ferocious variants of worgs with white fur and a deadly breath weapon. A typical winter wolf is 8 feet long, stands 4-1/2 feet tall at the shoulder, and weighs about 450 pounds. Winter wolves will often ally themselves with frost giants, hill giants, and other large humanoids, serving entire tribes of giants as both scouts and guards.

@@ -65,7 +65,6 @@ Environment: plains
 Temperature: warm
 Organization: solitary, pair, or pack (3-8)
 Treasure: incidental
-Description: Dire hyenas (known to many as hyaenodons) are more fearsome than their smaller cousins. While hyaenodons won't turn down carrion as a handy meal, they much prefer to hunt for prey. A pack of dire hyenas rarely stops moving and hunting for anything other than sleep, mating, or food. Hyaenodons are 6 feet tall at the shoulder and often over 12 feet long. They weigh 900 pounds. Gnolls have been known to train hyaenodons to serve in their lairs as guardians, or more commonly as fearsome mounts.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dire hyenas (known to many as hyaenodons) are more fearsome than their smaller cousins. While hyaenodons won't turn down carrion as a handy meal, they much prefer to hunt for prey. A pack of dire hyenas rarely stops moving and hunting for anything other than sleep, mating, or food. Hyaenodons are 6 feet tall at the shoulder and often over 12 feet long. They weigh 900 pounds. Gnolls have been known to train hyaenodons to serve in their lairs as guardians, or more commonly as fearsome mounts.

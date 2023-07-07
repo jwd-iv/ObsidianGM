@@ -75,7 +75,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, or grove (3-8)
 Treasure: standard (dagger, masterwork longbow with 20  arrows, other treasure)
-Description: Dryads are tree-fey who prefer secluded woodlands far from humanoids in need of lumber. Dryads' main interests are their own survival and that of their beloved forests, and they have been known to magically coerce passersby into aiding them in tasks they cannot complete. They are more likely to be friendly to non-evil druids and rangers, as they recognize a mutual respect for or empathy with nature.  Dryads are benign guardians of trees, and though they can do little in the way of direct violence, they can trap and disable threats to their homes or turn enemies into allies.  Some keep one or more charmed humanoids in their territory to fend off or lead away attackers. Incapacitated foes are typically dragged to the edge of the forest by the dryad's allies and left there, but evil or overtly hostile ones are killed once combat is over.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dryads are tree-fey who prefer secluded woodlands far from humanoids in need of lumber. Dryads' main interests are their own survival and that of their beloved forests, and they have been known to magically coerce passersby into aiding them in tasks they cannot complete. They are more likely to be friendly to non-evil druids and rangers, as they recognize a mutual respect for or empathy with nature.  Dryads are benign guardians of trees, and though they can do little in the way of direct violence, they can trap and disable threats to their homes or turn enemies into allies.  Some keep one or more charmed humanoids in their territory to fend off or lead away attackers. Incapacitated foes are typically dragged to the edge of the forest by the dryad's allies and left there, but evil or overtly hostile ones are killed once combat is over.

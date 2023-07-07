@@ -69,7 +69,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary
 Treasure: incidental
-Description: The giant octopus is a true monster capable of catching and eating sharks, humans, or anything else it can grab with its tentacles.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The giant octopus is a true monster capable of catching and eating sharks, humans, or anything else it can grab with its tentacles.

@@ -72,7 +72,6 @@ Environment: forest
 Temperature: any
 Organization: solitary
 Treasure: standard (masterwork half-plate, longsword, other treasure)
-Description: Humbabas are monstrous humanoids of tremendous size and power that prowl the forgotten places of the world. Although a humbaba has the body of a powerful, muscular human, its face is a twisted mockery that seems more leonine than human. They often braid portions of their manes or otherwise decorate them with skulls and weapons, and prefer to wear half-plate armor and fight with longswords.  The first humbabas were once the favored minions of the demon lord Pazuzu. In those days, humbabas had magnificent birdlike wings. But when the mightiest of the humbabas dared to attack Pazuzu in an ill-conceived attempt to claim the demon lord's throne, Pazuzu punished the entire humbaba race by stripping them of their wings and casting them into the Material Plane. There they now dwell, forever denied the skies and cursed to live lonely lives, incapable of forming even the barest of friendships or alliances with others of their kind.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Humbabas are monstrous humanoids of tremendous size and power that prowl the forgotten places of the world. Although a humbaba has the body of a powerful, muscular human, its face is a twisted mockery that seems more leonine than human. They often braid portions of their manes or otherwise decorate them with skulls and weapons, and prefer to wear half-plate armor and fight with longswords.  The first humbabas were once the favored minions of the demon lord Pazuzu. In those days, humbabas had magnificent birdlike wings. But when the mightiest of the humbabas dared to attack Pazuzu in an ill-conceived attempt to claim the demon lord's throne, Pazuzu punished the entire humbaba race by stripping them of their wings and casting them into the Material Plane. There they now dwell, forever denied the skies and cursed to live lonely lives, incapable of forming even the barest of friendships or alliances with others of their kind.

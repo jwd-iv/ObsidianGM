@@ -78,7 +78,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pair
 Treasure: none
-Description: A cannon golem's internal workings are a mechanical labyrinth; its extradimensional pockets constantly process new black powder. A cannon golem stands 12 feet tall.  Construction  A cannon golem is built from 2,000 pounds of adamantine, brass, cold iron, and mithral.  CANNON GOLEM  CL 17th; Price 200,000 gp  Construction  Requirements Craft Construct, geas/quest, limited wish, plane shift or secret chest, creator must be caster level 17th; Skill Craft (siege engine) and Knowledge (engineering) DC 25; Cost 105,000 gp
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A cannon golem's internal workings are a mechanical labyrinth; its extradimensional pockets constantly process new black powder. A cannon golem stands 12 feet tall.  Construction  A cannon golem is built from 2,000 pounds of adamantine, brass, cold iron, and mithral.  CANNON GOLEM  CL 17th; Price 200,000 gp  Construction  Requirements Craft Construct, geas/quest, limited wish, plane shift or secret chest, creator must be caster level 17th; Skill Craft (siege engine) and Knowledge (engineering) DC 25; Cost 105,000 gp

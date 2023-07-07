@@ -80,7 +80,6 @@ Environment: any
 Temperature: any
 Organization: solitary or mobile fortification (1 plus 6-12 Medium humanoid archers)
 Treasure: none
-Description: Standing 70 feet tall and weighing 300 tons, a stone colossus is a walking fortress.  Construction  The body of a stone colossus costs 40,000 gp.  STONE COLOSSUS  CL 15th; Price 300,000 gp  Construction  Requirements Craft Construct, Mythic Crafter, mythic rank or tier 8, antimagic field, magnificent mansion, make whole, wall of stone, wish; Skill Craft (stonemasonry) DC 30; Cost 170,000 gp
 Race: 
 Class: 
 MR: 7
@@ -90,3 +89,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Standing 70 feet tall and weighing 300 tons, a stone colossus is a walking fortress.  Construction  The body of a stone colossus costs 40,000 gp.  STONE COLOSSUS  CL 15th; Price 300,000 gp  Construction  Requirements Craft Construct, Mythic Crafter, mythic rank or tier 8, antimagic field, magnificent mansion, make whole, wall of stone, wish; Skill Craft (stonemasonry) DC 30; Cost 170,000 gp

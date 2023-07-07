@@ -85,7 +85,6 @@ Environment: water
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Infused with the power of waves and storms, sea dragons- or jiaolungs, as they are known in many lands-are draconic protectors of oceans and their creatures. Possessing tempestuous natures, sea dragons wander widely, sometimes claiming thousands of miles of ocean and coastlines as their protectorates.
 Race: 
 Class: 
 MR: 
@@ -95,3 +94,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Infused with the power of waves and storms, sea dragons- or jiaolungs, as they are known in many lands-are draconic protectors of oceans and their creatures. Possessing tempestuous natures, sea dragons wander widely, sometimes claiming thousands of miles of ocean and coastlines as their protectorates.

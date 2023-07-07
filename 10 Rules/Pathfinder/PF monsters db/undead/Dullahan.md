@@ -71,7 +71,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: double (+1 full plate, +1 longsword, other treasure)
-Description: Terrifying reapers of souls, dullahans are created by powerful fiends from the souls of particularly cruel generals, watch-captains, or other military commanders.  Sent back from the pits of Hell to sow terror and harvest new souls, dullahans return to the towns or villages they lived in as mortals. While their favored victims are evil men and women (or their living descendants) whose souls are destined for Hell, the dullahans have no qualms about adding innocents to their lists of victims.  Legends tell of powerful dullahans who can summon not just a single fiendish mount, but an entire carriage pulled by six powerful ebony horses. Known as a "Coach of the Silent," these powerful undead are CR 14 with 20 Hit Dice, the advanced creature simple template, and the ability to cast trap the soul on those who fail to resist their death's calling. These souls take seats in the coach, where they languish forever-or at least until the dullahan himself is slain.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Terrifying reapers of souls, dullahans are created by powerful fiends from the souls of particularly cruel generals, watch-captains, or other military commanders.  Sent back from the pits of Hell to sow terror and harvest new souls, dullahans return to the towns or villages they lived in as mortals. While their favored victims are evil men and women (or their living descendants) whose souls are destined for Hell, the dullahans have no qualms about adding innocents to their lists of victims.  Legends tell of powerful dullahans who can summon not just a single fiendish mount, but an entire carriage pulled by six powerful ebony horses. Known as a "Coach of the Silent," these powerful undead are CR 14 with 20 Hit Dice, the advanced creature simple template, and the ability to cast trap the soul on those who fail to resist their death's calling. These souls take seats in the coach, where they languish forever-or at least until the dullahan himself is slain.

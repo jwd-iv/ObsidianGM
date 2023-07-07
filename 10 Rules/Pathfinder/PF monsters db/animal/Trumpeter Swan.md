@@ -68,8 +68,6 @@ Environment: lakes/swamps
 Temperature: temperate
 Organization: solitary, pair, or flock (3-10)
 Treasure: none
-Description: >
-  Swans are large and aggressive waterfowl. The average adult trumpeter swan is 5 feet long and weighs around 25 pounds.  Trumpeter Swan Companions  Starting Statistics: Size Small; Speed 10 ft., fly 80 ft. (average); Attack bite (1d4), 2 wings (1d3); Ability Scores Str 10, Dex 15, Con 12, Int 2, Wis 12, Cha 5; SQ low-light vision. 4th-Level Advancement: Ability Scores Str +2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Swans are large and aggressive waterfowl. The average adult trumpeter swan is 5 feet long and weighs around 25 pounds.  Trumpeter Swan Companions  Starting Statistics: Size Small; Speed 10 ft., fly 80 ft. (average); Attack bite (1d4), 2 wings (1d3); Ability Scores Str 10, Dex 15, Con 12, Int 2, Wis 12, Cha 5; SQ low-light vision. 4th-Level Advancement: Ability Scores Str +2, Con +2.

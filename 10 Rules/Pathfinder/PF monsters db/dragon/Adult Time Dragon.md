@@ -89,7 +89,6 @@ Environment: vacuum
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Guardians of history, time dragons are the most powerful of the outer dragons. Watchers and waiters, time dragons guard the universe against those that would interfere with the natural temporal order.
 Race: 
 Class: 
 MR: 
@@ -99,3 +98,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Guardians of history, time dragons are the most powerful of the outer dragons. Watchers and waiters, time dragons guard the universe against those that would interfere with the natural temporal order.

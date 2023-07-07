@@ -73,8 +73,6 @@ Environment: any (Plane of Water)
 Temperature: any
 Organization: solitary, pair, company (`dice:d4+2`), or band (`dice:d6+6`)
 Treasure: standard (masterwork trident, other gear)
-Description: >
-  Marids are genies from the Plane of Water. The most powerful of all the genie races, they are said to possess the strength of the ocean's currents and teeth made of pearl. A marid stands about 16 feet tall and weighs nearly 2,500 pounds. The marids are perhaps the most unpredictable and capricious of the genies, a quality that the others (particularly shaitans) find to be both aggravating and embarrassing to the entire genie culture. Many marids become dancers, storytellers, performers, or other types of artists, and often travel to the Material Plane in disguise to seek out new audiences. A small percentage of marids can lay claim to nobility. Noble marids, often called shahzadas, have 14 Hit Dice and gain the following spell-like abilities: 3/day-cone of cold, ice storm; 1/day-elemental swarm (water elementals only), permanent image. A noble marid's caster level for its spell-like abilities is 20th. Noble marids are CR 11.
 Race: 
 Class: 
 MR: 
@@ -84,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Marids are genies from the Plane of Water. The most powerful of all the genie races, they are said to possess the strength of the ocean's currents and teeth made of pearl. A marid stands about 16 feet tall and weighs nearly 2,500 pounds. The marids are perhaps the most unpredictable and capricious of the genies, a quality that the others (particularly shaitans) find to be both aggravating and embarrassing to the entire genie culture. Many marids become dancers, storytellers, performers, or other types of artists, and often travel to the Material Plane in disguise to seek out new audiences. A small percentage of marids can lay claim to nobility. Noble marids, often called shahzadas, have 14 Hit Dice and gain the following spell-like abilities: 3/day-cone of cold, ice storm; 1/day-elemental swarm (water elementals only), permanent image. A noble marid's caster level for its spell-like abilities is 20th. Noble marids are CR 11.

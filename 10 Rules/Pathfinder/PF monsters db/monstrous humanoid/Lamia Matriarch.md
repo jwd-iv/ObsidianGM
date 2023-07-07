@@ -76,7 +76,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or cult (3-6)
 Treasure: double (2 +1 scimitars, other treasure)
-Description: The queens of a race consumed by bitterness and predatory instinct, lamia matriarchs mastermind all manner of foul plots in hopes of breaking the bestial curse that aff licts their race. They move with shocking ease from silken-tongued temptresses to dervishes, striking with all the deadly precision of vipers. Quick to covet, enslave, and overindulge, lamia matriarchs luxuriate in gory feasts, violent trysts, and bloody entertainments, reveling until their playthings are broken or until they tire and move on.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The queens of a race consumed by bitterness and predatory instinct, lamia matriarchs mastermind all manner of foul plots in hopes of breaking the bestial curse that aff licts their race. They move with shocking ease from silken-tongued temptresses to dervishes, striking with all the deadly precision of vipers. Quick to covet, enslave, and overindulge, lamia matriarchs luxuriate in gory feasts, violent trysts, and bloody entertainments, reveling until their playthings are broken or until they tire and move on.

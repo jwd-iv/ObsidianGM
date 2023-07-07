@@ -68,7 +68,6 @@ Environment: any
 Temperature: any
 Organization: any
 Treasure: none
-Description: Unlike the standard, plodding zombie, a fast zombie moves with a supernatural quickness.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Unlike the standard, plodding zombie, a fast zombie moves with a supernatural quickness.

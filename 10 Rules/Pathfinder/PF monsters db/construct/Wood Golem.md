@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: A wood golem is carved from rare woods, assembled into a roughly humanoid body with articulated limbs. Their creators usually leave their bodies almost unfinished, with individual pieces of lumber and unworked wood apparent and obvious as part of their construction. A wood golem stands 6-1/2 feet tall and weighs 400 pounds.  Construction The pieces of a wood golem are assembled from blocks of fine wood and sprinkled with rare powders and crushed herbs worth at least 300 gp.  Wood Golem CL 7th; Price 19,300 gp Construction Requirements Craft Construct, alarm, animate objects, cat's grace, geas/quest, limited wish, creator must be caster level 12th; Skill Craft (carpentry) DC 17; Cost 8,800 gp
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A wood golem is carved from rare woods, assembled into a roughly humanoid body with articulated limbs. Their creators usually leave their bodies almost unfinished, with individual pieces of lumber and unworked wood apparent and obvious as part of their construction. A wood golem stands 6-1/2 feet tall and weighs 400 pounds.  Construction The pieces of a wood golem are assembled from blocks of fine wood and sprinkled with rare powders and crushed herbs worth at least 300 gp.  Wood Golem CL 7th; Price 19,300 gp Construction Requirements Craft Construct, alarm, animate objects, cat's grace, geas/quest, limited wish, creator must be caster level 12th; Skill Craft (carpentry) DC 17; Cost 8,800 gp

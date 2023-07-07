@@ -72,7 +72,6 @@ Environment: underground
 Temperature: any
 Organization: solitary or rout (2-10)
 Treasure: none
-Description: Grothluts are sluglike abominations with vaguely human heads and torsos, and rubbery arms that move awkwardly at their sides. They shuff le mindlessly until other creatures come into view, then piteously moan before slithering forward to attack and feed. Those moans are the last vestige of their formerly human selves crying for release as slivers of the creatures' intellects are forced to continuously relive their transformation. Many fleshcrafters consider the grothlut a failure, as the transformation all but stamps out its human consciousness. Others disagree, arguing that warping the creature's mind makes it more useful, as its stupidity makes it pliable and easy to herd. The drow typically use grothluts only as guardians to slowly patrol the remote edges of their enclaves. Once in position, though, grothluts can be used as crude shock troops, unleashed to soften enemy forces before more valuable warriors wade in and cut down the enemies who have been nauseated by the grothluts' exploded organs and flesh.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Grothluts are sluglike abominations with vaguely human heads and torsos, and rubbery arms that move awkwardly at their sides. They shuff le mindlessly until other creatures come into view, then piteously moan before slithering forward to attack and feed. Those moans are the last vestige of their formerly human selves crying for release as slivers of the creatures' intellects are forced to continuously relive their transformation. Many fleshcrafters consider the grothlut a failure, as the transformation all but stamps out its human consciousness. Others disagree, arguing that warping the creature's mind makes it more useful, as its stupidity makes it pliable and easy to herd. The drow typically use grothluts only as guardians to slowly patrol the remote edges of their enclaves. Once in position, though, grothluts can be used as crude shock troops, unleashed to soften enemy forces before more valuable warriors wade in and cut down the enemies who have been nauseated by the grothluts' exploded organs and flesh.

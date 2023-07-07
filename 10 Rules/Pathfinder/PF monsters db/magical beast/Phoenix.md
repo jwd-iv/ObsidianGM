@@ -71,7 +71,6 @@ Environment: desert/hills
 Temperature: warm
 Organization: solitary
 Treasure: standard
-Description: The phoenix is a legendary bird of fire that dwells in the most remote parts of the desert. As the birds are known to be great scholars, many seekers of rare lore search out particular phoenixes for advice. Yet it is the phoenix's ability to rebirth itself from its own dead body for which the creature is best known.  The phoenix is a benevolent creature, aiding those who do good and actively harming those who do evil.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The phoenix is a legendary bird of fire that dwells in the most remote parts of the desert. As the birds are known to be great scholars, many seekers of rare lore search out particular phoenixes for advice. Yet it is the phoenix's ability to rebirth itself from its own dead body for which the creature is best known.  The phoenix is a benevolent creature, aiding those who do good and actively harming those who do evil.

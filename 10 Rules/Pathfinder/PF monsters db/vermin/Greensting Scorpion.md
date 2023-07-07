@@ -68,7 +68,6 @@ Environment: forest
 Temperature: temperate/warm
 Organization: solitary, pair, or colony (3-6)
 Treasure: none
-Description: Deadly greensting scorpions normally live in forests, though they can survive nearly anywhere. A greensting scorpion familiar grants a +4 bonus on Initiative checks so long as the familiar is within 1 mile of the spellcaster. A greensting scorpion familiar loses the mindless trait and has an Intelligence score appropriate for its master's level.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Deadly greensting scorpions normally live in forests, though they can survive nearly anywhere. A greensting scorpion familiar grants a +4 bonus on Initiative checks so long as the familiar is within 1 mile of the spellcaster. A greensting scorpion familiar loses the mindless trait and has an Intelligence score appropriate for its master's level.

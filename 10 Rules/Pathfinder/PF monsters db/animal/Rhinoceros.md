@@ -65,8 +65,6 @@ Environment: plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-12)
 Treasure: none
-Description: >
-  The rhinoceros feeds on leafy plants, branches, and even thorny shrubs. Its thick hide is a mottled gray color, and it can run surprisingly fast for a beast of its size. The rhinoceros is notoriously short-tempered and prone to attacking anything it perceives as approaching too closely (generally within a distance of 80 feet-the distance of a single charge-for most rhinos). Rhinoceros Companions Starting Statistics: Size Medium; AC +4 natural; Speed 40 ft.; Attack gore (1d8); Ability Scores Str 14, Dex 14, Con 15, Int 2, Wis 13, Cha 5; Special Qualities scent. 7th-Level Advancement: Size Large; AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities powerful charge.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The rhinoceros feeds on leafy plants, branches, and even thorny shrubs. Its thick hide is a mottled gray color, and it can run surprisingly fast for a beast of its size. The rhinoceros is notoriously short-tempered and prone to attacking anything it perceives as approaching too closely (generally within a distance of 80 feet-the distance of a single charge-for most rhinos). Rhinoceros Companions Starting Statistics: Size Medium; AC +4 natural; Speed 40 ft.; Attack gore (1d8); Ability Scores Str 14, Dex 14, Con 15, Int 2, Wis 13, Cha 5; Special Qualities scent. 7th-Level Advancement: Size Large; AC +3 natural armor; Attack gore (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities powerful charge.

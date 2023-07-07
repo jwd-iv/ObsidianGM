@@ -71,7 +71,6 @@ Environment: any (Plane of Water)
 Temperature: any
 Organization: solitary, pair, or gang (3-8)
 Treasure: none
-Description: Water elementals are patient, relentless creatures made of living fresh or salt water. They prefer to hide or drag their opponents into the water to gain an advantage. As with other elementals, all water elementals have their own unique shapes and appearances. Most appear as wave-like creatures with vaguely humanoid faces and smaller wave "arms" to either side. Another common form is that of any aquatic creature, such as a shark or octopus, but made entirely out of water.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Water elementals are patient, relentless creatures made of living fresh or salt water. They prefer to hide or drag their opponents into the water to gain an advantage. As with other elementals, all water elementals have their own unique shapes and appearances. Most appear as wave-like creatures with vaguely humanoid faces and smaller wave "arms" to either side. Another common form is that of any aquatic creature, such as a shark or octopus, but made entirely out of water.

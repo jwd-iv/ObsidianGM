@@ -69,8 +69,6 @@ Environment: aquatic/swamp (coastal)
 Temperature: temperate/warm
 Organization: solitary, pair, or army (3-8)
 Treasure: none
-Description: >
-  Giant frogs have razor-sharp teeth lining their mouths. They are 6 feet long and weigh 200 pounds. Frog Companions Starting Statistics: Size Medium; Speed 30 ft., swim 30 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 15, Dex 13, Con 16, Int 1, Wis 9, Cha 6; Special Qualities low-light vision, scent, tongue, pull. 4th-Level Adv.: Ability Scores Str +2, Dex +2; Special Qualities swallow whole.
 Race: 
 Class: 
 MR: 
@@ -80,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant frogs have razor-sharp teeth lining their mouths. They are 6 feet long and weigh 200 pounds. Frog Companions Starting Statistics: Size Medium; Speed 30 ft., swim 30 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 15, Dex 13, Con 16, Int 1, Wis 9, Cha 6; Special Qualities low-light vision, scent, tongue, pull. 4th-Level Adv.: Ability Scores Str +2, Dex +2; Special Qualities swallow whole.

@@ -72,7 +72,6 @@ Environment: lakes/swamps
 Temperature: temperate
 Organization: solitary, pair, or flock (3-10)
 Treasure: standard (chain shirt, mwk longsword, longbow with 20 arrows, other treasure)
-Description: Swan maidens are fey shapechangers who vow to protect unspoiled wilds from the encroachment of civilization or evil. They live in small flocks along secluded lakeshores. Because stealing a swan maiden's cloak robs her of her shapechanging ability, most maidens avoid humanoids and take up armor and weapons to defend themselves.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Swan maidens are fey shapechangers who vow to protect unspoiled wilds from the encroachment of civilization or evil. They live in small flocks along secluded lakeshores. Because stealing a swan maiden's cloak robs her of her shapechanging ability, most maidens avoid humanoids and take up armor and weapons to defend themselves.

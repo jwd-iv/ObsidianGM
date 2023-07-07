@@ -67,7 +67,6 @@ Environment: any (Negative Energy Plane)
 Temperature: any
 Organization: solitary, pair, or flight (3-6)
 Treasure: standard
-Description: The least of the known types of nightshade, the nightwing is nevertheless a deadly foe. Nightwings often serve more powerful nightshades as aerial support. These nightshades are also the most likely to be found serving a non-undead master-nightwings are often used by powerful mortals as guardians or sentinels. Despite this, nightwings still hope to someday slay any master they serve. They enter servitude primarily as a method of aiding a destructive or murderous mortal in their task of mass murder; once this task is over, or if at any point the nightwing believes its master is slacking in its murderous duties, the nightwing is swift to turn on its one-time ally.  A nightwing found on the Material Plane not in the employ of a more powerful master is typically encountered in rugged terrain where there are numerous locations that can provide shelter when the sun rises. The monsters prefer caves and abandoned buildings for this purpose.  A nightwing's body is 20 feet long, but its wingspan is 80 feet. It weighs 4,500 pounds.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The least of the known types of nightshade, the nightwing is nevertheless a deadly foe. Nightwings often serve more powerful nightshades as aerial support. These nightshades are also the most likely to be found serving a non-undead master-nightwings are often used by powerful mortals as guardians or sentinels. Despite this, nightwings still hope to someday slay any master they serve. They enter servitude primarily as a method of aiding a destructive or murderous mortal in their task of mass murder; once this task is over, or if at any point the nightwing believes its master is slacking in its murderous duties, the nightwing is swift to turn on its one-time ally.  A nightwing found on the Material Plane not in the employ of a more powerful master is typically encountered in rugged terrain where there are numerous locations that can provide shelter when the sun rises. The monsters prefer caves and abandoned buildings for this purpose.  A nightwing's body is 20 feet long, but its wingspan is 80 feet. It weighs 4,500 pounds.

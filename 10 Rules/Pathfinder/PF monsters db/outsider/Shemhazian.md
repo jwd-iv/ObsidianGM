@@ -75,7 +75,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Although nearly all the horrors of the Abyss prey upon one another in an endless, eternal bloodbath, shemhazians are predators among predators. They are more intimidating and physically powerful than most demons, combining the features of numerous insectile and bestial hunters into one massive, deadly form. Although they don't require sustenance, shemhazians take perverse delight in mutilating and eating their victims.  A shemhazian stands 35 feet tall and weighs 12,000 pounds. They form from the sinful souls of torturers and those who enjoyed mutilating living victims to death.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Although nearly all the horrors of the Abyss prey upon one another in an endless, eternal bloodbath, shemhazians are predators among predators. They are more intimidating and physically powerful than most demons, combining the features of numerous insectile and bestial hunters into one massive, deadly form. Although they don't require sustenance, shemhazians take perverse delight in mutilating and eating their victims.  A shemhazian stands 35 feet tall and weighs 12,000 pounds. They form from the sinful souls of torturers and those who enjoyed mutilating living victims to death.

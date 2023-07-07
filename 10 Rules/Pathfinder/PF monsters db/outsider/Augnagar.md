@@ -71,7 +71,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: The immense augnagar is relatively slow-witted. As an outsider, it does not need to eat to survive, yet it remains ravenous and feeds on anything it can overpower. The augnagar prefers the taste of well-rotted flesh- particularly rotted demon flesh-and the horrific curse its bite imparts flavors its meals perfectly. Yet the augnagar's favorite feast is of a much more cannibalistic type. These creatures find the flesh of their own kind to be the greatest delicacy. When an augnagar feeds upon enough of its own kind, it grows enormously bloated such that it can no longer fly, at which point it uses its clawed tails to tear its body apart in a frenzy of self-destruction. From this storm of torn fat and shredded viscera emerges a fully grown thulgant qlippoth-a creature similar in shape to an augnagar, yet much more intelligent and even more dangerous.  An augnagar has a wingspan of 30 feet and weighs 6,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The immense augnagar is relatively slow-witted. As an outsider, it does not need to eat to survive, yet it remains ravenous and feeds on anything it can overpower. The augnagar prefers the taste of well-rotted flesh- particularly rotted demon flesh-and the horrific curse its bite imparts flavors its meals perfectly. Yet the augnagar's favorite feast is of a much more cannibalistic type. These creatures find the flesh of their own kind to be the greatest delicacy. When an augnagar feeds upon enough of its own kind, it grows enormously bloated such that it can no longer fly, at which point it uses its clawed tails to tear its body apart in a frenzy of self-destruction. From this storm of torn fat and shredded viscera emerges a fully grown thulgant qlippoth-a creature similar in shape to an augnagar, yet much more intelligent and even more dangerous.  An augnagar has a wingspan of 30 feet and weighs 6,000 pounds.

@@ -70,7 +70,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Despite her ragged dress and unkempt appearance, a harionago is a beautiful and graceful creature. She walks the roads at night pretending to be a lost damsel, luring those she encounters close before striking with her paralyzing claws and jagged hair barbs. However, a harionago's most dangerous weapon is her laugh. A resounding cackle of mocking scorn and hateful malice, it compels those around her to join in mocking concert. A harionago is formed when an innocent woman is murdered in some unspeakable fashion. She rises, twisted by the injustice of the crime against her, into an unnatural and bloodthirsty horror that hunts unsuspecting victims while trying to sate an everlasting lust for revenge. Destroying a harionago doesn't always lay her to rest for good. On rare occasions and by mysterious means, a harionago rises again after a year and a day to resume her hunt. She can only rest after she takes her revenge on those who murdered her. If her murderers are already dead when she returns, she will rest only once every member of her murderers' family lines has been slaughtered.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Despite her ragged dress and unkempt appearance, a harionago is a beautiful and graceful creature. She walks the roads at night pretending to be a lost damsel, luring those she encounters close before striking with her paralyzing claws and jagged hair barbs. However, a harionago's most dangerous weapon is her laugh. A resounding cackle of mocking scorn and hateful malice, it compels those around her to join in mocking concert. A harionago is formed when an innocent woman is murdered in some unspeakable fashion. She rises, twisted by the injustice of the crime against her, into an unnatural and bloodthirsty horror that hunts unsuspecting victims while trying to sate an everlasting lust for revenge. Destroying a harionago doesn't always lay her to rest for good. On rare occasions and by mysterious means, a harionago rises again after a year and a day to resume her hunt. She can only rest after she takes her revenge on those who murdered her. If her murderers are already dead when she returns, she will rest only once every member of her murderers' family lines has been slaughtered.

@@ -69,7 +69,6 @@ Environment: forest/plains/hills
 Temperature: warm
 Organization: solitary, pair, or pack (3-8)
 Treasure: none
-Description: This lizard is a true behemoth- an apex predator found in tropical regions. Many species of giant lizard exist-other species lack this lizard's intimidating charge special ability but might have other special attacks like grab, trip, constrict (with a bite), or pounce.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This lizard is a true behemoth- an apex predator found in tropical regions. Many species of giant lizard exist-other species lack this lizard's intimidating charge special ability but might have other special attacks like grab, trip, constrict (with a bite), or pounce.

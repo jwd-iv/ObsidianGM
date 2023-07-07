@@ -67,7 +67,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pack (2-5), or bloom (6-12)
 Treasure: None
-Description: Unlike its smaller cousins, the giant jellyfish is an active predator that seeks out prey. Capable of slithering through narrow cracks, a giant jellyfish is a horrifying beast to encounter lurking in the hold of a flooded or sunken ship. Other species of these vermin exist, as summarized on the following table-these variants often have different types of poison or other abilities like translucency or constriction. Species CR Size HD Death's head jellyfish 1 Small 2 Crimson jellyfish 4 Medium 5 Sapphire jellyfish 11 Huge 12 Vampire jellyfish 14 Gargantuan 16 Whaler jellyfish 17 Colossal 20
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Unlike its smaller cousins, the giant jellyfish is an active predator that seeks out prey. Capable of slithering through narrow cracks, a giant jellyfish is a horrifying beast to encounter lurking in the hold of a flooded or sunken ship. Other species of these vermin exist, as summarized on the following table-these variants often have different types of poison or other abilities like translucency or constriction. Species CR Size HD Death's head jellyfish 1 Small 2 Crimson jellyfish 4 Medium 5 Sapphire jellyfish 11 Huge 12 Vampire jellyfish 14 Gargantuan 16 Whaler jellyfish 17 Colossal 20

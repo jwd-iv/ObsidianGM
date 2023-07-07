@@ -41,7 +41,7 @@ Melee:
   - Attack: "bite +12"
     Effect: "1d6+5"
   - Attack: "longspear +12/+7"
-    Effect: "1d8+7/×3"
+    Effect: "1d8+7/x3"
   - Attack: "bite +7"
     Effect: "1d6+2"
 Reach: 5 ft. (10 ft. with longspear)
@@ -73,7 +73,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or gang (3-8)
 Treasure: standard (longspear, other treasure)
-Description: The babau is an assassin, a murderer, and a sadist- certainly not traits unusual in the demons, yet the babau's penchant for stealth and surprise sets it apart from its generally less-subtle kin. With no need to eat (although most babaus relish the flavor of mortal meat on their thin, raspy tongues), a babau can wait in ambush for years or decades-their inhuman patience in anticipating a well-conceived murder also setting them apart from the other denizens of the Abyss. Babaus obsess over the act of killing and take great pride in their grisly art, often leaving behind some form of grim marker or obscure signature, whether it be a distinctive modus operandi, an unnerving token, or other profane evidence. A babau typically carries a longspear or other weapon with which it can strike at foes beyond its normal reach, but given the opportunity, a babau prefers to fight with its teeth or claws. The foul, caustic sludge that constantly seeps from their flesh prevents them from wearing armor unless it is specially treated or resistant to acid. A babau is 6 feet tall but weighs only 140 pounds. They form from mortal souls of lone killers-those who, in life, took pleasure in more personal and intimate murders. Loosed upon the Material Plane, a babau often finds itself in the same role, haunting the shadowy corners of the world as remorseless assassins.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The babau is an assassin, a murderer, and a sadist- certainly not traits unusual in the demons, yet the babau's penchant for stealth and surprise sets it apart from its generally less-subtle kin. With no need to eat (although most babaus relish the flavor of mortal meat on their thin, raspy tongues), a babau can wait in ambush for years or decades-their inhuman patience in anticipating a well-conceived murder also setting them apart from the other denizens of the Abyss. Babaus obsess over the act of killing and take great pride in their grisly art, often leaving behind some form of grim marker or obscure signature, whether it be a distinctive modus operandi, an unnerving token, or other profane evidence. A babau typically carries a longspear or other weapon with which it can strike at foes beyond its normal reach, but given the opportunity, a babau prefers to fight with its teeth or claws. The foul, caustic sludge that constantly seeps from their flesh prevents them from wearing armor unless it is specially treated or resistant to acid. A babau is 6 feet tall but weighs only 140 pounds. They form from mortal souls of lone killers-those who, in life, took pleasure in more personal and intimate murders. Loosed upon the Material Plane, a babau often finds itself in the same role, haunting the shadowy corners of the world as remorseless assassins.

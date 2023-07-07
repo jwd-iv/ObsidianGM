@@ -75,7 +75,6 @@ Environment: desert/hills/plains
 Temperature: warm
 Organization: solitary
 Treasure: none
-Description: The reclusive death worm is much feared in the deserts, badlands, and steppes in which it dwells, for it brings to a battle multiple harrowing ways of inf licting death upon its foes-acid, lightning, poison, and its ravenous jaws.  The creatures are remarkably good at hiding amid the sands and rocks of their favored terrain, and devilishly eff icient at selecting foes that they can easily kill. This combination makes stories of these creatures hard to conf irm, and in most urban centers, common wisdom is that the tales of death worms are fabrications- attempts to impress city folk or hallucinations born of too much drink.  A death worm is 15 feet long and weighs 1,200 pounds- although rumors of much larger death worms persist.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The reclusive death worm is much feared in the deserts, badlands, and steppes in which it dwells, for it brings to a battle multiple harrowing ways of inf licting death upon its foes-acid, lightning, poison, and its ravenous jaws.  The creatures are remarkably good at hiding amid the sands and rocks of their favored terrain, and devilishly eff icient at selecting foes that they can easily kill. This combination makes stories of these creatures hard to conf irm, and in most urban centers, common wisdom is that the tales of death worms are fabrications- attempts to impress city folk or hallucinations born of too much drink.  A death worm is 15 feet long and weighs 1,200 pounds- although rumors of much larger death worms persist.

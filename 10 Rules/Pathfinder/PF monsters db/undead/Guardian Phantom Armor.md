@@ -68,7 +68,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pair
 Treasure: none
-Description: Created from blood-spattered armor infused with the souls of betrayed knights or fallen soldiers, phantom armors appear as suits of damaged but animate armor that move with deadly purpose and lethal precision.  CREATING PHANTOM ARMORS Phantom armors are created using the spell create undead. Creating a phantom armor requires a corpse wearing a suit of heavy armor. The corpse is destroyed in the phantom armor's creation. A magic-user must be at least caster level 12th to create a guardian phantom armor and at least caster level 15th to create a giant phantom armor.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Created from blood-spattered armor infused with the souls of betrayed knights or fallen soldiers, phantom armors appear as suits of damaged but animate armor that move with deadly purpose and lethal precision.  CREATING PHANTOM ARMORS Phantom armors are created using the spell create undead. Creating a phantom armor requires a corpse wearing a suit of heavy armor. The corpse is destroyed in the phantom armor's creation. A magic-user must be at least caster level 12th to create a guardian phantom armor and at least caster level 15th to create a giant phantom armor.

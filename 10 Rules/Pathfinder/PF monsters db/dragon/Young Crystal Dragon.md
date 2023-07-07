@@ -79,7 +79,6 @@ Environment: underground (Plane of Earth)
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Crystal dragons are generally good-natured, though their incredible vanity sometimes causes them to seem aloof and cocky. Any perceived insult against its appearance is all but assured to send a crystal dragon into a rage-which is a problem, as most crystal dragons are prone to seeing insults even where none are intended. Crystal dragons prefer underground lairs, and often go for decades or even centuries without emerging from their extensive cavern lairs onto the surface world above.  Crystal dragons tend to be exacting and even obsessive-compulsive, their personalities mirroring the precise and ordered nature of the facets of their scales. A crystal dragon's lair is a well-ordered place-these dragons find the very idea of the classic sprawl of a dragon's hoard to be shameful.
 Race: 
 Class: 
 MR: 
@@ -89,3 +88,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Crystal dragons are generally good-natured, though their incredible vanity sometimes causes them to seem aloof and cocky. Any perceived insult against its appearance is all but assured to send a crystal dragon into a rage-which is a problem, as most crystal dragons are prone to seeing insults even where none are intended. Crystal dragons prefer underground lairs, and often go for decades or even centuries without emerging from their extensive cavern lairs onto the surface world above.  Crystal dragons tend to be exacting and even obsessive-compulsive, their personalities mirroring the precise and ordered nature of the facets of their scales. A crystal dragon's lair is a well-ordered place-these dragons find the very idea of the classic sprawl of a dragon's hoard to be shameful.

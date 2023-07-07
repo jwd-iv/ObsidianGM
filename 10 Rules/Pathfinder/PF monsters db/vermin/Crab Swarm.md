@@ -65,7 +65,6 @@ Environment: aquatic
 Temperature: any
 Organization: solitary, pair, or wave (3-8 swarms)
 Treasure: none
-Description: Crab swarms contain over a thousand normal-sized crabs that rush over their victims, plucking flesh with thousands of pinching claws. Some fishermen claim tides and phases of the moon cause these creatures to swarm as they do.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Crab swarms contain over a thousand normal-sized crabs that rush over their victims, plucking flesh with thousands of pinching claws. Some fishermen claim tides and phases of the moon cause these creatures to swarm as they do.

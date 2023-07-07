@@ -75,7 +75,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or gang (3-10)
 Treasure: standard
-Description: Profane champions of the Abyss, vrocks embody all the rage, hatred, and violence of that despicable realm. As ravenous and grotesquely opportunistic as the scavengers they resemble, vrocks delight in bloodshed, relishing the sounds and sensations of ripping the still-pulsing entrails from a living husk. A typical vrock stands 8 feet tall and weighs 400 pounds. Vrocks generally form from the evil souls of hateful and wrathful mortals, particularly those who were career criminals, mercenaries, or assassins.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Profane champions of the Abyss, vrocks embody all the rage, hatred, and violence of that despicable realm. As ravenous and grotesquely opportunistic as the scavengers they resemble, vrocks delight in bloodshed, relishing the sounds and sensations of ripping the still-pulsing entrails from a living husk. A typical vrock stands 8 feet tall and weighs 400 pounds. Vrocks generally form from the evil souls of hateful and wrathful mortals, particularly those who were career criminals, mercenaries, or assassins.

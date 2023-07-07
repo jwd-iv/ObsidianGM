@@ -65,7 +65,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, pair, or pack (3-6)
 Treasure: standard (+2 chain shirt barding)
-Description: Asmodeus, the Prince of Darkness, keeps vast kennels of these brutal warhounds beneath his palace in Nessus. All are fitted with shirts of fire-scorched barding, and the loyal beasts obey their master perfectly. Nessian warhounds are tireless and relentless trackers, pursuing enemies of Asmodeus to the far corners of Hell and beyond. Once Asmodeus sets them to a task, they do not quit until either the task is complete or they are dead. They are fearsome, snarling horrors in combat.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Asmodeus, the Prince of Darkness, keeps vast kennels of these brutal warhounds beneath his palace in Nessus. All are fitted with shirts of fire-scorched barding, and the loyal beasts obey their master perfectly. Nessian warhounds are tireless and relentless trackers, pursuing enemies of Asmodeus to the far corners of Hell and beyond. Once Asmodeus sets them to a task, they do not quit until either the task is complete or they are dead. They are fearsome, snarling horrors in combat.

@@ -75,7 +75,6 @@ Environment: underground
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Huge and otherworldly, the vemerak is a monster known as much for its disturbing appearance as its violent and cruel disposition.  A vemerak is 10 feet tall and 20 feet long, its tentaclelike tails adding a further 15 feet to its length. It weighs just over 6 tons. Caverns that serve as lairs to these creatures invariably possess disturbing shrines where the creatures offer up portions of every meal to dark gods that dwell deep below the sane world-as a result, many believe that vemeraks exist as the physical manifestation of the will of a particularly violent and insane deity.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Huge and otherworldly, the vemerak is a monster known as much for its disturbing appearance as its violent and cruel disposition.  A vemerak is 10 feet tall and 20 feet long, its tentaclelike tails adding a further 15 feet to its length. It weighs just over 6 tons. Caverns that serve as lairs to these creatures invariably possess disturbing shrines where the creatures offer up portions of every meal to dark gods that dwell deep below the sane world-as a result, many believe that vemeraks exist as the physical manifestation of the will of a particularly violent and insane deity.

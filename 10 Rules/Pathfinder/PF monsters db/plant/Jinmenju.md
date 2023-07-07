@@ -74,7 +74,6 @@ Environment: hills/mountains
 Temperature: temperate
 Organization: solitary
 Treasure: incidental
-Description: Jinmenjus are trees that grow in hilly regions far from civilized lands, and prey on those who come too close. They are remarkably intelligent and crafty, and use both scent and magical compulsion to lure prey.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Jinmenjus are trees that grow in hilly regions far from civilized lands, and prey on those who come too close. They are remarkably intelligent and crafty, and use both scent and magical compulsion to lure prey.

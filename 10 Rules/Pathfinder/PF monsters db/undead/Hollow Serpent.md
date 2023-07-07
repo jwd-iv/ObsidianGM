@@ -76,7 +76,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, or nest (3-8)
 Treasure: double
-Description: Crafted from the shed skins of great snakes by serpentfolk necromancers and other foul spellcasters, hollow serpents are plagued by an eternal hunger they can never sate. The act of draining energy from living creatures blunts these supernatural pangs, driving the hollow serpent to constantly seek new prey.  A hollow serpent is a difficult undead to create-most of them were crafted by a long-forgotten god of the serpentfolk and not by mortal spellcasters at all. The exact methods by which a mortal might create a hollow serpent are obscure, but most scholars have come to the conclusion that the use of powerful artifacts or the aid of a demigod may be required for such a feat.  A hollow serpent is 15 feet long and weighs 500 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Crafted from the shed skins of great snakes by serpentfolk necromancers and other foul spellcasters, hollow serpents are plagued by an eternal hunger they can never sate. The act of draining energy from living creatures blunts these supernatural pangs, driving the hollow serpent to constantly seek new prey.  A hollow serpent is a difficult undead to create-most of them were crafted by a long-forgotten god of the serpentfolk and not by mortal spellcasters at all. The exact methods by which a mortal might create a hollow serpent are obscure, but most scholars have come to the conclusion that the use of powerful artifacts or the aid of a demigod may be required for such a feat.  A hollow serpent is 15 feet long and weighs 500 pounds.

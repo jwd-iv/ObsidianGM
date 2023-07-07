@@ -68,7 +68,6 @@ Environment: plains/hills
 Temperature: warm
 Organization: solitary, pair, or pride (3-8)
 Treasure: incidental
-Description: Dire lions, known locally as spotted lions or cave lions, are immense predators that can grow up to 15 feet long and weigh up to 3,500 pounds. Although they are merely animals, these large creatures seem to take an almost sadistic glee in playing with and tormenting their prey before eventually devouring it. As a result, many tribes view dire lions as the spawn of evil gods, and hunt them down as soon as their presence in a region becomes obvious.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dire lions, known locally as spotted lions or cave lions, are immense predators that can grow up to 15 feet long and weigh up to 3,500 pounds. Although they are merely animals, these large creatures seem to take an almost sadistic glee in playing with and tormenting their prey before eventually devouring it. As a result, many tribes view dire lions as the spawn of evil gods, and hunt them down as soon as their presence in a region becomes obvious.

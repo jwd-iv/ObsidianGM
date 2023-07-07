@@ -70,7 +70,6 @@ Environment: jungle/underground
 Temperature: any
 Organization: solitary, pair, or cult (3-12)
 Treasure: NPC gear (dagger, other treasure)
-Description: The majority of serpentfolk today are degenerates who have devolved to the point of primeval savagery and have lost much of their magical legacy-more civilized serpentfolk generally regard these degenerates with shame and disdain.  Degenerates are 5 feet tall but weigh 200 pounds.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The majority of serpentfolk today are degenerates who have devolved to the point of primeval savagery and have lost much of their magical legacy-more civilized serpentfolk generally regard these degenerates with shame and disdain.  Degenerates are 5 feet tall but weigh 200 pounds.

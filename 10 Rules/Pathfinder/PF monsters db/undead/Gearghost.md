@@ -72,7 +72,6 @@ Environment: urban/underground
 Temperature: any
 Organization: solitary or gang (2-6)
 Treasure: standard
-Description: Formed from the unquiet soul of a thief wrenched from life by a wicked trap, a gearghost delights in rigging up the same threats and tortures to which it succumbed. Eager to witness the deaths of others, the gearghost prowls the place of its death, constantly maintaining and resetting any traps in that area as it waits for victims to fall into its clutches. A gearghost also has the ability to create and set new traps, and as such its lair is usually choked with perilous new snares, spikes, and pits. A gearghost only keeps treasure as a lure for hapless adventurers, often using such treasure as the trigger for one of its devious creations.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Formed from the unquiet soul of a thief wrenched from life by a wicked trap, a gearghost delights in rigging up the same threats and tortures to which it succumbed. Eager to witness the deaths of others, the gearghost prowls the place of its death, constantly maintaining and resetting any traps in that area as it waits for victims to fall into its clutches. A gearghost also has the ability to create and set new traps, and as such its lair is usually choked with perilous new snares, spikes, and pits. A gearghost only keeps treasure as a lure for hapless adventurers, often using such treasure as the trigger for one of its devious creations.

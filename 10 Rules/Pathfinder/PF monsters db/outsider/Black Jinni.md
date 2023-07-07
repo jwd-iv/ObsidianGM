@@ -86,7 +86,6 @@ Environment: desert
 Temperature: warm
 Organization: solitary, pair, or band (3-6)
 Treasure: standard
-Description: Thought by many, even among the jann, to be myths and dark legends, the black jinn are an accursed and forgotten tribe of genies. Bearers of ill will and bringers of destruction upon both mortals and their own kind, these hateful creatures are possessed by madness and a drive to call down ruin upon any who intrude upon their desolate sanctums. The few black jinn encountered on the Material Plane are thought of as terrors of the deep desert, arriving in sudden sandstorms, brilliant with electrical fury, and disappearing just as quickly to leave behind no trace of lost comrades, or merely leaving corpses, charred or glazed in molten glass. Largely, black jinn are creatures of myth and legend, but a handful of mortals know the terrible truth - which few live long enough to tell. Although typically surrounded by a cloud of dust, black jinn appear more fiendish than other genies. A cursed creature, they do not constitute a true race of jann, but rather a bloodline so corrupt as to no longer be considered part of this proud race. A black jinni stands 12 feet tall and can weigh as much 1,200 pounds, its body being mostly comprised of soot, dust, and foul smoke.
 Race: 
 Class: 
 MR: 
@@ -96,3 +95,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Thought by many, even among the jann, to be myths and dark legends, the black jinn are an accursed and forgotten tribe of genies. Bearers of ill will and bringers of destruction upon both mortals and their own kind, these hateful creatures are possessed by madness and a drive to call down ruin upon any who intrude upon their desolate sanctums. The few black jinn encountered on the Material Plane are thought of as terrors of the deep desert, arriving in sudden sandstorms, brilliant with electrical fury, and disappearing just as quickly to leave behind no trace of lost comrades, or merely leaving corpses, charred or glazed in molten glass. Largely, black jinn are creatures of myth and legend, but a handful of mortals know the terrible truth - which few live long enough to tell. Although typically surrounded by a cloud of dust, black jinn appear more fiendish than other genies. A cursed creature, they do not constitute a true race of jann, but rather a bloodline so corrupt as to no longer be considered part of this proud race. A black jinni stands 12 feet tall and can weigh as much 1,200 pounds, its body being mostly comprised of soot, dust, and foul smoke.

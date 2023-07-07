@@ -67,7 +67,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary, pair, mission (3-6 swarms), or tribe (7-12 swarms plus 1-4 gorillas)
 Treasure: none
-Description: Monkeys sometimes travel in huge colonies of hundreds of individuals. In such quantities, these primates can become quite dangerous, capable of overwhelming many foes by their sheer numbers.  Unlike most swarms, monkey swarms work well together. A swarm of monkeys does not possess a true hive mind, but it is capable of working in tandem with other swarms to make basic tactical decisions in combat.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Monkeys sometimes travel in huge colonies of hundreds of individuals. In such quantities, these primates can become quite dangerous, capable of overwhelming many foes by their sheer numbers.  Unlike most swarms, monkey swarms work well together. A swarm of monkeys does not possess a true hive mind, but it is capable of working in tandem with other swarms to make basic tactical decisions in combat.

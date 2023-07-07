@@ -67,7 +67,6 @@ Environment: land
 Temperature: temperate/warm
 Organization: solitary or flight (2-5)
 Treasure: incidental
-Description: Giant dragonflies are rare compared to other varieties of giant insects, and fortunately so, since they are voracious hunters of warm-blooded prey, including humanoids.  The creatures typically lair in overgrown or lightly wooded areas, using foliage as cover. When they spot potential prey out in the open, the dragonf lies swoop to the attack, using their superior flight speed and maneuverability to run most prey to ground or carrying off smaller foes to eat them somewhere safe. Giant dragonf lies feed on carrion when fresh prey is not available, and the scent of a fresh kill often attracts them.  Many swamp-dwelling cultures attach religious significance to brightly colored and ravenous giant dragonf lies, particularly boggards. The frog-men attach particular significance to a giant dragonf ly's color, and their priest-kings often refuse to eat anything but specific colors of giant dragonf lies.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant dragonflies are rare compared to other varieties of giant insects, and fortunately so, since they are voracious hunters of warm-blooded prey, including humanoids.  The creatures typically lair in overgrown or lightly wooded areas, using foliage as cover. When they spot potential prey out in the open, the dragonf lies swoop to the attack, using their superior flight speed and maneuverability to run most prey to ground or carrying off smaller foes to eat them somewhere safe. Giant dragonf lies feed on carrion when fresh prey is not available, and the scent of a fresh kill often attracts them.  Many swamp-dwelling cultures attach religious significance to brightly colored and ravenous giant dragonf lies, particularly boggards. The frog-men attach particular significance to a giant dragonf ly's color, and their priest-kings often refuse to eat anything but specific colors of giant dragonf lies.

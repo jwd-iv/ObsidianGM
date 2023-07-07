@@ -74,7 +74,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, pair, or flock (2-6)
 Treasure: standard (mwk ranseur, other treasure)
-Description: Hunters of souls, host devils retrieve Hell's most elusive property. Whether souls that have long evaded capture upon the plains of Avernus, damned beings who have somehow managed to escape Hell, or creatures that have reneged upon infernal contracts, vast flocks of these winged fiends fly from the Pit to recover their prey. Rarely seen alone, host devils travel in great swarms that often number in the thousands. These four-winged mockeries of the angelic form swarm in enormous columns, moving in tandem as though they were one colossal, infernal beast controlled by a single brain. Magaavs stand 5-1/2 feet tall and weigh 150 pounds, with wingspans reaching 10 feet across. Their fetid breath draws flies that swarm over their bodies.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Hunters of souls, host devils retrieve Hell's most elusive property. Whether souls that have long evaded capture upon the plains of Avernus, damned beings who have somehow managed to escape Hell, or creatures that have reneged upon infernal contracts, vast flocks of these winged fiends fly from the Pit to recover their prey. Rarely seen alone, host devils travel in great swarms that often number in the thousands. These four-winged mockeries of the angelic form swarm in enormous columns, moving in tandem as though they were one colossal, infernal beast controlled by a single brain. Magaavs stand 5-1/2 feet tall and weigh 150 pounds, with wingspans reaching 10 feet across. Their fetid breath draws flies that swarm over their bodies.

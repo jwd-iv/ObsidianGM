@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or cult (3-6)
 Treasure: double
-Description: The spiders of Leng have long warred with that realm's more humanoid denizens, yet this does not make the spiders allies of sane life. These spiders see themselves as deserving of true positions of power, and the only creatures they suffer to live apart from their kin are their magically controlled slaves. Fortunately, the spiders have no intrinsic way to travel to the Material Plane, and must use portals or other methods to visit this world. Artistic trap builders, Leng spiders construct lairs of dangerous and haunting beauty made of webs and other materials found nearby.  A Leng spider's body is 18 feet long and weighs 6,000 pounds. Most leng spiders possess only 7 legs, but some possess 9, 11, or only 5-they never possess an even number.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The spiders of Leng have long warred with that realm's more humanoid denizens, yet this does not make the spiders allies of sane life. These spiders see themselves as deserving of true positions of power, and the only creatures they suffer to live apart from their kin are their magically controlled slaves. Fortunately, the spiders have no intrinsic way to travel to the Material Plane, and must use portals or other methods to visit this world. Artistic trap builders, Leng spiders construct lairs of dangerous and haunting beauty made of webs and other materials found nearby.  A Leng spider's body is 18 feet long and weighs 6,000 pounds. Most leng spiders possess only 7 legs, but some possess 9, 11, or only 5-they never possess an even number.

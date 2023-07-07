@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: A flesh colossus consists of hundreds of corpses assembled into a macabre whole. Its stands roughly 60 feet tall and weighs about 150,000 pounds.  Construction  Creating a flesh colossus requires at least 500 humanoid corpses with a total cost of 10,000 gp.  FLESH COLOSSUS CL 12th; Price 120,000 gp  Construction  Requirements Craft Construct, Mythic Crafter 6th mythic tier, animate dead, antimagic field, gentle repose, limited wish; Skill Heal DC 25; Cost 70,000 gp
 Race: 
 Class: 
 MR: 6
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A flesh colossus consists of hundreds of corpses assembled into a macabre whole. Its stands roughly 60 feet tall and weighs about 150,000 pounds.  Construction  Creating a flesh colossus requires at least 500 humanoid corpses with a total cost of 10,000 gp.  FLESH COLOSSUS CL 12th; Price 120,000 gp  Construction  Requirements Craft Construct, Mythic Crafter 6th mythic tier, animate dead, antimagic field, gentle repose, limited wish; Skill Heal DC 25; Cost 70,000 gp

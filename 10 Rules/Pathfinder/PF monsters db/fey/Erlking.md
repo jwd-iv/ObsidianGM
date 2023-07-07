@@ -72,7 +72,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, squad (1 plus 2-12 centaurs, 2-12 satyrs, and 1-2 treants), or army (1 plus 4-24 centaurs, 4-24 satyrs, and 2-5 treants)
 Treasure: double (ironwood chain shirt, ironwood longbow, ironwood longsword, other treasure)
-Description: Erlkings guard the wildest, most pristine reaches of nature, and lead other fey to reclaim defiled lands. Most forest creatures acknowledge an erlking as king of the forest and arbiter in disputes between the people of the wilds. In most forests, an erlking is the brother or consort of a hamadryad, and represents the aggressive, dangerous, and vengeful aspect of the wilds. An erlking is a blur of motion on or off the battlefield, using his powers to coordinate attacks against despoilers, manipulate terrain to his side's advantage, and call in reinforcements when his forces would be overwhelmed. When his services are not needed, an erlking retires to the realm of the fey.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Erlkings guard the wildest, most pristine reaches of nature, and lead other fey to reclaim defiled lands. Most forest creatures acknowledge an erlking as king of the forest and arbiter in disputes between the people of the wilds. In most forests, an erlking is the brother or consort of a hamadryad, and represents the aggressive, dangerous, and vengeful aspect of the wilds. An erlking is a blur of motion on or off the battlefield, using his powers to coordinate attacks against despoilers, manipulate terrain to his side's advantage, and call in reinforcements when his forces would be overwhelmed. When his services are not needed, an erlking retires to the realm of the fey.

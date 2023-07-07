@@ -73,12 +73,6 @@ Temperature: any
 Organization:
 Treasure: NPC gear (chainmail, heavy wooden shield, dagger, dwarven waraxe,
   light crossbow with 20 bolts, other treasure)
-Description: Dwarves are a short and stocky race, and stand about a foot shorter
-  than most humans, with wide, compact bodies that account for their burly
-  appearance. Male and female dwarves pride themselves on the long length of
-  their hair, and men often decorate their beards with a variety of clasps and
-  intricate braids. Clean-shavenness on a male dwarf is a sure sign of madness,
-  or worse-no one familiar with their race trusts a beardless dwarven man.
 Race: Dwarf
 Class: warrior 1
 MR:
@@ -88,3 +82,9 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dwarves are a short and stocky race, and stand about a foot shorter
+  than most humans, with wide, compact bodies that account for their burly
+  appearance. Male and female dwarves pride themselves on the long length of
+  their hair, and men often decorate their beards with a variety of clasps and
+  intricate braids. Clean-shavenness on a male dwarf is a sure sign of madness,
+  or worse-no one familiar with their race trusts a beardless dwarven man.

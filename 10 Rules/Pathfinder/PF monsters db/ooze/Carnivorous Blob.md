@@ -71,7 +71,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: While sages debate whether the first carnivorous blobs were created by a mad wizard, formed in foul fleshwarping vats in some sinister city, or traveled to this world trapped in the core of a meteor, there is one thing they all agree on-none wish to get close enough to study the monstrosity.  Carnivorous blobs move like a typical ooze, rolling out blobs of its fleshy material in haphazard directions, and pulling its bulk across the ground, up walls, and even through the water. If a carnivorous blob goes for more than 24 hours without a source of food, it drops into a sort of hibernation, resembling nothing so much as a pool of gelatinous blood. The creature springs to life quickly and hungrily as soon as any living prey comes within range of its senses.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+While sages debate whether the first carnivorous blobs were created by a mad wizard, formed in foul fleshwarping vats in some sinister city, or traveled to this world trapped in the core of a meteor, there is one thing they all agree on-none wish to get close enough to study the monstrosity.  Carnivorous blobs move like a typical ooze, rolling out blobs of its fleshy material in haphazard directions, and pulling its bulk across the ground, up walls, and even through the water. If a carnivorous blob goes for more than 24 hours without a source of food, it drops into a sort of hibernation, resembling nothing so much as a pool of gelatinous blood. The creature springs to life quickly and hungrily as soon as any living prey comes within range of its senses.

@@ -71,7 +71,6 @@ Environment: any
 Temperature: any
 Organization: solitary or haunting (2-7)
 Treasure: incidental
-Description: A poltergeist is an angry spirit that forms from the soul of a creature that, for whatever reason, becomes unable to leave the site of its death. Sometimes, this might be due to an unfinished task- other times, it might be due to a powerful necromantic effect. Desecrating a grave site by building a structure over the body below is the most common method of accidentally creating a poltergeist. The poltergeist experiences great trauma over its condition; this trauma twists its psyche to evil and fosters an overall hatred of the living expressed in outbursts of rage. A poltergeist is bound to a specific place, usually a building, room, or recognizable area (a section of a cemetery, a stretch of lonely road, and so on). This place typically corresponds to its place of death or the resting place of its mortal remains.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A poltergeist is an angry spirit that forms from the soul of a creature that, for whatever reason, becomes unable to leave the site of its death. Sometimes, this might be due to an unfinished task- other times, it might be due to a powerful necromantic effect. Desecrating a grave site by building a structure over the body below is the most common method of accidentally creating a poltergeist. The poltergeist experiences great trauma over its condition; this trauma twists its psyche to evil and fosters an overall hatred of the living expressed in outbursts of rage. A poltergeist is bound to a specific place, usually a building, room, or recognizable area (a section of a cemetery, a stretch of lonely road, and so on). This place typically corresponds to its place of death or the resting place of its mortal remains.

@@ -72,7 +72,6 @@ Environment: underground
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: These young rays are shaped roughly like hoods (hence their name), and drag themselves awkwardly about with their thin tentacles. Once an executioner's hood finds a suitable hunting ground, usually a cavern or dungeon room, it hauls itself up to a high perch and hangs there, disguising itself as an irregular stone formation or a strange bit of masonry on a dungeon wall. When suitable prey walks beneath it, the young lurking ray drops, attempting to engulf the creature's head and suffocate it, after which the ray can slowly dissolve the meat at its leisure. Executioner's hoods are hatched from eggs laid by trappers. They stay with the mother for a month, then leave to hunt for themselves.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These young rays are shaped roughly like hoods (hence their name), and drag themselves awkwardly about with their thin tentacles. Once an executioner's hood finds a suitable hunting ground, usually a cavern or dungeon room, it hauls itself up to a high perch and hangs there, disguising itself as an irregular stone formation or a strange bit of masonry on a dungeon wall. When suitable prey walks beneath it, the young lurking ray drops, attempting to engulf the creature's head and suffocate it, after which the ray can slowly dissolve the meat at its leisure. Executioner's hoods are hatched from eggs laid by trappers. They stay with the mother for a month, then leave to hunt for themselves.

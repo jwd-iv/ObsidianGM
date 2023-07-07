@@ -68,7 +68,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or colony (3-8)
 Treasure: none
-Description: Scarlet spiders are small arachnids with bright red bodies and black legs. Scarlet spiders don't have web attacks. Though they can be found in any terrain, scarlet spiders are more common in environments where they can hunt large insects and small mammals. A spellcaster who selects a scarlet spider as a familiar gains a +3 bonus on Climb checks as long as the familiar remains within 1 mile of her; a scarlet spider familiar loses the mindless trait and has an Intelligence score appropriate for its master's level.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Scarlet spiders are small arachnids with bright red bodies and black legs. Scarlet spiders don't have web attacks. Though they can be found in any terrain, scarlet spiders are more common in environments where they can hunt large insects and small mammals. A spellcaster who selects a scarlet spider as a familiar gains a +3 bonus on Climb checks as long as the familiar remains within 1 mile of her; a scarlet spider familiar loses the mindless trait and has an Intelligence score appropriate for its master's level.

@@ -89,7 +89,6 @@ Environment: mountains
 Temperature: temperate/warm
 Organization: solitary
 Treasure: triple
-Description: Benevolent and noble, sky dragons, or tienlungs, are fearsome champions of good and protectors of those in need. They are often sought out for their wise council, which they grant only to the deserving and true.
 Race: 
 Class: 
 MR: 
@@ -99,3 +98,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Benevolent and noble, sky dragons, or tienlungs, are fearsome champions of good and protectors of those in need. They are often sought out for their wise council, which they grant only to the deserving and true.

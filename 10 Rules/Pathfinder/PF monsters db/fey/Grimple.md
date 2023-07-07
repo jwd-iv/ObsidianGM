@@ -72,7 +72,6 @@ Environment: urban
 Temperature: any
 Organization: solitary, pair, mob (3-8), or infestation (9-16 plus 2-6 trained dire rats and 1-4 spider swarms)
 Treasure: standard
-Description: Grimples are filthy urban scavengers that lurk beneath the eaves of abandoned buildings, clock towers, belfries, and steeples. Sickly-looking and ragged, they shed constantly as a result of the small parasites they host. Quick climbers, grimples also have loose flaps of skin that stretch between their arms and allow them to glide short distances. Grimples despise humans and show it by attacking drunks, unlocking stables, torturing guard dogs, and loosening hanging storefront signs so that they fall on people. This does not stop them from sometimes allying with humans and other humanoids, but such collaborations are always temporary, as a grimple is ever plotting betrayal. Although a grimple is often arrogant and overbearing, its ability to vomit at will (and propensity for doing so constantly) remains its most unappealing quality. Voracious omnivores, grimples feast off garbage. They frequently target inns, restaurants, and other places where they can scavenge a steady supply of food.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Grimples are filthy urban scavengers that lurk beneath the eaves of abandoned buildings, clock towers, belfries, and steeples. Sickly-looking and ragged, they shed constantly as a result of the small parasites they host. Quick climbers, grimples also have loose flaps of skin that stretch between their arms and allow them to glide short distances. Grimples despise humans and show it by attacking drunks, unlocking stables, torturing guard dogs, and loosening hanging storefront signs so that they fall on people. This does not stop them from sometimes allying with humans and other humanoids, but such collaborations are always temporary, as a grimple is ever plotting betrayal. Although a grimple is often arrogant and overbearing, its ability to vomit at will (and propensity for doing so constantly) remains its most unappealing quality. Voracious omnivores, grimples feast off garbage. They frequently target inns, restaurants, and other places where they can scavenge a steady supply of food.

@@ -74,8 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary, a pair, or coven (3-12)
 Treasure: standard
-Description: >
-  A graeae is a haglike creature, though more human in appearance. Some describe them as emissaries of the gods, while others believe graeaes to be physical manifestations of fate.  GRAEAE COVEN  Whenever three or more graeaes of the same coven are within 10 feet of one another, they can work together to use any of the following spell-like abilities: clairaudience/clairvoyance, commune, contact other plane, speak with dead, and tongues. All three graeaes must spend a full-round action to take part in this form of cooperative magic. All coven spell-like abilities are CL 9th (or at the highest caster level available to the most powerful graeaes in the coven).
 Race: 
 Class: 
 MR: 2
@@ -85,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A graeae is a haglike creature, though more human in appearance. Some describe them as emissaries of the gods, while others believe graeaes to be physical manifestations of fate.  GRAEAE COVEN  Whenever three or more graeaes of the same coven are within 10 feet of one another, they can work together to use any of the following spell-like abilities: clairaudience/clairvoyance, commune, contact other plane, speak with dead, and tongues. All three graeaes must spend a full-round action to take part in this form of cooperative magic. All coven spell-like abilities are CL 9th (or at the highest caster level available to the most powerful graeaes in the coven).

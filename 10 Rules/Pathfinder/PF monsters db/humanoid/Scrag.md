@@ -68,7 +68,6 @@ Environment: mountains
 Temperature: cold
 Organization: solitary or gang (2-4)
 Treasure: standard
-Description: Dwelling in both fresh and salt water, these cousins of the troll have the aquatic subtype and the amphibious special quality. Scrags have a base land speed of 20 feet and a swim speed of 40 feet. A scrag's regeneration ability only works if it is in contact with water. Scrags dwell in any body of water in any climate, though they are most common in cold northern rivers and lakes, and are less bestial in appearance than their terrestrial cousins, though no less violent.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dwelling in both fresh and salt water, these cousins of the troll have the aquatic subtype and the amphibious special quality. Scrags have a base land speed of 20 feet and a swim speed of 40 feet. A scrag's regeneration ability only works if it is in contact with water. Scrags dwell in any body of water in any climate, though they are most common in cold northern rivers and lakes, and are less bestial in appearance than their terrestrial cousins, though no less violent.

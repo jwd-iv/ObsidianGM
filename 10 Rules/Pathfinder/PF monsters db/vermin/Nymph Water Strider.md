@@ -68,7 +68,6 @@ Environment: water
 Temperature: any
 Organization: solitary or colony (2-9)
 Treasure: incidental
-Description: A nymph water strider is an immature specimen of the giant water strider-more mature than a caterpillar but not yet an adult. Over the next several months it eats and molts, increasing in size with each molt until it becomes Large and is fully adult. These creatures are shy and more skittish than adults. Lizardfolk hunt wild nymph water striders, and consider them a wonderful delicacy. Boggards and gripplis raise them as food animals, but something about the domestication process makes such nymphs unappealing to lizardfolk. In the wild they frantically flee other creatures that approach them, making them difficult to hunt or corral. Many boggard, lizardfolk, and grippli tribes consider capturing a live nymph a rite of passage to adulthood. A nymph water strider isn't suitable as a mount for any Large or smaller creature.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A nymph water strider is an immature specimen of the giant water strider-more mature than a caterpillar but not yet an adult. Over the next several months it eats and molts, increasing in size with each molt until it becomes Large and is fully adult. These creatures are shy and more skittish than adults. Lizardfolk hunt wild nymph water striders, and consider them a wonderful delicacy. Boggards and gripplis raise them as food animals, but something about the domestication process makes such nymphs unappealing to lizardfolk. In the wild they frantically flee other creatures that approach them, making them difficult to hunt or corral. Many boggard, lizardfolk, and grippli tribes consider capturing a live nymph a rite of passage to adulthood. A nymph water strider isn't suitable as a mount for any Large or smaller creature.

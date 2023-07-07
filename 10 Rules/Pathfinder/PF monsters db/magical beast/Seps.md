@@ -72,7 +72,6 @@ Environment: desert/forest
 Temperature: temperate/warm
 Organization: solitary or nest (2-5)
 Treasure: incidental (acid-proof items)
-Description: A seps is an exotic snake-like creature whose powerful jaws contain acidic venom so potent that it quickly dissolves prey into liquid. An adult seps is 30 feet long and weighs 1,500 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A seps is an exotic snake-like creature whose powerful jaws contain acidic venom so potent that it quickly dissolves prey into liquid. An adult seps is 30 feet long and weighs 1,500 pounds.

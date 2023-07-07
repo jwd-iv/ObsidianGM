@@ -66,7 +66,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or den (3-6)
 Treasure: incidental
-Description: Common in a variety of environments and climates, dire weasels are larger relatives of normal weasels. They're relentless predators known for their fearless nature and killing frenzies, and are dangerous to farmsteads and settlements-they not only prey on cattle and horses, but also target humanoids. Those that do often become obsessed with the taste of that flesh and hunt such prey exclusively. Sometimes, dire weasels are trained to be mounts by evil humanoids- usually by bugbears or hobgoblins. Measuring 12 feet long, a dire weasel stands 4 feet tall at the shoulder and weighs around 900 pounds.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Common in a variety of environments and climates, dire weasels are larger relatives of normal weasels. They're relentless predators known for their fearless nature and killing frenzies, and are dangerous to farmsteads and settlements-they not only prey on cattle and horses, but also target humanoids. Those that do often become obsessed with the taste of that flesh and hunt such prey exclusively. Sometimes, dire weasels are trained to be mounts by evil humanoids- usually by bugbears or hobgoblins. Measuring 12 feet long, a dire weasel stands 4 feet tall at the shoulder and weighs around 900 pounds.

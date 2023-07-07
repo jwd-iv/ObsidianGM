@@ -71,7 +71,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: Made using one of the hardest and most precious substances, the adamantine golem is a deadly work of art. It can crush the life from foes that dare to get in its way and is nearly impossible to permanently destroy. The vast amount of adamantine required to build even one of these destructive golems is so significant that most worlds do not have enough resources, forcing the creator to travel to the Plane of Earth or remote Outer Planes simply to gather the raw materials needed to build the golem's body.  Construction A adamantine golem's body is made of more than 4,000 pounds of adamantine, mithral, gold, platinum, and other metals worth a total of 100,000 gp.  Adamantine Golem CL 20th; Price 600,000 gp Construction Requirements Craft Construct, crushing fist, geas/quest, heal, stoneskin, wish, creator must be caster level 20th; Skill Craft (sculpture) DC 35; Cost 350,000 gp
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Made using one of the hardest and most precious substances, the adamantine golem is a deadly work of art. It can crush the life from foes that dare to get in its way and is nearly impossible to permanently destroy. The vast amount of adamantine required to build even one of these destructive golems is so significant that most worlds do not have enough resources, forcing the creator to travel to the Plane of Earth or remote Outer Planes simply to gather the raw materials needed to build the golem's body.  Construction A adamantine golem's body is made of more than 4,000 pounds of adamantine, mithral, gold, platinum, and other metals worth a total of 100,000 gp.  Adamantine Golem CL 20th; Price 600,000 gp Construction Requirements Craft Construct, crushing fist, geas/quest, heal, stoneskin, wish, creator must be caster level 20th; Skill Craft (sculpture) DC 35; Cost 350,000 gp

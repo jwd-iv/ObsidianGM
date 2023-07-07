@@ -66,8 +66,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary, pair, or herd (3-8)
 Treasure: none
-Description: >
-  The immense baluchitherium stands nearly 18 feet high at the shoulder, measures 30 feet from end to end, and weighs 40,000 pounds. Despite its size, it lives a peaceful life pulling leaves from the tops of trees unless startled into action. When panicked, a baluchitherium tramples any obstacle in its path. If confronted, it smashes its tormentors with its elephantine feet.  A properly trained baluchitherium makes a capable mount for ettins, ogres, smaller giants, or other Large humanoids, and is one of the few mammals other than an elephant able to fill that role. Its relatively ponderous pace limits its usefulness to some extent, but its strength often more than makes up for this shortcoming.  Baluchitherium Companions  Starting Statistics: Size Medium; AC +4 natural armor; Speed 40 ft.; Attack 2 hooves (1d4); Ability Scores Str 14, Dex 14, Con 15, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.  7th-Level Advancement: Size Large; AC +3 natural armor; Attack 2 hooves (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities trample.
 Race: 
 Class: 
 MR: 
@@ -77,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The immense baluchitherium stands nearly 18 feet high at the shoulder, measures 30 feet from end to end, and weighs 40,000 pounds. Despite its size, it lives a peaceful life pulling leaves from the tops of trees unless startled into action. When panicked, a baluchitherium tramples any obstacle in its path. If confronted, it smashes its tormentors with its elephantine feet.  A properly trained baluchitherium makes a capable mount for ettins, ogres, smaller giants, or other Large humanoids, and is one of the few mammals other than an elephant able to fill that role. Its relatively ponderous pace limits its usefulness to some extent, but its strength often more than makes up for this shortcoming.  Baluchitherium Companions  Starting Statistics: Size Medium; AC +4 natural armor; Speed 40 ft.; Attack 2 hooves (1d4); Ability Scores Str 14, Dex 14, Con 15, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.  7th-Level Advancement: Size Large; AC +3 natural armor; Attack 2 hooves (1d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities trample.

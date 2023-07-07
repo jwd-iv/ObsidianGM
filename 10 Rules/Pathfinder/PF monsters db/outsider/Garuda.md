@@ -85,7 +85,6 @@ Environment: hills/mountains
 Temperature: tropical
 Organization: solitary, pair, or aerie (3-6)
 Treasure: double (+1 shock composite longbow [+3 Str], other treasure)
-Description: Garudas are noble, birdlike creatures that inhabit rugged hills. While they remain detached from humanoid societies, they are impetuous and gallant, often serving as protectors of nearby communities.  Most garudas stand around 6 feet tall with a wingspan of 15 feet and weigh approximately 150 pounds.
 Race: 
 Class: 
 MR: 
@@ -95,3 +94,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Garudas are noble, birdlike creatures that inhabit rugged hills. While they remain detached from humanoid societies, they are impetuous and gallant, often serving as protectors of nearby communities.  Most garudas stand around 6 feet tall with a wingspan of 15 feet and weigh approximately 150 pounds.

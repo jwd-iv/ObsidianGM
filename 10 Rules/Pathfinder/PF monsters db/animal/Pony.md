@@ -65,7 +65,6 @@ Environment: plains
 Temperature: temperate
 Organization: solitary, pair, or herd (3-30)
 Treasure: none
-Description: Ponies are smaller breeds of horses better suited to half lings, gnomes, and dwarves, but they also make fond pets for humans as well. They stand 3 to 4 feet tall and weigh about 600 pounds. A light load for a pony is up to 100 pounds, a medium load is 101-200 pounds, and a heavy load is 201-300 pounds. A pony can drag 1,500 pounds. The statistics presented above are for a typical pony. Tougher ponies with the advanced simple template exist, but are relatively uncommon and, unlike horses, these creatures are not generally called "heavy ponies." Like horses, ponies can be trained for combat with the Handle Animal skill, and such mounts often serve half lings, gnomes, and other small races as steeds in combat.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ponies are smaller breeds of horses better suited to half lings, gnomes, and dwarves, but they also make fond pets for humans as well. They stand 3 to 4 feet tall and weigh about 600 pounds. A light load for a pony is up to 100 pounds, a medium load is 101-200 pounds, and a heavy load is 201-300 pounds. A pony can drag 1,500 pounds. The statistics presented above are for a typical pony. Tougher ponies with the advanced simple template exist, but are relatively uncommon and, unlike horses, these creatures are not generally called "heavy ponies." Like horses, ponies can be trained for combat with the Handle Animal skill, and such mounts often serve half lings, gnomes, and other small races as steeds in combat.

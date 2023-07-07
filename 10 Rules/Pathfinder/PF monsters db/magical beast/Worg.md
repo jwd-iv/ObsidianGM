@@ -65,7 +65,6 @@ Environment: forest/plains
 Temperature: temperate
 Organization: solitary, pair, or pack (3-11)
 Treasure: incidental
-Description: Worgs are oversized, evil, intelligent wolves often found dwelling amid goblins or other savage races. A typical worg has gray or black fur, stands 3 feet tall at the shoulder, and weighs 300 pounds.  Worgs hunt in packs, running down and surrounding their prey like common wolves, but their intelligence and ability to speak make them better at coordinating their attacks. They sometimes use one packmate as a decoy, pretending to be a humanoid calling for help in order to lure intelligent prey into an ambush. Worgs that travel with goblins often allow them to ride on their backs, but in such situations it is usually the worg that is the master, not the rider.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Worgs are oversized, evil, intelligent wolves often found dwelling amid goblins or other savage races. A typical worg has gray or black fur, stands 3 feet tall at the shoulder, and weighs 300 pounds.  Worgs hunt in packs, running down and surrounding their prey like common wolves, but their intelligence and ability to speak make them better at coordinating their attacks. They sometimes use one packmate as a decoy, pretending to be a humanoid calling for help in order to lure intelligent prey into an ambush. Worgs that travel with goblins often allow them to ride on their backs, but in such situations it is usually the worg that is the master, not the rider.

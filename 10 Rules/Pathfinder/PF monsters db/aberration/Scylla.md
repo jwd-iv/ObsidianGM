@@ -67,7 +67,6 @@ Environment: water
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: The scylla is one of the more nightmarish aberrations to blight the mortal world. Conf licting tales of her origins abound, from demonic flesh-crafting and arcane experiments to a divine curse handed down by a vengeful deity. The most popular stories cast the first scylla as the monstrous spawn of a union between a mortal and a god. Whatever the case, scyllas are fortunately quite rare, enough so that many consider them nothing more than tall tales told by sailors deep in their cups.  Scyllas dwell along major shipping lanes, often near coastlines, where they use their spell-like abilities to lure entire ships to their doom. The hideous monsters are intelligent creatures, though half-mad with hunger and self-loathing. They normally do not use weapons, but when they do, they prefer to fight with light weapons wielded by their human-sized upper arms. However, they much prefer to keep their hands free to utilize magic items like wands, staves, and other powerful devices.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The scylla is one of the more nightmarish aberrations to blight the mortal world. Conf licting tales of her origins abound, from demonic flesh-crafting and arcane experiments to a divine curse handed down by a vengeful deity. The most popular stories cast the first scylla as the monstrous spawn of a union between a mortal and a god. Whatever the case, scyllas are fortunately quite rare, enough so that many consider them nothing more than tall tales told by sailors deep in their cups.  Scyllas dwell along major shipping lanes, often near coastlines, where they use their spell-like abilities to lure entire ships to their doom. The hideous monsters are intelligent creatures, though half-mad with hunger and self-loathing. They normally do not use weapons, but when they do, they prefer to fight with light weapons wielded by their human-sized upper arms. However, they much prefer to keep their hands free to utilize magic items like wands, staves, and other powerful devices.

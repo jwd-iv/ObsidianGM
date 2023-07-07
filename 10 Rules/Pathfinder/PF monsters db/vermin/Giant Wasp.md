@@ -67,7 +67,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, group (3-6), or nest (7-19)
 Treasure: none
-Description: Giant wasps nearly always form nests, though not like their much smaller cousins. Each nest functions with one leader (the queen), a few workers, and several soldiers.  The workers and the queen produce offspring while the soldiers protect the nest and hunt for food. Giant wasp nests are typically found in caves, abandoned houses, or any complex large enough to fit a dozen 10-foottall insects.  Giant wasps attack when hungry or threatened, stinging their prey to death. They take dead or incapacitated opponents back to their lairs as food for their unhatched young-the experience of lying in a wasp nest, paralyzed while its grubs feed, is one of nature's cruelest inventions.  Even when part of a nest, giant wasps tend toward solitary hunting, and it's rare to see more than one at a time.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant wasps nearly always form nests, though not like their much smaller cousins. Each nest functions with one leader (the queen), a few workers, and several soldiers.  The workers and the queen produce offspring while the soldiers protect the nest and hunt for food. Giant wasp nests are typically found in caves, abandoned houses, or any complex large enough to fit a dozen 10-foottall insects.  Giant wasps attack when hungry or threatened, stinging their prey to death. They take dead or incapacitated opponents back to their lairs as food for their unhatched young-the experience of lying in a wasp nest, paralyzed while its grubs feed, is one of nature's cruelest inventions.  Even when part of a nest, giant wasps tend toward solitary hunting, and it's rare to see more than one at a time.

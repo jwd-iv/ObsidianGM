@@ -75,7 +75,6 @@ Environment: any (Limbo)
 Temperature: any
 Organization: solitary, pair, or cacophony (3-12)
 Treasure: none
-Description: Far more bestial than their kin, naunets are the lowest caste of the true proteans, the shock troops of their race and roving marauders in the cause of chaos. Primarily found in the shifting borderlands between Limbo and other planes, naunets are driven half-insane by the stability and stasis of such areas, and frequently rampage through the edges of other planes, tearing up the very fabric of reality itself and returning vast swaths of land to the beautiful, formless potentiality of their home.  A naunet is 12 feet long and weighs 900 pounds.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Far more bestial than their kin, naunets are the lowest caste of the true proteans, the shock troops of their race and roving marauders in the cause of chaos. Primarily found in the shifting borderlands between Limbo and other planes, naunets are driven half-insane by the stability and stasis of such areas, and frequently rampage through the edges of other planes, tearing up the very fabric of reality itself and returning vast swaths of land to the beautiful, formless potentiality of their home.  A naunet is 12 feet long and weighs 900 pounds.

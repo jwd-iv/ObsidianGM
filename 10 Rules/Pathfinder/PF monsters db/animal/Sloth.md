@@ -66,7 +66,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary or pair
 Treasure: none
-Description: Sloths are tree-dwelling herbivores. They are known for their efficient metabolisms and slow movement.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Sloths are tree-dwelling herbivores. They are known for their efficient metabolisms and slow movement.

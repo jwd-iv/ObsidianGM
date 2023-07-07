@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or rack (3-10)
 Treasure: standard
-Description: Made up of smoke, blood, and gold, raktavarnas are the least of the rakshasas-they are born not from humanoids, but from the souls of rakshasas who failed utterly in their previous incarnation and who are thus reborn from a serpent's egg.  These terrors drift through society, passing from hand to hand as weapons or strange tokens from foreign lands, curiosities brought home by traders and emissaries and given to leaders as tribute. In this manner the raktavarnas gain entry into corridors of power throughout the world, and what they see, their foul masters know. A raktavarna's servitude to a master ends only when its master decrees, or (more commonly) upon the master's death. Little disconcerts raktavarnas more than having no master, and when they are cast adrift in this manner, they seek a replacement as soon as they can.  A 7th-level lawful evil spellcaster with the Improved Familiar feat can gain a raktavarna rakshasa as a familiar.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Made up of smoke, blood, and gold, raktavarnas are the least of the rakshasas-they are born not from humanoids, but from the souls of rakshasas who failed utterly in their previous incarnation and who are thus reborn from a serpent's egg.  These terrors drift through society, passing from hand to hand as weapons or strange tokens from foreign lands, curiosities brought home by traders and emissaries and given to leaders as tribute. In this manner the raktavarnas gain entry into corridors of power throughout the world, and what they see, their foul masters know. A raktavarna's servitude to a master ends only when its master decrees, or (more commonly) upon the master's death. Little disconcerts raktavarnas more than having no master, and when they are cast adrift in this manner, they seek a replacement as soon as they can.  A 7th-level lawful evil spellcaster with the Improved Familiar feat can gain a raktavarna rakshasa as a familiar.

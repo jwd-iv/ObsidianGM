@@ -67,8 +67,6 @@ Environment: forest/plains
 Temperature: cold/temperate
 Organization: solitary or herd (6-30)
 Treasure: none
-Description: >
-  The great mastodons are primeval cousins of elephants. Their large tusks dwarf those of regular elephants, jutting outward and then curving back toward one another at the tips. Shaggy woolly mammoths are a mastodon variant adapted to cold environments, but have the same statistics. Elephant/Mastodon Companions Starting Statistics: Size Medium; Speed 40 ft.; AC +4 natural armor; Attack gore (1d8), slam (1d6); Ability Scores Str 14, Dex 14, Con 13, Int 2, Wis 13, Cha 7; Special Abilities low-light vision, scent. 7th-Level Advancement: Size Large; AC +3 natural armor; Attack gore (2d6), slam (1d8); Ability Scores +8 Str, -2 Dex, +4 Con; Special Abilities trample (2d6).
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The great mastodons are primeval cousins of elephants. Their large tusks dwarf those of regular elephants, jutting outward and then curving back toward one another at the tips. Shaggy woolly mammoths are a mastodon variant adapted to cold environments, but have the same statistics. Elephant/Mastodon Companions Starting Statistics: Size Medium; Speed 40 ft.; AC +4 natural armor; Attack gore (1d8), slam (1d6); Ability Scores Str 14, Dex 14, Con 13, Int 2, Wis 13, Cha 7; Special Abilities low-light vision, scent. 7th-Level Advancement: Size Large; AC +3 natural armor; Attack gore (2d6), slam (1d8); Ability Scores +8 Str, -2 Dex, +4 Con; Special Abilities trample (2d6).

@@ -72,7 +72,6 @@ Environment: plains/forest
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: A manitou is a powerful, benevolent spirit of nature that safeguards entire regions from danger, heals the sick and wounded, and preserves the balance among all creatures. When not invisible, a manitou looks like a powerfully built, long-haired humanoid with skin made of tree bark and rose quartz. A manitou stands 20 feet tall and weighs over 5,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A manitou is a powerful, benevolent spirit of nature that safeguards entire regions from danger, heals the sick and wounded, and preserves the balance among all creatures. When not invisible, a manitou looks like a powerfully built, long-haired humanoid with skin made of tree bark and rose quartz. A manitou stands 20 feet tall and weighs over 5,000 pounds.

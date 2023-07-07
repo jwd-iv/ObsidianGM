@@ -69,7 +69,6 @@ Environment: plains
 Temperature: warm
 Organization: solitary or pair
 Treasure: none
-Description: The cheetah is a swift and deadly predator capable of moving with incredible speed, allowing it to run down unsuspecting foes hundreds of feet away.  The hunting cat avoids areas of dense and tangled undergrowth, but has great skill at lying in wait in tall grass.  An adult cheetah is 4-1/2 feet long and weighs 140 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The cheetah is a swift and deadly predator capable of moving with incredible speed, allowing it to run down unsuspecting foes hundreds of feet away.  The hunting cat avoids areas of dense and tangled undergrowth, but has great skill at lying in wait in tall grass.  An adult cheetah is 4-1/2 feet long and weighs 140 pounds.

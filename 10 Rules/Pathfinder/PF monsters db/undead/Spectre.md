@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, gang (3-6), or swarm (7-12)
 Treasure: 
-Description: Spectres are evil undead that hate sunlight and living things. Most are the remnants of murdered or evil humans, their anger preventing them from entering the afterlife. Like ghosts, spectres haunt the places of their deaths, and seek to draw others into the lonely abyss of undeath. A spectre looks much as it did in life and can be easily recognized by those who knew the individual or have seen the individual's face in paintings or drawings. Spectres retain a strong sense of identity, and even ancient, insane spectres generally remain coherent. Evil historians and necromancers often try to ally with spectres for the knowledge they held in life and retain in undeath.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Spectres are evil undead that hate sunlight and living things. Most are the remnants of murdered or evil humans, their anger preventing them from entering the afterlife. Like ghosts, spectres haunt the places of their deaths, and seek to draw others into the lonely abyss of undeath. A spectre looks much as it did in life and can be easily recognized by those who knew the individual or have seen the individual's face in paintings or drawings. Spectres retain a strong sense of identity, and even ancient, insane spectres generally remain coherent. Evil historians and necromancers often try to ally with spectres for the knowledge they held in life and retain in undeath.

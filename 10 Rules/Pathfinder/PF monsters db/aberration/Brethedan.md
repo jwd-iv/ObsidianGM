@@ -70,7 +70,6 @@ Environment: sky
 Temperature: any
 Organization: solitary, pair, or flotilla (3-8)
 Treasure: none
-Description: Brethedans are an adaptive race of floating, telepathic creatures that live on gas giant worlds. Though highly intelligent, they disdain physical tools, likely because of the lack of raw materials available in the clouds of their vast homes. Instead, brethedans have evolved to solve problems by combining and modifying their bodies or producing tailored biological agents inside themselves. Though humanoids rarely understand the placid race's obscure and alien goals, brethedans do sometimes travel to and even colonize other gaseous worlds, and are believed to be the first creatures to have tamed oma for use as living spaceships. A typical Brethedan is 10 feet long and weighs 200 pounds.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Brethedans are an adaptive race of floating, telepathic creatures that live on gas giant worlds. Though highly intelligent, they disdain physical tools, likely because of the lack of raw materials available in the clouds of their vast homes. Instead, brethedans have evolved to solve problems by combining and modifying their bodies or producing tailored biological agents inside themselves. Though humanoids rarely understand the placid race's obscure and alien goals, brethedans do sometimes travel to and even colonize other gaseous worlds, and are believed to be the first creatures to have tamed oma for use as living spaceships. A typical Brethedan is 10 feet long and weighs 200 pounds.

@@ -80,7 +80,6 @@ Environment: underground
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Underworld dragons-also called futsanglungs-are calculating, greedy creatures that carve great labyrinthine tunnels beneath the world, defending their hidden treasures. Preferring the earth to the heavens, they channel the fires of the world's core within their twisting, stonelike bodies and through flaming breath hot enough to turn granite into slag.
 Race: 
 Class: 
 MR: 
@@ -90,3 +89,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Underworld dragons-also called futsanglungs-are calculating, greedy creatures that carve great labyrinthine tunnels beneath the world, defending their hidden treasures. Preferring the earth to the heavens, they channel the fires of the world's core within their twisting, stonelike bodies and through flaming breath hot enough to turn granite into slag.

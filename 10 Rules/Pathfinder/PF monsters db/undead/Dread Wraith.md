@@ -66,7 +66,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, gang (3-6), or pack (7-12)
 Treasure: none
-Description: Dread wraiths are wraiths that existed long enough and fed on enough life force to undergo an unholy transformation, increasing in size and strength.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dread wraiths are wraiths that existed long enough and fed on enough life force to undergo an unholy transformation, increasing in size and strength.

@@ -75,7 +75,6 @@ Environment: hills/mountains
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Thunderbirds bring the storm on their wings. In times of drought, they are welcomed with joy and celebration.  In other times, they are placated with gifts in hopes that they might leave quickly before flooding begins. When angered, thunderbirds can call down hurricanes and lay waste to entire villages, so in regions where these birds dwell, many villages maintain extensive rituals designed to appease and honor the local thunderbirds.  Thunderbirds nest near the base of waterfalls, where the constant thrum of crashing water prepares the hatchlings for a life at the heart of a storm. Once the chicks have hatched, their parents carry the offspring to nests at the top of mountains, where the young are struck by their first bolts of lightning and learn the mysteries of the storm.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Thunderbirds bring the storm on their wings. In times of drought, they are welcomed with joy and celebration.  In other times, they are placated with gifts in hopes that they might leave quickly before flooding begins. When angered, thunderbirds can call down hurricanes and lay waste to entire villages, so in regions where these birds dwell, many villages maintain extensive rituals designed to appease and honor the local thunderbirds.  Thunderbirds nest near the base of waterfalls, where the constant thrum of crashing water prepares the hatchlings for a life at the heart of a storm. Once the chicks have hatched, their parents carry the offspring to nests at the top of mountains, where the young are struck by their first bolts of lightning and learn the mysteries of the storm.

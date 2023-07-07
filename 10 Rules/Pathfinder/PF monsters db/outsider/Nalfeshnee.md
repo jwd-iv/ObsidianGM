@@ -69,7 +69,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary or warband (1 nalfeshnee, 1 hezrou, and 2-5 vrocks)
 Treasure: standard
-Description: Few demons understand the inner workings of the Abyss like the nalfeshnee, and it is not unusual to see a nalfeshnee seeming to serve the Abyss itself rather than a demon lord. Some claim stewardship over the fleshy realms that birth new demons, while others guard sites of particular significance deep in the plane's secret reaches. Often, a nalfeshnee's realm in the Abyss surpasses the strength and size of the largest of mortal kingdoms, for nalfeshnees display a singular gift for managing and ordering the chaos of the Abyss. Mortal summoners often seek them out for their unparalleled yet mad intellects, ever taking care to comb through bargains with such demons for hidden and unwanted consequences, for there is little a nalfeshnee will agree to do that does not, in some sinister way, advance the needs and desires of the Abyss. Nalfeshnees stand 20 feet tall and weigh 8,000 pounds. They form from the souls of greedy or avaricious evil mortals, particularly those who ruled over empires of slavery, theft, banditry, and more violent vices.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Few demons understand the inner workings of the Abyss like the nalfeshnee, and it is not unusual to see a nalfeshnee seeming to serve the Abyss itself rather than a demon lord. Some claim stewardship over the fleshy realms that birth new demons, while others guard sites of particular significance deep in the plane's secret reaches. Often, a nalfeshnee's realm in the Abyss surpasses the strength and size of the largest of mortal kingdoms, for nalfeshnees display a singular gift for managing and ordering the chaos of the Abyss. Mortal summoners often seek them out for their unparalleled yet mad intellects, ever taking care to comb through bargains with such demons for hidden and unwanted consequences, for there is little a nalfeshnee will agree to do that does not, in some sinister way, advance the needs and desires of the Abyss. Nalfeshnees stand 20 feet tall and weigh 8,000 pounds. They form from the souls of greedy or avaricious evil mortals, particularly those who ruled over empires of slavery, theft, banditry, and more violent vices.

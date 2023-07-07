@@ -65,8 +65,6 @@ Environment: oceans
 Temperature: cold
 Organization: solitary, pair, or pod (3-20)
 Treasure: none
-Description: >
-  The orca, or "killer whale," is actually the largest species of dolphin. Adult orcas are typically 15-25 feet long and weigh 8,000-12,000 pounds Orca Companions Starting Statistics: Size Medium; Speed swim 80 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 11, Dex 19, Con 10, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, hold breath. 7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities blindsight 120 ft.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The orca, or "killer whale," is actually the largest species of dolphin. Adult orcas are typically 15-25 feet long and weigh 8,000-12,000 pounds Orca Companions Starting Statistics: Size Medium; Speed swim 80 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 11, Dex 19, Con 10, Int 2, Wis 14, Cha 6; Special Qualities low-light vision, hold breath. 7th-Level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities blindsight 120 ft.

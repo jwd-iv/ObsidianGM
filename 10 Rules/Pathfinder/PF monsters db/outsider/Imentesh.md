@@ -71,7 +71,6 @@ Environment: any (Limbo)
 Temperature: any
 Organization: solitary, pair, or envoy (3-10)
 Treasure: standard
-Description: Missionaries of chaos and heralds of reality's eventual unraveling, imenteshes are the proteans most likely to be encountered outside of Limbo. Despite their sometimes loquacious and courtly manner, imenteshes' entropic agenda is ever at the front of their minds, and this inherent madness is evident in the soft, telepathic susurrus that constantly surrounds them, threatening to warp the minds of the weak-willed.  An imentesh is 15 feet long and weighs 1,200 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Missionaries of chaos and heralds of reality's eventual unraveling, imenteshes are the proteans most likely to be encountered outside of Limbo. Despite their sometimes loquacious and courtly manner, imenteshes' entropic agenda is ever at the front of their minds, and this inherent madness is evident in the soft, telepathic susurrus that constantly surrounds them, threatening to warp the minds of the weak-willed.  An imentesh is 15 feet long and weighs 1,200 pounds.

@@ -75,7 +75,6 @@ Environment: mountains
 Temperature: cold
 Organization: solitary, pair, patrol (3-6), squad (7-12), or company (13-30 plus 2-4 fighters or rogues of 2nd-4th level, 1 oracle or sorcerer of 5th-8th level, 1 ranger or monk commander of 5th-6th level, 10-20 yetis, 1-4 cloud giants, 8-12 frost giants, 10-16 stone giants, 4-8 lamia matriarchs, and 1-2 adult blue dragons)
 Treasure: standard (masterwork full plate armor, masterwork longsword, 3 masterwork spears, other treasure)
-Description: Magically crafted and crossbred from taiga and fire giant slaves by ancient wizards, rune giants are anathema to their own kind.  Given power to command and magically control other giants, the rune giants themselves served their even more powerful masters, and in so doing granted ancient empires armies of giants to command.  In the eons since these ancient empires collapsed, rune giants have persisted as a race of their own, little more than bogeymen, horrors whispered of late at night by superstitious giants.  Rune giants' charcoal flesh is decorated by dozens of runes-manifestations of their eldritch powers. Rune giants are 40 feet tall and weigh 25,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Magically crafted and crossbred from taiga and fire giant slaves by ancient wizards, rune giants are anathema to their own kind.  Given power to command and magically control other giants, the rune giants themselves served their even more powerful masters, and in so doing granted ancient empires armies of giants to command.  In the eons since these ancient empires collapsed, rune giants have persisted as a race of their own, little more than bogeymen, horrors whispered of late at night by superstitious giants.  Rune giants' charcoal flesh is decorated by dozens of runes-manifestations of their eldritch powers. Rune giants are 40 feet tall and weigh 25,000 pounds.

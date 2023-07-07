@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pack (2-6)
 Treasure: standard
-Description: Horrid undead, manananggals walk among the living by day and prey upon them at night. These creatures delight in spreading fear and distrust. By day, they tend to stay inside because of their light sensitivity. They mask this odd behavior by either living just outside villages as reclusive hermits or by obtaining roles within the community that explain away or justify their eccentricities.  Manananggals pass themselves off as normal people, usually posing as mad old women, midwives, hedge witches, or mystics. This allows the undead creatures to select their prey from within the community. Manananggals particularly enjoy feeding upon pregnant women, targeting them in their sleep so the undead may feast on the blood of both mothers and the children they carry. These foul creatures drain blood via their long, black, hollow tongues. Manananggals despise the scent of garlic and strong spices like cloves and anise.  As they fly through the night, manananggals make a ticking or clicking sound, leading some villagers to call the creatures "tik-tiks." Once separated, a manananggal's mobile torso has a 6-foot wingspan.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Horrid undead, manananggals walk among the living by day and prey upon them at night. These creatures delight in spreading fear and distrust. By day, they tend to stay inside because of their light sensitivity. They mask this odd behavior by either living just outside villages as reclusive hermits or by obtaining roles within the community that explain away or justify their eccentricities.  Manananggals pass themselves off as normal people, usually posing as mad old women, midwives, hedge witches, or mystics. This allows the undead creatures to select their prey from within the community. Manananggals particularly enjoy feeding upon pregnant women, targeting them in their sleep so the undead may feast on the blood of both mothers and the children they carry. These foul creatures drain blood via their long, black, hollow tongues. Manananggals despise the scent of garlic and strong spices like cloves and anise.  As they fly through the night, manananggals make a ticking or clicking sound, leading some villagers to call the creatures "tik-tiks." Once separated, a manananggal's mobile torso has a 6-foot wingspan.

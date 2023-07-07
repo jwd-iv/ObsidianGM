@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: Forged from thousands of gears, the clockwork golem is a precision creation. In combat, a clockwork golem is ruthlessly efficient, moving with swift conviction to grind and slice its foes to ribbons.  Construction  A clockwork golem's body is made up of hundreds of carefully crafted copper, iron, and silver gears, weighing almost 1,500 pounds, and worth a total of 10,000 gp.  CLOCKWORK GOLEM  CL 15th; Price 120,000 gp  Construction  Requirements Craft Construct, animate objects, blade barrier, geas/quest, grease, telekinesis, creator must be caster level 15th; Skill Craft (clocks) or Craft (locks) DC 20; Cost 65,000 gp
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Forged from thousands of gears, the clockwork golem is a precision creation. In combat, a clockwork golem is ruthlessly efficient, moving with swift conviction to grind and slice its foes to ribbons.  Construction  A clockwork golem's body is made up of hundreds of carefully crafted copper, iron, and silver gears, weighing almost 1,500 pounds, and worth a total of 10,000 gp.  CLOCKWORK GOLEM  CL 15th; Price 120,000 gp  Construction  Requirements Craft Construct, animate objects, blade barrier, geas/quest, grease, telekinesis, creator must be caster level 15th; Skill Craft (clocks) or Craft (locks) DC 20; Cost 65,000 gp

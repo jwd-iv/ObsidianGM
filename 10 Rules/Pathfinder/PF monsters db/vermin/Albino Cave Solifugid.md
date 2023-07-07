@@ -67,7 +67,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, or colony (3-6)
 Treasure: none
-Description: The six-legged albino cave solifugid is well known for its aggressive hunting patterns. It has a legspan of 5 feet, and weighs 100 pounds.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The six-legged albino cave solifugid is well known for its aggressive hunting patterns. It has a legspan of 5 feet, and weighs 100 pounds.

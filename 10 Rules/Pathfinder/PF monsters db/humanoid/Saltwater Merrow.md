@@ -67,7 +67,6 @@ Environment: oceans
 Temperature: temperate
 Organization: solitary, pair, gang (3-4), or family (5-16)
 Treasure: standard (2 javelins, other treasure)
-Description: Merrows are best described as the aquatic cousins of ogres. Although their green, scaled skin and webbed hands and feet make them appear different, merrows are just as cruel, savage, and wicked as their ogre relatives. The saltwater variety grows much larger than the freshwater variety, but the behavior and society of the two types are otherwise similar.  Merrows are known for pillaging small fishing villages and towns under cover of night. Similar to ogres, merrows have a strong sense of family and typically hunt in gangs, preferring to grab a couple of villagers and head back into the water rather than sticking around and dealing with armed resistance. Merrows have a stronger sense of unity than ogres do, and rarely will the leader of a tribe be challenged. When they have chosen a village or town to plunder, they attack as a gang and share the spoils.  A freshwater merrow is 12 feet tall and weighs 500 pounds. Saltwater merrows easily reach 20 feet tall and 4,000 pounds, and have been known to hunt whales. The two species do not often come in contact, but when they do, feuding and conf lict are swift to develop.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Merrows are best described as the aquatic cousins of ogres. Although their green, scaled skin and webbed hands and feet make them appear different, merrows are just as cruel, savage, and wicked as their ogre relatives. The saltwater variety grows much larger than the freshwater variety, but the behavior and society of the two types are otherwise similar.  Merrows are known for pillaging small fishing villages and towns under cover of night. Similar to ogres, merrows have a strong sense of family and typically hunt in gangs, preferring to grab a couple of villagers and head back into the water rather than sticking around and dealing with armed resistance. Merrows have a stronger sense of unity than ogres do, and rarely will the leader of a tribe be challenged. When they have chosen a village or town to plunder, they attack as a gang and share the spoils.  A freshwater merrow is 12 feet tall and weighs 500 pounds. Saltwater merrows easily reach 20 feet tall and 4,000 pounds, and have been known to hunt whales. The two species do not often come in contact, but when they do, feuding and conf lict are swift to develop.

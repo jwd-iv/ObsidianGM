@@ -68,7 +68,6 @@ Environment: water
 Temperature: any
 Organization: solitary or cast (2-12)
 Treasure: none
-Description: A bane to all vessels traveling the seas, shipwrecker crabs can ruin the career of a merchant captain in minutes, destroying her ship, dumping its cargo into the waters below, and plucking her drowning crew from the wreckage for food.  Shipwrecker crabs live most of their lives in shallow seas, coming near the coast or surface to hunt and feed.  A shipwrecker crab measures 50 feet across, with two long arms capable of extending a further 30 feet each, and weighs 6 tons.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A bane to all vessels traveling the seas, shipwrecker crabs can ruin the career of a merchant captain in minutes, destroying her ship, dumping its cargo into the waters below, and plucking her drowning crew from the wreckage for food.  Shipwrecker crabs live most of their lives in shallow seas, coming near the coast or surface to hunt and feed.  A shipwrecker crab measures 50 feet across, with two long arms capable of extending a further 30 feet each, and weighs 6 tons.

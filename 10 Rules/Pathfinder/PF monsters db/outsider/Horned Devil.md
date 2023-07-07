@@ -79,7 +79,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, pair, or wing (3-10)
 Treasure: standard (+1 unholy spiked chain, other treasure)
-Description: Among the deadliest of the archdevils' warriors and able commanders of lesser fiends, horned devils spread the rule of Hell wherever they tread. These greater devils are trained, forged, and reforged to be among the most lethal, merciless, and obedient warriors in the multiverse. While rank-and-file horned devils are called cornugons, the greatest of their kind are known as malebranche.  A typical horned devil rises to a hulking 9 feet tall, bears 14-foot-wide wings, and weighs 700 pounds.
 Race: 
 Class: 
 MR: 
@@ -89,3 +88,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Among the deadliest of the archdevils' warriors and able commanders of lesser fiends, horned devils spread the rule of Hell wherever they tread. These greater devils are trained, forged, and reforged to be among the most lethal, merciless, and obedient warriors in the multiverse. While rank-and-file horned devils are called cornugons, the greatest of their kind are known as malebranche.  A typical horned devil rises to a hulking 9 feet tall, bears 14-foot-wide wings, and weighs 700 pounds.

@@ -71,7 +71,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, or pack (3-5)
 Treasure: incidental
-Description: Despite its bestial appearance, the destrachan is in fact a creature of cunning and cruel intellect that enjoys inf licting pain and viciously toying with its prey. It has no eyes, and is completely blind, but possesses a pair of complex, tripartite ears it can adjust to different levels of sensitivity to sound, allowing the destrachan to hunt in absolute darkness as if it were able to see.  Destrachans are carnivores, preferring to stalk and kill live prey, although they also feast on carrion. This habit serves them well, since they often kill more than they can immediately consume. They often hunt in packs, using a complex series of clicks, shrieks, and whistles to communicate with each other. While destrachans cannot speak, they are capable of understanding spoken languages like the common tongue, and often take pleasure in their victims' cries and pleas for mercy.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Despite its bestial appearance, the destrachan is in fact a creature of cunning and cruel intellect that enjoys inf licting pain and viciously toying with its prey. It has no eyes, and is completely blind, but possesses a pair of complex, tripartite ears it can adjust to different levels of sensitivity to sound, allowing the destrachan to hunt in absolute darkness as if it were able to see.  Destrachans are carnivores, preferring to stalk and kill live prey, although they also feast on carrion. This habit serves them well, since they often kill more than they can immediately consume. They often hunt in packs, using a complex series of clicks, shrieks, and whistles to communicate with each other. While destrachans cannot speak, they are capable of understanding spoken languages like the common tongue, and often take pleasure in their victims' cries and pleas for mercy.

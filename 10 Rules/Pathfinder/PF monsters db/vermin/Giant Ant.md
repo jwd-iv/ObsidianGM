@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, gang (3-6), or hive (7-18 plus 10-100 workers, 2-8 drones, and 1 queen)
 Treasure: none
-Description: Giant ants are as industrious as their normal-sized kin. While their nests generally don't consist of thousands, their greatly increased size more than compensates. The statistics given above are for soldier ants-the variety most commonly encountered. The following simple templates can be used to create variants of the standard soldier ant. Worker (-1 CR) Worker ants do not have a poison sting attack or a grab special attack. Drone (+1 CR) Drones have the advanced simple template and a fly speed of 30 feet (average). Queen (+2 CR) The queen of a nest is an immense, bloated creature. She gains the advanced and the giant simple templates, but drops her speed to 10 feet and loses her climb speed entirely.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant ants are as industrious as their normal-sized kin. While their nests generally don't consist of thousands, their greatly increased size more than compensates. The statistics given above are for soldier ants-the variety most commonly encountered. The following simple templates can be used to create variants of the standard soldier ant. Worker (-1 CR) Worker ants do not have a poison sting attack or a grab special attack. Drone (+1 CR) Drones have the advanced simple template and a fly speed of 30 feet (average). Queen (+2 CR) The queen of a nest is an immense, bloated creature. She gains the advanced and the giant simple templates, but drops her speed to 10 feet and loses her climb speed entirely.

@@ -73,8 +73,6 @@ Environment: ocean
 Temperature: cold/temperate
 Organization: solitary
 Treasure: none
-Description: >
-  The octopus is a cunning animal capable of using complex tactics to get food. Octopus Companions Starting Statistics: Size Small; AC +1 natural; Speed 20 ft., swim 30 ft., jet 200 ft.; Attack bite (1d3), tentacles (grab); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 12, Cha 3; Special Qualities low-light vision, ink cloud. 4th-Level Advancement: Attack bite (1d3 plus poison); Ability Scores Str +2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -84,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The octopus is a cunning animal capable of using complex tactics to get food. Octopus Companions Starting Statistics: Size Small; AC +1 natural; Speed 20 ft., swim 30 ft., jet 200 ft.; Attack bite (1d3), tentacles (grab); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 12, Cha 3; Special Qualities low-light vision, ink cloud. 4th-Level Advancement: Attack bite (1d3 plus poison); Ability Scores Str +2, Con +2.

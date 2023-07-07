@@ -71,8 +71,16 @@ Temperature: any
 Organization: solitary, pair, or gang (3-5)
 Treasure: potion of cure light wounds; Other Gear chain shirt, short sword,
   composite longbow with 20 arrows
-Description: >
-  Gnome Characters  Gnomes are defined by their class levels-they do
+Race: Gnome
+Class: ranger 1
+MR:
+Copyright:
+  Content: d20pfsrd
+---
+```dataviewjs
+customJS.Statblock.printMonsterWiki(dv)
+```
+Gnome Characters  Gnomes are defined by their class levels-they do
   not possess racial HD.  They have the following racial traits.  Ability Score
   Racial Traits: Gnomes are physically weak but surprisingly hardy, and their
   attitude makes them naturally agreeable. They gain +2 Constitution, +2
@@ -85,12 +93,3 @@ Description: >
   Gnomes with high Intelligence scores can choose from the following: Draconic,
   Dwarven, Elven, Giant, Goblin, and Orc. See the Linguistics skill page for
   more information about these languages.
-Race: Gnome
-Class: ranger 1
-MR:
-Copyright:
-  Content: d20pfsrd
----
-```dataviewjs
-customJS.Statblock.printMonsterWiki(dv)
-```

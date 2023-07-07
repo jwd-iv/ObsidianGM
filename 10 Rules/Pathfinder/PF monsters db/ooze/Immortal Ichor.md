@@ -68,7 +68,6 @@ Environment: ruins/underground
 Temperature: any
 Organization: solitary or cult (1 plus 3-12 worshipers or juju zombies)
 Treasure: standard
-Description: An immortal ichor is an intelligent mass of blood from a dead evil deity. Blessed with profane powers and the will to dominate other creatures, these oozes are a threat to all living things. The rare few that exist are banished underground or sealed away in chambers that block their magical abilities. Over time these seals break or erode, allowing a trickle of an ooze's substance to escape and giving it a narrow aperture to exert its power through. Retaining vague memories of the god it was taken from, an immortal ichor uses its minions to find a body to possess, and either sets itself up as a godling or tries to find a way to revive its divine source.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+An immortal ichor is an intelligent mass of blood from a dead evil deity. Blessed with profane powers and the will to dominate other creatures, these oozes are a threat to all living things. The rare few that exist are banished underground or sealed away in chambers that block their magical abilities. Over time these seals break or erode, allowing a trickle of an ooze's substance to escape and giving it a narrow aperture to exert its power through. Retaining vague memories of the god it was taken from, an immortal ichor uses its minions to find a body to possess, and either sets itself up as a godling or tries to find a way to revive its divine source.

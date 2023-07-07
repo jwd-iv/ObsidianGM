@@ -70,8 +70,6 @@ Environment: plains
 Temperature: warm
 Organization: solitary, pair, or herd (3-10)
 Treasure: none
-Description: >
-  These long-necked animals roam across plains in loose-knit groups, grazing on the upper reaches of acacia trees. Giraffes usually avoid conf lict. However, when its young are threatened or if the giraffe is cornered, it attacks ruthlessly, striking with its powerful hooves. Giraffes rarely use their necks to make slam attacks unless they are fighting among themselves as part of their mating displays. A giraffe is between 16 and 20 feet tall and weighs 3,500 pounds.  Giraffe Companions  Starting Statistics: Size Medium; Speed 50 ft., AC +2 natural armor; Attack 2 hooves (1d6); Ability Scores Str 16, Dex 17, Con 12, Int 2, Wis 13, Cha 7; SQ low-light vision, natural weapons.  7th-level Advancement: Size Large; AC +2; Attack 2 hooves (1d8), slam (1d8); Ability Scores Str +4, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -81,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These long-necked animals roam across plains in loose-knit groups, grazing on the upper reaches of acacia trees. Giraffes usually avoid conf lict. However, when its young are threatened or if the giraffe is cornered, it attacks ruthlessly, striking with its powerful hooves. Giraffes rarely use their necks to make slam attacks unless they are fighting among themselves as part of their mating displays. A giraffe is between 16 and 20 feet tall and weighs 3,500 pounds.  Giraffe Companions  Starting Statistics: Size Medium; Speed 50 ft., AC +2 natural armor; Attack 2 hooves (1d6); Ability Scores Str 16, Dex 17, Con 12, Int 2, Wis 13, Cha 7; SQ low-light vision, natural weapons.  7th-level Advancement: Size Large; AC +2; Attack 2 hooves (1d8), slam (1d8); Ability Scores Str +4, Dex -2, Con +4.

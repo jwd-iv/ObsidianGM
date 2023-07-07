@@ -67,8 +67,6 @@ Environment: oceans
 Temperature: warm
 Organization: solitary, pair, or nest (3-6)
 Treasure: none
-Description: >
-  The moray eel is a ferocious predator, capable of holding prey in its primary jaws while a smaller set of jaws inside its throat chews away bite-sized portions. Moray Eel Animal Companion Starting Statistics: Size Medium; AC +5 natural armor; Speed swim 30 ft.; Attack bite (1d8); Ability Scores Str 14, Dex 16, Con 12, Int 1, Wis 12, Cha 8; Special Qualities low-light vision, grab. 7th-Level Advancement: Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities gnaw.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The moray eel is a ferocious predator, capable of holding prey in its primary jaws while a smaller set of jaws inside its throat chews away bite-sized portions. Moray Eel Animal Companion Starting Statistics: Size Medium; AC +5 natural armor; Speed swim 30 ft.; Attack bite (1d8); Ability Scores Str 14, Dex 16, Con 12, Int 1, Wis 12, Cha 8; Special Qualities low-light vision, grab. 7th-Level Advancement: Size Large; AC +3 natural armor; Attack bite (2d6); Ability Scores Str +8, Dex -2, Con +4; Special Qualities gnaw.

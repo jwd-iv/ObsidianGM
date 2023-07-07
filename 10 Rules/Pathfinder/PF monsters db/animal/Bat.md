@@ -65,7 +65,6 @@ Environment: desert/forest
 Temperature: hot/temperate
 Organization: colony (10-400)
 Treasure: none
-Description: Most bats are insectivores or fruit-eaters, but at least one species drinks blood.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Most bats are insectivores or fruit-eaters, but at least one species drinks blood.

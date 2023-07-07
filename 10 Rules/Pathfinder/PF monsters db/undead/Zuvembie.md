@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard (battleaxe)
-Description: Tied to the dark forces of nature and unholy magic, zuvembies employ fear and the wild creatures of the land to take their vengeance upon the living. Zuvembies appear to be withered, animate corpses but possess ruthless minds and blasphemous vigor. Revenge fuels a zuvembie, a hatefulness directed toward those who wronged it in life. Yet even when the last one who maligned it lies dead, its rage remains, turning against all who live, especially the relatives of the target of its original hate.  Most zuvembies willingly performed the vile rituals to attain vengeance through unlife, but the transformation can also be wrought upon a helpless victim. The method of transforming into a zuvembie involves the creation and consumption of a vial of oil of animate dead, plus the performance of additional dark rites that take a day to perform and cost 3,000 gp. The ritual kills the target, who must make a DC 20 Will save. Failure results in the victim's death, while success means it reanimates as a free-willed zuvembie.  Zuvembies stand between 5 and 6 feet tall and rarely weigh over 100 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Tied to the dark forces of nature and unholy magic, zuvembies employ fear and the wild creatures of the land to take their vengeance upon the living. Zuvembies appear to be withered, animate corpses but possess ruthless minds and blasphemous vigor. Revenge fuels a zuvembie, a hatefulness directed toward those who wronged it in life. Yet even when the last one who maligned it lies dead, its rage remains, turning against all who live, especially the relatives of the target of its original hate.  Most zuvembies willingly performed the vile rituals to attain vengeance through unlife, but the transformation can also be wrought upon a helpless victim. The method of transforming into a zuvembie involves the creation and consumption of a vial of oil of animate dead, plus the performance of additional dark rites that take a day to perform and cost 3,000 gp. The ritual kills the target, who must make a DC 20 Will save. Failure results in the victim's death, while success means it reanimates as a free-willed zuvembie.  Zuvembies stand between 5 and 6 feet tall and rarely weigh over 100 pounds.

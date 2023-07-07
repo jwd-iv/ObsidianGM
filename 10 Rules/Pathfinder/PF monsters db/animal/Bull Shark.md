@@ -66,7 +66,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, or school (3-6)
 Treasure: none
-Description: This shark is named for its stocky shape, flat snout, and aggressively territorial behavior. Its natural environment brings it close to humanoid prey, and it has been known to attack fishers, swimmers, rafts, and canoes. Though it prefers salt water, it can tolerate fresh water, and can leap over obstacles like low rapids. These qualities make it a terrifying aquatic predator that can travel dozens of miles up rivers in search of prey, striking in secluded swimming holes and placid lakes. A bull shark is over 7 feet long and weighs roughly 250 pounds. Female bull sharks are slightly larger than males.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+This shark is named for its stocky shape, flat snout, and aggressively territorial behavior. Its natural environment brings it close to humanoid prey, and it has been known to attack fishers, swimmers, rafts, and canoes. Though it prefers salt water, it can tolerate fresh water, and can leap over obstacles like low rapids. These qualities make it a terrifying aquatic predator that can travel dozens of miles up rivers in search of prey, striking in secluded swimming holes and placid lakes. A bull shark is over 7 feet long and weighs roughly 250 pounds. Female bull sharks are slightly larger than males.

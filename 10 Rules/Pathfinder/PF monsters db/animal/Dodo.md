@@ -66,7 +66,6 @@ Environment: islands
 Temperature: temperate/warm
 Organization: solitary, pair, or huddle (3-6)
 Treasure: none
-Description: Dodos are flightless birds that typically inhabit isolated tropical islands devoid of predators. Their boldness leads them to bumble into situations where they're easy prey.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dodos are flightless birds that typically inhabit isolated tropical islands devoid of predators. Their boldness leads them to bumble into situations where they're easy prey.

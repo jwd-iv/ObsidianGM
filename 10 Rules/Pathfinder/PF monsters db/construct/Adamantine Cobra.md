@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or nest (3-10)
 Treasure: none
-Description: An adamantine cobra's body is built from 100 pounds of magically treated materials including adamantine armor plates, once slain it can be melted down to yield 3 lbs.   Construction An adamantine cobra's body is built from 100 pounds of magically treated materials.  Adamantine Cobra CL 7th; Price 8,000 gp Construction Requirements Craft Construct, animate object, discern location, geas/quest; Skill Craft (armor), Craft (blacksmithing), Craft (weapons) DC 15; Cost 10,000 gp
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+An adamantine cobra's body is built from 100 pounds of magically treated materials including adamantine armor plates, once slain it can be melted down to yield 3 lbs.   Construction An adamantine cobra's body is built from 100 pounds of magically treated materials.  Adamantine Cobra CL 7th; Price 8,000 gp Construction Requirements Craft Construct, animate object, discern location, geas/quest; Skill Craft (armor), Craft (blacksmithing), Craft (weapons) DC 15; Cost 10,000 gp

@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or rampage (3-5)
 Treasure: standard
-Description: Shadow drakes are mischievous and greedy. They often use their whiplike tails as third limbs, grasping small objects or even using their tails to work locks or swipe small objects they desire. Because they are so small and fast, they are master thieves and pickpockets. Unlike most drakes and dragonkin, shadow drakes like to haunt the fringes of civilization, often making lairs in abandoned buildings, forgotten attics, or unused bell towers, and stashing their tiny treasure hoards there. A shadow drake can be chosen as a familiar by a 7th-level evil spellcaster who has the Improved Familiar feat. Young shadow drakes are almost pure black and have lustrous hides. As they age, their scales lose this luster and turn dull gray. Much like their larger dragon cousins, shadow drakes are long-lived, and can reach 150 to 200 years in age.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Shadow drakes are mischievous and greedy. They often use their whiplike tails as third limbs, grasping small objects or even using their tails to work locks or swipe small objects they desire. Because they are so small and fast, they are master thieves and pickpockets. Unlike most drakes and dragonkin, shadow drakes like to haunt the fringes of civilization, often making lairs in abandoned buildings, forgotten attics, or unused bell towers, and stashing their tiny treasure hoards there. A shadow drake can be chosen as a familiar by a 7th-level evil spellcaster who has the Improved Familiar feat. Young shadow drakes are almost pure black and have lustrous hides. As they age, their scales lose this luster and turn dull gray. Much like their larger dragon cousins, shadow drakes are long-lived, and can reach 150 to 200 years in age.

@@ -69,7 +69,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: The giant squid is a legendary beast capable of feeding on humans with ease. Hunger has been known to drive these normally deepdwelling creatures up to the ocean surface where anything they encounter is potential prey. A giant squid is 45 feet long and weighs 1,500 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The giant squid is a legendary beast capable of feeding on humans with ease. Hunger has been known to drive these normally deepdwelling creatures up to the ocean surface where anything they encounter is potential prey. A giant squid is 45 feet long and weighs 1,500 pounds.

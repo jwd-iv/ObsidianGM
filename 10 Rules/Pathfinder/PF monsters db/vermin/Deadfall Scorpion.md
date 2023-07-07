@@ -72,7 +72,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary or nest (2-5)
 Treasure: incidental
-Description: The enormous deadfall scorpion is disturbingly stealthy for a creature of its size. So named for the creatures' habit of making their lairs amid the hollows created by deadfalls of old trees, deadfall scorpions adorn their already camouf laged carapaces with moss and old branches, then lie in wait to ambush prey when it draws near. They prefer to drag their prey back to their hidden deadfall lairs to eat, and thus incidental treasure can often be found within such a den. A deadfall scorpion is 24 feet long and weighs 10,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The enormous deadfall scorpion is disturbingly stealthy for a creature of its size. So named for the creatures' habit of making their lairs amid the hollows created by deadfalls of old trees, deadfall scorpions adorn their already camouf laged carapaces with moss and old branches, then lie in wait to ambush prey when it draws near. They prefer to drag their prey back to their hidden deadfall lairs to eat, and thus incidental treasure can often be found within such a den. A deadfall scorpion is 24 feet long and weighs 10,000 pounds.

@@ -87,7 +87,6 @@ Environment: desert
 Temperature: warm
 Organization: solitary
 Treasure: triple
-Description: Consummate conversationalists, brass dragons prefer to talk instead of fight. Brass dragons lair near humanoid settlements, where they can hear the most recent news and gossip.
 Race: 
 Class: 
 MR: 
@@ -97,3 +96,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Consummate conversationalists, brass dragons prefer to talk instead of fight. Brass dragons lair near humanoid settlements, where they can hear the most recent news and gossip.

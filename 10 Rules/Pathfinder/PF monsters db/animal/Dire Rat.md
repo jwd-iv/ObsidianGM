@@ -67,8 +67,6 @@ Environment: urban
 Temperature: any
 Organization: solitary or pack (2-20)
 Treasure: none
-Description: >
-  Dire rats grow up to 2 feet long and weigh up to 25 pounds. They are common menaces in dungeons and city sewers alike. Dire Rat Companions Starting Statistics: Size Small; Speed 40 ft., climb 20 ft., swim 20 ft.; Attack bite (1d4); Ability Scores Str 10, Dex 17, Con 12, Int 2, Wis 12, Cha 4; Special Qualities lowlight vision, scent. 4th-Level Advancement: Attack bite (1d4 plus disease); Ability Scores Str +2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dire rats grow up to 2 feet long and weigh up to 25 pounds. They are common menaces in dungeons and city sewers alike. Dire Rat Companions Starting Statistics: Size Small; Speed 40 ft., climb 20 ft., swim 20 ft.; Attack bite (1d4); Ability Scores Str 10, Dex 17, Con 12, Int 2, Wis 12, Cha 4; Special Qualities lowlight vision, scent. 4th-Level Advancement: Attack bite (1d4 plus disease); Ability Scores Str +2, Con +2.

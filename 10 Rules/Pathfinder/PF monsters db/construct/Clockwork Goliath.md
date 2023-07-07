@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or siege (3-6)
 Treasure: none
-Description: The thunderous clockwork goliath is easily recognized as the epitome of technology created to destroy. The exact nature of a clockwork goliath's "hands" varies-they all resolve as slam attacks in melee combat, though.  The clockwork goliath towers over most creatures and buildings; standing at a height of 45 feet, it weighs over 100 tons.  Construction  The clockwork goliath is one of the most difficult of its kind to create. The creator must start with crafted clockwork pieces worth 20,000 gp.  CLOCKWORK GOLIATH  CL 18th; Price 300,000 gp  Construction  Requirements Craft Construct, Gunsmithing (Ultimate Combat 103), animate objects, geas/quest, and limited wish, creator must be at least caster level 18th; Skill Craft (clockwork) DC 25; Cost 160,000 gp
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The thunderous clockwork goliath is easily recognized as the epitome of technology created to destroy. The exact nature of a clockwork goliath's "hands" varies-they all resolve as slam attacks in melee combat, though.  The clockwork goliath towers over most creatures and buildings; standing at a height of 45 feet, it weighs over 100 tons.  Construction  The clockwork goliath is one of the most difficult of its kind to create. The creator must start with crafted clockwork pieces worth 20,000 gp.  CLOCKWORK GOLIATH  CL 18th; Price 300,000 gp  Construction  Requirements Craft Construct, Gunsmithing (Ultimate Combat 103), animate objects, geas/quest, and limited wish, creator must be at least caster level 18th; Skill Craft (clockwork) DC 25; Cost 160,000 gp

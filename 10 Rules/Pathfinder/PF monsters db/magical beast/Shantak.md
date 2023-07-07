@@ -73,7 +73,6 @@ Environment: mountains
 Temperature: cold
 Organization: solitary, pair, or flock (3-12)
 Treasure: none
-Description: Shantaks speak in a shrill voice that sounds like glass grinding against stone. They are intelligent creatures and cannot be trained as mounts-a would-be shantak rider must use diplomacy or magic to secure a shantak's cooperation as a mount, and even then, shantaks have a tendency to deliberately strand riders in dangerous areas.  Many shantaks have a strange and irrational fear of certain creatures, such as the faceless nightgaunts said to dwell in certain remote mountains, or specific types of harpies or gargoyles in more civilized regions. A shantak avoids confrontations with these types of creatures if possible.  A shantak's ability to travel the gulfs of space ensures that these scaly, bird-like creatures can be found on numerous worlds. Yet despite this unique ability, shantaks are generally quite reluctant to seek out new worlds unless faced with no other option, for a shantak knows well that an attempt to fly to an unknown world could easily result in being lost forever in the gulfs of space.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Shantaks speak in a shrill voice that sounds like glass grinding against stone. They are intelligent creatures and cannot be trained as mounts-a would-be shantak rider must use diplomacy or magic to secure a shantak's cooperation as a mount, and even then, shantaks have a tendency to deliberately strand riders in dangerous areas.  Many shantaks have a strange and irrational fear of certain creatures, such as the faceless nightgaunts said to dwell in certain remote mountains, or specific types of harpies or gargoyles in more civilized regions. A shantak avoids confrontations with these types of creatures if possible.  A shantak's ability to travel the gulfs of space ensures that these scaly, bird-like creatures can be found on numerous worlds. Yet despite this unique ability, shantaks are generally quite reluctant to seek out new worlds unless faced with no other option, for a shantak knows well that an attempt to fly to an unknown world could easily result in being lost forever in the gulfs of space.

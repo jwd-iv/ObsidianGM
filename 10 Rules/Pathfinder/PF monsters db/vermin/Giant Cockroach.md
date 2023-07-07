@@ -65,7 +65,6 @@ Environment: any
 Temperature: any
 Organization: solitary or intrusion (2-20)
 Treasure: none
-Description: Species CR Size HD Giant hissing cockroach 1 Medium 2 Venomroach 3 Large 3 Spitting cockroach 6 Huge 6 Sawback cockroach 9 Gargantuan 8 Dragonroach 12 Colossal 10 Much like their smaller kin, giant cockroaches are extremely adaptive and exist in any place they can find a ready source of food. Giant cockroaches are not normally very violent, but readily attack if threatened or if food becomes scarce. A number of species of giant cockroach exist, as summarized on the table above. Most of these variants have additional abilities, such as poison stings.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Species CR Size HD Giant hissing cockroach 1 Medium 2 Venomroach 3 Large 3 Spitting cockroach 6 Huge 6 Sawback cockroach 9 Gargantuan 8 Dragonroach 12 Colossal 10 Much like their smaller kin, giant cockroaches are extremely adaptive and exist in any place they can find a ready source of food. Giant cockroaches are not normally very violent, but readily attack if threatened or if food becomes scarce. A number of species of giant cockroach exist, as summarized on the table above. Most of these variants have additional abilities, such as poison stings.

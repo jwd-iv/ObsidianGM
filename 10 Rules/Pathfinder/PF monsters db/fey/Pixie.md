@@ -41,7 +41,7 @@ Melee:
 Reach: 5 ft.
 Ranged: 
   - Attack: "longbow +8"
-    Effect: "1d6-2/×3"
+    Effect: "1d6-2/x3"
 SpecialAttacks: special arrows
 SpellLikeAbilities: Spell-Like Abilities (CL 8th)  Constant-detect chaos, detect evil, detect good, detect law  1/day-dancing lights, detect thoughts (DC 15), dispel magic, entangle (DC 14), lesser confusion (DC 14), permanent image (DC 19; visual and auditory elements only), shield
 STR: 7
@@ -71,7 +71,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, gang (2-4), band (6-11), or tribe (20-80)
 Treasure: standard
-Description: Perhaps the best-known and most elusive of all fey creatures, pixies live in the deepest, most pristine forests, but their insatiable curiosity often leads them far from home. Most pixies stand just over 2 feet tall-though they typically fly about the eye level of creatures they're conversing with in order to maintain eye contact- and weigh about 30 pounds. Pixies talk quickly and easily become overexcited.  Strange beings both of and beyond the natural world, pixies have magic that occasionally favors them in strange ways. For example, one out of every 10 pixies exhibits an additional spell-like ability that it can use once per day (caster level 8th), usually baleful polymorph, beast shape II (Tiny creatures only), or even a powerful spell like irresistible dance. Alternatively, you can change the types of effects that pixie dust can have on arrows-as a general rule, these alternate effects should be mind-affecting effects. Confusion, fear, hideous laughter, and hypnotism are all good choices for variant pixie arrow powers. You should take care when assigning alternate powers to a pixie, though, since doing so can create a threat that far exceeds what their physical statistics (and relatively low CR) can logically support.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Perhaps the best-known and most elusive of all fey creatures, pixies live in the deepest, most pristine forests, but their insatiable curiosity often leads them far from home. Most pixies stand just over 2 feet tall-though they typically fly about the eye level of creatures they're conversing with in order to maintain eye contact- and weigh about 30 pounds. Pixies talk quickly and easily become overexcited.  Strange beings both of and beyond the natural world, pixies have magic that occasionally favors them in strange ways. For example, one out of every 10 pixies exhibits an additional spell-like ability that it can use once per day (caster level 8th), usually baleful polymorph, beast shape II (Tiny creatures only), or even a powerful spell like irresistible dance. Alternatively, you can change the types of effects that pixie dust can have on arrows-as a general rule, these alternate effects should be mind-affecting effects. Confusion, fear, hideous laughter, and hypnotism are all good choices for variant pixie arrow powers. You should take care when assigning alternate powers to a pixie, though, since doing so can create a threat that far exceeds what their physical statistics (and relatively low CR) can logically support.

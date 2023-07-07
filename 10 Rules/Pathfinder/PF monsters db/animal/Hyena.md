@@ -65,8 +65,6 @@ Environment: plains
 Temperature: warm
 Organization: solitary, pair, or pack (3-12)
 Treasure: none
-Description: >
-  Hyenas are pack hunters infamous for their cunning and their unnerving, laughter-like vocalizations. They are largely scavengers, but aren't above supplementing their diet of carrion with fresh prey. Hyenas tend to hunt alone, but when hunting as a pack they typically send one or two members against a foe's front while the rest of the pack circles and attacks from behind. Many of the savage humanoid races, particularly gnolls, use hyenas as guard dogs. Such hyenas typically wear leather barding and are trained from birth to be vicious and savage-many such creatures are advanced hyenas. Hyena Companions Starting Statistics: Size Small; Speed 50 ft.; AC +2 natural armor; Attack bite (1d4 plus trip); Ability Scores Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 6; Special Qualities lowlight vision, scent. 4th-Level Advancement: Size Medium; Attack bite (1d6 plus trip); Ability Scores Str +4, Dex -2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Hyenas are pack hunters infamous for their cunning and their unnerving, laughter-like vocalizations. They are largely scavengers, but aren't above supplementing their diet of carrion with fresh prey. Hyenas tend to hunt alone, but when hunting as a pack they typically send one or two members against a foe's front while the rest of the pack circles and attacks from behind. Many of the savage humanoid races, particularly gnolls, use hyenas as guard dogs. Such hyenas typically wear leather barding and are trained from birth to be vicious and savage-many such creatures are advanced hyenas. Hyena Companions Starting Statistics: Size Small; Speed 50 ft.; AC +2 natural armor; Attack bite (1d4 plus trip); Ability Scores Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 6; Special Qualities lowlight vision, scent. 4th-Level Advancement: Size Medium; Attack bite (1d6 plus trip); Ability Scores Str +4, Dex -2, Con +2.

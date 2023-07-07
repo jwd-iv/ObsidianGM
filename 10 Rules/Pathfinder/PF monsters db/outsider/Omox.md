@@ -73,7 +73,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary or clot (2-6)
 Treasure: standard
-Description: Amorphous beings of living slime, these repulsive demons lurk in fetid pools and lakes of filth, eager to drown unwary passersby. When summoned to the Material Plane, omoxes typically guard places of sacred filth or waters watched over by cults of Jubilex, the demon lord with which these foul demons are most commonly associated.  A typical omox stands 7 feet tall and weighs 1,200 pounds. They form from the souls of those who destroyed beautiful things in life, or who befouled and desecrated objects of purity.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Amorphous beings of living slime, these repulsive demons lurk in fetid pools and lakes of filth, eager to drown unwary passersby. When summoned to the Material Plane, omoxes typically guard places of sacred filth or waters watched over by cults of Jubilex, the demon lord with which these foul demons are most commonly associated.  A typical omox stands 7 feet tall and weighs 1,200 pounds. They form from the souls of those who destroyed beautiful things in life, or who befouled and desecrated objects of purity.

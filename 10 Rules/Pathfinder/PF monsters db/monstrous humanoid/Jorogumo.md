@@ -76,7 +76,6 @@ Environment: mountains (valleys)
 Temperature: temperate
 Organization: solitary or cult (2-6 plus 2-8 spiders of various sizes)
 Treasure: standard
-Description: Jorogumos are seductive schemers who secret themselves away in isolated mountain valleys where they lure travelers, especially men, to their dooms. Exclusively female, jorogumos must mate with humanoids to produce fertile eggs. After copulation, a jorogumo paralyzes her partner by poisoning him into a coma. She lays a single egg within the father's body, then cocoons the corpse and hides the victim. Periodic visits to re-poison the victim ensure his coma lasts for the 2d4 days required for the young jorogumo to hatch and feed. Jorogumos are enthusiastic enemies of tengus and attack them on sight-they never take tengus as "mates."
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Jorogumos are seductive schemers who secret themselves away in isolated mountain valleys where they lure travelers, especially men, to their dooms. Exclusively female, jorogumos must mate with humanoids to produce fertile eggs. After copulation, a jorogumo paralyzes her partner by poisoning him into a coma. She lays a single egg within the father's body, then cocoons the corpse and hides the victim. Periodic visits to re-poison the victim ensure his coma lasts for the 2d4 days required for the young jorogumo to hatch and feed. Jorogumos are enthusiastic enemies of tengus and attack them on sight-they never take tengus as "mates."

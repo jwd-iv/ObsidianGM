@@ -76,7 +76,6 @@ Environment: hills
 Temperature: warm
 Organization: solitary, pair, or tribe (3-8)
 Treasure: double (masterwork breastplate, +1 longsword, 4 masterwork spears, other treasure)
-Description: The nephilim are the offspring of demigods who bred with humans. This joining resulted in a race of giant-sized beings possessed of a shard of divine power and the mortal consciousness of humans. A nephilim stands 11 feet tall and weighs 1,100 pounds. Its divine heritage grants it a lifespan of almost 600 years.  Nephilim are a nomadic, secretive race. This isolationism has only heightened the wild tales surrounding them, making it even harder for other races to trust them. While the ancient animosity humans once had against them has been largely forgotten, zealots occasionally try to mount pogroms and crusades to wipe the nephilim out forever. The nephilim have proven strikingly resistant to these efforts.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The nephilim are the offspring of demigods who bred with humans. This joining resulted in a race of giant-sized beings possessed of a shard of divine power and the mortal consciousness of humans. A nephilim stands 11 feet tall and weighs 1,100 pounds. Its divine heritage grants it a lifespan of almost 600 years.  Nephilim are a nomadic, secretive race. This isolationism has only heightened the wild tales surrounding them, making it even harder for other races to trust them. While the ancient animosity humans once had against them has been largely forgotten, zealots occasionally try to mount pogroms and crusades to wipe the nephilim out forever. The nephilim have proven strikingly resistant to these efforts.

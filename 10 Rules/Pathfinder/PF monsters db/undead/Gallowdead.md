@@ -72,8 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or plague (3-18)
 Treasure: standard
-Description: >
-  Some tyrants execute criminals, traitors, or those who dare insurrection on the end of hooked and spiked chains. Leaving the criminal to painfully hang and rot sends a message to those who would dare commit the same crimes. Sometimes such savage deaths have a strange and terrible consequence: the victim rises, grabs the instrument of its execution, and becomes a servant of those who condemned it.
 Race: 
 Class: 
 MR: 
@@ -83,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Some tyrants execute criminals, traitors, or those who dare insurrection on the end of hooked and spiked chains. Leaving the criminal to painfully hang and rot sends a message to those who would dare commit the same crimes. Sometimes such savage deaths have a strange and terrible consequence: the victim rises, grabs the instrument of its execution, and becomes a servant of those who condemned it.

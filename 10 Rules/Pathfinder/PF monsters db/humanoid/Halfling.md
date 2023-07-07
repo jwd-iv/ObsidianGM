@@ -68,8 +68,16 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or gang (3-5)
 Treasure: NPC Gear dagger, courtier's outfit, 228 gp
-Description: >
-  Halfling Characters Halflings are defined by their class
+Race: Halfling
+Class:
+MR:
+Copyright:
+  Content: d20pfsrd
+---
+```dataviewjs
+customJS.Statblock.printMonsterWiki(dv)
+```
+Halfling Characters Halflings are defined by their class
   levels-they do not possess racial HD.  They have the following racial
   traits.       Ability Score Racial Traits: Halflings are nimble and
   strong-willed, but their small stature makes them weaker than other races.
@@ -81,12 +89,3 @@ Description: >
   Halflings with high Intelligence scores can choose from the following:
   Dwarven, Elven, Gnome, and Goblin. See the Linguistics skill page for more
   information about these languages.
-Race: Halfling
-Class:
-MR:
-Copyright:
-  Content: d20pfsrd
----
-```dataviewjs
-customJS.Statblock.printMonsterWiki(dv)
-```

@@ -68,7 +68,6 @@ Environment: underground
 Temperature: any
 Organization: gang (2-5), hunting flock (1-3 dread corbies and 5-10 dire corbies), or rookery (1-10 dread corbies and 10-50 dire corbies plus 1 barbarian or fighter of 3rd-5th level per 10 adults)
 Treasure: standard
-Description: Dire corbies are subterranean predators that resemble humanoid crows with muscular arms and fearsome claws. Though they make their cliff-side homes on the walls of underground chasms, where they climb and leap with death-defying agility, they are most frequently encountered in the tunnels where they wait to ambush prey, leaping down from the ceiling to rend and tear.  Dire corbies are intelligent, but have little use for society outside of the rough, squabbling pecking order of their rookeries, where their social order is little better than that of the
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dire corbies are subterranean predators that resemble humanoid crows with muscular arms and fearsome claws. Though they make their cliff-side homes on the walls of underground chasms, where they climb and leap with death-defying agility, they are most frequently encountered in the tunnels where they wait to ambush prey, leaping down from the ceiling to rend and tear.  Dire corbies are intelligent, but have little use for society outside of the rough, squabbling pecking order of their rookeries, where their social order is little better than that of the

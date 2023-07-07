@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard (leather armor, 2 pistols, other treasure)
-Description: Sometimes death itself cannot come between a gunslinger and its final revenge. When a gunslinger is slain by a hated enemy, or murdered before it can achieve vengeance against a hated foe, the anger and wrath can animate its remains as a vengeful undead monstrosity. When a pale stranger first rises, it seeks out the source of its anger to finish the job-thereafter, it wanders the desolate parts of the world looking for new victims to vent its unending rage upon.  A pale stranger appears much as it did in life, though desiccated and obviously undead. Rare pale strangers have the ability to hide their undead nature and appear as they did in life using veil as a constant spell-like ability (CL equals their CR). These pale strangers are often more powerful and have class levels in gunslinger or ranger, and often attract large groups of adoring bandits and followers who may or may not realize that their murderous idol is in fact an unliving horror.  A pale stranger stands 6-1/2 feet tall and weighs 130 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Sometimes death itself cannot come between a gunslinger and its final revenge. When a gunslinger is slain by a hated enemy, or murdered before it can achieve vengeance against a hated foe, the anger and wrath can animate its remains as a vengeful undead monstrosity. When a pale stranger first rises, it seeks out the source of its anger to finish the job-thereafter, it wanders the desolate parts of the world looking for new victims to vent its unending rage upon.  A pale stranger appears much as it did in life, though desiccated and obviously undead. Rare pale strangers have the ability to hide their undead nature and appear as they did in life using veil as a constant spell-like ability (CL equals their CR). These pale strangers are often more powerful and have class levels in gunslinger or ranger, and often attract large groups of adoring bandits and followers who may or may not realize that their murderous idol is in fact an unliving horror.  A pale stranger stands 6-1/2 feet tall and weighs 130 pounds.

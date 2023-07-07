@@ -76,7 +76,6 @@ Environment: saltwater
 Temperature: any
 Organization: solitary, mated individual, or clan (3-20)
 Treasure: standard
-Description: Rulers of deep ocean trenches, ceratioidi share several unusual traits with the aquatic predators of the ceratiidae family, also known as angler fish. From their strange, spired cities beneath the waves, ceratioidi cast their nets of inf luence far and wide.  Perhaps the strangest aspect of the ceratioidi is that each individual is in fact two entities-a powerful, imposing female, and a rat-sized parasitic male who spends most of his life attached to his mate's neck. A female without a mate loses her dual mind ability, while a male unattached to a female retains his intelligence but otherwise has the same statistics as an electric eel (without the electricity special ability or electricity resistance).
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Rulers of deep ocean trenches, ceratioidi share several unusual traits with the aquatic predators of the ceratiidae family, also known as angler fish. From their strange, spired cities beneath the waves, ceratioidi cast their nets of inf luence far and wide.  Perhaps the strangest aspect of the ceratioidi is that each individual is in fact two entities-a powerful, imposing female, and a rat-sized parasitic male who spends most of his life attached to his mate's neck. A female without a mate loses her dual mind ability, while a male unattached to a female retains his intelligence but otherwise has the same statistics as an electric eel (without the electricity special ability or electricity resistance).

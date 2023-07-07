@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary, gang (2-5), or crew (6-15)
 Treasure: double (500 to 2,000 gp in rubies, other treasure)
-Description: These eerie denizens travel the universe from their strange homeland of Leng, walking uncontested only when they disguise themselves as humans by wearing loose-fitting robes and wrappings about the head and face. Under these disguises, they have horned brows, clawed fingers, mouths full of tentacles, and crooked goatish legs with cloven hooves.  Many scholars have argued over where the otherworldly realm of Leng lies- some believe it can be found among the Outer Planes, while others are convinced it can only be reached via a dimension of dreams. The denizens of Leng can travel to other planes freely, and often do so in strange, black ships, constantly seeking new breeds of slaves or trading rubies for unusual services or magical treasures.  At other times, their visits are much more violent, focusing on abducting victims for use as slaves or worse. On Leng, these denizens have long fought a war against that realm's monstrous spiders, a war that sometimes spills over into other worlds.  A denizen of Leng weighs 200 pounds and stands roughly 5-1/2 feet tall.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These eerie denizens travel the universe from their strange homeland of Leng, walking uncontested only when they disguise themselves as humans by wearing loose-fitting robes and wrappings about the head and face. Under these disguises, they have horned brows, clawed fingers, mouths full of tentacles, and crooked goatish legs with cloven hooves.  Many scholars have argued over where the otherworldly realm of Leng lies- some believe it can be found among the Outer Planes, while others are convinced it can only be reached via a dimension of dreams. The denizens of Leng can travel to other planes freely, and often do so in strange, black ships, constantly seeking new breeds of slaves or trading rubies for unusual services or magical treasures.  At other times, their visits are much more violent, focusing on abducting victims for use as slaves or worse. On Leng, these denizens have long fought a war against that realm's monstrous spiders, a war that sometimes spills over into other worlds.  A denizen of Leng weighs 200 pounds and stands roughly 5-1/2 feet tall.

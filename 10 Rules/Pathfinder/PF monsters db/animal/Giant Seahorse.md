@@ -68,8 +68,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary, pair, or school (3-20)
 Treasure: none
-Description: >
-  Giant seahorses are bear-sized versions of the common, harmless seahorse. Naturally docile and skittish, seahorses are easily trained to be mounts but are difficult to train for combat. They provide a smoother but slower ride than sharks or hippocampi. A giant seahorse is considered a quadruped for the purpose of carrying capacity. A light load for a giant seahorse is up to 500 pounds, a medium load is 1,000 pounds, and a heavy load is 1,600 pounds. It can drag 8,000 pounds.  Seahorse Companions Starting Statistics: Size Large; Speed swim 30 ft.; AC +4 natural armor; Attack bite (1d4); Ability Scores Str 16, Dex 13, Con 15, Int 1, Wis 12, Cha 6; SQ low-light vision. 4th-Level Advancement: Attack bite (1d6); Ability Scores Str +2, Con +2; SQ anchor.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant seahorses are bear-sized versions of the common, harmless seahorse. Naturally docile and skittish, seahorses are easily trained to be mounts but are difficult to train for combat. They provide a smoother but slower ride than sharks or hippocampi. A giant seahorse is considered a quadruped for the purpose of carrying capacity. A light load for a giant seahorse is up to 500 pounds, a medium load is 1,000 pounds, and a heavy load is 1,600 pounds. It can drag 8,000 pounds.  Seahorse Companions Starting Statistics: Size Large; Speed swim 30 ft.; AC +4 natural armor; Attack bite (1d4); Ability Scores Str 16, Dex 13, Con 15, Int 1, Wis 12, Cha 6; SQ low-light vision. 4th-Level Advancement: Attack bite (1d6); Ability Scores Str +2, Con +2; SQ anchor.

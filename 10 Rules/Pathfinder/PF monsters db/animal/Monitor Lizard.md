@@ -67,8 +67,6 @@ Environment: forest/plains
 Temperature: warm
 Organization: solitary, pair, or pack (3-8)
 Treasure: none
-Description: >
-  Monitor lizards are large enough to pose a threat to humans, and in some societies are often mistaken for dragons. Some can reach lengths of 10 feet or more and weights of 350 pounds. Monitor Lizard Companions Starting Statistics: Size Small; Speed 30 ft., swim 30 ft.; AC +1 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 13, Dex 17, Con 12, Int 2, Wis 12, Cha 6; Special Qualities lowlight vision, scent. 7th-Level Advancement: Size Medium; AC +2 natural armor; Attack bite (1d8 plus grab and poison); Ability Scores Str +4, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Monitor lizards are large enough to pose a threat to humans, and in some societies are often mistaken for dragons. Some can reach lengths of 10 feet or more and weights of 350 pounds. Monitor Lizard Companions Starting Statistics: Size Small; Speed 30 ft., swim 30 ft.; AC +1 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 13, Dex 17, Con 12, Int 2, Wis 12, Cha 6; Special Qualities lowlight vision, scent. 7th-Level Advancement: Size Medium; AC +2 natural armor; Attack bite (1d8 plus grab and poison); Ability Scores Str +4, Dex -2, Con +4.

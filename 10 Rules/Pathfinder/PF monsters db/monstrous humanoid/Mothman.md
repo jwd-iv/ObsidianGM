@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Little is known of these strange creatures, save that when they appear, calamity follows. Mothmen see themselves as agents of fate, exhibiting extraordinary powers to guide the hands of destiny. More often than not, citizens encounter a mothman and never recall the meeting, yet fall right into the creature's obscure plans.  Mothmen stand almost 7 feet tall and weigh 100 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Little is known of these strange creatures, save that when they appear, calamity follows. Mothmen see themselves as agents of fate, exhibiting extraordinary powers to guide the hands of destiny. More often than not, citizens encounter a mothman and never recall the meeting, yet fall right into the creature's obscure plans.  Mothmen stand almost 7 feet tall and weigh 100 pounds.

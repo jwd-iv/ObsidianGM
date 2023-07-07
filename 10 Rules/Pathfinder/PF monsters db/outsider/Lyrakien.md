@@ -69,7 +69,6 @@ Environment: any (Elysium)
 Temperature: any
 Organization: solitary, band (2-5), or company (6-24)
 Treasure: none
-Description: Lyrakien are divine musicians and messengers, mainly in the employ of deities of travel and natural wonders. They love to explore and visit beautiful places, especially locations with excellent views of rainbows, moonlight, and the stars. Whimsical and joyous, they love contests of song, dance, and knowledge, and keep journeys happy by distracting their companions from weary feet and stale food. Mortals who please them with excellent tales and new songs may be rewarded with elaborate maps, forgotten shortcuts, or rambling directions to hidden locations that hold lost magic.  Lyrakien are light-hearted creatures, but they are very protective of breathtaking natural locations. Often called "glistenwings" by gnomes and half lings, lyrakien are frequently mistaken for fey-while they are generally friendly with true fey, their origin is the plane of Elysium. Like other azatas, they grow restless if they stay in one place too long. A chaotic good 7th-level spellcaster can gain a lyrakien as a familiar if she has the Improved Familiar feat.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Lyrakien are divine musicians and messengers, mainly in the employ of deities of travel and natural wonders. They love to explore and visit beautiful places, especially locations with excellent views of rainbows, moonlight, and the stars. Whimsical and joyous, they love contests of song, dance, and knowledge, and keep journeys happy by distracting their companions from weary feet and stale food. Mortals who please them with excellent tales and new songs may be rewarded with elaborate maps, forgotten shortcuts, or rambling directions to hidden locations that hold lost magic.  Lyrakien are light-hearted creatures, but they are very protective of breathtaking natural locations. Often called "glistenwings" by gnomes and half lings, lyrakien are frequently mistaken for fey-while they are generally friendly with true fey, their origin is the plane of Elysium. Like other azatas, they grow restless if they stay in one place too long. A chaotic good 7th-level spellcaster can gain a lyrakien as a familiar if she has the Improved Familiar feat.

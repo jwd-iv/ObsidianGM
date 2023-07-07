@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Massive and devastating, plasma oozes are mysterious, extraterrestrial beings made of superheated electromagnetic sludge. While their origin is not fully known, it is widely accepted that plasma oozes are not from this world. Some scholars believe they dwell in the sun, while others maintain they hail from the Plane of Fire. That plasma oozes have been encountered in both of these locations does little to help solve the debate.  A plasma ooze flies by somehow interacting with gravity and magnetic waves, drifting through the air in a manner similar to the way a jellyfish swims in water. This creature's only real purpose is to consume, and it prefers to do so by drawing prey into its fiery, electrified core. Scholars find it curious that while a plasma ooze can only attract metallic substances, the thing can only digest organic matter, and rather slowly at that.  Survivors of plasma ooze attacks are rare, but such victims describe the pain of being struck by one's rays as like being pulled apart piece by piece. Wounds left by a plasma ooze's touch resemble hideously melted burn scars.  A plasma ooze is 20 feet in diameter and weighs 6,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Massive and devastating, plasma oozes are mysterious, extraterrestrial beings made of superheated electromagnetic sludge. While their origin is not fully known, it is widely accepted that plasma oozes are not from this world. Some scholars believe they dwell in the sun, while others maintain they hail from the Plane of Fire. That plasma oozes have been encountered in both of these locations does little to help solve the debate.  A plasma ooze flies by somehow interacting with gravity and magnetic waves, drifting through the air in a manner similar to the way a jellyfish swims in water. This creature's only real purpose is to consume, and it prefers to do so by drawing prey into its fiery, electrified core. Scholars find it curious that while a plasma ooze can only attract metallic substances, the thing can only digest organic matter, and rather slowly at that.  Survivors of plasma ooze attacks are rare, but such victims describe the pain of being struck by one's rays as like being pulled apart piece by piece. Wounds left by a plasma ooze's touch resemble hideously melted burn scars.  A plasma ooze is 20 feet in diameter and weighs 6,000 pounds.

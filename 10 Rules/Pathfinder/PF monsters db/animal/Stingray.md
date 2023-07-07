@@ -67,8 +67,6 @@ Environment: oceans
 Temperature: warm
 Organization: solitary, pair, or flight (3-12)
 Treasure: none
-Description: >
-  Often found buried in mud, sand, or sea grass, this normally passive creature raises its tail above its body like a scorpion when cornered or injured. Its stinger is a barbed spine with two grooves allowing the toxin to enter the wound. While often found in bays and estuaries, some breeds of stingray can make their home in rivers far upstream from salt water. Stingrays, like their larger manta ray cousins, use a form of electrolocation to find prey in the silt-laden waters.  The stingray presented here is a relatively large member of the species; for smaller stingrays, apply the young creature template.  Stingray Companion Starting Statistics: Size Small; Speed swim 40 ft.; Attack sting (1d3 plus poison); Ability Scores Str 6, Dex 15, Con 13, Int 1, Wis 13, Cha 2; Special Qualities low-light vision.  4th-Level Advancement: Size Medium; AC +1 natural armor; Attack sting (1d4 plus poison); Ability Scores Str +4, Dex -2, Con +2; Special Qualities blindsense 30 ft.
 Race: 
 Class: 
 MR: 
@@ -78,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Often found buried in mud, sand, or sea grass, this normally passive creature raises its tail above its body like a scorpion when cornered or injured. Its stinger is a barbed spine with two grooves allowing the toxin to enter the wound. While often found in bays and estuaries, some breeds of stingray can make their home in rivers far upstream from salt water. Stingrays, like their larger manta ray cousins, use a form of electrolocation to find prey in the silt-laden waters.  The stingray presented here is a relatively large member of the species; for smaller stingrays, apply the young creature template.  Stingray Companion Starting Statistics: Size Small; Speed swim 40 ft.; Attack sting (1d3 plus poison); Ability Scores Str 6, Dex 15, Con 13, Int 1, Wis 13, Cha 2; Special Qualities low-light vision.  4th-Level Advancement: Size Medium; AC +1 natural armor; Attack sting (1d4 plus poison); Ability Scores Str +4, Dex -2, Con +2; Special Qualities blindsense 30 ft.

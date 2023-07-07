@@ -66,7 +66,6 @@ Environment: desert
 Temperature: warm
 Organization: solitary or cloud (2-12)
 Treasure: none
-Description: When a giant ant lion reaches maturity, it creates a cocoon of sand and dirt around itself. Over the course of a month, the ant lion undergoes a dramatic metamorphosis-when it emerges, its body has become elongated and thin and it has gained a set of enormous, lacy wings. Depending on the region, giant adult ant lions are often called giant lacewings, giant damself lies, or giant spindlef lies, but regardless of their regional name, they remain ravenous and deadly, replacing the sand trap cunning of their larval form with swift flight and greater battlefield mobility.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+When a giant ant lion reaches maturity, it creates a cocoon of sand and dirt around itself. Over the course of a month, the ant lion undergoes a dramatic metamorphosis-when it emerges, its body has become elongated and thin and it has gained a set of enormous, lacy wings. Depending on the region, giant adult ant lions are often called giant lacewings, giant damself lies, or giant spindlef lies, but regardless of their regional name, they remain ravenous and deadly, replacing the sand trap cunning of their larval form with swift flight and greater battlefield mobility.

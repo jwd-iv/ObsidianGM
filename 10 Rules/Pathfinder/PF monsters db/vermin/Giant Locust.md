@@ -74,7 +74,6 @@ Environment: desert/plains
 Temperature: temperate/warm
 Organization: solitary, pair, gang (3-8), or colony (5-20)
 Treasure: none
-Description: Giant locusts have a hunger akin to their smaller cousins, but only rarely do they gather in the endless numbers of their tiny kin. A mature giant locust measures just over 4 feet long and weighs 50 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant locusts have a hunger akin to their smaller cousins, but only rarely do they gather in the endless numbers of their tiny kin. A mature giant locust measures just over 4 feet long and weighs 50 pounds.

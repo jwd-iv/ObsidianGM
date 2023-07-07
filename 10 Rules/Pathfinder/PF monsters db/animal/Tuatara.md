@@ -66,7 +66,6 @@ Environment: islands
 Temperature: temperate
 Organization: solitary or pair
 Treasure: 
-Description: Tuataras are cousins to true lizards. They mostly live on primordial islands where mammals have never established a foothold.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Tuataras are cousins to true lizards. They mostly live on primordial islands where mammals have never established a foothold.

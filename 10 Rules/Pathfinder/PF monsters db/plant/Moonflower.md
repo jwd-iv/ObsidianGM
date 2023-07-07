@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary or cluster (2-8)
 Treasure: standard
-Description: A fully grown moonf lower easily stands 20 feet tall, its massive trunk frequently 4 feet or more in diameter. The roots extend away from the base and into the soil, making the plant seem well anchored, but the roots themselves possess an agility that belies the great size of the plant and allows the moonf lower to uproot itself and move with surprising speed. The tendrils of the plant are independently prehensile and writhe around the large flytrap-like "head" that crowns the stem.  Moonf lowers have never been known to communicate with other creatures, even with druids and others who regularly converse with plants.  The plants do possess some manner of strange telepathy, though, and are in constant communication with their nearby brethren.  Those who manage to intrude upon the creatures' alien thoughts face an assault of horrible visions of terrifying jungles filled with ancient, sentient, and malign plants.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A fully grown moonf lower easily stands 20 feet tall, its massive trunk frequently 4 feet or more in diameter. The roots extend away from the base and into the soil, making the plant seem well anchored, but the roots themselves possess an agility that belies the great size of the plant and allows the moonf lower to uproot itself and move with surprising speed. The tendrils of the plant are independently prehensile and writhe around the large flytrap-like "head" that crowns the stem.  Moonf lowers have never been known to communicate with other creatures, even with druids and others who regularly converse with plants.  The plants do possess some manner of strange telepathy, though, and are in constant communication with their nearby brethren.  Those who manage to intrude upon the creatures' alien thoughts face an assault of horrible visions of terrifying jungles filled with ancient, sentient, and malign plants.

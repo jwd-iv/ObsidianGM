@@ -71,7 +71,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, gang (2-5), or band (4-11 plus one advanced leader)
 Treasure: NPC gear (blue whinnis poison [4 doses], Small short sword, other treasure)
-Description: Few creatures can match the speed of a quickling. These malicious fey creatures delight in striking with blinding speed and accuracy, often killing their victims without ever fully revealing themselves; the victim simply spurts blood and falls over dead, with no witnesses to the quickling's deed. Though related to brownies and grigs, quicklings share none of their kin's generosity or merriment, choosing instead to live a life of cruelty and viciousness. Quicklings pride themselves on insults and brutality, and frequently stalk and harass their quarry until the victim gives up the chase. While quicklings are naturally invisible when motionless, they rarely contain themselves, and bob and twitch while standing and talking to other creatures. Quicklings hate every other race of creature, particularly elves, gnomes, and other kinds of fey. They barely tolerate their own kind, and rarely work together for longer than a few weeks.  Quicklings stand just over 2-1/2 feet tall and weigh 15 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Few creatures can match the speed of a quickling. These malicious fey creatures delight in striking with blinding speed and accuracy, often killing their victims without ever fully revealing themselves; the victim simply spurts blood and falls over dead, with no witnesses to the quickling's deed. Though related to brownies and grigs, quicklings share none of their kin's generosity or merriment, choosing instead to live a life of cruelty and viciousness. Quicklings pride themselves on insults and brutality, and frequently stalk and harass their quarry until the victim gives up the chase. While quicklings are naturally invisible when motionless, they rarely contain themselves, and bob and twitch while standing and talking to other creatures. Quicklings hate every other race of creature, particularly elves, gnomes, and other kinds of fey. They barely tolerate their own kind, and rarely work together for longer than a few weeks.  Quicklings stand just over 2-1/2 feet tall and weigh 15 pounds.

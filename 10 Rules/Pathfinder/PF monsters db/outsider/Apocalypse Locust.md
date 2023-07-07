@@ -76,7 +76,6 @@ Environment: any (evil plane)
 Temperature: any
 Organization: solitary, pair, or colony (3-30)
 Treasure: standard
-Description: Apocalypse locusts are damned humans twisted and fused into the form of massive, fiendish insects. They delight in torturing living creatures, drawing out the torment for as long as possible. Though these creatures have average intelligence, they are consumed by hatred and eternal pain, and therefore lack any kind of empathy or sanity. Apocalypse locusts particularly enjoy watching holy warriors suffer their hallucinatory stings.
 Race: 
 Class: 
 MR: 3
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Apocalypse locusts are damned humans twisted and fused into the form of massive, fiendish insects. They delight in torturing living creatures, drawing out the torment for as long as possible. Though these creatures have average intelligence, they are consumed by hatred and eternal pain, and therefore lack any kind of empathy or sanity. Apocalypse locusts particularly enjoy watching holy warriors suffer their hallucinatory stings.

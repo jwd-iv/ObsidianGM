@@ -72,7 +72,6 @@ Environment: any (Heaven)
 Temperature: any
 Organization: solitary, pair, or squad (3-12)
 Treasure: standard (masterwork full plate, other treasure)
-Description: Where shield archons are the bulwarks of the armies of Heaven, legion archons are the swords, sent in file after file to match evil's boundless hordes.  Legion archons stand 6-1/2 feet in height and weigh 200 pounds. Beneath their helmets and armor, they have pale or nearly jet-black hairless skin. Their eyes burn bright with the flames of their faith, flaring brightest when they conjure forth their weapons. Regardless of the armor they choose to wear, their metallic wings merge with and extend beyond the armor, allowing them flight even when wearing the heaviest of protection.  Despite their warlike mien, legion archons prefer errands of peace and mercy. Their masters dispatch unarmed legion archons as celestial envoys, though still clad in their heavenly armor. In this fashion, they spread the word and love of Heaven to widely scattered realms.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Where shield archons are the bulwarks of the armies of Heaven, legion archons are the swords, sent in file after file to match evil's boundless hordes.  Legion archons stand 6-1/2 feet in height and weigh 200 pounds. Beneath their helmets and armor, they have pale or nearly jet-black hairless skin. Their eyes burn bright with the flames of their faith, flaring brightest when they conjure forth their weapons. Regardless of the armor they choose to wear, their metallic wings merge with and extend beyond the armor, allowing them flight even when wearing the heaviest of protection.  Despite their warlike mien, legion archons prefer errands of peace and mercy. Their masters dispatch unarmed legion archons as celestial envoys, though still clad in their heavenly armor. In this fashion, they spread the word and love of Heaven to widely scattered realms.

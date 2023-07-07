@@ -68,7 +68,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, or camp (1 plus 3-10 gugs)
 Treasure: standard
-Description: Some bloodthirsty gugs gain awful powers as gifts from their alien patrons. These monsters are known as savants. Some become actual clerics or oracles of their mad gods-strange powers of darkness, insanity, and blood.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Some bloodthirsty gugs gain awful powers as gifts from their alien patrons. These monsters are known as savants. Some become actual clerics or oracles of their mad gods-strange powers of darkness, insanity, and blood.

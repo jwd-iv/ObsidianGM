@@ -68,8 +68,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or herd (3-20)
 Treasure: none
-Description: >
-  True masters of the wild, deer gracefully glide through meadows and among the thickets of the deepest forests. Found in all climates and most terrains, deer form tightly knit herds for protection. These creatures fall victim to predators, and many humanoids hunt the animals for food and hides. They're not picky eaters, and consume all manner of plant material. In areas where humanoids live, deer can become pests as they graze in fields and destroy gardens in search of food. The stat block shown above represents a male deer (a stag). Unlike caribou and other similar animals, female deer only rarely grow antlers, thus they lack gore attacks. Stags are approximately 6 feet long from nose to tail and weigh up to 350 pounds.  Stag Companions Starting Statistics: Size Small; Attack gore (1d4); Ability Scores Str 10, Dex 19, Con 14, Int 2, Wis 15, Cha 8; SQ low-light vision, scent.  4th-Level Advancement: Size Medium; Attack gore (1d6), 2 hooves (1d4); Ability Scores Str +2, Dex -2, Con +2.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+True masters of the wild, deer gracefully glide through meadows and among the thickets of the deepest forests. Found in all climates and most terrains, deer form tightly knit herds for protection. These creatures fall victim to predators, and many humanoids hunt the animals for food and hides. They're not picky eaters, and consume all manner of plant material. In areas where humanoids live, deer can become pests as they graze in fields and destroy gardens in search of food. The stat block shown above represents a male deer (a stag). Unlike caribou and other similar animals, female deer only rarely grow antlers, thus they lack gore attacks. Stags are approximately 6 feet long from nose to tail and weigh up to 350 pounds.  Stag Companions Starting Statistics: Size Small; Attack gore (1d4); Ability Scores Str 10, Dex 19, Con 14, Int 2, Wis 15, Cha 8; SQ low-light vision, scent.  4th-Level Advancement: Size Medium; Attack gore (1d6), 2 hooves (1d4); Ability Scores Str +2, Dex -2, Con +2.

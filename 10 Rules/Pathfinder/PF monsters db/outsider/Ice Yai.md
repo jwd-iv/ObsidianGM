@@ -72,7 +72,6 @@ Environment: mountains
 Temperature: cold
 Organization: solitary or gang (1 plus 4-16 frost giants)
 Treasure: standard
-Description: The ice yai is a sinister creature that combines the brutality of a frost giant with the grace and style of a skilled martial artist. Although its magical powers are formidable, it prefers to fight in melee using its slam attacks, leading its minions in merciless combat. It uses its mobility to cast combat spells or launch shards of ice from its third eye.  An ice yai is a natural leader among frost giants, tempering their savagery with its own wisdom. A tribe led by an ice yai may still raid settlements of neighboring humanoids, but the tribe soon learns the value of establishing regular tributes and willing sacrifices-the ice yai teach that methods that rely upon the threat of violence are often even more effective than actual violence. Despite this strangely enlightened philosophy, an ice yai never passes up an opportunity to reinforce its capacity for slaughter, and will often demand that its subjects take part in show battles, both for the entertainment of the tribe and to nurture the ice yai's insatiable ego and sense of dominion over its subjects.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The ice yai is a sinister creature that combines the brutality of a frost giant with the grace and style of a skilled martial artist. Although its magical powers are formidable, it prefers to fight in melee using its slam attacks, leading its minions in merciless combat. It uses its mobility to cast combat spells or launch shards of ice from its third eye.  An ice yai is a natural leader among frost giants, tempering their savagery with its own wisdom. A tribe led by an ice yai may still raid settlements of neighboring humanoids, but the tribe soon learns the value of establishing regular tributes and willing sacrifices-the ice yai teach that methods that rely upon the threat of violence are often even more effective than actual violence. Despite this strangely enlightened philosophy, an ice yai never passes up an opportunity to reinforce its capacity for slaughter, and will often demand that its subjects take part in show battles, both for the entertainment of the tribe and to nurture the ice yai's insatiable ego and sense of dominion over its subjects.

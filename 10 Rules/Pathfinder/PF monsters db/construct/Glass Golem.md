@@ -71,8 +71,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-5)
 Treasure: none
-Description: >
-  A glass golem is a sizable guardian constructed by a powerful caster, usually in the shape of an armored humanoid. They are more common in desert lands where quartz-based sand is readily available, or in urban centers where glassblowing is commonplace.  A typical glass golem is 10 feet tall and weighs 2,500 pounds.  Stained Glass Golems (+0 CR): Divine casters sometimes build glass golems that resemble the windowpanes commonly found in temples. Thin and agile, these colorful beings often act as spies, wielding powers of stealth that their other counterparts do not possess. A stained glass golem has a +8 racial bonus on Stealth checks.  Construction  A glass golem's body is made from 2,500 pounds of glass mixed with special salts and rare minerals worth 1,000 gp.  GLASS GOLEM  CL 10th; Price 33,000 gp (glass); 39,400 (stained glass)  Construction  Requirements Craft Construct, animate objects, flame strike, geas/ quest, spell turning, creator must be caster level 10th; Skill Craft (sculptures) DC 17; Cost 17,000 gp (glass golem); 20,200 gp (stained glass golem)
 Race: 
 Class: 
 MR: 
@@ -82,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A glass golem is a sizable guardian constructed by a powerful caster, usually in the shape of an armored humanoid. They are more common in desert lands where quartz-based sand is readily available, or in urban centers where glassblowing is commonplace.  A typical glass golem is 10 feet tall and weighs 2,500 pounds.  Stained Glass Golems (+0 CR): Divine casters sometimes build glass golems that resemble the windowpanes commonly found in temples. Thin and agile, these colorful beings often act as spies, wielding powers of stealth that their other counterparts do not possess. A stained glass golem has a +8 racial bonus on Stealth checks.  Construction  A glass golem's body is made from 2,500 pounds of glass mixed with special salts and rare minerals worth 1,000 gp.  GLASS GOLEM  CL 10th; Price 33,000 gp (glass); 39,400 (stained glass)  Construction  Requirements Craft Construct, animate objects, flame strike, geas/ quest, spell turning, creator must be caster level 10th; Skill Craft (sculptures) DC 17; Cost 17,000 gp (glass golem); 20,200 gp (stained glass golem)

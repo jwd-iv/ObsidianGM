@@ -71,7 +71,6 @@ Environment: any (Negative Energy Plane)
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: The most powerful of the known types of nightshade is the ravenous nightwave, an unholy personification of the remorseless gluttony of death given the form of a shark the size of the largest whales. Although the nightwave is most at home in the ocean's deeps, it has no need to breathe, and its constant fly spell-like ability allows it to bring ruin above the waves as the need presents itself.  A nightwave is 100 feet long and weighs 200 tons.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The most powerful of the known types of nightshade is the ravenous nightwave, an unholy personification of the remorseless gluttony of death given the form of a shark the size of the largest whales. Although the nightwave is most at home in the ocean's deeps, it has no need to breathe, and its constant fly spell-like ability allows it to bring ruin above the waves as the need presents itself.  A nightwave is 100 feet long and weighs 200 tons.

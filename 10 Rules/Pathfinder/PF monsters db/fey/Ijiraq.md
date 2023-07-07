@@ -76,7 +76,6 @@ Environment: forest/plains
 Temperature: cold
 Organization: solitary
 Treasure: standard (mostly valuable scrimshaw carvings)
-Description: Wardens of the north, ijiraqs protect the frigid beauty and placidity of their arctic homes against all who would trespass, regardless of race or intentions. They are creatures of icy resolution, merciless and unf linching as the arctic winds, bringing doom to both vicious and innocent interlopers equally. Aloof and mysterious, they prefer not to be seen in their natural form, instead cloaking themselves in the fur and shape of swift elk or caribou. Yet even then they're usually only glimpsed as fleeting shadows. Those who lock gazes with ijiraqs see the world around them begin to swim, seeming unreal to the extent that even a skilled forester might be unable to determine which way is north, and a life-long native of a place might become lost within sight of home. Few can honestly claim to have ever seen an ijiraq's true face, as the creatures wear skulls taken from impressive specimens of their alternate forms as masks. Ijiraqs typically stand about 5 feet tall-though that height reaches over 6 feet including their impressive horns- and weigh approximately 175 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Wardens of the north, ijiraqs protect the frigid beauty and placidity of their arctic homes against all who would trespass, regardless of race or intentions. They are creatures of icy resolution, merciless and unf linching as the arctic winds, bringing doom to both vicious and innocent interlopers equally. Aloof and mysterious, they prefer not to be seen in their natural form, instead cloaking themselves in the fur and shape of swift elk or caribou. Yet even then they're usually only glimpsed as fleeting shadows. Those who lock gazes with ijiraqs see the world around them begin to swim, seeming unreal to the extent that even a skilled forester might be unable to determine which way is north, and a life-long native of a place might become lost within sight of home. Few can honestly claim to have ever seen an ijiraq's true face, as the creatures wear skulls taken from impressive specimens of their alternate forms as masks. Ijiraqs typically stand about 5 feet tall-though that height reaches over 6 feet including their impressive horns- and weigh approximately 175 pounds.

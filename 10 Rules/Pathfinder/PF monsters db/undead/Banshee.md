@@ -71,7 +71,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: A banshee is the enraged spirit of an elven woman who either betrayed those she loved or was herself betrayed.  Maddened by grief, a banshee visits her vengeance on all living creatures-innocent or guilty-with her fearsome touch and deadly wails.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A banshee is the enraged spirit of an elven woman who either betrayed those she loved or was herself betrayed.  Maddened by grief, a banshee visits her vengeance on all living creatures-innocent or guilty-with her fearsome touch and deadly wails.

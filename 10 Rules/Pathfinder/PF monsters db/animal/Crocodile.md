@@ -73,7 +73,6 @@ Environment: river/swamp (coastal)
 Temperature: warm
 Organization: solitary, pair, or colony (3-12)
 Treasure: none
-Description: A crocodile is a primeval reptile that dwells in swamps or along the banks of rivers, a habitat that often puts it in violent contact with unsuspecting prey that come to the water's edge to drink.  The typical crocodile is 14 feet long and weighs 1,400 pounds, but larger species exist. You can use these statistics for similar creatures, such as alligators.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A crocodile is a primeval reptile that dwells in swamps or along the banks of rivers, a habitat that often puts it in violent contact with unsuspecting prey that come to the water's edge to drink.  The typical crocodile is 14 feet long and weighs 1,400 pounds, but larger species exist. You can use these statistics for similar creatures, such as alligators.

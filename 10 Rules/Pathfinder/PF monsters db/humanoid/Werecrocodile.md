@@ -66,7 +66,6 @@ Environment: river/swamp (coastal)
 Temperature: warm
 Organization: solitary, pair, or colony (3-12)
 Treasure: NPC gear (mwk battleaxe, other treasure)
-Description: Werecrocodiles merge the ruthless determination of a crocodile with the intelligence and adaptability of a humanoid. This fusion creates a maliciously cunning creature with no doubt of its own martial superiority.
 Race: Human natural werecrocodile
 Class: fighter 3
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Werecrocodiles merge the ruthless determination of a crocodile with the intelligence and adaptability of a humanoid. This fusion creates a maliciously cunning creature with no doubt of its own martial superiority.

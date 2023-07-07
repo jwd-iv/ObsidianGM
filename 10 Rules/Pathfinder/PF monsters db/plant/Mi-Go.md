@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, scouting party (3-9), or invasion (9-16)
 Treasure: double
-Description: Mi-go are both scientists and colonists-extraterrestrial travelers from deep space who view the universe as a canvas to be mastered and controlled. Their numbers on any particular planet can vary, but taken on a galactic scale, are mind-numbing in scope. Although a mi-go's shape might suggest it is an arthropod, the creature is in fact a highly evolved form of extraterrestrial fungus. Mi-go communicate via a combination of clicking pincers and subtle shifts in the coloration of their bulbous heads. A typical mi-go is roughly the size of a human, but weighs only 90 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Mi-go are both scientists and colonists-extraterrestrial travelers from deep space who view the universe as a canvas to be mastered and controlled. Their numbers on any particular planet can vary, but taken on a galactic scale, are mind-numbing in scope. Although a mi-go's shape might suggest it is an arthropod, the creature is in fact a highly evolved form of extraterrestrial fungus. Mi-go communicate via a combination of clicking pincers and subtle shifts in the coloration of their bulbous heads. A typical mi-go is roughly the size of a human, but weighs only 90 pounds.

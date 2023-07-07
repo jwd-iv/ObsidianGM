@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: A blood golem is an animate mass of living blood. It can creep about in liquid form like an ooze, or create a thick skin made up of coagulated blood that allows it to walk upright like a person.  Construction  A blood golem's body must be constructed from the fresh blood of approximately 20 Medium creatures and alchemical fluids worth at least 500 gp.  BLOOD GOLEM  CL 7th; Price 22,500 gp  Construction  Requirements Craft Construct, animate dead, bleed, cure critical wounds, geas/quest, creator must be caster level 12th; Skill Craft (alchemy) DC 17; Cost 11,500 gp
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A blood golem is an animate mass of living blood. It can creep about in liquid form like an ooze, or create a thick skin made up of coagulated blood that allows it to walk upright like a person.  Construction  A blood golem's body must be constructed from the fresh blood of approximately 20 Medium creatures and alchemical fluids worth at least 500 gp.  BLOOD GOLEM  CL 7th; Price 22,500 gp  Construction  Requirements Craft Construct, animate dead, bleed, cure critical wounds, geas/quest, creator must be caster level 12th; Skill Craft (alchemy) DC 17; Cost 11,500 gp

@@ -69,7 +69,6 @@ Environment: forest/underground
 Temperature: temperate/warm
 Organization: patch (creeper plus 1-6 yellow musk zombies)
 Treasure: incidental
-Description: The yellow musk creeper is a hideous plant that grows in haunted graveyards, grisly battlefields, and other places where death hangs heavy in the air and thick in the soil. The yellow musk creeper's method of procreation is singularly frightful-it slays the living, infests them with its seeds and pollen, then animates them as zombies. These zombies serve the plant as a guardian for several days, but when new zombies are created, older ones wander off into the surrounding wild, collapsing and breaking apart within 2d6 days to give seed to a new yellow musk creeper. Yellow Musk Zombie A yellow musk zombie is a rotting creature from which wet green vines have sprouted. Treat a yellow musk zombie as a standard zombie, but with this special quality. Plant Traits (Ex) This zombie's animation is provided not by necromancy but by the plant that grows throughout its body. Yellow musk zombies lack undead traits, but gain plant traits. They are treated as plants, not undead, for the resolution of magical effects and attacks. Channel energy cannot harm a yellow musk zombie, for example, nor does negative energy heal a yellow musk zombie.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The yellow musk creeper is a hideous plant that grows in haunted graveyards, grisly battlefields, and other places where death hangs heavy in the air and thick in the soil. The yellow musk creeper's method of procreation is singularly frightful-it slays the living, infests them with its seeds and pollen, then animates them as zombies. These zombies serve the plant as a guardian for several days, but when new zombies are created, older ones wander off into the surrounding wild, collapsing and breaking apart within 2d6 days to give seed to a new yellow musk creeper. Yellow Musk Zombie A yellow musk zombie is a rotting creature from which wet green vines have sprouted. Treat a yellow musk zombie as a standard zombie, but with this special quality. Plant Traits (Ex) This zombie's animation is provided not by necromancy but by the plant that grows throughout its body. Yellow musk zombies lack undead traits, but gain plant traits. They are treated as plants, not undead, for the resolution of magical effects and attacks. Channel energy cannot harm a yellow musk zombie, for example, nor does negative energy heal a yellow musk zombie.

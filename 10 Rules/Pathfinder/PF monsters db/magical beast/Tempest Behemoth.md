@@ -78,7 +78,6 @@ Environment: sky
 Temperature: any
 Organization: solitary or pair
 Treasure: none
-Description: Riding the winds on a triple set of wings, tempest behemoths fly above all, death riding in their shadows. In battle, they snatch up foes only to cast them away from great heights, smash enemies with their wings, or hurl razor-edged scales at distant targets. A tempest behemoth's divine heritage wards its body, mind, and soul against harm. Only the most powerful magic or attack can pierce its defenses. Serene in their immortality, tempest behemoths fear no other being.  As living forces of divine retribution, tempest behemoths are sent forth into the world to raze far-f lung cities, ravage towns with mighty storms, level remote mountain temples, and tear apart siege fortresses impregnable from the ground.  The advent of a tempest behemoth is generally presaged by foul weather and terrific storms that drive flocks of birds before their headwinds. The day before the behemoth arrives, the storms suddenly abate-ironically encouraging victims to emerge into the open just as the behemoth strikes.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Riding the winds on a triple set of wings, tempest behemoths fly above all, death riding in their shadows. In battle, they snatch up foes only to cast them away from great heights, smash enemies with their wings, or hurl razor-edged scales at distant targets. A tempest behemoth's divine heritage wards its body, mind, and soul against harm. Only the most powerful magic or attack can pierce its defenses. Serene in their immortality, tempest behemoths fear no other being.  As living forces of divine retribution, tempest behemoths are sent forth into the world to raze far-f lung cities, ravage towns with mighty storms, level remote mountain temples, and tear apart siege fortresses impregnable from the ground.  The advent of a tempest behemoth is generally presaged by foul weather and terrific storms that drive flocks of birds before their headwinds. The day before the behemoth arrives, the storms suddenly abate-ironically encouraging victims to emerge into the open just as the behemoth strikes.

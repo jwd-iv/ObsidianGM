@@ -70,7 +70,6 @@ Environment: any (Abyss)
 Temperature: any
 Organization: solitary, pair, or wing (2-8)
 Treasure: standard (masterwork scimitar, other treasure)
-Description: An incubus in his true form is always muscular and attractive, with long hair and intense eyes. His skin can be of any color, but is always smooth and silky. When not using his wings for flight, an incubus can fold them to drape across  its shoulders like a cloak-many decorate both the inside and outside of their wings with tattoos, ink, or self-inflicted scars. Incubi stand between 6 and 6-1/2 feet tall and typically weigh 200 pounds.  When not in battle, incubi serve as counselors, torturers, and companions for greater demons. They are also often conjured for similar roles by mortal spellcasters, although care must be taken in dalliances with incubi, for they delight in causing pain to their companions.  Like succubi, incubi form from the chaotic evil souls of particularly lustful and rapacious mortals. Yet whereas succubi are subtle and methodical about using their charms to cause ruin, the typical incubus is forthright and forceful about his insatiable desires.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+An incubus in his true form is always muscular and attractive, with long hair and intense eyes. His skin can be of any color, but is always smooth and silky. When not using his wings for flight, an incubus can fold them to drape across  its shoulders like a cloak-many decorate both the inside and outside of their wings with tattoos, ink, or self-inflicted scars. Incubi stand between 6 and 6-1/2 feet tall and typically weigh 200 pounds.  When not in battle, incubi serve as counselors, torturers, and companions for greater demons. They are also often conjured for similar roles by mortal spellcasters, although care must be taken in dalliances with incubi, for they delight in causing pain to their companions.  Like succubi, incubi form from the chaotic evil souls of particularly lustful and rapacious mortals. Yet whereas succubi are subtle and methodical about using their charms to cause ruin, the typical incubus is forthright and forceful about his insatiable desires.

@@ -83,7 +83,6 @@ Environment: vacuum
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Arrogant and proud, solar dragons see themselves as the originators of light and life in the vastness of space. They treat all living creatures as their own creations.
 Race: 
 Class: 
 MR: 
@@ -93,3 +92,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Arrogant and proud, solar dragons see themselves as the originators of light and life in the vastness of space. They treat all living creatures as their own creations.

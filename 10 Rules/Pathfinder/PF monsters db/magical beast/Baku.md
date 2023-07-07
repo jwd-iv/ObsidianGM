@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Bizarre creatures that feed on thoughts, bakus stay hidden from humanoids and feed on their creativity and dreams as well as their fears and nightmares. Bakus rarely encounter others of their kind, living largely solitary lives. Some sages speculate the creatures are not born, but rather spontaneously manifest as if spun from dreams, nightmares, and creative thoughts. Bakus are about 5 feet long and weigh 100 pounds.  Bakus dislike feeding on thoughts concerning themselves, and tend to cease when their target begins thinking of the baku. For this reason, bakus keep hidden in settlements, floating in the evening air above bedrooms and boarding houses, siphoning sustenance from the dreaming populace. Bakus themselves do not sleep.  Given their connection to dreams and nightmares, bakus are mortal enemies of night hags. Though usually calm and gentle creatures, bakus that encounter night hags dedicate themselves to hunting them down and ridding the world of their dark inf luence. A baku uses its ethereal jaunt spell-like ability to fight night hags as they inf lict nightmares on their victims.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Bizarre creatures that feed on thoughts, bakus stay hidden from humanoids and feed on their creativity and dreams as well as their fears and nightmares. Bakus rarely encounter others of their kind, living largely solitary lives. Some sages speculate the creatures are not born, but rather spontaneously manifest as if spun from dreams, nightmares, and creative thoughts. Bakus are about 5 feet long and weigh 100 pounds.  Bakus dislike feeding on thoughts concerning themselves, and tend to cease when their target begins thinking of the baku. For this reason, bakus keep hidden in settlements, floating in the evening air above bedrooms and boarding houses, siphoning sustenance from the dreaming populace. Bakus themselves do not sleep.  Given their connection to dreams and nightmares, bakus are mortal enemies of night hags. Though usually calm and gentle creatures, bakus that encounter night hags dedicate themselves to hunting them down and ridding the world of their dark inf luence. A baku uses its ethereal jaunt spell-like ability to fight night hags as they inf lict nightmares on their victims.

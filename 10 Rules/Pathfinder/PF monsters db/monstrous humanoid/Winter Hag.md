@@ -76,7 +76,6 @@ Environment: forest/plains
 Temperature: cold
 Organization: solitary, patrol (1 plus 1 winter wolf), or coven (3 hags of any type)
 Treasure: standard
-Description: Winter hags are sadistic crones who haunt winter-blasted plains and rime-covered forests. They're exceptionally arrogant, and often use their magic to subjugate entire tribes of evil humanoids so they can rule over them as queens. These arrangements rarely last more than a few seasons, because no creature is truly safe from a winter hag's irrepressible appetite for warm, raw flesh. An ambitious winter hag might extort a village by causing constant snowfall until they give her children to eat or adults to become her slaves. A typical winter hag stands between 5 and 6 feet tall and weighs 100 pounds. When a winter hag joins a coven, the coven adds sculpt simulacrum and simulacrum to its spell-like abilities, and any member within 1 mile of the winter hag gains icewalking and snow vision.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Winter hags are sadistic crones who haunt winter-blasted plains and rime-covered forests. They're exceptionally arrogant, and often use their magic to subjugate entire tribes of evil humanoids so they can rule over them as queens. These arrangements rarely last more than a few seasons, because no creature is truly safe from a winter hag's irrepressible appetite for warm, raw flesh. An ambitious winter hag might extort a village by causing constant snowfall until they give her children to eat or adults to become her slaves. A typical winter hag stands between 5 and 6 feet tall and weighs 100 pounds. When a winter hag joins a coven, the coven adds sculpt simulacrum and simulacrum to its spell-like abilities, and any member within 1 mile of the winter hag gains icewalking and snow vision.

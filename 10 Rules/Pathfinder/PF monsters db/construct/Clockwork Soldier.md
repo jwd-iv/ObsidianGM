@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, trio, troop (3-8), or company (9-12 plus 1-4 clockwork servants)
 Treasure: standard (+1 halberd, other treasure)
-Description: The clockwork soldier is a mechanical mercenary that fights to the death for its creator. With the ability to wield most weapons with full proficiency, clockwork   soldiers are versatile and wholly unpredictable foes. Most are armed with magic weapons-a +1 halberd being the most common armament.  Clockwork soldiers are among the most efficient constructs of their kind. They are ideal for sentry and guard duty. Clockwork soldiers have the same basic shape as a human. They are 6 feet tall and weigh 500 pounds.  Construction  The creator must start with crafted clockwork pieces worth 1,000 gp; the cost of the soldier's weapon is not included in this price.  CLOCKWORK SOLDIER  CL 12th; Price 37,000 gp  Construction  Requirements Craft Construct, geas/quest and heroism, creator must be at least caster level 12th; Skill Craft (clockwork) DC 20; Cost 19,000 gp
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The clockwork soldier is a mechanical mercenary that fights to the death for its creator. With the ability to wield most weapons with full proficiency, clockwork   soldiers are versatile and wholly unpredictable foes. Most are armed with magic weapons-a +1 halberd being the most common armament.  Clockwork soldiers are among the most efficient constructs of their kind. They are ideal for sentry and guard duty. Clockwork soldiers have the same basic shape as a human. They are 6 feet tall and weigh 500 pounds.  Construction  The creator must start with crafted clockwork pieces worth 1,000 gp; the cost of the soldier's weapon is not included in this price.  CLOCKWORK SOLDIER  CL 12th; Price 37,000 gp  Construction  Requirements Craft Construct, geas/quest and heroism, creator must be at least caster level 12th; Skill Craft (clockwork) DC 20; Cost 19,000 gp

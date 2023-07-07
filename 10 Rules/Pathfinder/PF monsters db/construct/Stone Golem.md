@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: A stone golem has a humanoid body made from stone, frequently stylized to suit its creator. For example, it might look like it is wearing armor, with a particular symbol carved on the breastplate, or have designs worked into the stone of its limbs. Its head is often carved to resemble a helmet or the head of some beast. While it may be sculpted to carry a stone shield or stone weapon such as a sword, these aesthetic choices do not affect its combat abilities.  Like most golems, a stone golem cannot speak and makes no sound other than the grinding of stone against stone when it moves. A stone golem is 9 feet tall and weighs around 2,000 pounds.  Construction A stone golem's body is chiseled from a single block of hard stone, such as granite, weighing at least 3,000 pounds. The stone must be of exceptional quality, and costs 5,000 gp.  Stone Golem CL 14th; Price 105,000 gp Construction Requirements Craft Construct, antimagic field, geas/quest, limited wish, symbol of stunning, creator must be caster level 14th; Skill Craft (sculpture) or Craft (stonemasonry) DC 19; Cost 55,000 gp
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A stone golem has a humanoid body made from stone, frequently stylized to suit its creator. For example, it might look like it is wearing armor, with a particular symbol carved on the breastplate, or have designs worked into the stone of its limbs. Its head is often carved to resemble a helmet or the head of some beast. While it may be sculpted to carry a stone shield or stone weapon such as a sword, these aesthetic choices do not affect its combat abilities.  Like most golems, a stone golem cannot speak and makes no sound other than the grinding of stone against stone when it moves. A stone golem is 9 feet tall and weighs around 2,000 pounds.  Construction A stone golem's body is chiseled from a single block of hard stone, such as granite, weighing at least 3,000 pounds. The stone must be of exceptional quality, and costs 5,000 gp.  Stone Golem CL 14th; Price 105,000 gp Construction Requirements Craft Construct, antimagic field, geas/quest, limited wish, symbol of stunning, creator must be caster level 14th; Skill Craft (sculpture) or Craft (stonemasonry) DC 19; Cost 55,000 gp

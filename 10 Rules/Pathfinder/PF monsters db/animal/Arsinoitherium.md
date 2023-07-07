@@ -65,8 +65,6 @@ Environment: plains
 Temperature: temperate
 Organization: solitary, pair, or herd (3-12)
 Treasure: none
-Description: >
-  The arsinoitherium is a herbivore, but it displays a fierce and threatening behavior when it perceives danger: bellowing, stamping, and tossing its head. Threats that do not recede from such warnings are met with a fierce bellow and a charge.  ARSINOITHERIUM COMPANIONS  Starting Statistics: Size Medium; Speed 30 ft.; AC +4 natural; Attack gore (1d8); Ability Scores Str 14, Dex 12, Con 15, Int 2, Wis 13, Cha 3; Special Qualities low-light vision, scent.  7th-Level Adv.: Size Large; AC +2 natural; Attack gore (2d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities powerful charge (2d8), trample.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The arsinoitherium is a herbivore, but it displays a fierce and threatening behavior when it perceives danger: bellowing, stamping, and tossing its head. Threats that do not recede from such warnings are met with a fierce bellow and a charge.  ARSINOITHERIUM COMPANIONS  Starting Statistics: Size Medium; Speed 30 ft.; AC +4 natural; Attack gore (1d8); Ability Scores Str 14, Dex 12, Con 15, Int 2, Wis 13, Cha 3; Special Qualities low-light vision, scent.  7th-Level Adv.: Size Large; AC +2 natural; Attack gore (2d8); Ability Scores Str +8, Dex -2, Con +4; Special Qualities powerful charge (2d8), trample.

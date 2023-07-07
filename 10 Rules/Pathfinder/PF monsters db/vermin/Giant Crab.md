@@ -67,7 +67,6 @@ Environment: aquatic
 Temperature: any
 Organization: solitary or cast (2-12)
 Treasure: none
-Description: Giant crabs behave much like their smaller cousins, feeding on both plant material like algae and fungus and animal matter such as fish, seabirds, and even unwary humanoids. The coloration of a giant crab's hard exoskeleton varies widely depending on species, and over time even shifts in response to its diet. Other species of giant crab exist as well, some smaller but most quite a bit larger. You can adjust the stats given here by changing Hit Dice and size (changing Strength, Dexterity, and Constitution as appropriate) to represent a wide range of different species of giant crab. The following table lists the most common variants. Species CR Size H D King crab 1/4 Tiny 1d8 Coconut crab 1/2 Small 1d8 Rock crab 4 Large 5d8 Shark-eating crab 7 Huge 8d8 Great reef crab 10 Gargantuan 11d8 Shipwrecker crab 13 Colossal 14d8
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant crabs behave much like their smaller cousins, feeding on both plant material like algae and fungus and animal matter such as fish, seabirds, and even unwary humanoids. The coloration of a giant crab's hard exoskeleton varies widely depending on species, and over time even shifts in response to its diet. Other species of giant crab exist as well, some smaller but most quite a bit larger. You can adjust the stats given here by changing Hit Dice and size (changing Strength, Dexterity, and Constitution as appropriate) to represent a wide range of different species of giant crab. The following table lists the most common variants. Species CR Size H D King crab 1/4 Tiny 1d8 Coconut crab 1/2 Small 1d8 Rock crab 4 Large 5d8 Shark-eating crab 7 Huge 8d8 Great reef crab 10 Gargantuan 11d8 Shipwrecker crab 13 Colossal 14d8

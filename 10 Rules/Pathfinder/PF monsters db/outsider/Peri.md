@@ -74,7 +74,6 @@ Environment: any (good plane)
 Temperature: any
 Organization: solitary or pair
 Treasure: triple (+2 flaming burst scimitar, other treasure)
-Description: Peris are a race of celestials native to the good-aligned Outer Planes, but they are also often found in the company of mortals on the Material Plane. Believed to be the descendants of fallen angels, peris do penance for their ancestors' sins before they can earn a place in paradise. As a result, peris work tirelessly to aid and support good heroes of the mortal realms in a never-ending battle against evil.  Peris hate the evil fiends known as divs, who constantly seek to ruin the good works of mortals. Peris often work to repair damage wrought by the destructive divs. For their part, the divs take great pleasure in tormenting and persecuting peris, locking the fiery-winged celestials in cages of cold iron and endlessly torturing them.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Peris are a race of celestials native to the good-aligned Outer Planes, but they are also often found in the company of mortals on the Material Plane. Believed to be the descendants of fallen angels, peris do penance for their ancestors' sins before they can earn a place in paradise. As a result, peris work tirelessly to aid and support good heroes of the mortal realms in a never-ending battle against evil.  Peris hate the evil fiends known as divs, who constantly seek to ruin the good works of mortals. Peris often work to repair damage wrought by the destructive divs. For their part, the divs take great pleasure in tormenting and persecuting peris, locking the fiery-winged celestials in cages of cold iron and endlessly torturing them.

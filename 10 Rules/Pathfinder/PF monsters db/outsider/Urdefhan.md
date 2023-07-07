@@ -75,7 +75,6 @@ Environment: land (Abaddon)
 Temperature: any
 Organization: solitary, pair, gang (3-12), or cult (13-30 plus 2-6 fighters of 2nd-4th level, 1-4 necromancer wizards of 3rd-6th level, 1 cleric high priest of 5th-9th level, 8-12 skavelings, and 1-3 ceustodaemons)
 Treasure: NPC gear (studded leather, rhoka sword, composite longbow (+4 Str) with 20 arrows, other treasure)
-Description: Infused with fell energies from Abaddon, urdefhans are an unsightly race dedicated to war. They have developed many strange weapons, but none are more iconic than the two-bladed rhoka sword. Rhoka swords are exotic onehanded melee weapons-all urdefhans are proficient in their use. With such weapons, an urdefhan seeks to inf lict as much death as possible upon the world before it perishes, so that its daemonic lords are pleased. Most male urdefhans are sterile-as a result, the women often turn to conjured daemons for mates. The products of such unions are usually typical urdefhans, but sometimes result in half-fiend urdefhans-these monsters usually rise to positions of great power in their violent society.
 Race: 
 Class: 
 MR: 
@@ -85,3 +84,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Infused with fell energies from Abaddon, urdefhans are an unsightly race dedicated to war. They have developed many strange weapons, but none are more iconic than the two-bladed rhoka sword. Rhoka swords are exotic onehanded melee weapons-all urdefhans are proficient in their use. With such weapons, an urdefhan seeks to inf lict as much death as possible upon the world before it perishes, so that its daemonic lords are pleased. Most male urdefhans are sterile-as a result, the women often turn to conjured daemons for mates. The products of such unions are usually typical urdefhans, but sometimes result in half-fiend urdefhans-these monsters usually rise to positions of great power in their violent society.

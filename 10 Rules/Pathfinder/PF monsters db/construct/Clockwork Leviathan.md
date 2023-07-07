@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pod (2-4)
 Treasure: none
-Description: Clockwork leviathans are equally capable of functioning on land and in water. Sailors who are haunted by the memories of these treacherous machines need not exaggerate their yarns, for the reality of an aquatic construct such as this holds enough terror in its story for even the hardiest of seafarers.  A clockwork leviathan's numerous metal plates and links are made of such resilient material that they never rust, even after long exposure to the briny sea waters that leviathans often patrol.  Clockwork leviathans are 25 feet long and weigh just over 3 tons.  Construction  When creating these clockworks, great care must be taken to waterproof their components. The creator must start with crafted clockwork pieces worth 10,000 gp.  CLOCKWORK LEVIATHAN  CL 12th; Price 130,000 gp  Construction Requirements Craft Construct, freedom of movement, geas/quest, heat metal, and limited wish, creator must be at least caster level 12th; Skill Craft (clockwork) DC 20; Cost 70,000 gp
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Clockwork leviathans are equally capable of functioning on land and in water. Sailors who are haunted by the memories of these treacherous machines need not exaggerate their yarns, for the reality of an aquatic construct such as this holds enough terror in its story for even the hardiest of seafarers.  A clockwork leviathan's numerous metal plates and links are made of such resilient material that they never rust, even after long exposure to the briny sea waters that leviathans often patrol.  Clockwork leviathans are 25 feet long and weigh just over 3 tons.  Construction  When creating these clockworks, great care must be taken to waterproof their components. The creator must start with crafted clockwork pieces worth 10,000 gp.  CLOCKWORK LEVIATHAN  CL 12th; Price 130,000 gp  Construction Requirements Craft Construct, freedom of movement, geas/quest, heat metal, and limited wish, creator must be at least caster level 12th; Skill Craft (clockwork) DC 20; Cost 70,000 gp

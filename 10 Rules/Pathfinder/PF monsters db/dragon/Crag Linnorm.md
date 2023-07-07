@@ -79,7 +79,6 @@ Environment: hills
 Temperature: cold
 Organization: solitary
 Treasure: triple
-Description: Like all linnorms, the deadly crag linnorm is a powerful, primeval dragon, a denizen of the wild regions far north of where most civilizations dare to tread. The crag linnorm is among the weakest of its kind, yet still a devastating predator in its own right. Favored, if not by the gods, then by some primal intelligence of the mysterious world of the fey, the linnorm bestows a powerful curse on any who manage to slay it. A crag linnorm is 60 feet long and weighs 12,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -89,3 +88,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Like all linnorms, the deadly crag linnorm is a powerful, primeval dragon, a denizen of the wild regions far north of where most civilizations dare to tread. The crag linnorm is among the weakest of its kind, yet still a devastating predator in its own right. Favored, if not by the gods, then by some primal intelligence of the mysterious world of the fey, the linnorm bestows a powerful curse on any who manage to slay it. A crag linnorm is 60 feet long and weighs 12,000 pounds.

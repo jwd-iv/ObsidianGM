@@ -69,7 +69,6 @@ Environment: any (Plane of Earth)
 Temperature: any
 Organization: solitary, pair, or gang (3-8)
 Treasure: none
-Description: Earth elementals are plodding, stubborn creatures made of living stone or earth. When utterly still, they resemble a heap of stone or a small hill. When an earth elemental lumbers into action, its actual appearance can vary, although its statistics remain identical to other elementals of its size. Most earth elementals look like terrestrial animals made out of rock, earth, or even crystal, with glowing gemstones for eyes. Larger earth elementals often have a stony humanoid appearance. Bits of vegetation frequently grow in the soil that makes up parts of an earth elemental's body. Elemental Height Weight Small 4 ft. 80 lbs. Medium 8 ft. 750 lbs. Large 16 ft. 6,000 lbs. Huge 32 ft. 48,000 lbs. Greater 36 ft. 54,000 lbs. Elder 40 ft. 60,000 lbs.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Earth elementals are plodding, stubborn creatures made of living stone or earth. When utterly still, they resemble a heap of stone or a small hill. When an earth elemental lumbers into action, its actual appearance can vary, although its statistics remain identical to other elementals of its size. Most earth elementals look like terrestrial animals made out of rock, earth, or even crystal, with glowing gemstones for eyes. Larger earth elementals often have a stony humanoid appearance. Bits of vegetation frequently grow in the soil that makes up parts of an earth elemental's body. Elemental Height Weight Small 4 ft. 80 lbs. Medium 8 ft. 750 lbs. Large 16 ft. 6,000 lbs. Huge 32 ft. 48,000 lbs. Greater 36 ft. 54,000 lbs. Elder 40 ft. 60,000 lbs.

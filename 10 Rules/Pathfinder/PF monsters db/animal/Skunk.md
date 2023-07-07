@@ -72,7 +72,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, or surfeit (3-5)
 Treasure: none
-Description: These small mammals are well known to humanoids and forest creatures alike, with their distinctive black-and-white-striped markings and infamous scent glands. Creatures like big cats or wolves that normally would make a meal of such a small creature give skunks plenty of space, for they have learned well that the combination of black and white on a skunk's back equates to a hideously overpowering stench.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These small mammals are well known to humanoids and forest creatures alike, with their distinctive black-and-white-striped markings and infamous scent glands. Creatures like big cats or wolves that normally would make a meal of such a small creature give skunks plenty of space, for they have learned well that the combination of black and white on a skunk's back equates to a hideously overpowering stench.

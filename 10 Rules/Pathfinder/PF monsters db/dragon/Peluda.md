@@ -78,7 +78,6 @@ Environment: swamp (coastal)/plains
 Temperature: temperate
 Organization: solitary or pair
 Treasure: double
-Description: Peludas loathe all weak, fragile creatures smaller than themselves, especially humanoids. Some hunt in nearby farmlands before returning to their own lairs. Some are worshipped as gods by lizardfolk or other swamp creatures, though a peluda's short temper means it may eat its devotees if affronted. A typical peluda is 15 feet long and weighs 300 pounds.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Peludas loathe all weak, fragile creatures smaller than themselves, especially humanoids. Some hunt in nearby farmlands before returning to their own lairs. Some are worshipped as gods by lizardfolk or other swamp creatures, though a peluda's short temper means it may eat its devotees if affronted. A typical peluda is 15 feet long and weighs 300 pounds.

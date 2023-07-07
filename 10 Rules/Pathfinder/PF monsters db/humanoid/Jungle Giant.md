@@ -74,7 +74,6 @@ Environment: forest
 Temperature: warm
 Organization: solitary, hunting party (2-9 plus 1-3 girallons), or tribe (10-40, plus 35% noncombatants, 1-3 druids or sorcerers of 2nd-5th level, 1 ranger or barbarian of 3rd-7th level, and 2-8 girallons)
 Treasure: standard (masterwork composite longbow [+8 Str] with 40 arrows, other treasure)
-Description: Reclusive by nature, jungle giants lair deep within the rainforest. These giants distrust the ways of civilization and resent trespassers. More than one vine-covered lost city in the deep jungle owes its fall to jungle giant ire. The warrior-women of these tribes usually fight with bows, sacred weapons often passed down over generations from mother to daughter. To touch a jungle giant's bow without permission is a mortal insult.  Jungle giants stand 17 feet tall and weigh 4,000 pounds. Their barklike skin bears runic brands etched into each giant as a rite of passage into adulthood. Jungle giant tribes are matriarchal, ruled by an elder female warrior. Males traditionally defend the village, gather food, tend livestock, and raise children.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Reclusive by nature, jungle giants lair deep within the rainforest. These giants distrust the ways of civilization and resent trespassers. More than one vine-covered lost city in the deep jungle owes its fall to jungle giant ire. The warrior-women of these tribes usually fight with bows, sacred weapons often passed down over generations from mother to daughter. To touch a jungle giant's bow without permission is a mortal insult.  Jungle giants stand 17 feet tall and weigh 4,000 pounds. Their barklike skin bears runic brands etched into each giant as a rite of passage into adulthood. Jungle giant tribes are matriarchal, ruled by an elder female warrior. Males traditionally defend the village, gather food, tend livestock, and raise children.

@@ -66,7 +66,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary or pair
 Treasure: none
-Description: Though great horned owls seem large, most of their apparent bulk comes from their particularly fluffy feathers and rather large heads. Great horned owls have wingspans of up to 5 feet and weigh up to 4 pounds.  Great horned owls primarily hunt at night, locating prey through their excellent hearing. Their diet consists of rodents supplemented by smaller birds and rabbits.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Though great horned owls seem large, most of their apparent bulk comes from their particularly fluffy feathers and rather large heads. Great horned owls have wingspans of up to 5 feet and weigh up to 4 pounds.  Great horned owls primarily hunt at night, locating prey through their excellent hearing. Their diet consists of rodents supplemented by smaller birds and rabbits.

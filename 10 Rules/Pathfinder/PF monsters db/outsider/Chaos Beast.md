@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary or invasion (2-5)
 Treasure: none
-Description: A chaos beast's form changes without any goal or purpose.  Though at any particular second a chaos beast may appear to have dozens of limbs, whether claws, tentacles, stingers, and so on, the lightning-quick shifts of its body mean most of these are gone before it has a chance to use them, and its attacks are always treated as claws regardless of the creature's appearance.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A chaos beast's form changes without any goal or purpose.  Though at any particular second a chaos beast may appear to have dozens of limbs, whether claws, tentacles, stingers, and so on, the lightning-quick shifts of its body mean most of these are gone before it has a chance to use them, and its attacks are always treated as claws regardless of the creature's appearance.

@@ -76,7 +76,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: A wickerman is a towering wicker statue with a cage in its chest. Inanimate ones are used for sacrifices to gods or nature faiths, and the constructs to terrify a faith's enemies.  Construction  A wickerman is created from 12,000 pounds of wicker and rare wood costing 10,000 gp. Activating the wickerman requires sacrificing a living humanoid inside its chest cage. Sacrificing a creature is an evil act.  WICKERMAN  CL 14th; Price 110,000 gp  Construction  Requirements Craft Construct, fire seeds, wall of fire, warp wood, creator must be caster level 12th; Skill Craft (carpentry) or Craft (sculptures) DC 15; Cost 60,000 gp
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A wickerman is a towering wicker statue with a cage in its chest. Inanimate ones are used for sacrifices to gods or nature faiths, and the constructs to terrify a faith's enemies.  Construction  A wickerman is created from 12,000 pounds of wicker and rare wood costing 10,000 gp. Activating the wickerman requires sacrificing a living humanoid inside its chest cage. Sacrificing a creature is an evil act.  WICKERMAN  CL 14th; Price 110,000 gp  Construction  Requirements Craft Construct, fire seeds, wall of fire, warp wood, creator must be caster level 12th; Skill Craft (carpentry) or Craft (sculptures) DC 15; Cost 60,000 gp

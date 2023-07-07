@@ -67,7 +67,6 @@ Environment: any (coastal)/water
 Temperature: temperate/warm
 Organization: solitary or band (2-5)
 Treasure: none
-Description: Giant snapping turtles typically grow to diameters of about 35 feet and weigh 20,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Giant snapping turtles typically grow to diameters of about 35 feet and weigh 20,000 pounds.

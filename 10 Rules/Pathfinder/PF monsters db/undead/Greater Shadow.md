@@ -67,7 +67,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Greater shadows are those undead shadows that have come to be particularly infused with negative energy, such as those that have spent vast lengths of time in areas of the Plane of Shadow awash in negative energy, or those that have drained the lives of thousands of victims. These undead monsters are often found with a small band of normal shadows, which typically treat a greater shadow as a leader to rally behind.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Greater shadows are those undead shadows that have come to be particularly infused with negative energy, such as those that have spent vast lengths of time in areas of the Plane of Shadow awash in negative energy, or those that have drained the lives of thousands of victims. These undead monsters are often found with a small band of normal shadows, which typically treat a greater shadow as a leader to rally behind.

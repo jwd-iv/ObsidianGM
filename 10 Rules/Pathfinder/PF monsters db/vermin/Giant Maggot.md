@@ -67,7 +67,6 @@ Environment: any
 Temperature: temperate/tropical
 Organization: solitary or swarm (2-12)
 Treasure: none
-Description: Voracious scavengers, giant maggots feed constantly, gorging themselves on the dead in preparation for their transformation into giant flies. Their pallid, corpulent bodies are the size of human children, and their rasping teeth are capable of eating even the bones of a corpse. Giant maggots have no legs, and move with a disturbing undulation as they crawl over their meals.  Giant maggots feed for 2 weeks (often moving from one corpse to another) before entering a pupal stage, after which they emerge as giant flies.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Voracious scavengers, giant maggots feed constantly, gorging themselves on the dead in preparation for their transformation into giant flies. Their pallid, corpulent bodies are the size of human children, and their rasping teeth are capable of eating even the bones of a corpse. Giant maggots have no legs, and move with a disturbing undulation as they crawl over their meals.  Giant maggots feed for 2 weeks (often moving from one corpse to another) before entering a pupal stage, after which they emerge as giant flies.

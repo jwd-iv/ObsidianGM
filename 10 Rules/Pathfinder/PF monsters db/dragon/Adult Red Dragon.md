@@ -88,7 +88,6 @@ Environment: mountains
 Temperature: warm
 Organization: solitary
 Treasure: triple
-Description: Few creatures are more cruel and fearsome than the mighty red dragon. King of the chromatics, this terrible beast brings ruin and death to the lands that fall under its shadow.
 Race: 
 Class: 
 MR: 
@@ -98,3 +97,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Few creatures are more cruel and fearsome than the mighty red dragon. King of the chromatics, this terrible beast brings ruin and death to the lands that fall under its shadow.

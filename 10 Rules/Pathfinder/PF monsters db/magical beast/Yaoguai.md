@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: A yaoguai is a monstrosity born of unnatural magic that combines several creatures into one body, creating a deformed, mismatched monster that slays and escapes its creator as soon as possible. No two yaoguai look the same, but most have similar abilities. Invariably, the torment of its genesis and the ongoing pain of its existence leave a yaoguai violently insane and prone to attacking at the slightest provocation.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A yaoguai is a monstrosity born of unnatural magic that combines several creatures into one body, creating a deformed, mismatched monster that slays and escapes its creator as soon as possible. No two yaoguai look the same, but most have similar abilities. Invariably, the torment of its genesis and the ongoing pain of its existence leave a yaoguai violently insane and prone to attacking at the slightest provocation.

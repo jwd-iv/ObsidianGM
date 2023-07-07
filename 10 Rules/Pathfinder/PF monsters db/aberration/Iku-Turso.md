@@ -72,7 +72,6 @@ Environment: underground/water
 Temperature: cold/temperate
 Organization: solitary, pair, or cell (3-8)
 Treasure: standard
-Description: Iku-tursos are hideous denizens of the deep sea. There, they venerate sinister gods of plague and contagion and torment victims plucked from ship and shore in special air-filled torture chambers. Disease is sacred to the iku-tursos, and those who suffer from sickness are considered blessed-an iku-turso often chooses to leave obviously diseased victims to their fates rather than attempt to capture them.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Iku-tursos are hideous denizens of the deep sea. There, they venerate sinister gods of plague and contagion and torment victims plucked from ship and shore in special air-filled torture chambers. Disease is sacred to the iku-tursos, and those who suffer from sickness are considered blessed-an iku-turso often chooses to leave obviously diseased victims to their fates rather than attempt to capture them.

@@ -74,7 +74,6 @@ Environment: forest/swamps
 Temperature: any
 Organization: solitary or group (2-8)
 Treasure: standard
-Description: Never have legend and misinformation met upon a more inauspicious brow than that of the lowly carbuncle. Even the creature's name summons ideas that range from the grandiose to the grotesque. Carbuncles appear to be little more than ungainly reptiles. What sets them apart, however, is their strange magical abilities and the fist-sized gemstone horn jutting from above their bulging eyes. Although tales differ regarding the type and value of the stone, many claim it is a ruby or garnet. In truth, however, a carbuncle's gem is merely a highly ref lective growth, not unlike a fingernail.  Carbuncles exhibit a peculiar attraction to magic-users, especially sorcerers with the fey bloodline and any who pack supplies of fresh fruit. Many enchanters laud the extraordinary mind-control powers of these intense creatures and extol the aid they can offer mages of their field-though others consider such tales something of an academic in-joke.  A neutral spellcaster with the Improved Familiar feat can gain a carbuncle as a familiar at 5th level.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Never have legend and misinformation met upon a more inauspicious brow than that of the lowly carbuncle. Even the creature's name summons ideas that range from the grandiose to the grotesque. Carbuncles appear to be little more than ungainly reptiles. What sets them apart, however, is their strange magical abilities and the fist-sized gemstone horn jutting from above their bulging eyes. Although tales differ regarding the type and value of the stone, many claim it is a ruby or garnet. In truth, however, a carbuncle's gem is merely a highly ref lective growth, not unlike a fingernail.  Carbuncles exhibit a peculiar attraction to magic-users, especially sorcerers with the fey bloodline and any who pack supplies of fresh fruit. Many enchanters laud the extraordinary mind-control powers of these intense creatures and extol the aid they can offer mages of their field-though others consider such tales something of an academic in-joke.  A neutral spellcaster with the Improved Familiar feat can gain a carbuncle as a familiar at 5th level.

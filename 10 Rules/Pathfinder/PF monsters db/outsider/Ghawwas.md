@@ -84,7 +84,6 @@ Environment: any (Abaddon)
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Full of poison and treachery, ghawwas foul the seas and seek to bring ruin to those who dwell there. Ghawwas resemble a mixture of hulking humanoid, prehistoric fish, and poisonous bottom-feeder. While most ghawwas live in salt water, they sometimes teleport to oases to defile them or suck them dry. Although they see all mortals as enemies, ghawwas bear a particular grudge against peaceable, water-breathing creatures such as merfolk and locathah.  All ghawwas find the tolling of bells insufferable, the sound filling them with rage and driving them to seek out the source and destroy either the bell or those ringing it.  The typical ghawwas stands 12 feet tall and weighs close to 1,200 pounds.
 Race: 
 Class: 
 MR: 
@@ -94,3 +93,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Full of poison and treachery, ghawwas foul the seas and seek to bring ruin to those who dwell there. Ghawwas resemble a mixture of hulking humanoid, prehistoric fish, and poisonous bottom-feeder. While most ghawwas live in salt water, they sometimes teleport to oases to defile them or suck them dry. Although they see all mortals as enemies, ghawwas bear a particular grudge against peaceable, water-breathing creatures such as merfolk and locathah.  All ghawwas find the tolling of bells insufferable, the sound filling them with rage and driving them to seek out the source and destroy either the bell or those ringing it.  The typical ghawwas stands 12 feet tall and weighs close to 1,200 pounds.

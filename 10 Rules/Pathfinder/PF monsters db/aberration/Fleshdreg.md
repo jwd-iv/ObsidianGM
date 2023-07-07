@@ -70,7 +70,6 @@ Environment: ruins
 Temperature: any
 Organization: solitary, pair, or batch (3-8)
 Treasure: none
-Description: Fleshdregs are misshapen lumps of tissue, appendages, and biting mouths. These incomplete sinspawn are practically immortal, require little food to sustain their unnatural physiology, and don't seem to mature past the point of creation. Fleshdregs follow true sinspawn around like pets or curious children. Sinspawn use these weaker creatures as slaves, troops, and hunting companions. Despite this treatment, fleshdregs still seek out the company of their larger, more advanced cousins. Fleshdregs vary in appearance from one another depending on factors such as the sins that powered their creation. Wrathful fleshdregs develop a more predatory form than lustful fleshdregs do, and slothful fleshdregs are little more than bloated piles of flesh atop stubby legs. Most fleshdregs stand between 3 and 4 feet tall, and weigh about 60 pounds. Greed fleshdregs are the tallest of their kind, and sloth fleshdregs the heaviest.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Fleshdregs are misshapen lumps of tissue, appendages, and biting mouths. These incomplete sinspawn are practically immortal, require little food to sustain their unnatural physiology, and don't seem to mature past the point of creation. Fleshdregs follow true sinspawn around like pets or curious children. Sinspawn use these weaker creatures as slaves, troops, and hunting companions. Despite this treatment, fleshdregs still seek out the company of their larger, more advanced cousins. Fleshdregs vary in appearance from one another depending on factors such as the sins that powered their creation. Wrathful fleshdregs develop a more predatory form than lustful fleshdregs do, and slothful fleshdregs are little more than bloated piles of flesh atop stubby legs. Most fleshdregs stand between 3 and 4 feet tall, and weigh about 60 pounds. Greed fleshdregs are the tallest of their kind, and sloth fleshdregs the heaviest.

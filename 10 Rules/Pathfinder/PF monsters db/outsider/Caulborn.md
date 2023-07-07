@@ -78,7 +78,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or colony (3-12)
 Treasure: double
-Description: Caulborn are a race of telepathic prophets and historians who subsist on the psychic energy of others. They wander the planes in search of new facts and concepts to add to the pulsating brain-sacks that serve as their collective memories. When a band of caulborn find a particularly interesting site, they settle down to dwell there for many years until they feel that they have learned all there is to know about the location.  A caulborn is literally a creature of the mind. Its body is self-sustaining, and it exists solely to record and catalogue new thoughts. While they are not evil, caulborn have little interest in alliances or friendship with other races.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Caulborn are a race of telepathic prophets and historians who subsist on the psychic energy of others. They wander the planes in search of new facts and concepts to add to the pulsating brain-sacks that serve as their collective memories. When a band of caulborn find a particularly interesting site, they settle down to dwell there for many years until they feel that they have learned all there is to know about the location.  A caulborn is literally a creature of the mind. Its body is self-sustaining, and it exists solely to record and catalogue new thoughts. While they are not evil, caulborn have little interest in alliances or friendship with other races.

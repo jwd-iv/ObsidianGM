@@ -67,7 +67,6 @@ Environment: river/swamp (coastal)
 Temperature: warm
 Organization: solitary, pair, or colony (3-6)
 Treasure: none
-Description: The immense sarcosuchus, or dire crocodile, is an enormous predator capable of catching and eating prey as large as the largest dinosaurs.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The immense sarcosuchus, or dire crocodile, is an enormous predator capable of catching and eating prey as large as the largest dinosaurs.

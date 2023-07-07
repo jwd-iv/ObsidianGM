@@ -68,7 +68,6 @@ Environment: desert/hills
 Temperature: warm
 Organization: solitary
 Treasure: standard
-Description: The mightiest of the common sphinxes, androsphinxes see themselves as all that is worthy and noble in the species and carry themselves as though the weight of the world rests upon their good example. They view criosphinxes with paternalistic condescension, hieracosphinxes with poorly veiled disgust, and gynosphinxes as the only other sphinxes worthy of their time.  Androsphinxes put on a gruff and cantankerous front to outsiders. They make no effort to hide annoyance when displeased. Androsphinxes tend to be territorial, though less so than other sphinxes. They almost invariably warn and bluster before attacking, and nearly always heed a call to parley. Androsphinxes barter information and conversation for safe passage, not treasure.  Androsphinxes are 12 feet tall and weigh 1,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The mightiest of the common sphinxes, androsphinxes see themselves as all that is worthy and noble in the species and carry themselves as though the weight of the world rests upon their good example. They view criosphinxes with paternalistic condescension, hieracosphinxes with poorly veiled disgust, and gynosphinxes as the only other sphinxes worthy of their time.  Androsphinxes put on a gruff and cantankerous front to outsiders. They make no effort to hide annoyance when displeased. Androsphinxes tend to be territorial, though less so than other sphinxes. They almost invariably warn and bluster before attacking, and nearly always heed a call to parley. Androsphinxes barter information and conversation for safe passage, not treasure.  Androsphinxes are 12 feet tall and weigh 1,000 pounds.

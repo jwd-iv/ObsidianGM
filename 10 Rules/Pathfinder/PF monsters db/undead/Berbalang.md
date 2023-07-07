@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pack (2-8)
 Treasure: standard
-Description: Berbalangs prefer to make their homes within a day's travel of humanoid settlements. These lairs are well hidden and sometimes protected by other undead creatures. Some berbalangs set themselves up as secluded shamans or wise old crones, using alter self to appear human. Ultimately cowardly, berbalangs rarely attack a settlement directly, preferring to pluck its meals from those who stray too far from civilization. A berbalang stands as tall as a human and rarely weighs more than 100 pounds.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Berbalangs prefer to make their homes within a day's travel of humanoid settlements. These lairs are well hidden and sometimes protected by other undead creatures. Some berbalangs set themselves up as secluded shamans or wise old crones, using alter self to appear human. Ultimately cowardly, berbalangs rarely attack a settlement directly, preferring to pluck its meals from those who stray too far from civilization. A berbalang stands as tall as a human and rarely weighs more than 100 pounds.

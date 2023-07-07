@@ -66,7 +66,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pair
 Treasure: none
-Description: Arising from the armored remains of towering humanoids, these suits are particularly fearsome, though slower than guardian phantom armors.   CREATING PHANTOM ARMORS Phantom armors are created using the spell create undead. Creating a phantom armor requires a corpse wearing a suit of heavy armor. The corpse is destroyed in the phantom armor's creation. A magic-user must be at least caster level 12th to create a guardian phantom armor and at least caster level 15th to create a giant phantom armor.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Arising from the armored remains of towering humanoids, these suits are particularly fearsome, though slower than guardian phantom armors.   CREATING PHANTOM ARMORS Phantom armors are created using the spell create undead. Creating a phantom armor requires a corpse wearing a suit of heavy armor. The corpse is destroyed in the phantom armor's creation. A magic-user must be at least caster level 12th to create a guardian phantom armor and at least caster level 15th to create a giant phantom armor.

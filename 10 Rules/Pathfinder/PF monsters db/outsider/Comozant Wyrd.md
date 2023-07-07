@@ -72,7 +72,6 @@ Environment: oceans (during storms)
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: A comozant wyrd appears to be 3 feet of buzzing, heatless blue or green plasma. Creatures near it find their hair standing on end and their bodies crawling with harmless but unnerving sparks. Those who have "conversed" with a comozant using illuminating flames say it uses pure emotion and image as concept and word-a mixture of knowledge and ignorance.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A comozant wyrd appears to be 3 feet of buzzing, heatless blue or green plasma. Creatures near it find their hair standing on end and their bodies crawling with harmless but unnerving sparks. Those who have "conversed" with a comozant using illuminating flames say it uses pure emotion and image as concept and word-a mixture of knowledge and ignorance.

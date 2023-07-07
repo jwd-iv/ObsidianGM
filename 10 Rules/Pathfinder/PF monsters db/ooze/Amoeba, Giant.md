@@ -65,7 +65,6 @@ Environment: land/underground
 Temperature: any
 Organization: solitary or colony (2-9)
 Treasure: none
-Description: A giant amoeba is a shapeless mass of living, liquid protoplasm. Though naturally translucent with darker interior spots, its surface is slightly sticky and tends to collect dirt and other debris from its environment; therefore, a moving giant amoeba looks like muddy water. A weaker cousin of creatures such as the gray ooze and black pudding, a giant amoeba is actually a mutated version of a harmless creature too small to be seen by the naked eye, grown dangerously large in size. Although happy to prey on creatures smaller than it, the giant amoeba's constant hunger often drives it to attack larger prey, such as humanoids.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A giant amoeba is a shapeless mass of living, liquid protoplasm. Though naturally translucent with darker interior spots, its surface is slightly sticky and tends to collect dirt and other debris from its environment; therefore, a moving giant amoeba looks like muddy water. A weaker cousin of creatures such as the gray ooze and black pudding, a giant amoeba is actually a mutated version of a harmless creature too small to be seen by the naked eye, grown dangerously large in size. Although happy to prey on creatures smaller than it, the giant amoeba's constant hunger often drives it to attack larger prey, such as humanoids.

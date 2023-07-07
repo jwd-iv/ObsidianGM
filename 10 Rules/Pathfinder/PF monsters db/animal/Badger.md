@@ -67,7 +67,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, or clan (3-6)
 Treasure: incidental
-Description: The squat, burrowing badger is plentiful in most temperate forests. Most species are carnivorous, though some eat a variety of meat, insects, and vegetables. The badger possesses a fierceness and natural tenacity, while its stubby legs and wide, seemingly portly stature belie the creature's actual strength and speed.  A typical badger has dark brownish-gray fur highlighted with white markings, such as bands or striped masks about the eyes.  These markings are distinct and vary by species. While generally friendly, if threatened or otherwise provoked, badgers can become fierce combatants.  Once engaged with an opponent, they typically fight until slain. In combat, they fight with their sharp, needle-like teeth and long, curved claws, which they otherwise use for digging.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The squat, burrowing badger is plentiful in most temperate forests. Most species are carnivorous, though some eat a variety of meat, insects, and vegetables. The badger possesses a fierceness and natural tenacity, while its stubby legs and wide, seemingly portly stature belie the creature's actual strength and speed.  A typical badger has dark brownish-gray fur highlighted with white markings, such as bands or striped masks about the eyes.  These markings are distinct and vary by species. While generally friendly, if threatened or otherwise provoked, badgers can become fierce combatants.  Once engaged with an opponent, they typically fight until slain. In combat, they fight with their sharp, needle-like teeth and long, curved claws, which they otherwise use for digging.

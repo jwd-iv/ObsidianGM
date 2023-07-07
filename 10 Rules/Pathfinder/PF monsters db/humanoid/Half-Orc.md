@@ -73,7 +73,16 @@ Organization: gang (2-4), squad (11-20 plus 2 3rd-level sergeants and 1 leader
   sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains), or
   tribe (1d4 bands plus 1 10th-12th level chieftain)
 Treasure: standard
-Description: As seen by civilized races, half-orcs are monstrosities, the result
+Race: Male half-orc
+Class: warrior 1
+MR:
+Copyright:
+  Content: d20pfsrd
+---
+```dataviewjs
+customJS.Statblock.printMonsterWiki(dv)
+```
+As seen by civilized races, half-orcs are monstrosities, the result
   of perversion and violence-whether or not this is actually true. Half-orcs are
   rarely the result of loving unions, and as such are usually forced to grow up
   hard and fast, constantly fighting for protection or to make names for
@@ -87,12 +96,3 @@ Description: As seen by civilized races, half-orcs are monstrosities, the result
   demonstrating that they aren't monsters. Their need to always prove themselves
   worthy encourages half-orcs to strive for power and greatness within the
   society around them.
-Race: Male half-orc
-Class: warrior 1
-MR:
-Copyright:
-  Content: d20pfsrd
----
-```dataviewjs
-customJS.Statblock.printMonsterWiki(dv)
-```

@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, band (3-9), or enclave (10-100)
 Treasure: standard
-Description: Untold eons ago, the yithians inhabited a dying world. To escape their doomed planet, they cast their minds through time and space, eventually coming to rest in the strange, alien bodies they possess today. While these strange beings now reside in a distant galaxy, the yithians make use of their ability to astrally project to explore other planets, eager to find new worlds to explore.  When a yithian arrives upon a new world, it often swaps minds with the creatures it encounters there so as to experience that world as if it were a native. Those who spend time in a yithian's body rarely tell of the strange times they have experienced, for yithians guard themselves well, and leave those they use in this manner amnesiacs who remember the truth only as fragmentary nightmares.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Untold eons ago, the yithians inhabited a dying world. To escape their doomed planet, they cast their minds through time and space, eventually coming to rest in the strange, alien bodies they possess today. While these strange beings now reside in a distant galaxy, the yithians make use of their ability to astrally project to explore other planets, eager to find new worlds to explore.  When a yithian arrives upon a new world, it often swaps minds with the creatures it encounters there so as to experience that world as if it were a native. Those who spend time in a yithian's body rarely tell of the strange times they have experienced, for yithians guard themselves well, and leave those they use in this manner amnesiacs who remember the truth only as fragmentary nightmares.

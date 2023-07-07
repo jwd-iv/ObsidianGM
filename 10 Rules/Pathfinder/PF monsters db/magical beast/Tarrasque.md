@@ -83,7 +83,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: The legendary tarrasque is among the world's most destructive monsters. Thankfully, it spends most of its time in a deep torpor in an unknown cavern in a remote corner of the world-yet when it wakens, kingdoms die.  Although far from intelligent, the tarrasque is smart enough to understand a few words in Aklo (though it cannot speak). Likewise, it isn't mindless in its rampages, but instead focuses on targets that threaten it, and is difficult to distract with trickery.
 Race: 
 Class: 
 MR: 
@@ -93,3 +92,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The legendary tarrasque is among the world's most destructive monsters. Thankfully, it spends most of its time in a deep torpor in an unknown cavern in a remote corner of the world-yet when it wakens, kingdoms die.  Although far from intelligent, the tarrasque is smart enough to understand a few words in Aklo (though it cannot speak). Likewise, it isn't mindless in its rampages, but instead focuses on targets that threaten it, and is difficult to distract with trickery.

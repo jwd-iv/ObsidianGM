@@ -73,7 +73,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, pair, team (3-5), or squad (6-11)
 Treasure: standard
-Description: Sentinels of the vaults of Hell, jailers of the darkest souls, and living weapons of the infernal forges, barbed devils-known as hamatulas to diabolists-enforce the strictures of the damned and safeguard the nefarious works of greater devils. A hamatula enjoys the feel of warm blood on its spines, and prefers to leap into melee when presented with an opportunity for battle. Hamatulas are collectors and organizers, and are favorite allies of greedy summoners as they often bring with them tempting treasures from Hell's vaults or know the paths to deadly riches. Left to their own devices, the lairs of these devils often bear the pierced trophies of their past victims, hung like perverse bug collections on bloodied walls. Most barbed devils stand upward of 7 feet tall and weigh 300 pounds, though their leanly muscled bodies appear much larger due to the constantly growing and adjusting spines that protrude from their razor-sharp bodies.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Sentinels of the vaults of Hell, jailers of the darkest souls, and living weapons of the infernal forges, barbed devils-known as hamatulas to diabolists-enforce the strictures of the damned and safeguard the nefarious works of greater devils. A hamatula enjoys the feel of warm blood on its spines, and prefers to leap into melee when presented with an opportunity for battle. Hamatulas are collectors and organizers, and are favorite allies of greedy summoners as they often bring with them tempting treasures from Hell's vaults or know the paths to deadly riches. Left to their own devices, the lairs of these devils often bear the pierced trophies of their past victims, hung like perverse bug collections on bloodied walls. Most barbed devils stand upward of 7 feet tall and weigh 300 pounds, though their leanly muscled bodies appear much larger due to the constantly growing and adjusting spines that protrude from their razor-sharp bodies.

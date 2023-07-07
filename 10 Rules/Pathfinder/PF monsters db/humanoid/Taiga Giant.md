@@ -73,7 +73,6 @@ Environment: mountains/forest
 Temperature: cold
 Organization: solitary, warband (2-7), or tribe (20-50 plus 30% noncombatants, 1 druid or oracle of 3rd-5th level, 2-4 barbarian or ranger hunters of 3rd-5th level, 1 chieftain barbarian or fighter of 4th-7th level, 2-6 dire bears, 2-6 dire tigers, and 8-12 stone giants)
 Treasure: standard (hide armor, spear, other treasure)
-Description: Taiga giants wander endlessly to keep from depleting the food supply of any one area. Aurochs and mammoths are their preferred inland prey, while whales, seals, and walruses provide food in coastal regions. These animals form the cornerstone of tribal survival, not just for the food they provide but because nearly all of a tribe's possessions, from their portable shelters to their weapons, are crafted from the bone, hides, and sinews of felled beasts. Little is wasted.  Taiga giants are also deeply spiritual, worshiping their ancestors. Every tribe member learns to call forth ancestor spirits at a young age. Taiga giants are ashamed of being the ancestors of rune giants as, like most giants, they both hate and fear rune giants as slavers and monsters.  A typical taiga giant stands 20 feet in height and weighs 10,000 pounds. Skin tones vary from dark to pale gray, with hair color ranging from dark brown to red.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Taiga giants wander endlessly to keep from depleting the food supply of any one area. Aurochs and mammoths are their preferred inland prey, while whales, seals, and walruses provide food in coastal regions. These animals form the cornerstone of tribal survival, not just for the food they provide but because nearly all of a tribe's possessions, from their portable shelters to their weapons, are crafted from the bone, hides, and sinews of felled beasts. Little is wasted.  Taiga giants are also deeply spiritual, worshiping their ancestors. Every tribe member learns to call forth ancestor spirits at a young age. Taiga giants are ashamed of being the ancestors of rune giants as, like most giants, they both hate and fear rune giants as slavers and monsters.  A typical taiga giant stands 20 feet in height and weighs 10,000 pounds. Skin tones vary from dark to pale gray, with hair color ranging from dark brown to red.

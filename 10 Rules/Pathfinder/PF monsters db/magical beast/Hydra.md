@@ -71,8 +71,6 @@ Environment: swamp (coastal)
 Temperature: temperate
 Organization: solitary
 Treasure: standard
-Description: >
-  You can make more powerful hydras by increasing their Hit Dice-each added HD increases the hydra's statistics as appropriate, but also gives it one additional head and a +1 increase to its natural armor. A hydra's CR increases by +1 for each Hit Die it gains. Cryohydra/Pyrohydra (+2 CR): Variants of the standard hydra, the cryohydra lives in cold marshes or on glaciers, while the pyrohydra prefers deserts or volcanic mountains. A cryohydra gains the Cold subtype, while a pyrohydra gains the Fire subtype. Each of its heads has a breath weapon (15- ft. cone, 3d6 cold damage [cryohydra] or 3d6 fire damage [pyrohydra], Ref lex half ) useable every 1d4 rounds. The save DC is 10 + 1/2 the hydra's HD + the hydra's Con modifier. Although fire attacks cannot prevent a pyrohydra's neck stump from growing new heads (since it is immune to fire), 5 points of cold damage does. Acid works normally on both hydra variants.
 Race: 
 Class: 
 MR: 
@@ -82,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+You can make more powerful hydras by increasing their Hit Dice-each added HD increases the hydra's statistics as appropriate, but also gives it one additional head and a +1 increase to its natural armor. A hydra's CR increases by +1 for each Hit Die it gains. Cryohydra/Pyrohydra (+2 CR): Variants of the standard hydra, the cryohydra lives in cold marshes or on glaciers, while the pyrohydra prefers deserts or volcanic mountains. A cryohydra gains the Cold subtype, while a pyrohydra gains the Fire subtype. Each of its heads has a breath weapon (15- ft. cone, 3d6 cold damage [cryohydra] or 3d6 fire damage [pyrohydra], Ref lex half ) useable every 1d4 rounds. The save DC is 10 + 1/2 the hydra's HD + the hydra's Con modifier. Although fire attacks cannot prevent a pyrohydra's neck stump from growing new heads (since it is immune to fire), 5 points of cold damage does. Acid works normally on both hydra variants.

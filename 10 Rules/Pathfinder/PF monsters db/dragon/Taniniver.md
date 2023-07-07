@@ -74,7 +74,6 @@ Environment: land/underground
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Taninivers are a degenerate race of diseased dragons. A taniniver's body is alive but constantly rotting. Wracked by never-ending pain, with the stench of its own decaying flesh so strong it nearly overwhelms the vile creature's enhanced senses, the foul taniniver spends most of its time in magical research to reverse the progression of its diseases or, failing that, to stave off further deterioration. Taninivers often ally with cults of undeath or dragonkind.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Taninivers are a degenerate race of diseased dragons. A taniniver's body is alive but constantly rotting. Wracked by never-ending pain, with the stench of its own decaying flesh so strong it nearly overwhelms the vile creature's enhanced senses, the foul taniniver spends most of its time in magical research to reverse the progression of its diseases or, failing that, to stave off further deterioration. Taninivers often ally with cults of undeath or dragonkind.

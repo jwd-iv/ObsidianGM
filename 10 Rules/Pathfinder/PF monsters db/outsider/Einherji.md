@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary, squad (3-6), or warband (7-16)
 Treasure: triple (+2 scale mail, +2 heavy wooden shield, +2 battleaxe, masterwork throwing axe)
-Description: Some warriors who die glorious deaths in battle find that there is a call for their skill and prowess even after death. Chosen by valkyries (Pathfinder RPG Bestiary 3 277) from among the slain on the battlefield, they become einherjar, outsiders who fight for the gods and other powerful extraplanar beings in battles across the multiverse. Like valkyries, einherjar can serve a variety of deities, not just gods of war, conflict, and valor, but also those of love, beauty, life, and others not thought of as combative. Einherjar pride themselves on prowess in battle, and forever seek to prove themselves by challenging worthy foes. Einherjar can be either male or female, and normally appear as muscled, battle-hardened humans, dwarves, or elves. A typical einherji stands 7 feet tall and weighs around 300 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Some warriors who die glorious deaths in battle find that there is a call for their skill and prowess even after death. Chosen by valkyries (Pathfinder RPG Bestiary 3 277) from among the slain on the battlefield, they become einherjar, outsiders who fight for the gods and other powerful extraplanar beings in battles across the multiverse. Like valkyries, einherjar can serve a variety of deities, not just gods of war, conflict, and valor, but also those of love, beauty, life, and others not thought of as combative. Einherjar pride themselves on prowess in battle, and forever seek to prove themselves by challenging worthy foes. Einherjar can be either male or female, and normally appear as muscled, battle-hardened humans, dwarves, or elves. A typical einherji stands 7 feet tall and weighs around 300 pounds.

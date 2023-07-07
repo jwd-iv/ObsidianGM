@@ -66,7 +66,6 @@ Environment: water
 Temperature: any
 Organization: solitary or family (2-16)
 Treasure: none
-Description: Otters are curious and playful, and enjoy investigating new objects, sliding down wet rocks, and other simple games.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Otters are curious and playful, and enjoy investigating new objects, sliding down wet rocks, and other simple games.

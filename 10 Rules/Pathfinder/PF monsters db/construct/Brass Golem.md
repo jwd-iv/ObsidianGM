@@ -76,7 +76,6 @@ Environment: any
 Temperature: any
 Organization: solitary or watch (2-4)
 Treasure: none
-Description: Implacable automatons of elemental fire and extraplanar brass, brass golems stand sentinel over the palaces, treasuries, and harems of their creators. Brass golems are 24 feet tall and weigh 18,000 pounds.  Construction  Crafting a brass golem requires 18,000 pounds of brass, cast with several rare mineral solutions and ore compounds that cost at least 20,000 gp.  BRASS GOLEM  CL 17th; Price 180,000 gp  Construction  Requirements Craft Construct, geas/quest, incendiary cloud, limited wish, see invisibility, creator must be caster level 17th; Skill Craft (armor) or Craft (blacksmithing) DC 22; Cost 100,000 gp
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Implacable automatons of elemental fire and extraplanar brass, brass golems stand sentinel over the palaces, treasuries, and harems of their creators. Brass golems are 24 feet tall and weigh 18,000 pounds.  Construction  Crafting a brass golem requires 18,000 pounds of brass, cast with several rare mineral solutions and ore compounds that cost at least 20,000 gp.  BRASS GOLEM  CL 17th; Price 180,000 gp  Construction  Requirements Craft Construct, geas/quest, incendiary cloud, limited wish, see invisibility, creator must be caster level 17th; Skill Craft (armor) or Craft (blacksmithing) DC 22; Cost 100,000 gp

@@ -68,7 +68,6 @@ Environment: forest
 Temperature: temperate/warm
 Organization: single, pair, or nest (4-10)
 Treasure: none
-Description: Archaeopteryxes are primitive birds. Instead of beaks, they have lizardlike heads with serrated teeth.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Archaeopteryxes are primitive birds. Instead of beaks, they have lizardlike heads with serrated teeth.

@@ -71,7 +71,6 @@ Environment: swamp (coastal)
 Temperature: temperate/warm
 Organization: cluster, pair, or brood (3-6)
 Treasure: none
-Description: These invertebrate parasitic relatives of the worm lurk in stagnant or slow-moving water, waiting for a suitable host.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These invertebrate parasitic relatives of the worm lurk in stagnant or slow-moving water, waiting for a suitable host.

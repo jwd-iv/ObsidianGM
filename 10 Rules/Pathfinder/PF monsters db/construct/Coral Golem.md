@@ -70,7 +70,6 @@ Environment: land (coastal)/ocean
 Temperature: warm
 Organization: solitary or gang (2-5)
 Treasure: none
-Description: Coral golems are constructs made entirely of colonies of living coral drawn from the ocean. While their sharpened appendages are capable of performing tasks that require meticulous precision, they are equally useful in martial combat. Wizards and sorcerers employ coral golems to collect delicate specimens of plant life from local beaches, spear and retrieve fish from the ocean for meals, and protect valuable locations such as their masters' homes or veins of minerals and other potent resources. A coral golem is 9 feet tall and weighs 1,000 pounds.  Construction  A coral golem's body is made of a healthy colony of living coral weighing at least 1,000 pounds, infused with rare organic substances and minerals worth 3,500 gp.  CORAL GOLEM  CL 11th; Price 57,500 gp  Construction  Requirements Craft Construct, animate object, geas/quest, keen edge, limited wish, water breathing, creator must be caster level 11th; Skill Craft (sculpture) DC 15; Cost 30,500 gp
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Coral golems are constructs made entirely of colonies of living coral drawn from the ocean. While their sharpened appendages are capable of performing tasks that require meticulous precision, they are equally useful in martial combat. Wizards and sorcerers employ coral golems to collect delicate specimens of plant life from local beaches, spear and retrieve fish from the ocean for meals, and protect valuable locations such as their masters' homes or veins of minerals and other potent resources. A coral golem is 9 feet tall and weighs 1,000 pounds.  Construction  A coral golem's body is made of a healthy colony of living coral weighing at least 1,000 pounds, infused with rare organic substances and minerals worth 3,500 gp.  CORAL GOLEM  CL 11th; Price 57,500 gp  Construction  Requirements Craft Construct, animate object, geas/quest, keen edge, limited wish, water breathing, creator must be caster level 11th; Skill Craft (sculpture) DC 15; Cost 30,500 gp

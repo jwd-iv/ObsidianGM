@@ -74,7 +74,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, pair, or guard (3-10)
 Treasure: standard
-Description: Called sarglagons in their Infernal tongue, drowning devils take great pride in being the best-adapted guardians of Hell's waterways, and are among the few fiends who travel the seas and rivers of the multiverse as part of larger infernal plots. Even in the air or on the ground, a drowning devil moves with a haunting litheness as though it were swimming. A typical drowning devil weighs 600 pounds, and can exceed 15 feet from head to tail.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Called sarglagons in their Infernal tongue, drowning devils take great pride in being the best-adapted guardians of Hell's waterways, and are among the few fiends who travel the seas and rivers of the multiverse as part of larger infernal plots. Even in the air or on the ground, a drowning devil moves with a haunting litheness as though it were swimming. A typical drowning devil weighs 600 pounds, and can exceed 15 feet from head to tail.

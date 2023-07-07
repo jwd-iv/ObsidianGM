@@ -68,8 +68,6 @@ Environment: plains
 Temperature: cold/temperate
 Organization: solitary, pair, or herd (3-50)
 Treasure: none
-Description: >
-  Elk range in great herds throughout the plains, hills, and forests of many wilderness areas. Their size, strength, and antlers allow them to contend with most of their environment's dangers, though herds generally favor flight to combat. Elk also prove exceptionally adaptable survivors, capable of living through severe weather changes without concern. Most breeds of elk stand between 3 and 5 feet tall and weigh between 350 and 550 pounds, with females far slighter than the males.  Numerous species of elk exist. Some larger species can stand up to 6 feet tall at the shoulder and can be used as mounts by Medium humanoids; these elk have 3 Hit Dice and are Large. One particularly unusual species of elk, the river elk, is an excellent swimmer-these elk gain a swim speed of 30 feet. All elk of this size are CR 2 creatures.  Elk Companions  Starting Statistics: Size Medium; Speed 50 ft.; AC +1 natural armor; Attack gore (1d6) or 2 hooves (1d3); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 15, Cha 5; Special Qualities low-light vision.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack gore (1d8) or 2 hooves (1d4); Ability Scores Str +8, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Elk range in great herds throughout the plains, hills, and forests of many wilderness areas. Their size, strength, and antlers allow them to contend with most of their environment's dangers, though herds generally favor flight to combat. Elk also prove exceptionally adaptable survivors, capable of living through severe weather changes without concern. Most breeds of elk stand between 3 and 5 feet tall and weigh between 350 and 550 pounds, with females far slighter than the males.  Numerous species of elk exist. Some larger species can stand up to 6 feet tall at the shoulder and can be used as mounts by Medium humanoids; these elk have 3 Hit Dice and are Large. One particularly unusual species of elk, the river elk, is an excellent swimmer-these elk gain a swim speed of 30 feet. All elk of this size are CR 2 creatures.  Elk Companions  Starting Statistics: Size Medium; Speed 50 ft.; AC +1 natural armor; Attack gore (1d6) or 2 hooves (1d3); Ability Scores Str 12, Dex 17, Con 14, Int 2, Wis 15, Cha 5; Special Qualities low-light vision.  7th-Level Advancement: Size Large; AC +2 natural armor; Attack gore (1d8) or 2 hooves (1d4); Ability Scores Str +8, Dex -2, Con +4.

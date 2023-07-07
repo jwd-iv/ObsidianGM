@@ -68,7 +68,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: These constructs are the pinnacle of clockwork inventions. An ingenious combination of mechanical devices and magical conduits allows a clockwork mage to channel the power of a wand into a variety of arcane powers. They often serve powerful arcane spellcasters, or as unf linching and unquestioning casters to those who wants the benefit of spells without ego or free thought. A humanoid figure of mithral and steel, a clockwork mage has large crystal ball filled with shifting vapors for a head. It stands 7 feet tall.  Construction  The creator of a clockwork mage must start with crafted clockwork pieces worth 2,000 gp.  CLOCKWORK MAGE  CL 12th; Price 84,000 gp  Construction  Requirements Craft Construct, geas/quest, and mnemonic enhancer, creator must be at least caster level 12th; Skill Craft (clockwork) DC 20; Cost 43,000 gp
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These constructs are the pinnacle of clockwork inventions. An ingenious combination of mechanical devices and magical conduits allows a clockwork mage to channel the power of a wand into a variety of arcane powers. They often serve powerful arcane spellcasters, or as unf linching and unquestioning casters to those who wants the benefit of spells without ego or free thought. A humanoid figure of mithral and steel, a clockwork mage has large crystal ball filled with shifting vapors for a head. It stands 7 feet tall.  Construction  The creator of a clockwork mage must start with crafted clockwork pieces worth 2,000 gp.  CLOCKWORK MAGE  CL 12th; Price 84,000 gp  Construction  Requirements Craft Construct, geas/quest, and mnemonic enhancer, creator must be at least caster level 12th; Skill Craft (clockwork) DC 20; Cost 43,000 gp

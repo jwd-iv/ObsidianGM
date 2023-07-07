@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: double
-Description: Many believe that the most cruel and mischievous fey become bogeymen as a punishment or a reward for their actions. Others see bogeymen as supernatural manifestations of society's willingness to do itself harm.  Bogeymen use their powers to haunt houses or secluded natural places where they can hunt prey unobserved. They relish using their ghost sound ability to hint at their presence long before they fully reveal themselves. It is not uncommon for a bogeyman to hide under a bed, or in a closet left slightly ajar, for days or even weeks, all the while feeding on its victims' growing realization that they are not alone.  The most evil bogeymen are those who abandon the tactic of feeding on one person's fears at a time and take up roles of mass murderers or serial killers, or other pursuits designed to drive fear into the hearts of an entire city of victims. True to their name, all bogeymen are male. Sometimes, children whom they steal away to secret lairs emerge years later, transformed into new bogeymen, and return home to continue their supernatural father's work.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Many believe that the most cruel and mischievous fey become bogeymen as a punishment or a reward for their actions. Others see bogeymen as supernatural manifestations of society's willingness to do itself harm.  Bogeymen use their powers to haunt houses or secluded natural places where they can hunt prey unobserved. They relish using their ghost sound ability to hint at their presence long before they fully reveal themselves. It is not uncommon for a bogeyman to hide under a bed, or in a closet left slightly ajar, for days or even weeks, all the while feeding on its victims' growing realization that they are not alone.  The most evil bogeymen are those who abandon the tactic of feeding on one person's fears at a time and take up roles of mass murderers or serial killers, or other pursuits designed to drive fear into the hearts of an entire city of victims. True to their name, all bogeymen are male. Sometimes, children whom they steal away to secret lairs emerge years later, transformed into new bogeymen, and return home to continue their supernatural father's work.

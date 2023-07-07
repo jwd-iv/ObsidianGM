@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary, gang (2-5), or flight (6-12)
 Treasure: standard (+1 composite longbow [+3 Str], other treasure)
-Description: When hunters become utterly obsessed with the chase and indulge excessively in the savagery of the kill, their souls become progressively tainted. When such remorseless hunters perish before they can capture and kill their quarry, they sometimes rise from death as baykoks- flying undead horrors that kill purely for the ecstasy that only murder can bring them.  Unlike many undead who feed on and hate all living things, a baykok seeks always to prove its mastery of the hunt. Though thoroughly wicked, baykoks often ignore all but the most powerful-looking foe in a group, only picking off lesser creatures if they dare to get between the baykok and its true prey. When it finally lays low its quarry, the baykok swoops down on the victim to devour the creature's soul in an attempt to make sure the creature never returns to seek revenge.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+When hunters become utterly obsessed with the chase and indulge excessively in the savagery of the kill, their souls become progressively tainted. When such remorseless hunters perish before they can capture and kill their quarry, they sometimes rise from death as baykoks- flying undead horrors that kill purely for the ecstasy that only murder can bring them.  Unlike many undead who feed on and hate all living things, a baykok seeks always to prove its mastery of the hunt. Though thoroughly wicked, baykoks often ignore all but the most powerful-looking foe in a group, only picking off lesser creatures if they dare to get between the baykok and its true prey. When it finally lays low its quarry, the baykok swoops down on the victim to devour the creature's soul in an attempt to make sure the creature never returns to seek revenge.

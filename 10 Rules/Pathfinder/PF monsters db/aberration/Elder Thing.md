@@ -70,7 +70,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, pod (3-8), or expedition (9-16)
 Treasure: standard
-Description: Known by various names on various worlds, but most often as "elder things" or "old ones," these alien creatures are interested in creating lasting works of art, architecture, and even life (such as the dreaded shoggoths). They possess a boundless capacity for war and egotism. A typical elder thing is 6 feet tall from head to foot, with a 7-foot wingspan. Surprisingly heavy for its size, an elder thing generally weighs about 450 pounds.
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Known by various names on various worlds, but most often as "elder things" or "old ones," these alien creatures are interested in creating lasting works of art, architecture, and even life (such as the dreaded shoggoths). They possess a boundless capacity for war and egotism. A typical elder thing is 6 feet tall from head to foot, with a 7-foot wingspan. Surprisingly heavy for its size, an elder thing generally weighs about 450 pounds.

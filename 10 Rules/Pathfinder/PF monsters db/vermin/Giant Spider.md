@@ -69,7 +69,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or colony (3-8)
 Treasure: incidental
-Description: The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on Acrobatics checks. All giant spiders have a +2 racial bonus on poison save DCs. Other species of giant spiders exist, as detailed below. Species CR Size HD Scarlet spider 1/4 Tiny 1d8 Giant crab spider 1/2 Small 2d8 Giant black widow 3 Large 5d8 Ogre spider 5 Huge 7d8 Giant tarantula 8 Gargantuan 10d8 Goliath spider 11 Colossal 14d8
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on Acrobatics checks. All giant spiders have a +2 racial bonus on poison save DCs. Other species of giant spiders exist, as detailed below. Species CR Size HD Scarlet spider 1/4 Tiny 1d8 Giant crab spider 1/2 Small 2d8 Giant black widow 3 Large 5d8 Ogre spider 5 Huge 7d8 Giant tarantula 8 Gargantuan 10d8 Goliath spider 11 Colossal 14d8

@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Gashadokuros are enormous skeletons that come into being as a result of mass starvation. The victims of such a tragedy fuse together into an undead colossus that continues to hunger even in death. A gashadokuro uses its feral instincts to hunt living creatures, forever seeking to sate its ineradicable, collective memory of starvation. A typical gashadokuro is 30 feet tall and weighs up to 5,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Gashadokuros are enormous skeletons that come into being as a result of mass starvation. The victims of such a tragedy fuse together into an undead colossus that continues to hunger even in death. A gashadokuro uses its feral instincts to hunt living creatures, forever seeking to sate its ineradicable, collective memory of starvation. A typical gashadokuro is 30 feet tall and weighs up to 5,000 pounds.

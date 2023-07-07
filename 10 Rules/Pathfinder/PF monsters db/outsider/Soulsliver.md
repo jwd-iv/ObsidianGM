@@ -72,7 +72,6 @@ Environment: land (extraplanar)
 Temperature: any
 Organization: solitary or gang (2-5)
 Treasure: incidental
-Description: A soulsliver is an extradimensional shapechanger that lurks in the half-dimensions behind mirrors. It watches creatures on the Material Plane through ref lective surfaces, assumes their likeness, then crawls through the mirror to kill and feast upon its prey. Whether they are bizarre offshoots of the doppelganger race or originate from some aberrant magic used to create a demiplane, soulslivers are responsible for many unsolved murders, and their mirror travel makes them hard to catch. A soulsliver causes trouble for a short while in its assumed form, then retreats through the mirror to its home plane. Its native plane is an aspect of the Plane of Shadow, with reversed and grossly distorted creatures and scenery from the Material Plane.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A soulsliver is an extradimensional shapechanger that lurks in the half-dimensions behind mirrors. It watches creatures on the Material Plane through ref lective surfaces, assumes their likeness, then crawls through the mirror to kill and feast upon its prey. Whether they are bizarre offshoots of the doppelganger race or originate from some aberrant magic used to create a demiplane, soulslivers are responsible for many unsolved murders, and their mirror travel makes them hard to catch. A soulsliver causes trouble for a short while in its assumed form, then retreats through the mirror to its home plane. Its native plane is an aspect of the Plane of Shadow, with reversed and grossly distorted creatures and scenery from the Material Plane.

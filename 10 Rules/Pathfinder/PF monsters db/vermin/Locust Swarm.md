@@ -68,7 +68,6 @@ Environment: desert/plains
 Temperature: temperate/warm
 Organization: solitary, pair, cloud (3-20), or plague (21-100 or more)
 Treasure: none
-Description: Under crowded conditions, these normally inoffensive relatives of the grasshopper change color, breed uncontrollably, ravenously consume any available vegetation, and wreak vast destruction to farms and settlements. The largest swarms, known as plagues, can include billions of locusts and cover hundreds of square miles. Locusts in these swarms are larger and more aggressive than common ones, making the swarm a true danger to everything edible in their path and even to inedible objects as well.
 Race: 
 Class: 
 MR: 
@@ -78,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Under crowded conditions, these normally inoffensive relatives of the grasshopper change color, breed uncontrollably, ravenously consume any available vegetation, and wreak vast destruction to farms and settlements. The largest swarms, known as plagues, can include billions of locusts and cover hundreds of square miles. Locusts in these swarms are larger and more aggressive than common ones, making the swarm a true danger to everything edible in their path and even to inedible objects as well.

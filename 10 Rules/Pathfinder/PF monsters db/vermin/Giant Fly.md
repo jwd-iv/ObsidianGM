@@ -67,7 +67,6 @@ Environment: any
 Temperature: temperate/tropical
 Organization: solitary, pair, or swarm (3-12)
 Treasure: none
-Description: Much like their tiny cousins, giant flies feed upon carrion.  Wholly monstrous, these disgusting creatures have been known to sometimes attack still-living foes, particularly when they are hungry or living creatures disturb their meals. Some species of giant fly bear their larva live, ejecting piles of undulating giant maggots from their engorged abdomens rather than laying eggs in decaying corpses.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Much like their tiny cousins, giant flies feed upon carrion.  Wholly monstrous, these disgusting creatures have been known to sometimes attack still-living foes, particularly when they are hungry or living creatures disturb their meals. Some species of giant fly bear their larva live, ejecting piles of undulating giant maggots from their engorged abdomens rather than laying eggs in decaying corpses.

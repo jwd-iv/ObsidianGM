@@ -73,7 +73,6 @@ Environment: any
 Temperature: any
 Organization: solitary or pack (2-12)
 Treasure: none
-Description: Hounds of Tindalos are otherworldly predators from beyond the bounds of known reality, usually appearing only when summoned by reckless spellcasters. Little is known about their nature outside of blood-spattered notes and deranged writings of the nearly insane survivors of their attacks. Although possessed of great cunning and cruel intellect, the hounds show no evidence of understanding or communicating with mortals. They enter the physical world on their own in pursuit of those who have trodden too much the netherways beyond time and reality-time travelers (be it physical travel or simply divinatory glimpses forward or backward in time) and creatures that teleport without regard to how this movement impacts subtle magical currents in the multiverse particularly draw their interest.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Hounds of Tindalos are otherworldly predators from beyond the bounds of known reality, usually appearing only when summoned by reckless spellcasters. Little is known about their nature outside of blood-spattered notes and deranged writings of the nearly insane survivors of their attacks. Although possessed of great cunning and cruel intellect, the hounds show no evidence of understanding or communicating with mortals. They enter the physical world on their own in pursuit of those who have trodden too much the netherways beyond time and reality-time travelers (be it physical travel or simply divinatory glimpses forward or backward in time) and creatures that teleport without regard to how this movement impacts subtle magical currents in the multiverse particularly draw their interest.

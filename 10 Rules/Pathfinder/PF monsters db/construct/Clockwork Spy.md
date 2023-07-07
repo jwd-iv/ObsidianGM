@@ -70,7 +70,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: incidental (gemstone worth 50 gp)
-Description: These spindly and discreet mechanical arachnids are ideal for surveillance and reconnaissance missions, and can be vital tools in political intrigues or illicit consortium tactics. Their retractable, insectile wings make the swift creatures even craftier foes than most would anticipate. As they are less combat-oriented than many other clockworks, if a clockwork spy is caught in the act of recording its target, escape is usually the most practical course of action for it.  Clockwork spies are about 2 feet wide from leg to leg, and weigh less than 40 pounds.  Construction  These delicate constructs are full of small parts and difficult to construct. The creator must start with crafted clockwork pieces worth 250 gp.  CLOCKWORK SPY  CL 12th; Price 1,250 gp  Construction  Requirements Craft Construct, geas/quest and ghost sound, creator must be at least caster level 12th; Skill Craft (clockwork) DC 20; Cost 750 gp
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These spindly and discreet mechanical arachnids are ideal for surveillance and reconnaissance missions, and can be vital tools in political intrigues or illicit consortium tactics. Their retractable, insectile wings make the swift creatures even craftier foes than most would anticipate. As they are less combat-oriented than many other clockworks, if a clockwork spy is caught in the act of recording its target, escape is usually the most practical course of action for it.  Clockwork spies are about 2 feet wide from leg to leg, and weigh less than 40 pounds.  Construction  These delicate constructs are full of small parts and difficult to construct. The creator must start with crafted clockwork pieces worth 250 gp.  CLOCKWORK SPY  CL 12th; Price 1,250 gp  Construction  Requirements Craft Construct, geas/quest and ghost sound, creator must be at least caster level 12th; Skill Craft (clockwork) DC 20; Cost 750 gp

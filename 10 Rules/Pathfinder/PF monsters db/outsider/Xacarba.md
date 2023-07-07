@@ -71,7 +71,6 @@ Environment: land (Abyss)
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: Fiends hailing from the darkest reaches of the Abyss, xacarbas are manipulation and destruction intertwined. With their infamous ability to redirect spells, these serpentine goliaths wreak havoc on the mind as well as the body, turning allies against one another and reveling in the destruction doing so produces.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Fiends hailing from the darkest reaches of the Abyss, xacarbas are manipulation and destruction intertwined. With their infamous ability to redirect spells, these serpentine goliaths wreak havoc on the mind as well as the body, turning allies against one another and reveling in the destruction doing so produces.

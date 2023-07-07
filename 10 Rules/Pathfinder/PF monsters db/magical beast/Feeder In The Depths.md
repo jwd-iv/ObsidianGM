@@ -74,7 +74,6 @@ Environment: ocean
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Feeders in the depths closely resemble ordinary sharks, but they are faster, stronger, and far more intelligent and malevolent. Feeders in the depths begin life as ordinary sharks, raised under the care of sahuagin priestesses. A would-be feeder feasts on the flesh of merfolk, sea elves, and other aquatic humanoids. As it dines on these sacrifices, the priestess chants blasphemous rituals, infusing the shark with malign power and the stolen intelligence of its victims. Over the course of 13 feedings over 13 midwinters, a new feeder in the depths arises.  Feeders in the depths view themselves as equals to sahuagin, not as servants. They have no special affection for sharks, and can't communicate with them. Feeders act as loyal companions as long as they're respected and given the freedom to hunt. If not treated well, they rip their would-be masters apart and descend into the lightless depths of the ocean. Although able to breed, feeders in the depths give birth only to monstrosities or normal sharks, never to other feeders. A typical feeder in the depths is 24 feet long and weighs 5,500 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Feeders in the depths closely resemble ordinary sharks, but they are faster, stronger, and far more intelligent and malevolent. Feeders in the depths begin life as ordinary sharks, raised under the care of sahuagin priestesses. A would-be feeder feasts on the flesh of merfolk, sea elves, and other aquatic humanoids. As it dines on these sacrifices, the priestess chants blasphemous rituals, infusing the shark with malign power and the stolen intelligence of its victims. Over the course of 13 feedings over 13 midwinters, a new feeder in the depths arises.  Feeders in the depths view themselves as equals to sahuagin, not as servants. They have no special affection for sharks, and can't communicate with them. Feeders act as loyal companions as long as they're respected and given the freedom to hunt. If not treated well, they rip their would-be masters apart and descend into the lightless depths of the ocean. Although able to breed, feeders in the depths give birth only to monstrosities or normal sharks, never to other feeders. A typical feeder in the depths is 24 feet long and weighs 5,500 pounds.

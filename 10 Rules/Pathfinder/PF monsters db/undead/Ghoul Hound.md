@@ -68,8 +68,6 @@ Environment: any
 Temperature: any
 Organization: solitary, guard (2-4 plus 2-4 ghouls), or pack (4-6 plus 2-4 ghouls)
 Treasure: none
-Description: >
-  Ghouls keep ghoul hounds much as humans keep hunting dogs-some ghouls view these vicious beasts as little more than tools, while more sentimental ghouls treat them as favored pets. Ghoul hounds obediently follow their ghoul masters.  Grathkoll (CR 2): A larger breed of ghoul hound, the grathkoll can be ridden by a Medium creature. A grathkoll is a ghoul hound with the giant simple template and a +10 bonus to its base land speed.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Ghouls keep ghoul hounds much as humans keep hunting dogs-some ghouls view these vicious beasts as little more than tools, while more sentimental ghouls treat them as favored pets. Ghoul hounds obediently follow their ghoul masters.  Grathkoll (CR 2): A larger breed of ghoul hound, the grathkoll can be ridden by a Medium creature. A grathkoll is a ghoul hound with the giant simple template and a +10 bonus to its base land speed.

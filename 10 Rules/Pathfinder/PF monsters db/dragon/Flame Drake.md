@@ -71,7 +71,6 @@ Environment: mountains/hills
 Temperature: temperate
 Organization: solitary, pair, or rampage (3-12)
 Treasure: standard
-Description: Flame drakes are the degenerate cousins of red dragons, with all of the rage and temper of true red dragons but little of the reason and intelligence. Flame drakes are brutal bullies who terrorize the lands they inhabit.  From those they can frighten, flame drakes exact harsh tribute, and they viciously attack any not so easily cowed.  Flame drakes gather in small hunting packs called "rampages," working together easily during raids but often falling prey to squabbling and infighting over the spoils. Males and females form their own packs divided by gender, coming together only during the annual mating season.  Flame drakes mate once a year. Males play no part in raising their offspring, and abandon their partners soon after mating. Females lay clutches of two or three eggs in secluded mountain nests, and raise their hatchlings for only 2 years before rejoining their packs and abandoning their offspring to their fates. Flame drakes mature in 5 years, and can live up to 150 years. They generally grow to 12 feet long and weigh 1,500 pounds.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Flame drakes are the degenerate cousins of red dragons, with all of the rage and temper of true red dragons but little of the reason and intelligence. Flame drakes are brutal bullies who terrorize the lands they inhabit.  From those they can frighten, flame drakes exact harsh tribute, and they viciously attack any not so easily cowed.  Flame drakes gather in small hunting packs called "rampages," working together easily during raids but often falling prey to squabbling and infighting over the spoils. Males and females form their own packs divided by gender, coming together only during the annual mating season.  Flame drakes mate once a year. Males play no part in raising their offspring, and abandon their partners soon after mating. Females lay clutches of two or three eggs in secluded mountain nests, and raise their hatchlings for only 2 years before rejoining their packs and abandoning their offspring to their fates. Flame drakes mature in 5 years, and can live up to 150 years. They generally grow to 12 feet long and weigh 1,500 pounds.

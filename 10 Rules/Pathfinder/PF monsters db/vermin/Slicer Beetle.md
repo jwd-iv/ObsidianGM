@@ -67,7 +67,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary or cluster (2-5)
 Treasure: none
-Description: The slicer beetle sports specialized mouthparts that scissor apart flesh for easier consumption. Each side of its horizontally closing mandibles fits into the other with barely a hair's breadth to spare. These creatures prefer to dwell in compact caves or warrens.  A typical slicer beetle measures 10 feet long and weighs 800 pounds.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The slicer beetle sports specialized mouthparts that scissor apart flesh for easier consumption. Each side of its horizontally closing mandibles fits into the other with barely a hair's breadth to spare. These creatures prefer to dwell in compact caves or warrens.  A typical slicer beetle measures 10 feet long and weighs 800 pounds.

@@ -73,7 +73,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, mob (3-6), or flock (7-12)
 Treasure: standard
-Description: Resembling hideously evil flying manta rays, cloakers are mysterious and paranoid creatures. A typical specimen has an 8-foot wingspan and weighs 100 pounds. A cloaker's motives are hidden and confusing, and they distrust even their own kind. Their strange shape allows them to disguise themselves as a variety of cloaks, tapestries, and other mundane objects, and stories linger of cloakers that ally with other creatures, hitching a ride on their backs and aiding in their ally's protection for their own inscrutable reasons. A rare few are priests of ancient gods, leading cults of cloakers and skum to undertake all manner of hideous rites and working toward singularly sinister goals.
 Race: 
 Class: 
 MR: 
@@ -83,3 +82,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Resembling hideously evil flying manta rays, cloakers are mysterious and paranoid creatures. A typical specimen has an 8-foot wingspan and weighs 100 pounds. A cloaker's motives are hidden and confusing, and they distrust even their own kind. Their strange shape allows them to disguise themselves as a variety of cloaks, tapestries, and other mundane objects, and stories linger of cloakers that ally with other creatures, hitching a ride on their backs and aiding in their ally's protection for their own inscrutable reasons. A rare few are priests of ancient gods, leading cults of cloakers and skum to undertake all manner of hideous rites and working toward singularly sinister goals.

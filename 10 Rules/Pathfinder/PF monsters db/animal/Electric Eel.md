@@ -69,8 +69,6 @@ Environment: fresh water
 Temperature: warm
 Organization: solitary
 Treasure: none
-Description: >
-  The electric eel is a curious fish that breathes air instead of water, yet certainly its most unusual characteristic is its ability to generate powerful jolts of electricity. An electric eel is 6 feet long and weighs 45 pounds. Electric Eel Animal Companion Starting Statistics: Size Small; Speed 5 ft., swim 30 ft.; Attack bite (1d6); Ability Scores Str 12, Dex 14, Con 18, Int 1, Wis 10, Cha 6; Special Qualities amphibious, low-light vision, electricity resistance 5. 4th-Level Advancement: AC +2 natural armor; Ability Scores Dex +2, Con +2; Special Qualities electricity (1d6), electricity resistance 10.
 Race: 
 Class: 
 MR: 
@@ -80,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The electric eel is a curious fish that breathes air instead of water, yet certainly its most unusual characteristic is its ability to generate powerful jolts of electricity. An electric eel is 6 feet long and weighs 45 pounds. Electric Eel Animal Companion Starting Statistics: Size Small; Speed 5 ft., swim 30 ft.; Attack bite (1d6); Ability Scores Str 12, Dex 14, Con 18, Int 1, Wis 10, Cha 6; Special Qualities amphibious, low-light vision, electricity resistance 5. 4th-Level Advancement: AC +2 natural armor; Ability Scores Dex +2, Con +2; Special Qualities electricity (1d6), electricity resistance 10.

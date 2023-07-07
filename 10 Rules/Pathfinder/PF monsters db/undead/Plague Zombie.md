@@ -72,7 +72,6 @@ Environment: any
 Temperature: any
 Organization: any
 Treasure: none
-Description: These zombies carry a terrible disease that perpetuates their undead lineage-those infected by a plague zombie's contagion rise as zombies themselves when they perish.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These zombies carry a terrible disease that perpetuates their undead lineage-those infected by a plague zombie's contagion rise as zombies themselves when they perish.

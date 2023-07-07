@@ -80,7 +80,6 @@ Environment: aquatic (Plane of Water)
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Although not inherently evil, brine dragons have little patience for kindness and philanthropy. As they age, they grow more and more opinionated and obsessed with power-by adult age, a brine dragon counts itself a failure if it doesn't rule over a collection of "lesser beings" such as humans, merfolk, locathah, or even sahuagin.
 Race: 
 Class: 
 MR: 
@@ -90,3 +89,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Although not inherently evil, brine dragons have little patience for kindness and philanthropy. As they age, they grow more and more opinionated and obsessed with power-by adult age, a brine dragon counts itself a failure if it doesn't rule over a collection of "lesser beings" such as humans, merfolk, locathah, or even sahuagin.

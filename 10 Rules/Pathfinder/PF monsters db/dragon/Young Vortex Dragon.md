@@ -85,7 +85,6 @@ Environment: vacuum
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Vortex dragons are the undisputed masters of travel across the galaxies, serving as messengers and observers for the greatest outer dragons and godlike entities in the great beyond.
 Race: 
 Class: 
 MR: 
@@ -95,3 +94,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Vortex dragons are the undisputed masters of travel across the galaxies, serving as messengers and observers for the greatest outer dragons and godlike entities in the great beyond.

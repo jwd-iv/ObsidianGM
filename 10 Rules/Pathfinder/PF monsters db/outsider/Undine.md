@@ -72,8 +72,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, or gang (3-5)
 Treasure: NPC gear (scale mail, trident, other treasure)
-Description: >
-  Undines are humans whose ancestry includes elemental beings of water, such as marids. This connection with the Plane of Water is most noticeably manifested in their coloration, which tends to mimic that of lakes or oceans-all undines have limpid, blue eyes, and their skin and hair can range from pale blue-white to the deep blue or green of the sea.  UNDINE CHARACTERS  Undines are defined by class levels-they do not possess racial Hit Dice. Undines have the following racial traits.  +2 Dexterity, +2 Wisdom, -2 Strength: Undines are both perceptive and agile, but tend to adapt rather than match force with force.  Speed: Undines have a swim speed of 30 feet.  Darkvision: Undines can see in the dark up to 60 feet.  Spell-Like Abilities: Hydraulic push* 1/day. (Caster level equals the undine's total Hit Dice.)  Energy Resistance: Undines have cold resistance 5.  Water Affinity: See above.  Languages: Undines begin play speaking Common and Aquan. Undines with high Intelligence scores can choose any of the following bonus languages: Auran, Dwarven, Elven, Gnome, Halfling, Ignan, and Terran.  * This spell is detailed in the Pathfinder RPG Advanced Player's Guide.
 Race: Undine
 Class: cleric 1
 MR: 
@@ -83,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Undines are humans whose ancestry includes elemental beings of water, such as marids. This connection with the Plane of Water is most noticeably manifested in their coloration, which tends to mimic that of lakes or oceans-all undines have limpid, blue eyes, and their skin and hair can range from pale blue-white to the deep blue or green of the sea.  UNDINE CHARACTERS  Undines are defined by class levels-they do not possess racial Hit Dice. Undines have the following racial traits.  +2 Dexterity, +2 Wisdom, -2 Strength: Undines are both perceptive and agile, but tend to adapt rather than match force with force.  Speed: Undines have a swim speed of 30 feet.  Darkvision: Undines can see in the dark up to 60 feet.  Spell-Like Abilities: Hydraulic push* 1/day. (Caster level equals the undine's total Hit Dice.)  Energy Resistance: Undines have cold resistance 5.  Water Affinity: See above.  Languages: Undines begin play speaking Common and Aquan. Undines with high Intelligence scores can choose any of the following bonus languages: Auran, Dwarven, Elven, Gnome, Halfling, Ignan, and Terran.  * This spell is detailed in the Pathfinder RPG Advanced Player's Guide.

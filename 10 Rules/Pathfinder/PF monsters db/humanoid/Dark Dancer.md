@@ -74,7 +74,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, troupe (3-5), or delegation (1 plus 1 dark stalker and 4-10 dark creepers)
 Treasure: standard (club, dagger, black smear poison [3 doses; Pathfinder RPG Bestiary 54], other gear)
-Description: Though still clad in the tattered dark clothing worn by other dark folk, dark dancers appear to be the most decorated and festive of these strange humanoids. They are intermediaries between clans and factions, and thus clans can't restrict the actions of dark dancers in their realms. Dark dancers answer only to dark stalkers and dark callers. Though fickle and erratic, dark dancers are well liked and usually welcome among clans for as long as they wish to stay. Yet they rarely stay long, instead insinuating themselves into dozens of underground communities over the course of a year. They serve as storytellers, entertainers, and messengers. One of their favorite stories to share is about the relationship between their kind and the owbs. Though dark dancers are rare and weak, they are highly appreciated by dark folk society. Dark folk consider it a bad omen when a dark dancer dies. Dark dancers stand just under 4 feet tall and weigh 60 pounds.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Though still clad in the tattered dark clothing worn by other dark folk, dark dancers appear to be the most decorated and festive of these strange humanoids. They are intermediaries between clans and factions, and thus clans can't restrict the actions of dark dancers in their realms. Dark dancers answer only to dark stalkers and dark callers. Though fickle and erratic, dark dancers are well liked and usually welcome among clans for as long as they wish to stay. Yet they rarely stay long, instead insinuating themselves into dozens of underground communities over the course of a year. They serve as storytellers, entertainers, and messengers. One of their favorite stories to share is about the relationship between their kind and the owbs. Though dark dancers are rare and weak, they are highly appreciated by dark folk society. Dark folk consider it a bad omen when a dark dancer dies. Dark dancers stand just under 4 feet tall and weigh 60 pounds.

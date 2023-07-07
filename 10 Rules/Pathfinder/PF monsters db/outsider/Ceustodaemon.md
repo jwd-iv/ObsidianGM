@@ -69,8 +69,6 @@ Environment: any (Abaddon)
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: >
-  Some claim the Four Horsemen created these creatures to serve as summoning fodder. Others believe that they form from neutral evil souls who commit suicide. Wherever the truth lies, ceustodaemons find themselves on the Material Plane more often than any other daemon, as they are easily pressured into service-many call these creatures "guardian daemons" as a result. Yet in the back of their wicked minds, ceustodaemons always think about escaping their bonds and ripping to shreds the ones who summoned them.  Greater and lesser versions of these creatures exist.  These variants can be represented by applying either the young creature or advanced creature simple templates, along with the following adjustments.  Lesser Ceustodaemon: This Medium daemon looks like a horned frog with a wide, toothy mouth. Its breath weapon is a chilling cone of ice that deals cold damage.  Greater Ceustodaemon: This daemon resembles a gigantic humanoid bear with the talons of an eagle and curling ram horns sprouting from its head. Its breath weapon is a fan of sparks that deals electricity damage.
 Race: 
 Class: 
 MR: 
@@ -80,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Some claim the Four Horsemen created these creatures to serve as summoning fodder. Others believe that they form from neutral evil souls who commit suicide. Wherever the truth lies, ceustodaemons find themselves on the Material Plane more often than any other daemon, as they are easily pressured into service-many call these creatures "guardian daemons" as a result. Yet in the back of their wicked minds, ceustodaemons always think about escaping their bonds and ripping to shreds the ones who summoned them.  Greater and lesser versions of these creatures exist.  These variants can be represented by applying either the young creature or advanced creature simple templates, along with the following adjustments.  Lesser Ceustodaemon: This Medium daemon looks like a horned frog with a wide, toothy mouth. Its breath weapon is a chilling cone of ice that deals cold damage.  Greater Ceustodaemon: This daemon resembles a gigantic humanoid bear with the talons of an eagle and curling ram horns sprouting from its head. Its breath weapon is a fan of sparks that deals electricity damage.

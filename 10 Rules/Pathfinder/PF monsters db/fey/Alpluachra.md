@@ -72,7 +72,6 @@ Environment: forest/water (fresh)
 Temperature: temperate
 Organization: solitary
 Treasure: none
-Description: These strange and insatiable fey prowl bubbling brooks, sauntering streams, and slow-moving rivers in a constant pursuit of food, but the extremely lazy creatures often tire of hunting. Alpluachras find it much easier to slip down a sleeping creature's throat, fall asleep, and dream of fantastic feasts and warm bubbling pools while its host does the eating for it. Because of this, alpluachras always keep an eye on riverbanks, looking for creatures napping near waterways. Once they find potential hosts, alpluachras stealthily slither up and slide down their snoring gullets. Once inside, an alpluachra rests along the walls of the esophagus and devours all the food that comes down the host's throat. The host often starves to death in the process, as the parasite becomes more ravenous over time. Despite their propensity to slowly kill their hosts, alpluachras are slothful rather than cruel. They have no concept of the harm they are doing, lazily enjoying the benefits while the host is still alive.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These strange and insatiable fey prowl bubbling brooks, sauntering streams, and slow-moving rivers in a constant pursuit of food, but the extremely lazy creatures often tire of hunting. Alpluachras find it much easier to slip down a sleeping creature's throat, fall asleep, and dream of fantastic feasts and warm bubbling pools while its host does the eating for it. Because of this, alpluachras always keep an eye on riverbanks, looking for creatures napping near waterways. Once they find potential hosts, alpluachras stealthily slither up and slide down their snoring gullets. Once inside, an alpluachra rests along the walls of the esophagus and devours all the food that comes down the host's throat. The host often starves to death in the process, as the parasite becomes more ravenous over time. Despite their propensity to slowly kill their hosts, alpluachras are slothful rather than cruel. They have no concept of the harm they are doing, lazily enjoying the benefits while the host is still alive.

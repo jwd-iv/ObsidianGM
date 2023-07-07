@@ -68,8 +68,6 @@ Environment: forest/plains
 Temperature: warm
 Organization: solitary, pair, or pack (3-12)
 Treasure: none
-Description: >
-  The immense megalania is often mistaken for a dragon or dinosaur. Certainly the lizard's aggressive attitude and deep, rumbling roars only encourage such misidentifications. Large enough to catch and eat rhinos and elephants, a megalania prefers hunting much smaller prey that it can gulp down in one greedy swallow. Humanoids are among its favorite meals.  A megalania is 20 feet long and weighs 2,000 pounds.  Megalania Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +1 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 13, Dex 17, Con 12, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.  7th-Level Advancement: Size Large; AC +1 natural armor; Attack bite (1d8 plus grab and poison); Ability Scores Str +4, Dex -2, Con +4.
 Race: 
 Class: 
 MR: 
@@ -79,3 +77,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The immense megalania is often mistaken for a dragon or dinosaur. Certainly the lizard's aggressive attitude and deep, rumbling roars only encourage such misidentifications. Large enough to catch and eat rhinos and elephants, a megalania prefers hunting much smaller prey that it can gulp down in one greedy swallow. Humanoids are among its favorite meals.  A megalania is 20 feet long and weighs 2,000 pounds.  Megalania Companions  Starting Statistics: Size Medium; Speed 30 ft.; AC +1 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 13, Dex 17, Con 12, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent.  7th-Level Advancement: Size Large; AC +1 natural armor; Attack bite (1d8 plus grab and poison); Ability Scores Str +4, Dex -2, Con +4.

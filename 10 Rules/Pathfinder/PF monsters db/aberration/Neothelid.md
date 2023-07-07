@@ -71,7 +71,6 @@ Environment: underground
 Temperature: any
 Organization: solitary, pair, or cult (3-5 plus 4-12 charmed slaves of various races)
 Treasure: standard
-Description: Dwelling only in the deepest reaches of the underworld, the immense neothelids once ruled empires in the depths, yet their numbers have been vastly reduced as other races have proven swifter to breed and adapt. Today, the neothelid is a legend, the subject of tales of horror among those few to have experienced the creature's wrath in person and lived to tell about it.  Neothelids are served by all manner of strange wormlike creatures, minions they use to observe and wage war against their enemies. The neothelids themselves were spawned by even more horrific entities, ageless horrors from strange dimensions beyond the edge of known reality-the neothelids see themselves as the chosen agents of these malevolent forces, working to ready the world for their return.
 Race: 
 Class: 
 MR: 
@@ -81,3 +80,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Dwelling only in the deepest reaches of the underworld, the immense neothelids once ruled empires in the depths, yet their numbers have been vastly reduced as other races have proven swifter to breed and adapt. Today, the neothelid is a legend, the subject of tales of horror among those few to have experienced the creature's wrath in person and lived to tell about it.  Neothelids are served by all manner of strange wormlike creatures, minions they use to observe and wage war against their enemies. The neothelids themselves were spawned by even more horrific entities, ageless horrors from strange dimensions beyond the edge of known reality-the neothelids see themselves as the chosen agents of these malevolent forces, working to ready the world for their return.

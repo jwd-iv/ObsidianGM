@@ -78,7 +78,6 @@ Environment: any (coastal)
 Temperature: any
 Organization: solitary
 Treasure: standard
-Description: A seaweed siren is a predator that uses false humanlike heads on its upper appendages in order to lure prey. The heads babble nonsense words and fragments of overheard sentences. If spoken to, they respond with words from a similar language. This behavior allows the seaweed siren to creep about under the water with only the heads showing, pretending to be swimming humanoids until it is ready to attack.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A seaweed siren is a predator that uses false humanlike heads on its upper appendages in order to lure prey. The heads babble nonsense words and fragments of overheard sentences. If spoken to, they respond with words from a similar language. This behavior allows the seaweed siren to creep about under the water with only the heads showing, pretending to be swimming humanoids until it is ready to attack.

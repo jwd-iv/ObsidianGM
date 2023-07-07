@@ -79,7 +79,6 @@ Environment: hills/mountains
 Temperature: cold
 Organization: solitary
 Treasure: triple
-Description: The ice linnorm dwells amid glacial crevasses and atop wind-blasted mountain peaks-tales speak of climbers unwittingly clambering over the flanks of a particularly immense ice linnorm coiled around a mountain, only to find death at its furious fangs and claws at the summit of their goal. During the fiercest winters, ice linnorms are said to slither down to the lowlands to eat entire villages.  An ice linnorm is 90 feet long and weighs 18,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -89,3 +88,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The ice linnorm dwells amid glacial crevasses and atop wind-blasted mountain peaks-tales speak of climbers unwittingly clambering over the flanks of a particularly immense ice linnorm coiled around a mountain, only to find death at its furious fangs and claws at the summit of their goal. During the fiercest winters, ice linnorms are said to slither down to the lowlands to eat entire villages.  An ice linnorm is 90 feet long and weighs 18,000 pounds.

@@ -80,7 +80,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: none
-Description: Standing 80 feet high and weighing 500 tons, iron colossi are the ultimate weapons of war.  Construction  The body of an iron colossus is constructed from hundreds of tons of iron, costing 100,000 gp.  IRON COLOSSUS  CL 17th; Price 500,000 gp  Construction  Requirements Craft Construct, Mythic Crafter, mythic tier or rank 8, antimagic field, cloudkill, meteor swarm, rusting grasp, wall of iron, wish; Skill Craft (blacksmithing) DC 30; Cost 300,000 gp
 Race: 
 Class: 
 MR: 8
@@ -90,3 +89,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Standing 80 feet high and weighing 500 tons, iron colossi are the ultimate weapons of war.  Construction  The body of an iron colossus is constructed from hundreds of tons of iron, costing 100,000 gp.  IRON COLOSSUS  CL 17th; Price 500,000 gp  Construction  Requirements Craft Construct, Mythic Crafter, mythic tier or rank 8, antimagic field, cloudkill, meteor swarm, rusting grasp, wall of iron, wish; Skill Craft (blacksmithing) DC 30; Cost 300,000 gp

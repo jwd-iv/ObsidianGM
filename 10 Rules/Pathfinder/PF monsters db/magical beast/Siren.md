@@ -69,7 +69,6 @@ Environment: hills
 Temperature: temperate/warm
 Organization: solitary or flight (2-7)
 Treasure: standard
-Description: These bizarre beings have the bodies of hawks, owls, or eagles, but the heads of beautiful human women. Their faces typically ref lect the human ethnicity dominant in the area in which they lair, and they almost always bear a vibrant and youthful countenance.  All sirens are female and long-lived. The oldest known sirens haunt their territories for nearly a millennium, although most only live for a few hundred years. Sirens require male humanoids to mate, and several times per decade either capture or rescue bold or comely sailors who enter their territories. Stories abound of sirens dying- either through heartache or suicide-when sailors they attempted to lure overcame their compelling powers and escaped their grasps. Sirens always live near the sea, where their powerful voices can carry over the waves and attract the attention of unwary sailors who trespass near their isles.  A typical siren has a wing span of 8 feet, and weighs 120 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+These bizarre beings have the bodies of hawks, owls, or eagles, but the heads of beautiful human women. Their faces typically ref lect the human ethnicity dominant in the area in which they lair, and they almost always bear a vibrant and youthful countenance.  All sirens are female and long-lived. The oldest known sirens haunt their territories for nearly a millennium, although most only live for a few hundred years. Sirens require male humanoids to mate, and several times per decade either capture or rescue bold or comely sailors who enter their territories. Stories abound of sirens dying- either through heartache or suicide-when sailors they attempted to lure overcame their compelling powers and escaped their grasps. Sirens always live near the sea, where their powerful voices can carry over the waves and attract the attention of unwary sailors who trespass near their isles.  A typical siren has a wing span of 8 feet, and weighs 120 pounds.

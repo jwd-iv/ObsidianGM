@@ -65,7 +65,6 @@ Environment: any (Hell)
 Temperature: any
 Organization: solitary, pair, or pack (3-12)
 Treasure: incidental
-Description: A typical hell hound stands 4-5 feet tall at the shoulder and weighs 120 pounds. Efficient hunters, a favorite pack tactic is to surround prey quietly, then attack with one or two hounds, driving prey toward the rest of the pack with their fiery breath.  If the prey doesn't run, the pack closes in. Hell hounds track fleeing creatures relentlessly.  Hell hounds are particularly favored by fire giants, as the creatures are immune to fire and share the fire giant's sense of cruelty when it comes to handling intruders. Only when a fire giant goes too far toward treating a relatively intelligent hell hound like a pet do such alliances begin to falter.
 Race: 
 Class: 
 MR: 
@@ -75,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A typical hell hound stands 4-5 feet tall at the shoulder and weighs 120 pounds. Efficient hunters, a favorite pack tactic is to surround prey quietly, then attack with one or two hounds, driving prey toward the rest of the pack with their fiery breath.  If the prey doesn't run, the pack closes in. Hell hounds track fleeing creatures relentlessly.  Hell hounds are particularly favored by fire giants, as the creatures are immune to fire and share the fire giant's sense of cruelty when it comes to handling intruders. Only when a fire giant goes too far toward treating a relatively intelligent hell hound like a pet do such alliances begin to falter.

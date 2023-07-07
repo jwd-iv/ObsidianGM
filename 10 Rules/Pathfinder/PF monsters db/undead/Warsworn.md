@@ -74,7 +74,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: double standard (nonmagical armor and weapons)
-Description: Warsworns are massive undead amalgams, their ever-shifting, chaotic bodies composed of countless slain soldiers and their armor and weapons. The shambling, serpentine form of a warsworn creates a grotesque, metallic cacophony as the weapons and armor of countless souls clash as though still in the throes of a never-ending battle. A warsworn forms by the will of a god or goddess of undeath or war, or spontaneously from the bloodlust and wrath of a battlefield of dead soldiers. Once created, a warsworn exists to spread the rage of war, ravage the land, and spread the carnage of battle. A typical warsworn weighs several tons and can reach a height of up to 25 feet. A newly formed one is much smaller, but quickly consumes nearby corpses from a battlefield or mass grave and swells to its full size. It is always hungry for more dying bodies. It prefers to absorb warriors and soldiers, but willingly consumes any suitable humanoid. Its constant grinding motion breaks its component parts, giving it plenty of scrap to hurl at distant foes.
 Race: 
 Class: 
 MR: 
@@ -84,3 +83,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Warsworns are massive undead amalgams, their ever-shifting, chaotic bodies composed of countless slain soldiers and their armor and weapons. The shambling, serpentine form of a warsworn creates a grotesque, metallic cacophony as the weapons and armor of countless souls clash as though still in the throes of a never-ending battle. A warsworn forms by the will of a god or goddess of undeath or war, or spontaneously from the bloodlust and wrath of a battlefield of dead soldiers. Once created, a warsworn exists to spread the rage of war, ravage the land, and spread the carnage of battle. A typical warsworn weighs several tons and can reach a height of up to 25 feet. A newly formed one is much smaller, but quickly consumes nearby corpses from a battlefield or mass grave and swells to its full size. It is always hungry for more dying bodies. It prefers to absorb warriors and soldiers, but willingly consumes any suitable humanoid. Its constant grinding motion breaks its component parts, giving it plenty of scrap to hurl at distant foes.

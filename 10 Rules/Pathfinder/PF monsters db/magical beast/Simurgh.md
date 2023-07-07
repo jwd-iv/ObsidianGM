@@ -80,7 +80,6 @@ Environment: desert/mountains
 Temperature: warm
 Organization: solitary
 Treasure: standard
-Description: Regarded as living legends, simurghs are held in high regard by desert dwellers. Those who live in the desert lands where these benevolent creatures sometimes reside consider it a lifetime's worth of luck even to spot one soaring through the sky. Simurghs prefer to keep to themselves, well out of the way of lesser creatures and their often dubious morals, though they can be relied upon for aid when called by those in true need and with a pure heart. A simurgh can live for thousands of years, and frequent mentions of these giant avian beings throughout a region's historical record are more often than not sightings of the same creature.
 Race: 
 Class: 
 MR: 
@@ -90,3 +89,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Regarded as living legends, simurghs are held in high regard by desert dwellers. Those who live in the desert lands where these benevolent creatures sometimes reside consider it a lifetime's worth of luck even to spot one soaring through the sky. Simurghs prefer to keep to themselves, well out of the way of lesser creatures and their often dubious morals, though they can be relied upon for aid when called by those in true need and with a pure heart. A simurgh can live for thousands of years, and frequent mentions of these giant avian beings throughout a region's historical record are more often than not sightings of the same creature.

@@ -72,7 +72,6 @@ Environment: river/swamp (coastal)
 Temperature: any
 Organization: solitary, pair, or family (3-12)
 Treasure: standard
-Description: Vodyanois resemble humanoid salamanders. They have short noses, bulging eyes, and broad mouths covered with thickets of fleshy tendrils. Skin color varies wildly depending on the climate and terrain, from drab greens and grays to vibrant oranges and reds. Vodyanois stand roughly 5-1/2 feet tall and weigh just over 100 pounds. They can live up to 120 years.  Vodyanois are well known as enemies to boggards- another amphibious race often encountered in proximity to vodyanoi lands. While vodyanois themselves are rarely evil, they are capricious and often quick to anger, particularly when they feel their territories have been intruded upon. Their hatred of boggards is another sure way to arouse their anger-a vodyanoi who suspects one of boggard collusion will often attack on sight. Those who live in close proximity to vodyanoi tribes learn quickly to leave the folk alone, and when visits or intrusions into vodyanoi lands are necessary (such as when one might need to seek out a vodyanoi for aid in curing a disease), gifts of magic potions and exotic fruits are highly recommended.
 Race: 
 Class: 
 MR: 
@@ -82,3 +81,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Vodyanois resemble humanoid salamanders. They have short noses, bulging eyes, and broad mouths covered with thickets of fleshy tendrils. Skin color varies wildly depending on the climate and terrain, from drab greens and grays to vibrant oranges and reds. Vodyanois stand roughly 5-1/2 feet tall and weigh just over 100 pounds. They can live up to 120 years.  Vodyanois are well known as enemies to boggards- another amphibious race often encountered in proximity to vodyanoi lands. While vodyanois themselves are rarely evil, they are capricious and often quick to anger, particularly when they feel their territories have been intruded upon. Their hatred of boggards is another sure way to arouse their anger-a vodyanoi who suspects one of boggard collusion will often attack on sight. Those who live in close proximity to vodyanoi tribes learn quickly to leave the folk alone, and when visits or intrusions into vodyanoi lands are necessary (such as when one might need to seek out a vodyanoi for aid in curing a disease), gifts of magic potions and exotic fruits are highly recommended.

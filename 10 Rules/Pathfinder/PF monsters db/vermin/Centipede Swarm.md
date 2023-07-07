@@ -67,7 +67,6 @@ Environment: forest/underground
 Temperature: temperate/warm
 Organization: solitary, pair, or tangle (3-6 swarms)
 Treasure: none
-Description: A centipede swarm seeks to surround and attack any living prey it encounters.
 Race: 
 Class: 
 MR: 
@@ -77,3 +76,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A centipede swarm seeks to surround and attack any living prey it encounters.

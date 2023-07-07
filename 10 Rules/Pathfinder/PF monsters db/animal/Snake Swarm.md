@@ -66,7 +66,6 @@ Environment: any
 Temperature: any
 Organization: solitary or nest (2-4 swarms)
 Treasure: none
-Description: While all snake swarms are dangerous, swarms made up of venomous snakes are typically the most lethal. Snake swarms of both types can generally be encountered in the same regions, dwelling in ruins or wilderness alike.
 Race: 
 Class: 
 MR: 
@@ -76,3 +75,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+While all snake swarms are dangerous, swarms made up of venomous snakes are typically the most lethal. Snake swarms of both types can generally be encountered in the same regions, dwelling in ruins or wilderness alike.

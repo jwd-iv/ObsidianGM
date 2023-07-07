@@ -65,8 +65,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary, pair, or cluster (3-6)
 Treasure: none
-Description: >
-  Nearly 10 feet long, giant stag beetles become serious dangers when they wander into logging camps due to their appetite for decaying wood. Called stag beetles because of their large, antler-like mandibles, they use these appendages to wrestle competing suitors and quickly put down enemy threats. Variant species of these giant beetles exist as well. The two detailed below are the ones most commonly encountered. Bombardier Beetle (CR 2): This giant stag beetle has only 2 Hit Dice and is Medium sized, but can spray acid once per round in a 10-foot cone. Those in the cone must make a DC 11 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based. Goliath Beetle (CR 8): The immense goliath beetle is a Huge stag beetle with 12 HD and the trample special ability.
 Race: 
 Class: 
 MR: 
@@ -76,3 +74,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Nearly 10 feet long, giant stag beetles become serious dangers when they wander into logging camps due to their appetite for decaying wood. Called stag beetles because of their large, antler-like mandibles, they use these appendages to wrestle competing suitors and quickly put down enemy threats. Variant species of these giant beetles exist as well. The two detailed below are the ones most commonly encountered. Bombardier Beetle (CR 2): This giant stag beetle has only 2 Hit Dice and is Medium sized, but can spray acid once per round in a 10-foot cone. Those in the cone must make a DC 11 Fortitude save or take 1d4+2 points of acid damage. The save DC is Constitution-based. Goliath Beetle (CR 8): The immense goliath beetle is a Huge stag beetle with 12 HD and the trample special ability.

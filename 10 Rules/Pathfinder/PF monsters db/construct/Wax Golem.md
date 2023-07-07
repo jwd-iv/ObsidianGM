@@ -70,7 +70,6 @@ Environment: any
 Temperature: any
 Organization: solitary or gang (2-4)
 Treasure: none
-Description: A wax golem is an exact replica of a particular person, composed completely of wax. While skilled artists pride themselves on their ability to make wax sculptures look lifelike, builders of wax golems go one step further and actually bring their art to life. Though eerily silent and unblinking, well-built wax golems bear such striking similarity to the subjects they are modeled after that some golems begin to think they are in fact that person. A wax golem can be constructed to resemble any person or creature.  Construction  The construction of a wax golem requires a block of solid wax that weights at least 1,000 pounds.  WAX GOLEM  CL 9th; Price 14,000 gp  Construction  Requirements Craft Construct, animate objects, geas/quest, limited wish, silent image, creator must be caster level 9th; Skill Craft (sculptures) DC 18 (DC 25 if the creator wants the golem to look like a member of a particular race; DC 30 if the creator wants the golem to look like a specific individual); Cost 7,000 gp
 Race: 
 Class: 
 MR: 
@@ -80,3 +79,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+A wax golem is an exact replica of a particular person, composed completely of wax. While skilled artists pride themselves on their ability to make wax sculptures look lifelike, builders of wax golems go one step further and actually bring their art to life. Though eerily silent and unblinking, well-built wax golems bear such striking similarity to the subjects they are modeled after that some golems begin to think they are in fact that person. A wax golem can be constructed to resemble any person or creature.  Construction  The construction of a wax golem requires a block of solid wax that weights at least 1,000 pounds.  WAX GOLEM  CL 9th; Price 14,000 gp  Construction  Requirements Craft Construct, animate objects, geas/quest, limited wish, silent image, creator must be caster level 9th; Skill Craft (sculptures) DC 18 (DC 25 if the creator wants the golem to look like a member of a particular race; DC 30 if the creator wants the golem to look like a specific individual); Cost 7,000 gp

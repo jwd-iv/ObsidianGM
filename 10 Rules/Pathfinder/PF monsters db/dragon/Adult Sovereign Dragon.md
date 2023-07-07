@@ -87,7 +87,6 @@ Environment: mountains
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Guardians of balance, sovereign dragons, or lungwangs as they are also known, were placed in the skies by the gods themselves to safeguard harmony in the world.
 Race: 
 Class: 
 MR: 
@@ -97,3 +96,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Guardians of balance, sovereign dragons, or lungwangs as they are also known, were placed in the skies by the gods themselves to safeguard harmony in the world.

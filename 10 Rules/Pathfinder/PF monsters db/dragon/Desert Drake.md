@@ -76,7 +76,6 @@ Environment: desert
 Temperature: warm
 Organization: solitary, pair, or rampage (3-12)
 Treasure: standard
-Description: Among the fiercest of their kind, desert drakes exhibit a lust for destruction as merciless as any desert storm. These fierce, ambush predators hunt by finding high perches among rocky outcroppings and surveying their surroundings. When likely prey wanders into sight, a desert drake dives into the sand and burrows toward its quarry or flies low with cover from dunes or other outcroppings. Drawing near the likely path of its victims, it bursts from the sand or dives from above to catch foes off guard, preferring to attack targets that exhibit the most fear first. Before enemies can recover from the initial onslaught, a desert drake exhales a cloud of electrified dust, using its superior senses to press the attack. Mated pairs of desert drakes hunt larger prey and groups of victims, and rampages of the beasts might gather near overland trade routes to devour whole caravans.  A typical desert drake measures 15 feet long from nose to tail tip, has a supple, wormlike build, and weighs about 2,500 pounds.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Among the fiercest of their kind, desert drakes exhibit a lust for destruction as merciless as any desert storm. These fierce, ambush predators hunt by finding high perches among rocky outcroppings and surveying their surroundings. When likely prey wanders into sight, a desert drake dives into the sand and burrows toward its quarry or flies low with cover from dunes or other outcroppings. Drawing near the likely path of its victims, it bursts from the sand or dives from above to catch foes off guard, preferring to attack targets that exhibit the most fear first. Before enemies can recover from the initial onslaught, a desert drake exhales a cloud of electrified dust, using its superior senses to press the attack. Mated pairs of desert drakes hunt larger prey and groups of victims, and rampages of the beasts might gather near overland trade routes to devour whole caravans.  A typical desert drake measures 15 feet long from nose to tail tip, has a supple, wormlike build, and weighs about 2,500 pounds.

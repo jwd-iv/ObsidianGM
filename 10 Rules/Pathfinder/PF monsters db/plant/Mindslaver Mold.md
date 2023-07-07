@@ -76,7 +76,6 @@ Environment: any
 Temperature: any
 Organization: solitary or infestation (2-10)
 Treasure: incidental
-Description: Mindslaver mold is an infestation from the primal world of fey that is particularly common in remote forests, islands, and mountain valleys where it is sometimes worshiped as a strange god by isolated, primitive tribes. The mold is joined together by a single consciousness, though individual patches retain their own goals. It seeks humanoid hosts, parasitizing them and forcing them to serve as its bodyguards and protectors.
 Race: 
 Class: 
 MR: 
@@ -86,3 +85,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Mindslaver mold is an infestation from the primal world of fey that is particularly common in remote forests, islands, and mountain valleys where it is sometimes worshiped as a strange god by isolated, primitive tribes. The mold is joined together by a single consciousness, though individual patches retain their own goals. It seeks humanoid hosts, parasitizing them and forcing them to serve as its bodyguards and protectors.

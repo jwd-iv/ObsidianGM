@@ -69,7 +69,6 @@ Environment: forest
 Temperature: temperate
 Organization: solitary or pair
 Treasure: standard
-Description: The hangman tree prefers to lie in wait near remote forest tracks and game trails, waiting for victims to wander by. These carnivorous plants are incredibly patient, and can wait for months in a single location for food to approach. When prey does draw near, the tree's vines lash like striking snakes. The tree often uses its pull ability to hoist grappled foes 10 to 15 feet in the air so that they are out of reach of allies while they slowly strangle. The tree generally only swallows one foe whole at a time, letting its other captured victims dangle and ripen until it is ready to feed on them.  A hangman tree is 30 feet tall and weighs 12,000 pounds.
 Race: 
 Class: 
 MR: 
@@ -79,3 +78,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+The hangman tree prefers to lie in wait near remote forest tracks and game trails, waiting for victims to wander by. These carnivorous plants are incredibly patient, and can wait for months in a single location for food to approach. When prey does draw near, the tree's vines lash like striking snakes. The tree often uses its pull ability to hoist grappled foes 10 to 15 feet in the air so that they are out of reach of allies while they slowly strangle. The tree generally only swallows one foe whole at a time, letting its other captured victims dangle and ripen until it is ready to feed on them.  A hangman tree is 30 feet tall and weighs 12,000 pounds.

@@ -88,7 +88,6 @@ Environment: any
 Temperature: any
 Organization: solitary
 Treasure: triple
-Description: Cruel and sadistic, umbral dragons prefer the taste of undead flesh or ghostly ectoplasm, yet never turn down opportunities to consume living flesh.
 Race: 
 Class: 
 MR: 
@@ -98,3 +97,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Cruel and sadistic, umbral dragons prefer the taste of undead flesh or ghostly ectoplasm, yet never turn down opportunities to consume living flesh.

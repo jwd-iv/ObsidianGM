@@ -78,7 +78,6 @@ Environment: any
 Temperature: any
 Organization: solitary, pair, patrol (3-6)
 Treasure: standard
-Description: Tataka rakshasas are the least subtle and largest of their kind. They are philosophers and fanatics, loyal servants of the rakshasa immortals. Their familiarity with religion and its trappings makes them excellent corruptors and blasphemers. Such rakshasas might assault sacred sites or rituals directly so as to foil good works and slay holy people. A tataka holds all religions in contempt save the worship of rakshasas, and it openly mocks and assaults any who dare believe otherwise.  Tataka rakshasas are more than zealots, though, and they train from an early age in martial arts-their strikes can break bones as surely as any unarmed strike from a monk or other practitioner of such styles of combat.  A typical tataka is 12 feet tall and weighs 1,300 pounds.
 Race: 
 Class: 
 MR: 
@@ -88,3 +87,4 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
+Tataka rakshasas are the least subtle and largest of their kind. They are philosophers and fanatics, loyal servants of the rakshasa immortals. Their familiarity with religion and its trappings makes them excellent corruptors and blasphemers. Such rakshasas might assault sacred sites or rituals directly so as to foil good works and slay holy people. A tataka holds all religions in contempt save the worship of rakshasas, and it openly mocks and assaults any who dare believe otherwise.  Tataka rakshasas are more than zealots, though, and they train from an early age in martial arts-their strikes can break bones as surely as any unarmed strike from a monk or other practitioner of such styles of combat.  A typical tataka is 12 feet tall and weighs 1,300 pounds.
