@@ -1,11 +1,8 @@
 ---
 aliases:
+- magic item generator
 
 tags:
-
-status: 🌰
-created: 2022-07-25
-BC-folder-note: includes
 ---
 # PFMIG
 

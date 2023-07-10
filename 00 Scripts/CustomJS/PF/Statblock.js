@@ -49,7 +49,7 @@ class Statblock
 		header = ""
 
 		if (data.Image)
-			text += `<img src='${data.Image}' width='38%' style='float:right;'/>`
+			text += `<a href="${data.Image}"><img src='${data.Image}' width='38%' style='float:right;'/></a>`
 
 		print()
 
