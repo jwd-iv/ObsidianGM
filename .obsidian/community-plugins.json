@@ -5,7 +5,6 @@
   "obsidian-admonition",
   "alx-folder-note",
   "better-fn",
-  "breadcrumbs",
   "dataview",
   "dbfolder",
   "obsidian-dice-roller",
@@ -22,5 +21,7 @@
   "obsidian-timelines",
   "workspaces-plus",
   "obsidian-zoom",
-  "buttons"
+  "buttons",
+  "obsidian-tasks-plugin",
+  "breadcrumbs"
 ]
