@@ -1,10 +1,10 @@
 ---
 File: Clockwork Spy
-URL: 
 Group: 
 aliases: 
 Brief: This tiny steel creature has one oversized eye, a spherical body, and several spiderlike legs of grinding metal.
 CR: 1/2
+Image: https://2e.aonprd.com/Images/Monsters/Clockwork_ClockworkSpy.png
 XP: 200
 Alignment: N
 Size: Tiny
@@ -75,6 +75,7 @@ Class:
 MR: 
 Copyright:
   Content: PFRPG Bestiary 3
+  Image: "[Archives of Nethys](https://2e.aonprd.com/Monsters.aspx?ID=1095)"
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)

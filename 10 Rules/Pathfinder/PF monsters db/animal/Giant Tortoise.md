@@ -68,7 +68,7 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
-Environment: desert/island
+Environment: desert/islands
 Temperature: warm
 Organization: solitary, pair, or herd (6-12)
 Treasure: none

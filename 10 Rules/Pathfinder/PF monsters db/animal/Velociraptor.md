@@ -80,4 +80,8 @@ Copyright:
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
-A smaller cousin of the deinonychus, the velociraptor is a swift, cunning pack hunter. It has no fear of Medium or even Large creatures. Its leaping charge attack grants it a significant advantage against foes in thick underbrush. A velociraptor is around 1-1/2 feet tall and 7 feet long, and weighs 35 pounds.  Velociraptor Companions  Starting Statistics: Size Small; Speed 60 ft.; AC +1 natural armor; Attack 2 talons (1d6), bite (1d4); Ability Scores Str 11, Dex 17, Con 17, Int 2, Wis 12, Cha 14; Special Qualities low-light vision, scent.  7th-Level Advancement: Size Medium; AC +2 natural armor; Attack 2 talons (1d8), bite (1d6), 2 claws (1d4) Ability Scores Str +4, Dex -2, Con +2; Special Attacks pounce (see the Pathfinder RPG Bestiary).
+A smaller cousin of the deinonychus, the velociraptor is a swift, cunning pack hunter. It has no fear of Medium or even Large creatures. Its leaping charge attack grants it a significant advantage against foes in thick underbrush. A velociraptor is around 1-1/2 feet tall and 7 feet long, and weighs 35 pounds.
+
+## (companion)
+
+Starting Statistics: Size Small; Speed 60 ft.; AC +1 natural armor; Attack 2 talons (1d6), bite (1d4); Ability Scores Str 11, Dex 17, Con 17, Int 2, Wis 12, Cha 14; Special Qualities low-light vision, scent.  7th-Level Advancement: Size Medium; AC +2 natural armor; Attack 2 talons (1d8), bite (1d6), 2 claws (1d4) Ability Scores Str +4, Dex -2, Con +2; Special Attacks pounce (see the Pathfinder RPG Bestiary).

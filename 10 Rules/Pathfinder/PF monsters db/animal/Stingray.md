@@ -63,7 +63,7 @@ SpellsKnown:
 SpellsPrepared: 
 SpellDomains: 
 Bloodline: 
-Environment: oceans
+Environment: ocean
 Temperature: warm
 Organization: solitary, pair, or flight (3-12)
 Treasure: none

@@ -1,10 +1,10 @@
 ---
 File: Wyrwood
-URL: 
 Group: 
 aliases: 
 Brief: Though obviously a wooden construct, this small, nimble creature moves fluidly and purposefully.
 CR: 1/2
+Image: https://cdn.paizo.com/image/content/Blog/042220_Prefect.jpg
 XP: 200
 Alignment: N
 Size: Small
@@ -73,8 +73,13 @@ Class: rogue 1
 MR: 
 Copyright:
   Content: PFRPG Bestiary 4
+  Image: "Przemysław Gołąb for [Pathfinder Society, April 2020](https://paizo.com/community/blog/v5748dyo6sh71)"
 ---
 ```dataviewjs
 customJS.Statblock.printMonsterWiki(dv)
 ```
-This relatively young race was created by a cabal of wizards who needed nimble and skilled construct servants to do their dirty work. This cabal was interested in creating magical machines, so they built their tools to be small, agile, and clever. Over time, the cabal pushed the limits too far and created minions with free will, and these first wyrwoods began to question why they were involved in their masters' petty intrigues. When the wizards forced the wyrwoods to fight each other as proxies for the wizards themselves, the constructs instead killed their creators and stole the notes on how to create more of their kind, allowing them to perpetuate their race. Wyrwoods are secretive and somewhat xenophobic, and can seem cold and calculating to others-a trait that could earn respect or enmity, depending on the audience. Purely rational and unemotional, wyrwoods see the survival of their race as their primary goal. Even the rare wyrwood who understands the point of empathy and altruism sees such concepts as mere tools to help ensure its own survival or that of its people. All wyrwoods know how to create more of their kind, and they keep the details of their construction process secret from other creatures to make sure their race is never again enslaved. Most wyrwoods are wizards or rogues. The few who are inclined to worship tend to revere lawful deities with strict codes of behavior, which they follow to the letter rather than the spirit.  WYRWOOD CHARACTERS Wyrwood are defined by their class levels-they do not possess racial Hit Dice. All wyrwoods have the following racial traits.  +2 Dexterity, +2 Intelligence, -2 Charisma: Wyrwoods are quick and calculating. As constructs, wyrwoods do not have a Constitution score. Normal Speed: Wyrwoods have a base speed of 30 feet.  Small: Wyrwoods are Small creatures and gain a +1 size bonus on attack rolls, a -1 penalty on combat maneuver checks and to combat maneuver defense, a +2 bonus on Fly checks, and a +4 size bonus on Stealth checks.  Darkvision 60 ft.: Wyrwoods can see in the dark up to 60 feet.  Low-Light Vision: Wyrwoods have low-light vision.  Languages: Wyrwoods speak Common. A wyrwood with a high Intelligence score can choose from the following: Draconic, Dwarven, Elven, Gnome, Goblin, or Orc.
+This relatively young race was created by a cabal of wizards who needed nimble and skilled construct servants to do their dirty work. This cabal was interested in creating magical machines, so they built their tools to be small, agile, and clever. Over time, the cabal pushed the limits too far and created minions with free will, and these first wyrwoods began to question why they were involved in their masters' petty intrigues. When the wizards forced the wyrwoods to fight each other as proxies for the wizards themselves, the constructs instead killed their creators and stole the notes on how to create more of their kind, allowing them to perpetuate their race. Wyrwoods are secretive and somewhat xenophobic, and can seem cold and calculating to others-a trait that could earn respect or enmity, depending on the audience. Purely rational and unemotional, wyrwoods see the survival of their race as their primary goal. Even the rare wyrwood who understands the point of empathy and altruism sees such concepts as mere tools to help ensure its own survival or that of its people. All wyrwoods know how to create more of their kind, and they keep the details of their construction process secret from other creatures to make sure their race is never again enslaved. Most wyrwoods are wizards or rogues. The few who are inclined to worship tend to revere lawful deities with strict codes of behavior, which they follow to the letter rather than the spirit.
+
+## Characters
+
+Wyrwood characters are defined by their class levels-they do not possess racial Hit Dice. All wyrwoods have the following racial traits.  +2 Dexterity, +2 Intelligence, -2 Charisma: Wyrwoods are quick and calculating. As constructs, wyrwoods do not have a Constitution score. Normal Speed: Wyrwoods have a base speed of 30 feet.  Small: Wyrwoods are Small creatures and gain a +1 size bonus on attack rolls, a -1 penalty on combat maneuver checks and to combat maneuver defense, a +2 bonus on Fly checks, and a +4 size bonus on Stealth checks.  Darkvision 60 ft.: Wyrwoods can see in the dark up to 60 feet.  Low-Light Vision: Wyrwoods have low-light vision.  Languages: Wyrwoods speak Common. A wyrwood with a high Intelligence score can choose from the following: Draconic, Dwarven, Elven, Gnome, Goblin, or Orc.

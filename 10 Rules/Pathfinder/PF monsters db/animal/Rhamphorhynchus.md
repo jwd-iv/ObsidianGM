@@ -3,11 +3,12 @@ File: Rhamphorhynchus
 aliases:
 Copyright:
   Content: "[PFRPG Ultimate Wilderness](https://www.d20pfsrd.com/bestiary/monster-listings/animals/pterosaur/pterosaur-rhamphorhynchus/)"
+  Image: "Ariel Orea (deviantArt) via *[The Dinosaur Database](https://dinosaurpictures.org/Rhamphorhynchus-pictures)*"
 
 # brief
 Brief      : This creature looks like a cross between a bird and a reptile, sporting leathery wings, a beak filled with needlelike teeth, and a long tail ending in a diamond-shaped vane.
 CR         : 1/3
-Image      : 
+Image      : https://images.dinosaurpictures.org/rhamphorhynchus_by_ariel_orea-d54w27n_efb6.jpg
 XP         : 135
 Alignment  : N
 Size       : Tiny
