@@ -1,0 +1,41 @@
+---
+File: Brand Of Conformity
+School: transmutation
+Subschool: 
+Aspects: [ curseUM ]
+ClassList: { inquisitor: 1 }
+CastTime: 1 round
+Range: touch
+Area: 
+Effect: 
+Targets: creature touched
+Duration: 1 day/level
+Dismissible: 
+Shapeable: 
+SavingThrow: Fortitude negates
+SR: yes
+Components:
+  V: yes
+  S: yes
+  M: 
+  F: 
+  DF: yes
+Deity: 
+SLALevel: 1
+Domains: 
+GPCost: 
+Bloodline: 
+Patron: 
+MythicDescription: 
+Augment: 
+Mythic: 
+Haunt: 
+Ruse: 
+Draconic: 
+Meditative: 
+Copyright:
+  Content: "Adventurer's Guide"
+---
+Brief:: 
+
+This spell etches the symbol of a nation, organization, or order on the target, dealing 1 point of damage. The mark can be placed on any exposed portion of the creature, typically the head or forearm. While branded in this way, the recipient loses the ability to speak or understand its racial language and the language of its homeland or primary culture (if these are different). For example, an elf raised among the Shoanti would lose Elven and Shoanti (if she knew both those languages), while a halfling raised among dwarves would lose both Halfling and Dwarven (if she knew both those languages). A gnome raised among gnomes would lose Gnome, but no other language. This spell never suppresses Common or Undercommon, nor does it prevent spellcasting, though it may prevent a target from speaking intelligibly if it suppresses all of the target's languages. A brand of conformity can be hidden beneath clothing or removed by scraping it away (the latter deals 1d6 points of damage, though the brand returns if that damage is healed). In any event, the language-suppression element of a brand of conformity continues to function even when hidden or scraped away.

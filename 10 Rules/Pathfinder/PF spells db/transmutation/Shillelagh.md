@@ -1,0 +1,41 @@
+---
+File: Shillelagh
+School: transmutation
+Subschool: 
+Aspects: 
+ClassList: { druid: 1 }
+CastTime: standard action
+Range: touch
+Area: 
+Effect: 
+Targets: one touched nonmagical oak club or quarterstaff
+Duration: 1 min./level
+Dismissible: 
+Shapeable: 
+SavingThrow: Will negates (object)
+SR: yes (object)
+Components:
+  V: yes
+  S: yes
+  M: 
+  F: 
+  DF: yes
+Deity: 
+SLALevel: 1
+Domains: 
+GPCost: 
+Bloodline: 
+Patron: 
+MythicDescription: 
+Augment: 
+Mythic: 
+Haunt: 
+Ruse: 
+Draconic: 
+Meditative: 
+Copyright:
+  Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shillelagh)"
+---
+Brief:: Cudgel or quarterstaff becomes +1 weapon (2d6 damage) for 1 min./level.
+
+Your own nonmagical club or quarterstaff becomes a weapon with a +1 enhancement bonus on attack and damage rolls. A quarterstaff gains this enhancement for both ends of the weapon. It deals damage as if it were two size categories larger (a Small club or quarterstaff so transmuted deals 1d8 points of damage, a Medium 2d6, and a Large 3d6), +1 for its enhancement bonus. These effects only occur when the weapon is wielded by you. If you do not wield it, the weapon behaves as if unaffected by this spell.

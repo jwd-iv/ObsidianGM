@@ -1,0 +1,41 @@
+---
+File: Command Undead
+School: necromancy
+Subschool: 
+Aspects: 
+ClassList: { sorcerer: 2, wizard: 2 }
+CastTime: standard action
+Range: close (25 + 5 ft./2 levels)
+Area: 
+Effect: 
+Targets: one undead creature
+Duration: 1 day/level
+Dismissible: 
+Shapeable: 
+SavingThrow: Will negates; see text
+SR: yes
+Components:
+  V: yes
+  S: yes
+  M: a shred of raw meat and a splinter of bone
+  F: 
+  DF: 
+Deity: 
+SLALevel: 2
+Domains: { Inevitable: 3 }
+GPCost: 
+Bloodline: 
+Patron: { Occult: 4, Plague: 4 }
+MythicDescription: 
+Augment: 
+Mythic: 
+Haunt: 
+Ruse: 
+Draconic: 
+Meditative: 
+Copyright:
+  Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/command-undead)"
+---
+Brief:: Undead creature obeys your commands.
+
+This spell allows you a degree of control over an undead creature. If the subject is intelligent, it perceives your words and actions favorably (treat its attitude as friendly). It will not attack you while the spell lasts. You can give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do. Retries are not allowed. An intelligent commanded undead never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing.  A nonintelligent undead creature gets no saving throw against this spell. When you control a mindless being, you can communicate only basic commands, such as "come here," "go there," "fight," "stand still," and so on. Nonintelligent undead won't resist suicidal or obviously harmful orders.  Any act by you or your apparent allies that threatens the commanded undead (regardless of its Intelligence) breaks the spell.  Your commands are not telepathic. The undead creature must be able to hear you.

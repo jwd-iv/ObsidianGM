@@ -1,0 +1,41 @@
+---
+File: Summon Ceustodaemon
+School: conjuration
+Subschool: summoning
+Aspects: [ evil ]
+ClassList: { cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, summoner: 4, unchained summoner: 4, witch: 5 }
+CastTime: 1 round
+Range: close (25 + 5 ft./2 levels)
+Area: 
+Effect: one summoned creature
+Targets: 
+Duration: 1 round/level (D)
+Dismissible: yes
+Shapeable: 
+SavingThrow: none
+SR: no
+Components:
+  V: yes
+  S: yes
+  M: 
+  F: 
+  DF: 
+Deity: 
+SLALevel: 5
+Domains: 
+GPCost: 
+Bloodline: 
+Patron: 
+MythicDescription: 
+Augment: 
+Mythic: 
+Haunt: 
+Ruse: 
+Draconic: 
+Meditative: 
+Copyright:
+  Content: "Horsemen Of The Apocalypse"
+---
+Brief:: 
+
+This spell functions like summon monster, except it summons a single ceustodaemon.

@@ -1,0 +1,41 @@
+---
+File: Ether Step
+School: transmutation
+Subschool: 
+Aspects: 
+ClassList: { magus: 5, sorcerer: 6, wizard: 6, summoner: 5 }
+CastTime: immediate action
+Range: personal
+Area: 
+Effect: 
+Targets: you
+Duration: see text
+Dismissible: 
+Shapeable: 
+SavingThrow: 
+SR: 
+Components:
+  V: 
+  S: yes
+  M: 
+  F: 
+  DF: 
+Deity: 
+SLALevel: 6
+Domains: 
+GPCost: 
+Bloodline: 
+Patron: 
+MythicDescription: 
+Augment: 
+Mythic: 
+Haunt: 
+Ruse: 
+Draconic: 
+Meditative: 
+Copyright:
+  Content: "Planar Adventures"
+---
+Brief:: Step briefly into the Ethereal Plane to avoid attacks and dangers that would otherwise harm you.
+
+You step into the Ethereal Plane long enough to dodge a blow or confound a spell; you must cast ether step after you are targeted by an attack or effect but before you learn the results of the attack or effect. This spell functions as ethereal jaunt, except that you become ethereal until the beginning of your next turn. On the turn after you cast this spell and return to your starting point, you can take only move actions or free actions.
