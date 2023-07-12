@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: one dragon
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates

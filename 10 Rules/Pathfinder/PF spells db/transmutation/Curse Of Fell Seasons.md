@@ -9,7 +9,7 @@ Range: touch
 Area: 2-mile radius emanating from the touched point
 Effect: 
 Targets: 
-Duration: permanent (D)
+Duration: permanent
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

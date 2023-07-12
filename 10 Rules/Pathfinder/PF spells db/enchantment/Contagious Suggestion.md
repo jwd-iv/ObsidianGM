@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: one living creature
-Duration: 1 hour/level or until completed (D)
+Duration: 1 hour/level or until completed
 Dismissible: yes
 Shapeable: 
 SavingThrow: 

@@ -9,7 +9,7 @@ Range: 20 ft.
 Area: 
 Effect: cloud spreads in 20-ft. radius, 20 ft. high
 Targets: 
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will partial (see text)

@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: 
 Targets: any number of creatures in a 30-ft.-radius burst
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

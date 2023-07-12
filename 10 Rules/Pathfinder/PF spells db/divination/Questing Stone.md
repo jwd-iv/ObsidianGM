@@ -9,7 +9,7 @@ Range: touch and unlimited
 Area: 
 Effect: 
 Targets: one ioun stone touched
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

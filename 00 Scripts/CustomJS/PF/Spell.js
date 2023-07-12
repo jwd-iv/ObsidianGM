@@ -140,6 +140,7 @@ class Spell
 
 		print(items([
 			lineItem("Duration", data("Duration"))
+				+ parenthetical(!!data("Dismissible") ? 'D' : '')
 		]))
 
 		print(items([

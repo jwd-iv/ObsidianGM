@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 10-ft.-radius emanation centered on the touched creature's space
 Effect: 
 Targets: any number of creatures, no two of which can be more than 180 ft. apart
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

@@ -9,7 +9,7 @@ Range: 300 ft.
 Area: 
 Effect: 
 Targets: all creatures within a 300-ft.-radius burst centered on you
-Duration: concentration + 1 round/level (D)
+Duration: concentration + 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

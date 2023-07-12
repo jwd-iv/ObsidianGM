@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: several living creatures, no two of which may be more than 30 ft. apart
 Effect: 
 Targets: 
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

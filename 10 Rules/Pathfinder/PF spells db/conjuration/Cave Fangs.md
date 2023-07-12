@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. square/level; the area must be a stone surface
 Effect: 
 Targets: 
-Duration: 1 day/level or until triggered (D)
+Duration: 1 day/level or until triggered
 Dismissible: yes
 Shapeable: yes
 SavingThrow: Reflex half (see below)

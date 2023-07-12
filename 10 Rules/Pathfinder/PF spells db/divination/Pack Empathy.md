@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: you plus one willing living creature per 3 levels, no two of which can be more than 30 ft. apart
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

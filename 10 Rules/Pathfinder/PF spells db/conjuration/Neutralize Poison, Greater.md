@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: creature or object of up to 1 cu. ft./level touched
-Duration: instantaneous or 1 hour/level (D)
+Duration: instantaneous or 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless, object)

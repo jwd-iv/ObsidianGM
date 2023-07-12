@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: up to one touched object per level weighing up to 5 lbs. each
-Duration: 1 round/level or until discharged (D)
+Duration: 1 round/level or until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: none (object)

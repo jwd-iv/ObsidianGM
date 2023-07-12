@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: 
 Targets: unattended Gargantuan or smaller object (minimum Tiny) or construct
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: None

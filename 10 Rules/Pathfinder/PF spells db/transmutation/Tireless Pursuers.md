@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: you plus one touched creature/3 levels
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates (harmless)

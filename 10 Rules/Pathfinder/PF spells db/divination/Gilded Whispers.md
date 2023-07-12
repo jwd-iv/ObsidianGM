@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: a gold or platinum coin
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (object)

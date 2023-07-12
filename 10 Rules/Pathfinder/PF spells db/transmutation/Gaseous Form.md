@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: willing corporeal creature touched
-Duration: 2 min./level (D)
+Duration: 2 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

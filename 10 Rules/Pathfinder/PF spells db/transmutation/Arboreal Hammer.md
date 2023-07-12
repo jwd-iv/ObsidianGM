@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: 
 Targets: one Huge or larger tree
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

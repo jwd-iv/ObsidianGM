@@ -9,7 +9,7 @@ Range: 30 ft.
 Area: The caster and all allies within a 30-ft.-radius burst, centered on the caster
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

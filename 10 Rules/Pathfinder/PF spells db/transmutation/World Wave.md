@@ -9,7 +9,7 @@ Range: see text
 Area: 
 Effect: see text
 Targets: 
-Duration: 1 round/level or 1 hour/level; see text (D)
+Duration: 1 round/level or 1 hour/level; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

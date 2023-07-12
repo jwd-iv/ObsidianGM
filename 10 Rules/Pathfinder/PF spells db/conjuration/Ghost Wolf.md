@@ -9,7 +9,7 @@ Range: 0 ft.
 Area: 
 Effect: 
 Targets: one quasi-real wolflike creature
-Duration: 1 hour/level (D) or 1 round/level; see text
+Duration: 1 hour/level or 1 round/level; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: none (see description)

@@ -9,7 +9,7 @@ Range: touch
 Area: 5-mile radius emanating from the touched point
 Effect: 
 Targets: 
-Duration: 1 day (D)
+Duration: 1 day
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

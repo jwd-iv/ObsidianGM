@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 60-ft. radius
 Effect: 
 Targets: 
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates and Reflex half, see text

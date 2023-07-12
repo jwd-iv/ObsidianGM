@@ -9,7 +9,7 @@ Range: touch
 Area: corporeal undead touched; see text
 Effect: 
 Targets: 
-Duration: permanent until discharged (D)
+Duration: permanent until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

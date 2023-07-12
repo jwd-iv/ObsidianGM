@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: cylinder of water (5-ft. radius/level, 30 ft. deep)
 Effect: 
 Targets: 
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none (see text)

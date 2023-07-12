@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: one 20-ft. square/level
 Effect: 
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex partial

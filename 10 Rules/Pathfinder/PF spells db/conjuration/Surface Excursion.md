@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: you plus up to one willing creature per 3 levels
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

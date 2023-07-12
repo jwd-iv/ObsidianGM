@@ -9,7 +9,7 @@ Range: personal or 5 ft.; see text
 Area: 
 Effect: 
 Targets: you or all creatures within 5 ft.; see text
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will half

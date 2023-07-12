@@ -9,7 +9,7 @@ Range:
 Area: 
 Effect: 
 Targets: one creature per level, no two of which can be more than 30 ft. apart
-Duration: concentration, up to 1 min./level (D)
+Duration: concentration, up to 1 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates; see text

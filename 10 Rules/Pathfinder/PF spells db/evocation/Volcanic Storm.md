@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: cylinder (20-ft. radius, 40 ft. high)
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: sandstorm in 20-ft. radius, 20 ft. high
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

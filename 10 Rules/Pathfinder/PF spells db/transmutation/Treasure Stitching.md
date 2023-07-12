@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: all objects on cloth
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates (object)

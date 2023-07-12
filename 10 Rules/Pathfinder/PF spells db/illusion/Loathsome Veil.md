@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: transparent pattern 40 ft. long, 20 ft. high
 Targets: 
-Duration: concentration + 1 round/level (D)
+Duration: concentration + 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

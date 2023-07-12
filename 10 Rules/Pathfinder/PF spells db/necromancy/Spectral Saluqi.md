@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: one spectral dog
 Targets: 
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

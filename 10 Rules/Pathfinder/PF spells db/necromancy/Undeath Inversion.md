@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: one undead creature
-Duration: 1 round/level (D); see text
+Duration: 1 round/level; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates; see text

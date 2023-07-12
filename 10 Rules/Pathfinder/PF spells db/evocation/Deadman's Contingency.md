@@ -9,7 +9,7 @@ Range: personal
 Area: 
 Effect: 
 Targets: you
-Duration: up to 1 hour/level plus 1d6 rounds (D); see text
+Duration: up to 1 hour/level plus 1d6 rounds; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: 

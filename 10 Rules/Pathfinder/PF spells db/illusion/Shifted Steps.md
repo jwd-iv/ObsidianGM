@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: one creature or object up to 10 feet across
-Duration: concentration + 1 round/level (D)
+Duration: concentration + 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless) and Will disbelief (if interacted with); see text

@@ -9,7 +9,7 @@ Range: personal (see text)
 Area: 
 Effect: 
 Targets: you and one animal companion within 30 ft.
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: 

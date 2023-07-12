@@ -9,7 +9,7 @@ Range: 10 ft.
 Area: 
 Effect: 10-ft.-radius sphere centered on you
 Targets: 
-Duration: 10 min./level (D)
+Duration: 10 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: see text

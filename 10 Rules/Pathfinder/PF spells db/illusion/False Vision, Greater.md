@@ -9,7 +9,7 @@ Range: see text
 Area: 
 Effect: 
 Targets: one creature
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

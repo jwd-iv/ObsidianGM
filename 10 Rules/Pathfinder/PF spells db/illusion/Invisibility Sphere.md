@@ -9,7 +9,7 @@ Range:
 Area: 10-ft.-radius emanation around the creature
 Effect: 
 Targets: 
-Duration: 1 min./level (D)
+Duration: 1 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

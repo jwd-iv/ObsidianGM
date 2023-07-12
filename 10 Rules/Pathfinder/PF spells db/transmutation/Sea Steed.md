@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: a creature you are mounted upon
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

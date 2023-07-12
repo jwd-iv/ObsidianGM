@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 5-ft.-radius emanation centered on a point in space
 Effect: 
 Targets: 
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

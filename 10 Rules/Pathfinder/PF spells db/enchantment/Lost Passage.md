@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: one 30-ft. cube/level
 Effect: 
 Targets: 
-Duration: 2 hours/level (D)
+Duration: 2 hours/level
 Dismissible: yes
 Shapeable: yes
 SavingThrow: Will partial

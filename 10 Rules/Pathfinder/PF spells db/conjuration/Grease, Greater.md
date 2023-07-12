@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: 
 Targets: one object/2 levels or 1 10-ft. square/2 levels; see text
-Duration: 1 min./level (D)
+Duration: 1 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: see text

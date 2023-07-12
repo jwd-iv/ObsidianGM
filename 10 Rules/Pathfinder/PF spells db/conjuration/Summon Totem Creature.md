@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: one summoned creature
 Targets: 
-Duration: 1 hour (D)
+Duration: 1 hour
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

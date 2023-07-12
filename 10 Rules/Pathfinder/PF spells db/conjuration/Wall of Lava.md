@@ -8,7 +8,7 @@ CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: up to one 5-ft. square/level
 Effect: lava wall
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: yes
 SavingThrow: see text

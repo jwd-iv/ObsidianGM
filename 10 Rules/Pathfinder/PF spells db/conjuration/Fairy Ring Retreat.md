@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: extradimensional meadow, up to three 10-ft. cubes/level (S)
 Targets: 
-Duration: 2 hours/level (D)
+Duration: 2 hours/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

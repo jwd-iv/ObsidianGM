@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels) or long (400 + 40 ft./level); see text
 Area: one 10-ft. cube/level
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: yes
 SavingThrow: Will disbelief (if interacted with)

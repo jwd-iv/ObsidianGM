@@ -9,7 +9,7 @@ Range: 1 mile/level
 Area: 
 Effect: 
 Targets: up to one creature/level within 180 feet
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

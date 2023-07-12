@@ -9,7 +9,7 @@ Range:
 Area: 
 Effect: 
 Targets: 1 creature
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none (see below)

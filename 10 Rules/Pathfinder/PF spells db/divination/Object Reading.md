@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one touched object
-Duration: concentration, up to 1 round per level (D)
+Duration: concentration, up to 1 round per level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

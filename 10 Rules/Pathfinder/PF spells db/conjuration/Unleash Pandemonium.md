@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 30-foot-radius spread
 Effect: 
 Targets: 
-Duration: concentration (maximum 1 round/level) +1 round (D)
+Duration: concentration (maximum 1 round/level) +1 round
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will partial; see text

@@ -9,7 +9,7 @@ Range: 0 ft.
 Area: 
 Effect: illusory, unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
 Targets: 
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

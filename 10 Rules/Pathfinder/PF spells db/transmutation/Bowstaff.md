@@ -9,7 +9,7 @@ Range: personal
 Area: 
 Effect: 
 Targets: one weapon (bow)
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless, object)

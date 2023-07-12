@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: object touched
-Duration: 1 hour/level or until discharged (D)
+Duration: 1 hour/level or until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates (object)

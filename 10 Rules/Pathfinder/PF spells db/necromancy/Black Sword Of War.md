@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: piercing or slashing manufactured weapon touched
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless, object)

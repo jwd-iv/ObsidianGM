@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one creature
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

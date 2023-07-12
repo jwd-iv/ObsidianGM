@@ -9,7 +9,7 @@ Range:
 Area: 20-ft.-radius emanation centered on you
 Effect: 
 Targets: 
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

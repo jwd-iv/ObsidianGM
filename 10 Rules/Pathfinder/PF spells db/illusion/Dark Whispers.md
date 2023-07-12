@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 
 Effect: 
 Targets: one creature/level
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

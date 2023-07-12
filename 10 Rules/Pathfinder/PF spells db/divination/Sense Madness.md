@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: creatures in range (see text)
-Duration: concentration, up to 1 round/level (D)
+Duration: concentration, up to 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

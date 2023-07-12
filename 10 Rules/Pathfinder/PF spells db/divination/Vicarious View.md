@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: magical sensor
 Targets: 
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (object)

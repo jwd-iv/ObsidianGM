@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: object touched
-Duration: 10 min./level (D)
+Duration: 10 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: Tiny or smaller object touched
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates (object)

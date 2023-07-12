@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 
 Effect: trail of lily pads behind you
 Targets: 
-Duration: 10 minutes/level (D); see text
+Duration: 10 minutes/level; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

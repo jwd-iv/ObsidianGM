@@ -9,7 +9,7 @@ Range: see description
 Area: 
 Effect: one animal whose CR is equal or less than your caster level
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

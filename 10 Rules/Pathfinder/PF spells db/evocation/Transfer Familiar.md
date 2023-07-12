@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: your familiar and one willing creature
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

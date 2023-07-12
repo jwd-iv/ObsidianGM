@@ -9,7 +9,7 @@ Range: unlimited (see text)
 Area: 
 Effect: 
 Targets: two living creatures
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (see text)

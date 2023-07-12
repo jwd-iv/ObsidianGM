@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 20-ft. spread
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex negates; see text

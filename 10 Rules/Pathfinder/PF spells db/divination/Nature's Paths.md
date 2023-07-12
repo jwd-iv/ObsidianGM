@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one creature
-Duration: 8 hours (D)
+Duration: 8 hours
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

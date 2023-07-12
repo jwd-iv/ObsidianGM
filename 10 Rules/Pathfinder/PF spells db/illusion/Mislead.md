@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: one illusory double
 Targets: you
-Duration: 1 round/level (D) and concentration + 3 rounds; see text
+Duration: 1 round/level and concentration + 3 rounds; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: none or Will disbelief (if interacted with); see text

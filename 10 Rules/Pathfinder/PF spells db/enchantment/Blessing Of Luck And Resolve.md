@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one living creature touched
-Duration: 1 minute/level (D), special see below
+Duration: 1 minute/level, special see below
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: one creature
-Duration: 2 days/level (D)
+Duration: 2 days/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates

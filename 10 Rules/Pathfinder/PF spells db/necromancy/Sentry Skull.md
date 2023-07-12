@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: severed head touched
-Duration: permanent (D); see text
+Duration: permanent; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

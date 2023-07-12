@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: webs in a 20-ft.-radius spread
 Targets: 
-Duration: 10 min./level (D)
+Duration: 10 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex negates; see text

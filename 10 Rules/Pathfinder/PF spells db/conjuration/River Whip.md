@@ -9,7 +9,7 @@ Range: 0 ft.
 Area: 
 Effect: whip of water
 Targets: 
-Duration: 1 minute/level (D) or until discharged (see text)
+Duration: 1 minute/level or until discharged (see text)
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

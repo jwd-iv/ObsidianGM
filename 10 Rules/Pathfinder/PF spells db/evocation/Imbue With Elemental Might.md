@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: creature touched; see text
-Duration: 24 hours or until discharged (D)
+Duration: 24 hours or until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

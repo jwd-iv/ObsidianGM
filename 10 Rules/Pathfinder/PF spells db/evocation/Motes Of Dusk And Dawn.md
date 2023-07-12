@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: Up to four motes, all within a 10-ft.-radius area
 Targets: 
-Duration: 1 minute (D)
+Duration: 1 minute
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

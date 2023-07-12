@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 
 Effect: opulent mansion, up to 300 feet on a side and one story tall/4 levels
 Targets: 
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

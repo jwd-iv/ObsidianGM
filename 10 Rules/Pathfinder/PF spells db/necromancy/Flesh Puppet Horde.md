@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one or more corpses touched
-Duration: permanent (D)
+Duration: permanent
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

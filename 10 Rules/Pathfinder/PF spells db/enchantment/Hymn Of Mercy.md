@@ -9,7 +9,7 @@ Range: 30 ft.
 Area: 30-ft.-radius burst centered on you
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

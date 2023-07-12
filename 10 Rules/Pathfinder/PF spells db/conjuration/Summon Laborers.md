@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: one summoned petitioner/caster level
 Targets: 
-Duration: 8 hours (D)
+Duration: 8 hours
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

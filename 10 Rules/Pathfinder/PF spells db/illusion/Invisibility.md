@@ -9,7 +9,7 @@ Range: personal or touch
 Area: 
 Effect: 
 Targets: you or a creature or object weighing no more than 100 lbs./level
-Duration: 1 min./level (D)
+Duration: 1 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless) or Will negates (harmless, object)

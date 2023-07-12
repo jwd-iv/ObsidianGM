@@ -9,7 +9,7 @@ Range: personal
 Area: 
 Effect: 
 Targets: you
-Duration: 10 minutes/level or until discharged (D)
+Duration: 10 minutes/level or until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: 

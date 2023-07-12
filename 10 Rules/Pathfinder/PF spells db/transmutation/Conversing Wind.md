@@ -9,7 +9,7 @@ Range: 1 mile/level
 Area: 10-ft.-radius spread
 Effect: 
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

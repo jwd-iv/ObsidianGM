@@ -9,7 +9,7 @@ Range: 60 ft.
 Area: cone-shaped emanation
 Effect: 
 Targets: 
-Duration: concentration, up to 1 min./level (D)
+Duration: concentration, up to 1 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates; see text

@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: 
 Targets: one willing living creature per 3 levels, no two of which can be more than 30 ft. apart
-Duration: concentration + 1 round/level (D)
+Duration: concentration + 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

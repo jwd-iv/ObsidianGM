@@ -9,7 +9,7 @@ Range: 10 ft.
 Area: 
 Effect: one quasi-real, humanlike creature
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

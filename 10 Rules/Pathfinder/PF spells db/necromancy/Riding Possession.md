@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: 
 Targets: one creature
-Duration: 1 hour/level (D); see text
+Duration: 1 hour/level; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

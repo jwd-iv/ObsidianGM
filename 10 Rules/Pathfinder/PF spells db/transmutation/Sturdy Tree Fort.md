@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: one large tree and a sturdy wooden house
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

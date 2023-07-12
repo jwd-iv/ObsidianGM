@@ -9,7 +9,7 @@ Range: personal
 Area: 
 Effect: lance of light
 Targets: 
-Duration: 1 round + 1 round/level (D)
+Duration: 1 round + 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: 

@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: 
 Targets: one creature per three levels, no two of which may be more than 30 ft. apart
-Duration: concentration + 1 round/level (D)
+Duration: concentration + 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates (see text)

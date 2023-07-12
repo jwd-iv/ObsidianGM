@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 
 Effect: whirlpool 50 ft. deep, 30 ft. wide at top, and 5 ft. wide at base
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex negates, see text

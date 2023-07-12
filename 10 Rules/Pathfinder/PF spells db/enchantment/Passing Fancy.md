@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: one living creature
-Duration: 4d4 rounds (D)
+Duration: 4d4 rounds
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

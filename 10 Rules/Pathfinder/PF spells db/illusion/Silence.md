@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 20-ft.-radius emanation centered on a creature, object, or point in space
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates; see text or none (object)

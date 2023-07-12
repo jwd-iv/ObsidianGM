@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one ropelike object, length up to 50 ft. + 5 ft./level
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates (object)

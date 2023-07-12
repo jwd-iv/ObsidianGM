@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one 5-foot square of touched earth
-Duration: 2 hours/level (D)
+Duration: 2 hours/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

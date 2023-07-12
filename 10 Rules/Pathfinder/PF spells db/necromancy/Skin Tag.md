@@ -9,7 +9,7 @@ Range: touch (object); 1 mile (remote effects)
 Area: 
 Effect: 
 Targets: 1 beverage or piece of food touched
-Duration: 1 day plus 1 day/level (D)
+Duration: 1 day plus 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none (object), Fortitude negates; see text

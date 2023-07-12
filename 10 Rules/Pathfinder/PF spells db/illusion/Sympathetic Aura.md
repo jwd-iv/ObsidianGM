@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one touched object weighing up to 5 lbs./level
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none (see text)

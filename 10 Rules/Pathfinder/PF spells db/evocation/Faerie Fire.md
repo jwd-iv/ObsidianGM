@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: creatures and objects within a 5-ft.-radius burst
 Effect: 
 Targets: 
-Duration: 1 min./level (D)
+Duration: 1 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

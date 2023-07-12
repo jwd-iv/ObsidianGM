@@ -9,7 +9,7 @@ Range: 60 ft.
 Area: 60-ft. line-shaped emanation from you
 Effect: 
 Targets: 
-Duration: 1 min./level (D)
+Duration: 1 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

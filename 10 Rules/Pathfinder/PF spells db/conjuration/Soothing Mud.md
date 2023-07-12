@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: dust, earth, sand, or water in one 5-ft. square/level
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

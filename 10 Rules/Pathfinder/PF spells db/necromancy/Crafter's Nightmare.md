@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. cube/level
 Effect: 
 Targets: 
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: yes
 SavingThrow: Will negates

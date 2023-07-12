@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: one willing creature
-Duration: 1 minute/level (D) or until discharged
+Duration: 1 minute/level or until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

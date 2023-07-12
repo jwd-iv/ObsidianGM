@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one building
-Duration: see text (D)
+Duration: see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: your animal companion
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

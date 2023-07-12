@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one improvised weapon
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless, object)

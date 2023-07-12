@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: up to one 5-ft. square/level
 Effect: a wall of corpses
 Targets: 
-Duration: concentration + 1 round/level (D)
+Duration: concentration + 1 round/level
 Dismissible: yes
 Shapeable: yes
 SavingThrow: none

@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one willing animal companion, familiar, or spirit animal
-Duration: 8 hours (D)
+Duration: 8 hours
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fort negates (harmless)

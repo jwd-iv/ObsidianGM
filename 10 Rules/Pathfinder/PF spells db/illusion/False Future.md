@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: creature or object touched
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates or Will disbelief (see text)

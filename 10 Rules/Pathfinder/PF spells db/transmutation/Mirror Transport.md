@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one mirror
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: yes (object)

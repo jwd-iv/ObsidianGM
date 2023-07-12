@@ -9,7 +9,7 @@ Range: 1 mile/level
 Area: one 1-mile cube/level
 Effect: 
 Targets: 
-Duration: 2 hours/level (D)
+Duration: 2 hours/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will partial

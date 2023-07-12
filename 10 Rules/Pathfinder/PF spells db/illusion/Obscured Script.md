@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one touched page, scroll, inscription, book, or other document no more than 3 feet in any dimension
-Duration: 24 hours (D)
+Duration: 24 hours
 Dismissible: yes
 Shapeable: 
 SavingThrow: none; see text

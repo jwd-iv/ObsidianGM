@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: one cylinder (10-ft. radius, 40-ft. high)/3 levels
 Targets: 
-Duration: concentration +1 round/level (D)
+Duration: concentration +1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

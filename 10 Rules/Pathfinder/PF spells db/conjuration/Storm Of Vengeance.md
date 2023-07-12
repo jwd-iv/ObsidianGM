@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 
 Effect: 360-ft.-radius storm cloud
 Targets: 
-Duration: concentration (maximum 10 rounds) (D)
+Duration: concentration (maximum 10 rounds)
 Dismissible: yes
 Shapeable: 
 SavingThrow: see text

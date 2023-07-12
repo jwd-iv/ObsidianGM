@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: plants in a 40-ft.-radius spread
 Effect: 
 Targets: 
-Duration: 1 min./level (D)
+Duration: 1 min./level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex partial (see text)

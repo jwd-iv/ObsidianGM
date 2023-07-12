@@ -9,7 +9,7 @@ Range: personal
 Area: 
 Effect: 
 Targets: you
-Duration: 1 round + 1 round/3 levels (D)
+Duration: 1 round + 1 round/3 levels
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

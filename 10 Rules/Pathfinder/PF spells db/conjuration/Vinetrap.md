@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: radius spread of up to 10 ft./level, 90 ft. high
 Effect: 
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex negates (see text)

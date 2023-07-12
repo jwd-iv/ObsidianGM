@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 
 Effect: 
 Targets: one creature
-Duration: permanent (D)
+Duration: permanent
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will disbelief

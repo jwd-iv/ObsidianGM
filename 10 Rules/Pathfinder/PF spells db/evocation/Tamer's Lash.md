@@ -9,7 +9,7 @@ Range: 0 ft.
 Area: 
 Effect: a whip of magical sound
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will partial (see text)

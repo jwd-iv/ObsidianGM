@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: a shadowy shadow tether
 Targets: creature touched
-Duration: 1 round/level (D); see text
+Duration: 1 round/level; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

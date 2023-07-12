@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: willing wayang touched
-Duration: 24 hours (D)
+Duration: 24 hours
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

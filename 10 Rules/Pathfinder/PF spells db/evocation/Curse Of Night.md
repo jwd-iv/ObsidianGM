@@ -9,7 +9,7 @@ Range: touch
 Area: 1-mile radius emanating from the touched point
 Effect: 
 Targets: 
-Duration: permanent (D)
+Duration: permanent
 Dismissible: yes
 Shapeable: 
 SavingThrow: none (see curse text)

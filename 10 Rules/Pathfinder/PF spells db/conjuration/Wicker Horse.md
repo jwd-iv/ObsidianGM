@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: a horselike wicker construct
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

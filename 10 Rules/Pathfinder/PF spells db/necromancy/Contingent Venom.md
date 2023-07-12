@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one dose of poison or one venomous creature
-Duration: permanent until discharged (D)
+Duration: permanent until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates

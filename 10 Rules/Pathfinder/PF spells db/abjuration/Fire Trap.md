@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: object touched
-Duration: permanent until discharged (D)
+Duration: permanent until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex half; see text

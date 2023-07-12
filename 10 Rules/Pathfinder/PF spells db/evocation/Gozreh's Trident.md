@@ -9,7 +9,7 @@ Range: 0 ft.
 Area: 
 Effect: trident-like bolt of electricity
 Targets: 
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 
 Effect: one or more summoned elementals
 Targets: 
-Duration: 1 round/2 levels (D)
+Duration: 1 round/2 levels
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

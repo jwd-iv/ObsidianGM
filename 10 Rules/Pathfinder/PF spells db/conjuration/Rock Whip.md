@@ -9,7 +9,7 @@ Range: 0 ft.
 Area: 
 Effect: whip of earth and stone
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 
 Targets: 5 cubic feet of earth or mud
-Duration: 1 hour/level (D) (see text)
+Duration: 1 hour/level (see text)
 Dismissible: yes
 Shapeable: 
 SavingThrow: 

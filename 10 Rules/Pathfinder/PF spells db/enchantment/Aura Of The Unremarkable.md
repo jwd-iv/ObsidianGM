@@ -9,7 +9,7 @@ Range: 30 ft.
 Area: 
 Effect: 
 Targets: non-allied creatures within a 30-ft. emanation
-Duration: 1 minute/level (D) and instantaneous
+Duration: 1 minute/level and instantaneous
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

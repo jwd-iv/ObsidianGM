@@ -9,7 +9,7 @@ Range: touch
 Area: object touched or up to 5 sq. ft./level
 Effect: 
 Targets: object touched or up to 5 sq. ft./level
-Duration: permanent until discharged (D)
+Duration: permanent until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: see text

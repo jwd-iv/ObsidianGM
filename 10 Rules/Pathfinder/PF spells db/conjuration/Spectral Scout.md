@@ -9,7 +9,7 @@ Range: 1 mile
 Area: 
 Effect: one incorporeal animal of size Tiny or smaller
 Targets: 
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

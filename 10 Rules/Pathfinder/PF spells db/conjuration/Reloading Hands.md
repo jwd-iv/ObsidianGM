@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: projectile weapon touched
-Duration: 1 round/caster level (D)
+Duration: 1 round/caster level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (object, harmless)

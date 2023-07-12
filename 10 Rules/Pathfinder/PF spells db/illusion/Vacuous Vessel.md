@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: container touched
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates; see text

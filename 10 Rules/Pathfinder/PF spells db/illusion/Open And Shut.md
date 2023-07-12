@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one door, window, or similar portal no more than 10 feet by 10 feet in area
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will disbelief

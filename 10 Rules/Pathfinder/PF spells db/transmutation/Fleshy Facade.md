@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: corporeal undead creature touched
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: yes (harmless)

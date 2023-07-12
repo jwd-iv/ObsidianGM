@@ -9,7 +9,7 @@ Range: 0 ft.
 Area: 
 Effect: one quasi-real, horselike creature
 Targets: 
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

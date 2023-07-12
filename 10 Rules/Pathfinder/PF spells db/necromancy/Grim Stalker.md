@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one object touched
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (object); see text

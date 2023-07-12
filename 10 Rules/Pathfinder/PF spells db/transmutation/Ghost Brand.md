@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one willing creature and one object touched
-Duration: 1 day/level (D)
+Duration: 1 day/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

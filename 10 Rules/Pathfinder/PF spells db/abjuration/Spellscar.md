@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: two 10-ft. cubes per level
 Effect: 
 Targets: 
-Duration: 10 minutes/level (D)
+Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: yes
 SavingThrow: 

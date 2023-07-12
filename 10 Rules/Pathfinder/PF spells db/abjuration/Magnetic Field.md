@@ -9,7 +9,7 @@ Range: 30 ft.
 Area: 30-ft.-radius emanation
 Effect: 
 Targets: 
-Duration: 1 round/2 levels (D)
+Duration: 1 round/2 levels
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex negates (object; see text)

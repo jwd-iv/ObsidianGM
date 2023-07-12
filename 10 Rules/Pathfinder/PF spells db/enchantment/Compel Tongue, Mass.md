@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
-Duration: 1 hour/level (D)
+Duration: 1 hour/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

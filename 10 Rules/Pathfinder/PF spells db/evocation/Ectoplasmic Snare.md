@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: entangling web of ectoplasm
 Targets: 
-Duration: concentration, up to 1 round/level (D)
+Duration: concentration, up to 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex partial; see text

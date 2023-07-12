@@ -9,7 +9,7 @@ Range: medium (100 + 10 ft./level)
 Area: 
 Effect: 
 Targets: one creature/level
-Duration: 10 minutes/level, then 1 hour/level or until completed (D); see text
+Duration: 10 minutes/level, then 1 hour/level or until completed; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (see text)

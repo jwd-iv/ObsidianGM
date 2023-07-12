@@ -9,7 +9,7 @@ Range: personal
 Area: 
 Effect: 
 Targets: you
-Duration: 24 hours (D)
+Duration: 24 hours
 Dismissible: yes
 Shapeable: 
 SavingThrow: 

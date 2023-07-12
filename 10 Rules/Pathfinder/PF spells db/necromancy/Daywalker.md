@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: undead creature touched
-Duration: 24 hours (D)
+Duration: 24 hours
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

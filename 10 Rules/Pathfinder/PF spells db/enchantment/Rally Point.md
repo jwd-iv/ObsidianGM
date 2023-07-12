@@ -9,7 +9,7 @@ Range: 5 ft.
 Area: one 5-ft. square
 Effect: 
 Targets: 
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates (harmless)

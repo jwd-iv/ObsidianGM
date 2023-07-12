@@ -9,7 +9,7 @@ Range:
 Area: 
 Effect: 
 Targets: one or more Medium creatures/level, no two of which can be more than 30 ft. apart
-Duration: 1 minute/level (D)
+Duration: 1 minute/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none (see text)

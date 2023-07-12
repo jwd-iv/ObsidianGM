@@ -9,7 +9,7 @@ Range: touch
 Area: immobile 10-ft.-radius emanation
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

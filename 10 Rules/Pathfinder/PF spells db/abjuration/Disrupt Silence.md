@@ -9,7 +9,7 @@ Range: touch
 Area: 10-ft.-radius emanation centered on a creature, object, or point in space
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will negates

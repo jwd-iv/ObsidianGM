@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: one touched object weighing no more than 10 lbs.
-Duration: permanent until discharged (D)
+Duration: permanent until discharged
 Dismissible: yes
 Shapeable: 
 SavingThrow: Reflex partial

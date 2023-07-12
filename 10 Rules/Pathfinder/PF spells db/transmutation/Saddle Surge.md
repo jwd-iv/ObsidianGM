@@ -9,7 +9,7 @@ Range: personal
 Area: 
 Effect: 
 Targets: you and your mount
-Duration: 1 round/level (D); see text
+Duration: 1 round/level; see text
 Dismissible: yes
 Shapeable: 
 SavingThrow: 

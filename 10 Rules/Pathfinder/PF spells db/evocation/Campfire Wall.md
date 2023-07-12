@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: 
 Effect: 20-ft.-radius sphere centered on fire source
 Targets: 
-Duration: 2 hours/level; see below (D)
+Duration: 2 hours/level; see below
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

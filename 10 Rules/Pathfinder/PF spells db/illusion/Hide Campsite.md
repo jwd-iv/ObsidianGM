@@ -9,7 +9,7 @@ Range: close (25 + 5 ft./2 levels)
 Area: one 20-ft. cube
 Effect: 
 Targets: 
-Duration: 2 hours/level (D)
+Duration: 2 hours/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will disbelief (if interacted with)

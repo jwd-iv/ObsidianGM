@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: solid surface touched
-Duration: concentration, up to 1 round/level (D)
+Duration: concentration, up to 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

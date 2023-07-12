@@ -9,7 +9,7 @@ Range: personal
 Area: 20-foot-radius spread
 Effect: 
 Targets: 
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: Fortitude negates (harmless)

@@ -9,7 +9,7 @@ Range: touch
 Area: 
 Effect: 
 Targets: your familiar
-Duration: 1 round/level (D)
+Duration: 1 round/level
 Dismissible: yes
 Shapeable: 
 SavingThrow: none

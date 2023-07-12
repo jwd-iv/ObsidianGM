@@ -9,7 +9,7 @@ Range: long (400 + 40 ft./level)
 Area: 
 Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
-Duration: concentration + 3 rounds (D)
+Duration: concentration + 3 rounds
 Dismissible: yes
 Shapeable: 
 SavingThrow: Will disbelief
