@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Possess and animate one object.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as magic jar, except you transfer your mind to a single object, animating it as if using animate objects, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.

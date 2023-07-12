@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as tailwind except it creates a helpful current in water instead of in the air. It grants free movement while swimming rather than while flying and functions only underwater.

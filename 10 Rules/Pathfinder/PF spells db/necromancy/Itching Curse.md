@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You curse the target with a distracting, unbearable itch. Unless the target scratches as a move action, it takes a -1 penalty on attack rolls, saving throws, skill checks, and ability checks.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like summon monster, except it summons a single derghodaemon.

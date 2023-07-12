@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Touch deals 1d6 damage/2 levels; caster gains damage as temporary hp.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You must succeed on a melee touch attack. Your touch deals 1d6 points of damage per two caster levels (maximum 10d6). You gain temporary hit points equal to the damage you deal. You can't gain more than the subject's current hit points + the subject's Constitution score (which is enough to kill the subject). The temporary hit points disappear 1 hour later.
 
 

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As silent image, plus some sound.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like silent image, except that minor image includes some minor sounds but not understandable speech.

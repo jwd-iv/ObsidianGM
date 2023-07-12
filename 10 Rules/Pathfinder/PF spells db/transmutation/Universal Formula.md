@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Acts as any extract 3rd level or lower.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 As you ingest this extract, it transforms into the appropriate extract for any formula you know of 3rd level or lower and takes effect immediately. If the chosen formula has an expensive material component, it must be provided along with the component for this formula. You may not create an infused extract with this formula.

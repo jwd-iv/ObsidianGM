@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject's Int and Cha drop to 1.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Target creature's Intelligence and Charisma scores each drop to 1. The affected creature is unable to use Intelligence- or Charismabased skills, cast spells, understand language, or communicate coherently. Still, it knows who its friends are and can follow them and even protect them. The subject remains in this state until a heal, limited wish, miracle, or wish spell is used to cancel the of the feeblemind. A creature that can cast arcane spells, such as a sorcerer or a wizard, takes a -4 penalty on its saving throw.

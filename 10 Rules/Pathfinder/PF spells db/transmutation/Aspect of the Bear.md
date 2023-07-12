@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: +2 AC and combat maneuver rolls.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You take on an aspect of a bear. You gain a +2 enhancement bonus to natural armor and a +2 enhancement bonus on CMB rolls. You can also perform bull rush, grapple, and overrun combat maneuvers without provoking attacks of opportunity.

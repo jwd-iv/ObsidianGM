@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You awaken an unnatural hunger in the target, compelling it to fall upon a nearby helpless or dead humanoid creature and begin eating its flesh. The target defends itself normally but takes no other actions while eating. The target does not take extraordinary risks to satisfy this urge (it wouldn't jump over a pit or swim through lava to reach a suitable victim). If the target can't fulfill this urge on its next turn, the spell fails. Each round on its turn, the target can attempt a new saving throw to end the effect.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fortify your allies against attempts to control or mislead them. Each ally in the spell's range gains a +4 insight bonus on the saving throw to resist the next enchantment or illusion spell cast on it. In addition, the DC of any Bluff, Diplomacy, Disguise, or Intimidate check to influence an affected character increases by 4 for the duration of the spell.

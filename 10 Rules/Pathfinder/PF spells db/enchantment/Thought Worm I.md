@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You implant a minor suggestion within the target creature's psyche that makes it less inclined to resist mental intrusion. The target creature takes a -2 penalty on Will saves against all mind-affecting spells and effects for the duration of the spell.

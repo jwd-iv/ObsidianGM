@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Make it seem like another is responsible for your attacks while concealing your own actions.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as illusion of treachery except that it also conceals your own actions (as illusion of calmUC) and renders invisible all spell effects and ranged attacks originating from you until they reach the attack's target (this doesn't cause the attack's target to be unable to avoid the attack, as they still see the attack originating from the spell's target).

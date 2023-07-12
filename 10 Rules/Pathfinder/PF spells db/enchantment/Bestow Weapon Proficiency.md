@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grants a creature proficiency in a single weapon for short period of time.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You bestow the subject with the ability to use a single type of weapon he is not proficient in as if he were proficient with that weapon. The weapon can be of any type, including an exotic weapon, but the subject of the spell must be holding the weapon.

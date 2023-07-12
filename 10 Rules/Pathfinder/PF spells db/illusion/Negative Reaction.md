@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Targeted creature may not positively influence anyone.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's actions and words fail to impress. The target of this spell takes a -10 penalty on any Bluff, Diplomacy, and Intimidate checks as well as any performance combat checks it attempts.

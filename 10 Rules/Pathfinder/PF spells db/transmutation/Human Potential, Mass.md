@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like human potential, except it affects multiple creatures. Each target can choose a different ability score to be enhanced by this spell.

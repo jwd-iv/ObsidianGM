@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Fog deals acid damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Acid fog creates a billowing mass of misty vapors like the solid fog spell. In addition to slowing down creatures and obscuring sight, this spell's vapors are highly acidic. Each round on your turn, starting when you cast the spell, the fog deals 2d6 points of acid damage to each creature and object within it.

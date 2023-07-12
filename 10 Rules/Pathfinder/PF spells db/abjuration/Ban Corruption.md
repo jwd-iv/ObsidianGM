@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Eliminate the gifts of nearby corrupted creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You strip all creatures within the emanation of any gifts associated with corruptions (see page 14). Abilities associated with corruptions cease to function, as if they were magically dispelled. The corruption stains still fully affect creatures. A creature that enters the emanation and fails its saving throw loses its gifts until the spell's duration ends, even if it leaves the emanation, but a successful saving throw renders a creature immune to the spell, even if it enters and exits the emanation several times.

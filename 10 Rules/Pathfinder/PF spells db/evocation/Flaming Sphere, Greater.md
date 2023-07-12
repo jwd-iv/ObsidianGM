@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Rolling ball of fire deals 6d6 fire damage and ignites targets.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as flaming sphere, except that it deals 6d6 points of fire damage to any creature it strikes.  Any creature that fails its save against the sphere catches on fire (see page 444 of the Core Rulebook). If a creature catches on fire, the DC to extinguish the flames is equal to the DC of this spell.

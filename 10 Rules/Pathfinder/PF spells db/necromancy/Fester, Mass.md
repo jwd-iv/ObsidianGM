@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As fester, but affecting multiple targets.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as fester, except that it affects multiple foes.

@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Summon a black pudding.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You summon a black pudding (Bestiary 35) that immediately attacks creatures near it. You have no control over the creature, and it may attack you if there are no more obvious opponents. The black pudding is treated as a summoned creature and has the extraplanar subtype. The black pudding's split ability works normally, but all puddings derived from the summoned one disappear when the spell ends.
 
 

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Several targets become fatigued.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Waves of negative energy render all living creatures in the spell's area fatigued. This spell has no effect on a creature that is already fatigued.

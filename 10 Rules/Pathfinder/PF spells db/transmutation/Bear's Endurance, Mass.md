@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As bear’s endurance, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Mass bear's endurance works like bear's endurance, except that it affects multiple creatures.

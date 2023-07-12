@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As hold person, but all within 30 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like hold person, except as noted above.

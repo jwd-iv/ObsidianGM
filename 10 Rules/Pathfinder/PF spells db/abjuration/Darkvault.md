@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You ward an area's shadows such that light cannot penetrate them. The illumination level in the affected area no longer changes when nonmagical light enters it. Any magical effect must succeed at a caster level check (DC = 10 + your caster level) in order to change the light level within the spell's radius. Darkvault has no effect on spells or effects that would make the spell's area darker.  The spell must be cast on an area, such as a cave or room. A spellcaster of 11th level or higher can make darkvault permanent with a permanency spell, at a cost of 7,500 gp.

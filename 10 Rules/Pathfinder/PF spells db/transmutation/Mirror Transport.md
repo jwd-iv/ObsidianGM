@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Mirror becomes a multiple-use dimension door.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as mirror hideaway, except any creature that enters the target mirror can spend a swift action to exit through another mirror within 500 feet as if using dimension door; this is a one-way transport. The creature can exit through a mirror only if it could fit through an opening the same size as the mirror. Each transport through the target mirror reduces the spell's duration by 1 hour.

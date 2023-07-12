@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grant your mount angelic wings.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target sprouts angelic wings and gains a fly speed equal to its base speed with average maneuverability. It also gains a bonus on Fly checks equal to your caster level.

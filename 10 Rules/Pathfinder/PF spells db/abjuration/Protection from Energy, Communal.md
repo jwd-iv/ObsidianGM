@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As protection from energy, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like protection from energy, except you divide the duration in 10-minute intervals among the creatures touched. Once the spell absorbs 12 points of energy damage per caster level (maximum 120 points) for a subject, the spell's effects end for that subject.

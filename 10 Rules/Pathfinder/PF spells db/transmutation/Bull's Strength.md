@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gains +4 to Str for 1 min./level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject becomes stronger. The spell grants a +4 enhancement bonus to Strength, adding the usual benefits to melee attack rolls, melee damage rolls, and other uses of the Strength modifier.

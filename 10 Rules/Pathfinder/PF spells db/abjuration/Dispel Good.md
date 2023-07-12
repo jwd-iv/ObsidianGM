@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: +4 against attacks by good creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like dispel evil, except that you are surrounded by dark, wavering unholy energy, and the spell affects good creatures and spells rather than evil ones.

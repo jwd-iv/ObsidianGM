@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Infects subject with chosen disease.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject contracts one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom. The disease is contracted immediately (the onset period does not apply). Use the disease's listed frequency and save DC to determine further effects. For more information on these diseases, see page 557.
 
 

@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: One subject/level takes only one action/round, –1 to AC, Reflex saves, and attack rolls.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 An affected creature moves and attacks at a drastically slowed rate. Creatures affected by this spell are staggered and can take only a single move action or standard action each turn, but not both (nor may it take full-round actions). Additionally, it takes a -1 penalty on attack rolls, AC, and Reflex saves. A slowed creature moves at half its normal speed (round down to the next 5-foot increment), which affects the creature's jumping distance as normal for decreased speed.  Multiple slow effects don't stack. Slow counters and dispels haste.
 
 

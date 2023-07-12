@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like the spell completion option of trap the soul, except it works only on bodiless souls (such as incorporeal undead or a soul trapped in a gem) and creatures whose substance is a physical incarnation of a soul (such as a petitioner). It does not work on creatures formed from souls or planar material (such as most outsiders). Soul transfer is mainly used to transfer souls from one receptacle to another, but it can also be used to capture vulnerable souls that aren't bound to mortal flesh (such as incorporeal creatures and petitioners). When used to capture a petitioner, the petitioner's physical body vanishes, reappearing only when its soul is released from the receptacle.

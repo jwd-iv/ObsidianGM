@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Limited astral travel.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as astral projection, except you cannot leave the Astral Plane and explore other planes (though you can still return to the plane you were on when you cast this spell).

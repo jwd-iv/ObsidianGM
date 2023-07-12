@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As thought shield I, but +6 on Will saves.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as thought shield I, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be undercast.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like heroism, except the creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).

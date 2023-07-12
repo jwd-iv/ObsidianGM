@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As flare, but on all creatures within 10 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as flare, except it affects all creatures in a 10-foot-radius burst from the target point.

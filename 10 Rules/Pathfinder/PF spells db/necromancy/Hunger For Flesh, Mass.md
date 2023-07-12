@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Give creatures bite attacks and a hunger for their own kind’s flesh.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like hunger for flesh, except that it affects multiple targets. When forced to feed by the spell, affected creatures attack creatures not affected by this spell if there are any such appropriate creatures nearby, but otherwise they attack other affected creatures.

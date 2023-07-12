@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Plant a scrying sensor that you can use to spy on a creature, object, or location.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You plant a scrying sensor on a touched creature, object, or point in space, allowing you to see and hear the creature, object, or point and its surroundings (approximately 10 feet in all directions). If the creature or object on moves, the sensor moves with it. Unlike other scrying spells, vicarious view doesn't allow magically or supernaturally enhanced senses to work through it.

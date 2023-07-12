@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With a beckoning gesture, you call forth a downpour of rain. For the duration of the spell, the following effects apply within the affected area. Nonmagical fires are automatically extinguished, and all creatures and objects in the area gain fire resistance 5. The conjured water is conductive, and whenever a doused creature takes electricity damage, it takes 1 additional point of electricity damage. At 6th, 12th, and 18th levels, the fire resistance increases by 5 and the additional electricity damage increases by 1 point.

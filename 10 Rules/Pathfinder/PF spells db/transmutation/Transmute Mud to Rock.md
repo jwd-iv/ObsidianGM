@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Transforms two 10-ft. cubes per level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell permanently transforms normal mud or quicksand of any depth into soft stone (sandstone or a similar mineral).  Any creature in the mud is allowed a Reflex save to escape before the area is hardened to stone.  Transmute mud to rock counters and dispels transmute rock to mud.

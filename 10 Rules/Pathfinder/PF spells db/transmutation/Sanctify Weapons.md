@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell originated among the armies of Heaven. Choose a specific subtype of evil outsider when you cast this spell, such as daemon, demon, devil, or div. All manufactured weapons in the area of effect bypass the DR of that type of outsider. The weapons do not become aligned or change composition.

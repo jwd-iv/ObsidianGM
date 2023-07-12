@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You can communicate with animals.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can ask questions of and receive answers from animals, but the spell doesn't make them any more friendly than normal. Wary and cunning animals are likely to be terse and evasive, while the more stupid ones make inane comments. If an animal is friendly toward you, it may do some favor or service for you.

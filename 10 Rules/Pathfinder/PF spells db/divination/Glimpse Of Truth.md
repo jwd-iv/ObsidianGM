@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gain true seeing for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like true seeing, except as noted above.

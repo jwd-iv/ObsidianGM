@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Useful primarily to those who skulk in the darkness, this spell is a temporary trap for the unwary. You create an immobile wall of tiny black blades that whirl and tear into creatures like a cyclone.  Anyone who enters this space takes 1d4 points of damage per caster level (maximum 10d4), though a successful Reflex save halves the damage. The spell cannot be cast so that it appears in a space already occupied by Small or larger creatures.

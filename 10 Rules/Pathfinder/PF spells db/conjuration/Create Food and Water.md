@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Feeds three humans (or one horse)/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The food that this spell creates is simple fare of your choice--highly nourishing, if rather bland. Food so created decays and becomes inedible after 24 hours, although it can be kept fresh for another 24 hours by casting a purify food and water spell on it. The water created by this spell is just like clean rain water, and it doesn't go bad as the food does.

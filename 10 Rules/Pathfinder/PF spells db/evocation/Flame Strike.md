@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Smites foes with divine fire (1d6/level damage).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A flame strike evokes a vertical column of divine fire. The spell deals 1d6 points of damage per caster level (maximum 15d6). Half the damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance to fire-based attacks.
 
 

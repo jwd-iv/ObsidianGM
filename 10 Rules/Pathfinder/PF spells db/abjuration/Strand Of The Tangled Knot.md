@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You mimic tugging at the Green Mother's legendary Tangled Knot to subtly alter your fate. The next single attack made against you takes a -10 penalty. If that attack is a critical hit, it is instead treated as a normal hit.

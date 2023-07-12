@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As shield other, but affecting your companion creature.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell creates a special mystical connection between you and your companion creature-animal companion, bonded mount, eidolon, or familiar-which allows you to transfer its wounds to you. The creature gains a +1 deflection bonus to AC and a +1 resistance bonus on saves.  As an immediate action when your companion takes damage, you can take that damage yourself to prevent your companion from being harmed (similar to shield other, except the damage is not split between you and the target). Forms of harm that do not involve the loss of hit points, such as charm effects, temporary ability damage, level drain, and death effects, are not affected. If the creature suffers a reduction of hit points from a lowered Constitution score, you cannot take that damage on behalf of your companion creature because it is not hit point damage. When the spell ends, damage directed to you by the spell is not reassigned to the subject.  If you and your companion move out of range of each other, the spell ends.

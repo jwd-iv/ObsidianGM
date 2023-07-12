@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Resist harmful effects of other plane.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Planar adaptation grants you immunity to the harmful environmental effects of a particular plane of existence, including such hazards as toxicity, extreme temperatures, and lack of air. Additionally, you gain energy resistance 20 to a single energy type prevalent on that plane (choose one if more than one type is equally prevalent). Planar adaptation has no when cast upon your native plane.

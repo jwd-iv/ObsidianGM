@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ward a container with summoned vipers.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You set a magical ward upon the object touched, which must be a container such as a pouch, bag, backpack, or pocket. If any creature opens the container without first speaking a command word, 1d3 summoned venomous snakes (Pathfinder RPG Bestiary 255) appear, slithering out of the container and attacking that creature for 1 round/level before disappearing. They attack other creatures only if they themselves are attacked.

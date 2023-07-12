@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Makes one animal your friend.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like charm person, except that it affects a creature of the animal type.

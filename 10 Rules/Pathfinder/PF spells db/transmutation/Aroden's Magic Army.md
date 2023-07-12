@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You imbue all manufactured weapons carried by allies within range with magic, granting each weapon a +1 enhancement bonus on attack rolls and damage rolls per 5 caster levels (maximum +4).

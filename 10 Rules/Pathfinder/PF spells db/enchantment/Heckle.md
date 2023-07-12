@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You badger and nitpick the subject of your spell until its mood sours. The target's attitude shifts one category toward hostile regarding you and everyone within 30 feet of the target at the time the spell is cast. The target also takes a -2 penalty on attack rolls, on saving throws, and on ability and skill checks that rely on Intelligence, Wisdom, or Charisma.

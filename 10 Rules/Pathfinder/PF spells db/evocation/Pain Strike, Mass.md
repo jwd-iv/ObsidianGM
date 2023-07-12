@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As pain, but affects multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell works like pain strike, except as noted above.

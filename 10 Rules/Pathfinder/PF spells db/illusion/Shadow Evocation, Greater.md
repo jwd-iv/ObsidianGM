@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As shadow evocation, but up to 7th level and 60% real.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like shadow evocation, except that it enables you to create partially real, illusory versions of sorcerer or wizard evocation spells of 7th level or lower. If recognized as a greater shadow evocation, a damaging spell deals only three-fifths (60%) damage.

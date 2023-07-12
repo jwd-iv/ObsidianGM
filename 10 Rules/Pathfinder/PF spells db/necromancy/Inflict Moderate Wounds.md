@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Touch attack, 2d8 damage +1/level (max +10).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like inflict light wounds, except that you deal 2d8 points of damage + 1 point per caster level (maximum +10).
 
 

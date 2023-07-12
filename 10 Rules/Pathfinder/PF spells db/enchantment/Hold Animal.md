@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Paralyzes one animal for 1 round/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like hold person, except that it affects an animal instead of a humanoid.

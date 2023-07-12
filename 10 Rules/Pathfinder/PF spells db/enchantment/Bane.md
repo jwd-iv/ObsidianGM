@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Enemies take –1 on attack rolls and saves vs. fear.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Bane fills your enemies with fear and doubt. Each affected creature takes a -1 penalty on attack rolls and a -1 penalty on saving throws against fear effects. Bane counters and dispels bless.
 
 

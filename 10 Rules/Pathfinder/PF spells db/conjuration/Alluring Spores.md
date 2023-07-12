@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell creates a burst of spores that weaken the mind. Creatures within the area must succeed at a Fortitude save or take a -1 penalty on saving throws against your enchantment spells or effects for the duration of this spell. This penalty increases to -2 for any creature that is (or could be) sexually attracted to you.

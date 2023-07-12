@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 All targets are rendered silent, as per silence. The silence affects the entirety of each creature but does not extend beyond. However, the silence is one-way-sounds from outside the creatures' spaces can still enter. Quieted creatures gain a +10 circumstance bonus on Stealth checks.

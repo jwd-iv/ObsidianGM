@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Suppress emotion and fear effects in a 20-ft. radius as an immediate action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Using the power of pure logic, you disrupt mental attacks. Intellect fortress I suppresses all effects with the emotion and fear descriptors for its duration.

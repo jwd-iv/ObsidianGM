@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Trip multiple creatures within range.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as thunderstomp, except as noted. It allows you target multiple creatures with this spell, including creatures more than one size category larger than you. When you attempt the combat maneuver check, apply its result to each creature within the area.

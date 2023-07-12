@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As alter self, but you can change the shape as a swift action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as alter self, except you can as a swift action alter the disguise (within the limitations of alter self).  For example, you could transform yourself into a halfling, then a lizardfolk, then an elf, and so on. You can change your form a number of times equal to your caster level.

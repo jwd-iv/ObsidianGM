@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Reveals creatures, spells, or objects of selected alignment.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like detect evil, except that it detects the auras of lawful creatures, clerics of lawful deities, lawful spells, and lawful magic items, and you are vulnerable to an overwhelming lawful aura if you are chaotic.

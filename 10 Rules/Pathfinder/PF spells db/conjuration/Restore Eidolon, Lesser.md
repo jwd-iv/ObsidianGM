@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Lesser restoration for an eidolon.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as lesser restoration, except it only affects an eidolon.

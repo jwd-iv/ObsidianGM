@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target is treated as a favored enemy type of your choice.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With this spell you designate the target as your favored enemy for the remainder of its duration. Select one of your favored enemy types. For the duration of the spell, you treat the target as if it were that type of favored enemy for all purposes.

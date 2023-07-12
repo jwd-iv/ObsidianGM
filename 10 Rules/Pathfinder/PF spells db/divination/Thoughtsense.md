@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Automatically detect nearby conscious creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You automatically detect and locate conscious creatures within 60 feet, as if you possessed the blindsight ability. Nondetection, mind blank, and similar effects can block this effect. Thoughtsense can distinguish between sentient (Intelligence 3 or greater) and non-sentient (Intelligence 1-2) creatures, but otherwise provides no information about the creatures it detects.

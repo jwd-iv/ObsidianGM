@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as life current except you infuse the current with negative energy, so it heals undead and harms living creatures.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Frees object or person from curse.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Remove curse can remove all curses on an object or a creature. If the target is a creature, you must make a caster level check (1d20 + caster level) against the DC of each curse affecting the target.  Success means that the curse is removed. Remove curse does not remove the curse from a cursed shield, weapon, or suit of armor, although a successful caster level check enables the creature afflicted with any such cursed item to remove and get rid of it.  Remove curse counters and dispels bestow curse.

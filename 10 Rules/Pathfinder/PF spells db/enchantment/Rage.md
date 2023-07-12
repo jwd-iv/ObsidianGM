@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a -2 penalty to AC. The effect is otherwise identical with a barbarian's rage except that the subjects aren't fatigued at the end of the rage.

@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Gives +2 on attack rolls, saves, skill checks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell imbues a single creature with great bravery and morale in battle. The target gains a +2 morale bonus on attack rolls, saves, and skill checks.
 
 

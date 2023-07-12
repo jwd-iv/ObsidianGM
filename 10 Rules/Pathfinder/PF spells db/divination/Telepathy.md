@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Communicate mentally with creatures within 100 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can mentally communicate with any other creature within 100 feet that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as speaking and listening to multiple people simultaneously.

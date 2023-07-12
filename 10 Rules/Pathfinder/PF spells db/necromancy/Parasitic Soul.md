@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like magic jar except as noted above, and instead of your own soul, you can transfer a trapped soul (such as one trapped in a soul gem or trapped with soul bind or trap the soul) from the receptacle into an unwilling target's body. If the target creature fails its saving throw, it dies and the trapped soul in the receptacle permanently inhabits the body as if using magic jar. The trapped soul does not get a saving throw to resist this transfer. To dismiss the spell, you must be within range of the possessed body.

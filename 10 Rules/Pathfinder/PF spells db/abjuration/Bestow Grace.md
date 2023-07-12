@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gains bonus on saving throws equal to Cha modifier.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With this spell you can bestow your divine grace on another good creature for a short amount of time, infusing that creature with a portion of your holy virtue. When you touch the subject, you grant that creature a sacred bonus to its saving throws equal to its Charisma bonus (if any) on all saving throws.

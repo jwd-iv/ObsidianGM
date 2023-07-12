@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gains +4 to Cha for 1 min./level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The transmuted creature becomes more poised, articulate, and personally forceful. The spell grants a +4 enhancement bonus to Charisma, adding the usual benefits to Charisma-based skill checks and other uses of the Charisma modifier. Bards, paladins, and sorcerers (and other spellcasters who rely on Charisma) affected by this spell do not gain any additional bonus spells for the increased Charisma, but the save DCs for spells they cast while under this spell's effect do increase.

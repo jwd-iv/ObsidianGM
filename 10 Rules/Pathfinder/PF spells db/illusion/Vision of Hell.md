@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Illusory hellscape makes creatures shaken.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You overlay a realistic illusion of a terrifying hellscape upon an area. Structures, equipment, and creatures within the area are not hidden, though environmental features take on an infernal appearance. While you are prepared for these images and are not affected by them, any other creature within the area must make a Will save or become shaken and also take a -2 penalty on saves versus fear effects; the fear and penalty persists as long as the creature remains in the area. Devils and any lawful evil creatures suffer no negative effects from this spell.

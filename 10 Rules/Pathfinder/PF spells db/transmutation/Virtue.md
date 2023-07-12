@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gains 1 temporary hp.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With a touch, you infuse a creature with a tiny surge of life, granting the subject 1 temporary hit point.

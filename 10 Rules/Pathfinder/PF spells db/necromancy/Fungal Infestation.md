@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target takes bleed from attacks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You coat the target in necrotic fungus that makes its flesh soft and fragile. Toadstools, ringworm, and other disgusting fungal growths sprout from its skin. The target takes 1d3 points of Charisma damage. Any physical attack against the target automatically adds 1d6 points of bleed damage.

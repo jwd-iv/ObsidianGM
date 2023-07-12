@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The mythic power cost for all path abilities, feats, spells, and other effects used by the target increases by 1.

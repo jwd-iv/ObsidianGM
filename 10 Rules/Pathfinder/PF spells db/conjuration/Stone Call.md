@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 2d6 damage to all creatures in area.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A rain of dirt, gravel, and small pebbles fills the area, dealing 2d6 points of bludgeoning damage to every creature in the area. This damage only occurs once, when the spell is cast.  For the remaining duration of the spell, this debris covers the ground, making the entire area difficult terrain. At the end of the duration, the rocks disappear, leaving no aftereffects (other than the damage dealt).

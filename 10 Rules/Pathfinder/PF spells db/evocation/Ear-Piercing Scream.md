@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Deal sonic damage and daze target.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You unleash a powerful scream, inaudible to all but a single target. The target is dazed for 1 round and takes 1d6 points of sonic damage per two caster levels (maximum 5d6). A successful save negates the daze effect and halves the damage.
 
 

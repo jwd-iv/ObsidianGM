@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Treat the terrain you are in as a favored terrain for the spell's duration.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You call upon the spirits of nature to help you adapt to your environment. You treat the terrain you are in as your most favored terrain until this spell ends.  If you do not have the favored terrain class feature, you gain no benefit from this spell.

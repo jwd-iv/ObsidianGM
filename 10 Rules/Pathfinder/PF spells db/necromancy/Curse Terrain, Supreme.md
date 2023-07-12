@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Curse an area with seven deadly hazards.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 By touching the ground, you curse the land with seven unnatural hazards. This functions as lesser curse terrain, but with the effects of the grand perilous demesne curse (see page 144).

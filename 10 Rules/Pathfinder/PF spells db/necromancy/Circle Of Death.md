@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Kills 1d4/level HD of creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Circle of death snuffs out the life force of living creatures, killing them instantly. The spell slays 1d4 HD worth of living creatures per caster level (maximum 20d4). Creatures with the fewest HD are affected first; among creatures with equal HD, those who are closest to the burst's point of origin are affected first. No creature of 9 or more HD can be affected, and HD that are not sufficient to affect a creature are wasted.
 
 

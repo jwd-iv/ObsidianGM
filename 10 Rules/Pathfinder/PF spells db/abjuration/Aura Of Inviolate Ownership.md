@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell wards the attended items of all creatures it targets (items held, securely fastened to their person, or in containers on their person), enhancing each creature's grip and protecting items from loss or theft. The DC of Sleight of Hand checks to remove items warded by the spell is increased by 20, and affected creatures gain a +20 bonus to their CMDs against disarm and steal combat maneuvers.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Allies cured 2d6 damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You must have a bardic performance in effect to cast this spell.  With a flourish, you immediately end your bardic performance, and allies within the area of the spell regain 2d6 hit points. This spell has no effect on undead creatures.

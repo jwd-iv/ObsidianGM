@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You curse the target with the inability to sell, barter, or give away any item it owns, other than ordinary currency, for as long as the spell remains in effect. The target cannot sell, trade, drop, or give away possessions. The target can purchase items using ordinary currency but can't then sell the purchased items. The target can accept gifts from others but can't offer anything in exchange. A curse of keeping can be ended by break enchantment, limited wish, remove curse, miracle, or wish. Dispel magic does not affect a curse of keeping.

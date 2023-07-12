@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You instill courage in the subject, granting it a +4 morale bonus against fear effects for 10 minutes. If the subject is under the influence of a fear effect when receiving the spell, that effect is suppressed for the duration of the spell.  Remove fear counters and dispels cause fear.

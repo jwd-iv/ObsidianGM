@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Makes monster believe it is your ally.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like charm person, except that the effect is not restricted by creature type or size.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Single target cannot make attacks of opportunity for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With a litany against the wages of sloth, you slow the target's defenses. The target cannot make attacks of opportunity or cast spells defensively.  While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

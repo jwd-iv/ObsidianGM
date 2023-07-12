@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Compels opponents to attack you instead of your allies.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Whenever a creature you can see that threatens you makes an attack against one of your allies, as an immediate action, you can compel that creature to attack you instead. When you compel a creature to attack you, you must first overcome that creature's spell resistance, and the creature can attempt a Will saving throw to ignore the compulsion.  A summoner casting this spell can choose his eidolon as the target of the spell.

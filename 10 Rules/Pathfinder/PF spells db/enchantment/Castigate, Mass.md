@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As castigate, but affects multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as castigate, except it affects many creatures.

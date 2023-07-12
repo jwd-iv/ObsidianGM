@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You infuse a weapon with faint but pernicious energy that stymies accelerated healing. Damage dealt by the weapon or ammunition is treated as acid, cold, electricity, and fire, but only for the purpose of negating a creature's regeneration. The weapon is also treated as silver and cold iron at 8th level and is treated as chaotic, evil, good, and lawful at 11th level for the purpose of negating regeneration.

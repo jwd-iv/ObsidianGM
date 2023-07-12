@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Conceals alignment for 24 hours.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 An undetectable alignment spell conceals the alignment of an object or a creature from all forms of divination.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Communicate a great deal of information in an instant.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You link your mind to that of a touched creature to swiftly communicate a large amount of complex information in an instant. You decide what the target learns, limited to any amount of information that otherwise could be communicated in 10 minutes. This information comes in a series of visual images and emotional sensations, and isn't language-dependent.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grants a teamwork feat you have.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Choose a single teamwork feat that you possess. You forge a link with your allies, allowing them to gain the benefits of the chosen feat even if they do not have it themselves. You must be a part of the group qualifying for a given bonus for your allies to gain the benefits. For example, two of your allies flanking an orc would gain no benefit from your Outflank feat, but an ally flanking the orc with you would. Your allies' positioning and actions must still meet the prerequisites listed in the teamwork feat for either of you to receive the listed bonus.

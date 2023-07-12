@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: +4 bonus against attacks by chaotic creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like dispel evil, except that you are surrounded by constant, blue lawful energy, and the spell affects chaotic creatures and spells rather than evil ones.

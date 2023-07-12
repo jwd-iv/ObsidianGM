@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: +5 Perception and Sense Motive 10 min./level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your senses become preternaturally keen, and you gain insight into subtle behavioral cues. For the duration of the spell, you receive a +5 competence bonus on Perception and Sense Motive checks.

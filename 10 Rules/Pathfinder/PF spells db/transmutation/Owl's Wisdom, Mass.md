@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As owl’s wisdom, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like owl's wisdom, except that it affects multiple creatures.

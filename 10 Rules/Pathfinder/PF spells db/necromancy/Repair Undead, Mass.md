@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Heals undead of 1d8 hp + 1/level; affects 1 undead/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as repair undead, except as noted above, and it cures 1d8 points of damage + 1 point per caster level (maximum +20) on each selected creature.

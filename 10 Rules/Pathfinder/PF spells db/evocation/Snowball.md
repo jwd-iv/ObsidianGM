@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Throw a conjured ball of snow at a target.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You throw a ball of elemental ice and snow at a single target as a ranged touch attack. The snowball deals 1d6 points of cold damage per caster level you have (maximum 5d6).

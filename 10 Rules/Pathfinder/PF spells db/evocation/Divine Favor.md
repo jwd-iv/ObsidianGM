@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: You gain +1 per three levels on attack and damage rolls.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +3). The bonus doesn't apply to spell damage.
 
 

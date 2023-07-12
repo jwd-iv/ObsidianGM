@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can cast this spell as an immediate action when you fail a Climb check and would fall. You can immediately attempt another Climb check as a free action at a -2 penalty. Each successive use of this spell in a particular situation increases the penalty by 2. If successful, you don't fall, but you don't progress at climbing.

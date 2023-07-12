@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Summons swarm of bats, rats, or spiders.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You summon a swarm of bats, rats, or spiders (your choice), which attacks all other creatures within its area. (You may summon the swarm so that it shares the area of other creatures.) If no living creatures are within its area, the swarm attacks or pursues the nearest creature as best it can. The caster has no control over its target or direction of travel.
 
 

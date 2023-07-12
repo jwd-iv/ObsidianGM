@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Cures 1d8 damage + 1/level, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You channel positive energy to cure 1d8 points of damage + 1 point per caster level (maximum +25) on each selected creature. Like other cure spells, mass cure light wounds deals damage to undead in its area rather than curing them. Each affected undead may attempt a Will save for half damage.

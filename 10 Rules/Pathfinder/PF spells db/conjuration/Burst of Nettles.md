@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Burst deals 3d6 damage and 1d6 acid.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You release a burst of barbed, acid-filled nettles. Creatures caught in the burst take 3d6 points of damage plus 1d6 points of acid damage on the next round. Those that save take half damage from the initial burst and no damage on the next round.

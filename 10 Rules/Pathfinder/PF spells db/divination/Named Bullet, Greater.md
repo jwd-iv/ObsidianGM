@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As named bullet, but deals 2 points of damage for every caster level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like named bullet, except it deals 2 extra points of damage per caster level (maximum 40).

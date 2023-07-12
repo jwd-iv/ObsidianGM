@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Upon casting this spell, you turn invisible, as per the invisibility spell, and you choose a second target. That creature can still see you as though you were not invisible, and you can attack that creature without ending the invisibility effect on you. However, if you attack any other creature, this spell ends. If you cast this spell multiple times, you can attack any of the affected creatures without ending the spell.

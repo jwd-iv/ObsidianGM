@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Teleport from one shadow to another.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 To use this spell, you must be in an area of dim light or darkness. You enter a shadow or area of darkness, which transports you along a coiling path of shadowstuff to another dim or dark location within range.

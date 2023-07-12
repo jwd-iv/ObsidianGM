@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creatures forget details about you and conversations with you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cause the targets to forget all but the most general information about you. If they saw you or interacted with you, they still remember your presence and your general shape (such as humanoid), as well as the gist of your interactions with them (such as "She was asking about the queen"), but they don't remember specifically what you said, details of your appearance, or any identifying information about you. This spell targets any memories of you in the minute preceding its casting, but is otherwise permanent.

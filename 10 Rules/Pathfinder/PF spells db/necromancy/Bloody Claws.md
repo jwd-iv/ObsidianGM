@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Causes bleed damage with natural attacks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You give a creature the ability to deal bleed damage when making natural attacks so long as the attack deals slashing or piercing damage. This bleed damage for each attack is equal to one-half your caster level (limited to the creature's maximum damage with that attack), though bleed damage does not stack. When two or more attacks deal bleed damage, take the worse effect.

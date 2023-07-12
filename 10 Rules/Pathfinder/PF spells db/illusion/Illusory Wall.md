@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Wall, floor, or ceiling looks real, but anything can pass through.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell creates the illusion of a wall, floor, ceiling, or similar surface. It appears absolutely real when viewed, but physical objects can pass through it without difficulty. When the spell is used to hide pits, traps, or normal doors, any detection abilities that do not require sight work normally. Touch or a probing search reveals the true nature of the surface, though such measures do not cause the illusion to disappear. Although the caster can see through his illusory wall, other creatures cannot, even if they succeed at their will save (but they do learn that it is not real).

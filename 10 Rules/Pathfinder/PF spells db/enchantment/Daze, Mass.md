@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As daze, but affecting multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as daze, except as noted above.

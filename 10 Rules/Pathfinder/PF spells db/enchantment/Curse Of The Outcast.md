@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Curse someone to rub people the wrong way.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Everything about the target seems off-putting and grating, and everyone he meets is compelled to see the worst in him.  Whenever the target attempts a Bluff, Diplomacy, Intimidate, or Perform check, he must roll twice and take the lower result. Additionally, each creature he encounters has its initial attitude toward him reduced by one step (helpful becomes friendly, friendly becomes indifferent, and so on).

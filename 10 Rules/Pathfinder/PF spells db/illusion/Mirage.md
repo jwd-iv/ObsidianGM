@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create illusory terrain.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create an image of a pool of water, a group of standing stones, a cove, an island, or another simple land formation over a stretch of flat land or water. The image is purely visual, and structures, equipment, and creatures within the area are not hidden or changed in appearance. Anyone interacting with the illusion can attempt to disbelieve it, and a creature trained in Survival can make a special attempt to disbelieve the illusion. The creature must be within 120 feet of the illusion's area and can attempt a Survival check instead of a Will saving throw. If the result is equal to or greater than the spell's save DC, the creature realizes the mirage is an illusion as if it disbelieved the spell.

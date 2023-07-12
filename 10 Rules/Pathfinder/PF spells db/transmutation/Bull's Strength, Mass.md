@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As bull’s strength, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like bull's strength, except that it affects multiple creatures.

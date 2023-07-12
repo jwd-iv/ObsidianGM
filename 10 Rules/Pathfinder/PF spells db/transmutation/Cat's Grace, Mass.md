@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As cat’s grace, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like cat's grace, except that it affects multiple creatures.

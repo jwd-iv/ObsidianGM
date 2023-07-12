@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as per thought worm II, except a target that succeeds at its Will save still takes a -2 penalty on Will saves against your mind-affecting spells and effects for the same duration. This spell can be undercast.

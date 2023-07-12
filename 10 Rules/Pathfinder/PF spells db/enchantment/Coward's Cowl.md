@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You imbue the target with a compulsion to avoid threats, enhancing its defensive instincts. So long as the affected creature  does not move closer to enemies during its turn, or moves at least 5 feet away from adjacent enemies, it gains a +1 morale bonus to its AC, and a +1 morale bonus on saves and on attack rolls made as readied actions and attacks of opportunity. Alternatively, if the affected creature does not close with its enemies, it can increase the DC of all spells it casts as part of a readied action by 1. If the subject of the spell willingly moves toward a threatening creature, the spell immediately ends.  While affected by coward's cowl, a creature takes a -2 penalty on all saving throws against fear effects.

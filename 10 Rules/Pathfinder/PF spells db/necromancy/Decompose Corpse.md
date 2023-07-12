@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Turn a corpse into a clean skeleton.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Using this spell, the caster rapidly decomposes the flesh from a single corpse of size Huge or smaller, leaving behind a perfectly cleaned skeleton. If it is cast on a non-skeletal corporeal undead, the creature takes a -2 penalty on all rolls and to its Armor Class and CMD for 1 minute.

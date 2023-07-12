@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: One creature/level gains ability to fly.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as fly (Core Rulebook 284), save that it can target numerous creatures and lasts longer.

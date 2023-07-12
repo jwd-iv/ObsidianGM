@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Hamper vision and movement.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Driving ash blocks all sight (even darkvision) within the spell's area of effect, and falling cinders cause the ground in the area to become difficult terrain.

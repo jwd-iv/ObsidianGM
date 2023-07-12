@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creates 5-ft.-thick earthen barrier.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a massive rampart of hard-packed earth and stone 5 feet thick. The rampart cannot be conjured so that it occupies the same space as another creature or object. Each 5-foot-wide section of the rampart has hardness 0 and 180 hit points. A section of the rampart whose hit points drop to 0 is breached. If a creature tries to break through the rampart with a single attack, the DC for the Strength check is 60. A creature can climb over the rampart with a DC 20 Climb check.

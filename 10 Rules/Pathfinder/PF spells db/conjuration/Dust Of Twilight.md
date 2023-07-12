@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Black particles extinguish light sources.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A shower of iridescent black particles clings to and extinguishes torches, lanterns, sunrods, and similar mundane light sources and dispels any spell of 2nd level or lower with the light descriptor (as dispel magic). Creatures in the area must make a Fortitude save or become fatigued.
 
 

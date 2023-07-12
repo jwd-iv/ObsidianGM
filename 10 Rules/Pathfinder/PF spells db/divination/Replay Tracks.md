@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Reconstruct past events from a set of tracks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell allows you to reconstruct past events that occurred in your current location based on the tracks and other signs left behind. Replay tracks reveals events that occurred while the tracks that serve as the focus for the spell were being left, revealing events in the order they happened in real time or in reverse, depending on whether you are following the tracks forward or backward, although the image isn't clear enough to make out details (such as a creature's exact identity). You can attempt Survival checks to follow tracks as part of concentrating on the spell, but only events connected to the tracks used as the focus of the spell are revealed by the spell. Elements that left no trace detectable by you, such as creatures benefitting from pass without trace, are absent from the events you visualize.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As disguise self, but affects you or another.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as disguise self, except you can disguise either yourself or another creature.

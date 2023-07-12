@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You make the affected subjects ready for battle despite their fear. If a target is suffering from a fear effect of any kind, he gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a -2 penalty to AC.  If the subject is frightened, he remains in place and gains the confused condition for the remainder of the fear effect, except he treats all results of "attack self " as "do nothing" and treats "attack nearest creature" as "act normally." If the subject is panicked, he remains in place and gains the confused condition for the duration of the fear effect.

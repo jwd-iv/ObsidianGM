@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Wall of blades deals 1d6/level damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage.  If you evoke the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall.  Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by making a successful Reflex save.  A blade barrier provides cover (+4 bonus to AC, +2 bonus on Reflex saves) against attacks made through it.
 
 

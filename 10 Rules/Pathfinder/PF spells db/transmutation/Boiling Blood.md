@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Targets take fire damage; orcs get +2 Strength.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The blood of the targeted creatures begins to boil. If a target fails its save, it takes 1 point of fire damage per round. This spell has no effect on creatures that don't have blood.  If a target has the orc subtype, it doesn't take fire damage and instead gains a +2 morale bonus to Strength.
 
 

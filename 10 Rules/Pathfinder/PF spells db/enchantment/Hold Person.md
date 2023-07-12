@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Paralyzes one humanoid for 1 round/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject becomes paralyzed and freezes in place. It is aware and breathes normally but cannot take any actions, even speech. Each round on its turn, the subject may attempt a new saving throw to end the effect. This is a full-round action that does not provoke attacks of opportunity. A winged creature who is paralyzed cannot flap its wings and falls. A swimmer can't swim and may drown.

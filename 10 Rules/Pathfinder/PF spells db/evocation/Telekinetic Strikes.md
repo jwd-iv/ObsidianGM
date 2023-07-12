@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The touched creature's limbs are charged with telekinetic force. For the duration of the spell, the target's unarmed attacks or natural weapons deal an additional 1d4 points of force damage on each successful unarmed melee attack.

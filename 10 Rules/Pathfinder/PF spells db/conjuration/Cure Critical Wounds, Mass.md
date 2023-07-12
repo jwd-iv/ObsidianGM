@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Cures 4d8 damage + 1/level for many creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like mass cure light wounds, except that it cures 4d8 points of damage + 1 point per caster level (maximum +40).

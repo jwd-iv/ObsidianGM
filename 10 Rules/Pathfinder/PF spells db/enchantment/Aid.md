@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Aid grants the target a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).

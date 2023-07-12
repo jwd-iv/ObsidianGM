@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Suppress disease, nausea, and the sickened condition.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You quell feelings of illness and nausea in the target, giving it a +4 morale bonus on saving throws against disease, nausea, and sickened effects. If the subject is already under the influence of one of these effects when receiving the spell, that effect is suppressed for the duration of the spell.

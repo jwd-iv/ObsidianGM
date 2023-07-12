@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Sickens creature if it refuses to fight you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You challenge an evil creature to bring the fight to you, or suffer the consequences. You gain a +2 sacred bonus on all melee attacks against the subject of the spell. At the end of its turn, if the target has not made at least one attack on you, it becomes sickened. If you move away from the target, the spell ends.

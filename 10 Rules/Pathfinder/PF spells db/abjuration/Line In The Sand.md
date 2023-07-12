@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Increase your attacks of opportunity per round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a glowing crimson line around the area. Against creatures in the area, you can attempt a number of additional attacks of opportunity per round equal to your spellcasting ability score modifier (Intelligence for magi and wizards, Charisma for bloodragers and sorcerers). The spell does not allow you to make more than one attack against a creature for each action it takes that provokes such attacks.

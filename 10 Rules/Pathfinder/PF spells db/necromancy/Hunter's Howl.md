@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Treat enemies as favored for 1 round/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With a single primal howl, you strike fear in your opponents.  Until the end of the spell's duration, you treat those affected by it as if they were your favored enemy, gaining a +2 bonus on weapon attack and damage rolls against them, and a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against them. If an affected creature is already one of your favored enemies, it is shaken instead. This is a mindaffecting fear effect.

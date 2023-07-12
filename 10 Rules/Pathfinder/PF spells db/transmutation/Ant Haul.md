@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Triples carrying capacity of a creature.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's carrying capacity triples (see Table 7-4: Carrying Capacity on page 171 of the Core Rulebook). This does not affect the creature's actual Strength in any way, merely the amount of material it can carry while benefiting from this spell. It also has no effect on encumbrance due to armor. If the creature wears armor it still takes the normal penalties for doing so regardless of how much weight the spell allows it to carry.

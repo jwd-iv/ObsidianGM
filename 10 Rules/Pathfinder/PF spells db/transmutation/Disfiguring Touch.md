@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Target becomes disfigured.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With a touch, you cause the victim of this spell to suffer a painful curse that causes it to grow hideously disfigured. The physical appearance of the deformity is subject to the caster's whim (most demon worshipers choose deformities that reflect their Abyssal patron's shape or form). The target takes one of the following penalties.  • -2 decrease to an ability score (minimum 1).  • -2 penalty on attack rolls or saving throws.  • Land speed reduced by 5 feet.  You may also invent other effects, but they should be no more powerful than those described above.
 
 

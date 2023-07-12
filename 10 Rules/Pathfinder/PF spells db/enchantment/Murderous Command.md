@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Target is compelled to kill its ally.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You give the target a mental urge to kill its nearest ally, which it obeys to the best of its ability. The target attacks its nearest ally on its next turn with a melee weapon or natural weapon. If necessary, it moves to or charges to the nearest ally in order to make this attack. If it is unable to reach its closest ally on its next turn, the target uses its turn to get as close as possible to the ally.
 
 

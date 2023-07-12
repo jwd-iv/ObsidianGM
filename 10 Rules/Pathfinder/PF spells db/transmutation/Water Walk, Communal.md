@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As water walk, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like water walk, except you divide the duration in 10-minute intervals among the creatures touched.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You surround yourself with disturbing illusions.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You surround yourself with disturbing illusions, making you look and sound like a bizarre, insane fey creature. You gain DR 1/cold iron against a single opponent until the end of the spell, or until you take damage.

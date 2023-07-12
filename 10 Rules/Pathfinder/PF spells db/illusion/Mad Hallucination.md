@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target takes penalties to mental actions.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell induces a hallucinogenic reality in the mind of your target. Surfaces seem to swim, and movement constantly distracts the eye. The target takes a -2 penalty on Will saving throws, caster level checks, Intelligence-based skill checks, and Wisdom-based skill checks.

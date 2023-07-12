@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Puts 4 HD of creatures into magical slumber.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A sleep spell causes a magical slumber to come upon 4 HD of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Sleeping creatures are helpless. Slapping or wounding awakens an affected creature, but normal noise does not. Awakening a creature is a standard action (an application of the aid another action). Sleep does not target unconscious creatures, constructs, or undead creatures.
 
 

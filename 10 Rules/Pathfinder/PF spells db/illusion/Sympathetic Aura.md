@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like magic aura, except it extends its altered aura to similar items in a 5-foot radius. For this purpose, similar items must be alike in approximate shape, composition, and function, so a potion of cure light wounds targeted by this spell to appear nonmagical would also obscure the auras of nearby potions, elixirs, and oils, as well as flasks. Items other than the targeted item retain their altered aura for 1 round per caster level after being removed from the spell's area.

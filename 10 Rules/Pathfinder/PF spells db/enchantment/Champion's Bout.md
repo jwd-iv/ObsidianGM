@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You allow two chosen champions to fight without interference. The two creatures must be willing in order for the spell to work. After you cast this spell, any creature attempting to aid or hinder either of the two targets in any way must succeed at a Will save or lose its action instead (spell resistance applies). A creature that fails its Will save against champion's bout cannot attempt to interfere again. If a creature successfully interferes with the bout, the spell ends immediately.

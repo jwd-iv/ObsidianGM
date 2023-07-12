@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gains a bonus on Perception checks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target gains a +10 enhancement bonus on Perception checks. The bonus increases to +20 at caster level 8th, and +30 (the maximum) at caster level 16th.

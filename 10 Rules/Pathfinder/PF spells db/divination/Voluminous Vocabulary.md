@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grant ability to speak, read, and write one or more languages for 8 hours.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You choose any language (except for secret languages, such as Druidic). The target gains the ability to speak, understand, read, and write that language. When you cast this spell, you can attempt a DC 15 Linguistics check. If you succeed, choose an additional language, plus one more language for every 10 by which your check result exceeded the DC.  Written material can be read at the rate of one page (250 words) per minute. As with comprehend languages, this spell doesn't impart insight into material the target read, just the literal meaning, and it doesn't allow the target to read magical writing or decipher codes.  If the target lacks the mental capacity to grasp a language, it still gains enough knowledge to respond to and carry out even extremely complex commands or suggestions coached in the language (whether written or spoken). However, since this spell endows the target merely with a temporarily enhanced vocabulary, the person offering instructions to nonsentient creatures must take care to avoid metaphors or any other ambiguity.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As teleport, except you choose some creatures to suffer a mishap or go elsewhere.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as teleport except that you can opt to intentionally cause any number of the creatures traveling with you to suffer a mishap or arrive in a specific different location you visualize simultaneously with the original destination, or both.  Attempts to identify treacherous teleport with a skill check incorrectly identify it as teleport ( see t he r use d escriptor o n page 192).

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Send messages as per message with a suggestion for one creature.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell initially functions as message (allowing no save or spell resistance). Once during the message effect, you can concentrate as a standard action to issue a suggestion to one target as part of delivering a message. Spell resistance and a Will save apply to the suggestion, and it lasts for 1 hour per level or until completed.

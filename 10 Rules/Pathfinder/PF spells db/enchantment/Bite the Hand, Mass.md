@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like bite the hand, except as noted above.  The target creatures do not need to have all been summoned by the same being.

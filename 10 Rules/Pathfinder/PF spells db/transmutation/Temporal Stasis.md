@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Puts subject into suspended animation.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You must succeed on a melee touch attack. You place the subject into a state of suspended animation. For the creature, time ceases to flow, and its condition becomes fixed. The creature does not grow older. Its body functions virtually cease, and no force or effect can harm it. This state persists until the magic is removed (such as by a successful dispel magic spell or a freedom spell).

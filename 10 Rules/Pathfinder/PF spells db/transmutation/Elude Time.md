@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Puts you in temporary suspended animation.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You place yourself in a state of suspended animation, similar to temporal stasis. At the time of casting, you choose when the stasis will expire, up to the maximum duration of the spell.  Until the duration ends, time ceases to flow for you, and all bodily functions cease. No force or effect can harm you until the spell expires or is removed, such as by a successful dispel magic spell.

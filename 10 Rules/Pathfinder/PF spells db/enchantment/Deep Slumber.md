@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Puts 10 HD of creatures to sleep.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like sleep, except that it affects 10 HD of targets.
 
 

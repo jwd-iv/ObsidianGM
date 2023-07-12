@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a hail of tiny pieces of rock and dust that batter and scrape against all things in the area, dealing 5d6 points of bludgeoning damage. This damage is dealt only once, on the round the spell is cast. For the remaining duration of the spell, fine dust rains down in the area. Creatures other than stone giants inside this area take a -4 penalty on Perception skill checks, and the entire area is treated as difficult terrain. At the end of the spell's duration, the gravel and dust disappear, leaving no trace of their presence.

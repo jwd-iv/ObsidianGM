@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As feather step, but multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 As feather step, except this spell affects multiple creatures.

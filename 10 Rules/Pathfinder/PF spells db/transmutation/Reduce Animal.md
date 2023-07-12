@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Shrinks one willing animal.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like reduce person, except that it affects a single willing animal. Reduce the damage dealt by the animal's natural attacks as appropriate for its new size (see Chapter 6 how to adjust damage for size).

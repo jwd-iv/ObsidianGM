@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Attacks miss subject 50% of the time.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject of this spell appears to be about 2 feet away from its true location. The creature benefits from a 50% miss chance as if it had total concealment. Unlike actual total concealment, displacement does not prevent enemies from targeting the creature normally. True seeing reveals its true location and negates the miss chance.

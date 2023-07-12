@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 1d6/level cold damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Cone of cold creates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).

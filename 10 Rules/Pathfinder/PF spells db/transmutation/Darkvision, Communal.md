@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As darkvision, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like darkvision, except you may divide the duration in 1-hour intervals among the creatures touched.

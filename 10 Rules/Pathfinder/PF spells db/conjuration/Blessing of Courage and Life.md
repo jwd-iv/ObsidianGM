@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grants a +2 bonus on saves vs. fear and death.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With this prayer you provide long-lasting succor to a wounded creature. For as long as the effect lasts, the target receives a +2 morale bonus on saving throws against fear and death effects.  At any time while the spell is in effect, the target can choose to end the spell as a swift action for a burst of healing energy. The target loses the saving throw bonus, but is healed of 1d8 points of damage +1 point per caster level (maximum +10).

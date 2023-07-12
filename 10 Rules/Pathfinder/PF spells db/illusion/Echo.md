@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Cause a sound to repeat itself.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cause a sound heard in the target area up to 1 round ago and lasting up to 1 round in duration to repeat at a regular interval. The original sound need not have come from the area, but it echoes from the target area at its original full volume. Any special effects of the sound are not duplicated by this spell. If the area is naturally prone to echoes, such as a space surrounded on at least two sides by cliffs or high river banks, the spell's range is long. Otherwise, the spell's range is close.  You can concentrate as a standard action to alter the echo. You can change it to be any sound audible in the area within the last 1 round, move the apparent source of the sound within the area, or attempt a Bluff check to create a distraction to hide with a bonus equal to your caster level.

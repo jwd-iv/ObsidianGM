@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The targets of this spell become angrier as they fight, the pain of their wounds fueling their strength. An affected creature gains a cumulative +2 morale bonus to Strength and a cumulative -1 penalty to AC for every 5 points of damage it takes (maximum +10 Strength, -5 AC) for the duration of the spell. These bonuses last until the spell expires or the target falls unconscious.

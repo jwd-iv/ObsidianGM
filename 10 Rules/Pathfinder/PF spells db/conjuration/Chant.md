@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 As long as you chant, you bring special favor upon your allies and bring disfavor to your enemies. You and your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks while your foes take a -1 penalty on such rolls.  You must chant in a clear voice. Any interruption in your chanting, such as a failed concentration check, a silence spell or speaking or casting another spell, ends this spell. As an exception to the general rule, the effects of this spell stack with those of a prayer spell if cast by a cleric of your alignment and who worships the same deity as you.

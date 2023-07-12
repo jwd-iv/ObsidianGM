@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Animal gains the combat training general purpose.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You instill the target animal with the combat training general purpose (see the Handle Animal skill, Core Rulebook 98). This supersedes the animal's previous trained purpose and any tricks it knows. When the spell ends, it reverts to its previous trained purpose and known tricks.

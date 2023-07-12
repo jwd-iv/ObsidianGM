@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create three notes heard miles away.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create the sound of a large hunting horn, blowing up to three notes as loud as a roaring dragon. These notes can be heard up to 2 miles away in typical outdoor conditions.  You can make these sounds at any point during the spell's duration as a free action, and each sounding can be short or long, allowing you to send very simple coded messages.

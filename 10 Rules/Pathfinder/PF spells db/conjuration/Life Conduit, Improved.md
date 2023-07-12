@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Transfers 2d6 hit points to your eidolon as a swift action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like life conduit, except you can transfer 2d6 hit points as a swift action.

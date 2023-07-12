@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as summon nature's ally VI, except its casting time is shorter and you can summon one cave, hill, marsh, river, slag, stone, or wood giant.

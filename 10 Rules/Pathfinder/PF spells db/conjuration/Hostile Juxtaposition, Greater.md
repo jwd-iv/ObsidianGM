@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You may target one creature for every four of your caster levels.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like hostile juxtaposition, except you can target one creature for every four caster levels you have or you can target a single creature that is larger than you are. You can switch places with each target only once while the effect lasts. Once you have used it to teleport and switch places with each affected target, the spell is discharged.

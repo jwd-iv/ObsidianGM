@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell instills powerful hope in the subjects. Each affected creature gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.  Good hope counters and dispels crushing despair.

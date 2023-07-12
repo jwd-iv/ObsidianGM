@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Turn a critical hit into a decapitation.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can cast this spell only as a response to a confirmed critical hit against the target that would deal slashing damage. If the target fails the saving throw and has a discernible head, the attack deals an extra 4d6 points of damage and the critical multiplier of the critical hit increases by 1. If the critical hit then brings the target to 0 hit points or fewer, the target is instantly decapitated and dies unless it can survive decapitation. Even on a successful saving throw, the critical hit deals an extra 4d6 points of damage.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As bestow curse, but harder to remove.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as bestow curse, except the DC to remove the curse is equal to the save DC + 5.

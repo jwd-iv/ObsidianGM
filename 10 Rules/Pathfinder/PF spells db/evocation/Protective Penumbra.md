@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Shadow protects the target from light.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell keeps the target slightly in shadow. A target with light blindness, light sensitivity, or vulnerability to sunlight (such as vampires and wraiths) may ignore penalties from those qualities. The spell gives the target a +2 bonus on saving throws against nonmagical hazards related to bright light, such as glare or sunburn.

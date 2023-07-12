@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subjects take –2 on attack rolls, damage rolls, saves, and checks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 An invisible cone of despair causes great sadness in the subjects. Each affected creature takes a -2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls. Crushing despair counters and dispels good hope.

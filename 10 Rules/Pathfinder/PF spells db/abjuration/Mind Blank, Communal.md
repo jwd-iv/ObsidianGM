@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As mind blank, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like mind blank, except you divide the duration in 1-hour increments among the creatures touched.

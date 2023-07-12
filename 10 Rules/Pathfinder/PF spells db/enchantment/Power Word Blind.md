@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Blinds creature with 200 hp or less.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You utter a single word of power that causes a creature to become blinded, whether the creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature that currently has 201 or more hit points is unaffected. Hit Points Duration 50 or less Permanent 51-100 1d4+1 minutes 101-200 1d4+1 rounds

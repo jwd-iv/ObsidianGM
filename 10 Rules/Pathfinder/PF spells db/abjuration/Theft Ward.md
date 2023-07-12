@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You ward a single object in your possession against theft. You gain a +10 bonus on Perception checks to notice someone trying to take the object from you.

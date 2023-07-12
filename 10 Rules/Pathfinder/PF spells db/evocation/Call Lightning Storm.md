@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As call lightning, but 5d6 damage per bolt.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like call lightning, except that each bolt deals 5d6 points of electricity damage (or 5d10 if created outdoors in a stormy area), and you may call a maximum of 15 bolts.

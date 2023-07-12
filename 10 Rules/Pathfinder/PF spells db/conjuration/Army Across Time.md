@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as ally across time as noted above with  two exceptions. First, you can summon one duplicate per caster level before the spell ends. Second, you can have up to one duplicate in existence at a time for every 3 caster levels you have.

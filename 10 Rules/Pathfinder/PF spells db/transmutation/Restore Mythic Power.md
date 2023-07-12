@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 By laying your hands on the target, you're able to transfer some of your mythic essence to the target. You expend three uses of your mythic power to restore one use of the target's mythic power.

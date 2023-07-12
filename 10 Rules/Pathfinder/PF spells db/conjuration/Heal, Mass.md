@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As heal, but affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like heal, except as noted above. The maximum number of hit points restored to each creature is 250.

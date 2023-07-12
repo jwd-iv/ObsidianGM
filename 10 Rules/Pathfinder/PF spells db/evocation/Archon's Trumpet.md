@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Upon hearing a booming report, as if from a trumpet archon's mighty horn, all creatures in the area of the burst are paralyzed for 1d4 rounds.

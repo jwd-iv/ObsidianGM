@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: One subject takes –2 on attack rolls, damage rolls, saves, and checks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell fills a single subject with a feeling of horrible dread that causes it to become shaken.

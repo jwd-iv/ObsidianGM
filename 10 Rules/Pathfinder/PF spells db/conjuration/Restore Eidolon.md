@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Restoration for an eidolon.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as restoration, except it only affects an eidolon.

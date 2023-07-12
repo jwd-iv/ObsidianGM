@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Electricity damages your attackers.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Electrical energy floods your body, shocking the next creature that touches you. Any creature striking you with its body or a handheld weapon takes 1d6 points of electricity damage per two caster levels (maximum 6d6). If the attacker has spell resistance, it applies against this damage. Each time the spell discharges, the number of damage dice it deals is halved (rounded down); when the spell's damage dice reach 0, the spell ends.

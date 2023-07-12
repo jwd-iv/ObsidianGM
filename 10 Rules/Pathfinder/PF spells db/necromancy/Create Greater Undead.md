@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create shadows, wraiths, spectres, or devourers.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like create undead, except that you can create more powerful and intelligent sorts of undead: shadows, wraiths, spectres, and devourers. The type or types of undead created is based on caster level, as shown below. Caster Level Undead Created 15th or lower Shadow 16th-17th Wraith 18th-19th Spectre 20th or higher Devourer

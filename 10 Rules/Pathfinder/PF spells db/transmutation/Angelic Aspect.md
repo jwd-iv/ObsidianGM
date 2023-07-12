@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like lesser angelic aspect, except you gain low-light vision, darkvision 60, resistance to acid 10, resistance to cold 10, and DR 5/evil, and you sprout white feathered wings allowing you to fly at a speed of 30 feet with average maneuverability. In addition, your natural weapons and any weapons you wield are considered good-aligned for the purpose of overcoming damage reduction.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target loses its next action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fill your target with boredom. The target loses all interest in its current task and must make a Will save against the spell's effect in order to perform its next action. If the target fails, it takes no action that round. The boredom lasts until the duration expires or the target breaks the spell's effect with a successful Will save.

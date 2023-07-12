@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Allies can hustle without penalty while you sing or chant.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You invigorate your allies, who can hustle (Core Rulebook 170) as long as you continue to sing or chant (which requires your concentration). This movement counts as a walk (not a hustle) for the purpose of accruing nonlethal damage and fatigue. You can concentrate on this spell and hustle at the same time.

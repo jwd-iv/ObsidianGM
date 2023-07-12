@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As reinforce armaments, but you may divide the duration among objects touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like reinforce armaments, except you divide the duration in 10-minute intervals among the objects touched.

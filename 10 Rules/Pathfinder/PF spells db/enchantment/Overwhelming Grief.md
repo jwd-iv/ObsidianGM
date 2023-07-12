@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grieving target can take no actions and is denied its Dex bonus.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a -2 penalty to Armor Class, and loses his Dexterity bonus (if any). He can attempt a new save each round to break the spell's effect.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Nauseates multiple targets.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as cacophonous call, except that it affects multiple creatures.

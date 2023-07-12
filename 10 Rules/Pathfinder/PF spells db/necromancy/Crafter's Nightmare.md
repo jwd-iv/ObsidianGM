@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You concentrate feelings of competitiveness, envy, and ill will into a poltergeist-like haunt that wreaks havoc on its victim's long-term endeavors. Every time a creature in the affected area attempts a Craft or Profession check to generate income, create an item, or earn capital (Pathfinder RPG Ultimate Campaign 85), any skill check required for crafting or repairing a magic item, or any skill check required for an occult ritual (Pathfinder RPG Occult Adventures 208), the haunt imposes a -5 penalty on the check. If the creature fails its check by 5 or more, the haunt's mischief deals 1d6 points of damage to the creature in addition to any other negative effects from such a failure. If the creature attempts to cast a spell with a casting time of 1 minute or longer, the haunt becomes similarly disruptive, requiring the caster to succeed at a concentration check (DC = 15 + spell level) or lose the spell and take 1d6 points of damage from the mischief. Each time the haunt is disruptive, the spell's haunt-like manifestation occurs during that round.

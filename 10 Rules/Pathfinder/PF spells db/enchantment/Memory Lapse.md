@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject forgets events back to last turn.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cause the target to forget what happened from the casting of the spell back to the beginning of its last turn. This may allow a retry on a Diplomacy, Intimidate, or opposed skill check, though only with respect to the target, not other creatures that may be present.

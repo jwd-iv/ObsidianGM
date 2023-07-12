@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creates 1d4+2 temporary wood golems to fight for you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create 1d4+2 wood golems with the advanced template (Bestiary 164, 294). The golems willingly aid you in combat or battle, perform a specific mission, or serve as bodyguards. You can only have one wooden phalanx spell in effect at one time.  If you cast this spell while another casting is still in effect, the previous casting is dispelled.

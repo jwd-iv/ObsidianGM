@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subjects within cone flee for 1 round/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 An invisible cone of terror causes each living creature in the area to become panicked unless it succeeds on a Will save. If cornered, a panicked creature begins cowering. If the Will save succeeds, the creature is shaken for 1 round.

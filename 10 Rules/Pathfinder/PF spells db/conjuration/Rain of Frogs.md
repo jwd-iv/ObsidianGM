@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Summon a swarm of poisonous frogs.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as summon swarm, except you summon a swarm of poisonous frogs. This swarm has the statistics of a centipede swarm (Bestiary 43), except it has the animal type and its poison deals Constitution damage instead of Dexterity damage.

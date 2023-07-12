@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 An immobile curtain of illumination springs into existence. When created, one side of the wall (designated by you) radiates bright light to a range of 60 feet away from that side while the other side radiates darkness to an equal distance. This effect alters the illumination level by up to two steps toward either bright light (the light side) or darkness (the dark side). The wall also obstructs vision through it, regardless of which side of the wall the viewer is on.

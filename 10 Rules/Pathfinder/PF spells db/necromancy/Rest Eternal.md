@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Dead creature cannot be revived.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. Rest eternal cannot be dispelled, but it can be negated with remove curse or break enchantment.

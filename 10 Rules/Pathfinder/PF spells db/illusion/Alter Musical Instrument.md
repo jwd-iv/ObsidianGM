@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Make one instrument sound like a different kind of instrument.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You alter an instrument so it sounds like a different kind of instrument you are familiar with. The change could be minor (such as making a lute sound like a guitar) or major (making a keyboard sound like drums). All other aspects of the instrument-such as volume, pitch, and how it is played- are unchanged. For example, a piccolo made to sound like an organ is no louder than a normal piccolo, can produce only high notes in the piccolo range, and is a wind instrument.

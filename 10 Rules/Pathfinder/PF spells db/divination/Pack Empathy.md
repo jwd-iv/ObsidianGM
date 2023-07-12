@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create an empathic bond with allies.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create an instinctual connection between the targets. Each can sense the others' overall emotional states, which allows them to communicate basic emotional concepts (such as alerting each other of danger due to increased stress). Once the spell has been cast on the subjects, the distance between them and the caster doesn't affect the spell as long as they are on the same plane of existence. If a subject leaves the plane, or if it dies, the spell ceases to function for it.

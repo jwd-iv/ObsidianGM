@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You imbue the targets with a fraction of your mythic nature. They count as mythic creatures for the purpose of path abilities, spells, and other effects that function differently for mythic creatures. This doesn't grant the targets mythic tiers or any uses of mythic power; it merely gives them a greater advantage when others use abilities that work differently for mythic creatures. You must be at least a 1st-tier mythic character to cast this spell.

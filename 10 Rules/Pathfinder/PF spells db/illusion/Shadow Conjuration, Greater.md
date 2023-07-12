@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As shadow conjuration, but up to 6th level and 60% real.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like shadow conjuration, except that it duplicates any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 6th level or lower. The illusory conjurations created deal three-fifths (60%) damage to nonbelievers, and nondamaging effects are 60% likely to work against nonbelievers.

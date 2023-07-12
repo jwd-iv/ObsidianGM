@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Senses direction toward object (specific or type).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You sense the direction of a well-known or clearly visualized object.  You can search for general items, in which case you locate the nearest of its kind if more than one is within range. Attempting to find a certain item requires a specific and accurate mental image; if the image is not close enough to the actual object, the spell fails.  You cannot specify a unique item unless you have observed that particular item firsthand (not through divination).  The spell is blocked by even a thin sheet of lead. Creatures cannot be found by this spell. Polymorph any object and nondetection fool it.

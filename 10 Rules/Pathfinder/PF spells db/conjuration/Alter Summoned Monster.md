@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You swap a creature summoned by a conjuration (summoning) spell for a creature you could summon with a summon monster or summon nature's ally spell. The new creature must be an option from a spell of the same level or lower as the spell that summoned the target. The new creature cannot be summoned into an environment that cannot support it. The target can attempt a Will saving throw to negate this effect, but if the target is under your control, it receives no saving throw. Alter summoned monster does not alter the duration of the spell that summoned the target, nor does it affect any additional creatures summoned by the same spell as the target. The new creature has the same conditions and amount of damage as the target creature, and remains affected by all curses, diseases, poisons, and penalties that affected the target, but no other spells or effects carry over. Alter summoned monster is a spell of the same alignment type or types as the creature for which you exchange the target. An eidolon can't be targeted by this spell.

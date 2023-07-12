@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as per invisibility bubble, but the spell affects the areas of each target creature, regardless of the creature's size. The effect moves with the group and is broken when anyone in the group attacks. Individuals in separate bubbles can't see each other. The spell is broken for any individual who moves more than 180 feet from the nearest member of the group. If only two individuals are affected, the one moving away from the other one loses its invisibility. If both are moving away from each other simultaneously, they both become visible when the distance between them exceeds 180 feet.

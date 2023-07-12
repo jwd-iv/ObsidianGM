@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As scrying, but faster and longer.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like scrying, except as noted above. Additionally, all of the following spells function reliably through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, message, read magic, and tongues.

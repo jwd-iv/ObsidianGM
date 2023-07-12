@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create one skeleton or zombie.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as animate dead, except you can only create a single Small or Medium skeleton or zombie. You cannot create variant skeletons or zombies with this spell.

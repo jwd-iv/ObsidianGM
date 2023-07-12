@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Allies gain +1 on attack rolls and saves against fear.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Bless fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.  Bless counters and dispels bane.
 
 

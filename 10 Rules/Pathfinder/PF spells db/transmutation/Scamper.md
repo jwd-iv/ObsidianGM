@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grant your animal companion astonishing agility.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your animal companion moves with astonishing agility and speed until the end of its turn. It can move at full speed while using Acrobatics, and it gains a competence bonus equal to twice your caster level (maximum +20 at 10th level) on Acrobatics checks to avoid attacks of opportunity or move through a square occupied by an enemy.

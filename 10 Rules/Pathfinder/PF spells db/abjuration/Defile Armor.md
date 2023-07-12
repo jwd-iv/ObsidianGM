@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: As sanctify armor, but gain DR 5/good when using judgment or smite.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 As sanctify armor, except you gain DR 5/good when using your judgment or smite ability.
 
 

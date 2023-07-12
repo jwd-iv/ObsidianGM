@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: See 60 ft. in total darkness.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject gains the ability to see 60 feet even in total darkness. Darkvision is black and white only but otherwise like normal sight. Darkvision can be made permanent with a permanency spell.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Oracle only. Target gains the benefits of your oracle's curse.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target gains all the benefits of your oracle's curse, with none of the penalties. In some cases, this has no effect (for example, a fighter with your haunted curse can't cast spells and doesn't gain any benefit from having additional spells known).

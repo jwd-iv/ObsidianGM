@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Curse an area’s weather.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 By touching the ground, you drastically change the weather in the area, as the unseasonable weather curse (see page 145). The focus merges into the cursed area as part of the spell and can only be retrieved if the curse is lifted.

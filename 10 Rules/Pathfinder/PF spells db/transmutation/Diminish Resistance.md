@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Weaken a creature’s energy resistance.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You weaken a creature's resistance against one energy type you select: acid, cold, electricity, fire, or sonic. The creature's resistance to that energy type decreases by 5 (minimum 0), plus an additional 5 for every 5 caster levels beyond 3rd (to a maximum of 20 at 18th level).

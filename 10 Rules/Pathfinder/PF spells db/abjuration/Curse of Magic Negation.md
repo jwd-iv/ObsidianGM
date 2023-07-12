@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target gains the negated spellblight.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You disrupt the target creature's ability to draw upon magical energies. For the duration of the spell, it gains the negated spellblight (see page 97). Dispel checks to remove the spellblight take a -5 penalty due to this spell's interference with magical energies.

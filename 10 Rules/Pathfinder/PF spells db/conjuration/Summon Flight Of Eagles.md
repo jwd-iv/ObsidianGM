@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You summon 1d4+1 giant eagles to serve as you designate. The summoned birds can fight if you wish, but can also serve as mounts.

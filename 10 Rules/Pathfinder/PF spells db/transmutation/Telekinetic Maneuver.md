@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Perform a telekinetic combat maneuver.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as telekinesis, but it can be used only to perform a bull rush, disarm, drag, grapple (including pin), reposition, steal, or trip combat maneuver.

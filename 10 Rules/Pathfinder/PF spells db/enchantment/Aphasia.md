@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Prevent a target from understanding language.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You render the target unable to understand any language, including spoken language, written language, sign language, gestures attempting to mimic a crude language, or even truespeech and telepathy. The affected creature is unable to communicate, use command words, cast spells with verbal components, or use any other abilities that requires language.  At the end of each of its turns, the subject can attempt a new saving throw to end the effect.  Tongues counters and dispels aphasia, and a creature with the tongues spell active is immune to aphasia. Oracles with the tongues curse ignore aphasia in combat.

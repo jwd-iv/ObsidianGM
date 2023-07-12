@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as ancestral regressionARG, except as noted above and as follows. The wayang loses her darkvision racial trait and gains the low-light vision racial trait in its place. The alignment and personality of the wayang are not affected by the transformation, but the spell conceals her alignment as per undetectable alignment. Unlike ancestral regression, this spell grants the target a +20 bonus on Disguise checks to pass as a gnome; even though the wayang appears as a gnomish analog of herself, the differences between gnomes and wayangs are great enough that she cannot be mistaken for a gnome by other wayangs who know her.

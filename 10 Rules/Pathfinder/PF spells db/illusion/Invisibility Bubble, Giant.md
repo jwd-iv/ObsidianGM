@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as per invisibility bubble, but the bubble is larger, which allows you to target a creature of up to size Gargantuan, or allows more creatures into the bubble.

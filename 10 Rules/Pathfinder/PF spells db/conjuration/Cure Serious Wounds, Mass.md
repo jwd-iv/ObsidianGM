@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Cures 3d8 damage + 1/level, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like mass cure light wounds, except that it cures 3d8 points of damage + 1 point per caster level (maximum +35).

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Weapon becomes good, evil, lawful, or chaotic.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Align weapon makes a weapon chaotic, evil, good, or lawful, as you choose. A weapon that is aligned can bypass the damage reduction of certain creatures. This spell has no effect on a weapon that already has an alignment. You can't cast this spell on a natural weapon, such as an unarmed strike. When you make a weapon chaotic, evil, good, or lawful, align weapon is a chaotic, evil, good, or lawful spell, respectively.

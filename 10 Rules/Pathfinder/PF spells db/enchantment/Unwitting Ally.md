@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject is considered ally for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You befuddle the target's mind. The target has difficulty telling friend from foe for a short period of time. The subject is considered your ally and not your enemies' ally while determining flanking. The subject takes no other hostile action against your enemies due to this spell's effect.

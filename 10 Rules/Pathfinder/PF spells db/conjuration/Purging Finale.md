@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Removes one negative effect.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your bardic performance, removing one of the following conditions on a creature within range affected by your bardic performance: cowering, dazzled, exhausted, paralyzed, shaken, or stunned.

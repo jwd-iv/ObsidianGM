@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Armor you wear no longer slows your speed.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Armor you wear no longer reduces your speed. You also reduce the armor's armor check penalty by 1 + 1 per five caster levels (maximum 5).

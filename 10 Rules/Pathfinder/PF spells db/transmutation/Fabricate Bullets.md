@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Converts 1 pound of metal into ammunition.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You convert 1 pound of lead into bullets. When you cast this spell, you decide whether you create normal sling bullets, firearm bullets, or firearm pellets. The spell creates two sling bullets, 30 firearm bullets, or 10 uses of pellets.

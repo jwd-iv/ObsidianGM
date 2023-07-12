@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 1 humanoid creature/level doubles in size.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like enlarge person, except that it affects multiple creatures.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Reshapes wooden objects to suit you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Wood shape enables you to form one existing piece of wood into any shape that suits your purpose. While it is possible to make crude coffers, doors, and so forth, fine detail isn't possible. There is a 30% chance that any shape that includes moving parts simply doesn't work.

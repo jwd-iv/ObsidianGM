@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As charm person, but affects multiple creatures within 30 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like charm person, except that mass charm person affects a number of humanoid creatures whose combined Hit Dice don't exceed twice your level. If there are more potential targets than you can affect, you choose them one at a time until you reach the limit of HD you can affect. If you cast mass charm person on only one creature, you ignore the spell's HD limit.

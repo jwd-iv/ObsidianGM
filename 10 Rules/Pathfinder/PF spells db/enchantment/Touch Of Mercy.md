@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target creature deals only nonlethal damage with all of its weapon attacks. Damage taken by creatures or objects that are not subject to nonlethal damage is not converted to nonlethal and remains lethal damage. The weapon retains all of its other normal properties.

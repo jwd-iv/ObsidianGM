@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell weakens the bonds of existence, and reduces the hardness of any nonmagical surface within its area of effect by 2 per caster level. The spell is centered on a flat surface chosen by the caster, and the hardness reduction effect persists for the duration of the spell.

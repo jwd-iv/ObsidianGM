@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target is penalized on attacks and checks but gains bonus against charms and compulsions.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target becomes so distracted by an overblown sense of its worth that it takes a -2 penalty on attacks and skill checks.  However, this feeling also gives the target a +2 morale bonus on saves against charm and compulsion effects.

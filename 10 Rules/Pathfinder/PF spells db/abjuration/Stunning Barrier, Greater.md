@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Magical field grants a +2 bonus to AC and on saves, and stuns multiple creatures attacking you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as stunning barrier, except as noted above, and it provides a +2 bonus to AC and on saving throws. It is not discharged until it has stunned a number of creatures equal to your caster level.

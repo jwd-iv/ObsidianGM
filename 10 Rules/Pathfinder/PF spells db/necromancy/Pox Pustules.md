@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Subject is sickened and has –4 Dex.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You inflict a painful, itching rash on the target creature. The target is sickened and takes a -4 penalty to Dexterity (this penalty cannot lower Dexterity below 0). The target can spend a move action scratching furiously at the rash to remove the sickened condition (but not the Dexterity penalty) until the start of its next turn.
 
 

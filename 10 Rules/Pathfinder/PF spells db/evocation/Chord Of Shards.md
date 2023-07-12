@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Performance deals 2d6 piercing damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 During your bardic performance, you can strike a chord whose notes transform into a shower of razor sharp, crystalline shards. The shards deal 2d6 points of piercing damage to all creatures caught in the area of effect.
 
 

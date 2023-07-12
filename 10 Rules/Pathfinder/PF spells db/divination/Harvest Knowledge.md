@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You touch a creature and temporarily absorb its knowledge for yourself. If the target fails its saving throw, you can sort through its lore and memories. You can retrieve one answer to a specific question per minute, as through sifting through the creature's surface thoughts with detect thoughts. Alternatively, you can tap into the target's learned experiences and attempt one Knowledge check in a skill in which the target has at least 1 rank, using the target's total skill modifier. Each Knowledge check requires 1 minute and allows the target another Will save to resist the effect. If the target successfully resists, the spell does not end, but you are unable to attempt another Knowledge check for that skill using this spell. You can also use this spell against targets trapped in magic items or spells that hold their bodies or souls, such as an iron flask or the spell trap the soul, by touching the associated receptacle.

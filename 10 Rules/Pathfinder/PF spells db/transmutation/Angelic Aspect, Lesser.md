@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You take on an aspect of an angelic being, including some of its physical characteristics. You gain low-light vision, resistance to acid 5, resistance to cold 5, and the benefits of protection from evil.

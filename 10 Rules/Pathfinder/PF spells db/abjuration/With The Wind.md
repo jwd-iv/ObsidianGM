@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Protect a target from being blown away by wind of less than windstorm forc
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create eddies in the air around the subject that protect it from being checked or blown away. The target can't be moved by winds of less than windstorm force unless it wishes to be.

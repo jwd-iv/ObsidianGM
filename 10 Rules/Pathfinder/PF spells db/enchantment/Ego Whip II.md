@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As ego whip I, but a –4 penalty and staggered for 1d4 rounds.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as ego whip I, but the target takes a -4 penalty to the chosen ability score and is staggered for 1d4 rounds on a failed Will save. This spell can be undercast.

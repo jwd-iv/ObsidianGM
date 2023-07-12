@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: One animal/level gains advanced template.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as atavism, except it affects multiple creatures.

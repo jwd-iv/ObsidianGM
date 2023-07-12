@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You dim your targets' perceptions of light and shadow, convincing them the space they occupy is dark. Each creature that fails its save perceives the world around it as one light level darker than its true illumination level. The spell does not change the light level outside of the targets' perception, and does not create magical darkness. However, the spell creates an illusion of darkness rather than actual darkness, so low-light and darkvision don't allow a target to see in the conditions created by the spell. Even targets that see normally through magical darkness suffer a loss of vision from this spell.

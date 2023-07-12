@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Make an object seem worthless.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You make an object seem like a worthless version of itself. A masterwork or magic sword could seem to be a useless, rusting, discarded blade, and a luxurious throne could appear to be a decrepit wooden chair. If used against an attended object, the wielder can immediately attempt a Will save to disbelieve the effect. Decrepit disguise counters and dispels quintessence.  Decrepit disguise can be made permanent with a permanency spell by a caster of 9th level or higher for the cost of 500 gp.

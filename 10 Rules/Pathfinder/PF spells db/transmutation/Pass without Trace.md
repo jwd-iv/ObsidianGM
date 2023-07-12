@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: One subject/level leaves no tracks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject or subjects of this spell do not leave footprints or a scent trail while moving. Tracking the subjects is impossible by nonmagical means.

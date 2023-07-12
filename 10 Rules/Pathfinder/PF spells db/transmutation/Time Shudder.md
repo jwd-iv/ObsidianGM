@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Nearby creatures are affected by haste or slow each round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cause a ripple in time that affects all creatures in the area.  At the start of each creature's turn, there is a 50% chance the creature is hasted (as haste); otherwise it is slowed (as slow).

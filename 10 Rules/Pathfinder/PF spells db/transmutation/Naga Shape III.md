@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as naga shape I. Additionally, if the form you assume has any of the following abilities, you gain the listed ability: burrow 60 feet, climb 90 feet, fly 120 feet (good maneuverability), swim 120 feet, blindsense 60 feet, darkvision 90 feet, low-light vision, tremorsense 60 feet, bleed, compression, constrict, detect thoughts, dreamsight, grab, hypnosis, poison, sneak attack +3d6, and spit.

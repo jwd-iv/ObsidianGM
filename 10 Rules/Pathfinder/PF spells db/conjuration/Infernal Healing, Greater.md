@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 As infernal healing, except the target gains fast healing 4 and the target detects as an evil cleric.

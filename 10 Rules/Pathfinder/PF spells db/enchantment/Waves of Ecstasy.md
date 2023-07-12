@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Pleasure stuns and staggers creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You emanate waves of intense pleasure that cause all targets within range to falter. Affected creatures are stunned for 1 round and are staggered for the remainder of the spell. A creature that makes its save is staggered for the first round and can act normally thereafter.

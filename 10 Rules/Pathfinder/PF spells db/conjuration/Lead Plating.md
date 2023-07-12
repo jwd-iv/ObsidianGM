@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You enclose the target in a thin sheath of lead. This doesn't restrict the target's movement or functionality, but protects it from the effects of radiation and prevents the penetration of many divination spells. The lead doesn't coat the target's equipment.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As reduce person, but affects 1 humanoid creature/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like reduce person, except that it affects multiple creatures.

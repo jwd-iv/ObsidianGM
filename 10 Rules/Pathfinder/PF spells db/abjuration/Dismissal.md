@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Forces a creature to return to native plane.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell forces an extraplanar creature back to its proper plane if it fails a Will save. If the spell is successful, the creature is instantly whisked away, but there is a 20% chance of actually sending the subject to a plane other than its own.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Return a creature to its home plane.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as dismissal, except as noted above.

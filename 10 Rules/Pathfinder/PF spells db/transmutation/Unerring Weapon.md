@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell causes a weapon to veer closer to vital areas, improving the result of a critical threat. This transmutation grants a +2 bonus on attack rolls to confirm critical hits plus 1 additional bonus point per four caster levels (maximum total bonus +7). If the spell is cast on projectiles, the effect ends on a specific projectile whenever that projectile is used to make an attack, regardless of whether the attack hits. For this spell, shuriken are considered projectiles.

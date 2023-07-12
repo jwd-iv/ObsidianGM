@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Summon 1d3 Tiny animals.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as summon monster I, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature. As with animals summoned with summon monster I, you may apply one alignment-appropriate template to these animals.

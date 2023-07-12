@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As charm monster, but all within 30 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like charm monster, except that mass charm monster affects a number of creatures whose combined HD do not exceed twice your level, or at least one creature regardless of HD. If there are more potential targets than you can affect, you choose them one at a time until you must choose a creature with too many HD to affect.

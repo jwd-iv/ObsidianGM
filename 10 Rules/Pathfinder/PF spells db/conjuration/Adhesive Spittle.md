@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Spit a tanglefoot bag at a creature.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Once during this spell's duration, you can spit a viscous liquid as a standard action. This liquid functions as a tanglefoot bag, except you do not have to make a successful attack roll to hit your target. The DCs to counteract this adhesive (to avoid being stuck to the floor, to fly, to break the adhesive, or to cast a spell) use the spell's DC rather than a tanglefoot bag's normal DCs. The adhesive persists for 2d4 rounds after you spit it.

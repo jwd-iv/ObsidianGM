@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Cause yourself and enemies to bleed.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cut yourself with the dagger, dealing yourself 1d6 points of bleed damage. So long as you keep taking this bleed damage, your targets each bleed for 1d6 points of damage at the beginning of their turns. The bleed damage on any target ends if that target receives magical healing, or if your bleed damage ends for any reason. This spell has no effect if you're immune to bleed damage or can otherwise reduce or ignore the bleed damage to yourself.

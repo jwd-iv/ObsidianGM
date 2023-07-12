@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Each target that fails its saving throw gains light blindness, as per the universal monster rule. When exposed to bright light, affected targets are blinded for 1 full round and are dazzled in successive  rounds. If you cast this spell in the presence of bright light, any target that fails its save is blinded immediately, and dazzled starting at the beginning of its first turn.

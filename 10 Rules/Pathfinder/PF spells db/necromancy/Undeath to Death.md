@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Destroys 1d4 HD/level undead (max. 20d4).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like circle of death, except that it destroys undead creatures as noted above.

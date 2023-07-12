@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Summons riding horse for 2 hours/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You summon a light horse or a pony (your choice) to serve you as a mount (see the Pathfinder RPG Bestiary). The steed serves willingly and well. The mount comes with a bit and bridle and a riding saddle.

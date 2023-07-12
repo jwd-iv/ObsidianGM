@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as summon monster V, save that it can only be used to summon host devils. These noxious flying devils, known also as gaavs and magaavs, are detailed on page 58 of Pathfinder Campaign Setting: Princes of Darkness, Book of the Damned, Vol. 1.

@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: +2 to AC and saves, plus additional protection against selected alignments.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like protection from evil, except that the deflection and resistance bonuses apply to attacks made by lawful creatures.  The target receives a new saving throw against control by lawful creatures and lawful summoned creatures cannot touch the target.
 
 

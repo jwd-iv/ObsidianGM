@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Sense creatures suffering from fear, then teleport close to them.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You gain the ability to detect fear, as per sense fear (see page 127), but you sense creatures within medium range.  Once per round as a standard action, you can teleport to a creature suffering from a fear effect within the spell's range if you are aware of the creature and its rough location. You can carry objects with you so long as you don't transport more than your maximum load. You arrive in a random open space within 20 feet of the creature and immediately begin sensing the location of creatures with a fear condition from your new location.  Once you teleport to a new location with this spell, you can take no additional actions for the round, as if casting dimension door. You can't teleport if there are no creatures suffering from a fear effect in range.

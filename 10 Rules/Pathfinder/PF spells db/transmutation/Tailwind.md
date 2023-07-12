@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create a current of wind to enhance or impede flight.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You compel the wind to push the targets in a direction of your choice. The subjects can hustle during local and overland movement without risk of fatigue. If the subjects are flying, the first 20 feet of movement each round in the chosen direction does not count against their movement for the round. Each creature remains affected only while within 120 feet of every other subject. You can change the tailwind's direction once per hour by concentrating as a standard action. This spell has no effect underwater.

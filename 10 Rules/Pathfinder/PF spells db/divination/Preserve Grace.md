@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The Lantern Bearers must often make difficult decisions during their missions, such as determining what to do with captured enemies-should they be executed, imprisoned, set free, or given a chance to mend their ways? With this spell, you grant a creature the ability to foresee moral consequences, as if the creature were wearing a phylactery of faithfulness. The spell's guidance focuses on the protection of beauty and encourages peaceful resolution and mercy.

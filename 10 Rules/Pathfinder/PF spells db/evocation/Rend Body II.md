@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as per rend body I, but the target takes 1d8 points of damage per caster level you have (maximum 10d8). This spell can be undercast.

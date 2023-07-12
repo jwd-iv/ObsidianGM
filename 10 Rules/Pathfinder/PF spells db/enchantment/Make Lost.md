@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You strip the targets of their senses of direction and recent memories of travel. They immediately forget the route they  took in the last hour (but not details of encounters along the way) and become lost (Pathfinder RPG Core Rulebook 424).

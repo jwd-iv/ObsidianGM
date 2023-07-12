@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target's attitude worsens by two categories.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fill the target's heart with malice for all other creatures.  The target's attitude toward all creatures other than itself worsens by two steps.

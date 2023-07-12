@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: A single target is deafened until the condition is removed, and is confused for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You call down a thunderous boom upon your enemy. The target becomes deafened until the condition is removed, and is confused for 1 round.  While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

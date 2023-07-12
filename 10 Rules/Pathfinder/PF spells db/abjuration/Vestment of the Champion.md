@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Armor or shield gains a
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as magic vestment, except it only affects armor or a shield you are wearing or carrying. If the armor or shield is worn or carried by anyone other than you, the spell has no effect, but resumes its effect when you are wearing or carrying it again.

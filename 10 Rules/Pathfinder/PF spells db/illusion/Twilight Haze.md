@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Illusory fog obscures vision.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a gray haze that obscures sight (as fog cloud) and causes the illumination level within it to dim by one step (as per darkness). Since this spell produces an illusion rather than a true physical fog, it is unaffected by wind and can be cast underwater.

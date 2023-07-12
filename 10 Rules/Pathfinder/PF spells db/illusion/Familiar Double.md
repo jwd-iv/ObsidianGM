@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As project image, but the image follows your familiar.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as project image, except the image appears in your familiar's square and moves when your familiar moves.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Teleport a familiar or spirit animal from miles away to your side when it is injured.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as callback, except as noted above.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ask very powerful eldritch entities to find and converse with you, or they may reply telepathically.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like contact entity II, except that you can contact creatures from the contact entity III list, and as noted above. Additionally, if a contacted creature has telepathy, it can send a telepathic message to you of up to 10 words.

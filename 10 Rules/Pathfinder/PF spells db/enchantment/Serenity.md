@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Peaceful feelings harm those attempting violence.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fill the targets' minds with feelings of tranquility. Those attempting to commit violence become stricken with wracking pain and take 3d6 points of nonlethal damage each round they attempt to harm another creature. If attacked, affected individuals can defend themselves and may participate in combat by using Combat Expertise, fighting defensively, or taking the total defense action without triggering the spell's nonlethal damage.

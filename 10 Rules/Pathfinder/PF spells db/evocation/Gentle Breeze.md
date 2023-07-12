@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Light wind protects one target from clouds, gases, heat, and vapors.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a light wind that blows only against the target, from a direction of your choice. The breeze grants the target a +2 circumstance bonus on saves against very hot conditions, severe heat, and saves against clouds, vapors, and gases (such as cloudkill, stinking cloud, and inhaled poisons). There must be air present to use this spell.

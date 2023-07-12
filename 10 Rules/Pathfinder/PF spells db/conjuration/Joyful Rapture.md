@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Negate harmful emotions.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your inspired words overwhelm others with transcendental bliss. All allies within the area of effect are freed from any harmful emotion effects. The spell also cures 1d4 points of Intelligence, Wisdom, or Charisma damage (your choice) to all allies in the area.

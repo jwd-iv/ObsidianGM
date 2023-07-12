@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As icy prison, but it affects 1 creature/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as icy prison, except as noted above.

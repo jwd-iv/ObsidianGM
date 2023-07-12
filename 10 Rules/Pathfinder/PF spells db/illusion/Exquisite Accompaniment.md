@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Instrument maintains bardic performance for you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a phantom instrument, a glowing construct of magic in the form of a portable musical instrument of your choice. The instrument floats beside you, moving as you move (even if you teleport). It cannot be damaged, but can be dispelled. The instrument plays as you direct, and as long as it plays, you do not have to expend rounds of bardic performance from your daily allotment to maintain an effect.  Activating a bardic performance or switching to a new still costs a round of your overall bardic performances per day.

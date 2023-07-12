@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Doubles a morale bonus.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Each creature affected by this spell is given the potential for greater success and glory. If the affected creature is benefiting from a morale bonus of any type, it can double that morale bonus on one roll or check, before making the roll. Once an affected creature uses this spell's effect, the spell is discharged for that subject.

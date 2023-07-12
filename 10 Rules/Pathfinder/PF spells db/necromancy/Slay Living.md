@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Touch attack deals 12d6 +1 per level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can attempt to slay any one living creature. When you cast this spell, your hand seethes with eerie dark fire. You must succeed on a melee touch attack to touch the target. The target takes 12d6 points of damage + 1 point per caster level. If the target's Fortitude saving throw succeeds, it instead takes 3d6 points of damage + 1 point per caster level. The subject might die from damage even if it succeeds on its saving throw.

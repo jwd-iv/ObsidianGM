@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Whenever you cast this spell, you can assume the form of any type of Large naga (including most nagas, but not royal nagas), though not the form of a specific individual. In effect, you transform into a Large serpent, gaining a +4 size bonus to your Strength, a -2 penalty to your Dexterity, and a +4 natural armor bonus. Unlike with beast shape II, however, you keep your own head when using this spell and can cast spells with verbal and somatic components, even though the naga form doesn't have hands.  If the form you assume has any of the following abilities, you gain the listed ability: climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, darkvision 60 feet, low-light vision, and scent.

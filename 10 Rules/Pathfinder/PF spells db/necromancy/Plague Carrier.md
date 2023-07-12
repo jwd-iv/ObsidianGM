@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target's attacks carry filth fever.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's natural attacks carry filth fever (DC 10 + 1/2 of the creature's Hit Dice + creature's Con modifier)

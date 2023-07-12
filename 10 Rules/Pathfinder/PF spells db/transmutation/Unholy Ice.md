@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create wall or javelins of frozen unholy water.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as holy ice, except it is made of frozen unholy water rather than holy water.

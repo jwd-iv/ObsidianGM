@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ward yourself against thought detection and memory alteration.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You become warded against the mental prying of others, including the effects of divination spells such as detect thoughts and seek thoughtsAPG, as well as enchantment spells such as modify memory and memory lapseAPG. If another creature attempts to target you with a mind-affecting spell that  detects or alters your thoughts or memories, the caster must succeed at a caster level check against a DC equal to 11 + your caster level or the spell fails. Only spells that detect or alter your thoughts or memories are blocked by this spell; effects such as clairaudience/clairvoyance, d etect e vil, and locate creature continue to affect you as normal.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Frightens creature of less than 6 HD.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like cause fear, except that it causes all targeted creatures of less than 6 HD to become frightened.

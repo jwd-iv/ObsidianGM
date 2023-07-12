@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target loses a 7th-level prepared spell or spell slot.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as lesser spellcrash, except it affects 7th-level or lower prepared spells or spell slots.

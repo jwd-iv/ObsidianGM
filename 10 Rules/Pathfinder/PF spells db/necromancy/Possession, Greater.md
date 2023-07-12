@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As possession, but your body vanishes.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as possession, but when you possess a host, you enter the host's body and your physical body vanishes. You are ejected to the closest empty square upon expiration of the spell or upon the host's death.

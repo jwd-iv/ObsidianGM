@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target can breathe water and swim.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target gains the ability to breathe water and a swim speed of 30 feet. This swim speed means the target also gains the standard +8 bonus on Swim checks and the ability to take 10 on Swim checks even while distracted or endangered. The target can use the run action while swimming, provided it swims in a straight line. The spell does not make the target unable to breathe air.

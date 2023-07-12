@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target can move and attack underwater normally without the usual penalties involved with underwater combat, as if under the effects of freedom of movement. However, the target doesn't gain any protections against grapple, paralysis, and magical effects that impede movement (such as solid fog, slow, and web).

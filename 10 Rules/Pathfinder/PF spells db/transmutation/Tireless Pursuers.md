@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As tireless pursuit, but affects multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as tireless pursuit, except as noted above.

@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Cast touch healing spells from a distance.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 To use this spell, you first touch the intended recipient, creating a sympathetic field of healing energies between you.  Once the spell has been cast, you and the target may cast conjuration (healing) spells with a range of touch upon each other so long as you are within close range (25 ft. + 5 ft./2 levels). Should either you or the target remove your bracelet, the spell immediately ends.
 
 

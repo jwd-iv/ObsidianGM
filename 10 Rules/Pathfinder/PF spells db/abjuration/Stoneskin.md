@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Grants DR 10/adamantine.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains DR 10/adamantine. It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon bypasses the reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged.
 
 

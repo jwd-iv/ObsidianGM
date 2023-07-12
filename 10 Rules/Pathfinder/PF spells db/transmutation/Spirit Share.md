@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell was first created as a minor parlor trick, but adventuring Caydenites have repurposed and improved on it for use on their travels. For the duration of the spell, as a standard action you can touch a willing target to deliver 1 dose of a potable liquid (including alcoholic drinks and potions and elixirs, but not poisons or other liquids that are primarily harmful when drunk) in your possession (though not necessarily held in hand) into her.

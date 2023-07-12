@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As planar adaptation, but affects multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like planar adaptation, except as noted above.

@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Sculpts stone into any shape.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can form an existing piece of stone into any shape that suits your purpose. While it's possible to make crude coffers, doors, and so forth with stone shape, fine detail isn't possible. There is a 30% chance that any shape including moving parts simply doesn't work.
 
 

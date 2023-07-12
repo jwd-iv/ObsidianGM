@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You roll damage twice when you roll damage for a critical hit and take the best damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can sense your foes' weak points, granting you greater damage with critical hits. Whenever you score a critical hit, roll the attack's damage dice (but not extra or precision damage dice) twice and take the highest result.

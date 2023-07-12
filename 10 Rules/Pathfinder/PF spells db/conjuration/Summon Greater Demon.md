@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like summon monster, except it allows you to summon a single coloxus (Pathfinder RPG Bestiary 3 72), an omox demon (Pathfinder RPG Bestiary 2 79), or 1d3 kalavakus demons (Bestiary 2 78).

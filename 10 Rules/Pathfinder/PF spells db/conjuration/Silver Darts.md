@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Cone of silver darts deals 1d6 piercing damage/level, more against unarmored targets.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A cone of silver darts springs from your hand. These darts act as a silver weapon that deals 1d6 points of piercing damage per caster level (maximum 10d6). Any creature with an armor bonus greater than +4 or a natural armor bonus greater than +4 takes 50% less damage.

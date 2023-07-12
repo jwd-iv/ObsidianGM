@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Permanent illusion, includes sight, sound, smell, and thermal effects.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like silent image, except that the figment includes visual, auditory, olfactory, and thermal elements, and the spell is permanent. By concentrating, you can move the image within the limits of the range, but it is static while you are not concentrating.

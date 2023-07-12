@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Cold iron shackles materialize around the target's limbs, reducing each of the target's movement speeds by half. Any flying target has its maneuverability worsened by two steps (from good to poor, for example, to a minimum of clumsy maneuverability). Additionally, if the target has DR/cold iron or DR/cold iron and magic, it is unable to use supernatural or spell-like means of movement (such as dimension door, teleport, or tree meld) for the duration of the spell.

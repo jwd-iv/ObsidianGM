@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Animal gains a new general purpose.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You instill the target animal with a general purpose (see the Handle Animal skill), which can be any purpose except combat training-fighting, guarding, heavy labor, hunting, performance, or riding. This purpose supersedes the animal's previous trained purpose and any tricks it knows.  When the spell ends, the animal reverts to its previous trained purpose and known tricks.

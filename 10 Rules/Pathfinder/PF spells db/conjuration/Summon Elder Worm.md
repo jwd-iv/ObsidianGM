@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Summon a giant purple worm.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as summon nature's ally VIII, except you summon a purple worm with the giant creature simple template (Bestiary 295).

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As possess object, but the object is more powerful and you can possess a construct.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as object possession, except as noted above. The possessed animated object has a number of Construction Points appropriate for its size (up to 5 CP for Gargantuan objects). Your silver cord extends to medium range (100 ft. + 10 ft./level).  You can attempt to possess a construct instead of an unattended object as your first possession with this spell. If you do, this spell acts as control constructUM, except as noted above.

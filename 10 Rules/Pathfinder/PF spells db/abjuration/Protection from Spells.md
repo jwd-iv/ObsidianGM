@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Confers +8 resistance bonus.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject gains a +8 resistance bonus on saving throws against spells and spell-like abilities (but not against supernatural and extraordinary abilities).

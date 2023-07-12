@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As mind thrust II, but a maximum of 15d8 points of damage and target is fatigued for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as mind thrust I, but the target takes 1d8 points of damage per caster level (maximum 15d8) and is fatigued for 1 round if it fails its save. This spell can be undercast.

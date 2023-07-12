@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject takes –5 on Craft skill checks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target of crafter's curse takes a -5 penalty on all Craft skill checks while the spell lasts.

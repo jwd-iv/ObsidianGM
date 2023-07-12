@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 When you cast this spell, select a single alignment (such as lawful good or chaotic evil). Creatures of that alignment glow with a ghostly radiance while they are within your vision. Though you can see this radiance, other creatures cannot.  Spells and effects that obscure alignment, like undetectable alignment, also obscure the effects of this spell.

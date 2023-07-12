@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject ignores the effects of addictions. The subject can naturally recover from damage dealt by the drug if she is under the effects of this spell for the entire duration of her rest.

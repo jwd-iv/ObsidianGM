@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A skirt, kilt, or gown you are wearing enables you to control your falls through the air. A creature wearing the enchanted item of clothing falls slowly as if affected by feather fall and can attempt a DC 15 Fly skill check as a move action to hover in place for 1 round.

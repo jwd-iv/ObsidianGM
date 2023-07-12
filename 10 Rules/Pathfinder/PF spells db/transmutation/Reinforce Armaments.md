@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Temporarily mitigates the fragile quality in targeted weapon or armor.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You reinforce a weapon or armor suit to give it a temporarily upgrade or mitigate the fragile quality (see page 146). A suit of armor or weapon touched that has the fragile quality is not considered to have the fragile quality for the spell's duration. Normal armor suits or weapons subjected to this spell instead gain the masterwork quality for the spell's duration and their hardness is doubled. If this spell is cast on masterwork or magical armor or weapons, their hardness is doubled for the duration of the spell.

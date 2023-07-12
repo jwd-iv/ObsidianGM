@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Bless army fills an army with courage. The army gains a +1 bonus on OM and Morale checks.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like dazzling blade, except that it affects multiple weapons. Each wielder of a dazzling blade can discharge the weapon's effect to attempt to blind a foe independently of the others.

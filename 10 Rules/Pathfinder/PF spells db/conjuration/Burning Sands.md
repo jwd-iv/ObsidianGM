@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cause sheets of hot sand to spread over the ground in the area of effect. This layer of sand is 1 foot deep and constantly shifts and churns, transforming the ground in the area into difficult terrain. The sand itself burns, and periodic flames rise from the grit. While these flames cannot ignite objects, they deal 1d4 points of fire damage to any creature that ends its turn in contact with the ground within the area of effect. At the end of the duration, the sand vanishes, leaving no aftereffects (other than damage dealt).

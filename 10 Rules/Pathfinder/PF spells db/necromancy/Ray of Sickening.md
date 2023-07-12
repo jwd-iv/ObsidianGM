@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ray makes the subject sickened.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as ray of exhaustion, except the target is sickened if it fails its save and unaffected if it makes its save.

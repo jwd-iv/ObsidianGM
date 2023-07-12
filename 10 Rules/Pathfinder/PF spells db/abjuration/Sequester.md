@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject is invisible to sight and scrying; renders creature comatose.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 When cast, this spell prevents divination spells from detecting or locating the target and also renders the affected target invisible (as the invisibility spell). The spell does not prevent the subject from being discovered through tactile means or through the use of devices. Creatures affected by sequester become comatose and are effectively in a state of suspended animation until the spell ends.  Note: The Will save prevents an attended or magical object from being sequestered. There is no save to see the sequestered creature or object or to detect it with a divination spell.

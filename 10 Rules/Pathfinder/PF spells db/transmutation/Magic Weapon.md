@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Weapon gains +1 bonus.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Magic weapon gives a weapon a +1 enhancement bonus on attack and damage rolls. An enhancement bonus does not stack with a masterwork weapon's +1 bonus on attack rolls.  You can't cast this spell on a natural weapon, such as an unarmed strike (instead, see magic fang). A monk's unarmed strike is considered a weapon, and thus it can be enhanced by this spell.

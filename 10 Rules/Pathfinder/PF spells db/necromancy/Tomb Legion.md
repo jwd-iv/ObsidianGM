@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like shambler, except that it calls into existence 1d4+2 advanced mummies rather than shambling mounds.  Though the spell has fallen out of favor among the Risen Guard because the Ruby Prince frowns on the use of undead, this spell is popular among followers of the Whispering Way.

@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Ranged attacks against you have 20% miss chance.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A magical field appears around you, glowing with a chaotic blast of multicolored hues. This field deflects incoming arrows, rays, and other ranged attacks. Each ranged attack directed at you for which the attacker must make an attack roll has a 20% miss chance (similar to the effects of concealment). Other attacks that simply work at a distance are not affected.
 
 

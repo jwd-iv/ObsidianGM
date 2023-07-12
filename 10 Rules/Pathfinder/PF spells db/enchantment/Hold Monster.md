@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As hold person, but any creature.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like hold person, except that it affects any living creature that fails its Will save.

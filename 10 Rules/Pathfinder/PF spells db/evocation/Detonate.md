@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Inflicts 1d8/level energy damage to all creatures within 15 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You flood yourself with a potent surge of elemental energy.  One round after completing the casting of the spell, the energy explodes from your body.  When this spell creates the explosion of energy, choose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures and unattended objects within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.

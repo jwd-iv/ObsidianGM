@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Makes holy water.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water.

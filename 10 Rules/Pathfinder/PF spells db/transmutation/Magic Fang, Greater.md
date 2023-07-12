@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: One natural weapon gets + 1/four levels (max +5).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like magic fang, except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5). This bonus does not allow a natural weapon or unarmed strike to bypass damage reduction aside from magic.  Alternatively, you may imbue all of the creature's natural weapons with a +1 enhancement bonus (regardless of your caster level).  Greater magic fang can be made permanent with a permanency spell.

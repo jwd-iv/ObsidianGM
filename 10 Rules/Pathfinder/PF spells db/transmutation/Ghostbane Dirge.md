@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Incorporeal creature takes half damage from nonmagical weapons.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target coalesces into a semi-physical form for a short period of time. While subject to the spell, the incorporeal creature takes half damage (50%) from nonmagical attack forms, and full damage from magic weapons, spells, spell-like effects, and supernatural effects.

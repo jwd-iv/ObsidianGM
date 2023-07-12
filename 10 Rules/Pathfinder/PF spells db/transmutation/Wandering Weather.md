@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Control weather in a large area that moves with you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as control weather except you can opt for the weather to remain centered on you as you move.

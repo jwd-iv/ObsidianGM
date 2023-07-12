@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as summon nature's ally V, except you can summon one kodama, 1d3 fukujin, or 1d4+1 shikigami.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Loads a single shot into your weapon every round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Once per round, phantom hands load a single ranged weapon or firearm with conjured ammunition. This ammunition counts as magical for overcoming damage reduction and attacking incorporeal creatures, but is the standard for its type (a normal bullet or pellets and black powder in the case of firearms). Conjured ammunition ceases to exist 1 round after it is removed from the weapon, or at the end of the duration, whichever comes first.

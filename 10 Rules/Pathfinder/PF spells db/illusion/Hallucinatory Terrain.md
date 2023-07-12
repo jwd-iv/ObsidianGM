@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Makes one type of terrain appear like another (field as forest, or the like).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You make natural terrain look, sound, and smell like some other sort of natural terrain. Structures, equipment, and creatures within the area are not hidden or changed in appearance.

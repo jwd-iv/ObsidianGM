@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Obfuscate whether a door is open or closed.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You alter the appearance of a door and disguise whether it is open or closed. You can cause the touched door to appear closed regardless of whether it is open or closed, to appear open regardless of whether it is open or closed, or to appear to open or close. After you cast the spell, you can change between these options as a move action. Creatures using a move action to open or shut the door can attempt a Will save to disbelieve the illusion.  Regardless of how you alter the appearance of the door, creatures that believe the illusion take a -5 penalty on Perception checks regarding the door itself or creatures on the other side of the door.  This spell affects windows, gates, and similar openings in the same way it affects doors.

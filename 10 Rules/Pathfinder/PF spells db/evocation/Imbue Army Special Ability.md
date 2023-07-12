@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You imbue the target with an army special ability (see page 242 of Ultimate Campaign) possessed by the army's commander. The army is treated as if it consists of units who all possess the chosen special ability. This special ability is in addition to any special abilities the army inherently possessed prior to the casting of the spell.

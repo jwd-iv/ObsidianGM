@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Magical field grants a +1 bonus to AC and on saves, and stuns one creature attacking you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You are closely surrounded by a barely visible magical field.  The field provides a +1 deflection bonus to AC and a +1 resistance bonus on saves. Any creature that strikes you with a melee attack is stunned for 1 round (Will negates). Once the field has stunned an opponent, the spell is discharged.

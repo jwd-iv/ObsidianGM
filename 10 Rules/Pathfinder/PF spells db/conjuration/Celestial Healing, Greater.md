@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 As per celestial healing, except the target gains fast healing 4 and the target radiates the aura of a good cleric.

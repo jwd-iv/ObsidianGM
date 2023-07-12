@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Fascinates a single creature for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your litany is a fascinating diatribe of grace, causing your target to do nothing but listen. The target is fascinated. As usual, obvious danger prevents fascination and potential danger grants a save.  While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

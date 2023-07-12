@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Gain +10 on a monster Knowledge check.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You commune with the divine, reflecting on one type of creature you encountered in the last day. You may make a Knowledge check regarding that creature type with a +10 insight bonus.
 
 

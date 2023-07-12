@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You can see invisible creatures and objects within 30 feet of you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This litany reveals the unseen to you. You can see invisible creatures and objects within 30 feet.  While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

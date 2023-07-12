@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like summon monster, except that it summons 1d3 esobok psychopomps or 1d4+1 nosoi psychopomps. Esobok psychopomps are detailed on page 84. Nosoi psychopomps are detailed on page 220 of Pathfinder RPG Bestiary 4.

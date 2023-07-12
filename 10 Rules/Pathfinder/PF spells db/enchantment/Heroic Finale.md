@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject within range of your bardic performance can take an action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end the performance, and one creature within range affected by your bardic performance can make a move action or a standard action of their choice.

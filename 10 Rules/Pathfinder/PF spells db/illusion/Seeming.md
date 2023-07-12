@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Changes appearance of one person per two levels.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like disguise self, except that you can change the appearance of other people as well. Affected creatures resume their normal appearances if slain. Unwilling targets can negate the spell's effect on them by making Will saves or with spell resistance.

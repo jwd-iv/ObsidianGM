@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Target gains +4 on saves against witch hexes.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You give the target a +4 resistance bonus on saving throws against witch hexes.
 
 

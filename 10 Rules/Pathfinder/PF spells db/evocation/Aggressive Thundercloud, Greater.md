@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Flying storm cloud deals 6d6 electricity damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as aggressive thundercloud, except it deals 6d6 points of electricity damage to any creature it strikes. The first creature damaged by the cloud is also stunned for 1 round (Fortitude negates); this is a sonic effect.

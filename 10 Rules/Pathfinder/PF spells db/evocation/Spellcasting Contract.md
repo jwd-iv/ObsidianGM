@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like lesser spellcasting contract, except if the target has 9 HD or more, you can imbue him with one or two 2ndlevel spells and one 3rd-level spell.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As ghostbane dirge, but affects multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as ghostbane dirge, except that it affects multiple targets.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject suffers continuous confusion.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The affected creature suffers from a continuous confusion effect, as the spell.  Remove curse does not remove insanity. Greater restoration, heal, limited wish, miracle, or wish can restore the creature.

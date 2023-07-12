@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Roll twice and take the higher roll when using certain mental skills.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your mind is able to correlate information effectively. When attempting an Appraise, Knowledge, Linguistics, or Spellcraft check, you can roll twice and take the higher result. If you have an ability that allows you to roll twice, you cannot use that ability and this benefit on the same roll.  The spell is discharged once you have used its benefit a number of times equal to your caster level.

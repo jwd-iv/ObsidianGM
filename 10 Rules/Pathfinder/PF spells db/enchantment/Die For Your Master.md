@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as bleed for your master, but it allows your companion or familiar to intercept any attack that targets you, including those that do not require attack rolls (e.g., chain lightning, hold monster, and magic missile). Your companion or familiar cannot intercept effects that do not affect creatures of its type (e.g., dominate person).

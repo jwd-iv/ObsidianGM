@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You conjure a 5-foot-thick wall of seawater with a powerful current flowing toward one side of the wall, selected by you; a creature attempting to swim against this current must spend 4 squares of movement to enter a square of the wall. A creature that begins its turn in the wall is ejected in the direction of the current just before it acts. The wall provides cover against attacks from out of the water, as usual for a body of water. The water and the currents deflect physical ranged attacks into or through the wall, unless a weapon used is exceptionally massive (such as a siege engine). A creature submerged in the wall takes the usual penalties for underwater combat. The wall blocks gases and liquids and prevents water from mixing at its edges.

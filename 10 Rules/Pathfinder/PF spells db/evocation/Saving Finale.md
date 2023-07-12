@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Subject rerolls failed saving throw.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You must have a bardic performance in effect to cast this spell. With a flourish, you can immediately end your bardic performance when a creature within range affected by your bardic performance fails a saving throw, allowing the subject to immediately reroll the failed saving throw.
 
 

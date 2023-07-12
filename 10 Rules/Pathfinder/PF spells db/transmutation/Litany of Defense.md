@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Doubles armor's enhancement bonus.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Invoking this litany strengthens your defenses. Any enhancement bonus your armor has is doubled and you are immune to fear.  While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

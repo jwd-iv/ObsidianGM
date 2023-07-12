@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: A large pulse of positive energy damages undead and bolsters living creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like positive pulse, except that the damage dealt increases to 3d6 plus your caster level, and the bonus on saving throws increases to +8.

@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Anytime a harmless (so noted by a spell's saving throw description) spell of 3rd level or lower is cast within a covetous aura's area of effect, you may choose to immediately gain the benefit of that spell as if it had also targeted you. The intended target still gains the effect of the spell. You gain the benefits of this duplicated spell only if the caster is in range of the covetous aura. You are considered the caster of the additional spell effect. If the effect allows for multiple targets other than yourself, you cannot use the stolen spell effect to target other creatures-a covetous aura only aids you. Once you choose to gain the benefit of another spell, the covetous aura immediately ends. Rumors hold that this unusual spell was invented thousands of years ago by Runelord Belimarius, who was constantly jealous of other spellcasters' abilities.
 
 

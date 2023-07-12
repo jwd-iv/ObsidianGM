@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target is compelled to help injured ally.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 At the sight of an injured ally, the target immediately disengages from its current course of action and rushes to provide aid. If the target possesses curative spells or magic items, it utilizes them to help the injured ally. If not, the target provides aid by performing a Heal check. The target remains with the injured ally to assure her safety and refuses to leave the ally's side until her wounds are fully treated or the spell ends, but can otherwise defend itself and make attacks.

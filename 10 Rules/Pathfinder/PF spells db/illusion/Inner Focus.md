@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 For the duration of this spell, you may ignore any divine focus components of your spells, allowing you to cast such spells without holding or revealing your holy or unholy symbol.

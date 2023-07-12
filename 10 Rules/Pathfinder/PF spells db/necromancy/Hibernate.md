@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You place a willing subject into a cataleptic state. It remains aware of its surroundings but is paralyzed, appearing dead unless observers make a DC 20 Heal check. Hibernate delays the effects of poison, disease, and bleed effects for the spell's duration, and half of any hit point damage suffered by the subject is converted to nonlethal damage.  This spell originated with the Green Faith, but has spread to all other druidic religions.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gets fast healing 2, fire resistance 10, and +2 to its CMD.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 When you cast this on a creature, its skin turns slick and clammy and it is able to regenerate damage each round. While under the effects of the spell, the creature gains fast healing 5, fire resistance 20 and a +2 competence bonus to its Combat Maneuver Defense.

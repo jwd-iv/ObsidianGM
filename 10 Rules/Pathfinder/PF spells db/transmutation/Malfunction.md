@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Construct behaves oddly for 1 round/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as confusion, except it only affects constructs, and instead of babbling incoherently, the construct takes no actions on its turn (but may still make attacks of opportunity).

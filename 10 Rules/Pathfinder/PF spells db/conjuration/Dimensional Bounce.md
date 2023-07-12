@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Teleport multiple times between two designated locations.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You designate two locations within range and create a dimensional link between them; you must have line of effect to both locations when casting this spell. As a swift action, you can teleport from your current location to either of the designated locations as if you had cast dimension door. The spell is discharged once you have used it to teleport a number of times equal to one-fourth your caster level (maximum 5 times).

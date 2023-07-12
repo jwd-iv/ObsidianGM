@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like summon monster, except it allows you to summon a single brimorak (Lords of Chaos 56), one incubus (Bestiary 3 73), one thoxel demon (see page 86), 1d3 schir demons (Bestiary 3 74), or 1d4+1 vermlek demons (Lords of Chaos 54).

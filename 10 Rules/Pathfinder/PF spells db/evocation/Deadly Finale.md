@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Deals 2d8 damage to multiple targets.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You must have a bardic performance in effect to cast this spell.  With a flourish, you immediately end your performance, dealing 2d8 points of sonic damage to each target. In addition, each target takes 3d6 points of bleed damage for 1d6 rounds. A save negates the bleed damage but not the sonic damage.

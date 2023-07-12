@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gains SR 12 + level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target gains spell resistance equal to 12 + your caster level.

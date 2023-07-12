@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Entice service from a fey of 12 Hit Dice or fewer.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as lesser entice fey, except that the spell's whimsical calling can produce a single fey of 12 Hit Dice or less, or two fey of the same kind whose Hit Dice total no more than 12.

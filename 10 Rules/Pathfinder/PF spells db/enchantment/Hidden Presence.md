@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Prevent creatures from noticing your presence.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You prevent the targets from having conscious awareness of your presence. You make yourself completely undetectable to the subjects by erasing all awareness of your presence from their minds. The targets can't see, hear, smell, feel, or taste you, including with extraordinary or supernatural senses such as blindsense, blindsight, scent, or tremorsense. They can't pinpoint your location by any means, including detect spells.  The targets remain unaware of your actions, provided you don't make any attacks or cause any obvious or directly threatening changes in the targets' environment. If you attack any of the target creatures, the effect ends. If you take an action that creates a sustained and obvious change in the target's environment-for example, attacking a creature other than a target or moving a sizeable or attended object the target can see-the target immediately receives a new saving throw.

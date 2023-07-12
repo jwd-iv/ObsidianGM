@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gains +5 on next Craft check.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target is struck by inspiration and gains a +5 luck bonus on its next Craft skill check.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Makes water unholy.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water (see Equipment). Unholy water damages good outsiders the way holy water damages undead and evil outsiders.

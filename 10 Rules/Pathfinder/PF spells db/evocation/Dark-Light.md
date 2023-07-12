@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You evoke a powerful light that affects all sighted creatures that do not posses light sensitivity. Those that succeed on their saves are dazzled for 1 round per level; those who fail are blinded for the same duration.

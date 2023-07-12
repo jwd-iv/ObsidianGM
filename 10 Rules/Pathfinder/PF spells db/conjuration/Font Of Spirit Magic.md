@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: When allies cast your spirit’s spells, they gain other bonuses.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You amplify the effect of magic associated with your spirit and your wandering spirit (any spells on the spirit magic spell lists for these spirits). When allies within the area cast these spells, they gain a +2 bonus on caster level checks and  concentration checks, as well as to spell DCs. This bonus is a sacred bonus if you are good-aligned or a profane bonus if you are evil-aligned; if you are neither good nor evil, you can choose what type of bonus the spell grants when you cast it.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You place a scrying sensor on your animal companion or familiar. This allows the animal companion or familiar to function as if it were an insect summoned by the greater insect spyUI spell. The animal companion or familiar does not change shape, nor does it lose the ability to make its own decisions, but it receives orders and gives answers as per insects summoned by that spell, and you can sense its direction and distance and receive sensory input from it as with that spell.

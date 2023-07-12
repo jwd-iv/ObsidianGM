@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's weight decreases by half. If this spell is cast on armor, the armor's armor check penalty decreases by 1, though its categorization as light, medium, or heavy does not change.

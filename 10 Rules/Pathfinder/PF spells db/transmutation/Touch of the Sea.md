@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Swim speed becomes 30 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cause webs to grow between the target's fingers and its feet to transform into flippers, granting a swim speed of 30 feet along with the standard +8 bonus on Swim checks and the ability to take 10 even if distracted or endangered. You can also use the run action while swimming, provided you swim in a straight line. This transformation causes any boots or gloves the target is wearing to meld into its form (although magic items with a continuous effect continue to function). This spell does not grant the target any ability to breathe water.

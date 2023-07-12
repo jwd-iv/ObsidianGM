@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Weapons are keen while you concentrate.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions like keen edge, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.

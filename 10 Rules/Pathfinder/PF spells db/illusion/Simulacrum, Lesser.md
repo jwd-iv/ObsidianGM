@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creates a double of a weak creature.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as simulacrum, except you can't create a simulacrum of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As tower of iron will I, but lasts 5 rounds.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as tower of iron will I, except as noted above. This spell can be undercast.

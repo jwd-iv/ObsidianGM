@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Designed to protect a large number of items from rivals of the Arclords of Nex, this spell functions as nondetection except as noted above. You can exclude any creatures or objects in the spell's range when casting this spell, if you wish.

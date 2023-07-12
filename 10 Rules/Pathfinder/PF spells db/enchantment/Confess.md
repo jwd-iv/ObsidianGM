@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creature answers question truthfully or takes 1d6 damage/two levels (max 5d6).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You ask the target creature a single question. On the subject's next action, it must answer truthfully in the same language as the question or take 1d6 points of damage per two caster levels (maximum 5d6) and be sickened for 2d4 rounds. A successful Will save negates the sickening effect and halves the damage. A creature that is unable to answer still takes damage.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target of this spell causes several conditions that he suffers from to be lessened in severity one step. If he is nauseated, he is instead sickened. If he is stunned, he is instead dazed. If he is exhausted, he is fatigued. If he is frightened, he is shaken. If he is paralyzed, he is staggered. The duration of the effect is unchanged; the effect is simply reduced to the lesser version. This spell has no effect on conditions not listed above.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as share language (Pathfinder RPG Advanced Player's Guide 243), granting a creature the ability to read, understand, and communicate to the best of its ability in any one language you know. For the spell's entire duration, the target can speak and write only in the language imparted, but its ability to understand other languages is unaffected.

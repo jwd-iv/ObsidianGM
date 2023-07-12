@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Perceive nearby creatures that are experiencing fear.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You sense the fear of those nearby, feeling it in the air around you. You can detect spooked, shaken, scared, frightened, panicked, terrified, and horrified creatures within 30 feet, and you immediately know what level of fear they are experiencing. You determine the creatures' approximate direction from you, though you do not sense a given creature's identity or know which squares the creatures occupy. If you're within 5 feet of a creature whose fear you sense, you pinpoint that creature's location, as if using blindsense.

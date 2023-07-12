@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As mind thrust I, but deal 1d8 points of damage per level (maximum 5d8).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as mind thrust I, but the target takes 1d8 points of damage per caster level (maximum 5d8). This spell can be undercast.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You instill the target with the ability to withdraw small items from her pockets or packs with supernatural swiftness. When the target retrieves an item stored on itself, it can retrieve  the item either as a move action without provoking attacks of opportunity, or as a swift action that provokes attacks of opportunity. This effect functions only when the target attempts to retrieve a stored item that weighs less than 1 pound per caster level (maximum 15 pounds).

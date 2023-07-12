@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Summons creature to fight.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like summon nature's ally I, except that you can summon one 3rd-level creature, 1d3 2nd-level creatures of the same kind, or 1d4+1 1st-level creatures of the same kind.

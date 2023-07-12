@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 1 ally/level gains darkvision and a +2 Stealth bonus.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The targets gain darkvision 30 feet and a +2 competence bonus on Stealth checks.

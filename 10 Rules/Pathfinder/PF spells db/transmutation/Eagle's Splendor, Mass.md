@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As eagle’s splendor, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like eagle's splendor, except that it affects multiple creatures.

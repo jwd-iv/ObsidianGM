@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target takes –4 on initiative and Reflex saves.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target takes a -4 penalty on initiative checks and Reflex saves.

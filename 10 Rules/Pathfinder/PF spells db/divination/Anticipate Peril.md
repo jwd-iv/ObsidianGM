@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Target gains a bonus on one initiative check.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A creature affected by anticipate peril gains a preternatural sense of danger. The first time during this spell's duration that the target has to make an initiative check, the creature adds an insight bonus on that initiative check equal to the spell's caster level (maximum +5). Once this bonus applies, the effects of the spell end.
 
 

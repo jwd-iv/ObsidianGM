@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target gains the eldritch ague spellblight.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target gains the eldritch ague spellblight (see page 96).

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ignites flammable objects.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can make an unattended Fine flammable object catch on fire. This works as if you were using flint and steel except that you can use spark in any sort of weather and it takes much less time to actually ignite an object.

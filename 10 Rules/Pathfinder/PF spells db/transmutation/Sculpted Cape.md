@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your cape, cloak, or shawl stiffens and maintains its shape even if removed. A sculpted cape has hardness 2 and a number of hit points equal to your caster level, and it can support 1 pound of weight per caster level. An unworn sculpted cape can provide cover.

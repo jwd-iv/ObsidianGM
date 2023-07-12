@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Each ally in area gains a +10 bonus on one Reflex save.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You grant each of your allies within the area a +10 competence bonus on a single Reflex saving throw. Each ally must decide whether to use the bonus before making the roll to which it applies. When an ally uses the bonus, the spell ends for that individual.

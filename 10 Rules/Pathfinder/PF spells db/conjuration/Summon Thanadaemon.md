@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like summon monster, except it summons a single thanadaemon. You can only use this spell in an area with enough open water to accommodate the daemon's skiff, or when on the Astral Plane or Ethereal Plane.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Curse an area with eternal night.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 By touching the ground, you curse an area to remain in bleak darkness, as the endless night curse (see page 143). The focus merges into the cursed area as part of the spell and can only be retrieved if the curse is lifted.

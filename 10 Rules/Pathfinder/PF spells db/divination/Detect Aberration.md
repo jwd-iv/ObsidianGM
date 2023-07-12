@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Reveals presence of aberrations.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like detect animals or plants, except it detects creatures of the aberration type.

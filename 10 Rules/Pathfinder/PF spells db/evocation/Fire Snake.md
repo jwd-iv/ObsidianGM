@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a sinuous line of flames that you may shape as desired. The fire snake affects one 5-foot square per caster level, and each square must be adjacent to the previous square, starting with you. The fire snake may not extend beyond its maximum range. Creatures in the path of the fire snake take 1d6 points of fire damage per caster level (maximum 15d6).
 
 

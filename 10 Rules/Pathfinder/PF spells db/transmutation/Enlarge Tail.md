@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 When attacking with your tail or tail weapons, you gain 5 feet of reach, a +1 bonus on attack rolls, and a +2 bonus on damage rolls.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Send messages as per message with one suggestion for each creature.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as demanding message, except that you can issue one suggestion to each of the spell's targets instead of just one. Each time you do so, it takes a standard action. You can issue a different suggestion to each target.

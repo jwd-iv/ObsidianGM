@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Harm and possibly slow lawful creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You hurl a multicolored shard of congealed chaos from your holy symbol, affecting any one target in range as a ranged touch attack.  A lawful creature struck by the shard takes 1d8 points of damage per two caster levels (maximum 5d8). A lawful outsider instead takes 1d6 points of damage per caster level (maximum 10d6) and is slowed (as slow) for 1 round. A successful Will save reduces the damage to half and negates the slow effect. The bolt has no effect on chaotic creatures. This spell deals only half damage to creatures that are neither lawful nor chaotic, and they are not slowed.

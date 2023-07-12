@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as compel tongue, except it affects multiple creatures. The same language restriction applies to all creatures, and the same language must be imparted to all creatures affected by the same casting of this spell.

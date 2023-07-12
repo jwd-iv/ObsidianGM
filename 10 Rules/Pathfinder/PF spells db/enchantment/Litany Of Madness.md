@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: A single target is confused for at least 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This litany is a sermon of madness. The target is confused. At the start of each of its turns, it can make a Will saving throw against the confused effect (DC of the spell). If the target fails the save, it continues to be confused. If it makes the save, the effect ends.  While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As delay poison, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like delay poison, except you divide the duration in 1-hour intervals among the creatures touched.

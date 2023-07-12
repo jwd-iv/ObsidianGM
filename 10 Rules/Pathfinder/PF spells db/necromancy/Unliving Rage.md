@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As rage, except affecting only undead.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as rage, except it affects only undead creatures and bolsters them with necromantic energy rather than emotion. Each affected creature gains a +2 profane bonus to Strength and Charisma, a +1 profane bonus on Will saves, and a -2 penalty to AC. The effect is otherwise identical to a barbarian's rage.

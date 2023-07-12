@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ignore penalties from venerable age.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as lesser age resistance, except you ignore all Strength, Dexterity, and Constitution penalties gained from middle age, old age, and venerable age.

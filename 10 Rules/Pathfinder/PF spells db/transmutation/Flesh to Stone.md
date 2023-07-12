@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Turns subject creature into statue.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject, along with all its carried gear, turns into a mindless, inert statue. If the statue resulting from this spell is broken or damaged, the subject (if ever returned to its original state) has similar damage or deformities. The creature is not dead, but it does not seem to be alive either when viewed with spells such as deathwatch.  Only creatures made of flesh are affected by this spell.

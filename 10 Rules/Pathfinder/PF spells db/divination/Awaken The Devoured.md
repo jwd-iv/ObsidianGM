@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell is often used by conjurers as a method to torment daemons and force compliance, for it awakens the broken, anguished memories of the countless souls that the target daemons have consumed. All daemons targeted by awaken the devoured must be within 30 feet of each other. The fragmented memories haunt and afflict the daemons, dealing 1d8 points of damage per caster level (maximum 15d8) and making the daemons confused for 1 round per level. A daemon that succeeds at a Will save halves the damage and negates the confusion effect.

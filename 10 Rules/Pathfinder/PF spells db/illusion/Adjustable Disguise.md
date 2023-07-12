@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As disguise self, but you can change the disguise as a swift action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as disguise self, except as a swift action you can alter the disguise (within the limitations of disguise self). For example, you could make yourself look like a young human city guard, then an old elven wizard of the opposite gender, then a halfling thief, and so on. You can change the disguise a number of times equal to your caster level.

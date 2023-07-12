@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Attacks miss subject 20% of the time.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject's outline appears blurred, shifting, and wavering. This distortion grants the subject concealment (20% miss chance). A see invisibility spell does not counteract the blur effect, but a true seeing spell does. Opponents that cannot see the subject ignore the spell's effect (though fighting an unseen opponent carries penalties of its own).

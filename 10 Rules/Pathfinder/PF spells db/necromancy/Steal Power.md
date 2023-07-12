@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You sap the power from a mythic creature, using it to restore your own. The target loses 1d4 uses of mythic power. If you have the ability to expend mythic power, you regain one use for each use the target loses.

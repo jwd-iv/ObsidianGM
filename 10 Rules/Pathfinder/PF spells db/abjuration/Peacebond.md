@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Locks a weapon in place on the target's body.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You lock a weapon in place on its owner's body, or within the weapon's sheath or holster. Anyone who then tries to draw the weapon must spend a standard action and succeed at a Strength check (DC equal to the saving throw DC) to do so, provoking attacks of opportunity whether the attempt succeeds or fails.

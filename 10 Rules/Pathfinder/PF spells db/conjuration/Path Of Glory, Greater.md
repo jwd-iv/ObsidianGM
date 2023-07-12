@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create an expanding glow that heals allies within it of 5 hp of damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as path of glory, except as noted above, and a square provides 5 points of healing instead of 1.

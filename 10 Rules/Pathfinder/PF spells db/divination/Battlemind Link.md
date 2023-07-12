@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You and an ally gain attack and AC bonuses.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fuse your thoughts with an ally's, allowing the two of you to fight in tandem, perfectly coordinated. You and the ally each roll initiative in combat and use the higher die result before adding modifiers. This has three effects.   Melee: If you both make melee attacks against the same creature, you both make attack rolls and both use the higher of the two dice for your attack rolls (plus bonuses).   Ranged: If you both make ranged attacks against the same creature, you both make attack rolls and both use the higher of the two dice for your attack roll (plus bonuses).   Spell: If you both cast spells and target the same area or same creature, affected creatures take a -2 penalty on their saving throw against the spells.   You and the target lose these benefits if you cannot see each other or if you or the target is unconscious or helpless.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your skin becomes more elastic, distributing crushing damage efficiently. For the duration of the spell, all bludgeoning and falling damage you take is converted into nonlethal damage. This spell has no effect if you're immune to nonlethal damage.

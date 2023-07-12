@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like stinking cloud, except as noted above and that the vapors make creatures sickened instead of nauseated.  Cloud of seasickness can be made permanent with a permanency spell (requiring a 9th-level caster and costing 2,500 gp). A permanent cloud of seasickness dispersed by wind reforms in 10 minutes.

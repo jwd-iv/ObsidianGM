@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: See 60 ft. in darkness, including magical darkness.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You gain darkvision, the ability to see 60 feet even in total darkness, including that created by deeper darkness.  Darkvision is black-and-white only, but otherwise like normal sight. While affected, your eyes turn completely black (but appear white to anyone viewing you with darkvision).

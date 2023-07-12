@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: +20 on Perception checks to locate a target.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Sharpening your perceptive abilities and tuning them against obfuscating effects, hunter's eye greatly enhances your senses against the target creature. You gain the ability to perceive the target when it is invisible or ethereal as though using the see invisibility spell, and receive a +20 competence bonus on Perception checks to locate the target. You ignore concealment provided by fog or mist, blur, displacement, invisibility, and similar effects affecting the target, but not concealment provided by darkness. This spell provides no benefits to your allies, and no benefits against creatures other than the target.

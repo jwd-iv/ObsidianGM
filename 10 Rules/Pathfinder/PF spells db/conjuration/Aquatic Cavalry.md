@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Summon hippocampi to serve as aquatic mounts.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You summon a school of hippocampi (one plus one per 3 caster levels, to a maximum of six at 15th level; Pathfinder RPG Bestiary 2 155) to serve as combat-trained mounts. The hippocampi avoid combat if possible but defend themselves if attacked. If any hippocampus attacks, the remaining duration of the spell changes from 1 hour per level to 1 round per level (so if a full 4 hours remained, the hippocampi last for only 4 more rounds).

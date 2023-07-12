@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like lesser summon genie, except you can summon one shaitan, 1d3 djinn, or 1d4+1 jann.

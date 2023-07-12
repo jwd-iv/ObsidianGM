@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Touch attack deals 1d4 acid/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your successful melee touch attack deals 1d4 points of acid damage per caster level (maximum 5d4).

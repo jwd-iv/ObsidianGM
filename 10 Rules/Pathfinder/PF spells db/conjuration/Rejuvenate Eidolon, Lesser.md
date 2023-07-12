@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Eidolon cured 1d10 damage +1/level (max +5).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 By laying your hand upon an eidolon, you cause its wounds to close and its form to solidify. This spell cures 1d10 points of damage +1 point per caster level (maximum +5).

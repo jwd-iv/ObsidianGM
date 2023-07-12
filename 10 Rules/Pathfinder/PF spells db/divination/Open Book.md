@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Make it permanently easier to learn more about a target.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You lay bare not only the mind of a target, but the target's history as well. The target takes a -2 penalty on saving throws against  divinations, and Diplomacy checks to gather information about the target gain a bonus equal to half your caster level (maximum +10).

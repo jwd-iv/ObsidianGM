@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's soul is strongly anchored to its body, preventing death from hit point damage. No matter how low the target's hit points get, it remains alive (though not necessarily conscious).  This spell doesn't prevent death from sources other than hit point damage-such as Constitution damage or drain, death effects, or energy drain. Spells that cure hit points affect the creature normally.
 
 

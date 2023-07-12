@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Also known as "unshackle," this spell functions as knock, but works on multiple means of closure at once.

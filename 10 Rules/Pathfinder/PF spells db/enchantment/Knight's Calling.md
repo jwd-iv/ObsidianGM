@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Forces target to move toward you and fight you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You compel an enemy to come and fight you. On its turn, the target moves its speed toward you, avoiding any other dangers along its path (including any movement that would provoke attacks of opportunity). The target may do nothing but move on its turn. If the target ends its move adjacent to you, you can make an attack of opportunity against the target.

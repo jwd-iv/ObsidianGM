@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Skeletal corpse grows flesh.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You grow flesh on a decomposed or skeletonized corpse of a Medium or smaller creature, providing it with sufficient flesh that it can be animated as a zombie rather than a skeleton. The corpse looks as it did when the creature died. The new flesh is somewhat rotted and not fit for eating.

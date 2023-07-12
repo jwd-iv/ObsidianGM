@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As magic circle, but affecting a non-alignment subtype or outsider race.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as magic circle against chaos, evil, good, or law, but rather than stipulating an alignment descriptor, you can designate any one non-alignment subtype of outsider, including air, earth, fire, and water, as well as outsider races such as angels and devils.

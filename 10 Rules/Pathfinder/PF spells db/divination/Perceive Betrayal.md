@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 By donning a silver circlet anointed with blood, you gain the ability to sense traitorous intent toward a single person to whom you defer, designated when you cast the spell. The spell alerts you when a creature with traitorous intent is within 200 feet, although it doesn't identify the source. By concentrating, you can learn the strength of the greatest threat, based on the following categories.  Ill Will: Someone dislikes your liege, but isn't planning to act against her.  Plotting: Someone is actively conspiring against your liege.  Imminent: Someone is in the process of carrying out a plot against your liege.  Creatures that are immune to mind-affecting or thought-detecting effects cannot have their intent detected by perceive betrayal.

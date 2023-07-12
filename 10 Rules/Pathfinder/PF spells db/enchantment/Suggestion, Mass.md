@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As suggestion, affects subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like suggestion, except that it can affect more creatures. The same suggestion applies to all these creatures.

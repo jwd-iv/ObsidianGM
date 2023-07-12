@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject shines and gets +1/four levels on all saves.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A shimmering mantle of light shrouds the subject, light like a torch. The subject of the spell gains a +1 resistance bonus on all saving throws per four caster levels (maximum +5 at 20th level). The subject can end the wrathful mantle at any time as a swift action to deal 2d8 points of force damage to all creatures within 5 feet.

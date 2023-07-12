@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You place a curse on the subject. Choose one of the following. -6 decrease to an ability score (minimum 1).  -4 penalty on attack rolls, saves, ability checks, and skill checks.  Each turn, the target has a 50% chance to act normally; otherwise, it takes no action. You may also invent your own curse, but it should be no more powerful than those described above. The curse bestowed by this spell cannot be dispelled, but it can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell. Bestow curse counters remove curse.

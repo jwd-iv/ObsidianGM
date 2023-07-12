@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell makes even the clunkiest armor feel soft as silk to the wearer. The subjects of this spell are able to sleep comfortably in medium or heavy armor without suffering from fatigue the following day.

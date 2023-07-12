@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As share language, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like share language (Advanced Player's Guide 243), except you divide the duration in 1-hour increments among the creatures touched.

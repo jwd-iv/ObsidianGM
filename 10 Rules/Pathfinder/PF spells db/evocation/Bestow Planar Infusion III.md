@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grant a target the effects of a greater planar infusion.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as bestow planar infusion I, except that the touched creature gains the greater infusion of the current plane.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Arrow deals damage as your unarmed strike.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You imbue an arrow with your power and throw it at a target up to 100 feet away. Make a ranged attack roll. If it hits, the target takes damage from the arrow as if you had hit it with a single unarmed strike (including your Strength bonus).

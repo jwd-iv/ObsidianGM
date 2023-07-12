@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Emanation hampers illusions and stealth.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a magical emanation that interferes with all figments and glamers within it, giving creatures a +4 bonus on saving throws to recognize them as illusions. The emanation negates concealment less than total concealment within the area. Perception checks to notice creatures or objects within the area gain a bonus equal to half your caster level (maximum +10). The spell is stationary if cast on a point in space. It is mobile if centered on a creature or object, though creatures or attended objects can negate the spell with a saving throw or spell resistance.

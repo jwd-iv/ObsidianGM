@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Favored by the necromancer Geb as a tool to turn his enemies' armies against themselves, this potent death spell deals 1d6 points of damage per caster level (maximum 20d6) to living creatures in the area of effect.
 
 

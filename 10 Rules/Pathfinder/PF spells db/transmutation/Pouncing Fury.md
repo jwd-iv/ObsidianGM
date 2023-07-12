@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Pouncing Fury
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 When you charge, you can make a full attack at the end of that charge, but only with claw attacks you have, and you can make only one attack per claw. If you have abilities that grant bonuses on damage rolls or that apply other special effects to charge attacks, only the first claw attack benefits from these bonuses. When you make a claw attack as an attack of opportunity, you can expend one additional use of your attacks of opportunity to make an additional claw attack against the target that provoked the attack.

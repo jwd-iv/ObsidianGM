@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's buoyancy becomes and stays neutral, regardless of how dense the target and its gear are. Among other effects, the target neither sinks nor rises when it doesn't attempt a Swim check, making it easier to stay put while performing demanding actions or when helpless or disabled, and the target can swim up and down with equal ease.

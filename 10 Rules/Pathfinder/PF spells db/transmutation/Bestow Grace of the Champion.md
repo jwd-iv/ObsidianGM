@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target gains paladin abilities for 1 round/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You channel the power of good and law into the target, temporarily giving it powers similar to those of a paladin.  The target gains the ability to use detect evil at will as a spell-like ability, immunity to disease (suppressing any diseases currently affecting it), and immunity to fear (ending any fear effects currently affecting it); can lay on hands (on itself only) once as a paladin of 1/2 your caster level; and can smite evil once as a paladin of 1/2 your caster level. It adds its Charisma bonus to all its saving throws. It can use spell completion, spell trigger, or other magic items that require the ability to cast spells as a paladin. Any abilities not used by the time the spell expires are lost. This spell has no if cast on a paladin.

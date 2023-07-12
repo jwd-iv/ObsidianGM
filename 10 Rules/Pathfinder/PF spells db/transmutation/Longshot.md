@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grants a +10 foot bonus to the range increment for any ranged weapon fired.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell reduces the effect of range, granting a +10-foot bonus to the range increment of any weapon used by the subject.

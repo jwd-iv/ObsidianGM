@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Weapon gains +1 bonus/four levels (max +5).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like magic weapon, except that it gives a weapon an enhancement bonus on attack and damage rolls of +1 per four caster levels (maximum +5). This bonus does not allow a weapon to bypass damage reduction aside from magic.  Alternatively, you can affect as many as 50 arrows, bolts, or bullets.  The projectiles must be of the same kind, and they have to be together (in the same quiver or other container). Projectiles, but not thrown weapons, lose their transmutation after they are used.  Treat shuriken as projectiles, rather than as thrown weapons, for the purpose of this spell.
 
 

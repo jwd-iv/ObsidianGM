@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As lesser rejuvenate eidolon, but cures 3d10 damage +1/level (max +10).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as lesser rejuvenate eidolon, except that it cures 3d10 points of damage +1 point per caster level (maximum +10).

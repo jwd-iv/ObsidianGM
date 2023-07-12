@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as create undead (Pathfinder RPG Core Rulebook 262), except it creates one of the following variant mummies: bog mummy, ice mummy, or Osirian tomb guardian.

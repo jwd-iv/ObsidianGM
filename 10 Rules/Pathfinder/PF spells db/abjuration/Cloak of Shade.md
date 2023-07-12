@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Reduces effects of sun exposure and heat.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 (harmless) This spell provides the subject with some degree of protection from the harmful effects of the sun. The cloaked subject treats environmental heat due to sun exposure as one level less: severe heat is considered very hot conditions, while very hot is considered average temperature (see page 444 of the Core Rulebook for heat dangers). The cloak of shade also reduces any penalties from sunlight by 1. The spell does not, however, eliminate the effects of direct sunlight on creatures vulnerable to sunlight. Cloak of shade has no effect on environmental heat from sources other than the sun.

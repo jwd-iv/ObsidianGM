@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As energy siege shot, but you can affect any size siege engine.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like energy shot, except it can target siege engines of any size, not just Large siege engines.

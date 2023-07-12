@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gain +10 on Bluff to send secret messages.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You greatly enhance the ability of the subjects to communicate hidden messages to each other. Each target gains a +10 competence bonus on Bluff checks to send secret message to other recipients. Others using opposed Sense Motive checks to decipher these messages receive a -5 penalty. All subjects affected by the spell must share a language to be able to pass messages.

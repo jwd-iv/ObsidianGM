@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gain 1d10 temporary hp + 1/level (max +10).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You harness the power of unlife to grant yourself a limited ability to avoid death. While this spell is in effect, you gain temporary hit points equal to 1d10 + 1 per caster level (maximum +10).

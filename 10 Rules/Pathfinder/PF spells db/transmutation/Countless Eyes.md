@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Extra eyes give all-around vision.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target sprouts extra eyes all over its body, including on the back of its head. It gains all-around vision (Bestiary 2 294) and cannot be flanked.

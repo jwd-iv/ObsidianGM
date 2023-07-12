@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As inflict pain, but affecting one creature per level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like inflict pain except as noted above.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You cheat the laws of time and enter into combat before reverting back to your original position. As part of the action to cast the spell, you make a charge attack against an enemy. You make this charge attack normally, accounting for terrain,  obstacles, attacks of opportunity, attack rolls, and damage rolls. At the end of your charge action, you instantly teleport back to your original location as a free action. Any damage or conditions dealt by you or to you during this action are real and remain when you return to your original location.

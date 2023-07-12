@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Your arms lengthen, giving you extra reach.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your arms temporarily grow in length, increasing your reach with those limbs by 5 feet.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Affected creatures gain tactical knowledge and maximize their efficiency on the field of battle. Each gains a +1 insight bonus to AC and Reflex saves. Against attacks of opportunity, the insight bonus to AC increases to +3.

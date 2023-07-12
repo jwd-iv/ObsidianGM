@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject gains +4 to Int for 1 min./level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target becomes smarter. The spell grants a +4 enhancement bonus to Intelligence, adding the usual benefits to Intelligencebased skill checks and other uses of the Intelligence modifier.  Wizards (and other spellcasters who rely on Intelligence) affected by this spell do not gain any additional bonus spells for the increased Intelligence, but the save DCs for spells they cast while under this spell's effect do increase. This spell doesn't grant extra skill ranks.

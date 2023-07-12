@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As dance of a hundred cuts, plus the benefits of haste.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as dance of a hundred cuts, except you also gain the benefits of haste.

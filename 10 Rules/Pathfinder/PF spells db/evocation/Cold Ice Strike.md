@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Cone of ice slivers deals 1d6 cold/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a shredding flurry of ice slivers, which blast from your hand in a line. The line deals 1d6 points of cold damage per caster level (maximum 15d6).

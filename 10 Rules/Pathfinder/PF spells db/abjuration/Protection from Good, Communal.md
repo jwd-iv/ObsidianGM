@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As protection from good, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like protection from good, except you divide the duration in 1-minute intervals among the creatures touched.

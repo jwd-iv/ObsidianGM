@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target weapon turns a glossy black color and deals bleed damage if it deals hit point damage to a creature. The amount of bleed damage is equal to 1/2 your caster level (maximum bleed 5).

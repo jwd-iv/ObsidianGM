@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create a phantasm with effects for all senses.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as audiovisual hallucination (see page 204), except that the phantasm you create can also include olfactory, tactile, and thermal effects.

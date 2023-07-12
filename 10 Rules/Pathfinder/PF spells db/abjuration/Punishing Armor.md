@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You coat yourself with a thin layer of shimmering energy. Any creature dealing nonlethal damage to you immediately takes half the amount of nonlethal damage dealt. A successful Fortitude save made by the attacking creature negates this damage.

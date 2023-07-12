@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As spell immunity, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like spell immunity, except you divide the duration in 10-minute intervals among the creatures touched.

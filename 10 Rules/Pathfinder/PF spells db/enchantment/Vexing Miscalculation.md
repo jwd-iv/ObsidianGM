@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You frustrate an opponent with ill fortune that leads even its most accurate attacks astray. The target is unable to score critical threats for the duration of this spell, even if the result of its roll would normally be a critical threat. If the creature rolls a natural 20, the attack still hits regardless of its opponent's AC, but the hit is not eligible for a critical confirmation roll. Once a critical threat has been foiled by vexing miscalculation, the spell is discharged.

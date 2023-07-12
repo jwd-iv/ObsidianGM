@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You instantly stabilize the target's pressure, causing it to adjust to its current pressure all at once. This doesn't help it readjust to future pressure changes.

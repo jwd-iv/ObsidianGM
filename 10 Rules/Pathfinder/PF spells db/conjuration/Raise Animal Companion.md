@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As raise dead, but on an animal.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as raise dead, but it only affects an animal companion, familiar, or paladin's bonded mount.

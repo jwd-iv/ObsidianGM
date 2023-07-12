@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creates new sounds or changes existing ones into new sounds.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can change the sounds that creatures or objects make. You can create sounds where none exist, deaden sounds, or transform sounds into other sounds. All affected creatures or objects must be transmuted in the same way. Once the transmutation is made, you cannot change it. You can change the qualities of sounds but cannot create words with which you are unfamiliar yourself.  A spellcaster whose voice is changed dramatically is unable to cast spells with verbal components.

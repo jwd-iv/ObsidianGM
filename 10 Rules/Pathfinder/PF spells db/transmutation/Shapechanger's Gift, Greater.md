@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Temporarily change a target into an animal, elemental, fey, humanoid, monstrous humanoid, or vermin.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as shapechanger's gift except the chosen form can be an animal (as per beast shape I), elemental (as per elemental body I), fey (as per fey form I*), humanoid (as per alter self), monstrous humanoid (as per monstrous physique IUM), or vermin (as per vermin shape IUM) and the chosen form can have a fly speed.

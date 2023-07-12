@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You weave golden masks shaped like animals around the targets' faces, imbuing each target with an animal spirit that matches her strength of character. Each target gains one animal special ability of your choice granted by beast shape I. You can choose a different special ability for each target.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target gains a 50% chance to treat critical hits and sneak attacks as normal hits.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as shield of fortification, except there is a 50% chance that the critical hit or sneak attack is negated and damage is instead be rolled normally, rather than 25%.

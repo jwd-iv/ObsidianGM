@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Transforms you into certain creatures, and you can change forms once per round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell allows you to take the form of a wide variety of creatures. This spell can function as alter self, beast form IV, elemental body IV, form of the dragon III, giant form II, and plant shape III depending on what form you take. You can change form once each round as a free action. The change takes place either immediately before your regular action or immediately after it, but not during the action.

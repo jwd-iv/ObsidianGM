@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Harm and possibly blind evil creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You hurl a pure white or golden spear of light from your holy symbol, affecting any one target within range as a ranged touch attack.  An evil creature struck by the spear takes 1d8 points of damage per two caster levels (maximum 5d8). An evil outsider instead takes 1d6 points of damage per caster level (maximum 10d6) and is blinded for 1 round. A successful Will save reduces the damage to half and negates the blinded effect. This spell deals only half damage to creatures that are neither evil nor good, and they are not blinded. The spear has no effect on good creatures.

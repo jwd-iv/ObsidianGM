@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Targets easily float on water.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The affected targets become incredibly buoyant, floating naturally on any water at least 1 foot deep.  An affected creature that deliberately tries to submerge must succeed at a DC 20 Swim check every round to stay underwater. If a target spends at least 1 round on dry land, the spell ends for that creature only.

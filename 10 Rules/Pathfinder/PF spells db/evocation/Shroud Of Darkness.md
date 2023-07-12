@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With a dark incantation and a gesture of your hand over your eyes, you cause a shroud of darkness to descend upon the targets of this spell. The subjects treat the light level as two steps lower than normal for the duration of this spell. Bright light becomes dim light, normal light becomes darkness, and areas of dim light and darkness become supernaturally dark (as darkness, but even creatures with darkvision cannot see).

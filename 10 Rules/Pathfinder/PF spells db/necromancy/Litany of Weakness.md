@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Single target is fatigued for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your litany proclaims your target weak, sapping its strength. The target is fatigued for 1 round.  While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

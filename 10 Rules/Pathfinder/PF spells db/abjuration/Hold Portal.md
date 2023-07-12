@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Holds door shut.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A knock spell or a successful dispel magic spell can negate a hold portal spell.  Add 5 to the normal DC for forcing open a portal affected by this spell.
 
 

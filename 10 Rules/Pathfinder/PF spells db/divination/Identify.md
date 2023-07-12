@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gives +10 bonus to identify magic items.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as detect magic, except that it gives you a +10 enhancement bonus on Spellcraft checks made to identify the properties and command words of magic items in your possession. This spell does not allow you to identify artifacts.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As nondetection, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like nondetection, except you divide the duration in 1-hour increments among the creatures or objects touched.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Deals 1d6 damage to one undead.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You direct a ray of positive energy. You must make a ranged touch attack to hit, and if the ray hits an undead creature, it deals 1d6 points of damage to it.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Increase construct hardness or DR.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell increases the target's DR/adamantine by 5 or its hardness by 5. If the target does not have DR/adamantine or hardness, this spell has no effect.

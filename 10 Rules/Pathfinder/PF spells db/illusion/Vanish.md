@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As invisibility for 1 round/level (5 max).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like invisibility, except the effect only lasts for 1 round per caster level (maximum of 5 rounds). Like invisibility, the spell immediately ends if the subject attacks any creature.

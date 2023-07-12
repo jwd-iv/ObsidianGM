@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Compel a target to take a criminal action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You awaken a sudden criminal impulse in the target, compelling it to commit a criminal act as if affected by the crime wave spell.

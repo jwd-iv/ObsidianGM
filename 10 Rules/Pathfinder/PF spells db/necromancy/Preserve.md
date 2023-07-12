@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You imbue one or more objects with magic that dramatically slows down natural processes that lead to decay and spoilage. For the duration of the spell, food, water, plants, and other perishable objects affected by the spell remain as fresh as they were when the spell was cast. The spell also protects these objects against spells of the same level or lower that cause spoilage, such as putrefy food and drinkAPG. When the duration of preserve expires, the objects resume aging at their normal rate.  The spell also works on severed body parts and the bodies of small creatures as per gentle repose, provided that the weight of the creature or part does not exceed the spell's limit.  Preserve can be made permanent with a permanency spell by a caster of 9th level or higher for 500 gp.

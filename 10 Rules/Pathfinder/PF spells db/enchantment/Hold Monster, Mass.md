@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As hold monster, but all within 30 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like hold person, except that it affects multiple creatures and holds any living creature that fails its Will save.

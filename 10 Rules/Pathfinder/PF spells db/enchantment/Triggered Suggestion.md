@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As suggestion, but triggered only and target doesn’t remember the suggestion.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as suggestion, except you can use it only to specify a condition that triggers a special activity, and the subject does not remember that you made the suggestion.  For example, you could use triggered suggestion on a palace guard to make him attack the king the next time he and the king are alone, and the guard would not remember the suggestion to do so until the trigger occurred.

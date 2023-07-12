@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like summon monster, except that it summons a single vanth psychopomp. Vanth psychopomps are detailed on page 221 of Pathfinder RPG Bestiary 4.

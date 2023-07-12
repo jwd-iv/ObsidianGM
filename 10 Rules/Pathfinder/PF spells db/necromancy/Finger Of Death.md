@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Deals 10 damage/level to one subject.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell instantly delivers 10 points of damage per caster level. If the target's Fortitude saving throw succeeds, it instead takes 3d6 points of damage + 1 point per caster level. The subject might die from damage even if it succeeds on its saving throw.
 
 

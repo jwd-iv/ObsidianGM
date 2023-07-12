@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: One creature/level suffocates to death.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as suffocation except as noted above. Note that the duration of this spell is much longer, forcing those suffering from the effect to make far more Fortitude saves to stave off eventual suffocation.

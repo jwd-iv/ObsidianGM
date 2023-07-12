@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Step into one doorway and out another.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You set up a magical connection between two doors (or other physical portals, such as windows) that both must be within range, line of sight, and line of effect. During the spell's duration, you can move through one of the two portals. When you do, you teleport to the other portal, emerging in either direction. Both portals must be open and unobstructed when you cast the spell and enter the first portal, and they both must be large enough for you to fit through, otherwise the spell ends and the teleportation fails. You can bring along objects as long as their combined weight doesn't exceed your maximum load. You can't bring other creatures with you, and other creatures that go through the portals don't teleport. Once you step through, the spell ends and you can't take any other actions until your next turn.

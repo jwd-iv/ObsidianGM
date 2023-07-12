@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Dispels invisibility within 5 ft./level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of invisibility.  Anything invisible becomes visible while in the area.

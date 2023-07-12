@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As siege of trees, but can transform Huge and Gargantuan trees into arboreal catapults of the same size.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 As siege of trees, but you can affect larger-sized plants. Each plant acts as a catapult of its size.

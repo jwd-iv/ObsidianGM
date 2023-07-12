@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: One creature is confused for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell causes a single creature to become confused for 1 round.

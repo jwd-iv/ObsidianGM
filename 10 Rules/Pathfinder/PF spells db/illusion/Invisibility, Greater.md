@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As invisibility, but subject can attack and stay invisible.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like invisibility, except that it doesn't end if the subject attacks.

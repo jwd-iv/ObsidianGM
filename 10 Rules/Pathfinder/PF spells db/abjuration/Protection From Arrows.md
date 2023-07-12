@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Subject gains DR 10/magic against ranged attacks.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The warded creature gains resistance to ranged weapons.  The subject gains damage reduction 10/magic against ranged weapons. This spell doesn't grant you the ability to damage creatures with similar damage reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged.
 
 

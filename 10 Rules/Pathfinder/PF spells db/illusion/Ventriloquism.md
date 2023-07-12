@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Throws voice for 1 min./level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can make your voice (or any sound that you can normally make vocally) seem to issue from someplace else. You can speak in any language you know. With respect to such voices and sounds, anyone who hears the sound and rolls a successful save recognizes it as illusory (but still hears it).

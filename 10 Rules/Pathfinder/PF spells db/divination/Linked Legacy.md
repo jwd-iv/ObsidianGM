@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell helps build community and ensure a shared vision for the future. When any of the affected creatures succeeds at a Knowledge check to answer a question within its field of study or identify a monster and its special powers or vulnerabilities, as a free action the affected creature can share any information gained automatically with all targets of the spell. If any of the targets move out of the spell's range, the spell ceases to function for all of them until they are all within close range of you again.

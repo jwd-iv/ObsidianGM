@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are. Among other effects, the target needs to succeed at a DC 20 Swim check to submerge itself and to stay submerged (see Buoyancy on page 43).

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Use change shape as a swift action and surprise foes.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 If you have the change shape special quality, you can revert to your true form as a swift action. If a creature is not aware of your true form, when you use this spell to revert to your true form and attack that creature in the same round, the creature is denied its Dexterity bonus to AC against your first attack.

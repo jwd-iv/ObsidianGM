@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Compels the target to look only at you for the duration of the spell.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You compel the target to look at you and only you for the spell's duration or until the spell is discharged. While staring at you, the target is considered to be averting its eyes from every creature but you, granting creatures other than you concealment against the target's attacks. If the target willingly leaves your line of sight, it is blinded for 1 round and the spell ends. If you willingly leave the target's line of sight or become unconscious or dead, the spell creature suffers no ill effects. Blind creatures and creatures immune to gaze attacks are immune to this spell.

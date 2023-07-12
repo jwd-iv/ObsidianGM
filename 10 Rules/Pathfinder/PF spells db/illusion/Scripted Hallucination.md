@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As complex hallucination, but without concentration.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as audiovisual hallucination (see page 204), except that the phantasm includes visual, auditory, olfactory, tactile, and thermal components, and the phantasm follows a complex script. The phantasm follows that script without y

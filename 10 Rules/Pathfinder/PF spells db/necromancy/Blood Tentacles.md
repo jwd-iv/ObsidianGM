@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You smear a handful of your own blood across your chest, causing one writhing tentacle per caster level to burst forth. You can direct these tentacles to attack a single creature within 15 feet as a standard action, or one creature per 5 caster levels as a full-round action. Each tentacle has an attack bonus equal to your base attack bonus plus either your Constitution or Charisma bonus (whichever is higher). Each tentacle deals 2d6 points of damage, and a tentacle collapses into dried blood on a successful hit, granting you a number of temporary hit points equal to the damage dealt. You can't gain more temporary hit points than your maximum number of hit points. These temporary hit points disappear after 1 hour.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subjects can breathe underwater.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The transmuted creatures can breathe water freely. Divide the duration evenly among all the creatures you touch. The spell does not make creatures unable to breathe air.

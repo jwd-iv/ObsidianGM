@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target gains a +5 insight bonus on Perception checks to see through disguises. This bonus increases to +10 at caster level 7th.

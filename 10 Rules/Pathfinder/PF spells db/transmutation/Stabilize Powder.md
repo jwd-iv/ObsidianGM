@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ammunition in the targeted firearm is less likely to misfire.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Ammunition currently loaded in the target firearm is less prone to misfire. Decrease the misfire range by 1 + 1 per five caster levels (maximum +5, minimum misfire 0) for the ammunition currently loaded into that firearm.

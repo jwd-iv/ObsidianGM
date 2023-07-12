@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As invigorate, but multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell work as invigorate, except it affects multiple creatures.

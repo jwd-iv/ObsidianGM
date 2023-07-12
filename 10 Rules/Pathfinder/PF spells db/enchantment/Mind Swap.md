@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Switch minds with another creature for 1 hour per level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell is similar to possession, except you switch minds with the target, so instead of the target's soul sharing its body with yours and being unable to act, the target's mind moves to your body and can control it as if you each had cast possession on the other.

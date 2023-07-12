@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Outlines subjects with light, canceling blur, concealment, and the like.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A pale glow surrounds and outlines the subjects. Outlined subjects shed light as candles. Creatures outlined by faerie fire take a -20 penalty on all Stealth checks. Outlined creatures do not benefit from the concealment normally provided by darkness (though a 2nd-level or higher magical darkness effect functions normally), blur, displacement, invisibility, or similar effects. The light is too dim to have any special effect on undead or dark-dwelling creatures vulnerable to light. The faerie fire can be blue, green, or violet, according to your choice at the time of casting. The faerie fire does not cause any harm to the objects or creatures thus outlined.
 
 

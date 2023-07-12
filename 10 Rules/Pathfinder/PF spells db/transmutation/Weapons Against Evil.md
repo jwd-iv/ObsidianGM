@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Each weapon this spell affects each shines with pale light that dimly illuminates a 5-foot square. These weapons also ignore the DR of evil creatures that have DR 5 or lower, as long as the damage reduction is not DR/epic.

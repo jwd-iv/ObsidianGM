@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As shadow conjuration, but up to 8th level and 80% real.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like shadow conjuration, except that it mimics conjuration spells of 8th level or lower. The illusory conjurations created deal four-fifths (80%) damage to nonbelievers, and nondamaging effects are 80% likely to work against nonbelievers.

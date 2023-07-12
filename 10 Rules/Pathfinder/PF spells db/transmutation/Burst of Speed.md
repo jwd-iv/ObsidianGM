@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Until the end of your turn, you gain a +20-foot bonus to speed (or +10-foot bonus if you are wearing Medium or Heavy armor), your movement does not provoke attacks of opportunity, and you can move through the space of creatures that are larger than you are, but you cannot end your movement this round in a space occupied by a creature.

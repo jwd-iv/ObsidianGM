@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell grants you resistance to the holy powers of good-aligned deities and their servants. You resist 10 points of damage from holy sources (divine power damage from flame strike, additional damage from smite evil, channeled positive energy, etc.), provided they originate from a good-aligned source or a servant of a good-aligned god. You ignore a maximum of 10 points of damage per caster level, at which point the spell ends.

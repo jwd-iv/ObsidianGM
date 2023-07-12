@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target is overcome with intense pain, causing it to be stunned on a failed save or dazed for 1 round on a successful save.

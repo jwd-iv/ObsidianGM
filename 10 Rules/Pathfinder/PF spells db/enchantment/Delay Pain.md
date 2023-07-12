@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ignore pain for 1 hour/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You override the target's ability to feel pain. Pain effects (such as pain strike** and symbol of pain) do not affect the target until this spell's duration has expired. This does not negate any physical damage, ability damage, or ability drain that a pain effect has already done, but it does negate ongoing penalties from pain while the spell lasts.

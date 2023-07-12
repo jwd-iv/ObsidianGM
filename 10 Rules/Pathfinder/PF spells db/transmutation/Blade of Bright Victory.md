@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Bonded weapon gains ghost touch.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You strengthen the bond between your divine bond weapon and its celestial spirit. The weapon gains the ghost touch property. You may change your weapon's damage type (bludgeoning, piercing, slashing) as a swift action. You gain a sacred bonus to your CMD against disarm and sunder attacks directed at your bonded weapon; this bonus is equal to half your caster level.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As synaptic pulse, but for 1d4 rounds.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1d4 rounds. On a successful save, a creature is instead sickened for 1 round.

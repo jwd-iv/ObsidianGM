@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as telempathic projectionOA, except its mood-altering effects remain dormant in the target's mind. Upon casting this spell, the caster designates a command word or phrase, of which the target retains no memory. The next creature to speak the command word or phrase to the target triggers the implanted telempathic projection, treating the speaker as the original spellcaster.

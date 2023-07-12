@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You gain a +4 competence bonus on Acrobatics and Climb checks and to CMD.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject's grip and footing become sure, granting a +4 competence bonus on Climb checks, on Acrobatics checks to balance, and to CMD against bull rush, drag, reposition, and trip attempts. While affected by this spell, the target is also immune to the disarm combat maneuver.

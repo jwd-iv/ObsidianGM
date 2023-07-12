@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Releases creature from imprisonment.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject is freed from spells and effects that restrict movement, including binding, entangle, grappling, imprisonment, maze, paralysis, petrification, pinning, sleep, slow, stunning, temporal stasis, and web. To free a creature from imprisonment or maze, you must know its name and background, and you must cast this spell at the spot where it was entombed or banished into the maze.

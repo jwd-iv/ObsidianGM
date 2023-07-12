@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grant a target the ability to see through plant matter as if it were transparent.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target of this spell gains the ability to see up to 60 feet through thick plant matter as though it were transparent. Greenery, leaves, and vines-even lichen, moss, and slime-offer no concealment to the recipient's sight, though her vision still can be blocked by solid wood, such as trees or wooden structures. Undergrowth does not grant concealment to a creature against a target of the effects of greensight.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As forbid action, but 1 creature/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as forbid action, except up to one creature per level may be affected. Each creature must receive the same forbidden action.

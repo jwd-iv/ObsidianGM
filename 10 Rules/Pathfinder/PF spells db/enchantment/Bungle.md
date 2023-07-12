@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target takes a –20 penalty on its next attack roll or check.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target takes a -20 penalty on its next attack roll or check that requires a d20 roll. The action must be one deliberately taken by the target on its turn. Creatures with more than 10 HD are unaffected by this spell.

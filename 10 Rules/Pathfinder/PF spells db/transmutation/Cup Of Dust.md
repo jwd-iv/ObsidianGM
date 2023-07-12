@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Causes a creature to become dehydrated.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You curse the target with a thirst no drink can quench. On a failed saving throw, the target begins to dehydrate (see page 444 of the Core Rulebook for starvation and thirst). The effects of this spell cannot inflict more nonlethal damage than the target has hit points. No amount of drinking can counter this effect, although the target still experiences the other normal effects of any liquid imbibed (such as poisons or potions). Cup of dust can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell, but effects suffered as a result of dehydration must be healed by normal means.
 
 

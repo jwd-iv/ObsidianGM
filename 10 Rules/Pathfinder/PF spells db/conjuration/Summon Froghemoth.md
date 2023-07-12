@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Summon a froghemoth.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as summon nature's ally IX, except you summon a froghemoth (Bestiary 136).

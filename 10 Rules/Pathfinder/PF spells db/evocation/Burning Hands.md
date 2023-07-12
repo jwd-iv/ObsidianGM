@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: 1d4/level fire damage (max 5d4).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4). Flammable materials burn if the flames touch them. A character can extinguish burning items as a full-round action.
 
 

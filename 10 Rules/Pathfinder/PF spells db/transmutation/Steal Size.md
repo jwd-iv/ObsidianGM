@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell reduces the target's size by one size category, as if it were affected by reduce person. You grow in size by one category, as if affected by enlarge person ( if y ou c an b e targeted by that spell). If the spell is dispelled or otherwise ends for either you or the target, both you and the target return to your normal sizes.

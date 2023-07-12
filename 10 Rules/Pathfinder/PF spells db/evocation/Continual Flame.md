@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Makes a permanent, heatless light.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered and hidden but not smothered or quenched. Light spells counter and dispel darkness spells of an equal or lower level.

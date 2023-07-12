@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You transform the target into a cheap alcohol of your choice, such as beer, grog, mead, rum, or wine. The alcohol doesn't taste good, but it's drinkable and just as effective as normal alcohol in making creatures inebriated (Pathfinder RPG GameMastery Guide 237). This spell doesn't work on holy water, potions, magical liquids, or water that is part of a creature.

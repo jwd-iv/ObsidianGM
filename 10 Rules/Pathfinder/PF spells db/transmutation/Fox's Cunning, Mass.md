@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As fox’s cunning, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like fox's cunning, except that it affects multiple creatures.

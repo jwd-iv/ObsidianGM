@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Melee weapon destroys undead.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell makes a melee weapon deadly to undead. Any undead creature with HD equal to or less than your caster level must succeed on a Will save or be destroyed utterly if struck in combat with this weapon. Spell resistance does not apply against the destruction effect.

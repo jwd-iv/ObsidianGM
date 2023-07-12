@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gain a climb speed of 10 ft. and a swim speed of 10 ft. for a time.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your hands and feet alter to make you better at climbing and swimming. You gain a 10 foot climb speed and swim speed. This spell has no effect if you are wearing medium or heavy armor or carrying a medium or heavy load.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Living creature of 6 HD or less loses next action.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like daze, but it can affect any one living creature of any type. Creatures of 7 or more HD are not affected.

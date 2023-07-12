@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Redirect an enemy creature's attack.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Cast this spell when an enemy is about to make an attack against an ally. The creature makes the attack against a valid target of your choice instead or the attack is negated.  In addition, the target is considered an ally for determining flanking for 1 round.

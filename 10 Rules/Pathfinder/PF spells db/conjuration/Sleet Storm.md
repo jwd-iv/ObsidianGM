@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Hampers vision and movement.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Driving sleet blocks all sight (even darkvision) within it and causes the ground in the area to be icy. A creature can walk within or through the area of sleet at half normal speed with a DC 10 Acrobatics check. Failure means it can't move in that round, while failure by 5 or more means it falls (see the Acrobatics skill for details).  The sleet extinguishes torches and small fires.

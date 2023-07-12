@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Entangles a creature for 1 round.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Your litany conjures chains of energy that lash upward from the ground and hamper the target's movement. The target is entangled. This spell has no effect on flying creatures, or creatures not standing upon solid ground.  While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

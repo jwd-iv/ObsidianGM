@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Reveals deliberate falsehoods.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Each round, you concentrate on one target, who must be within range. You know if the target deliberately and knowingly speaks a lie by discerning disturbances in its aura caused by lying. The spell does not reveal the truth, uncover unintentional inaccuracies, or necessarily reveal evasions.  Each round, you may concentrate on a different target.

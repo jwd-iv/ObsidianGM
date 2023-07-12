@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target makes an Escape Artist check as an immediate action and gains a bonus on it.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 If the target is bound, grappled, or otherwise restrained, he may make an Escape Artist check to escape as an immediate action. He gains a competence bonus on this check equal to twice your caster level (maximum +20). This spell has no effect if the target could not get free by using the Escape Artist skill (for example, if he were under the effects of a hold person spell or paralyzed by Strength damage).

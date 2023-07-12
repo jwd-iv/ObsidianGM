@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 All recurring afflictions (those with a frequency,including curses, diseases, and poison) possessed by the targeted creature immediately trigger, requiring an immediate saving throw (as described in the affliction) to avoid suffering their effects. A successful saving throw does not count toward ending the affliction, and this extra save does not change the timing of the next save against the affliction. Afflictions without a frequency are unaffected by this spell.

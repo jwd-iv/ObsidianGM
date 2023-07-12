@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As lesser object possession, but with a larger object.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as lesser object possession, except as noted above. The possessed animated object has a number of Construction Points appropriate for its size (up to 3 CP for Large objects).  You can return your consciousness to your body as a standard action. On your next turn, you can attempt to possess a different object as a standard action instead of ending the spell.

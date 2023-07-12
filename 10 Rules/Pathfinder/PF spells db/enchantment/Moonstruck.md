@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Subject is enraged and confused.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You invoke the mystical power of the moon to drive the target into a mad, bestial frenzy. If the target fails its save, it is dazed for 1 round, dropping held items as its nails and teeth elongate and sharpen. The target gains a bite attack and two claw attacks that deal damage appropriate for the creature's size, and for the remainder of the spell's duration the target behaves as if under simultaneous rage and confusion spells, attacking with its natural weapons in preference to other actions. During the final round of the spell's duration, the target is again dazed as it returns to its normal state.

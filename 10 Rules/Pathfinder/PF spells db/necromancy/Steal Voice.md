@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target gains the croaking spellblight.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's throat constricts, giving it the caster croak spellblight (see page 95).

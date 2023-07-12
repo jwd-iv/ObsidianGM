@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ally receives all your judgments.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as lend judgment, except the ally gains the benefit of all your active judgments.

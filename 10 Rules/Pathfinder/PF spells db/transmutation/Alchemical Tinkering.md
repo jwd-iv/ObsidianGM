@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser cost. Magic items are unaffected by this spell. At the end of the spell's duration, alchemical items used while transformed are destroyed and do not return to a usable state and firearms transformed revert back to their original type.

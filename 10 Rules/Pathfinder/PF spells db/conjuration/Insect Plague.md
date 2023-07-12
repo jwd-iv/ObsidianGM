@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Wasp swarms attack creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You summon a number of swarms of wasps (one per three levels, to a maximum of six swarms at 18th level, see the Pathfinder RPG Bestiary). The swarms must be summoned so that each one is adjacent to at least one other swarm (that is, the swarms must fill one contiguous area). You may summon the wasp swarms so that they share the area of other creatures. Each swarm attacks any creatures occupying its area. The swarms are stationary after being summoned, and won't pursue creatures that flee.

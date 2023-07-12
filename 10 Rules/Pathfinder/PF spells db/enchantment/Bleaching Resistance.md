@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Ability score drain from the Bleaching doesn't affect your ability score modifiers while you're affected by this spell. This spell does not remove the Bleaching's effect on your appearance, nor does it prevent you from suffering further ability penalties, dying, or becoming a bleachling as a result of the Bleaching.

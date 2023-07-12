@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: A creature of 5 HD or less flees for 1d4 rounds.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The affected creature becomes frightened. If the subject succeeds on a Will save, it is shaken for 1 round. Creatures with 6 or more HD are immune to this effect. Cause fear counters and dispels remove fear.

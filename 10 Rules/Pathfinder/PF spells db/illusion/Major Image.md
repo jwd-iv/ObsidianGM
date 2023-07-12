@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As silent image, plus sound, smell, and thermal effects.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like silent image, except that sound, smell, and thermal illusions are included in the spell effect. While concentrating, you can move the image within the range.  The image disappears when struck by an opponent unless you cause the illusion to react appropriately.

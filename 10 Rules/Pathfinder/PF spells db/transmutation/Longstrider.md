@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Your speed increases by 10 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell gives you a +10 foot enhancement bonus to your base speed. It has no effect on other modes of movement, such as burrow, climb, fly, or swim.

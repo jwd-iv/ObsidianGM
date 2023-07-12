@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Incorporeal creatures stay 10 ft. away from you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You bring into being a mobile, hemispherical energy field that incorporeal creatures cannot enter.  This spell can be used only defensively, not aggressively.  Forcing an abjuration barrier against creatures that the spell keeps at bay collapses the barrier.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as Aroden's defending sword, except you can create one sword per 5 caster levels, each of which must defend a different creature within range.

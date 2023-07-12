@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As protection spells, but 10-ft. radius and 10 min./level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like magic circle against evil, except that it is similar to protection from chaos instead of protection from evil, and it can imprison a nonlawful called creature.

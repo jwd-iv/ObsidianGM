@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As lesser planar ally, but up to 18 HD.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like lesser planar ally, except that you may call a single creature of 18 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 18. The creatures agree to help you and request your return payment together.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You remove a creature's ability to poison others, whether inherent or via poisoned weapons. Whenever an affected creature would inflict poison with an attack, spell, or other method (including auras and other constant methods), that poison is automatically neutralized. This does not grant the subject of the spell any resistance to poison itself.

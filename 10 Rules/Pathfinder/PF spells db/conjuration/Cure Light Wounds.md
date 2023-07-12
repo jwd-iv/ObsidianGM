@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Cures 1d8 damage + 1/level (max +5).
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 When laying your hand upon a living creature, you channel positive energy that cures 1d8 points of damage + 1 point per caster level (maximum +5). Since undead are powered by negative energy, this spell deals damage to them instead of curing their wounds. An undead creature can apply spell resistance, and can attempt a Will save to take half damage.
 
 

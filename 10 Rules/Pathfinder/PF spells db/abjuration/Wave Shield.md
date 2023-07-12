@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Water blunts one incoming attack or fire effect.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a rushing torrent of water in the rough outline of a shield. The water protects you from one physical or fire attack, granting you DR/- and fire resistance equal to half your caster level (minimum 1) on that attack. Once the spell has reduced the damage of one attack against you, it is discharged.

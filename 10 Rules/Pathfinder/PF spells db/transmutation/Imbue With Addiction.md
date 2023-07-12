@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target immediately becomes addicted to the drug used as the material component during the casting of the spell. If the target was ever addicted to the drug at any point in the past, it takes a -4 penalty on its saving throw.

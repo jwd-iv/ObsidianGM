@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Send or receive a Tiny or smaller animal via teleportation.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like apport object except the target is an animal. Only normal, nonmagical creatures of the animal type can be teleported.

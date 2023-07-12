@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Insects, spiders, and other vermin stay 10 ft. away.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 An invisible barrier holds back vermin. A vermin with HD of less than one-third your level cannot penetrate the barrier.  A vermin with HD of one-third your level or more can penetrate the barrier if it succeeds on a Will save. Even so, crossing the barrier deals the vermin 2d6 points of damage, and pressing against the barrier causes pain, which deters most vermin.

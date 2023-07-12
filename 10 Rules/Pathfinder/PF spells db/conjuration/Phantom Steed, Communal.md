@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As phantom steed, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like phantom steed, except you can summon up to six steeds, and you divide the duration in 1-hour intervals among the steeds summoned.

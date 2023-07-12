@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creates one cloth or wood object.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a nonmagical, unattended object of nonliving vegetable matter. The volume of the item created cannot exceed 1 cubic foot per caster level. You must succeed on an appropriate Craft skill check to make a complex item.  Attempting to use any created object as a material component causes the spell to fail.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: The target takes damage whenever its summoned creature does.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You exploit the invisible, mystic connection between the target creature and its summoner to harm that summoner. Whenever the target's summoned creature is the target of a spell that deals damage, the target's summoner is also considered to be a target of that spell. Such a summoner gains his normal defenses against the spell, such as a saving throw and spell resistance, and cannot be affected if he is on another plane of existence.

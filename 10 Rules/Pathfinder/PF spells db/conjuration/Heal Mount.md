@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As heal on horse or other special mount.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like heal, but it affects only the paladin's special mount (typically a horse).

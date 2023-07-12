@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Cause a dying creature to stabilize.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Upon casting this spell, you target a living creature that has -1 or fewer hit points. That creature is automatically stabilized and does not lose any further hit points. If the creature later takes damage, it continues dying normally.

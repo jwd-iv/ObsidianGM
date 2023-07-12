@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Foes provoke attacks of opportunity.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You emit a shrill, piercing shriek, startling those around you into dropping their guard. Enemies in the area must make a successful saving throw or immediately provoke attacks of opportunity from foes that threaten them. You and your allies are unaffected by your own screech.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Siege engine gains +1 on targeting and damage rolls.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell permits an indirect fire siege engine to bombard its targets with greater accuracy, delivering more damage. The siege weapon receives a +1 enhancement bonus on targeting rolls and damage rolls. If used on a direct fire siege weapon, this spell acts a magic weapon.

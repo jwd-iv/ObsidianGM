@@ -36,6 +36,10 @@ Copyright:
 ---
 Brief:: Armor or shield gains +1 enhancement per four levels.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You imbue a suit of armor or a shield with an enhancement bonus of +1 per four caster levels (maximum +5 at 20th level).  An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell.
 
 

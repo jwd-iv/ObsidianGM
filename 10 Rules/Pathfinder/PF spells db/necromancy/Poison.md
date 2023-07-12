@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Touch deals 1d3 Con damage 1/round for 6 rounds.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Calling upon the venomous powers of natural predators, you infect the subject with a horrible poison by making a successful melee touch attack. This poison deals 1d3 Constitution damage per round for 6 rounds. Poisoned creatures can make a Fortitude save each round to negate the damage and end the affliction.

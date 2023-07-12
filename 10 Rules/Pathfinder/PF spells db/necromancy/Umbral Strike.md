@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a bolt of dark energy and use it to make a ranged touch attack that ignores concealment (but not total concealment).  If you hit, the target takes 1d6 points of damage per caster level (maximum 20d6). Half of this damage is cold damage and half of it is negative energy. The bolt's shadow expands and covers the target, rendering him blind for the duration of the spell. A successful Fortitude save halves the damage and negates the blind condition.

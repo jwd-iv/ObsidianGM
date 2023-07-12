@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Deals 3d8 damage + 1/level, affects 1 subject/level.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like mass inflict light wounds, except that it deals 3d8 points of damage + 1 point per caster level (maximum +35).

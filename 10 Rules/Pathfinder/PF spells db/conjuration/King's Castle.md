@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Instantly switch places with a single ally.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell allows you to switch places with an ally. When you cast this spell, choose a single ally within range. You teleport to your ally's space while your ally teleports to your former space.

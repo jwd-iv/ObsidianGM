@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Plants in a forested area become helpful instead of hindering you and your allies.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 While subject to this spell, the targets find that forested areas become helpful instead of hindering. The targets suffer no hindrances to movement and suffer no penalties on Acrobatics and Stealth checks from undergrowth in forested terrain. Furthermore, forested overgrowth imposes a miss chance 10% lower than normal.  When moving in and among trees, those subject to the spell gain a +5 circumstance bonus on Acrobatics checks and Climb checks. Rangers in their favored terrain can also add their favored terrain bonus on such Acrobatics and Climb checks.

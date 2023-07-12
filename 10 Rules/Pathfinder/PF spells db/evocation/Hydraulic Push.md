@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Wave of water bull rushes an enemy.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You call forth a quick blast of water that knocks over and soaks one creature or square. You can use this blast of water to make a bull rush against any one creature or object. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush does not provoke an attack of opportunity. Hydraulic push extinguishes any normal fires on a creature, object, or in a single 5-foot square which it is targeted against. Magical fires are unaffected.
 
 

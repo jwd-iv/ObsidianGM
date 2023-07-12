@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Fascinates (2d4 + level) HD of creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A twisting pattern of subtle, shifting colors weaves through the air, fascinating creatures within it. Roll 2d4 and add your caster level (maximum 10) to determine the total number of HD of creatures affected. Creatures with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Affected creatures become fascinated by the pattern of colors. Sightless creatures are not affected.  A wizard or sorcerer need not utter a sound to cast this spell, but a bard must perform as a verbal component.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Increases strength of a paladin’s aura of courage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 When you cast this spell you strengthen your paladin's aura of courage. Until the end of its duration, all allies within that aura are immune to fear (magical or otherwise). If you do not have the aura of courage class feature, aura of greater courage has no effect.

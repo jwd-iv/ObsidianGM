@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Transform improvised weapon into a masterwork simple or martial weapon.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You transform an improvised weapon into an equivalent simple or martial weapon of masterwork quality. This does not alter the weapon's shape or appearance in any way. For example, if this spell is cast on a chair leg, a butter knife, or a pitchfork, the items function as a masterwork club, a masterwork dagger, or a masterwork trident, respectively, but the items look no different than they did before the spell was cast.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The transmuted creatures can breathe air freely. Divide the duration evenly among all the creatures you touch. The spell doesn't make creatures unable to breathe water.

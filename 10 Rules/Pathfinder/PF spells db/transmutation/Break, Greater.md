@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Break all nearby objects.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You release a burst of destructive energy. Each Medium or smaller object in the area gains the broken condition unless it succeeds at a Fortitude saving throw. If a broken object fails this save, it is instead destroyed. Magic items can be broken by this spell, but not destroyed. Objects in your possession are not immune.

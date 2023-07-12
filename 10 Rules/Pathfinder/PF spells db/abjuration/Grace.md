@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Movement doesn't provoke attacks of opportunity.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Until the end of your turn, your movement does not provoke attacks of opportunity.

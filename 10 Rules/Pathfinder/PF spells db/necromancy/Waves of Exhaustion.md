@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Several targets become exhausted.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Waves of negative energy cause all living creatures in the spell's area to become exhausted. This spell has no effect on a creature that is already exhausted.

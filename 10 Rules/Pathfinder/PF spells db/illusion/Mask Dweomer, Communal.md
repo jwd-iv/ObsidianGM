@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As mask dweomer, but you may divide the duration among creatures touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like mask dweomer (Advanced Player's Guide 232), except you divide the duration in 1-day increments among the creatures or objects touched.

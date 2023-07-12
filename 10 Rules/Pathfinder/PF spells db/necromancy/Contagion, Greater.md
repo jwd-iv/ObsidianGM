@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Infect a subject with a magical disease.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as contagion, except the victim cannot overcome the disease without magic-making the required number of saves does not cure it. The DC to remove the disease with magic is equal to the save DC + 5.

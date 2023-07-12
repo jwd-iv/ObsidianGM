@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As mirror image, but the duplicates emit electrical damage when destroyed.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell works like mirror image, except the illusory doubles it creates discharge an electric shock when destroyed. An opponent that uses a melee attack to destroy one of your images takes 2d6 points of electricity damage. You must overcome a target's spell resistance the first time you deal this electricity damage to it. Failure renders the target immune to damage from this spell.

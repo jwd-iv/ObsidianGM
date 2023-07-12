@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You imbue a single object with an acidic protective ward. Any creature other than you that touches the object takes 1d6 points of acid damage per 2 caster levels (maximum 10d6; Reflex half). Each time the spell discharges, the number of damage dice it deals is halved (rounded down); when the spell's damage dice reach 0, the spell ends. While casting this spell, you can touch up to one creature per 4 caster levels, which allows them to handle the warded object without triggering this spell.

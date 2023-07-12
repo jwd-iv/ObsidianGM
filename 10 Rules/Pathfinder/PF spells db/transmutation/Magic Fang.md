@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: One natural weapon of subject creature gets +1 on attack and damage rolls.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Magic fang gives one natural weapon or unarmed strike of the subject a +1 enhancement bonus on attack and damage rolls. The spell can affect a slam attack, fist, bite, or other natural weapon.  The spell does not change an unarmed strike's damage from nonlethal damage to lethal damage.  Magic fang can be made permanent with a permanency spell.
 
 

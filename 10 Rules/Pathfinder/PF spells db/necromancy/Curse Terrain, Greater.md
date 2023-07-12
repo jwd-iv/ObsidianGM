@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Curse an area with six dangerous hazards.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 By touching the ground, you curse the land with six unnatural hazards. This functions as lesser curse terrain, but with the effects of the greater perilous demesne curse (see page 145).

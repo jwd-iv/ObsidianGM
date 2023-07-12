@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Targets steal from or disarm others.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fill creatures with feelings of seething envy. Affected targets turn upon the nearest creature (whether an ally or enemy) and attempt to disarm it of a valuable weapon, steal something it is holding, or grapple it and strip it of something it prizes (your choice). Affected targets can attempt a new Will save each round as a free action to end this effect.

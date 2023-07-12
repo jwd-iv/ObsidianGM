@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grants eidolon two evolutions with a total of 6 evolution points.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as lesser evolution surge, except that you can grant any two evolutions whose total cost does not exceed 6 evolution points.

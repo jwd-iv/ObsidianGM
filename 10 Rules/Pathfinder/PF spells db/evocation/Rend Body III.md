@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as per rend body I, but the target takes 1d8 points of damage per caster level you have (maximum 15d8), and if a limb is ripped from its body, the target is sickened for as long as the bleed damage persists. This spell can be undercast.

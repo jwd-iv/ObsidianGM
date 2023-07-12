@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: See 120 ft. in total darkness.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as darkvision, except the target's darkvision has a range of 120 feet.

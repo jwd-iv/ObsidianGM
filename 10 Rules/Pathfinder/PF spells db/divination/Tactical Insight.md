@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Choose a single army tactic. You grant mastery of this tactic to the target army for the spell's duration. This tactic may bring an army's total known tactics to a number greater than normally allowed.

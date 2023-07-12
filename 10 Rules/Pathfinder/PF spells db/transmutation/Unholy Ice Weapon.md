@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Create a masterwork weapon made of frozen unholy water.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as holy ice weapon, except the weapon is made of frozen unholy water, and instead deals additional damage to creatures that are susceptible to unholy water.

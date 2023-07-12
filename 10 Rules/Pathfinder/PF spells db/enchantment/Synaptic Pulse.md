@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Stun creatures in a 30-ft. radius.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1 round.

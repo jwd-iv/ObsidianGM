@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Grants a number of creatures bonuses on attacks and damage, temporary hit points, and immunity to fear and charm effects.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Using worlds of ancient power, you bestow heroic powers on all creatures subject to this spell. They gain a +4 morale bonus on attack and damage rolls, gain 2d8+4 temporary hit points, and become immune to both fear and charm effects for the spell's duration.  At the end of the spell's duration, the subjects become fatigued.

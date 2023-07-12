@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gain +2 Perception and low-light vision.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The subject gains a +2 competence bonus on Perception checks and gains low-light vision. Subjects that have low-light vision double the distance they can see under the effects of this spell.

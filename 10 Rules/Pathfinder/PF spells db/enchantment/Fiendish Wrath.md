@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Each affected creature flies into a combat frenzy. The target gains a +2 morale bonus to Strength and Constitution, and a +1 morale bonus on Will saves. If an affected creature strikes an enemy with two claw attacks or two unarmed strikes while in this frenzy, it can use the rend ability, dealing an additional amount of damage equal to its claw or unarmed strike damage plus 1-1/2 times its Strength bonus.

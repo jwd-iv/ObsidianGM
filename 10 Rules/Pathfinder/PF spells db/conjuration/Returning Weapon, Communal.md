@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As returning weapon, but you may divide the duration among weapons touched.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 For the duration of the spell, the target weapon acts as if it had the returning weapon special ability (see page 471 of the Core Rulebook).  This spell can be used as the prerequisite for the returning weapon special ability.

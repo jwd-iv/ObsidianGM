@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You become grounded and nearly immovable. You are immune to the pull and push special abilities, and all bull rush, grapple, overrun, reposition, and trip combat maneuvers made by creatures your size or smaller always fail. You gain a +10 bonus to your CMD against those combat maneuver checks made by creatures larger than you.

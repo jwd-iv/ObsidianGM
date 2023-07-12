@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Worsens attitudes toward target creature.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You speak out against a single creature within line of sight and turn possible allies against it by drawing upon the power of your voice and conviction. Creatures in the area who can see the denounced creature must make a Will saving throw or have their starting attitude toward the denounced creature worsened by two levels (see page 94 of the Core Rulebook). For example, creatures previously indifferent to the subject turn unfriendly.  Diplomacy checks made to reverse the effects of denounce are made at a -10 penalty.

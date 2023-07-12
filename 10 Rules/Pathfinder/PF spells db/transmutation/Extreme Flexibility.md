@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Gain a bonus to AC, on Escape Artist checks, and when grappling.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You gain a +1 dodge bonus to AC, a +4 circumstance bonus on Escape Artist checks and combat maneuver checks to escape a grapple, and a +4 circumstance bonus to your CMD against grapple attempts.

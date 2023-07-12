@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Direct a summoned monster as if you had summoned it.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You seize control of a summoned creature by disrupting the bond between it and the caster who summoned it. If the creature fails its save, you may command it as if you had summoned it. The original caster can attempt to regain control of the creature as a standard action by making an opposed Spellcraft check against you. When your spell ends, control reverts to the original summoner. If the summoning spell ends before this spell ends, the remaining duration of this spell is lost.

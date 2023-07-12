@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Target takes 1d6 sonic/level and is stunned.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With a guttural bark, you unleash a sudden blast of sonic energy that strikes your opponent. The target takes 1d6 points of sonic damage per level (maximum 20d6) and is stunned for 1 round; a successful Fortitude save reduces the damage by half and negates the stun.

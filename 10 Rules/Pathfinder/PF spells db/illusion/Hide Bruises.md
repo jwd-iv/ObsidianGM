@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 The target's wounds to seem to disappear. A creature attempting a Heal check to tell the severity of the target's injuries takes a -10 penalty on that check. A creature that physically touches the glamered areas can attempt a Will save to recognize it as an illusion.

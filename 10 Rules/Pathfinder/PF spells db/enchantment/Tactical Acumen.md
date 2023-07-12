@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: You gain an additional +1 on attack rolls or to AC due to battlefield positioning.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 Tactical acumen grants you and your allies a mastery of battlefield tactics. Whenever you would gain a bonus on attack rolls or to AC due to battlefield position, such as flanking, higher ground, or cover, you gain an additional +1 insight bonus. This bonus increases by +1 for every five caster levels above 5th you possess (maximum +4).

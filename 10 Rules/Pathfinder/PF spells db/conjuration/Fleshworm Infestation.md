@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Worms deal hp and Dex damage.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 With a touch, you cause an infestation of ravenous worms to manifest in the target's flesh. The target must make a Fortitude save every round. Failure means it takes 1d6 hit points of damage and 2 points of Dexterity damage, and is staggered for 1 round. If it makes the save, it takes no hit point or Dexterity damage and is only sickened for 1 round rather than staggered. Fleshworm infestation cannot be ended early by remove disease or heal, as the infestation starts anew if the current worms are slain. Protection from evil negates this spell's effects for as long as the two durations overlap.  Dispel evil automatically ends a fleshworm infestation.

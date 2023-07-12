@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As id insinuation I, but affects three creatures and has a stronger confusion effect.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This functions as id insinuation I, except as noted above. In addition, on the first 2 rounds of the effect, the targets of this spell must roll twice to determine the result of their confused conditions. You select which roll is used. This spell can be undercast.

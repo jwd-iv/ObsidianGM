@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Ask more powerful eldritch entities to find and converse with you.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like contact entity I, except that you can contact creatures from the contact entity II list, and as noted above.

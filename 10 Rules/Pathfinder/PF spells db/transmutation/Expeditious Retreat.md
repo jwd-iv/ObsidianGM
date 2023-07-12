@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Your base land speed increases by 30 ft.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell increases your base land speed by 30 feet. This adjustment is treated as an enhancement bonus. There is no effect on other modes of movement, such as burrow, climb, fly, or swim. As with any effect that increases your speed, this spell affects your jumping distance (see the Acrobatics skill).
 
 

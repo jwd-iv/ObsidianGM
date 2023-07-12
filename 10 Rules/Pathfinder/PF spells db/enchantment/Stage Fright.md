@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: 
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fill your targets with the sudden fear of failure. A creature that fails its saving throw takes a -4 penalty on ability checks, skill checks, and any checks that require concentration (such as casting a spell in difficult circumstances or operating a complex device).

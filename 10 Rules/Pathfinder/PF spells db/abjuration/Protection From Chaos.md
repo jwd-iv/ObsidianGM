@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: +2 to AC and saves, plus additional protection against selected alignment.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like protection from evil, except that the deflection and resistance bonuses apply to attacks made by chaotic creatures. The target receives a new saving throw against control by chaotic creatures and chaotic summoned creatures cannot touch the target.
 
 

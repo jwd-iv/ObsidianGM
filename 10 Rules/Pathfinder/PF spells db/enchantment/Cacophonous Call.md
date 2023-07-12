@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Nauseates target.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fill your target's mind with a blaring cacophony of discordant sounds, making it hard for the target to act and concentrate.  The creature gains the nauseated condition for the duration of the spell if it fails its Will save.

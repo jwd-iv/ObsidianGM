@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Sound sickens 1d4 creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You create a powerful tone that vibrates living flesh. Targets must save or gain the sickened condition. Creatures that are immune to critical hits are immune to this spell.

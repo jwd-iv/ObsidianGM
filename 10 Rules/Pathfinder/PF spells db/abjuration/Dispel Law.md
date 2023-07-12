@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: +4 against attacks by lawful creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like dispel evil, except that you are surrounded by flickering, yellow chaotic energy, and the spell affects lawful creatures and spells rather than evil ones.

@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: A shield of force protects you until you dismiss it in an explosion of electricity.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell creates an invisible shield similar to but not as strong as the shield spell. This shield hovers in front of you and negates magic missile attacks directed at you. The disk provides a +2 shield bonus to AC. This bonus applies against incorporeal touch attacks.  At any time, as a free action, you may dismiss your shield, at which point it deals 1d6 points of electrical damage to all creatures within a 5-foot burst, including you. A Reflex saving throw halves the damage.

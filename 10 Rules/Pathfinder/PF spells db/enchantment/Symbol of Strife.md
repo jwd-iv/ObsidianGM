@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Triggered rune makes creatures attack.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions as symbol of death, except all creatures within the radius of a symbol of strife are compelled to attack the nearest conscious creaturefor 1 round per caster level (similar to the "attack nearest creature" result of the confusion spell), even after leaving the symbol's area of effect. If no other creatures are visible, an affected creature can act normally. Once triggered, the symbol remains active for 10 minutes per caster level.  Symbol of strife can be made permanent with a permanency spell by a caster of 18th level or higher for the cost of 25,000 gp.

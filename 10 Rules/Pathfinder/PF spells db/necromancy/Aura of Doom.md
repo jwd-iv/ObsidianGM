@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creatures in your aura become shaken.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You emanate an almost palpable aura of horror. All non-allies within this spell's area, or that later enter the area, must make a Will save to avoid becoming shaken. A successful save suppresses the effect. Creatures that leave the area and come back must save again to avoid being affected by the effect.

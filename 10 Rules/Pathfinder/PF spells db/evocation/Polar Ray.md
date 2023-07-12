@@ -37,6 +37,10 @@ Copyright:
 ---
 Brief:: Ranged touch attack deals 1d6/level cold damage and 1d4 points of Dexterity drain.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 A blue-white ray of freezing air and ice springs from your hand.  You must succeed on a ranged touch attack with the ray to deal damage to a target. The ray deals 1d6 points of cold damage per caster level (maximum 25d6) and 1d4 points of Dexterity drain.
 
 

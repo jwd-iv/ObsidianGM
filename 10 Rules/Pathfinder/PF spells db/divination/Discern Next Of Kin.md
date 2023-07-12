@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Read the target’s mind to learn about its family.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You can scan the thoughts of one individual and learn the names and locations of the target's living relatives, as well as the attitude of the target toward those relatives (and vice versa). You learn about one relative per round you concentrate on the target. For example, you might learn that the target's father's name is Jarn, the father lives on a nearby farm, and the target and his father don't get along.  Since this spell reads the target's mind, you can learn only what the target knows or believes.

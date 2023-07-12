@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: As synesthesia, but affecting multiple creatures.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 This spell functions like synesthesia, except as noted above.

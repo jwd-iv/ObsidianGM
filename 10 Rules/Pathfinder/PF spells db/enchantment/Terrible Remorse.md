@@ -38,4 +38,8 @@ Copyright:
 ---
 Brief:: Creature is compelled to harm itself.
 
+```dataviewjs
+customJS.Spell.printWiki(dv)
+```
+
 You fill a target with such profound remorse that it begins to harm itself. Each round, the target must save or deal 1d8 points of damage + its Strength modifier to itself using an item held in its hand or with unarmed attacks. If the creature saves, it is staggered for 1 round and takes a -2 penalty to Armor Class, after which the spell ends.
