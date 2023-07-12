@@ -28,9 +28,6 @@ Bloodline: { Boreal: 9, Marid: 9 }
 Patron: { Elements: 8, Winter: 8 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-ice)"
 ---

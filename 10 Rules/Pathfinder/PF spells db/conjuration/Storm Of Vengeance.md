@@ -28,9 +28,6 @@ Bloodline: { Stormborn: 19 }
 Patron: { Storms: 18 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/storm-of-vengeance)"
 ---

@@ -28,9 +28,6 @@ Bloodline: { Boreal: 19, Infernal: 19, Orc: 19, Starsoul: 19 }
 Patron: { Elements: 18, Moon: 18 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/meteor-swarm)"
 ---

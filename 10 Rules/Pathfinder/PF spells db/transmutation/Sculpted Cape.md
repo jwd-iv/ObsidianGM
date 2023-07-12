@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Adventurer's Armory 2"
 ---

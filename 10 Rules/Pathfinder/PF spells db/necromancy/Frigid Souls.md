@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: Notice Perception DC 25 (to feel a biting chill as if through the touch of a frozen hand)  hp 2 hp/level; Trigger proximity; Reset none
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Haunted Heroes Handbook"
 ---

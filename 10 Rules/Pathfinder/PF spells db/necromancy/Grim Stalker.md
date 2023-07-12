@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: Notice Perception DC 30 (to see a black dog darting toward the target out of the corner of the eye)  hp 4 hp/level; Trigger touch (object); Reset none
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Haunted Heroes Handbook"
 ---

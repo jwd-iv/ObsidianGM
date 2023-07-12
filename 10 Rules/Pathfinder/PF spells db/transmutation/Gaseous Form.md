@@ -28,9 +28,6 @@ Bloodline: { Marid: 7, Nanite: 7, Protean: 7 }
 Patron: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/gaseous-form)"
 ---

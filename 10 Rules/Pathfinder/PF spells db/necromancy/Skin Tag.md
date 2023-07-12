@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: Notice Perception DC 20 (to taste a hint of rot) or DC 25 (if the affected creature is wearing armor or heavy clothing)  hp 5 hp; Trigger conditional (using the item or the spell's remote effect); Reset none
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Haunted Heroes Handbook"
 ---

@@ -28,9 +28,6 @@ Bloodline: { Verdant: 11 }
 Patron: { Thorns: 10 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-thorns)"
 ---

@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: yes
 Copyright:
   Content: "Divine Anthology"
 ---

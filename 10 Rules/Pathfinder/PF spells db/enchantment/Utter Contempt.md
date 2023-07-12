@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/u/utter-contempt)"
 ---

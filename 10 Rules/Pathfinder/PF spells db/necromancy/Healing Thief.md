@@ -28,9 +28,6 @@ Bloodline:
 Patron: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/h/healing-thief)"
 ---

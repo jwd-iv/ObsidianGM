@@ -28,9 +28,6 @@ Bloodline:
 Patron: { Agility: 6, Time: 6 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/haste)"
 ---

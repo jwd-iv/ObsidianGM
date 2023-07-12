@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/p/protection-from-energy#TOC-Protection-from-Energy-Communal)"
 ---

@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/v/vision-of-lamashtu)"
 ---

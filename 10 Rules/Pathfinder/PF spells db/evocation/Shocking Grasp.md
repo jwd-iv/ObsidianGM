@@ -28,9 +28,6 @@ Bloodline: { Djinni: 3, Stormborn: 3 }
 Patron: { Elements: 2 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shocking-grasp)"
 ---

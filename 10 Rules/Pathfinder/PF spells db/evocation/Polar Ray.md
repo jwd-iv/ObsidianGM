@@ -29,9 +29,6 @@ Patron: { Winter: 16 }
 Augment: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/polar-ray)"
 ---

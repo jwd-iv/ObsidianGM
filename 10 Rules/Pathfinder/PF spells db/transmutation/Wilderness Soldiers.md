@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/w/wilderness-soldiers)"
 ---

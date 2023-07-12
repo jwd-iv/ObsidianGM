@@ -28,9 +28,6 @@ Bloodline:
 Patron: { Stars: 4 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/dust-of-twilight)"
 ---

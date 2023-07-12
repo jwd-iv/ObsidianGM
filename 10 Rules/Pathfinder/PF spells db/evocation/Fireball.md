@@ -28,9 +28,6 @@ Bloodline: { Efreeti: 7 }
 Patron: { Elements: 6 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/fireball)"
 ---

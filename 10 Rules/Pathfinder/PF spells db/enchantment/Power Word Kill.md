@@ -28,9 +28,6 @@ Bloodline: { Pestilence: 19 }
 Patron: { Death: 18 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/power-word-kill)"
 ---

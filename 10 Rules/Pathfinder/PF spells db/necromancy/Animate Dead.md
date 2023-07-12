@@ -28,9 +28,6 @@ Bloodline: { Undead: 9 }
 Patron: { Plague: 8 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/animate-dead)"
 ---

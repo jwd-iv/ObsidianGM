@@ -28,9 +28,6 @@ Bloodline: { Harrow: 3 }
 Patron: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/i/ill-omen)"
 ---

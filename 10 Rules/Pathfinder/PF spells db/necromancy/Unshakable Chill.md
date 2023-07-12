@@ -28,9 +28,6 @@ Bloodline:
 Patron: { Winter: 2 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/u/unshakable-chill)"
 ---

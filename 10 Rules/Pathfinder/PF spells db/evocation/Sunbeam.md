@@ -28,9 +28,6 @@ Bloodline:
 Patron: { Light: 14, Summer: 14 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sunbeam)"
 ---

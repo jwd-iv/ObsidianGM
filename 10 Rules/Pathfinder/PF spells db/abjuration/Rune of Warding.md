@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Dwarves of Golarion](http://www.d20pfsrd.com/magic/all-spells/r/r/rune-of-warding)"
 ---

@@ -28,9 +28,6 @@ Bloodline: { Efreeti: 9, Orc: 9 }
 Patron: { Summer: 10 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-fire)"
 ---

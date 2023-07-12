@@ -29,9 +29,6 @@ Patron: { Boundaries: 2 }
 Augment: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/protection-from-evil)"
 ---

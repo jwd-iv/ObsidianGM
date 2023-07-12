@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: Notice Perception DC 20 (to feel a sudden sense of dread, or to hear victims' names whispered behind their backs)  hp 2 hp/level; Trigger proximity; Reset none
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Haunted Heroes Handbook"
 ---

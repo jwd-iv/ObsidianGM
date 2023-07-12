@@ -28,9 +28,6 @@ Bloodline: { Daemon: 13 }
 Patron: { Death: 12 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/circle-of-death)"
 ---

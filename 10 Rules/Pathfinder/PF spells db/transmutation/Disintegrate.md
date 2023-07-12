@@ -28,9 +28,6 @@ Bloodline: { Div: 13, Protean: 13 }
 Patron: { Time: 12 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/disintegrate)"
 ---

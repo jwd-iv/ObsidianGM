@@ -28,9 +28,6 @@ Bloodline: { Imperious: 7, Martyred: 7 }
 Patron: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/heroism)"
 ---

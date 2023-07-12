@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[AP 30](http://www.d20pfsrd.com/magic/all-spells/g/g/genius-avaricious)"
 ---

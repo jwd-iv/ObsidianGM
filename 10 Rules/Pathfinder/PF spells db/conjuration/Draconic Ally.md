@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: yes
-Meditative: 
 Copyright:
   Content: "Legacy Of Dragons"
 ---

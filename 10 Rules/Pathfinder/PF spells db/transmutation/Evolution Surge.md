@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/evolution-surge)"
 ---

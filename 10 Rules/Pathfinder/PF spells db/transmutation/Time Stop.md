@@ -28,9 +28,6 @@ Bloodline:
 Patron: { Deception: 18, Time: 18, Trickery: 18 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/time-stop)"
 ---

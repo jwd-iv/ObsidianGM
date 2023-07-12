@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Cheliax Empire Of Devils](http://www.d20pfsrd.com/magic/all-spells/t/t/twine-double)"
 ---

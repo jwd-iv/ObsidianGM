@@ -28,9 +28,6 @@ Bloodline:
 Patron: { Winter: 6, Storms: 8 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/ice-storm)"
 ---

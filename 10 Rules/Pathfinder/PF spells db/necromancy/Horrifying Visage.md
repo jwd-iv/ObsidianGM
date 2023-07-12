@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: Notice Perception DC 25 (to hear a distant cry of fright, or see a horrified ghostly face appear over a victim's face)  hp 2 hp/level; Trigger proximity; Reset none
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Haunted Heroes Handbook"
 ---

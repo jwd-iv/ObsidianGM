@@ -29,9 +29,6 @@ Patron:
 Augment: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)"
 ---

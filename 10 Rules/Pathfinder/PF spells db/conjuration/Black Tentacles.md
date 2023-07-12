@@ -28,9 +28,6 @@ Bloodline: { Aberrant (Sorcerer): 9, Aberrant (BloodRager): 16 }
 Patron: { Occult: 8 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/black-tentacles)"
 ---

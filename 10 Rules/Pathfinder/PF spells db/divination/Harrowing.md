@@ -28,9 +28,6 @@ Bloodline: { Harrow: 7 }
 Patron: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/h/harrowing)"
 ---

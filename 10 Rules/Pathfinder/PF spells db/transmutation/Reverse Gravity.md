@@ -28,9 +28,6 @@ Bloodline: { Starsoul: 15 }
 Patron: { Trickery: 14 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/reverse-gravity)"
 ---

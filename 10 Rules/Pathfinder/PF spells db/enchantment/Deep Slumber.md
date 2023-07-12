@@ -28,9 +28,6 @@ Bloodline: { Dreamspun: 7, Fey: 7 }
 Patron: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/deep-slumber)"
 ---

@@ -28,9 +28,6 @@ Bloodline:
 Patron: { Light: 10 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/f/fire-snake)"
 ---

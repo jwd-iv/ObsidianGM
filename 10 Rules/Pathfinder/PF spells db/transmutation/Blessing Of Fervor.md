@@ -29,9 +29,6 @@ Patron: { Ancestors: 8 }
 Augment: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/blessing-of-fervor)"
 ---

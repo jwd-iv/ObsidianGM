@@ -28,9 +28,6 @@ Bloodline: { Shaitan: 7 }
 Patron: { Devotion: 8, Strength: 6 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-weapon)"
 ---

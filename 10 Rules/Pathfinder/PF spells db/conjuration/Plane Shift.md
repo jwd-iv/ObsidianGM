@@ -28,9 +28,6 @@ Bloodline: { Aberrant (Sorcerer): 15, Djinni: 15, Efreeti: 15, Marid: 15, Shaita
 Patron: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/plane-shift)"
 ---

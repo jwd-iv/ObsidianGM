@@ -28,9 +28,6 @@ Bloodline: { Pestilence: 7, Daemon: 9 }
 Patron: { Plague: 6 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/contagion)"
 ---

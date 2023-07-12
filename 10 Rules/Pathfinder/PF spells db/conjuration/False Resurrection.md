@@ -30,9 +30,6 @@ MythicDescription:
 Augment: 
 Mythic: 
 Haunt: 
-Ruse: yes
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

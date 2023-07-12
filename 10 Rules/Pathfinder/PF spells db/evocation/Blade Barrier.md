@@ -28,9 +28,6 @@ Bloodline:
 Patron: { Thorns: 12 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/blade-barrier)"
 ---

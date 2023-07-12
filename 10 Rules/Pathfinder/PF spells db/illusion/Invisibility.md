@@ -28,9 +28,6 @@ Bloodline: { Arcane: 5, Djinni: 5, Oni: 5, Rakshasa: 5 }
 Patron: { Deception: 4, Spirits: 4 }
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)"
 ---

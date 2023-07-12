@@ -29,9 +29,6 @@ Patron: { Devotion: 2, Strength: 2 }
 Augment: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/divine-favor)"
 ---

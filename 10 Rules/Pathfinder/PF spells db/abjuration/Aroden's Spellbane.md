@@ -29,9 +29,6 @@ Patron:
 Augment: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

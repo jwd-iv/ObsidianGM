@@ -28,9 +28,6 @@ Bloodline:
 Patron: 
 Mythic: yes
 Haunt: 
-Ruse: 
-Draconic: 
-Meditative: 
 Copyright:
   Content: "Mythic Origins"
 ---
