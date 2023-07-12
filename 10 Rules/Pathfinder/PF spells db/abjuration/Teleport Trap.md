@@ -6,7 +6,7 @@ Aspects:
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: 10 minutes
 Range: medium (100 + 10 ft./level)
-Area: one 40-ft. cube/level (S)
+Area: one 40-ft. cube/level
 Effect: 
 Targets: 
 Duration: 1 day/level

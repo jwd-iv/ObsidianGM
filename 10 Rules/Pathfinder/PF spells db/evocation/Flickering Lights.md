@@ -6,7 +6,7 @@ Aspects: [ darkness, light ]
 ClassList: { bard: 2, cleric: 2, oracle: 2, inquisitor: 2, magus: 2, occultist: 2, shaman: 2, sorcerer: 2, wizard: 2 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: contiguous area consisting of one 10-foot cube/level (S)
+Area: contiguous area consisting of one 10-foot cube/level
 Effect: 
 Targets: 
 Duration: 1 round/level

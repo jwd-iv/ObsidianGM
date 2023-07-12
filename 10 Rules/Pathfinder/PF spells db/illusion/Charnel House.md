@@ -6,7 +6,7 @@ Aspects: [ evil, shadowUM ]
 ClassList: { antipaladin: 3, cleric: 5, oracle: 5, mesmerist: 5, psychic: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 20-ft. cube (S)
+Area: 20-ft. cube
 Effect: 
 Targets: 
 Duration: 10 minutes/level

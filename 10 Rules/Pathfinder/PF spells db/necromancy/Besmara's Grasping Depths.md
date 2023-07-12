@@ -6,7 +6,7 @@ Aspects: [ emotionUM, fear, mind-affecting ]
 ClassList: { cleric: 5, oracle: 5, inquisitor: 6, shaman: 6, spiritualist: 5, witch: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: one 5-ft. cube/level (S)
+Area: one 5-ft. cube/level
 Effect: 
 Targets: 
 Duration: see text

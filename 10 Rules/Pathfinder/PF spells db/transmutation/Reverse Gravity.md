@@ -6,7 +6,7 @@ Aspects:
 ClassList: { druid: 8, sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: up to one 10-ft. cube/level (S)
+Area: up to one 10-ft. cube/level
 Effect: 
 Targets: 
 Duration: 1 round/level (D)

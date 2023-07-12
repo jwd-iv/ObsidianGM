@@ -6,7 +6,7 @@ Aspects: [ cold, emotionUM, fear, mind-affecting ]
 ClassList: { cleric: 4, oracle: 4, druid: 4, ranger: 3, shaman: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: one 5-ft. cube/level (S)
+Area: one 5-ft. cube/level
 Effect: 
 Targets: 
 Duration: 1 hour/level (D)

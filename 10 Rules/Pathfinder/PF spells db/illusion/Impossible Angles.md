@@ -6,7 +6,7 @@ Aspects:
 ClassList: { medium: 3, mesmerist: 4, occultist: 4, psychic: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: contiguous area up to one 5-foot cube/caster level (S)
+Area: contiguous area up to one 5-foot cube/caster level
 Effect: 
 Targets: 
 Duration: 1 minute/level

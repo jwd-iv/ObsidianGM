@@ -6,12 +6,11 @@ Aspects: [ earth, fire ]
 ClassList: { druid: 8, sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
-Targets: lava wall whose area is up to one 5-ft. square/level (S)
+Area: up to one 5-ft. square/level
+Effect: lava wall
 Duration: 1 round/level (D)
 Dismissible: yes
-Shapeable: 
+Shapeable: yes
 SavingThrow: see text
 SR: no
 Components:

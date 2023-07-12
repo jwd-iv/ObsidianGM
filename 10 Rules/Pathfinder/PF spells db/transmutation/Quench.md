@@ -6,7 +6,7 @@ Aspects:
 ClassList: { druid: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: one 20-ft. cube/level (S)
+Area: one 20-ft. cube/level
 Effect: 
 Targets: one fire-based magic item
 Duration: instantaneous

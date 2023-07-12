@@ -6,7 +6,7 @@ Aspects:
 ClassList: { bard: 3, druid: 3, mesmerist: 3, occultist: 3, psychic: 3, ranger: 3 }
 CastTime: 10 minutes
 Range: long (400 + 40 ft./level)
-Area: one 40-ft. cube/level (S)
+Area: one 40-ft. cube/level
 Effect: 
 Targets: 
 Duration: 2 hours/level (D)

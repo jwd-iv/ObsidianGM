@@ -6,12 +6,12 @@ Aspects: [ earth ]
 ClassList: { cleric: 5, oracle: 5, druid: 6, sorcerer: 5, wizard: 5, summoner: 4, magus: 5, shaman: 6, occultist: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: stone wall whose area is up to one 5-ft. square/level (S)
+Area: up to one 5-ft. square/level
+Effect: stone wall
 Targets: 
 Duration: instantaneous
 Dismissible: 
-Shapeable: 
+Shapeable: yes
 SavingThrow: see text
 SR: no
 Components:

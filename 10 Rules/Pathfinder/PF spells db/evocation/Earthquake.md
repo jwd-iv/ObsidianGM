@@ -6,7 +6,7 @@ Aspects: [ earth ]
 ClassList: { cleric: 8, oracle: 8, druid: 8, shaman: 8, psychic: 8 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 80-ft.-radius spread (S)
+Area: 80-ft.-radius spread
 Effect: 
 Targets: 
 Duration: 1 round

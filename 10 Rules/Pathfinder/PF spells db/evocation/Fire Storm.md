@@ -6,7 +6,7 @@ Aspects: [ fire ]
 ClassList: { cleric: 8, oracle: 8, druid: 7, shaman: 8 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: two 10-ft. cubes per level (S)
+Area: two 10-ft. cubes per level
 Effect: 
 Targets: 
 Duration: instantaneous

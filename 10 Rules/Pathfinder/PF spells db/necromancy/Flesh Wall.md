@@ -6,12 +6,12 @@ Aspects: [ evil ]
 ClassList: { cleric: 6, oracle: 6, shaman: 6, sorcerer: 6, wizard: 6, spiritualist: 5, summoner: 5, unchained summoner: 5, witch: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: a wall of corpses with an area of up to one 5-ft. square/ level (S)
+Area: up to one 5-ft. square/level
+Effect: a wall of corpses
 Targets: 
 Duration: concentration + 1 round/level (D)
 Dismissible: yes
-Shapeable: 
+Shapeable: yes
 SavingThrow: none
 SR: no
 Components:

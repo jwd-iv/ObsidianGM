@@ -6,7 +6,7 @@ Aspects: [ emotionUM, evil, fear, mind-affecting ]
 ClassList: { antipaladin: 2, cleric: 2, oracle: 2, inquisitor: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: one 5-ft. cube/level (S)
+Area: one 5-ft. cube/level
 Effect: 
 Targets: 
 Duration: 1 hour/level (D)

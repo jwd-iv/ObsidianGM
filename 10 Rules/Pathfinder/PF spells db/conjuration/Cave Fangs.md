@@ -6,7 +6,7 @@ Aspects: [ earth ]
 ClassList: { druid: 5, shaman: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: one 5-ft. square/level (S); the area must be a stone surface
+Area: one 5-ft. square/level; the area must be a stone surface
 Effect: 
 Targets: 
 Duration: 1 day/level or until triggered (D)

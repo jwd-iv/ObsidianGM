@@ -6,7 +6,7 @@ Aspects: [ fire, good ]
 ClassList: { bloodrager: 4, magus: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 10-ft. cube/level (S)
+Area: 10-ft. cube/level
 Effect: 
 Targets: 
 Duration: instantaneous

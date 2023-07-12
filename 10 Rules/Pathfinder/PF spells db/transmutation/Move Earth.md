@@ -6,7 +6,7 @@ Aspects: [ earth ]
 ClassList: { druid: 6, sorcerer: 6, wizard: 6 }
 CastTime: see text
 Range: long (400 + 40 ft./level)
-Area: dirt in an area up to 750 ft. square and up to 10 ft. deep (S)
+Area: dirt in an area up to 750 ft. square and up to 10 ft. deep
 Effect: 
 Targets: 
 Duration: instantaneous

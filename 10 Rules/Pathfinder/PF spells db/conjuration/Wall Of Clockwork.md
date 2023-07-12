@@ -6,12 +6,12 @@ Aspects:
 ClassList: { cleric: 5, oracle: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: wall of bronze clockworks whose area is up to one 5-ft.-square/level (S)
+Area: up to one 5-ft.-square/level
+Effect: wall of bronze clockworks
 Targets: 
 Duration: 1 minute/level
 Dismissible: 
-Shapeable: 
+Shapeable: yes
 SavingThrow: Reflex half or Reflex negates; see text
 SR: yes
 Components:

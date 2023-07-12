@@ -6,7 +6,7 @@ Aspects: [ emotionUM, fear, mind-affecting ]
 ClassList: { bard: 2, medium: 1, mesmerist: 2, occultist: 2, psychic: 2, shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: one 5-ft. cube/level (S)
+Area: one 5-ft. cube/level
 Effect: 
 Targets: 
 Duration: 1 hour/level (D)
