@@ -1,35 +1,16 @@
 ---
 File: Vex Giant
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { ranger: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round per level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a fragment from a Large or larger weapon
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

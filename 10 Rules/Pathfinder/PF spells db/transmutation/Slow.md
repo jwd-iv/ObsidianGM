@@ -1,34 +1,19 @@
 ---
 File: Slow
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, summoner: 2, magus: 3, bloodrager: 3, occultist: 3, psychic: 3, spiritualist: 3, unchained summoner: 3, medium: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of molasses
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/slow)"
 ---

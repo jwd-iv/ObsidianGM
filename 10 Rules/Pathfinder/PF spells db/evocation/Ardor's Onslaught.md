@@ -1,35 +1,17 @@
 ---
 File: Ardor's Onslaught
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous or 1d6 rounds; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial, see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

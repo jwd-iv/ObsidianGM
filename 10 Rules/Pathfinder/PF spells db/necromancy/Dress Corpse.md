@@ -1,35 +1,18 @@
 ---
 File: Dress Corpse
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: corpse touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a pickled herring
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

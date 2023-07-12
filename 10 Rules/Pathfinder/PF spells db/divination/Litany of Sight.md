@@ -1,35 +1,18 @@
 ---
 File: Litany of Sight
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 3, inquisitor: 4, paladin: 3 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: no
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/l/litany-of-sight)"
 ---

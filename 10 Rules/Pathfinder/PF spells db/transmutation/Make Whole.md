@@ -1,34 +1,20 @@
 ---
 File: Make Whole
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, occultist: 2, psychic: 2 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one object of up to 10 cu. ft./level or one construct creature of any size
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Flotsam: 2 }
-GPCost: 
 Bloodline: { Impossible: 5 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/make-whole)"
 ---

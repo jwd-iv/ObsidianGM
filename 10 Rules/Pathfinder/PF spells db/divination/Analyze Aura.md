@@ -1,35 +1,16 @@
 ---
 File: Analyze Aura
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { medium: 2, mesmerist: 3, occultist: 2, psychic: 3, spiritualist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object
 Duration: concentration, up to 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

@@ -2,34 +2,17 @@
 File: Silent Table
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2, psychic: 2, mesmerist: 2 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
 Area: 5-ft.-diameter emanation centered on an object or a point in space
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (object)
 SR: no (object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

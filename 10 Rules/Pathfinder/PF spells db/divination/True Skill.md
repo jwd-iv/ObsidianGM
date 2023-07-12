@@ -1,35 +1,15 @@
 ---
 File: True Skill
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, bard: 1, magus: 1, medium: 1, psychic: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

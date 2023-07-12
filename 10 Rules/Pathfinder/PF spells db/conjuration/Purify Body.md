@@ -2,34 +2,17 @@
 File: Purify Body
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { alchemist: 4, cleric: 4, oracle: 4, medium: 4, paladin: 4, psychic: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous and 1 hour or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Healer's Handbook"
 ---

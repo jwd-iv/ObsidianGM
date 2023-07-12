@@ -1,34 +1,21 @@
 ---
 File: Hydraulic Push
 School: evocation
-Subschool: 
 Aspects: [ water ]
 ClassList: { druid: 1, sorcerer: 1, wizard: 1, magus: 1, bloodrager: 1, shaman: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Rivers: 1 }
-GPCost: 
 Bloodline: { Aquatic: 3 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/h/hydraulic-push)"
 ---

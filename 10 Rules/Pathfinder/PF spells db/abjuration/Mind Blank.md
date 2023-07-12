@@ -1,35 +1,19 @@
 ---
 File: Mind Blank
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, witch: 8, psychic: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Liberation: 8, Protection: 8, Thought: 8, Espionage: 9, Vermin: 9, Flowing: 8 }
-GPCost: 
 Bloodline: { Aberrant (Sorcerer): 17, Martyred: 17, Rakshasa: 17 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mind-blank)"
 ---

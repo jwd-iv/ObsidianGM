@@ -1,35 +1,15 @@
 ---
 File: Allegro
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level or until discharged
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/a/allegro)"
 ---

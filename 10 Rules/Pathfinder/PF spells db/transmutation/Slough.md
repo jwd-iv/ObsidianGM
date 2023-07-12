@@ -1,35 +1,20 @@
 ---
 File: Slough
 School: transmutation
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 5, oracle: 5, occultist: 4, psychic: 5, sorcerer: 5, wizard: 5, spiritualist: 4, witch: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of dried skin flakes
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

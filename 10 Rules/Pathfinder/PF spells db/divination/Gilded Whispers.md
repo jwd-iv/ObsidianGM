@@ -1,35 +1,20 @@
 ---
 File: Gilded Whispers
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, sorcerer: 3, wizard: 3 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: a gold or platinum coin
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: 100 gp of powdered gemstones
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pathfinder Society Field Guide"
 ---

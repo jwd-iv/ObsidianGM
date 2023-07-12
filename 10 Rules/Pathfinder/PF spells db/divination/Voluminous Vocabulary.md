@@ -1,35 +1,19 @@
 ---
 File: Voluminous Vocabulary
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, bard: 2, cleric: 3, oracle: 3, inquisitor: 2, medium: 2, mesmerist: 2, occultist: 2, psychic: 3, shaman: 4, sorcerer: 3, wizard: 3, spiritualist: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 8 hours
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a quill
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

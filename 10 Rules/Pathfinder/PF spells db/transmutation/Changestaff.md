@@ -1,33 +1,19 @@
 ---
 File: Changestaff
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 7 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: your touched staff
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/changestaff)"
 ---

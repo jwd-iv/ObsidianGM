@@ -1,35 +1,17 @@
 ---
 File: Line In The Sand
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 1, magus: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: 5 ft.
 Area: 5-ft. burst centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

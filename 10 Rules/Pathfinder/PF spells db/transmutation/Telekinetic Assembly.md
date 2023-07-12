@@ -1,35 +1,18 @@
 ---
 File: Telekinetic Assembly
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 2, sorcerer: 2, wizard: 2, occultist: 2, psychic: 2 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one disassembled siege engine
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/t/telekinetic-assembly)"
 ---

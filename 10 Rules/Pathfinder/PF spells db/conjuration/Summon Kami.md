@@ -1,35 +1,19 @@
 ---
 File: Summon Kami
 School: conjuration
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, shaman: 5 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one or more kami
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Interrogation
 School: necromancy
-Subschool: 
 Aspects: [ evil, pain ]
 ClassList: { inquisitor: 1, sorcerer: 1, wizard: 1, witch: 1, psychic: 1, mesmerist: 1 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/i/interrogation)"
 ---

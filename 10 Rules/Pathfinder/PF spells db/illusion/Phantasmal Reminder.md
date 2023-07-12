@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { antipaladin: 3, bard: 4, mesmerist: 3, psychic: 3, shaman: 4, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief, then Fortitude partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

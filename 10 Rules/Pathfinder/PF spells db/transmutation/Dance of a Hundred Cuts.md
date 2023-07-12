@@ -1,35 +1,15 @@
 ---
 File: Dance of a Hundred Cuts
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Duels: 5 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/d/dance-of-a-hundred-cuts)"
 ---

@@ -2,34 +2,17 @@
 File: Swipe
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { bard: 2, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one held item
 Duration: instant
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "RotRL-AE-Appendix"
 ---

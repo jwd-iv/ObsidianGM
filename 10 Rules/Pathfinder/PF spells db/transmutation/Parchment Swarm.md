@@ -1,35 +1,17 @@
 ---
 File: Parchment Swarm
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 5, occultist: 4, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: yes
 Components:
-  V: 
   S: yes
   M: blank parchment or magic scroll; see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

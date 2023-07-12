@@ -1,35 +1,17 @@
 ---
 File: Perceive Betrayal
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, inquisitor: 4, sorcerer: 7, wizard: 7, witch: 6 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: 12 drops of blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The High Court"
 ---

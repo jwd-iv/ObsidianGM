@@ -6,30 +6,17 @@ Aspects: [ see text ]
 ClassList: { druid: 9, witch: 9, shaman: 9 }
 CastTime: 10 minutes
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: two or more summoned creatures, no two of which can be more than 30 ft. apart
-Targets: 
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Air: 9, Earth: 9, Fire: 9, Water: 9 }
-GPCost: 
 Bloodline: { Elemental: 19 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/elemental-swarm)"
 ---

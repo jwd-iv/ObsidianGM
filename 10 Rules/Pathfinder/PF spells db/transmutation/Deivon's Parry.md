@@ -1,35 +1,15 @@
 ---
 File: Deivon's Parry
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, magus: 1 }
 CastTime: immediate action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

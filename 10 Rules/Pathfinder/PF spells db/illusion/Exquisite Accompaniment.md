@@ -6,30 +6,15 @@ Aspects: [ shadow ]
 ClassList: { bard: 3 }
 CastTime: standard action
 Range: personal
-Area: 
 Effect: phantom instrument
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/e/exquisite-accompaniment)"
 ---

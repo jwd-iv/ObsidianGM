@@ -6,30 +6,15 @@ Aspects: [ emotionUM, mind-affecting ]
 ClassList: { bard: 3, medium: 3, mesmerist: 3, psychic: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
-  V: 
   S: yes
   M: a rose
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

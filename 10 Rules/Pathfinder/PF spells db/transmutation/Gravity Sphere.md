@@ -1,35 +1,19 @@
 ---
 File: Gravity Sphere
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 30-ft.-radius sphere of altered gravity
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a marble
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The Stars"
 ---

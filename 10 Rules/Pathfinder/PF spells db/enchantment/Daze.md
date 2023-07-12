@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 0, sorcerer: 0, wizard: 0, witch: 0, summoner: 0, unchained summoner: 0, inquisitor: 0, magus: 0, shaman: 0, occultist: 0, psychic: 0, mesmerist: 0, spiritualist: 0, medium: 0 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one humanoid creature of 4 HD or less
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of wool or similar substance
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/daze)"
 ---

@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 6, sorcerer: 8, wizard: 8, witch: 8, shaman: 8, psychic: 8, mesmerist: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1d4+1 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Revelry: 8 }
-GPCost: 
 Bloodline: { Fey: 17, Serpentine: 17 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/irresistible-dance)"
 ---

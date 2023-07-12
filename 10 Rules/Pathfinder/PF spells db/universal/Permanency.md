@@ -1,35 +1,19 @@
 ---
 File: Permanency
 School: universal
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, psychic: 5 }
 CastTime: 2 rounds
 Range: see text
-Area: 
-Effect: 
 Targets: see text
 Duration: permanent; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: see tables below
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 0
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/permanency)"
 ---

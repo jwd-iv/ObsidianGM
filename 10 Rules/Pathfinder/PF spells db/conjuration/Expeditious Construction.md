@@ -6,30 +6,15 @@ Aspects: [ earth ]
 ClassList: { druid: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: a low wall 10 feet long per 3 levels (minimum 10 feet) (S)
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a handful of earth or stone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Divine Vessel
 School: transmutation
-Subschool: 
 Aspects: [ chaotic, evil, good, or lawful ]
 ClassList: { oracle: 8 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "APG"
 ---

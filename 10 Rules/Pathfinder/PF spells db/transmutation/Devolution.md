@@ -1,34 +1,19 @@
 ---
 File: Devolution
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, psychic: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one eidolon
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a chameleon scale
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/devolution)"
 ---

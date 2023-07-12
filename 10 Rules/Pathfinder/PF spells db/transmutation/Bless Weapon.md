@@ -1,35 +1,18 @@
 ---
 File: Bless Weapon
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { paladin: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: weapon touched
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Glory: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/bless-weapon)"
 ---

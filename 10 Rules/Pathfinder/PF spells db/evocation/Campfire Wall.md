@@ -1,35 +1,21 @@
 ---
 File: Campfire Wall
 School: evocation
-Subschool: 
 Aspects: [ fire, light ]
 ClassList: { bard: 3, druid: 2, ranger: 2, sorcerer: 3, wizard: 3, occultist: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 20-ft.-radius sphere centered on fire source
-Targets: 
 Duration: 2 hours/level; see below
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: ash made from burnt thorns
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/campfire-wall)"
 ---

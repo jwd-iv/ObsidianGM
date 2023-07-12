@@ -1,34 +1,19 @@
 ---
 File: Blasphemy
 School: evocation
-Subschool: 
 Aspects: [ evil, sonic ]
 ClassList: { cleric: 7, oracle: 7, inquisitor: 6 }
 CastTime: standard action
 Range: 40 ft.
 Area: nonevil creatures in a 40-ft.-radius spread centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Evil: 7 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/blasphemy)"
 ---

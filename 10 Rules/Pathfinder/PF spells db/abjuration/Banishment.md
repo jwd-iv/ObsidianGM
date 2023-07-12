@@ -1,35 +1,20 @@
 ---
 File: Banishment
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, sorcerer: 7, wizard: 7, summoner: 5, inquisitor: 5, shaman: 6, psychic: 7, spiritualist: 6, unchained summoner: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one or more extraplanar creatures, no two of which can be more than 30 ft. apart
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
 Bloodline: { Celestial: 15 }
 Patron: { Boundaries: 12, Dimensions: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/banishment)"
 ---

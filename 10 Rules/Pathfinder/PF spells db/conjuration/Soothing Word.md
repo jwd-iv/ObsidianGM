@@ -2,34 +2,17 @@
 File: Soothing Word
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 2, inquisitor: 2, paladin: 2, ranger: 3, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Condition Cards"
 ---

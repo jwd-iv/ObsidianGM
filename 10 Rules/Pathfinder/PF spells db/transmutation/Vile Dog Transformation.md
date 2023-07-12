@@ -6,30 +6,15 @@ Aspects: [ evil ]
 ClassList: { antipaladin: 3, cleric: 5, oracle: 5, druid: 5, shaman: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one or more dogs touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a strip of leather
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

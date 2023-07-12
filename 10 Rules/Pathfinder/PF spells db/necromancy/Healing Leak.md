@@ -1,35 +1,19 @@
 ---
 File: Healing Leak
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 2, cleric: 3, oracle: 3, paladin: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of muslin
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Righteous Condemnation
 School: abjuration
-Subschool: 
 Aspects: [ good, law ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, paladin: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/per level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

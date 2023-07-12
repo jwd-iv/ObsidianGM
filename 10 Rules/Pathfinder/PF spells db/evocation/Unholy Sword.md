@@ -1,35 +1,18 @@
 ---
 File: Unholy Sword
 School: evocation
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: melee weapon touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/u/unholy-sword)"
 ---

@@ -2,34 +2,19 @@
 File: Alluring Spores
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { druid: 2, shaman: 2, witch: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a clump of pollen
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of The First World"
 ---

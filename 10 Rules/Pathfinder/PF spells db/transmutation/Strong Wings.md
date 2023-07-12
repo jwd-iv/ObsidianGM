@@ -1,35 +1,17 @@
 ---
 File: Strong Wings
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, ranger: 1, sorcerer: 1, wizard: 1, witch: 1, bloodrager: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

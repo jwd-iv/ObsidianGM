@@ -1,35 +1,14 @@
 ---
 File: Cheetah's Sprint
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 1, druid: 1, ranger: 1, shaman: 1, witch: 1 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Wild"
 ---

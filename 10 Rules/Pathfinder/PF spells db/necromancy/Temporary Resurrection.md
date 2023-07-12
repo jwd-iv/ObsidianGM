@@ -1,35 +1,17 @@
 ---
 File: Temporary Resurrection
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, witch: 7, occultist: 6, psychic: 7 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: diamond dust worth 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/t/temporary-resurrection)"
 ---

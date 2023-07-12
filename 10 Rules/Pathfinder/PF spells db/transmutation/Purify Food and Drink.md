@@ -1,35 +1,17 @@
 ---
 File: Purify Food and Drink
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 0, oracle: 0, druid: 0, shaman: 0, occultist: 0 }
 CastTime: standard action
 Range: 10 ft.
-Area: 
-Effect: 
 Targets: 1 cu. ft./level of contaminated food and water
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/purify-food-and-drink)"
 ---

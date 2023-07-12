@@ -1,35 +1,17 @@
 ---
 File: Smite Abomination
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, inquisitor: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Pharasma
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

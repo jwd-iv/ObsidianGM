@@ -1,34 +1,18 @@
 ---
 File: Inflict Serious Wounds
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, witch: 4, inquisitor: 3, antipaladin: 4, shaman: 3, occultist: 3, spiritualist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/inflict-serious-wounds)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Irregular Size
 School: transmutation
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { antipaladin: 3, bloodrager: 4, cleric: 3, oracle: 3, medium: 2, mesmerist: 3, occultist: 3, shaman: 3, sorcerer: 4, wizard: 4, spiritualist: 4, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

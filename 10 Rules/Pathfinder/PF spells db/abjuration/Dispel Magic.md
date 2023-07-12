@@ -1,34 +1,21 @@
 ---
 File: Dispel Magic
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3, druid: 4, paladin: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, witch: 3, inquisitor: 3, antipaladin: 3, magus: 3, shaman: 3, occultist: 3, psychic: 3, mesmerist: 3, spiritualist: 3, medium: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: one spellcaster, creature, or object
-Effect: 
 Targets: one spellcaster, creature, or object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Magic: 3, Entropy: 3 }
-GPCost: 
 Bloodline: { Arcane: 7 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/dispel-magic)"
 ---

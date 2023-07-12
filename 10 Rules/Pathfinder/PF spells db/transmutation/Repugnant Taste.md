@@ -1,35 +1,20 @@
 ---
 File: Repugnant Taste
 School: transmutation
-Subschool: 
 Aspects: [ poison ]
 ClassList: { alchemist: 3, bard: 3, druid: 4, mesmerist: 3, ranger: 3, shaman: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: mustard seed
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Hunter's Handbook"
 ---

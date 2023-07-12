@@ -2,34 +2,18 @@
 File: Create Demiplane, Lesser
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, sorcerer: 7, wizard: 7, summoner: 5, witch: 7, occultist: 5, psychic: 7, unchained summoner: 6 }
 CastTime: 2 hours
 Range: 0 ft.
-Area: 
 Effect: extradimensional demiplane, up to three 10-ft. cubes/level (S)
-Targets: 
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/c/create-demiplane)"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Mask From Divination
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 5, bloodrager: 4, magus: 5, shaman: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: diamond dust worth 200 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 200
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

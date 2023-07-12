@@ -1,35 +1,18 @@
 ---
 File: Sacramental Seal
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 2000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

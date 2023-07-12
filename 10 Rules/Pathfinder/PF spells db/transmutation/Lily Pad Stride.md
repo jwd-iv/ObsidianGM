@@ -1,35 +1,20 @@
 ---
 File: Lily Pad Stride
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: trail of lily pads behind you
-Targets: 
 Duration: 10 minutes/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a frog's leg
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Plant: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/l/lily-pad-stride)"
 ---

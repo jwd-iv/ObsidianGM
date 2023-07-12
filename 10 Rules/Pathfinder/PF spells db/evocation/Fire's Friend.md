@@ -1,35 +1,17 @@
 ---
 File: Fire's Friend
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { alchemist: 2, bloodrager: 2, magus: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a flame of any size
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

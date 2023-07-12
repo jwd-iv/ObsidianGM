@@ -2,32 +2,20 @@
 File: Web
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, witch: 2, magus: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: webs in a 20-ft.-radius spread
-Targets: 
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: spider web
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/web)"
 ---

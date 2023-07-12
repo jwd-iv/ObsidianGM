@@ -2,34 +2,19 @@
 File: Giant Form I
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, alchemist: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of the creature whose form you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
 Bloodline: { Boreal: 15 }
 Patron: { Strength: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/giant-form-i)"
 ---

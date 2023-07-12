@@ -2,34 +2,17 @@
 File: Path Of Glory
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2 }
 CastTime: standard action
 Range: touch (see text)
 Area: four 5-ft. squares/level (see text)
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

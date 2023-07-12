@@ -1,35 +1,18 @@
 ---
 File: Spellcasting Contract, Lesser
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: willing creature touched
 Duration: permanent until contractually terminated
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Asmodeus
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[AP 29](http://www.d20pfsrd.com/magic/all-spells/s/s/spellcasting-contract)"
 ---

@@ -7,29 +7,17 @@ ClassList: { bard: 2, cleric: 2, oracle: 2, inquisitor: 2, shaman: 2, occultist:
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: creatures in a 20-ft.-radius spread
-Effect: 
-Targets: 
 Duration: concentration, up to 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Charm: 2, Family: 2 }
-GPCost: 
-Bloodline: 
 Patron: { Enchantment: 4, Peace: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/calm-emotions)"
 ---

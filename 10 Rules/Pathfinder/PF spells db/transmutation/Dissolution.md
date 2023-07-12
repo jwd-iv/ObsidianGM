@@ -1,35 +1,20 @@
 ---
 File: Dissolution
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, sorcerer: 5, wizard: 5, spiritualist: 6, summoner: 6, unchained summoner: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: Tiny or smaller object touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: no
 Components:
   V: yes
   S: yes
   M: vial of alchemical reagents worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

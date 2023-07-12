@@ -1,35 +1,16 @@
 ---
 File: Dungeonsight
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, cleric: 5, oracle: 5, inquisitor: 4, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: personal
 Area: 60-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 150
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dragonslayer's Handbook"
 ---

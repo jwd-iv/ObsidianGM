@@ -1,35 +1,19 @@
 ---
 File: Guardian Of Faith
 School: abjuration
-Subschool: 
 Aspects: [ see text ]
 ClassList: { cleric: 4, oracle: 4, paladin: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one ally
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: parchment with a holy text written on it
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

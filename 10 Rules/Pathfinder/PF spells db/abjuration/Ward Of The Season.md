@@ -1,35 +1,17 @@
 ---
 File: Ward Of The Season
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, druid: 3, ranger: 3, witch: 3, shaman: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

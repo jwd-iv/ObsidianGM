@@ -6,30 +6,15 @@ Aspects: [ good ]
 ClassList: { cleric: 6, oracle: 6, inquisitor: 5, paladin: 4, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Champions Of Purity"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Orchid's Drop
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a much-diluted drop of sun orchid nectar worth 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

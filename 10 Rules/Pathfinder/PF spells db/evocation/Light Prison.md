@@ -1,35 +1,20 @@
 ---
 File: Light Prison
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { bard: 2, cleric: 2, oracle: 2, inquisitor: 2, magus: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/2 levels
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Iomedae
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

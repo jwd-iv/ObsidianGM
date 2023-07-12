@@ -2,34 +2,20 @@
 File: Clairaudience/Clairvoyance
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, witch: 3, shaman: 3, occultist: 3, psychic: 3, mesmerist: 3, spiritualist: 3, medium: 2 }
 CastTime: 10 minutes
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: magical sensor
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/clairaudience-clairvoyance)"
 ---

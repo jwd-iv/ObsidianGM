@@ -2,34 +2,15 @@
 File: Song of Kyonin
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { bard: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to 3 creatures, no two of which can be more than 30 ft. apart
 Duration: 1 round/level or until performance ends or changes (see text)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

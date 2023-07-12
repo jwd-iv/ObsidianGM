@@ -1,35 +1,19 @@
 ---
 File: Align Weapon, Communal
 School: transmutation
-Subschool: 
 Aspects: [ see text ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: weapons or projectiles touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

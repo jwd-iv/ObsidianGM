@@ -1,35 +1,16 @@
 ---
 File: Conditional Favor
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, bard: 2, cleric: 2, oracle: 2, inquisitor: 2, mesmerist: 2, occultist: 2, paladin: 1, witch: 2 }
 CastTime: swift action
-Range: 
-Area: 
-Effect: 
 Targets: 1 creature
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (see below)
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

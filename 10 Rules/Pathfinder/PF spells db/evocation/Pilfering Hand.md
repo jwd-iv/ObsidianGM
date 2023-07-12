@@ -1,35 +1,17 @@
 ---
 File: Pilfering Hand
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { bard: 2, cleric: 2, oracle: 2, magus: 2, sorcerer: 2, wizard: 2, occultist: 2, psychic: 2, mesmerist: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one object
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (object)
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/p/pilfering-hand)"
 ---

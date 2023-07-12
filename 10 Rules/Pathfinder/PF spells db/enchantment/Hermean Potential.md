@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { medium: 1, mesmerist: 1, psychic: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of Dragons"
 ---

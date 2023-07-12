@@ -1,35 +1,19 @@
 ---
 File: Control Winds
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 5, shaman: 5, occultist: 5 }
 CastTime: standard action
 Range: 40 ft./level
 Area: 40 ft./level radius cylinder 40 ft. high
-Effect: 
-Targets: 
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Air: 5, Weather: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/control-winds)"
 ---

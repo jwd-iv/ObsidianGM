@@ -1,35 +1,18 @@
 ---
 File: Mirror Polish
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1, witch: 1, occultist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one metal item of up to 1 sq. ft.
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: yes (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a soft cloth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Inheritor's Smite
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, paladin: 2 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Iomedae
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

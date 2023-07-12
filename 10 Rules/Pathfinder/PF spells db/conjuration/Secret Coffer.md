@@ -2,34 +2,17 @@
 File: Secret Coffer
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 10 minutes
 Range: see text
-Area: 
-Effect: 
 Targets: one small chest or coffer and up to 1 cu. ft. of goods
 Duration: 60 days or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

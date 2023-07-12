@@ -1,34 +1,22 @@
 ---
 File: Spiritual Weapon
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, shaman: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: magic weapon of force
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { War: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/spiritual-weapon)"
 ---

@@ -2,34 +2,19 @@
 File: Sundered Serpent Coil
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { magus: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, witch: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: one 5-foot square
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a snake scale
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

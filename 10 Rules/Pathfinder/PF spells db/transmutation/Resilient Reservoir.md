@@ -1,35 +1,17 @@
 ---
 File: Resilient Reservoir
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 3, paladin: 3, sorcerer: 4, wizard: 4, witch: 4, psychic: 4, mesmerist: 3 }
 CastTime: standard action
 Range: personal
 Area: special, see text
-Effect: 
-Targets: 
 Duration: 1 round/ level
-Dismissible: 
-Shapeable: 
 SavingThrow: none (see below)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

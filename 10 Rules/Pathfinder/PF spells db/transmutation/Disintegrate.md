@@ -1,33 +1,23 @@
 ---
 File: Disintegrate
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, magus: 6, occultist: 6, psychic: 6, spiritualist: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: ray
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (object)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a lodestone and a pinch of dust
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Ash: 7, Destruction: 7 }
-GPCost: 
 Bloodline: { Div: 13, Protean: 13 }
 Patron: { Time: 12 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/disintegrate)"
 ---

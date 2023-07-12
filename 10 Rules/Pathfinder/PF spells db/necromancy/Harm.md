@@ -1,33 +1,19 @@
 ---
 File: Harm
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, witch: 7, inquisitor: 6, shaman: 7, occultist: 6, spiritualist: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Decay: 6, Destruction: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/harm)"
 ---

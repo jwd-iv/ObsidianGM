@@ -2,34 +2,16 @@
 File: Climbing Beanstalk
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { druid: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 5-ft. square of climbable beanstalks
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

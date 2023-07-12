@@ -6,30 +6,15 @@ Aspects: [ emotionUM, mind-affecting ]
 ClassList: { bard: 1, magus: 2, medium: 1, mesmerist: 1, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

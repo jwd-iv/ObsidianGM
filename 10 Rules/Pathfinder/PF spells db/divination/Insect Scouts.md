@@ -1,35 +1,17 @@
 ---
 File: Insect Scouts
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 4, bard: 4, druid: 2, inquisitor: 3, psychic: 4, ranger: 2, shaman: 2, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, witch: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one insect scout/4 levels
-Targets: 
 Duration: 1d6 hours, plus 1 hour/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
-  V: 
   S: yes
   M: a drop of honey
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Spymaster's Handbook"
 ---

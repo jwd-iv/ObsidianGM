@@ -1,35 +1,19 @@
 ---
 File: Righteous Might
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, inquisitor: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Glory: 5, Growth: 5, Strength: 5 }
-GPCost: 
-Bloodline: 
 Patron: { Strength: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/righteous-might)"
 ---

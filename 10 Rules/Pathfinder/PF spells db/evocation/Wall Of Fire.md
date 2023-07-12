@@ -1,33 +1,24 @@
 ---
 File: Wall Of Fire
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 5, sorcerer: 4, wizard: 4, summoner: 3, magus: 4, bloodrager: 4, shaman: 5, occultist: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft./two levels; either form 20 ft. high
-Targets: 
 Duration: concentration + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of phosphor
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Fire: 4 }
-GPCost: 
 Bloodline: { Efreeti: 9, Orc: 9 }
 Patron: { Summer: 10 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-fire)"
 ---

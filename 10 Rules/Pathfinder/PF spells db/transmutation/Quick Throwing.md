@@ -1,35 +1,18 @@
 ---
 File: Quick Throwing
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 2, bloodrager: 2, magus: 2, paladin: 2, ranger: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: V, S, M
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 91"
 ---

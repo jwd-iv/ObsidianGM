@@ -1,35 +1,16 @@
 ---
 File: Windy Escape
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { bard: 1, druid: 1, magus: 1, sorcerer: 1, wizard: 1, bloodrager: 1 }
 CastTime: immediate action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Inflict Serious Wounds, Mass
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, witch: 8, shaman: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Blood: 7 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/inflict-serious-wounds)"
 ---

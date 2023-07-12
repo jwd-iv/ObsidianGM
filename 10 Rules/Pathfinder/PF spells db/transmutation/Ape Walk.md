@@ -1,35 +1,18 @@
 ---
 File: Ape Walk
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 2, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
   M: an ape or monkey paw
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Sargava](http://www.d20pfsrd.com/magic/all-spells/a/a/ape-walk)"
 ---

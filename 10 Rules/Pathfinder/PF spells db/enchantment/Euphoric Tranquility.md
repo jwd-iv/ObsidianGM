@@ -6,30 +6,18 @@ Aspects: [ mind-affecting, emotion ]
 ClassList: { bard: 6, cleric: 8, oracle: 8, druid: 8, sorcerer: 8, wizard: 8, psychic: 8, mesmerist: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none and Will partial (see below)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a poppy flower
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Love: 8 }
-GPCost: 
-Bloodline: 
 Patron: { Ancestors: 16, Enchantment: 14, Peace: 16, Stars: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/euphoric-tranquility)"
 ---

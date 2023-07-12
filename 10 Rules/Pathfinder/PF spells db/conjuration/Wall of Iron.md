@@ -2,34 +2,21 @@
 File: Wall of Iron
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, summoner: 5, magus: 6, occultist: 6, unchained summoner: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: iron wall whose area is up to one 5-ft. square/level; see text
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a small iron sheet plus gold dust worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Artifice: 7, Metal: 6 }
 GPCost: 50
 Bloodline: { Shaitan: 13 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-iron)"
 ---

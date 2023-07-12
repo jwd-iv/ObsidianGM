@@ -1,35 +1,20 @@
 ---
 File: Lissalan Snake Sigil
 School: see text
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, sorcerer: 3, wizard: 3 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one touched book or written work
 Duration: permanent until discharged; 1 day/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
   M: powdered amber worth 500 gp and a snake scale
-  F: 
-  DF: 
 Deity: Lissala
 SLALevel: 3
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 65"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Painful Revelation
 School: abjuration
-Subschool: 
 Aspects: [ mind-affecting, painUM ]
 ClassList: { antipaladin: 2, bard: 2, mesmerist: 2, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one ongoing illusion effect
 Duration: 1 hour/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

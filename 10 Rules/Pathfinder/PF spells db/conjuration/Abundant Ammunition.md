@@ -2,34 +2,18 @@
 File: Abundant Ammunition
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, ranger: 1, sorcerer: 1, wizard: 1, psychic: 1 }
 CastTime: standard action
-Range: 
-Area: 
-Effect: 
 Targets: one container touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a single piece of ammunition
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/a/abundant-ammunition)"
 ---

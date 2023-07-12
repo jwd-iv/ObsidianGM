@@ -1,35 +1,18 @@
 ---
 File: Earth Tremor
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { bloodrager: 3, druid: 3, magus: 3, shaman: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: up to 30 ft. (see text)
 Area: 30-ft. line, 20-ft. cone-shaped spread, or 10-ft.-radius spread (see text)
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

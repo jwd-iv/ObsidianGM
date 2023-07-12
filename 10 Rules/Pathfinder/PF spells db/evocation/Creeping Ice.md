@@ -1,35 +1,18 @@
 ---
 File: Creeping Ice
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { druid: 4, sorcerer: 4, wizard: 4, summoner: 3, unchained summoner: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: anchored plane of ice, up to one 10-ft. square/level
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

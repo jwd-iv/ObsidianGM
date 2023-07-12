@@ -6,30 +6,12 @@ Aspects: [ force ]
 ClassList: { bard: 2, bloodrager: 2, cleric: 2, oracle: 2, inquisitor: 2, magus: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: melee weapon of opaque force
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Melee Tactics Toolbox"
 ---

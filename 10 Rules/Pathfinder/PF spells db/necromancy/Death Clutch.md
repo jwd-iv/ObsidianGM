@@ -1,35 +1,18 @@
 ---
 File: Death Clutch
 School: necromancy
-Subschool: 
 Aspects: [ death, evil ]
 ClassList: { cleric: 8, oracle: 8, druid: 9, psychic: 8, sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

@@ -2,32 +2,20 @@
 File: Sacred Bond
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, inquisitor: 2, paladin: 2 }
 CastTime: 1 round
 Range: touch; see text
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/sacred-bond)"
 ---

@@ -2,34 +2,19 @@
 File: Call Construct
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, occultist: 6, psychic: 8 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: construct touched
 Duration: permanent until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a sapphire worth 1,000 or 5,000 gp; see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/c/call-construct)"
 ---

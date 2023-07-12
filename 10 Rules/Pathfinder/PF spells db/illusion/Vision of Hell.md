@@ -6,30 +6,15 @@ Aspects: [ evil, fear ]
 ClassList: { bard: 3, cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, witch: 3, bloodrager: 3, occultist: 3, psychic: 3, mesmerist: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 50-ft.-radius emanation
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
-  S: 
   M: a pinch of brimstone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/v/vision-of-hell)"
 ---

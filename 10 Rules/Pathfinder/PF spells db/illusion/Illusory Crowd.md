@@ -2,34 +2,19 @@
 File: Illusory Crowd
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 1, shaman: 1, witch: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one 10-ft. cube of illusory people
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: no
 Components:
   V: yes
   S: yes
   M: a shirt button
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Streets"
 ---

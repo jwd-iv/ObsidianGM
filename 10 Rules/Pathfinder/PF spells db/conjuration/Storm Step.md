@@ -6,30 +6,13 @@ Aspects: [ electricity ]
 ClassList: { magus: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex halves
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Elements"
 ---

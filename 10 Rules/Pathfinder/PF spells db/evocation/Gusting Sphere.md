@@ -1,35 +1,18 @@
 ---
 File: Gusting Sphere
 School: evocation
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 2, magus: 2, sorcerer: 2, wizard: 2, bloodrager: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 5-ft.-diameter sphere of air
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object) or Reflex negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

@@ -1,35 +1,21 @@
 ---
 File: Delayed Blast Fireball
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 20-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 5 rounds or less; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a ball of bat guano and sulfur
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Arson: 7 }
-GPCost: 
 Bloodline: { Kobold Sorcerer: 15, Orc: 15, Kobold: 15 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/delayed-blast-fireball)"
 ---

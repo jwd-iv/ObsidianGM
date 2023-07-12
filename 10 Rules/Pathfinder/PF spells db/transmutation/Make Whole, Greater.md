@@ -1,35 +1,17 @@
 ---
 File: Make Whole, Greater
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: 10 ft.
-Area: 
-Effect: 
 Targets: one object of up to 5 lb./level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

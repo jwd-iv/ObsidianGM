@@ -1,35 +1,21 @@
 ---
 File: Ghost Brand
 School: transmutation
-Subschool: 
 Aspects: [ shadowUM ]
 ClassList: { bard: 4, occultist: 3, spiritualist: 4, witch: 4 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one willing creature and one object touched
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a branding iron and a strip of white silk worth 10 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

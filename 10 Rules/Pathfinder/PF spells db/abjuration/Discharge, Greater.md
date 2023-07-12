@@ -1,35 +1,18 @@
 ---
 File: Discharge, Greater
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 6, cleric: 6, oracle: 6, magus: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: one creature or technological object, or a 20-ft.-radius burst
-Effect: 
 Targets: one creature or technological object, or a 20-ft.-radius burst
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Wail of the Banshee
 School: necromancy
-Subschool: 
 Aspects: [ death, sonic ]
 ClassList: { sorcerer: 9, wizard: 9, witch: 9, shaman: 9, psychic: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature/level within a 40-ft.-radius spread
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Death: 9, Repose: 9 }
-GPCost: 
 Bloodline: { Maestro: 19, Ghoul: 19 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wail-of-the-banshee)"
 ---

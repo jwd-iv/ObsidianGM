@@ -2,34 +2,19 @@
 File: Word Of Beckoning
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { psychic: 7, sorcerer: 7, wizard: 7 }
 CastTime: 10 minutes
 Range: see text
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: fine copper wire
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 131"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Battering Blast
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or unattended object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dungeons Of Golarion"
 ---

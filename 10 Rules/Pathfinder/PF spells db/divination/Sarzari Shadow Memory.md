@@ -1,35 +1,19 @@
 ---
 File: Sarzari Shadow Memory
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 6, cleric: 6, oracle: 6, inquisitor: 6, psychic: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: 1 hour
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 month
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no (harmless)
 Components:
   V: yes
   S: yes
   M: a work of art bearing your target's likeness worth at least 1,500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 1500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

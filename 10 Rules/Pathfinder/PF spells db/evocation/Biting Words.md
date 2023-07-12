@@ -1,35 +1,18 @@
 ---
 File: Biting Words
 School: evocation
-Subschool: 
 Aspects: [ language-dependent, sonic ]
 ClassList: { bard: 1, bloodrager: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

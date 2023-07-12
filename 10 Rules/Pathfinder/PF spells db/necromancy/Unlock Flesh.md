@@ -1,35 +1,17 @@
 ---
 File: Unlock Flesh
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: touch
 Area: creature touched
-Effect: 
-Targets: 
 Duration: 1 round/level (living target) or instantaneous (undead target); see below
-Dismissible: 
-Shapeable: 
 SavingThrow: Fort negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Curse Of The Crimson Throne Chapter Appendix"
 ---

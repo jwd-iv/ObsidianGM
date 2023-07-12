@@ -1,35 +1,15 @@
 ---
 File: Dimensional Blade
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 4, bloodrager: 4, cleric: 6, oracle: 6, inquisitor: 5, magus: 5, paladin: 4, sorcerer: 6, wizard: 6 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Melee Tactics Toolbox"
 ---

@@ -7,29 +7,15 @@ ClassList: { paladin: 1 }
 CastTime: standard action
 Range: 5 ft.
 Area: one 5-ft. square
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/r/rally-point)"
 ---

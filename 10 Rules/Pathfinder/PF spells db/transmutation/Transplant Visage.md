@@ -1,35 +1,17 @@
 ---
 File: Transplant Visage
 School: transmutation
-Subschool: 
 Aspects: [ evil ]
 ClassList: { alchemist: 5, antipaladin: 4, cleric: 4, oracle: 4, inquisitor: 4, magus: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: permanent
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: one corpse
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

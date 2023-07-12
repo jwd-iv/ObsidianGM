@@ -1,35 +1,20 @@
 ---
 File: Suffocation
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, witch: 5, occultist: 5, psychic: 5, spiritualist: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 3 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: a vial containing a bit of the caster's breath
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Murder: 5 }
-GPCost: 
-Bloodline: 
 Patron: { Death: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/suffocation)"
 ---

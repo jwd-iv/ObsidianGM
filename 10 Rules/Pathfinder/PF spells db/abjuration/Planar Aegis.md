@@ -1,35 +1,17 @@
 ---
 File: Planar Aegis
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, occultist: 4, ranger: 3, sorcerer: 5, wizard: 5, summoner: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a fistful of naturally occurring material from a plane
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

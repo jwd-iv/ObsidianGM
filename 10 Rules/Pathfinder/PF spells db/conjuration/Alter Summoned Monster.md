@@ -2,34 +2,17 @@
 File: Alter Summoned Monster
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { antipaladin: 2, bard: 2, cleric: 2, oracle: 2, druid: 2, ranger: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one summoned creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Summoner's Handbook"
 ---

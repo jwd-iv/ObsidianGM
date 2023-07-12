@@ -1,35 +1,16 @@
 ---
 File: Hunter's Lore
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 2, ranger: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a scrap of paper torn from a book about monsters
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

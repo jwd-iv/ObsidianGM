@@ -1,34 +1,18 @@
 ---
 File: Chord Of Shards
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1 }
 CastTime: standard action
 Range: 15 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/c/chord-of-shards)"
 ---

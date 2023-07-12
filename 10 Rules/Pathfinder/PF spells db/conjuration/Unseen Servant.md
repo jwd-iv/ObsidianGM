@@ -2,34 +2,19 @@
 File: Unseen Servant
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, witch: 1, magus: 1, occultist: 1, psychic: 1, mesmerist: 1, spiritualist: 1, medium: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one invisible, mindless, shapeless servant
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a piece of string and a bit of wood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
 Bloodline: { Starsoul: 3 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/u/unseen-servant)"
 ---

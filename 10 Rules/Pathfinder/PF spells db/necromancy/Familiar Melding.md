@@ -1,35 +1,17 @@
 ---
 File: Familiar Melding
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, witch: 4, shaman: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: your familiar
 Duration: 1 hour/level or until you return to your body
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/f/familiar-melding)"
 ---

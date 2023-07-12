@@ -17,18 +17,8 @@ Components:
   V: yes
   S: yes
   M: a chunk of dried lava
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-lava)"
 ---

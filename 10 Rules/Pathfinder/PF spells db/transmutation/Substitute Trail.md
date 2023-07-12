@@ -1,35 +1,17 @@
 ---
 File: Substitute Trail
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, ranger: 4 }
 CastTime: standard action
-Range: 
-Area: 
-Effect: 
 Targets: 1 creature/level; see text
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Keep Watch
 School: enchantment
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 1, magus: 1, paladin: 1, ranger: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature touched/2 levels
 Duration: 8 hours or less; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Knights Of The Inner Sea"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Raging Rubble
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { bard: 3, cleric: 3, oracle: 3, druid: 3, sorcerer: 3, wizard: 3, witch: 3, bloodrager: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one swarm of stones
-Targets: 
 Duration: concentration + 2 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

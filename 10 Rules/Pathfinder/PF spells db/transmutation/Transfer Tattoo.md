@@ -1,35 +1,18 @@
 ---
 File: Transfer Tattoo
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one magic tattoo
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: tattooing needle
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

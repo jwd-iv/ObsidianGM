@@ -1,35 +1,18 @@
 ---
 File: Telekinetic Volley
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: up to one touched object per level weighing up to 5 lbs. each
 Duration: 1 round/level or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (object)
 SR: no (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ranged Tactics Toolbox"
 ---

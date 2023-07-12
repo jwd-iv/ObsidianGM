@@ -1,35 +1,19 @@
 ---
 File: Magnetic Field
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 6, cleric: 7, oracle: 7, magus: 6, sorcerer: 7, wizard: 7, summoner: 6, unchained summoner: 6, witch: 7 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: 1 round/2 levels
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates (object; see text)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
 Bloodline: { Nanite: 15 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The River"
 ---

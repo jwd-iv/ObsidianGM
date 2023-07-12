@@ -1,35 +1,17 @@
 ---
 File: Read Weather
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, druid: 1, ranger: 1, witch: 1 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Gozreh
 SLALevel: 1
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

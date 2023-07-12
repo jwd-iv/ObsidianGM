@@ -1,35 +1,20 @@
 ---
 File: Wrathful Mantle
 School: evocation
-Subschool: 
 Aspects: [ force, light ]
 ClassList: { cleric: 3, oracle: 3, paladin: 3 }
 CastTime: standard action
 Range: touch or 5 ft.; see text
-Area: 
-Effect: 
 Targets: creature touched or all creatures within 5 ft.; see text
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Hatred: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/w/wrathful-mantle)"
 ---

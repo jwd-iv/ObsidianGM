@@ -2,34 +2,18 @@
 File: Quintessence
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 1, medium: 1, mesmerist: 1, occultist: 1, psychic: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless) and Will disbelief; see text
 SR: see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

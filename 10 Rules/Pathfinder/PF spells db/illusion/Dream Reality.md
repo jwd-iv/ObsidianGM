@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { alchemist: 5, bard: 5, cleric: 6, oracle: 6, mesmerist: 5, occultist: 5, psychic: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

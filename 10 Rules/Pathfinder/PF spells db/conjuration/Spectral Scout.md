@@ -2,34 +2,18 @@
 File: Spectral Scout
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 3, druid: 3, ranger: 3, shaman: 3, sorcerer: 3, wizard: 3 }
 CastTime: 1 minute
 Range: 1 mile
-Area: 
 Effect: one incorporeal animal of size Tiny or smaller
-Targets: 
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 116"
 ---

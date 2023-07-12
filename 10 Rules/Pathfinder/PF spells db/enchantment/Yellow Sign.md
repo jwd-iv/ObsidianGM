@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 6, cleric: 9, oracle: 9, sorcerer: 9, wizard: 9, witch: 9 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: ochre and sulfur, plus powdered gold worth a total of 15,000 gp
-  F: 
-  DF: 
 Deity: Hastur
 SLALevel: 9
-Domains: 
 GPCost: 15000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 110"
 ---

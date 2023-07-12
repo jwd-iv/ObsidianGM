@@ -1,35 +1,17 @@
 ---
 File: Intellect Fortress I
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { psychic: 4 }
 CastTime: immediate action
 Range: 20 ft.
 Area: 20-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
 Bloodline: { Psychic: 9 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

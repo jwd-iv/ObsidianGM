@@ -2,34 +2,16 @@
 File: Dust Form
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 5, cleric: 6, oracle: 6, druid: 6, witch: 6, psychic: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a pinch of dust gathered from a gravestone or sacred shrine
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/d/dust-form)"
 ---

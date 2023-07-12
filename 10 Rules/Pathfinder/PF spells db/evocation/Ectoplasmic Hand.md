@@ -1,35 +1,16 @@
 ---
 File: Ectoplasmic Hand
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { occultist: 5, psychic: 5, spiritualist: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one ectoplasmic appendage
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

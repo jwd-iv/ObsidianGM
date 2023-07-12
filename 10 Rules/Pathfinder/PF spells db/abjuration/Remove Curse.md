@@ -1,35 +1,19 @@
 ---
 File: Remove Curse
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3, paladin: 3, sorcerer: 4, wizard: 4, alchemist: 3, witch: 3, inquisitor: 3, shaman: 3, mesmerist: 3, spiritualist: 3, medium: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Liberation: 3 }
-GPCost: 
 Bloodline: { Celestial: 9 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/remove-curse)"
 ---

@@ -2,34 +2,20 @@
 File: Release The Hounds
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 5, druid: 5, shaman: 5, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one pack of canines
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: shards of a canine's fang
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

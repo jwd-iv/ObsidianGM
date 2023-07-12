@@ -1,35 +1,18 @@
 ---
 File: Lay Of The Land
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, bard: 2, druid: 2, ranger: 2, witch: 2 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 day
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of soil from the land to be memorized
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faiths & Philosophies"
 ---

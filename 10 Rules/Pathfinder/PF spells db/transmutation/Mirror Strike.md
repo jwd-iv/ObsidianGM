@@ -1,35 +1,16 @@
 ---
 File: Mirror Strike
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 1, sorcerer: 1, wizard: 1, bloodrager: 1, psychic: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a shard of mirror
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/m/mirror-strike)"
 ---

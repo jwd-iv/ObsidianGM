@@ -1,35 +1,16 @@
 ---
 File: Deadly Juggernaut
 School: necromancy
-Subschool: 
 Aspects: [ death ]
 ClassList: { antipaladin: 3, cleric: 3, oracle: 3, inquisitor: 3, paladin: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/d/deadly-juggernaut)"
 ---

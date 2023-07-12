@@ -1,35 +1,18 @@
 ---
 File: Carry Companion
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, paladin: 2, ranger: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one willing creature touched
 Duration: permanent; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a pinch of sand or limestone dust
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Knights Of The Inner Sea"
 ---

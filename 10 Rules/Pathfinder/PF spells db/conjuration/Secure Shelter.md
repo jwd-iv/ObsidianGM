@@ -2,34 +2,19 @@
 File: Secure Shelter
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 20-ft.-square structure
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a chip of stone, sand, a drop of water, and a wood splinter
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/secure-shelter)"
 ---

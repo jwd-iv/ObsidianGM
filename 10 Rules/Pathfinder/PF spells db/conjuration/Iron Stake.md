@@ -2,34 +2,17 @@
 File: Iron Stake
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, inquisitor: 2, ranger: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
-Targets: 
 Duration: instantaneous or 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: no
 Components:
   V: yes
   S: yes
   M: a pinch of iron filings
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

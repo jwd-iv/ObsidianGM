@@ -2,34 +2,16 @@
 File: Adjustable Disguise
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { alchemist: 3, antipaladin: 3, bard: 3, inquisitor: 3, sorcerer: 3, wizard: 3, witch: 3, occultist: 3, psychic: 3, mesmerist: 3, medium: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Caustic Blood
 School: transmutation
-Subschool: 
 Aspects: [ acid ]
 ClassList: { alchemist: 4, cleric: 5, oracle: 5, druid: 4, magus: 4, sorcerer: 5, wizard: 5, summoner: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half or negates; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: vial of black adder venom
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

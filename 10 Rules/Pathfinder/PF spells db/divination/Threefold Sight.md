@@ -1,35 +1,17 @@
 ---
 File: Threefold Sight
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, medium: 3, occultist: 3, psychic: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 3 minutes
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a three-pointed knot
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of The First World"
 ---

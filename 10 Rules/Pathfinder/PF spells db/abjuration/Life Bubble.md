@@ -1,35 +1,19 @@
 ---
 File: Life Bubble
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, druid: 4, ranger: 3, sorcerer: 5, wizard: 5, occultist: 4, psychic: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creatures touched, up to one/level
 Duration: 2 hours/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a bit of eggshell
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/l/life-bubble)"
 ---

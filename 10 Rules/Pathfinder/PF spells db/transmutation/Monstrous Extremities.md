@@ -2,34 +2,18 @@
 File: Monstrous Extremities
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, witch: 4 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Lamashtu
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

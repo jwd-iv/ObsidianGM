@@ -6,28 +6,16 @@ Aspects: [ mind-affecting, evil ]
 ClassList: { bard: 5, sorcerer: 5, wizard: 5, alchemist: 5, psychic: 5, mesmerist: 5, spiritualist: 5, medium: 4 }
 CastTime: 10 minutes
 Range: unlimited
-Area: 
-Effect: 
 Targets: one living creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Madness: 5, Night: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/n/nightmare)"
 ---

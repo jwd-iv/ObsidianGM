@@ -1,35 +1,18 @@
 ---
 File: Recentering Drone
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/2 levels (no two of which may be more than 30 ft. apart)
 Duration: concentration
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Champions Of Balance"
 ---

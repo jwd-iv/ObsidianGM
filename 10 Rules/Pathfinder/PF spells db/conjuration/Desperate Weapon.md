@@ -2,34 +2,16 @@
 File: Desperate Weapon
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { antipaladin: 1, bard: 1, bloodrager: 1, cleric: 1, oracle: 1, inquisitor: 1, magus: 1, occultist: 1, ranger: 1, sorcerer: 1, wizard: 1 }
 CastTime: swift action
 Range: personal
-Area: 
 Effect: one-handed improvised weapon
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { mesmerist: 6, psychic: 6, sorcerer: 7, wizard: 7 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature/level
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Mind: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

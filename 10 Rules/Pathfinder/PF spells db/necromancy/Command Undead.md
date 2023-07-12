@@ -1,35 +1,20 @@
 ---
 File: Command Undead
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one undead creature
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a shred of raw meat and a splinter of bone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Inevitable: 3 }
-GPCost: 
-Bloodline: 
 Patron: { Occult: 4, Plague: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/command-undead)"
 ---

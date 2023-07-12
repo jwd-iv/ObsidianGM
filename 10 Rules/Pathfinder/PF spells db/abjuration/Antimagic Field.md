@@ -1,34 +1,22 @@
 ---
 File: Antimagic Field
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, sorcerer: 6, wizard: 6, occultist: 6, psychic: 7 }
 CastTime: standard action
 Range: 10 ft.
 Area: 10-ft.-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: see text
 Components:
   V: yes
   S: yes
   M: pinch of powdered iron or iron filings
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Magic: 6, Protection: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/antimagic-field)"
 ---

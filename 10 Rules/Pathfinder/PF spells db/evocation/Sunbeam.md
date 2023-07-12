@@ -1,33 +1,22 @@
 ---
 File: Sunbeam
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { druid: 7, shaman: 7 }
 CastTime: standard action
 Range: 60 ft.
 Area: line from your hand
-Effect: 
-Targets: 
 Duration: 1 round/level or until all beams are exhausted
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates and Reflex half; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
 Domains: { Sun: 7, Stars: 7 }
-GPCost: 
-Bloodline: 
 Patron: { Light: 14, Summer: 14 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sunbeam)"
 ---

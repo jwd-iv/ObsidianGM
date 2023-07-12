@@ -1,35 +1,18 @@
 ---
 File: Dream Scan
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { bard: 6, medium: 4, mesmerist: 5, psychic: 5, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: unlimited
-Area: 
-Effect: 
 Targets: one living creature
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

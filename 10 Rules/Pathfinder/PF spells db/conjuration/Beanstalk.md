@@ -2,34 +2,18 @@
 File: Beanstalk
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4, witch: 4 }
 CastTime: 1 minute
 Range: 0 ft. (see text)
-Area: 
 Effect: a 5-foot-radius beanstalk that grows to a height of 50 ft./caster level
-Targets: 
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a small handful of beans
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 91"
 ---

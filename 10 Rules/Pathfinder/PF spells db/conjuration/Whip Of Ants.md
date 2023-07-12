@@ -2,34 +2,20 @@
 File: Whip Of Ants
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 6, druid: 6, sorcerer: 6, wizard: 6, summoner: 6, unchained summoner: 6, witch: 6 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: whiplike swarm
-Targets: 
 Duration: 1 round/level (D (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a square of red cloth
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Vermin: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

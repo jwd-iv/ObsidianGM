@@ -2,34 +2,18 @@
 File: Pup Shape
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { druid: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one animal
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (and Will special, see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a rag doll
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/p/pup-shape)"
 ---

@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 4, psychic: 5, mesmerist: 4, medium: 4 }
 CastTime: 1 round; see text
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Loss: 6, Memory: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/modify-memory)"
 ---

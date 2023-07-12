@@ -1,35 +1,21 @@
 ---
 File: Iron Body
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, psychic: 8 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of iron from an iron golem, a hero's armor, or a war machine
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Metal: 8 }
-GPCost: 
 Bloodline: { Orc: 17, Shaitan: 17, Nanite: 17 }
 Patron: { Endurance: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/iron-body)"
 ---

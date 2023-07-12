@@ -6,30 +6,15 @@ Aspects: [ poison ]
 ClassList: { alchemist: 3, druid: 3, magus: 3, shaman: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one willing creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none and Fortitude negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a rotten egg or cabbage leaves
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

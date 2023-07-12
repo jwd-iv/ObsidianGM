@@ -1,35 +1,20 @@
 ---
 File: Obsidian Flow
 School: transmutation
-Subschool: 
 Aspects: [ earth, fire ]
 ClassList: { druid: 4, sorcerer: 4, wizard: 4, summoner: 3, unchained summoner: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial, see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a small piece of obsidian
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/o/obsidian-flow)"
 ---

@@ -6,30 +6,15 @@ Aspects: [ good ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, paladin: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: javelin of divine energy
-Targets: 
 Duration: 1 round + 1 round/4 levels
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

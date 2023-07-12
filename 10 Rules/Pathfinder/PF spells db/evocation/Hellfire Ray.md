@@ -1,35 +1,19 @@
 ---
 File: Hellfire Ray
 School: evocation
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 6, oracle: 6, magus: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: ray
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

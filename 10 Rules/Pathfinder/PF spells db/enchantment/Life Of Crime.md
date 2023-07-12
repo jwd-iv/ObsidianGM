@@ -6,30 +6,15 @@ Aspects: [ curseUM, mind-affecting ]
 ClassList: { antipaladin: 4, bard: 6, mesmerist: 6, psychic: 8, sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a black mask
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

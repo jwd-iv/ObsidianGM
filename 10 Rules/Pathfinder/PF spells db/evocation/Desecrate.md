@@ -1,34 +1,22 @@
 ---
 File: Desecrate
 School: evocation
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, antipaladin: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: 2 hours/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a vial of unholy water and 25 gp worth (5 pounds
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/desecrate)"
 ---

@@ -1,35 +1,16 @@
 ---
 File: Possession Trap
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours or until activated (see text); 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Undead Slayer's Handbook"
 ---

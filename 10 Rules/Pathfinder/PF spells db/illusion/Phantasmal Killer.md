@@ -6,28 +6,16 @@ Aspects: [ fear, mind-affecting ]
 ClassList: { sorcerer: 4, wizard: 4, witch: 4, magus: 4, bloodrager: 4, psychic: 4, mesmerist: 4, spiritualist: 4, medium: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief, then Fortitude partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Madness: 6, Nightmare: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/phantasmal-killer)"
 ---

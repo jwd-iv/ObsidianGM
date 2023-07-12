@@ -1,35 +1,17 @@
 ---
 File: Telekinetic Storm
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { psychic: 9 }
 CastTime: standard action
-Range: 
 Area: 40-ft.-radius burst centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

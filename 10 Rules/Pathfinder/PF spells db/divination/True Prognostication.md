@@ -1,35 +1,17 @@
 ---
 File: True Prognostication
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, psychic: 8, shaman: 8, witch: 8 }
 CastTime: 1 week
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: rare incense and tonics worth 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

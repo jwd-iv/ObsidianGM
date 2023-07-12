@@ -1,35 +1,18 @@
 ---
 File: Martyr's Bargain
 School: transmutation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 2, oracle: 2, paladin: 2 }
 CastTime: immediate action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Devotion: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

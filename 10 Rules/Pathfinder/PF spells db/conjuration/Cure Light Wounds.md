@@ -2,33 +2,19 @@
 File: Cure Light Wounds
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, druid: 1, paladin: 1, ranger: 2, witch: 1, inquisitor: 1, alchemist: 1, shaman: 1, occultist: 1, spiritualist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half (harmless); see text
 SR: yes (harmless); see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Healing: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/cure-light-wounds)"
 ---

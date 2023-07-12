@@ -2,34 +2,20 @@
 File: Phantom Trap
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, occultist: 2, psychic: 2, mesmerist: 2, spiritualist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: permanent
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: special dust worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/phantom-trap)"
 ---

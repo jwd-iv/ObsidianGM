@@ -2,34 +2,18 @@
 File: Chant
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, paladin: 2 }
 CastTime: standard action
 Range: 40 ft.
 Area: all allies and foes within a 40-ft. burst centered on you
-Effect: 
-Targets: 
 Duration: concentration; maximum 5 min./level (see below)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Rappan Athuk"
 ---

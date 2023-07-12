@@ -1,35 +1,18 @@
 ---
 File: Hide from Animals
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, ranger: 1, shaman: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature touched/level
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hide-from-animals)"
 ---

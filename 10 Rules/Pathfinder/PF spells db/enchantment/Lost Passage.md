@@ -7,8 +7,6 @@ ClassList: { bard: 4, mesmerist: 3, psychic: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: one 30-ft. cube/level
-Effect: 
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
 Shapeable: yes
@@ -17,19 +15,7 @@ SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

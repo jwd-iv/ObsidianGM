@@ -1,35 +1,20 @@
 ---
 File: Hunger For Flesh
 School: necromancy
-Subschool: 
 Aspects: [ evil, mind-affecting ]
 ClassList: { antipaladin: 3, cleric: 4, oracle: 4, psychic: 4, shaman: 4, sorcerer: 4, wizard: 4, spiritualist: 4, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one humanoid, magical beast, or monstrous humanoid
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a ghoul fang
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

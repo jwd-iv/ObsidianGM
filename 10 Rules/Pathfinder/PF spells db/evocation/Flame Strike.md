@@ -1,34 +1,23 @@
 ---
 File: Flame Strike
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { cleric: 5, oracle: 5, druid: 4, inquisitor: 5, shaman: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: cylinder (10-ft. radius, 40-ft. high)
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Sun: 5, War: 5, Arson: 5 }
-GPCost: 
 Bloodline: { Celestial: 11 }
 Patron: { Devotion: 10, Elements: 10 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/flame-strike)"
 ---

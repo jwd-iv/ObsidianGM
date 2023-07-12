@@ -1,35 +1,18 @@
 ---
 File: Transmute Wine To Blood
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: bottle of wine worth at least 10 gp
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: drop of animal blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Night"
 ---

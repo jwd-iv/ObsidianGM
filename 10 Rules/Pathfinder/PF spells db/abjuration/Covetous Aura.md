@@ -1,33 +1,18 @@
 ---
 File: Covetous Aura
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: personal
 Area: 25-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "RotRL-AE-Appendix"
 ---

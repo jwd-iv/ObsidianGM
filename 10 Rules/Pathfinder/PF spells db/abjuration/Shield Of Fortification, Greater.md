@@ -1,35 +1,18 @@
 ---
 File: Shield Of Fortification, Greater
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, inquisitor: 3, paladin: 3, psychic: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

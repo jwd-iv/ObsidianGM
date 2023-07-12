@@ -6,28 +6,18 @@ Aspects: [ acid ]
 ClassList: { sorcerer: 6, wizard: 6, summoner: 5, unchained summoner: 5, psychic: 6 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one summoned black pudding
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a flask of acid worth 10 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/c/conjure-black-pudding)"
 ---

@@ -1,34 +1,20 @@
 ---
 File: Ascension
 School: universal
-Subschool: 
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, druid: 9, sorcerer: 9, wizard: 9, witch: 9, psychic: 9 }
 CastTime: 1 hour
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one non-mythic creature/3 levels
 Duration: 2 hours/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: 10,000 gp in rare herbs, gems, and other exotic materials
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 10000
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Mythic Adventures"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Transfer Familiar
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: your familiar and one willing creature
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Familiar Folio"
 ---

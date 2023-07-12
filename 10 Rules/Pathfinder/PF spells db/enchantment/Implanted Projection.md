@@ -6,30 +6,14 @@ Aspects: [ emotionUM, mind-affecting ]
 ClassList: { mesmerist: 3, psychic: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: Yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

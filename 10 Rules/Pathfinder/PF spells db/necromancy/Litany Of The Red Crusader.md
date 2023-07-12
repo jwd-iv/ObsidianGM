@@ -1,35 +1,18 @@
 ---
 File: Litany Of The Red Crusader
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, inquisitor: 2, paladin: 1 }
 CastTime: swift action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 140"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Find Fault
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, bloodrager: 3, inquisitor: 3, magus: 3, medium: 3, oracle: 3, psychic: 3, shaman: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: 1 creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

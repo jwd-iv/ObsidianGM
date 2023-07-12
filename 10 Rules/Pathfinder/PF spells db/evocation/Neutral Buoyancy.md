@@ -1,35 +1,19 @@
 ---
 File: Neutral Buoyancy
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, bard: 2, druid: 2, medium: 2, occultist: 2, psychic: 2, ranger: 2, shaman: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a bag of air
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Aquatic Adventures"
 ---

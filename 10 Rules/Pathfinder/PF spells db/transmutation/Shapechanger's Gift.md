@@ -2,34 +2,18 @@
 File: Shapechanger's Gift
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 5, magus: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: willing living creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a piece of the creature whose form you plan to grant
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

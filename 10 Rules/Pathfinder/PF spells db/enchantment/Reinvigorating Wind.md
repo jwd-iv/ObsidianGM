@@ -7,29 +7,15 @@ ClassList: { bard: 2, druid: 3, shaman: 2, witch: 3 }
 CastTime: standard action
 Range: 30 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a flower petal
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

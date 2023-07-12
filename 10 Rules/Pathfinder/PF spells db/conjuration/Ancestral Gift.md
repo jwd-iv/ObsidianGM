@@ -2,34 +2,16 @@
 File: Ancestral Gift
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 4, cleric: 4, oracle: 4 }
 CastTime: standard action
 Range: personal
-Area: 
 Effect: magical weapon
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Dwarves of Golarion](http://www.d20pfsrd.com/magic/all-spells/a/a/ancestral-gift)"
 ---

@@ -2,34 +2,21 @@
 File: Form of the Dragon II
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see below
 SR: no
 Components:
   V: yes
   S: yes
   M: a scale of the dragon type you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
 Bloodline: { Draconic: 15 }
 Patron: { Transformation: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/form-of-the-dragon-i#TOC-Form-of-the-Dragon-II)"
 ---

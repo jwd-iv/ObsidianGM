@@ -1,35 +1,19 @@
 ---
 File: Hide from Undead
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched creature/level
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless); see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hide-from-undead)"
 ---

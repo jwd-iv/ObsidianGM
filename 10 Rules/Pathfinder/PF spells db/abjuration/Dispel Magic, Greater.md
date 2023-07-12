@@ -1,35 +1,20 @@
 ---
 File: Dispel Magic, Greater
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, cleric: 6, oracle: 6, druid: 6, sorcerer: 6, wizard: 6, witch: 6, inquisitor: 6, summoner: 5, unchained summoner: 5, magus: 6, shaman: 6, occultist: 5, psychic: 6, spiritualist: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius burst
-Effect: 
 Targets: one spellcaster, creature, or object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Liberation: 6 }
-GPCost: 
 Bloodline: { Celestial: 13, Oni: 13 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/dispel-magic#TOC-Dispel-Magic-Greater)"
 ---

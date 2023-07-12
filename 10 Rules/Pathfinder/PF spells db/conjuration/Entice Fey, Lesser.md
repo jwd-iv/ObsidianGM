@@ -2,34 +2,20 @@
 File: Entice Fey, Lesser
 School: conjuration
 Subschool: calling
-Aspects: 
 ClassList: { bard: 4, druid: 5, medium: 3, ranger: 4, shaman: 5 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one called fey with 6 Hit Dice or fewer
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: offerings worth 500 gp plus payment, see text
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

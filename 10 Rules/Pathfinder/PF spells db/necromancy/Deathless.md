@@ -1,33 +1,18 @@
 ---
 File: Deathless
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, cleric: 4, oracle: 4, inquisitor: 4, sorcerer: 4, wizard: 4, witch: 4, psychic: 4, medium: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Mythic Adventures"
 ---

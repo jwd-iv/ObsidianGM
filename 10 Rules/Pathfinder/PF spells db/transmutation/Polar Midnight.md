@@ -1,35 +1,19 @@
 ---
 File: Polar Midnight
 School: transmutation
-Subschool: 
 Aspects: [ cold, darkness ]
 ClassList: { cleric: 9, oracle: 9, druid: 9, witch: 9, shaman: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 30-ft. spread
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Winter: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/p/polar-midnight)"
 ---

@@ -1,35 +1,21 @@
 ---
 File: True Seeing
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, druid: 7, sorcerer: 6, wizard: 6, alchemist: 6, summoner: 5, witch: 6, inquisitor: 5, magus: 6, shaman: 5, occultist: 5, psychic: 5, mesmerist: 6, spiritualist: 6, unchained summoner: 6, medium: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: an eye ointment that costs 250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Knowledge: 5, Revelation: 5 }
 GPCost: 250
 Bloodline: { Arcane: 13 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/true-seeing)"
 ---

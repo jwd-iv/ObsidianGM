@@ -6,30 +6,14 @@ Aspects: [ see text ]
 ClassList: { antipaladin: 1, cleric: 1, oracle: 1, paladin: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, witch: 1 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one crow
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Share Memory
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, witch: 2, occultist: 2, psychic: 2, mesmerist: 2, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: you and one creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/share-memory)"
 ---

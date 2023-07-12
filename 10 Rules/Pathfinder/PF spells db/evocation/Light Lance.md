@@ -1,35 +1,17 @@
 ---
 File: Light Lance
 School: evocation
-Subschool: 
 Aspects: [ good, light ]
 ClassList: { paladin: 2 }
 CastTime: standard action
 Range: personal
-Area: 
 Effect: lance of light
-Targets: 
 Duration: 1 round + 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/l/light-lance)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Detect Radiation
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, druid: 1, ranger: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: 120 ft.
 Area: spherical emanation, centered on you
-Effect: 
-Targets: 
 Duration: 10 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

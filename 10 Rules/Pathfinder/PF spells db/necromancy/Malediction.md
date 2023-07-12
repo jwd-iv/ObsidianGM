@@ -1,35 +1,18 @@
 ---
 File: Malediction
 School: necromancy
-Subschool: 
 Aspects: [ curse, evil ]
 ClassList: { antipaladin: 4, cleric: 4, oracle: 4, shaman: 4, spiritualist: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 1 creature touched
 Duration: 1 minute and instantaneous (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

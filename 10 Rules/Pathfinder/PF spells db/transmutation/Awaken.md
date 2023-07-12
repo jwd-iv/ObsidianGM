@@ -1,35 +1,20 @@
 ---
 File: Awaken
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, shaman: 6 }
 CastTime: 24 hours
 Range: touch
-Area: 
-Effect: 
 Targets: animal or tree touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: herbs and oils worth 2,000 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 2000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/awaken)"
 ---

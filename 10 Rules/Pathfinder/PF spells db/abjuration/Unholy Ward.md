@@ -1,35 +1,20 @@
 ---
 File: Unholy Ward
 School: abjuration
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 3, cleric: 4, oracle: 4, inquisitor: 3, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fort negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

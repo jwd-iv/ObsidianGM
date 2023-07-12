@@ -1,35 +1,20 @@
 ---
 File: Tiny Hut
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, occultist: 3 }
 CastTime: standard action
 Range: 20 ft.
-Area: 
 Effect: 20-ft.-radius sphere centered on your location
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a small crystal bead
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/tiny-hut)"
 ---

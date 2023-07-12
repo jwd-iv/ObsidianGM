@@ -2,34 +2,15 @@
 File: Remote Viewing
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { medium: 4, occultist: 5, psychic: 5, spiritualist: 5 }
 CastTime: 1 hour
 Range: see text
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: incense
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

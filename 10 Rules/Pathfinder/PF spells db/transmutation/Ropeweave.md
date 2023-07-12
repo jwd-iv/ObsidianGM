@@ -1,35 +1,18 @@
 ---
 File: Ropeweave
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { occultist: 2, ranger: 2 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: one rope
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

@@ -2,34 +2,20 @@
 File: Screen
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, psychic: 8 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
 Area: 30-ft. cube/level
-Effect: 
-Targets: 
 Duration: 24 hours
-Dismissible: 
 Shapeable: yes
 SavingThrow: none or Will disbelief (if interacted with); see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Trickery: 7 }
-GPCost: 
-Bloodline: 
 Patron: { Trickery: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/screen)"
 ---

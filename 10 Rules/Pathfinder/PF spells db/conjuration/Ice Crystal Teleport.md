@@ -6,30 +6,13 @@ Aspects: [ cold ]
 ClassList: { sorcerer: 6, wizard: 6, summoner: 5, witch: 6, unchained summoner: 6 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1d4 rounds and instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/i/ice-crystal-teleport)"
 ---

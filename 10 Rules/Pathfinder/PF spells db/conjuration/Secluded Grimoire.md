@@ -2,34 +2,17 @@
 File: Secluded Grimoire
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { magus: 1, sorcerer: 1, wizard: 1 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: spellbook touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

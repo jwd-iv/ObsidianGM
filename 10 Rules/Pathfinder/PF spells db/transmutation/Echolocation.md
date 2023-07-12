@@ -1,35 +1,16 @@
 ---
 File: Echolocation
 School: transmutation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { alchemist: 4, bard: 4, druid: 4, sorcerer: 5, wizard: 5, occultist: 4, psychic: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Nanite: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/e/echolocation)"
 ---

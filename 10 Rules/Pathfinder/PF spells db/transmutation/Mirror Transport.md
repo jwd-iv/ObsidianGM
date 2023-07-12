@@ -1,35 +1,19 @@
 ---
 File: Mirror Transport
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, witch: 4, occultist: 4, psychic: 4, spiritualist: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one mirror
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: yes (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a glass or metal marble and a twisted loop of parchment
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

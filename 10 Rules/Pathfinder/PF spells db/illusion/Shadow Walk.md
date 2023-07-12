@@ -6,30 +6,18 @@ Aspects: [ shadow ]
 ClassList: { bard: 5, sorcerer: 6, wizard: 6, alchemist: 6, mesmerist: 5, spiritualist: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: up to one touched creature/level
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Darkness: 6 }
-GPCost: 
 Bloodline: { Dreamspun: 13, Shadow: 13 }
 Patron: { Shadow: 12, Spirits: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shadow-walk)"
 ---

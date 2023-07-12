@@ -1,34 +1,23 @@
 ---
 File: Stone Shape
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { cleric: 3, oracle: 3, druid: 3, sorcerer: 4, wizard: 4, shaman: 3, occultist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: stone or stone object touched, up to 10 cu. ft. + 1 cu. ft./level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: soft clay
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Artifice: 3, Earth: 3 }
-GPCost: 
-Bloodline: 
 Patron: { Mountain: 6 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/stone-shape)"
 ---

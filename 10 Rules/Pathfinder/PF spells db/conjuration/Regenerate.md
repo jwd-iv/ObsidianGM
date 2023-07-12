@@ -2,33 +2,20 @@
 File: Regenerate
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, druid: 9, witch: 7, shaman: 7 }
 CastTime: 3 full rounds
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
 Domains: { Healing: 7 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/regenerate)"
 ---

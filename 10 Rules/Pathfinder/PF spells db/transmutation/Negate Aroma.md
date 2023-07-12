@@ -1,35 +1,20 @@
 ---
 File: Negate Aroma
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, druid: 1, ranger: 1, occultist: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object/level touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of alum
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/n/negate-aroma)"
 ---

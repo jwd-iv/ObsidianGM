@@ -1,35 +1,18 @@
 ---
 File: Command Plants
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, ranger: 3, shaman: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Plant: 4 }
-GPCost: 
 Bloodline: { Verdant: 9 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/command-plants)"
 ---

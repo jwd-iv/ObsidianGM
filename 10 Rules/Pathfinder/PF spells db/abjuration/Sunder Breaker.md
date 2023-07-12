@@ -1,35 +1,19 @@
 ---
 File: Sunder Breaker
 School: abjuration
-Subschool: 
 Aspects: [ force ]
 ClassList: { magus: 1, sorcerer: 1, wizard: 1, psychic: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless) and see text
 SR: yes (harmless) and see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

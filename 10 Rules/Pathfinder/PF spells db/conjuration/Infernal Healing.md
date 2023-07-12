@@ -6,30 +6,15 @@ Aspects: [ evil ]
 ClassList: { cleric: 1, oracle: 1, magus: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, witch: 1 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: 1 drop of devil blood or 1 dose of unholy water
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/i/infernal-healing)"
 ---

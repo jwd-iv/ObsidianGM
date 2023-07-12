@@ -1,35 +1,19 @@
 ---
 File: Spike Growth
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: one 20-ft. square/level
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/spike-growth)"
 ---

@@ -2,34 +2,20 @@
 File: Magic Aura
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1, occultist: 1, psychic: 1, mesmerist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object weighing up to 5 lbs./level
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Arcane: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-aura)"
 ---

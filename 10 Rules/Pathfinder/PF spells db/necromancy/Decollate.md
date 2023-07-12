@@ -1,35 +1,17 @@
 ---
 File: Decollate
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, antipaladin: 4, cleric: 5, oracle: 5, psychic: 6, sorcerer: 5, wizard: 5, spiritualist: 4, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one willing humanoid or monstrous humanoid creature
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

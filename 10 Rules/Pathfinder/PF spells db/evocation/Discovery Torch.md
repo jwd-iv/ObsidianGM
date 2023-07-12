@@ -1,35 +1,18 @@
 ---
 File: Discovery Torch
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { bard: 2, cleric: 3, oracle: 3, inquisitor: 2 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/d/discovery-torch)"
 ---

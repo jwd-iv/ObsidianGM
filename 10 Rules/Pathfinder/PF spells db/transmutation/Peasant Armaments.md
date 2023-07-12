@@ -1,35 +1,20 @@
 ---
 File: Peasant Armaments
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1, ranger: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 1 improvised weapon/level
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Milani
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 68"
 ---

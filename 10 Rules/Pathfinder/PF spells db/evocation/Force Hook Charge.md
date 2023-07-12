@@ -1,35 +1,18 @@
 ---
 File: Force Hook Charge
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { magus: 3, bloodrager: 3, psychic: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object within range and you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/f/force-hook-charge)"
 ---

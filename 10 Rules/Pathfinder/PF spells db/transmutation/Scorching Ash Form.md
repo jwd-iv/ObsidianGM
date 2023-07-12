@@ -1,33 +1,19 @@
 ---
 File: Scorching Ash Form
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { alchemist: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: willing corporeal creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
-  V: 
   S: yes
   M: a bit of gauze and a handful of ashes
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

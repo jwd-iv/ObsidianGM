@@ -1,35 +1,19 @@
 ---
 File: Mark Of The Reptile God
 School: transmutation
-Subschool: 
 Aspects: [ curse ]
 ClassList: { antipaladin: 4, cleric: 4, oracle: 4, inquisitor: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

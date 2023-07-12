@@ -2,34 +2,18 @@
 File: Emblem Of Greed
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, inquisitor: 6, magus: 6, medium: 6, shaman: 7, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 1 masterwork melee weapon touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none (object)
 SR: no
 Components:
   V: yes
   S: yes
   M: a masterwork or magical melee weapon
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

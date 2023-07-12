@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, medium: 2, mesmerist: 3, psychic: 3, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: 30 ft.
-Area: 
-Effect: 
 Targets: non-allied creatures within a 30-ft. emanation
 Duration: 1 minute/level and instantaneous
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a white feather
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

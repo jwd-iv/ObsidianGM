@@ -1,35 +1,17 @@
 ---
 File: Suppress Charms And Compulsions
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, mesmerist: 2, paladin: 2, psychic: 2, shaman: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature plus one additional creature per 4 levels, no two of which can be more than 30 ft. apart
 Duration: 10 minutes or concentration (up to 1 round/level); see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

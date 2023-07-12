@@ -1,34 +1,20 @@
 ---
 File: Scorching Ray
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { sorcerer: 2, wizard: 2, magus: 2, bloodrager: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one or more rays
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
 Bloodline: { Efreeti: 5, Elemental: 5, Infernal: 5 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/scorching-ray)"
 ---

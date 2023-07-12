@@ -1,33 +1,22 @@
 ---
 File: Meteor Swarm
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: four 40-ft.-radius spreads, see text
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Reflex half, see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Stars: 9 }
-GPCost: 
 Bloodline: { Boreal: 19, Infernal: 19, Orc: 19, Starsoul: 19 }
 Patron: { Elements: 18, Moon: 18 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/meteor-swarm)"
 ---

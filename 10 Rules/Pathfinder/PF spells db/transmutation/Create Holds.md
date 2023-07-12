@@ -1,35 +1,19 @@
 ---
 File: Create Holds
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, ranger: 3, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: path of handholds
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: handful of pebbles
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dungeoneers Handbook"
 ---

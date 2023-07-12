@@ -1,35 +1,19 @@
 ---
 File: Expend
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: miniature broken hourglass
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Time: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/expend)"
 ---

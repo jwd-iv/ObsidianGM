@@ -2,34 +2,21 @@
 File: Gate
 School: conjuration
 Subschool: creation or calling
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: see text
-Targets: 
 Duration: instantaneous or concentration (up to 1 round/level); see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Glory: 9, Trade: 9 }
-GPCost: 
 Bloodline: { Celestial: 19 }
 Patron: { Boundaries: 18, Occult: 18, Dimensions: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/gate)"
 ---

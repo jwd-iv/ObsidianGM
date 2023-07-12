@@ -1,35 +1,18 @@
 ---
 File: Frostbite
 School: transmutation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { druid: 1, magus: 1, witch: 1, bloodrager: 1, shaman: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/f/frostbite)"
 ---

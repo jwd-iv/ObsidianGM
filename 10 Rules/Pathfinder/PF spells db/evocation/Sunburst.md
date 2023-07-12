@@ -1,35 +1,23 @@
 ---
 File: Sunburst
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { druid: 8, sorcerer: 8, wizard: 8, shaman: 8 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 80-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: sunstone and fire source
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Seasons: 8, Sun: 8 }
-GPCost: 
 Bloodline: { Celestial: 17 }
 Patron: { Light: 16, Summer: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sunburst)"
 ---

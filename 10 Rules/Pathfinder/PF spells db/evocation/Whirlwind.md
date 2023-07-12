@@ -1,35 +1,23 @@
 ---
 File: Whirlwind
 School: evocation
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 8, shaman: 8 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Air: 8, Weather: 8 }
-GPCost: 
 Bloodline: { Stormborn: 17 }
 Patron: { Storms: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/whirlwind)"
 ---

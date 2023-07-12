@@ -1,33 +1,19 @@
 ---
 File: Blistering Invective
 School: evocation
-Subschool: 
 Aspects: [ fire, language-dependent ]
 ClassList: { alchemist: 2, bard: 2, inquisitor: 2, mesmerist: 2 }
 CastTime: standard action
 Range: personal
 Area: 30-ft. radius
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial, see text
 SR: special, see below
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/b/blistering-invective)"
 ---

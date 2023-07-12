@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { druid: 2, shaman: 2, sorcerer: 3, wizard: 3, witch: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a lead bearing wrapped in clay
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Giant Hunters Handbook"
 ---

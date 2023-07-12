@@ -1,35 +1,17 @@
 ---
 File: Stunning Barrier, Greater
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, paladin: 3, sorcerer: 3, wizard: 3, psychic: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none and Will negates (see text)
 SR: no and yes (see text)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

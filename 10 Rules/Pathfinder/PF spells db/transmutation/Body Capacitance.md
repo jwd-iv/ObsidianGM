@@ -1,35 +1,17 @@
 ---
 File: Body Capacitance
 School: transmutation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { alchemist: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level or until discharged (see text)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: an iron coil
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

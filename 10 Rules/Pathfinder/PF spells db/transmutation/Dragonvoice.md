@@ -1,35 +1,15 @@
 ---
 File: Dragonvoice
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, bard: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dragonslayer's Handbook"
 ---

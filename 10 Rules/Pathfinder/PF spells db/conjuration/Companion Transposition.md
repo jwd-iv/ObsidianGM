@@ -2,34 +2,17 @@
 File: Companion Transposition
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { antipaladin: 4, druid: 5, paladin: 4, ranger: 4, shaman: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: yourself and one animal companion, familiar, or spirit animal within range
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Unerring Tracker
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 5, druid: 6, occultist: 4, ranger: 4 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

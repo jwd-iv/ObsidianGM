@@ -6,30 +6,18 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 8, wizard: 8, summoner: 6, unchained summoner: 6, psychic: 8 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: opals worth 500 gp per HD of the target creature, plus other components as specified below
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Slavery: 8 }
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/binding)"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Penumbral Disguise
 School: conjuration
-Subschool: 
 Aspects: [ shadowUM ]
 ClassList: { alchemist: 3, bard: 3, inquisitor: 3, mesmerist: 3, occultist: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

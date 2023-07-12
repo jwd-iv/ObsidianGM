@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { paladin: 4 }
 CastTime: immediate action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1/round per level and special; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/stay-the-hand)"
 ---

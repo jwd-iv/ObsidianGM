@@ -1,35 +1,20 @@
 ---
 File: Floating Disk
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 1, wizard: 1, magus: 1, occultist: 1, psychic: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 3-ft.-diameter disk of force
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of mercury
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Trade: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/floating-disk)"
 ---

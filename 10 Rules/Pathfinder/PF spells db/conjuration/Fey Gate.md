@@ -2,34 +2,16 @@
 File: Fey Gate
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 6, cleric: 8, oracle: 8, druid: 8, sorcerer: 8, wizard: 8, summoner: 6, unchained summoner: 6, witch: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
-Targets: 
 Duration: 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

@@ -6,30 +6,16 @@ Aspects: [ evil ]
 ClassList: { cleric: 7, oracle: 7, sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one willing ally/5 levels
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: 100 gp worth of bloodstone for every ally teleported
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Cheliax Empire Of Devils](http://www.d20pfsrd.com/magic/all-spells/s/s/signifier-s-rally)"
 ---

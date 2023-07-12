@@ -1,35 +1,15 @@
 ---
 File: Age Resistance, Lesser
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, druid: 4, sorcerer: 4, wizard: 4, witch: 4, occultist: 3, psychic: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/a/age-resistance)"
 ---

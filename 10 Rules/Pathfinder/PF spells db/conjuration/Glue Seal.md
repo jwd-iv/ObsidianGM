@@ -2,34 +2,18 @@
 File: Glue Seal
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 1, magus: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, psychic: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one object or one 5-ft. square
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

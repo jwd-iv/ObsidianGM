@@ -2,34 +2,21 @@
 File: Form of the Dragon III
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see below
 SR: no
 Components:
   V: yes
   S: yes
   M: a scale of the dragon type you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
 Bloodline: { Draconic: 17, Kobold Sorcerer: 17, Kobold: 17 }
 Patron: { Transformation: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/form-of-the-dragon-i#TOC-Form-of-the-Dragon-III)"
 ---

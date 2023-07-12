@@ -1,35 +1,17 @@
 ---
 File: Bouncing Bomb Admixture
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

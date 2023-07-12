@@ -1,35 +1,17 @@
 ---
 File: Arbitrament
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { cleric: 7, oracle: 7, inquisitor: 6 }
 CastTime: standard action
 Range: 40 ft.
-Area: 
-Effect: 
 Targets: non-neutral creatures in a 40-ft.-radius spread centered on you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial, see text
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

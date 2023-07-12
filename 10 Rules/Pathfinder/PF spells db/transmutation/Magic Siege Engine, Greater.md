@@ -1,35 +1,19 @@
 ---
 File: Magic Siege Engine, Greater
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 4, cleric: 5, oracle: 5, inquisitor: 4, paladin: 4, sorcerer: 4, wizard: 4, occultist: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one siege engine touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: black powder
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/m/magic-siege-engine#TOC-Magic-Siege-Engine-Greater)"
 ---

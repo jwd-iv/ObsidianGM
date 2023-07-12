@@ -2,34 +2,18 @@
 File: Dimension Door
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, summoner: 3, witch: 4, magus: 4, occultist: 4, psychic: 4, mesmerist: 4, spiritualist: 4, unchained summoner: 4, medium: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: you and touched objects or other touched willing creatures
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none and Will negates (object)
 SR: no and yes (object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Travel: 4 }
-GPCost: 
 Bloodline: { Arcane: 9 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/dimension-door)"
 ---

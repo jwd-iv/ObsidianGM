@@ -6,30 +6,13 @@ Aspects: [ mind-affecting ]
 ClassList: { psychic: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (see text)
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Psychic Anthology"
 ---

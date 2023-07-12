@@ -1,34 +1,18 @@
 ---
 File: Anticipate Peril
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, bard: 1, ranger: 1, sorcerer: 1, wizard: 1, occultist: 1, psychic: 1, mesmerist: 1, spiritualist: 1, medium: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level or until activated
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/a/anticipate-peril)"
 ---

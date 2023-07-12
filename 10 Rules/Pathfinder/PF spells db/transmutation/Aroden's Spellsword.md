@@ -1,35 +1,17 @@
 ---
 File: Aroden's Spellsword
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, bloodrager: 4, magus: 3, occultist: 4, sorcerer: 3, wizard: 3, witch: 4 }
 CastTime: 1 round
 Range: touch
-Area: 
 Effect: one melee weapon sized appropriately for you
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

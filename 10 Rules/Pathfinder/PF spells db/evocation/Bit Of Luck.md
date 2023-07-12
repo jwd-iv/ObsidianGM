@@ -1,35 +1,16 @@
 ---
 File: Bit Of Luck
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, bard: 3, cleric: 4, oracle: 4, psychic: 4, shaman: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a four-leaf clover
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Beast"
 ---

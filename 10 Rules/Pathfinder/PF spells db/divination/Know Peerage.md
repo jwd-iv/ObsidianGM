@@ -1,35 +1,19 @@
 ---
 File: Know Peerage
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { bard: 1, cleric: 2, oracle: 2, inquisitor: 2, medium: 1, mesmerist: 2, occultist: 2, paladin: 1, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: thread from a tabard or livery
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

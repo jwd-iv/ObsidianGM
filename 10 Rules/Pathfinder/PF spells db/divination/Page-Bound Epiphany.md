@@ -1,35 +1,16 @@
 ---
 File: Page-Bound Epiphany
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, magus: 2, sorcerer: 2, wizard: 2 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 1 round/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pathfinder Society Primer"
 ---

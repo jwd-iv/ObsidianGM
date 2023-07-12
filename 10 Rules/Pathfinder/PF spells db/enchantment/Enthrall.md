@@ -6,30 +6,15 @@ Aspects: [ language-dependent, mind-affecting, sonic ]
 ClassList: { bard: 2, cleric: 2, oracle: 2, witch: 2, inquisitor: 2, shaman: 2, psychic: 2, mesmerist: 2 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: any number of creatures
 Duration: 1 hour or less
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Love: 2, Nobility: 2, Revolution: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/enthrall)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Sotto Voce
 School: necromancy
-Subschool: 
 Aspects: [ fear, mind-affecting, sonic ]
 ClassList: { bard: 1, cleric: 0, oracle: 0, sorcerer: 0, wizard: 0 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one humanoid creature of 4 HD or less
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faction Guide"
 ---

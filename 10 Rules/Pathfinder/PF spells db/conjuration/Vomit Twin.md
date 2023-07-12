@@ -2,32 +2,16 @@
 File: Vomit Twin
 School: conjuration
 Subschool: creation, teleportation
-Aspects: 
 ClassList: { alchemist: 3, magus: 3, sorcerer: 4, wizard: 4, summoner: 3, unchained summoner: 3, psychic: 4 }
 CastTime: standard action
 Range: personal
-Area: 
 Effect: creates one ooze duplicate of the caster
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

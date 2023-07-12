@@ -1,35 +1,17 @@
 ---
 File: Brow Gasher
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 2, magus: 2, ranger: 2, sorcerer: 2, wizard: 2, bloodrager: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
 Area: one slashing melee weapon touched
-Effect: 
-Targets: 
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/b/brow-gasher)"
 ---

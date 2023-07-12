@@ -2,34 +2,15 @@
 File: Greater Reversion
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, psychic: 4, sorcerer: 5, wizard: 5 }
 CastTime: 20 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: self
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

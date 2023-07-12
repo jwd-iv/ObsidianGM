@@ -6,30 +6,15 @@ Aspects: [ mind-affecting, sonic ]
 ClassList: { bard: 3, druid: 4, sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4, witch: 4, psychic: 3, mesmerist: 3 }
 CastTime: standard action
 Range: 300 ft.
-Area: 
-Effect: 
 Targets: all creatures within a 300-ft.-radius burst centered on you
 Duration: concentration + 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

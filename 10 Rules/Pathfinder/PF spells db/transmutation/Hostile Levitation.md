@@ -1,35 +1,18 @@
 ---
 File: Hostile Levitation
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, witch: 3, bloodrager: 3, occultist: 3, psychic: 3, mesmerist: 3, spiritualist: 3, medium: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a leather loop studded with lodestones
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/h/hostile-levitation)"
 ---

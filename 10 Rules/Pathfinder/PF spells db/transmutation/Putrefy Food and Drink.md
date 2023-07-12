@@ -1,35 +1,18 @@
 ---
 File: Putrefy Food and Drink
 School: transmutation
-Subschool: 
 Aspects: [ poison ]
 ClassList: { witch: 0 }
 CastTime: standard action
 Range: 10 ft.
-Area: 
-Effect: 
 Targets: 1 cu. ft./level of food and water or one potion; see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/p/putrefy-food-and-drink)"
 ---

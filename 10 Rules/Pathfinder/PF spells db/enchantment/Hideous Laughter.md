@@ -6,30 +6,18 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 1, sorcerer: 2, wizard: 2, psychic: 2, mesmerist: 1, medium: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature; see text
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: tiny fruit tarts and a feather
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Revelry: 2, Whimsy: 1 }
-GPCost: 
 Bloodline: { Fey: 5, Maestro: 5 }
 Patron: { Insanity: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hideous-laughter)"
 ---

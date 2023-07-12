@@ -2,34 +2,18 @@
 File: Bountiful Banquet
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 4, cleric: 4, oracle: 4, druid: 4, shaman: 4 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: feast for two creatures/level
-Targets: 
 Duration: 1 hour; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a turkey bone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

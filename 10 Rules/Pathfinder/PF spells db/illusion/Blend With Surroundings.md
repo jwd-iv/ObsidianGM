@@ -2,34 +2,19 @@
 File: Blend With Surroundings
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, druid: 1, shaman: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, witch: 1 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless) or Will disbelieves (if interacted with)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a chess piece
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Thunderous Footfalls
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Large or larger creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: no (harmless)
 Components:
   V: yes
   S: yes
   M: V, S, M
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 91"
 ---

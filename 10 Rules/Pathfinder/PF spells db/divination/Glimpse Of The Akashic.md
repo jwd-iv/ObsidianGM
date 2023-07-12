@@ -1,35 +1,15 @@
 ---
 File: Glimpse Of The Akashic
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { psychic: 8 }
 CastTime: full-round action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 day or until discharged (see text)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Psychic Anthology"
 ---

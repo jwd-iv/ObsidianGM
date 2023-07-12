@@ -1,35 +1,18 @@
 ---
 File: Counterbalancing Aura
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8 }
 CastTime: standard action
 Range: 20 ft.
-Area: 
-Effect: 
 Targets: one creature/level in a 20-ft.-radius burst centered on you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

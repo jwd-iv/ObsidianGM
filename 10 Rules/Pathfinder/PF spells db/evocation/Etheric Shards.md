@@ -1,35 +1,18 @@
 ---
 File: Etheric Shards
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { occultist: 4, psychic: 5, spiritualist: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: one 10-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial or Reflex negates (see text)
 SR: no
 Components:
-  V: 
   S: yes
   M: broken glass
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

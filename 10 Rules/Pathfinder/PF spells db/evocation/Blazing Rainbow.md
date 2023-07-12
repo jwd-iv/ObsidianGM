@@ -1,35 +1,19 @@
 ---
 File: Blazing Rainbow
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { druid: 6 }
 CastTime: 1 round
 Range: 0 ft. or 10 ft./level
-Area: 
 Effect: bow or bridge of light
-Targets: 
 Duration: 1 minute/level or until discharged (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of rainwater
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

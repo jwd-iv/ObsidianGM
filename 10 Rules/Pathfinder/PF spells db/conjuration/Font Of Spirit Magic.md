@@ -2,34 +2,19 @@
 File: Font Of Spirit Magic
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { shaman: 3 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: concentration + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: gold dust worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

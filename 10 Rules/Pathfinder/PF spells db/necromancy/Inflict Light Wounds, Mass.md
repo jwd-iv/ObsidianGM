@@ -1,35 +1,17 @@
 ---
 File: Inflict Light Wounds, Mass
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, witch: 6, inquisitor: 5, shaman: 5, occultist: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/inflict-light-wounds)"
 ---

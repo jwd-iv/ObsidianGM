@@ -2,34 +2,19 @@
 File: Symbol of Scrying
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, witch: 5, occultist: 4 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-scrying)"
 ---

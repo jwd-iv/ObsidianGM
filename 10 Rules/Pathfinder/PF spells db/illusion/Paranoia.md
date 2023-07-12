@@ -5,31 +5,15 @@ Subschool: phantasm
 Aspects: [ mind-affecting ]
 ClassList: { bard: 2, medium: 1, mesmerist: 1, psychic: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
-Range: 
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

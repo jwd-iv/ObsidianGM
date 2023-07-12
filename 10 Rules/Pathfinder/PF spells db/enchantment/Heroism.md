@@ -6,28 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 2, sorcerer: 3, wizard: 3, alchemist: 3, summoner: 3, unchained summoner: 3, witch: 3, inquisitor: 3, bloodrager: 3, psychic: 3, spiritualist: 3, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Charm: 4, Heroism: 3 }
-GPCost: 
 Bloodline: { Imperious: 7, Martyred: 7 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/heroism)"
 ---

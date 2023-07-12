@@ -2,34 +2,17 @@
 File: Infuse Self
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 3, bard: 3, bloodrager: 3, magus: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of the creature whose form you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

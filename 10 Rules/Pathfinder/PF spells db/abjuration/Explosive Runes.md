@@ -1,35 +1,21 @@
 ---
 File: Explosive Runes
 School: abjuration
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 3, wizard: 3, occultist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object weighing no more than 10 lbs.
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Rune: 4 }
-GPCost: 
 Bloodline: { Kobold Sorcerer: 7, Kobold: 7 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/explosive-runes)"
 ---

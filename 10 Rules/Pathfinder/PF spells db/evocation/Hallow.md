@@ -1,35 +1,21 @@
 ---
 File: Hallow
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 5, oracle: 5, druid: 5, inquisitor: 5 }
 CastTime: 24 hours
 Range: touch
 Area: 40-ft. radius emanating from the touched point
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: see text
 Components:
   V: yes
   S: yes
   M: herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be included in the hallowed area
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hallow)"
 ---

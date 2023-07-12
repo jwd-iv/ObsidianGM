@@ -2,34 +2,19 @@
 File: Waters Of Lamashtu
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { alchemist: 2, antipaladin: 2, cleric: 3, oracle: 3, druid: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: up to 1 flask of the waters of Lamashtu per 2 levels
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: no
 Components:
   V: yes
   S: yes
   M: 250 gp of powdered amber
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

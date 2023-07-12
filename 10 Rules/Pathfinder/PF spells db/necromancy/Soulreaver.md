@@ -1,33 +1,19 @@
 ---
 File: Soulreaver
 School: necromancy
-Subschool: 
 Aspects: [ death ]
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: living creatures in a 20-ft.-radius spread
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Mythic Origins"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Majestic Image
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, cleric: 4, oracle: 4, medium: 4, mesmerist: 4, occultist: 4, sorcerer: 4, wizard: 4, spiritualist: 4 }
 CastTime: standard action
 Range: 200 ft./level
-Area: 
 Effect: transfer consciousness to an object bearing your likeness
-Targets: 
 Duration: concentration
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of paint and a ball of clay
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

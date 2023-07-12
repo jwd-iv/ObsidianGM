@@ -1,8 +1,6 @@
 ---
 File: Limited Wish
 School: universal
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: see text
@@ -10,26 +8,15 @@ Area: see text
 Effect: see text
 Targets: see text
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none, see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: diamond worth 1,500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Construct: 7 }
 GPCost: 1500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/l/limited-wish)"
 ---

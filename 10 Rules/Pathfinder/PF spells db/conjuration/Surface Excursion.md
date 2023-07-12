@@ -2,34 +2,19 @@
 File: Surface Excursion
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { magus: 5, occultist: 4, psychic: 5, shaman: 5, sorcerer: 5, wizard: 5, spiritualist: 4, summoner: 4, unchained summoner: 4, witch: 5 }
 CastTime: 3 rounds
 Range: touch
-Area: 
 Effect: you plus up to one willing creature per 3 levels
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a handful of soil that has been in the sun for at least 6 hours
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

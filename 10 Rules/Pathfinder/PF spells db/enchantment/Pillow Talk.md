@@ -6,30 +6,13 @@ Aspects: [ language-dependent, mind-affecting ]
 ClassList: { bard: 3, inquisitor: 3, mesmerist: 3, psychic: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: sleeping, living creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

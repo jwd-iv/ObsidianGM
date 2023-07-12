@@ -1,34 +1,17 @@
 ---
 File: Borrowed Time
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 6, bard: 6, magus: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Mythic Origins"
 ---

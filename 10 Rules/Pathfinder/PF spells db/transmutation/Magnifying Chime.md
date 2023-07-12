@@ -1,35 +1,18 @@
 ---
 File: Magnifying Chime
 School: transmutation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: Effect disruptive vibrations   one unattended object or object in your possession
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

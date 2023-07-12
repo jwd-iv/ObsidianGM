@@ -7,8 +7,6 @@ ClassList: { druid: 5, shaman: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. square/level; the area must be a stone surface
-Effect: 
-Targets: 
 Duration: 1 day/level or until triggered
 Dismissible: yes
 Shapeable: yes
@@ -18,18 +16,8 @@ Components:
   V: yes
   S: yes
   M: a sharp gemstone fragment worth 150 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 150
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

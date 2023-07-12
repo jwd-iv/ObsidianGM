@@ -1,35 +1,20 @@
 ---
 File: Toxic Rupture
 School: necromancy
-Subschool: 
 Aspects: [ poisonUM ]
 ClassList: { druid: 3, shaman: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one poisonous creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a viper's fang
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

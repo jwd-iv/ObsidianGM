@@ -6,28 +6,17 @@ Aspects: [ water ]
 ClassList: { druid: 9, sorcerer: 9, wizard: 9, shaman: 9 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: 10-ft.-deep wave 10 ft. wide/level and 2 ft. tall/level
-Targets: 
 Duration: 5 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Oceans: 9 }
-GPCost: 
-Bloodline: 
 Patron: { Water: 18 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/t/tsunami)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Detect Magic
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 0, cleric: 0, oracle: 0, druid: 0, sorcerer: 0, wizard: 0, summoner: 0, unchained summoner: 0, witch: 0, inquisitor: 0, magus: 0, shaman: 0, occultist: 0, psychic: 0, mesmerist: 0, spiritualist: 0, medium: 0 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: concentration, up to 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/detect-magic)"
 ---

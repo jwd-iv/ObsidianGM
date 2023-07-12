@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, sorcerer: 5, wizard: 5 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: one willing creature
 Duration: permanent until discharged (see text)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a gemstone worth at least 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pathfinder Society Field Guide"
 ---

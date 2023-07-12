@@ -6,30 +6,14 @@ Aspects: [ language-dependent, mind-affecting ]
 ClassList: { bard: 6, inquisitor: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: One humanoid
 Duration: One week/level or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "RotRL-AE-Appendix"
 ---

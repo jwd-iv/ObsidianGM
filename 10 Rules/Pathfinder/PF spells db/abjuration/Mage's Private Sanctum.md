@@ -1,14 +1,10 @@
 ---
 File: Mage's Private Sanctum
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, psychic: 5, mesmerist: 5, spiritualist: 5, medium: 4 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
 Area: 30-ft. cube/level
-Effect: 
-Targets: 
 Duration: 24 hours
 Dismissible: yes
 Shapeable: yes
@@ -18,18 +14,7 @@ Components:
   V: yes
   S: yes
   M: a sheet of lead, a piece of glass, a wad of cotton, and powdered chrysolite
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mage-s-private-sanctum)"
 ---

@@ -2,34 +2,20 @@
 File: Wooden Phalanx
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: three or more wood golems, no two of which can be more than 30 ft. apart (see text)
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Industry: 9 }
-GPCost: 
-Bloodline: 
 Patron: { Thorns: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/w/wooden-phalanx)"
 ---

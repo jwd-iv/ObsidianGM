@@ -1,35 +1,18 @@
 ---
 File: Salvage
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one shipwreck
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: V, S, M
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pirates Of The Inner Sea"
 ---

@@ -2,34 +2,20 @@
 File: Planar Inquiry
 School: conjuration
 Subschool: calling
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, inquisitor: 3, shaman: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, witch: 3 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one called outsider who answers questions
-Targets: 
 Duration: instantaneous; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: offerings worth 100 gp per HD of creature called
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

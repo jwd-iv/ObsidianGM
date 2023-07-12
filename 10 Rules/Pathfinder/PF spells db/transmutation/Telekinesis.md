@@ -1,34 +1,18 @@
 ---
 File: Telekinesis
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, magus: 5, occultist: 5, psychic: 4, spiritualist: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: or  see text
 Duration: concentration (up to 1 round/level) or instantaneous; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object) or none; see text
 SR: yes (object); see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/telekinesis)"
 ---

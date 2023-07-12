@@ -2,34 +2,19 @@
 File: Ghost Sound
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 0, sorcerer: 0, wizard: 0, magus: 0, occultist: 0, psychic: 0, mesmerist: 0, medium: 0 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: illusory sounds
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief
 SR: no
 Components:
   V: yes
   S: yes
   M: a bit of wool or a small lump of wax
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/ghost-sound)"
 ---

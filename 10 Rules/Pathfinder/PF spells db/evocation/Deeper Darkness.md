@@ -1,35 +1,23 @@
 ---
 File: Deeper Darkness
 School: evocation
-Subschool: 
 Aspects: [ darkness ]
 ClassList: { cleric: 3, oracle: 3, shaman: 3, occultist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
   M: bat fur and a piece of coal
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Darkness: 3 }
-GPCost: 
 Bloodline: { Shadow: 7, Div: 7 }
 Patron: { Shadow: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/deeper-darkness)"
 ---

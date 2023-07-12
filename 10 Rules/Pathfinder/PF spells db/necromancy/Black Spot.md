@@ -1,35 +1,17 @@
 ---
 File: Black Spot
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, sorcerer: 5, wizard: 5, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pirates Of The Inner Sea"
 ---

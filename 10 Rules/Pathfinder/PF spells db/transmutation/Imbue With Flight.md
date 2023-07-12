@@ -1,34 +1,19 @@
 ---
 File: Imbue With Flight
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
-  S: 
   M: handful of down
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Mythic Origins"
 ---

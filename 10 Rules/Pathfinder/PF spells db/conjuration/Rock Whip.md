@@ -2,34 +2,18 @@
 File: Rock Whip
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 2, magus: 2, ranger: 1, shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: whip of earth and stone
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Miasmatic Form
 School: transmutation
-Subschool: 
 Aspects: [ air, poison ]
 ClassList: { alchemist: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: willing corporeal creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: no
 Components:
-  V: 
   S: yes
   M: contact or inhaled poison worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 100
 Bloodline: { Nanite: 9 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

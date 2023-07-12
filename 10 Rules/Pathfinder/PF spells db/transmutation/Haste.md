@@ -1,33 +1,20 @@
 ---
 File: Haste
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, bard: 3, magus: 3, sorcerer: 3, wizard: 3, summoner: 2, bloodrager: 3, occultist: 3, psychic: 3, spiritualist: 3, unchained summoner: 3, medium: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a shaving of licorice root
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Agility: 6, Time: 6 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/haste)"
 ---

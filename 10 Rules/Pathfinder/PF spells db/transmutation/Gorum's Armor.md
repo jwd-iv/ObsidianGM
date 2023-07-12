@@ -1,34 +1,19 @@
 ---
 File: Gorum's Armor
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1, magus: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 1 suit of metal armor or 1 metal shield
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: 1 iron spike
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/g/gorum-s-armor)"
 ---

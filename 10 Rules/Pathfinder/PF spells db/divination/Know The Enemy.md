@@ -1,34 +1,20 @@
 ---
 File: Know The Enemy
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1, paladin: 1, ranger: 1 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Education: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/k/know-the-enemy)"
 ---

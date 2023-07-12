@@ -1,35 +1,19 @@
 ---
 File: Shadowy Haven
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, psychic: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one 5-foot square of floor touched
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a small black silk bag
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

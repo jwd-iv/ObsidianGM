@@ -1,35 +1,19 @@
 ---
 File: Spectral Saluqi
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one spectral dog
-Targets: 
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Mysteries"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Insect Spies, Greater
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, sorcerer: 7, wizard: 7, summoner: 6, unchained summoner: 6, witch: 7 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: up to one insect spy/4 levels
-Targets: 
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of honey
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

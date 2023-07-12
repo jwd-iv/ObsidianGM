@@ -1,35 +1,19 @@
 ---
 File: Create Soul Gem
 School: necromancy
-Subschool: 
 Aspects: [ death, evil ]
 ClassList: { cleric: 3, oracle: 3, occultist: 3, shaman: 3, sorcerer: 3, wizard: 3, spiritualist: 3, witch: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one dying or recently dead creature
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

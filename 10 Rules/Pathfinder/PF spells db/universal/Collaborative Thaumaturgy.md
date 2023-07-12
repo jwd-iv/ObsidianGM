@@ -1,35 +1,15 @@
 ---
 File: Collaborative Thaumaturgy
 School: universal
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3, druid: 3, magus: 3, summoner: 3, unchained summoner: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: immediate action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pathfinder Society Primer"
 ---

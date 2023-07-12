@@ -1,33 +1,20 @@
 ---
 File: Crusader's Edge
 School: transmutation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4, paladin: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: melee weapon touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: no
 Components:
   V: yes
   S: yes
   M: dried blood from an evil outsider, sprinkled on the weapon
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

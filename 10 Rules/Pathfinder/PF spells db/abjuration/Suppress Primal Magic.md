@@ -1,35 +1,16 @@
 ---
 File: Suppress Primal Magic
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: 10 ft.
 Area: 10-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a pinch of sand from the Spellscar Desert
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

@@ -1,33 +1,20 @@
 ---
 File: Death Knell
 School: necromancy
-Subschool: 
 Aspects: [ death, evil ]
 ClassList: { antipaladin: 1, cleric: 2, oracle: 2, inquisitor: 2, witch: 2, spiritualist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous/10 minutes per HD of subject; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Death: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/death-knell)"
 ---

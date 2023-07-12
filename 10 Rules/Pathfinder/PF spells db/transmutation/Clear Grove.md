@@ -1,35 +1,20 @@
 ---
 File: Clear Grove
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 2, shaman: 3, witch: 3 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 20-ft.-radius clearing
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a miniature hoe
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Wild"
 ---

@@ -2,34 +2,20 @@
 File: Restoration
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, paladin: 4, shaman: 4, mesmerist: 4, spiritualist: 4 }
 CastTime: 3 rounds
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: diamond dust worth 100 gp or 1,000 gp, see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 100
-Bloodline: 
 Patron: { Healing: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/restoration)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Scrivener's Chant
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 0, cleric: 0, oracle: 0, sorcerer: 0, wizard: 0 }
 CastTime: standard action
 Range: 5 ft.
-Area: 
-Effect: 
 Targets: one or more written objects
 Duration: concentration, up to 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will (harmless, object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: fine sand and a vial of ink
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Seekers of Secrets"
 ---

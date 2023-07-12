@@ -1,35 +1,17 @@
 ---
 File: Mage's Evasion
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9 }
 CastTime: at least 10 minutes; see text
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1day/level or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: quicksilver, and an eyelash from the caster
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Rappan Athuk"
 ---

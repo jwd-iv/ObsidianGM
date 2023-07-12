@@ -1,35 +1,18 @@
 ---
 File: Open The Dead Roads
 School: conjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: up to one touched creature/level
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 143"
 ---

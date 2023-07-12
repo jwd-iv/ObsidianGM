@@ -1,35 +1,19 @@
 ---
 File: Sequester
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, summoner: 5, psychic: 7, unchained summoner: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one willing creature or object (up to a 2-ft. cube/level) touched
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none or Will negates (object)
 SR: no or yes (object)
 Components:
   V: yes
   S: yes
   M: a basilisk eyelash and gum arabic
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sequester)"
 ---

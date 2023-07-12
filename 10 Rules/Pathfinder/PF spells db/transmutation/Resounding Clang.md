@@ -1,35 +1,16 @@
 ---
 File: Resounding Clang
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft.-radius burst, centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: yes (object)
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The River"
 ---

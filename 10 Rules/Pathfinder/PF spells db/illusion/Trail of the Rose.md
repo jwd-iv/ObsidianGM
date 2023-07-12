@@ -2,34 +2,19 @@
 File: Trail of the Rose
 School: illusion
 Subschool: phantasm
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 1 rose touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: no
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Shelyn
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faiths Of Purity"
 ---

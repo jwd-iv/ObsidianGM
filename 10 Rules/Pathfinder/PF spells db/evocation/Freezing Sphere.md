@@ -1,35 +1,21 @@
 ---
 File: Freezing Sphere
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { sorcerer: 6, wizard: 6, magus: 6, occultist: 6 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: see Text
 Duration: instantaneous or 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Ice: 7 }
-GPCost: 
-Bloodline: 
 Patron: { Elements: 12, Winter: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/freezing-sphere)"
 ---

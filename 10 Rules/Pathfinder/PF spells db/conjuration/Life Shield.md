@@ -2,34 +2,15 @@
 File: Life Shield
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, paladin: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Undead Slayer's Handbook"
 ---

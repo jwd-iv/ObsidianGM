@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { inquisitor: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/coward-s-lament)"
 ---

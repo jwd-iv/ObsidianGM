@@ -7,28 +7,15 @@ ClassList: { sorcerer: 1, wizard: 1, magus: 1, bloodrager: 1, psychic: 1, mesmer
 CastTime: standard action
 Range: 15 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: red, yellow, and blue powder or colored sand
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/color-spray)"
 ---

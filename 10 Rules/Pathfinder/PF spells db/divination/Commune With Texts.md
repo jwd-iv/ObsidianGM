@@ -1,35 +1,17 @@
 ---
 File: Commune With Texts
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, cleric: 6, oracle: 6, inquisitor: 6, medium: 4, occultist: 4, psychic: 6, sorcerer: 5, wizard: 5, spiritualist: 6 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: a collection of texts
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: incense worth 250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

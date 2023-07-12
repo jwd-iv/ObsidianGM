@@ -1,33 +1,20 @@
 ---
 File: Scouring Winds
 School: evocation
-Subschool: 
 Aspects: [ air, earth ]
 ClassList: { druid: 7, sorcerer: 7, wizard: 7, witch: 7 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: sandstorm in 20-ft. radius, 20 ft. high
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes (see text)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/scouring-winds)"
 ---

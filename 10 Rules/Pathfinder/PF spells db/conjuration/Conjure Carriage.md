@@ -2,34 +2,19 @@
 File: Conjure Carriage
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 3, magus: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, witch: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one quasi-real carriage, horses, and driver
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a gourd
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

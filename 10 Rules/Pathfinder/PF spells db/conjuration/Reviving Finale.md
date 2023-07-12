@@ -2,34 +2,17 @@
 File: Reviving Finale
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { bard: 3 }
 CastTime: swift action
 Range: 20 ft.
 Area: a 20-ft.-radius burst centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/r/reviving-finale)"
 ---

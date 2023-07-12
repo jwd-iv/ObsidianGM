@@ -1,35 +1,19 @@
 ---
 File: Force Punch
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { magus: 3, sorcerer: 3, wizard: 3, bloodrager: 3, psychic: 3, spiritualist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Fist: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/f/force-punch)"
 ---

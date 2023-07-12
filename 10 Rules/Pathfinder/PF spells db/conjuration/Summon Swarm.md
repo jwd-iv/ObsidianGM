@@ -2,33 +2,21 @@
 File: Summon Swarm
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 2, druid: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, witch: 2, shaman: 2 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one swarm of bats, rats, or spiders
-Targets: 
 Duration: concentration + 2 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a square of red cloth
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
 Bloodline: { Pestilence: 5 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/summon-swarm)"
 ---

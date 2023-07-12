@@ -2,34 +2,21 @@
 File: Animal Shapes
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { druid: 8, shaman: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to one willing creature per level, all within 30 ft. of each other.
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none; see text
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Animal: 7, Scalykind: 8 }
-GPCost: 
-Bloodline: 
 Patron: { Agility: 16, Animals: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/animal-shapes)"
 ---

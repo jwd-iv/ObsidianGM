@@ -1,35 +1,19 @@
 ---
 File: Miracle
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 9, oracle: 9 }
 CastTime: standard action
 Range: see text
 Area: see text
-Effect: 
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Community: 9, Divine: 9, Luck: 9 }
-GPCost: 
-Bloodline: 
 Patron: { Endurance: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/miracle)"
 ---

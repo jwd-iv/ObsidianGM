@@ -1,35 +1,17 @@
 ---
 File: Instant Enemy
 School: enchantment
-Subschool: 
-Aspects: 
 ClassList: { ranger: 3 }
 CastTime: swift action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature that is not your favored enemy.
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/i/instant-enemy)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Numerological Evocation
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { magus: 3, sorcerer: 3, wizard: 3, witch: 4 }
 CastTime: standard action
 Range: see text
-Area: 
-Effect: 
 Targets: see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Mysteries"
 ---

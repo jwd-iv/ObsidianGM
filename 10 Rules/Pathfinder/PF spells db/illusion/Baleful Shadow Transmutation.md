@@ -6,30 +6,14 @@ Aspects: [ shadowUM ]
 ClassList: { alchemist: 6, bard: 6, druid: 7, medium: 6, shaman: 6, sorcerer: 6, wizard: 6, spiritualist: 6, summoner: 6, unchained summoner: 6, witch: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief, then Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Word of Resolve
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { paladin: 1 }
 CastTime: immediate action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one ally
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negate (harmless)
 SR: yes (harmless)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/w/word-of-resolve)"
 ---

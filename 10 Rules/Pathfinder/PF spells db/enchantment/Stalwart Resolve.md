@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { alchemist: 2, cleric: 2, oracle: 2, inquisitor: 1, paladin: 1, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pathfinder Society Field Guide"
 ---

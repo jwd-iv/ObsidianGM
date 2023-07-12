@@ -1,35 +1,19 @@
 ---
 File: Death Ward
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, druid: 5, paladin: 4, witch: 4, inquisitor: 4, alchemist: 4, occultist: 4, spiritualist: 4, medium: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Death: 4, Repose: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/death-ward)"
 ---

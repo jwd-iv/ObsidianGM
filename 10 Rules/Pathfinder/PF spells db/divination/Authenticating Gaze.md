@@ -1,35 +1,16 @@
 ---
 File: Authenticating Gaze
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, cleric: 1, oracle: 1, inquisitor: 1, occultist: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a miniature magnifying glass or spectacles
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

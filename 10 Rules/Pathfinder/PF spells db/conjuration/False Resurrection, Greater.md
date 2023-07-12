@@ -6,30 +6,17 @@ Aspects: [ evil, lawful, ruse ]
 ClassList: { cleric: 9, oracle: 9 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: diamond worth 25,000 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 25000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, cleric: 4, oracle: 4, mesmerist: 3, psychic: 4, witch: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: all creatures in a 15-ft.-radius burst
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a broken chain link
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

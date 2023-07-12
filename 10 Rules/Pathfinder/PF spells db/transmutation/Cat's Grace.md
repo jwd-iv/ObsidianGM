@@ -1,35 +1,20 @@
 ---
 File: Cat's Grace
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, druid: 2, ranger: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, alchemist: 2, magus: 2, bloodrager: 2, psychic: 2, mesmerist: 2, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
   M: pinch of cat fur
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Flowing: 2 }
-GPCost: 
-Bloodline: 
 Patron: { Agility: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/cat-s-grace)"
 ---

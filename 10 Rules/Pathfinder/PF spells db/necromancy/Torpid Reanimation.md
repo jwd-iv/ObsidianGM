@@ -1,35 +1,20 @@
 ---
 File: Torpid Reanimation
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 4, cleric: 4, oracle: 4, occultist: 4, shaman: 4, sorcerer: 5, wizard: 5, spiritualist: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one or more corpses touched
 Duration: 1 day/caster level and instantaneous (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: an onyx gem worth at least 25 gp per HD of the undead
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

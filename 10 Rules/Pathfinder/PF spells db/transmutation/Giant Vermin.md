@@ -1,35 +1,19 @@
 ---
 File: Giant Vermin
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, druid: 4, shaman: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 or more vermin, no two of which can be more than 30 ft. apart
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Plague: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/giant-vermin)"
 ---

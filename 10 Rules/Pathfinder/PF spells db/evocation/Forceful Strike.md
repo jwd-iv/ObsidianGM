@@ -1,35 +1,18 @@
 ---
 File: Forceful Strike
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4, magus: 4, paladin: 4 }
 CastTime: swift action
 Range: touch or reach of melee weapon
-Area: 
-Effect: 
 Targets: 1 creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

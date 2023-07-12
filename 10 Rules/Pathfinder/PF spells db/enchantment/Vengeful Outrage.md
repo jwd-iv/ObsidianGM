@@ -6,30 +6,14 @@ Aspects: [ emotion, language-dependent, mind-affecting ]
 ClassList: { bard: 5, sorcerer: 6, wizard: 6, witch: 6, psychic: 6, mesmerist: 5 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/v/vengeful-outrage)"
 ---

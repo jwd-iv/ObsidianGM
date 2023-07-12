@@ -1,35 +1,16 @@
 ---
 File: Spell Absorption
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a prism
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

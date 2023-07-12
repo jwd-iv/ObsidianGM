@@ -1,33 +1,17 @@
 ---
 File: True Strike
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1, alchemist: 1, inquisitor: 1, magus: 1, bloodrager: 1, psychic: 1, medium: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Destruction: 1, Luck: 1, Fist: 1 }
-GPCost: 
 Bloodline: { Shaitan: 3 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/true-strike)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Clarion Call
 School: illusion
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, magus: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a piece of brass
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Knights Of The Inner Sea"
 ---

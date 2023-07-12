@@ -6,30 +6,13 @@ Aspects: [ language-dependent, mind-affecting ]
 ClassList: { bard: 4, medium: 4, mesmerist: 4, occultist: 5, psychic: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 hour/level or until completed
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Beast"
 ---

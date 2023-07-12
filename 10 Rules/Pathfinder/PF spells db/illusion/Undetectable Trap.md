@@ -2,34 +2,20 @@
 File: Undetectable Trap
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { antipaladin: 2, occultist: 3, ranger: 2 }
 CastTime: 10 minutes (see text)
 Range: touch
-Area: 
-Effect: 
 Targets: trap touched
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a square of black silk worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

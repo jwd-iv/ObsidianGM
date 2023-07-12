@@ -1,35 +1,20 @@
 ---
 File: Burst Of Radiance
 School: evocation
-Subschool: 
 Aspects: [ good, light ]
 ClassList: { cleric: 2, oracle: 2, druid: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 10-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of flint and a pinch of silver dust
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Champions Of Purity"
 ---

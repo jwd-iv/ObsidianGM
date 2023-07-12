@@ -1,35 +1,19 @@
 ---
 File: Spiritual Squire
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { antipaladin: 2, cleric: 2, oracle: 2, inquisitor: 2, paladin: 2, shaman: 2, spiritualist: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Armor Masters Handbook"
 ---

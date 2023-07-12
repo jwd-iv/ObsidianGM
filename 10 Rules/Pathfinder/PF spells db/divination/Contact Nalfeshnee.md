@@ -1,35 +1,17 @@
 ---
 File: Contact Nalfeshnee
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: concentration
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: powdered sapphire worth 250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Demons Revisited"
 ---

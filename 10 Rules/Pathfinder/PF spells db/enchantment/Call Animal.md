@@ -6,29 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { druid: 1, ranger: 1, mesmerist: 1 }
 CastTime: standard action
 Range: see description
-Area: 
 Effect: one animal whose CR is equal or less than your caster level
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: none
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/call-animal)"
 ---

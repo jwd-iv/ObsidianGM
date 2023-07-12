@@ -6,30 +6,15 @@ Aspects: [ shadowUM ]
 ClassList: { antipaladin: 4, bard: 4, mesmerist: 4, psychic: 4, sorcerer: 4, wizard: 4, spiritualist: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

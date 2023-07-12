@@ -1,35 +1,17 @@
 ---
 File: Visualization Of The Mind
 School: transmutation
-Subschool: 
 Aspects: [ meditative ]
 ClassList: { cleric: 2, oracle: 2, shaman: 2, wizard: 2 }
 CastTime: 1 hour
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
   M: soothing incense worth 200 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 200
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Divine Anthology"
 ---

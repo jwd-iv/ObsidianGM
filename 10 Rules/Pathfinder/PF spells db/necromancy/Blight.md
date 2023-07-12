@@ -1,35 +1,20 @@
 ---
 File: Blight
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, sorcerer: 5, wizard: 5, witch: 5, shaman: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: plant touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Seasons: 4, Radiation: 2 }
-GPCost: 
 Bloodline: { Daemon: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "PFRPG Core"
 ---

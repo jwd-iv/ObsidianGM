@@ -1,35 +1,18 @@
 ---
 File: Judgment Light
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { inquisitor: 4 }
 CastTime: standard action
 Range: personal
 Area: 30-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous, see text
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/j/judgment-light)"
 ---

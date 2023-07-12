@@ -2,34 +2,19 @@
 File: Beast Shape IV
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, alchemist: 6, magus: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of the creature whose form you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
 Bloodline: { Aquatic: 13 }
 Patron: { Animals: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/beast-shape-i#TOC-Beast-Shape-IV)"
 ---

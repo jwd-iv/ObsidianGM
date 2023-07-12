@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 8, wizard: 8, psychic: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: colorful lights in a 20-ft.-radius spread
-Targets: 
 Duration: concentration + 2 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a crystal prism
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Madness: 8 }
-GPCost: 
-Bloodline: 
 Patron: { Deception: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/scintillating-pattern)"
 ---

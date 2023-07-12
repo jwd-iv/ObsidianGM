@@ -1,35 +1,15 @@
 ---
 File: Healing Warmth
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, cleric: 4, oracle: 4, druid: 4, inquisitor: 4, psychic: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

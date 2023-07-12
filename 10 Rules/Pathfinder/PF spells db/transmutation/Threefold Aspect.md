@@ -1,35 +1,19 @@
 ---
 File: Threefold Aspect
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, witch: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 5
 Bloodline: { Imperious: 9 }
 Patron: { Time: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/t/threefold-aspect)"
 ---

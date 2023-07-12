@@ -2,34 +2,17 @@
 File: Shadow Bomb Admixture
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { alchemist: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: special, see below
 SR: special, see below
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/s/shadow-bomb-admixture)"
 ---

@@ -2,34 +2,19 @@
 File: Form Of The Exotic Dragon I
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 6, druid: 7, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see below
 SR: no
 Components:
   V: yes
   S: yes
   M: a scale of the dragon type you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of Dragons"
 ---

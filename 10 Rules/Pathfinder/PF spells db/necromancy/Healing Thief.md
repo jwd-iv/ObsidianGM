@@ -1,33 +1,19 @@
 ---
 File: Healing Thief
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, witch: 3, occultist: 3, psychic: 3, mesmerist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a bit of sponge, damp with tears
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/h/healing-thief)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Enhance Water
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, paladin: 1 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: 1 pint of water/level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Cayden Cailean
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

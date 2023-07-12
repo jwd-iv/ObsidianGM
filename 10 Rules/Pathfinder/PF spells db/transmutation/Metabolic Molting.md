@@ -1,35 +1,19 @@
 ---
 File: Metabolic Molting
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, druid: 6, shaman: 6, witch: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: willing creature or dead body touched
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a valuable gemstone worth at least 250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Beast"
 ---

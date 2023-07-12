@@ -1,35 +1,18 @@
 ---
 File: Golden Guise
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one object weighing no more than 5 lbs./level
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
   M: 10 gold pieces
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Hunter's Friend
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: your animal companion
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Animal Archive"
 ---

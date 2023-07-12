@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { cleric: 6, oracle: 6 }
 CastTime: standard action
 Range: 1 hex
-Area: 
-Effect: 
 Targets: one army
 Duration: 1 battle
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Quests and Campaigns"
 ---

@@ -2,34 +2,21 @@
 File: Raise Dead
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, witch: 6, shaman: 6, spiritualist: 5 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: diamond worth 5,000 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Resurrection: 5 }
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/raise-dead)"
 ---

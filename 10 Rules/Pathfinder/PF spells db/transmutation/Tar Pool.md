@@ -1,35 +1,20 @@
 ---
 File: Tar Pool
 School: transmutation
-Subschool: 
 Aspects: [ earth, fire ]
 ClassList: { druid: 6, sorcerer: 6, wizard: 6, summoner: 5, unchained summoner: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft.-radius burst
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial, see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a ball of hardened tar
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/t/tar-pool)"
 ---

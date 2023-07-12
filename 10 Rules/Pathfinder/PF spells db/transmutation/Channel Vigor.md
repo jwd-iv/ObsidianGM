@@ -1,35 +1,16 @@
 ---
 File: Channel Vigor
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, cleric: 3, oracle: 3, inquisitor: 3, magus: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Irori
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

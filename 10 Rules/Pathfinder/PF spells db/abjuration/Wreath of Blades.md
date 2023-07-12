@@ -1,35 +1,19 @@
 ---
 File: Wreath of Blades
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { magus: 4, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5, witch: 5, bloodrager: 4, occultist: 4, psychic: 5 }
 CastTime: standard action
 Range: personal
 Area: 5-foot-radius emanation centered on you
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half (special, see below)
 SR: no (special, see below)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 502
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/w/wreath-of-blades)"
 ---

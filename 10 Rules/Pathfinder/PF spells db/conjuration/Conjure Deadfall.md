@@ -2,34 +2,19 @@
 File: Conjure Deadfall
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { magus: 5, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: see text
 Effect: one spiked, falling block
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: fistful of mithral tacks
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dungeoneers Handbook"
 ---

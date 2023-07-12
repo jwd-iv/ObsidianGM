@@ -1,33 +1,19 @@
 ---
 File: Blink
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, magus: 3, psychic: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
 Bloodline: { Starsoul: 7 }
 Patron: { Deception: 6, Dimensions: 6 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/blink)"
 ---

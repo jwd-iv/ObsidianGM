@@ -1,35 +1,18 @@
 ---
 File: Wall Of Bone
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 4, bloodrager: 4, cleric: 4, oracle: 4, psychic: 4, sorcerer: 4, wizard: 4, spiritualist: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: solid wall of humanoid bones with an area of up to one 5-ft. square/level
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes; see text
 Components:
   V: yes
   S: yes
   M: a polished humanoid femur
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

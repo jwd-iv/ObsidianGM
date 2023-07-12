@@ -1,35 +1,18 @@
 ---
 File: Telekinetic Charge
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 4, wizard: 4, bloodrager: 4, psychic: 4, spiritualist: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/t/telekinetic-charge)"
 ---

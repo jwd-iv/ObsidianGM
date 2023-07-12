@@ -1,35 +1,18 @@
 ---
 File: Nondetection, Lesser
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, antipaladin: 2, inquisitor: 2, ranger: 3, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of mercury
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

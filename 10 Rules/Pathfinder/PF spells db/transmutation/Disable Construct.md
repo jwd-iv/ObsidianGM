@@ -1,35 +1,18 @@
 ---
 File: Disable Construct
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: construct touched
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

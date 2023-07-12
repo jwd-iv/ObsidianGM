@@ -2,34 +2,22 @@
 File: Form of the Dragon I
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, alchemist: 6, magus: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see below
 SR: no
 Components:
   V: yes
   S: yes
   M: a scale of the dragon type you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Dragon: 6 }
-GPCost: 
 Bloodline: { Draconic: 13 }
 Patron: { Transformation: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/form-of-the-dragon-i)"
 ---

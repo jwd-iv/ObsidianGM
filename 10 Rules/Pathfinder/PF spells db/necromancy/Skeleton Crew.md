@@ -1,35 +1,18 @@
 ---
 File: Skeleton Crew
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one or more humanoid corpses touched
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: V, S, M
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pirates Of The Inner Sea"
 ---

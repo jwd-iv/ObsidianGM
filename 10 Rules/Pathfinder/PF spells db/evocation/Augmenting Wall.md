@@ -1,35 +1,18 @@
 ---
 File: Augmenting Wall
 School: evocation
-Subschool: 
 Aspects: [ see text ]
 ClassList: { magus: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 20-ft.-high wall of energy whose area is up to one 10-ft. square/level
-Targets: 
 Duration: 1 round/2 levels (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none (object)
 SR: no (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ranged Tactics Toolbox"
 ---

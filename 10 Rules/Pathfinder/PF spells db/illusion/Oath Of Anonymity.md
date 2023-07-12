@@ -2,34 +2,14 @@
 File: Oath Of Anonymity
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 0, inquisitor: 0, medium: 0, paladin: 1, sorcerer: 0, wizard: 0 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

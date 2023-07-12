@@ -6,30 +6,15 @@ Aspects: [ lawful; see text ]
 ClassList: { cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one called bearded devil and testing ground; see text
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

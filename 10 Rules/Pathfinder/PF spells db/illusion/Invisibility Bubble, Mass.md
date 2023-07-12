@@ -2,34 +2,20 @@
 File: Invisibility Bubble, Mass
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { mesmerist: 6, psychic: 7, sorcerer: 7, wizard: 7, summoner: 6, unchained summoner: 6 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 10-ft.-radius emanation centered on the touched creature's space
-Effect: 
 Targets: any number of creatures, no two of which can be more than 180 ft. apart
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a needle from a sea urchin
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Aquatic Adventures"
 ---

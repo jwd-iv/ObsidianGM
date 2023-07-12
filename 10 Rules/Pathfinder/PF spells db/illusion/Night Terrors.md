@@ -6,30 +6,17 @@ Aspects: [ emotionUM, evil, mind-affecting ]
 ClassList: { bard: 6, mesmerist: 6, psychic: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: intelligent creature touched
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of black ink
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

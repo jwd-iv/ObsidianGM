@@ -1,35 +1,20 @@
 ---
 File: Goodberry
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, shaman: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 2d4 fresh berries touched
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Seasons: 1 }
-GPCost: 
-Bloodline: 
 Patron: { Summer: 2 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/goodberry)"
 ---

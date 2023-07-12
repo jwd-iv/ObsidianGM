@@ -1,33 +1,21 @@
 ---
 File: Flame Blade
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 2, shaman: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: sword-like beam
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/flame-blade)"
 ---

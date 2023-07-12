@@ -2,34 +2,18 @@
 File: Appearance Of Life, Greater
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, medium: 4, mesmerist: 5, psychic: 5, sorcerer: 5, wizard: 5, spiritualist: 4, witch: 5 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: one willing undead creature touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief or Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: one Tiny or larger living creature
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

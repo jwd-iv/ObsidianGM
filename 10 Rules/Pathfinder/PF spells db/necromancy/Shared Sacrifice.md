@@ -1,35 +1,20 @@
 ---
 File: Shared Sacrifice
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 3, cleric: 2, oracle: 2, summoner: 3, unchained summoner: 3, witch: 2 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Asmodeus
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

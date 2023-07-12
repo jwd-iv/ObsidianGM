@@ -2,34 +2,19 @@
 File: Giant Form II
 School: Transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of the creature whose form you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
 Bloodline: { Efreeti: 17 }
 Patron: { Strength: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/giant-form-i)"
 ---

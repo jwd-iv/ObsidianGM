@@ -2,34 +2,18 @@
 File: Create Armaments
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 4, medium: 4, psychic: 4, sorcerer: 4, wizard: 4, spiritualist: 3, witch: 4 }
 CastTime: 1 minute
 Range: 0 ft.
-Area: 
 Effect: one nonmagical weapon, shield, or set of armor
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: diamonds worth price of arms to be created
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

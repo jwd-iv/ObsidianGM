@@ -1,35 +1,14 @@
 ---
 File: Ethereal Fists
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 4, spiritualist: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

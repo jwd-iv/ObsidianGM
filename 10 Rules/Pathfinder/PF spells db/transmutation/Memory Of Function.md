@@ -1,35 +1,18 @@
 ---
 File: Memory Of Function
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object or construct touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 10000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

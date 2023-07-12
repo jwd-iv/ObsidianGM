@@ -2,34 +2,20 @@
 File: Magic Mouth
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 1, sorcerer: 2, wizard: 2, summoner: 1, unchained summoner: 1, occultist: 2, psychic: 2, mesmerist: 1, medium: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object
 Duration: permanent until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a small bit of honeycomb and jade dust worth 10 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Magic: 2 }
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-mouth)"
 ---

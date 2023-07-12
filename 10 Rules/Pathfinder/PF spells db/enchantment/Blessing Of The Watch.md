@@ -7,29 +7,15 @@ ClassList: { cleric: 1, oracle: 1, inquisitor: 1, paladin: 1 }
 CastTime: standard action
 Range: 50 ft.
 Area: The caster and all allies within a 50-ft. burst, centered on the caster
-Effect: 
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Abadar
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

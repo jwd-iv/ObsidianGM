@@ -1,35 +1,19 @@
 ---
 File: Harvest Knowledge
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { alchemist: 4, antipaladin: 4, bard: 4, inquisitor: 4, mesmerist: 4, psychic: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: touch (see text)
-Area: 
-Effect: 
 Targets: one creature or object; see text
 Duration: concentration, up to 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a piece of lodestone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

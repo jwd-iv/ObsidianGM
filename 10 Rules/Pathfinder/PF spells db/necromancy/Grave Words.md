@@ -1,35 +1,15 @@
 ---
 File: Grave Words
 School: necromancy
-Subschool: 
 Aspects: [ language-dependent ]
 ClassList: { medium: 0, occultist: 0, psychic: 0, spiritualist: 0 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: one dead creature
 Duration: 1 round
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

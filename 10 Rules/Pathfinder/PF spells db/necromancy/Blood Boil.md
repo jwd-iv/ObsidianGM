@@ -1,35 +1,18 @@
 ---
 File: Blood Boil
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { magus: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 3 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of mercury
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magical Marketplace"
 ---

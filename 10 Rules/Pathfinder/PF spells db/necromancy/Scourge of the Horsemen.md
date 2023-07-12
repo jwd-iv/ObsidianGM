@@ -1,35 +1,18 @@
 ---
 File: Scourge of the Horsemen
 School: necromancy
-Subschool: 
 Aspects: [ acid, evil ]
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 30-ft. burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horsemen Of The Apocalypse"
 ---

@@ -6,28 +6,16 @@ Aspects: [ see text ]
 ClassList: { druid: 7, sorcerer: 7, wizard: 7 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: one or more summoned elementals
-Targets: 
 Duration: 1 round/2 levels
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Mythic Origins"
 ---

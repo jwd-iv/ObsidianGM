@@ -1,35 +1,17 @@
 ---
 File: Blood Of The Martyr
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, inquisitor: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Chronicle Of The Righteous"
 ---

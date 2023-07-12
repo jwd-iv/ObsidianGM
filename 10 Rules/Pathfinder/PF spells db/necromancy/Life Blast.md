@@ -1,35 +1,18 @@
 ---
 File: Life Blast
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, ranger: 3, shaman: 4 }
 CastTime: standard action
 Range: 150 ft.
 Area: 150-ft. line
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a dead leaf
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

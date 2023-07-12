@@ -2,34 +2,17 @@
 File: Call Spirit
 School: conjuration
 Subschool: calling
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, medium: 3, shaman: 5, spiritualist: 5 }
 CastTime: 10 minutes
 Range: 10 ft.
-Area: 
 Effect: call the spirit of a single deceased humanoid creature
-Targets: 
 Duration: concentration
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

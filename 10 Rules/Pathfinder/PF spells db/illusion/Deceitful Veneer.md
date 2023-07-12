@@ -2,34 +2,18 @@
 File: Deceitful Veneer
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { antipaladin: 3, bard: 4, inquisitor: 4, medium: 3, mesmerist: 4, psychic: 4, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

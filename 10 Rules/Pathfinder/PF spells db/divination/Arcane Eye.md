@@ -2,34 +2,20 @@
 File: Arcane Eye
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, witch: 4, alchemist: 4, occultist: 4, psychic: 4, mesmerist: 4 }
 CastTime: 10 minutes
 Range: unlimited
-Area: 
 Effect: magical sensor
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a bit of bat fur
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Arcane: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/arcane-eye)"
 ---

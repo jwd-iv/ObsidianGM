@@ -1,35 +1,18 @@
 ---
 File: Build Trust
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, inquisitor: 2, mesmerist: 2, paladin: 1, psychic: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 day/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a gold piece
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

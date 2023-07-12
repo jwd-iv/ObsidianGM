@@ -1,35 +1,18 @@
 ---
 File: Rags To Riches
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, bard: 3, cleric: 4, oracle: 4, medium: 3, occultist: 3, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 1 weapon, suit or armor, shield, tool, or skill kit touched/5 levels
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: no
 Components:
   V: yes
   S: yes
   M: a bit of burlap wrapped over a copper coin
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

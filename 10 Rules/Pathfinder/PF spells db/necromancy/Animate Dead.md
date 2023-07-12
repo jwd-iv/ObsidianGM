@@ -1,33 +1,24 @@
 ---
 File: Animate Dead
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 3, oracle: 3, sorcerer: 4, wizard: 4, antipaladin: 3, shaman: 3, occultist: 3, spiritualist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one or more corpses touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: an onyx gem worth at least 25 gp per Hit Die of the undead
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Death: 3, Souls: 3 }
 GPCost: 25
 Bloodline: { Undead: 9 }
 Patron: { Plague: 8 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/animate-dead)"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Protection From Technology
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless), see text
 SR: no, see text
 Components:
   V: yes
   S: yes
   M: a pinch of powdered copper
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

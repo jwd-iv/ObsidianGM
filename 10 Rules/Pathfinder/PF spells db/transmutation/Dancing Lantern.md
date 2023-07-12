@@ -1,35 +1,20 @@
 ---
 File: Dancing Lantern
 School: transmutation
-Subschool: 
 Aspects: [ fire, light ]
 ClassList: { bard: 1, cleric: 1, oracle: 1, ranger: 1, sorcerer: 1, wizard: 1, witch: 1, shaman: 1 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: animates one lantern
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Light: 2 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "APG"
 ---

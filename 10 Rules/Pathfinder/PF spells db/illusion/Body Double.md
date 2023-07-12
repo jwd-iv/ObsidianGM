@@ -2,34 +2,18 @@
 File: Body Double
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 2, bloodrager: 2, magus: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: two creatures; see text
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: two glass beads
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

@@ -2,34 +2,18 @@
 File: Scribe's Binding
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { occultist: 6, sorcerer: 9, wizard: 9, witch: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Spymaster's Handbook"
 ---

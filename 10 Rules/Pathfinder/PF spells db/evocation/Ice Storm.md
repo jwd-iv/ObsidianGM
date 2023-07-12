@@ -1,33 +1,24 @@
 ---
 File: Ice Storm
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { druid: 4, sorcerer: 4, wizard: 4, witch: 4, magus: 4, bloodrager: 4, shaman: 4, occultist: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: cylinder (20-ft. radius, 40 ft. high)
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: dust and water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Water: 5, Weather: 5 }
-GPCost: 
-Bloodline: 
 Patron: { Winter: 6, Storms: 8 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/ice-storm)"
 ---

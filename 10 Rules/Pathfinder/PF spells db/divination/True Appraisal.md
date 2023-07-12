@@ -1,35 +1,16 @@
 ---
 File: True Appraisal
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, inquisitor: 1, occultist: 1, witch: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 8 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

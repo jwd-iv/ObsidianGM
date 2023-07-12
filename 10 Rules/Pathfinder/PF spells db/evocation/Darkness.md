@@ -1,34 +1,22 @@
 ---
 File: Darkness
 School: evocation
-Subschool: 
 Aspects: [ darkness ]
 ClassList: { bard: 2, cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, inquisitor: 2, antipaladin: 2, magus: 2, shaman: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
   M: bat fur and a piece of coal
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Moon: 2, Shadow: 4 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/darkness)"
 ---

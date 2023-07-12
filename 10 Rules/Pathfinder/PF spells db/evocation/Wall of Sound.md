@@ -1,35 +1,19 @@
 ---
 File: Wall of Sound
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 4, magus: 4, sorcerer: 5, wizard: 5, bloodrager: 4, psychic: 5, spiritualist: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: translucent wall of sound up to 20 ft. long/level or a ring of sound with a radius of up to 5 ft./two levels; either form 20 ft. high
-Targets: 
 Duration: concentration + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a tuning fork and a quartz crystal
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-sound)"
 ---

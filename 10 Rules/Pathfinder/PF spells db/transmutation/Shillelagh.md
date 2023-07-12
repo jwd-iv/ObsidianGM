@@ -1,35 +1,18 @@
 ---
 File: Shillelagh
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched nonmagical oak club or quarterstaff
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shillelagh)"
 ---

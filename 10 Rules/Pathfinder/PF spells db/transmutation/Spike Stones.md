@@ -1,34 +1,24 @@
 ---
 File: Spike Stones
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { druid: 4, shaman: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: one 20-ft. square/level
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Earth: 4 }
-GPCost: 
 Bloodline: { Deep Earth: 11 }
 Patron: { Mountain: 8 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/spike-stones)"
 ---

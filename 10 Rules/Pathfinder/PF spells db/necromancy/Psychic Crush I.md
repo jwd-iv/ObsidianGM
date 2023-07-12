@@ -1,35 +1,18 @@
 ---
 File: Psychic Crush I
 School: necromancy
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { psychic: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial and Fortitude partial; see text
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Psychic: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

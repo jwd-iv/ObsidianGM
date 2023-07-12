@@ -1,33 +1,21 @@
 ---
 File: Orb Of The Void
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, psychic: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 1-ft.-diameter sphere
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a black gemstone of any kind worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/o/orb-of-the-void)"
 ---

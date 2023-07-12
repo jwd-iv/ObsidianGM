@@ -2,34 +2,15 @@
 File: Paragon Surge
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 3, cleric: 3, oracle: 3, magus: 4, paladin: 4, sorcerer: 3, wizard: 3, witch: 3, medium: 3 }
 CastTime: standard action
 Range: personal (half-elf only)
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

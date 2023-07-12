@@ -6,30 +6,14 @@ Aspects: [ curseUM, mind-affecting ]
 ClassList: { bard: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels) or touch; see text
-Area: 
-Effect: 
 Targets: one creature or one object up to 5 lbs./level
 Duration: 1 round/level or permanent; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates or none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Monster Codex"
 ---

@@ -2,34 +2,20 @@
 File: Wicker Horse
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { occultist: 2, shaman: 2, summoner: 2, unchained summoner: 2, witch: 2 }
 CastTime: 10 minutes; see text
 Range: touch
-Area: 
 Effect: a horselike wicker construct
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a reed or twig
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Defensive Shock
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { alchemist: 2, magus: 2, sorcerer: 2, wizard: 2, bloodrager: 2, occultist: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a hollow metal sphere
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
 Bloodline: { Nanite: 5 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/d/defensive-shock)"
 ---

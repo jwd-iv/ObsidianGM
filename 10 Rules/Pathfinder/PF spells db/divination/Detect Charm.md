@@ -1,35 +1,18 @@
 ---
 File: Detect Charm
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, inquisitor: 1, medium: 1, mesmerist: 1, occultist: 1, paladin: 1, psychic: 1, shaman: 1, sorcerer: 1, wizard: 1, spiritualist: 1, witch: 1 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: concentration, up to 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

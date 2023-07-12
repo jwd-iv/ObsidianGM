@@ -6,30 +6,15 @@ Aspects: [ evil ]
 ClassList: { cleric: 6, oracle: 6, sorcerer: 6, wizard: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
 Effect: a vestige of the archdevil Mammon imbues a coin with a negotiable degree of power
-Targets: 
 Duration: instantaneous (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: valuable offerings; see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[AP 30](http://www.d20pfsrd.com/magic/all-spells/g/g/genius-avaricious)"
 ---

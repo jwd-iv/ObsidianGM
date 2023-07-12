@@ -1,35 +1,15 @@
 ---
 File: Bouncy Body
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, bloodrager: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

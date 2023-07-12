@@ -6,30 +6,14 @@ Aspects: [ water ]
 ClassList: { sorcerer: 0, wizard: 0 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object of size Large or smaller
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Paizo Blog"
 ---

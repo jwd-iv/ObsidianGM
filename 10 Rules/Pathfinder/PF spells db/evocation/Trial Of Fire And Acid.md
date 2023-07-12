@@ -1,35 +1,18 @@
 ---
 File: Trial Of Fire And Acid
 School: evocation
-Subschool: 
 Aspects: [ acid, fire ]
 ClassList: { bloodrager: 3, cleric: 3, oracle: 3, magus: 3, shaman: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

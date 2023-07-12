@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, druid: 2, medium: 2, mesmerist: 3, ranger: 2, shaman: 2 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a bit of musk from an alpha wolf or another socially dominant animal
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

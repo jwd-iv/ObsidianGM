@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, alchemist: 2, shaman: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Luck: 2, Tactics: 2 }
-GPCost: 
-Bloodline: 
 Patron: { Ancestors: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/aid)"
 ---

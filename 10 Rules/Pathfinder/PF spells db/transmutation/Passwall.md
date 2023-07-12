@@ -1,35 +1,20 @@
 ---
 File: Passwall
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, psychic: 5, mesmerist: 5 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: 5-ft.-by-8-ft. opening, 10 ft. deep plus 5 ft. deep per three additional levels
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: sesame seeds
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Deception: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/passwall)"
 ---

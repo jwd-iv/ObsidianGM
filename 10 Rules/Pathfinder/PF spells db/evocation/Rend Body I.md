@@ -1,35 +1,16 @@
 ---
 File: Rend Body I
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { psychic: 5 }
 CastTime: full-round action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (see text)
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Psychic Anthology"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Control Weather
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, druid: 7, sorcerer: 7, wizard: 7, witch: 7, shaman: 7 }
 CastTime: 10 minutes; see text
 Range: 2 miles
 Area: 2-mile-radius circle, centered on you; see text
-Effect: 
-Targets: 
 Duration: 4d12 hours; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Catastrophe: 7, Weather: 7 }
-GPCost: 
 Bloodline: { Stormborn: 15 }
 Patron: { Winter: 14, Storms: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/control-weather)"
 ---

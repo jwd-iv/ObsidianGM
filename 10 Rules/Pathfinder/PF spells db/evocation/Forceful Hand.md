@@ -1,35 +1,20 @@
 ---
 File: Forceful Hand
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 6, wizard: 6, magus: 6, occultist: 6, psychic: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft. hand
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/forceful-hand)"
 ---

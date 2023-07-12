@@ -1,35 +1,19 @@
 ---
 File: Angelic Aspect, Greater
 School: transmutation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 8, oracle: 8, paladin: 4, sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Champions Of Purity"
 ---

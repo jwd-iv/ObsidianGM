@@ -6,30 +6,15 @@ Aspects: [ emotion, mind-affecting ]
 ClassList: { alchemist: 3, bard: 3, bloodrager: 3, mesmerist: 3, psychic: 4, sorcerer: 4, wizard: 4, summoner: 3, witch: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one willing living creature per 3 levels, no two of which can be more than 30 ft. apart
 Duration: concentration + 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

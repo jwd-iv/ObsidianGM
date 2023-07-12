@@ -2,34 +2,17 @@
 File: Die For Your Master
 School: enchantment
 Subschool: compulsion
-Aspects: 
 ClassList: { antipaladin: 4, druid: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: immediate action
 Range: touch
-Area: 
-Effect: 
 Targets: your animal companion, familiar, or fiendish servant
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Animal Archive"
 ---

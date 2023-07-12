@@ -1,34 +1,19 @@
 ---
 File: Boiling Blood
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2, bloodrager: 2, psychic: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature per three levels, no two of which may be more than 30 ft. apart
 Duration: concentration + 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/b/boiling-blood)"
 ---

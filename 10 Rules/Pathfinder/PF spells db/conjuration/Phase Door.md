@@ -2,34 +2,18 @@
 File: Phase Door
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, witch: 7, psychic: 7 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: ethereal 5-ft.-by-8-ft. opening, 10 ft. deep + 5 ft. deep per three levels
-Targets: 
 Duration: one usage per two levels
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Travel: 8 }
-GPCost: 
 Bloodline: { Fey: 15 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/phase-door)"
 ---

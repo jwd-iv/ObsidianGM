@@ -1,35 +1,18 @@
 ---
 File: Corpse Hammer
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: sphere of undead remains composed of 3 or more destroyed undead
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a leather glove coated in dried embalming herbs
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Frosthammer
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { antipaladin: 3, cleric: 3, inquisitor: 3, ranger: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Kostchtchie
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 69"
 ---

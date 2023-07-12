@@ -6,30 +6,17 @@ Aspects: [ see text ]
 ClassList: { cleric: 4, oracle: 4, shaman: 4, psychic: 4, medium: 3 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one called outsider of 6 HD or less
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: offerings worth 500 gp plus payment, see text
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/planar-ally)"
 ---

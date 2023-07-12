@@ -6,30 +6,19 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, sorcerer: 4, wizard: 4, witch: 4, bloodrager: 4, occultist: 4, psychic: 4, mesmerist: 3, spiritualist: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: all creatures in a 15-ft.-radius burst
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: three nutshells
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Lust: 4, Madness: 4, Trickery: 4, Entropy: 5, Riot: 4, Whimsy: 4 }
-GPCost: 
 Bloodline: { Impossible: 9, Protean: 9 }
 Patron: { Deception: 8, Insanity: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/confusion)"
 ---

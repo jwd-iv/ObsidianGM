@@ -2,34 +2,18 @@
 File: Open And Shut
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 1, inquisitor: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: swift action
 Range: touch
-Area: 
-Effect: 
 Targets: one door, window, or similar portal no more than 10 feet by 10 feet in area
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

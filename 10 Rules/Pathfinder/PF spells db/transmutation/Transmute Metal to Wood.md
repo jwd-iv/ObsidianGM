@@ -1,35 +1,18 @@
 ---
 File: Transmute Metal to Wood
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 7 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: all metal objects within a 40-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (object; see text)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/transmute-metal-to-wood)"
 ---

@@ -2,34 +2,20 @@
 File: Teleportation Circle
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9, summoner: 6, unchained summoner: 6, witch: 9, psychic: 9 }
 CastTime: 10 minutes
 Range: 0 ft.
-Area: 
 Effect: 5-ft.-radius circle that teleports those who activate it
-Targets: 
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
-  S: 
   M: amber dust to cover circle worth 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Rune: 9 }
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/teleportation-circle)"
 ---

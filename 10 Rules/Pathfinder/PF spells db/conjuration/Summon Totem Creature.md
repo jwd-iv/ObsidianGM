@@ -2,34 +2,21 @@
 File: Summon Totem Creature
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, ranger: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one summoned creature
-Targets: 
 Duration: 1 hour
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a piece of bone from any one of your totem animals
-  F: 
   DF: yes
 Deity: Shoanti
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Humans Of Golarion"
 ---

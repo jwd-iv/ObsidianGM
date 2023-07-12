@@ -1,35 +1,18 @@
 ---
 File: Open/Close
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 0, sorcerer: 0, wizard: 0, summoner: 0, unchained summoner: 0, magus: 0, occultist: 0, psychic: 0, mesmerist: 0, spiritualist: 0, medium: 0 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: object weighing up to 30 lbs. or portal that can be opened or closed
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/o/open-close)"
 ---

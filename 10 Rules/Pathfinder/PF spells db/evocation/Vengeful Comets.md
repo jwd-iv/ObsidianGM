@@ -1,35 +1,18 @@
 ---
 File: Vengeful Comets
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { druid: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: 1 comet per 4 levels
-Targets: 
 Duration: 1 round/level or until completely discharged (see below)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

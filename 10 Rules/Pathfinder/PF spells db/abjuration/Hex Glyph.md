@@ -1,35 +1,21 @@
 ---
 File: Hex Glyph
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { shaman: 3, witch: 3 }
 CastTime: 10 minutes
 Range: touch
 Area: object touched or up to 5 sq. ft./level
-Effect: 
 Targets: object touched or up to 5 sq. ft./level
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: no (object) and yes (see text)
 Components:
   V: yes
   S: yes
   M: powdered diamond worth 200 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 200
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

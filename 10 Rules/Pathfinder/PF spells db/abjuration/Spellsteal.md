@@ -1,35 +1,17 @@
 ---
 File: Spellsteal
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, witch: 5, psychic: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous and see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

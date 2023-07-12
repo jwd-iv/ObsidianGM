@@ -1,35 +1,20 @@
 ---
 File: Detonate
 School: evocation
-Subschool: 
 Aspects: [ acid, cold, electricity, or fire ]
 ClassList: { alchemist: 4, sorcerer: 4, wizard: 4, magus: 4, bloodrager: 4 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft.-radius spread centered on you
-Effect: 
-Targets: 
 Duration: 1 round, then instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: two vials; one containing acid and one containing an alkaline solution worth a total of 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/detonate)"
 ---

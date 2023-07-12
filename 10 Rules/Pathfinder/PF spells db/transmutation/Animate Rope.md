@@ -1,35 +1,19 @@
 ---
 File: Animate Rope
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1, psychic: 1, mesmerist: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one rope-like object, length up to 50 ft. + 5 ft./level; see text
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Artifice: 1 }
-GPCost: 
-Bloodline: 
 Patron: { Trickery: 2 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/animate-rope)"
 ---

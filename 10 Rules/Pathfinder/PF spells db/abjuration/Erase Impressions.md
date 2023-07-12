@@ -1,35 +1,16 @@
 ---
 File: Erase Impressions
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { medium: 3, mesmerist: 4, occultist: 3, psychic: 5, spiritualist: 4 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

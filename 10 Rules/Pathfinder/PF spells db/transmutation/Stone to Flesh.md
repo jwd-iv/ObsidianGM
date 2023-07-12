@@ -1,35 +1,18 @@
 ---
 File: Stone to Flesh
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, witch: 6, magus: 6, shaman: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one petrified creature or a cylinder of stone from 1 ft. to 3 ft. in diameter and up to 10 ft. long
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object); see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of blood mixed with earth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/stone-to-flesh)"
 ---

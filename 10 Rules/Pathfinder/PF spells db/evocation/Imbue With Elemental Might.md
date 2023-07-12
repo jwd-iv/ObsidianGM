@@ -1,35 +1,19 @@
 ---
 File: Imbue With Elemental Might
 School: evocation
-Subschool: 
 Aspects: [ see text ]
 ClassList: { cleric: 2, oracle: 2, magus: 2, sorcerer: 2, wizard: 2, bloodrager: 2, shaman: 2 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched; see text
 Duration: 24 hours or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

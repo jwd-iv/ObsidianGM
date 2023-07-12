@@ -1,35 +1,17 @@
 ---
 File: Reveal Emotions
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { medium: 3, mesmerist: 4, occultist: 4, psychic: 4, spiritualist: 4 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
 Area: 40-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The High Court"
 ---

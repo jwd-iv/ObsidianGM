@@ -2,34 +2,18 @@
 File: Duplicate Familiar
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { alchemist: 4, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: temporary duplicate of familiar touched
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: no
 Components:
   V: yes
   S: yes
   M: alchemically preserved mockingfey feathers
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Familiar Folio"
 ---

@@ -2,34 +2,16 @@
 File: Deceptive Redundancy
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 5, mesmerist: 5, psychic: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 10 minutes/level or until triggered, then 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Reprobation
 School: transmutation
-Subschool: 
 Aspects: [ curse, see text ]
 ClassList: { cleric: 5, oracle: 5, druid: 5, inquisitor: 4, paladin: 4 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature of your faith
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/r/reprobation)"
 ---

@@ -2,34 +2,20 @@
 File: Reincarnate Spy
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { druid: 6, shaman: 6, witch: 7 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: oils worth 2,500 gp and a possession or piece of the body of the creature to resemble
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 2500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

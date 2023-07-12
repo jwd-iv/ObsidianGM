@@ -1,35 +1,19 @@
 ---
 File: Agonize
 School: evocation
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 3, oracle: 3, sorcerer: 4, wizard: 4, occultist: 3, psychic: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one conjured outsider or elemental (see text)
 Duration: 1 full round
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Kyton: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/a/a/agonize)"
 ---

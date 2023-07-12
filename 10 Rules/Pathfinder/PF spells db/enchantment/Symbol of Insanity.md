@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, witch: 8, occultist: 6 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 5000
-Bloodline: 
 Patron: { Insanity: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-insanity)"
 ---

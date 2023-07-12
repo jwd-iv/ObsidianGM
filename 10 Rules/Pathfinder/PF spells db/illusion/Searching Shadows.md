@@ -6,30 +6,14 @@ Aspects: [ shadowUM ]
 ClassList: { bard: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: shadows in a 10-foot-radius spread
-Targets: 
 Duration: concentration
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

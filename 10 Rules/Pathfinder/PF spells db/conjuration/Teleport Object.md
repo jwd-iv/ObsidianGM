@@ -2,34 +2,16 @@
 File: Teleport Object
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, witch: 7, psychic: 7 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object of up to 50 lbs./level and 3 cu. ft./level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/teleport-object)"
 ---

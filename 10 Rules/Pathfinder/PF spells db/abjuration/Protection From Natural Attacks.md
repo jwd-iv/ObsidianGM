@@ -1,35 +1,19 @@
 ---
 File: Protection From Natural Attacks
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, druid: 4, psychic: 4, ranger: 2, shaman: 4, spiritualist: 3, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a scale from a lizard
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Hunter's Handbook"
 ---

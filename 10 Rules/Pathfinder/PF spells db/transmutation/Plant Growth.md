@@ -1,35 +1,20 @@
 ---
 File: Plant Growth
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 3 }
 CastTime: standard action
 Range: see text
 Area: see text
-Effect: 
 Targets: see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Plant: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/plant-growth)"
 ---

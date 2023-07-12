@@ -1,35 +1,19 @@
 ---
 File: Burning Arc
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one primary target plus one additional target/3 levels  (each of which must be within 15 ft. of the primary target)
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Keleshite
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Humans Of Golarion"
 ---

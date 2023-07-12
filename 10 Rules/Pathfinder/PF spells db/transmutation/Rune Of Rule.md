@@ -1,35 +1,19 @@
 ---
 File: Rune Of Rule
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, occultist: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 day or until activated (see description)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: vial of paint worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

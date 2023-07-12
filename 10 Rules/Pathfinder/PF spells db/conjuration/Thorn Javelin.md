@@ -6,30 +6,16 @@ Aspects: [ poison ]
 ClassList: { druid: 1, ranger: 1, shaman: 1 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: javelin-like thorn
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Thorns: 2 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

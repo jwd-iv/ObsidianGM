@@ -1,35 +1,19 @@
 ---
 File: Sign Of Wrath
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { cleric: 6, oracle: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: personal
 Area: 25-ft.-radius burst centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "RotRL-AE-Appendix"
 ---

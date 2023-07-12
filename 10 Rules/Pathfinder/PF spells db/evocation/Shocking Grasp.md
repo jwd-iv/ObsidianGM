@@ -1,33 +1,21 @@
 ---
 File: Shocking Grasp
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { sorcerer: 1, wizard: 1, magus: 1, bloodrager: 1, occultist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
 Bloodline: { Djinni: 3, Stormborn: 3 }
 Patron: { Elements: 2 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shocking-grasp)"
 ---

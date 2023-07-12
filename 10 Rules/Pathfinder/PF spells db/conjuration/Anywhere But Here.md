@@ -2,34 +2,16 @@
 File: Anywhere But Here
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { magus: 4, psychic: 4, sorcerer: 4, wizard: 4, summoner: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: you and up to four willing creatures, none of whom can be on their home plane
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

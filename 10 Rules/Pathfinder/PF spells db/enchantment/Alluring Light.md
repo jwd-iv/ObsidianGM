@@ -7,29 +7,13 @@ ClassList: { bard: 1, witch: 1 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 134"
 ---

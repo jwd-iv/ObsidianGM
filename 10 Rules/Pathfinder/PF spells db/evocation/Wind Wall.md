@@ -1,35 +1,22 @@
 ---
 File: Wind Wall
 School: evocation
-Subschool: 
 Aspects: [ air ]
 ClassList: { cleric: 3, oracle: 3, druid: 3, ranger: 2, sorcerer: 3, wizard: 3, summoner: 2, magus: 3, bloodrager: 3, shaman: 3, occultist: 3, spiritualist: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: wall up to 10 ft./level long and 5 ft./level high (S)
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a tiny fan and an exotic feather
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Air: 2 }
-GPCost: 
-Bloodline: 
 Patron: { Peace: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wind-wall)"
 ---

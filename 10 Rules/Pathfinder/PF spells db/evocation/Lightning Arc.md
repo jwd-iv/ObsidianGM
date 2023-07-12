@@ -1,33 +1,20 @@
 ---
 File: Lightning Arc
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: two creatures or objects which must be no more than 60 ft. apart
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes (see text)
 Components:
   V: yes
   S: yes
   M: fur and two glass figurines
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/l/lightning-arc)"
 ---

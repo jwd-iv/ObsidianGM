@@ -1,35 +1,17 @@
 ---
 File: Transfer Regeneration
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, shaman: 3, witch: 3, psychic: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 willing living creature
 Duration: 1 minute
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

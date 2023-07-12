@@ -1,34 +1,19 @@
 ---
 File: Prismatic Sphere
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: 10 ft.
-Area: 
 Effect: 10-ft.-radius sphere centered on you
-Targets: 
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: see text
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Artifice: 9, Protection: 9, Sun: 9 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/prismatic-sphere)"
 ---

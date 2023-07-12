@@ -1,35 +1,17 @@
 ---
 File: Staggering Fall
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: immediate action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one falling creature
 Duration: 1 round/level (see below)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fort. partial (see below)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Rival Guide"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Purge Spirit
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { medium: 2, occultist: 2, psychic: 3, sorcerer: 4, wizard: 4, spiritualist: 2, witch: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature or haunt
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

@@ -2,32 +2,20 @@
 File: Grease
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, magus: 1, mesmerist: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one object or 10-ft. square
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
   M: butter
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/grease)"
 ---

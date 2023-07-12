@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { cleric: 6, oracle: 6, sorcerer: 6, wizard: 6, witch: 6, occultist: 4, mesmerist: 6 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Revolution: 6, Tyranny: 7 }
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-persuasion)"
 ---

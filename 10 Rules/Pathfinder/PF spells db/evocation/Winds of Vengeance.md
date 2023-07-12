@@ -1,35 +1,19 @@
 ---
 File: Winds of Vengeance
 School: evocation
-Subschool: 
 Aspects: [ air ]
 ClassList: { cleric: 9, oracle: 9, druid: 9, sorcerer: 9, wizard: 9, shaman: 9 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 9
 Domains: { Wind: 9 }
-GPCost: 
-Bloodline: 
 Patron: { Vengeance: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/w/winds-of-vengeance)"
 ---

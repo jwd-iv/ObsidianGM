@@ -1,35 +1,19 @@
 ---
 File: Symbol of Slowing
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, sorcerer: 4, wizard: 4, witch: 4, occultist: 3 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-slowing)"
 ---

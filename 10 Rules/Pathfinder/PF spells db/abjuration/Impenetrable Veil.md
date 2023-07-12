@@ -1,35 +1,19 @@
 ---
 File: Impenetrable Veil
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 6, mesmerist: 6, psychic: 9, sorcerer: 9, wizard: 9, spiritualist: 6, witch: 9 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: dust from the Dimension of Dreams worth 1,250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 1250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

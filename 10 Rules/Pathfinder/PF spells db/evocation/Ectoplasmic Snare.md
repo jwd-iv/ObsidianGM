@@ -1,35 +1,20 @@
 ---
 File: Ectoplasmic Snare
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { magus: 3, psychic: 3, shaman: 3, sorcerer: 3, wizard: 3, spiritualist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: entangling web of ectoplasm
-Targets: 
 Duration: concentration, up to 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
 Bloodline: { Ectoplasm: 7 }
 Patron: { Ethereal: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

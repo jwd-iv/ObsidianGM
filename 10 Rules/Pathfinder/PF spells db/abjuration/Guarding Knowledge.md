@@ -1,35 +1,18 @@
 ---
 File: Guarding Knowledge
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, bard: 3, cleric: 3, oracle: 3, inquisitor: 2, occultist: 3, psychic: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: see text
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Hunter's Handbook"
 ---

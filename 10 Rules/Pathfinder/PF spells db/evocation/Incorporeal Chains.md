@@ -1,35 +1,17 @@
 ---
 File: Incorporeal Chains
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { psychic: 6, spiritualist: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one incorporeal creature/level, no two of which can be more than 30 ft. apart
 Duration: concentration
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

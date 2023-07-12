@@ -1,35 +1,17 @@
 ---
 File: Escape Alarm
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, inquisitor: 2, occultist: 2, psychic: 2, ranger: 2, sorcerer: 2, wizard: 2, spiritualist: 2, summoner: 2, unchained summoner: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: ten 10-foot cubes/level
-Effect: 
-Targets: 
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

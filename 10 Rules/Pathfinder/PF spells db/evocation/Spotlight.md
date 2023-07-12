@@ -1,35 +1,19 @@
 ---
 File: Spotlight
 School: evocation
-Subschool: 
 Aspects: [ darkness, light ]
 ClassList: { bard: 3, cleric: 3, oracle: 3, druid: 3, inquisitor: 3, magus: 3, occultist: 3, paladin: 3, shaman: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

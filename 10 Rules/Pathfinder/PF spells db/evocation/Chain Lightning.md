@@ -1,34 +1,21 @@
 ---
 File: Chain Lightning
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { sorcerer: 6, wizard: 6, witch: 7, magus: 6, occultist: 6 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Air: 6 }
-GPCost: 
 Bloodline: { Djinni: 13, Stormborn: 13 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/chain-lightning)"
 ---

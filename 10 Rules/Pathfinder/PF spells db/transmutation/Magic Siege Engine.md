@@ -1,35 +1,18 @@
 ---
 File: Magic Siege Engine
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 2, cleric: 2, oracle: 2, inquisitor: 2, paladin: 2, sorcerer: 2, wizard: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one siege engine touched
 Duration: 1 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/m/magic-siege-engine)"
 ---

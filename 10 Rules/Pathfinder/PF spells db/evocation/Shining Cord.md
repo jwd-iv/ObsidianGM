@@ -1,35 +1,20 @@
 ---
 File: Shining Cord
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { magus: 3 }
 CastTime: standard action
 Range: 30 ft.
-Area: 
-Effect: 
 Targets: 1 creature
 Duration: 1 round/level or instantaneous (see below)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (see below)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a small length fine of silver chain worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

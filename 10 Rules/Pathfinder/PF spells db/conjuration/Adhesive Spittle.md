@@ -2,34 +2,17 @@
 File: Adhesive Spittle
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { alchemist: 1, sorcerer: 1, wizard: 1, witch: 1, psychic: 1 }
 CastTime: standard action
 Range: 15 ft.
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level or until discharged (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

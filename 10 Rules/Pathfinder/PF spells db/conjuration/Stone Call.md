@@ -7,29 +7,16 @@ ClassList: { druid: 2, ranger: 2, sorcerer: 2, wizard: 2, magus: 2, bloodrager: 
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: cylinder (40-ft. radius, 20 ft. high)
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Ruins: 2 }
-GPCost: 
-Bloodline: 
 Patron: { Mountain: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/stone-call)"
 ---

@@ -2,34 +2,15 @@
 File: Horrific Doubles
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 4, bloodrager: 4, medium: 3, mesmerist: 4, psychic: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

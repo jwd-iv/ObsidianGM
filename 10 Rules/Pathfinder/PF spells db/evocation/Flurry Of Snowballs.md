@@ -1,35 +1,18 @@
 ---
 File: Flurry Of Snowballs
 School: evocation
-Subschool: 
 Aspects: [ cold, water ]
 ClassList: { druid: 2, magus: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: 30 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 67"
 ---

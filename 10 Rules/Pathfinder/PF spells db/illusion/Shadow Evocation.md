@@ -6,30 +6,16 @@ Aspects: [ shadow ]
 ClassList: { bard: 5, sorcerer: 5, wizard: 5, mesmerist: 5, spiritualist: 5 }
 CastTime: standard action
 Range: see text
-Area: 
 Effect: see text
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Shadow: 11 }
 Patron: { Shadow: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shadow-evocation)"
 ---

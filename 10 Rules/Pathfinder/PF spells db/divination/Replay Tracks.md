@@ -1,35 +1,15 @@
 ---
 File: Replay Tracks
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, inquisitor: 4, medium: 3, occultist: 3, psychic: 5, ranger: 2 }
 CastTime: 3 rounds
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: concentration, up to 1 hour/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

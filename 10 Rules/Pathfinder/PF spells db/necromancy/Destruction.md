@@ -1,35 +1,21 @@
 ---
 File: Destruction
 School: necromancy
-Subschool: 
 Aspects: [ death ]
 ClassList: { cleric: 7, oracle: 7, witch: 8, shaman: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Death: 7, Repose: 7, Entropy: 7 }
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/destruction)"
 ---

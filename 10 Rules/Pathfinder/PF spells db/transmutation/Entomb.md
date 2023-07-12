@@ -1,35 +1,20 @@
 ---
 File: Entomb
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { druid: 8, shaman: 8, sorcerer: 8, wizard: 8 }
 CastTime: 1 minute
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: up to three 10-ft. cubes/level (S)
-Targets: 
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a pristine geode worth at least 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

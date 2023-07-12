@@ -1,35 +1,19 @@
 ---
 File: Selective Alarm
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, inquisitor: 3, occultist: 3, psychic: 3, ranger: 2, sorcerer: 3, wizard: 3, spiritualist: 3, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: up to 20-ft.-radius emanation centered on a point in space
-Effect: 
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

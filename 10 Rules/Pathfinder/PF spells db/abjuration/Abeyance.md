@@ -1,35 +1,20 @@
 ---
 File: Abeyance
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, paladin: 2 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a flask of holy water worth 25 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 82"
 ---

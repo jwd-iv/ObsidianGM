@@ -1,35 +1,20 @@
 ---
 File: Mathematical Curse
 School: necromancy
-Subschool: 
 Aspects: [ curse ]
 ClassList: { antipaladin: 2, bard: 2, cleric: 3, oracle: 3, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one living creature
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a full set of 10 fingernails
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Mysteries"
 ---

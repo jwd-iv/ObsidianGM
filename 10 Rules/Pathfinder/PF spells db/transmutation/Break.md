@@ -1,33 +1,19 @@
 ---
 File: Break
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1, bloodrager: 1, occultist: 1, psychic: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Medium or smaller object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a twig
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/break)"
 ---

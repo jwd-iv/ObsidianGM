@@ -1,35 +1,19 @@
 ---
 File: Ghoul touch
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, bloodrager: 2, spiritualist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living humanoid touched
 Duration: 1d6+2 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: cloth from a ghoul or earth from a ghoul's lair
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Undead: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/ghoul-touch)"
 ---

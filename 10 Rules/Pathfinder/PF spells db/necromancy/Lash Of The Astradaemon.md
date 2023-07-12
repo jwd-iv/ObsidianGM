@@ -1,35 +1,17 @@
 ---
 File: Lash Of The Astradaemon
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 6, oracle: 6, magus: 5, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

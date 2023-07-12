@@ -1,35 +1,16 @@
 ---
 File: Wild Instinct
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 2, druid: 2, ranger: 2, shaman: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 8 hours
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Wild"
 ---

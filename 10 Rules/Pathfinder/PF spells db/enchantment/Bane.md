@@ -7,28 +7,16 @@ ClassList: { antipaladin: 1, cleric: 1, oracle: 1, inquisitor: 1, shaman: 1, mes
 CastTime: standard action
 Range: 50 ft.
 Area: 50-ft.-radius burst, centered on you
-Effect: 
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Curse: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/bane)"
 ---

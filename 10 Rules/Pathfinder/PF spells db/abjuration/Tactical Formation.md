@@ -1,35 +1,18 @@
 ---
 File: Tactical Formation
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, paladin: 3, ranger: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: up to one creature/level, no two of which may be more than 30 ft. apart
-Effect: 
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Torag
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dwarves of Golarion"
 ---

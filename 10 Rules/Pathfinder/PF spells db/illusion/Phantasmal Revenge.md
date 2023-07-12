@@ -6,30 +6,15 @@ Aspects: [ fear, mind-affecting, emotion ]
 ClassList: { sorcerer: 7, wizard: 7, psychic: 7, mesmerist: 6 }
 CastTime: standard action
 Range: touch and unlimited; see text
-Area: 
-Effect: 
 Targets: dead body touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief then Fortitude partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Vengeance: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/p/phantasmal-revenge)"
 ---

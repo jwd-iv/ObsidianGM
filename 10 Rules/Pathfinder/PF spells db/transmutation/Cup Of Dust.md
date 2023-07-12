@@ -1,34 +1,20 @@
 ---
 File: Cup Of Dust
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, witch: 3, occultist: 3, psychic: 3, mesmerist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of dust
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/cup-of-dust)"
 ---

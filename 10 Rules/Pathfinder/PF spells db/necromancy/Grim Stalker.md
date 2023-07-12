@@ -6,29 +6,17 @@ Aspects: [ death, emotionUM, fear, mind-affecting ]
 ClassList: { cleric: 7, oracle: 7, magus: 6, shaman: 7, sorcerer: 7, wizard: 7, summoner: 6, unchained summoner: 6, witch: 7 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: one object touched
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (object); see text
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a hound's fang
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 30 (to see a black dog darting toward the target out of the corner of the eye)  hp 4 hp/level; Trigger touch (object); Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

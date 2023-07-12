@@ -1,35 +1,22 @@
 ---
 File: Shield of Law
 School: abjuration
-Subschool: 
 Aspects: [ lawful ]
 ClassList: { cleric: 8, oracle: 8 }
 CastTime: standard action
 Range: 20 ft.
-Area: 
-Effect: 
 Targets: one creature/level in a 20-ft.-radius burst centered on you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Law: 8 }
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shield-of-law)"
 ---

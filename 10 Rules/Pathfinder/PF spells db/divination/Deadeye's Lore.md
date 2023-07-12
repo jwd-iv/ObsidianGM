@@ -1,35 +1,15 @@
 ---
 File: Deadeye's Lore
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, druid: 1, inquisitor: 1, ranger: 1 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/d/deadeye's-lore)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Ceremony
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1 }
 CastTime: 8 hours
 Range: touch or medium (100 + 10 ft./level); see text
-Area: 
-Effect: 
 Targets: willing, living creature or creatures touched or one creature/level (see text)
 Duration: 1 hour/level or 1 day/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Quests and Campaigns"
 ---

@@ -1,35 +1,16 @@
 ---
 File: Elemental Mastery
 School: transmutation
-Subschool: 
 Aspects: [ see text ]
 ClassList: { bloodrager: 4, druid: 4, magus: 4, ranger: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

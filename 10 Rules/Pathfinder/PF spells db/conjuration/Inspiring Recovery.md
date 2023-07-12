@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { cleric: 6, oracle: 6, inquisitor: 6, paladin: 4, ranger: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one target creature and all its allies within 60 feet; see text
 Duration: instantaneous and 1 minute
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Healer's Handbook"
 ---

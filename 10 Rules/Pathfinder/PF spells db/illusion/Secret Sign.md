@@ -2,34 +2,18 @@
 File: Secret Sign
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 1, inquisitor: 1, shaman: 1, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature or object
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: a lemon peel
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

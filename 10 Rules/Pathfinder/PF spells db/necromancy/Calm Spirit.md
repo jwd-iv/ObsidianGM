@@ -1,35 +1,17 @@
 ---
 File: Calm Spirit
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, medium: 1, shaman: 2, spiritualist: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one incorporeal undead creature or haunt
 Duration: 1 minute or 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates or none; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

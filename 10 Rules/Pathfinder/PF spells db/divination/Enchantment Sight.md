@@ -1,35 +1,16 @@
 ---
 File: Enchantment Sight
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, bard: 2, cleric: 2, oracle: 2, inquisitor: 2, medium: 2, mesmerist: 2, occultist: 2, paladin: 2, psychic: 2, sorcerer: 2, wizard: 2, spiritualist: 2, witch: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The High Court"
 ---

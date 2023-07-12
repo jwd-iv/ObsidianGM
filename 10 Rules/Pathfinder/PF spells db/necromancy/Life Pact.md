@@ -1,35 +1,19 @@
 ---
 File: Life Pact
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, shaman: 2, sorcerer: 2, wizard: 2, witch: 2, psychic: 2, spiritualist: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing living creature/level, no two of which can be more than 30 ft. apart
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of blood from each target
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

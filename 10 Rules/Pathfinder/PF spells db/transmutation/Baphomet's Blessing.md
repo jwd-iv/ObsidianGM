@@ -2,34 +2,18 @@
 File: Baphomet's Blessing
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, druid: 4, sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
-  S: 
   M: powdered bull's horn
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

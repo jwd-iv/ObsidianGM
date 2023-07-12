@@ -1,35 +1,22 @@
 ---
 File: Horrid Wilting
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, witch: 8, shaman: 8 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: living creatures, no two of which can be more than 60 ft. apart
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a bit of sponge
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Water: 8, Radiation: 4, Plague: 8 }
-GPCost: 
 Bloodline: { Pestilence: 17, Undead: 17, Daemon: 17 }
 Patron: { Moon: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/horrid-wilting)"
 ---

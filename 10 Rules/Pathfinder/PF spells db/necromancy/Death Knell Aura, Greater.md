@@ -1,35 +1,19 @@
 ---
 File: Death Knell Aura, Greater
 School: necromancy
-Subschool: 
 Aspects: [ death, evil ]
 ClassList: { cleric: 6, oracle: 6, inquisitor: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: standard action
 Range: 20 ft.
 Area: 20-ft.-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horsemen Of The Apocalypse"
 ---

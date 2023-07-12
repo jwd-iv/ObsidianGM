@@ -1,35 +1,19 @@
 ---
 File: Blood Song
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { bard: 4 }
 CastTime: 2 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched; see text
 Duration: 1 day or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: the caster's blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faiths & Philosophies"
 ---

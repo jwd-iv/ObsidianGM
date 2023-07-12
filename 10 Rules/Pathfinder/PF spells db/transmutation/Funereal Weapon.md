@@ -1,35 +1,18 @@
 ---
 File: Funereal Weapon
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1, occultist: 1, paladin: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: weapon touched or 50 projectiles (all of which must be together at the time of casting)
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

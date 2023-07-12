@@ -1,35 +1,20 @@
 ---
 File: Sky Swim
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { cleric: 3, oracle: 3, druid: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: Large or smaller creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Gozreh
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

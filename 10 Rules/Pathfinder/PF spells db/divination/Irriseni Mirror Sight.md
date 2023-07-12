@@ -2,34 +2,17 @@
 File: Irriseni Mirror Sight
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 10 minutes
 Range: see text
-Area: 
 Effect: magical sensor
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 67"
 ---

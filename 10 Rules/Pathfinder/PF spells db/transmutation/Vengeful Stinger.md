@@ -6,30 +6,17 @@ Aspects: [ poison ]
 ClassList: { cleric: 6, oracle: 6, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5, witch: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a living wasp
-  F: 
   DF: yes
 Deity: Calistria
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

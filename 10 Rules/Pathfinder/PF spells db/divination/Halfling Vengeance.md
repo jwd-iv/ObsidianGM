@@ -1,35 +1,17 @@
 ---
 File: Halfling Vengeance
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, cleric: 2, oracle: 2, inquisitor: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one Small or smaller creature touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 131"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Artificer's Curse
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 6, cleric: 7, oracle: 7, inquisitor: 6, occultist: 6, shaman: 7, sorcerer: 7, wizard: 7, witch: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 magical item
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a blank scroll or page from a spellbook
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

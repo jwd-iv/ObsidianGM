@@ -1,35 +1,20 @@
 ---
 File: Elemental Aura
 School: evocation
-Subschool: 
 Aspects: [ acid, cold, electricity, or fire ]
 ClassList: { alchemist: 3, sorcerer: 3, wizard: 3, magus: 3, bloodrager: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
 Bloodline: { Boreal: 7 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/elemental-aura)"
 ---

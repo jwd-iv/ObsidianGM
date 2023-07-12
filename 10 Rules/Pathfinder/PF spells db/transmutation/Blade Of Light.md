@@ -1,35 +1,18 @@
 ---
 File: Blade Of Light
 School: transmutation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4, paladin: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one melee weapon
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

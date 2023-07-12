@@ -1,35 +1,18 @@
 ---
 File: Wall Of Silver
 School: abjuration
-Subschool: 
 Aspects: [ good ]
 ClassList: { bard: 5, cleric: 6, oracle: 6, inquisitor: 5, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: transparent wall 20 ft. high by up to 20 ft. long/level
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

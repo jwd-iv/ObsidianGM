@@ -1,35 +1,16 @@
 ---
 File: Skinsend
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, sorcerer: 2, wizard: 2, witch: 2, occultist: 2, psychic: 2 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/skinsend)"
 ---

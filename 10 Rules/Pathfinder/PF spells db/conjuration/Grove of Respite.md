@@ -2,34 +2,21 @@
 File: Grove of Respite
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { druid: 4, ranger: 4, shaman: 5 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 20-ft.-radius grove
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a leaf or blade of grass and a drop of water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Plant: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/g/grove-of-respite)"
 ---

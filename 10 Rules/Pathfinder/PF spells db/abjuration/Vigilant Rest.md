@@ -1,35 +1,19 @@
 ---
 File: Vigilant Rest
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 3, bard: 4, medium: 3, mesmerist: 4, occultist: 3, paladin: 3, psychic: 4, ranger: 3, shaman: 4, spiritualist: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 1 living creature touched
 Duration: 8 hours
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a handful of crushed glass
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

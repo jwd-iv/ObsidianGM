@@ -1,33 +1,23 @@
 ---
 File: Earthquake
 School: evocation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { cleric: 8, oracle: 8, druid: 8, shaman: 8, psychic: 8 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 80-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 round
-Dismissible: 
 Shapeable: yes
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Destruction: 8, Earth: 8, Ruins: 8 }
-GPCost: 
 Bloodline: { Deep Earth: 17, Div: 17 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/earthquake)"
 ---

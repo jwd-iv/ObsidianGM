@@ -1,35 +1,19 @@
 ---
 File: Light of Iomedae
 School: conjuration
-Subschool: 
 Aspects: [ good, light ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, paladin: 2 }
 CastTime: 1 minute
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: all undead in a 10-foot-radius spread
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

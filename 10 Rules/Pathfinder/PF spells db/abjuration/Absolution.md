@@ -1,35 +1,19 @@
 ---
 File: Absolution
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, paladin: 4 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a vial of holy water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

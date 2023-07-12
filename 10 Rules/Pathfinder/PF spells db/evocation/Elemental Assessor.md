@@ -1,35 +1,20 @@
 ---
 File: Elemental Assessor
 School: evocation
-Subschool: 
 Aspects: [ acid, cold, electricity, fire ]
 ClassList: { cleric: 6, oracle: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one elemental ray
-Targets: 
 Duration: 1d4+1 rounds (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: four needles
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Chronicle Of The Righteous"
 ---

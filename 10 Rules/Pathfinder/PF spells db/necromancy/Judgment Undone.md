@@ -1,35 +1,19 @@
 ---
 File: Judgment Undone
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, psychic: 9, shaman: 9 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one willing petitioner
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: diamonds worth 50,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 50000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

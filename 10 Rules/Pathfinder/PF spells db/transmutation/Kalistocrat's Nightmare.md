@@ -1,35 +1,19 @@
 ---
 File: Kalistocrat's Nightmare
 School: transmutation
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { alchemist: 2, bard: 2, cleric: 3, oracle: 3, inquisitor: 2, investigator: 2, magus: 2, occultist: 2, sorcerer: 3, wizard: 3, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 hour/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a copper piece
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

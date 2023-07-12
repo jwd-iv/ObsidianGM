@@ -1,35 +1,21 @@
 ---
 File: Morning Sun
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { cleric: 7, oracle: 7, druid: 7, inquisitor: 6, shaman: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 60-ft. radius
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates and Reflex half, see text
 SR: no
 Components:
   V: yes
   S: yes
   M: 500 gp worth of gold dust
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

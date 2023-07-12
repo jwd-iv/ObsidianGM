@@ -1,35 +1,19 @@
 ---
 File: Death Pact
 School: enchantment
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { bard: 5, mesmerist: 5, psychic: 6, witch: 6 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: one creature
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a contract signed in blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

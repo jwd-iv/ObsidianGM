@@ -2,34 +2,18 @@
 File: Unseen Engineers
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, summoner: 2, unchained summoner: 2, witch: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: a team of tiny, invisible engineers
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: materials required to construct the trap
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Kobolds Of Golarion"
 ---

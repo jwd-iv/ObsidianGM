@@ -1,35 +1,17 @@
 ---
 File: Catatonia
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, bard: 2, cleric: 3, oracle: 3, medium: 2, mesmerist: 2, psychic: 3, sorcerer: 3, wizard: 3, spiritualist: 2, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: willing creature touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

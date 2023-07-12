@@ -1,35 +1,16 @@
 ---
 File: Sense Vitals
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 2, bard: 2, ranger: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a drop of blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Nature's Paths
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, druid: 1, inquisitor: 1, ranger: 1, shaman: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature
 Duration: 8 hours
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a smooth stone
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

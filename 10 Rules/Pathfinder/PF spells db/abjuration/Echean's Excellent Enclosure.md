@@ -1,35 +1,21 @@
 ---
 File: Echean's Excellent Enclosure
 School: abjuration
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: touch
 Area: immobile 10-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: see text
 Components:
   V: yes
   S: yes
   M: a sphere of glass worth 100 gp and an iron nail, with which you pierce the glass on casting
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Rival Guide"
 ---

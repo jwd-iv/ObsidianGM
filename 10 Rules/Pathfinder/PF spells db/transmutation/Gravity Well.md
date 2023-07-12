@@ -1,35 +1,19 @@
 ---
 File: Gravity Well
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: no
 Components:
   V: yes
   S: yes
   M: a small lead weight
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dragonslayer's Handbook"
 ---

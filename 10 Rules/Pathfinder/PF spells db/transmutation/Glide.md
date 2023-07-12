@@ -1,35 +1,18 @@
 ---
 File: Glide
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, ranger: 1, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, witch: 2, shaman: 2, occultist: 2, psychic: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: until landing or 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a leaf
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/g/glide)"
 ---

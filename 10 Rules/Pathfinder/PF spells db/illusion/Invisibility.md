@@ -2,32 +2,24 @@
 File: Invisibility
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, alchemist: 2, summoner: 2, unchained summoner: 2, inquisitor: 2, antipaladin: 2, magus: 2, occultist: 2, psychic: 2, mesmerist: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: personal or touch
-Area: 
-Effect: 
 Targets: you or a creature or object weighing no more than 100 lbs./level
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless) or Will negates (harmless, object)
 SR: yes (harmless) or yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: an eyelash encased in gum arabic
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Trickery: 2 }
-GPCost: 
 Bloodline: { Arcane: 5, Djinni: 5, Oni: 5, Rakshasa: 5 }
 Patron: { Deception: 4, Spirits: 4 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)"
 ---

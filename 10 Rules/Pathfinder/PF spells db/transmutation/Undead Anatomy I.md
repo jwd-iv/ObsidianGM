@@ -2,34 +2,17 @@
 File: Undead Anatomy I
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 3, magus: 3, sorcerer: 3, wizard: 3, bloodrager: 3, spiritualist: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of the creature whose form you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/u/undead-anatomy-i)"
 ---

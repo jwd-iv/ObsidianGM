@@ -1,35 +1,19 @@
 ---
 File: Warp Metal
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { bloodrager: 4, cleric: 4, oracle: 4, druid: 4, medium: 4, occultist: 4, psychic: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 Small wooden object/level, all within a 20-ft. radius; see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a twisted wire
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

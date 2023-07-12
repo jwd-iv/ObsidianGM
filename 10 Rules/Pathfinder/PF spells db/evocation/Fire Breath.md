@@ -1,35 +1,19 @@
 ---
 File: Fire Breath
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { alchemist: 2, sorcerer: 2, wizard: 2, magus: 2, bloodrager: 2 }
 CastTime: standard action
 Range: 15 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: 1 round/level or until discharged; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a chili pepper
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/f/fire-breath)"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Gentle Repose
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, sorcerer: 3, wizard: 3, witch: 2, shaman: 2, occultist: 3, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: corpse touched
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: salt and a copper piece for each of the corpse's eyes
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Repose: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/gentle-repose)"
 ---

@@ -2,34 +2,21 @@
 File: Refuge
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, sorcerer: 9, wizard: 9, witch: 9, psychic: 8 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: permanent until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a prepared object worth 1,500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Community: 7, Liberation: 7 }
 GPCost: 1500
-Bloodline: 
 Patron: { Ancestors: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/refuge)"
 ---

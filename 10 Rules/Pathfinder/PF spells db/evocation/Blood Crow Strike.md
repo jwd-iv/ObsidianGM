@@ -1,34 +1,19 @@
 ---
 File: Blood Crow Strike
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { cleric: 4, oracle: 4 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/b/blood-crow-strike)"
 ---

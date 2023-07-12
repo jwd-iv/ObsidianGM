@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { alchemist: 5, bard: 4, medium: 4, mesmerist: 5, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one willing creature
-Targets: 
 Duration: 10 minutes/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

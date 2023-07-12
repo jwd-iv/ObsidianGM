@@ -1,35 +1,22 @@
 ---
 File: Create Undead
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 6, oracle: 6, sorcerer: 6, wizard: 6, shaman: 6, spiritualist: 6 }
 CastTime: 1 hour
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one corpse
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Death: 6, Evil: 6 }
 GPCost: 50
-Bloodline: 
 Patron: { Occult: 12, Plague: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/create-undead)"
 ---

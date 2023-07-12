@@ -1,35 +1,16 @@
 ---
 File: Meticulous Match
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, inquisitor: 3, occultist: 3, ranger: 3, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: two objects touched
-Duration: 
-Dismissible: 
-Shapeable: 
 SavingThrow: Fort negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

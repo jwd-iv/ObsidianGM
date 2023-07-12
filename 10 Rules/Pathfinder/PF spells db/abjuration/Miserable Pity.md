@@ -1,35 +1,18 @@
 ---
 File: Miserable Pity
 School: abjuration
-Subschool: 
 Aspects: [ emotion, mind-affecting ]
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, witch: 2, psychic: 2, mesmerist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level and 1 minute; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/m/miserable-pity)"
 ---

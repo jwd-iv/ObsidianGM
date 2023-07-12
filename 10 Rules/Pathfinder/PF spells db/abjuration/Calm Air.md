@@ -1,35 +1,19 @@
 ---
 File: Calm Air
 School: abjuration
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 4, sorcerer: 5, wizard: 5, summoner: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: cylinder (5-ft./level radius, 40 ft. high)
-Effect: 
-Targets: 
 Duration: 10 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (object)
 SR: no (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ranged Tactics Toolbox"
 ---

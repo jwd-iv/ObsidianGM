@@ -7,29 +7,14 @@ ClassList: { druid: 8, shaman: 8 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 60-ft. radius
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of dried red algae
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/b/blood-mist)|"
 ---

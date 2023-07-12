@@ -1,35 +1,18 @@
 ---
 File: Weapons Against Evil
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1, paladin: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one weapon/level, no two of which can be more than 20 ft. apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
   DF: yes
 Deity: Iomedae
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

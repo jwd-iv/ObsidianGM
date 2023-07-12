@@ -1,35 +1,16 @@
 ---
 File: Spirit-Bound Blade
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { medium: 4, occultist: 4, shaman: 4, spiritualist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: weapon touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: no
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
 Bloodline: { Ectoplasm: 9 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

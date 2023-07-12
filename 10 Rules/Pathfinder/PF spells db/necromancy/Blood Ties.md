@@ -1,35 +1,19 @@
 ---
 File: Blood Ties
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 4, cleric: 5, oracle: 5, druid: 5, inquisitor: 5, psychic: 5, shaman: 5, witch: 5 }
 CastTime: standard action
 Range: unlimited (see text)
-Area: 
-Effect: 
 Targets: two living creatures
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

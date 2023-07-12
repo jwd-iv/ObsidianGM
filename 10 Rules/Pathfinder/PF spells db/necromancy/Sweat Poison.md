@@ -1,35 +1,19 @@
 ---
 File: Sweat Poison
 School: necromancy
-Subschool: 
 Aspects: [ poison ]
 ClassList: { alchemist: 2, druid: 3, inquisitor: 3, ranger: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Beast"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Soulswitch
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, cleric: 5, oracle: 5, druid: 5, inquisitor: 5, magus: 5, shaman: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: you and your familiar
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Familiar Folio"
 ---

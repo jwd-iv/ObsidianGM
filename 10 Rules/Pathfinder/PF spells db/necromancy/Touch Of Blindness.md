@@ -1,35 +1,17 @@
 ---
 File: Touch Of Blindness
 School: necromancy
-Subschool: 
 Aspects: [ darkness, shadowUM ]
 ClassList: { antipaladin: 1, bard: 1, cleric: 1, oracle: 1, sorcerer: 1, wizard: 1, shaman: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or creatures touched (up to one/level)
 Duration: 1 round/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: Yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

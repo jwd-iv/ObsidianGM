@@ -1,35 +1,24 @@
 ---
 File: Repulsion
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, sorcerer: 6, wizard: 6, summoner: 5, inquisitor: 6, occultist: 6, psychic: 7, spiritualist: 6, unchained summoner: 6 }
 CastTime: standard action
 Range: up to 10 ft./level
 Area: up to 10-ft.-radius/level emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Nobility: 7, Protection: 7 }
 GPCost: 50
 Bloodline: { Imperious: 13, Starsoul: 13 }
 Patron: { Thorns: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/repulsion)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Ban Corruption
 School: abjuration
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 5, oracle: 5, inquisitor: 4, medium: 3, occultist: 4, paladin: 4, shaman: 5 }
 CastTime: standard action
-Range: 
 Area: 30-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: concentration plus 1 round/level, up to 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

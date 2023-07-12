@@ -1,35 +1,19 @@
 ---
 File: Lost Legacy
 School: enchantment
-Subschool: 
 Aspects: [ curseUM, mind-affecting ]
 ClassList: { bard: 6, cleric: 7, oracle: 7, inquisitor: 6, occultist: 6, psychic: 7, sorcerer: 7, wizard: 7, witch: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

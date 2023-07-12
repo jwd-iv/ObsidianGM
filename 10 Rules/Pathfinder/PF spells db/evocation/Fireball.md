@@ -1,33 +1,23 @@
 ---
 File: Fireball
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { sorcerer: 3, wizard: 3, magus: 3, bloodrager: 3, occultist: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 20-ft.-radius spread
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a ball of bat guano and sulfur
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Fire: 3 }
-GPCost: 
 Bloodline: { Efreeti: 7 }
 Patron: { Elements: 6 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/fireball)"
 ---

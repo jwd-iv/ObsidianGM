@@ -1,35 +1,18 @@
 ---
 File: Dispel Balance
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, inquisitor: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: you and a touched, neutral creature from another plane, or you and an enchantment on a touched creature or object
 Duration: 1 round/level or until discharged, whichever comes first
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

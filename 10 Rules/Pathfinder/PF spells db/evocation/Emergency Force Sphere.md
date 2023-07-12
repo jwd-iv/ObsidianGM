@@ -1,35 +1,18 @@
 ---
 File: Emergency Force Sphere
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 4, wizard: 4 }
 CastTime: immediate action
 Range: 5 ft.
-Area: 
 Effect: 5-ft.-radius hemisphere of force centered on you
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: None
 SR: No
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Cheliax Empire Of Devils](http://www.d20pfsrd.com/magic/all-spells/e/e/emergency-force-sphere)"
 ---

@@ -2,34 +2,18 @@
 File: Phantom Steed, Communal
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, summoner: 3, unchained summoner: 3, occultist: 4, spiritualist: 4 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: up to six quasi-real, horselike creatures
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/p/phantom-steed#TOC-Phantom-Steed-Communal)"
 ---

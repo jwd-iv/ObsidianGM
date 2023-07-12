@@ -1,35 +1,19 @@
 ---
 File: Magic Boulder
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { cleric: 2, oracle: 2, druid: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: up to three boulders touched
 Duration: 30 minutes or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

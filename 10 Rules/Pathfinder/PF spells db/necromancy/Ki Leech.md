@@ -1,35 +1,17 @@
 ---
 File: Ki Leech
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, witch: 3, psychic: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/k/ki-leech)"
 ---

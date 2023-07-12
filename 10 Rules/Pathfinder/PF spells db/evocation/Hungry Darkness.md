@@ -1,35 +1,20 @@
 ---
 File: Hungry Darkness
 School: evocation
-Subschool: 
 Aspects: [ darkness, force ]
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 60-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes (see text)
 Components:
   V: yes
   S: yes
   M: a bat's tooth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

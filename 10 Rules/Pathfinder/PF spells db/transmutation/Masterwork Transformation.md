@@ -1,35 +1,19 @@
 ---
 File: Masterwork Transformation
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, druid: 2, sorcerer: 2, wizard: 2, witch: 2, occultist: 2 }
 CastTime: 1 hour
 Range: touch
-Area: 
-Effect: 
 Targets: one weapon, suit of armor, shield, tool, or skill kit touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: see below
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Greed: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/m/masterwork-transformation)"
 ---

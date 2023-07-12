@@ -2,34 +2,17 @@
 File: Thought Echo
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { mesmerist: 1, psychic: 1 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

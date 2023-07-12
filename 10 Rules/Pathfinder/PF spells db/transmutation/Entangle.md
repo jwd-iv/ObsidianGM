@@ -1,34 +1,23 @@
 ---
 File: Entangle
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, ranger: 1, shaman: 1 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: plants in a 40-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Plant: 1 }
-GPCost: 
 Bloodline: { Fey: 3, Verdant: 3 }
 Patron: { Plant: 2 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/entangle)"
 ---

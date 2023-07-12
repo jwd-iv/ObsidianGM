@@ -1,33 +1,17 @@
 ---
 File: Harrowing
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 day/level or until fulfilled
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
 Bloodline: { Harrow: 7 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/h/harrowing)"
 ---

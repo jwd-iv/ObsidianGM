@@ -1,35 +1,15 @@
 ---
 File: Songbird
 School: conjuration
-Subschool: 
 Aspects: [ good ]
 ClassList: { bard: 1, cleric: 1, oracle: 1, mesmerist: 1, paladin: 1, psychic: 1, sorcerer: 1, wizard: 1 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

@@ -1,35 +1,21 @@
 ---
 File: Legend Lore
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, sorcerer: 6, wizard: 6, witch: 6, inquisitor: 6, occultist: 6, psychic: 6, spiritualist: 6, medium: 4 }
 CastTime: see text
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: incense worth 250 gp
   F: yes
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Knowledge: 7 }
 GPCost: 250
 Bloodline: { Harrow: 13 }
 Patron: { Portents: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/l/legend-lore)"
 ---

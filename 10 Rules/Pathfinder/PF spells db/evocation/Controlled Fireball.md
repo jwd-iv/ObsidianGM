@@ -1,35 +1,19 @@
 ---
 File: Controlled Fireball
 School: evocation
-Subschool: 
 Aspects: [ fire, ruse ]
 ClassList: { bloodrager: 4, magus: 4, occultist: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 20-foot-radius spread
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a ball of bat guano and sulfur
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

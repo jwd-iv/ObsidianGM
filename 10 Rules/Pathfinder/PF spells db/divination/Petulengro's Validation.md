@@ -1,35 +1,18 @@
 ---
 File: Petulengro's Validation
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, inquisitor: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a bit of hair, a fingernail, or a similar portion of a creature
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pathfinder Society Field Guide"
 ---

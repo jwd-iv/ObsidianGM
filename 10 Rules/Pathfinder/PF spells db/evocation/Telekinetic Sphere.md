@@ -1,35 +1,20 @@
 ---
 File: Telekinetic Sphere
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 8, wizard: 8, psychic: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 1-ft.-diameter/level sphere, centered around creatures or objects
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a crystal sphere and a pair of small magnets
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/telekinetic-sphere)"
 ---

@@ -7,29 +7,17 @@ ClassList: { bard: 5, sorcerer: 6, wizard: 6, witch: 6, shaman: 7, occultist: 6,
 CastTime: 1 round
 Range: 5 ft.
 Area: 5-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a rose petal and a drop of perfume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Nightmare: 6, Whimsy: 6 }
-GPCost: 
-Bloodline: 
 Patron: { Stars: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/cloak-of-dreams)"
 ---

@@ -7,10 +7,7 @@ ClassList: { antipaladin: 3, cleric: 5, oracle: 5, mesmerist: 5, psychic: 5, sor
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft. cube
-Effect: 
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
 Shapeable: yes
 SavingThrow: Will partial
 SR: no
@@ -18,18 +15,7 @@ Components:
   V: yes
   S: yes
   M: one Tiny or larger living creature
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

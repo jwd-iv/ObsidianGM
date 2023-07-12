@@ -2,34 +2,19 @@
 File: Sky Steed
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { paladin: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: a creature you are mounted upon
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

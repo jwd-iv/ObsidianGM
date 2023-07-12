@@ -6,30 +6,16 @@ Aspects: [ evil, mind-affecting ]
 ClassList: { psychic: 9, sorcerer: 9, wizard: 9, witch: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial, see below
 SR: yes
 Components:
   V: yes
   S: yes
   M: an ornate puzzle box worth 1,000 gp and soaked in fresh blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

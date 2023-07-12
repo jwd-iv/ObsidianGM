@@ -1,35 +1,20 @@
 ---
 File: Aura Of Cannibalism
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: personal
 Area: 20-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of flesh from another creature of your species
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

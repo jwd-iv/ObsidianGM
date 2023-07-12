@@ -1,35 +1,18 @@
 ---
 File: Locate Gate
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, cleric: 5, oracle: 5, occultist: 5, psychic: 5, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: circle centered on you with a radius of 400 ft. + 40 ft./level
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

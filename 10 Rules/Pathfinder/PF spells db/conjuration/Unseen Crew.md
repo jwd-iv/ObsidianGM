@@ -2,34 +2,18 @@
 File: Unseen Crew
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 4, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5, witch: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: one invisible sailor per level
-Targets: 
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: V, S, M
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pirates Of The Inner Sea"
 ---

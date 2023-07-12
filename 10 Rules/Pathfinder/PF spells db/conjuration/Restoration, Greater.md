@@ -2,34 +2,20 @@
 File: Restoration, Greater
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, shaman: 7 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: diamond dust 5,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 5000
-Bloodline: 
 Patron: { Endurance: 14, Healing: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/restoration#TOC-Restoration-Greater)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Protective Penumbra
 School: evocation
-Subschool: 
 Aspects: [ darkness ]
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2, occultist: 2, psychic: 2, spiritualist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/p/protective-penumbra)"
 ---

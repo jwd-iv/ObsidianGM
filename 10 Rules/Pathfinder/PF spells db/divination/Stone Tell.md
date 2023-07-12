@@ -1,35 +1,19 @@
 ---
 File: Stone Tell
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, shaman: 7, psychic: 6 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Ruins: 6 }
-GPCost: 
 Bloodline: { Deep Earth: 13 }
 Patron: { Mountain: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/stone-tell)"
 ---

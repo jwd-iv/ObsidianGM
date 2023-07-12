@@ -6,30 +6,15 @@ Aspects: [ sonic ]
 ClassList: { alchemist: 2, antipaladin: 2, bard: 2, inquisitor: 2, magus: 2, medium: 2, mesmerist: 2, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2, spiritualist: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object up to 10 feet across
 Duration: concentration + 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless) and Will disbelief (if interacted with); see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

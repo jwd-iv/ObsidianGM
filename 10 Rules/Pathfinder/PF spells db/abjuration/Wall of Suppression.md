@@ -1,35 +1,19 @@
 ---
 File: Wall of Suppression
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: anti-magic wall occupying up to two 5 ft. cubes/level (S)
-Targets: 
 Duration: 10 minutes/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: powdered adamantine worth 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "APG"
 ---

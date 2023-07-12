@@ -2,34 +2,18 @@
 File: Getaway
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { bard: 6, sorcerer: 6, wizard: 6, occultist: 6, psychic: 6, mesmerist: 6, spiritualist: 6 }
 CastTime: 1 minute
 Range: unlimited
-Area: 
-Effect: 
 Targets: you and one willing creature/2 levels, all of which must be within 30 feet of you
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a brass doorknob
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/g/getaway)"
 ---

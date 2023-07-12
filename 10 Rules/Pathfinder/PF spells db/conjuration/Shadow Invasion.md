@@ -2,34 +2,18 @@
 File: Shadow Invasion
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { magus: 4, sorcerer: 4, wizard: 4, summoner: 4 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft. radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

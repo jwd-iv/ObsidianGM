@@ -6,30 +6,14 @@ Aspects: [ language-dependent, mind-affecting ]
 ClassList: { bard: 3, sorcerer: 4, wizard: 4, witch: 4, psychic: 4, mesmerist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 day/level or until completed
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
   M: a snake's tongue and a honeycomb
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

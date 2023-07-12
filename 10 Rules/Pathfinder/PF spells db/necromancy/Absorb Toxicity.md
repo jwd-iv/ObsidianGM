@@ -1,35 +1,18 @@
 ---
 File: Absorb Toxicity
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, druid: 4, sorcerer: 5, wizard: 5, witch: 4, psychic: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a thorn from a poisonous plant
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/a/absorb-toxicity)"
 ---

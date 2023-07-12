@@ -6,30 +6,15 @@ Aspects: [ darkness ]
 ClassList: { cleric: 7, oracle: 7, druid: 7, inquisitor: 6, magus: 6, occultist: 6, psychic: 7, shaman: 7, sorcerer: 7, wizard: 7, spiritualist: 6, witch: 7 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: 1 creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: a black crossbow bolt
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Wake of Light
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { paladin: 2 }
 CastTime: standard action
 Range: 120 ft.
-Area: 
 Effect: a 10-ft.-wide path in a straight line, up to 120 ft. long
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/w/wake-of-light)"
 ---

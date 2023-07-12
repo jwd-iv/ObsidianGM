@@ -1,35 +1,15 @@
 ---
 File: Mental Barrier V
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { psychic: 6 }
 CastTime: immediate action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
 Bloodline: { Psychic: 13 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

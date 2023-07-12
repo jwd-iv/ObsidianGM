@@ -1,35 +1,20 @@
 ---
 File: Detect Anxieties
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { antipaladin: 2, bard: 3, cleric: 3, oracle: 3, inquisitor: 3, medium: 2, mesmerist: 2, paladin: 3, psychic: 2, sorcerer: 3, wizard: 3, spiritualist: 3, witch: 3 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: concentration, up to 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

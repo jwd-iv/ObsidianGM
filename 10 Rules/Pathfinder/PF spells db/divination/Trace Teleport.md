@@ -1,35 +1,17 @@
 ---
 File: Trace Teleport
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { psychic: 4, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: 40 ft.
 Area: 40-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

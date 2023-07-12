@@ -1,35 +1,18 @@
 ---
 File: Technomancy
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: 60 ft.
-Area: 
-Effect: 
 Targets: cone-shaped emanation
 Duration: 3 rounds/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: oil stirred with a coil of wires
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

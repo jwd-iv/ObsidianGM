@@ -1,35 +1,18 @@
 ---
 File: Bestow Curse, Greater
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, sorcerer: 8, wizard: 8, witch: 7 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Corruption: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 82"
 ---

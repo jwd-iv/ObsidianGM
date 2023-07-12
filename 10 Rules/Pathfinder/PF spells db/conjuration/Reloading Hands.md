@@ -2,34 +2,18 @@
 File: Reloading Hands
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { magus: 2, ranger: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: projectile weapon touched
 Duration: 1 round/caster level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (object, harmless)
 SR: yes (object, harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/r/reloading-hands)"
 ---

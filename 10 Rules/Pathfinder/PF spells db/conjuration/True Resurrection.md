@@ -2,34 +2,22 @@
 File: True Resurrection
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 9, oracle: 9 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: diamond worth 25,000 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 9
 Domains: { Resurrection: 9 }
 GPCost: 25000
-Bloodline: 
 Patron: { Healing: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/true-resurrection)"
 ---

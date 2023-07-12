@@ -2,34 +2,19 @@
 File: Cone Of Slime
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, sorcerer: 4, wizard: 4, summoner: 4 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: small flask of green slime
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Sword of Air"
 ---

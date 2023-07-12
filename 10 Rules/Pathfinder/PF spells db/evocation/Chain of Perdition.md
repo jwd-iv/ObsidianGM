@@ -1,35 +1,22 @@
 ---
 File: Chain of Perdition
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, bloodrager: 3, psychic: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 10-ft. chain
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: chain link
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Psychopomp: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/c/chain-of-perdition)"
 ---

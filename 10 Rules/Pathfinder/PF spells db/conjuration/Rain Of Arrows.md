@@ -2,34 +2,19 @@
 File: Rain Of Arrows
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: 15-ft.-radius cloud of arrows
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex halves
 SR: no
 Components:
   V: yes
   S: yes
   M: a quiver full of 20 arrows worth 1 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 1
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ranged Tactics Toolbox"
 ---

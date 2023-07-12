@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { mesmerist: 2, psychic: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: living creature
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief, then Fortitude or Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of cod liver oil
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

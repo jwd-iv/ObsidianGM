@@ -1,35 +1,20 @@
 ---
 File: Heart Of The Metal
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { magus: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one weapon per level
 Duration: 1 minute/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a chunk of adamantine worth 100 gp, or a chunk of cold iron or silver worth 20 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

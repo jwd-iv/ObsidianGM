@@ -1,35 +1,16 @@
 ---
 File: Stoke The Inner Fire
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
 Deity: Zursvaater
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 95"
 ---

@@ -1,34 +1,21 @@
 ---
 File: Shield Of Faith
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: parchment with a holy text written on it
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Agathion: 1, Glory: 1 }
-GPCost: 
-Bloodline: 
 Patron: { Wisdom: 2 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shield-of-faith)"
 ---

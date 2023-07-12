@@ -1,35 +1,17 @@
 ---
 File: Resinous Skin
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, druid: 3, sorcerer: 3, wizard: 3, bloodrager: 3, psychic: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/r/resinous-skin)"
 ---

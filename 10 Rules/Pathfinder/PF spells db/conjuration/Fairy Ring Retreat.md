@@ -2,34 +2,19 @@
 File: Fairy Ring Retreat
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { druid: 7, shaman: 7, witch: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: extradimensional meadow, up to three 10-ft. cubes/level (S)
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

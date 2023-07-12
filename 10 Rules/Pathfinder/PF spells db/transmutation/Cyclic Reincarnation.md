@@ -1,35 +1,20 @@
 ---
 File: Cyclic Reincarnation
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none, see text
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: oils worth 5,000 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

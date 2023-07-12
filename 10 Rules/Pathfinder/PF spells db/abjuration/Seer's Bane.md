@@ -1,35 +1,17 @@
 ---
 File: Seer's Bane
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, inquisitor: 6, sorcerer: 6, wizard: 6 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 102"
 ---

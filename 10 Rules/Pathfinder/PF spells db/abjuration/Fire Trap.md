@@ -1,35 +1,21 @@
 ---
 File: Fire Trap
 School: abjuration
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 2, sorcerer: 4, wizard: 4, occultist: 4 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: gold dust worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/fire-trap)"
 ---

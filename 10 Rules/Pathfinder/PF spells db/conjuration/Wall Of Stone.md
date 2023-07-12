@@ -8,9 +8,7 @@ CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: up to one 5-ft. square/level
 Effect: stone wall
-Targets: 
 Duration: instantaneous
-Dismissible: 
 Shapeable: yes
 SavingThrow: see text
 SR: no
@@ -18,16 +16,12 @@ Components:
   V: yes
   S: yes
   M: a small block of granite
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Earth: 5, Fortifications: 5 }
-GPCost: 
 Bloodline: { Shaitan: 11 }
 Patron: { Mountain: 10 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-stone)"
 ---
@@ -47,4 +41,4 @@ The wall is 1 inch thick per 2 caster levels. The wall's hardness increases to 1
 
 ### augmented (7th)
 
-If you expend two uses of mythic power, the wall is impassable to ethereal travel and spells such as passwall and phase door. The wall is immune to non-mythic disintegrate, shatter, sympathetic vibration, and other non-mythic magical effects that specifically affect stone (including earthquake, soften earth and stone, and transmute rock to mud).
+If you expend two uses of mythic power, the wall is impassable to ethereal travel and spells such as [[Passwall]] and [[Phase Door]]. The wall is immune to non-mythic [[Disintegrate]], [[Shatter]], [[Sympathetic Vibration]], and other non-mythic magical effects that specifically affect stone (including [[Earthquake]], [[Soften Earth and Stone]], and [[Transmute Rock to Mud]]).

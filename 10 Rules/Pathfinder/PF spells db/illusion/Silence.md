@@ -2,33 +2,21 @@
 File: Silence
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, inquisitor: 2, antipaladin: 2, psychic: 2, mesmerist: 2 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
 Area: 20-ft.-radius emanation centered on a creature, object, or point in space
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text or none (object)
 SR: yes; see text or no (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Solitude: 2 }
-GPCost: 
-Bloodline: 
 Patron: { Time: 4 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/silence)"
 ---

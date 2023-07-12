@@ -1,35 +1,18 @@
 ---
 File: Tears To Wine
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, bard: 1, cleric: 2, oracle: 2, druid: 1, medium: 1, occultist: 1, shaman: 1, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: 10 ft.
-Area: 
-Effect: 
 Targets: 1 cu. ft./2 levels of liquid (see text)
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a single grape
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

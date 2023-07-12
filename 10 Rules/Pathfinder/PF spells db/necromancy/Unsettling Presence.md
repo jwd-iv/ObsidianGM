@@ -7,8 +7,6 @@ ClassList: { bard: 2, medium: 1, mesmerist: 2, occultist: 2, psychic: 2, shaman:
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
 Shapeable: yes
@@ -17,18 +15,7 @@ SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 20 (to feel a sudden sense of dread, or to hear victims' names whispered behind their backs)  hp 2 hp/level; Trigger proximity; Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

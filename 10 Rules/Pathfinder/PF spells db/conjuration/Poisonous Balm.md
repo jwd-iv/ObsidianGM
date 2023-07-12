@@ -6,30 +6,14 @@ Aspects: [ poisonUM, ruse ]
 ClassList: { cleric: 4, oracle: 4, druid: 5, occultist: 4, shaman: 4, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous, then 1 hour or until triggered plus 6 rounds; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (harmless), then Fortitude negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

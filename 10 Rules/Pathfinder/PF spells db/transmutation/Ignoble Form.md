@@ -2,34 +2,18 @@
 File: Ignoble Form
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 2, antipaladin: 2, bard: 2, druid: 3, medium: 2, ranger: 2, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one drow
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a half-elf ear
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

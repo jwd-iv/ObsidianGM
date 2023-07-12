@@ -1,17 +1,11 @@
 ---
 File: Clone
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: 10 minutes
 Range: 0 ft.
-Area: 
 Effect: one clone
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
@@ -19,17 +13,8 @@ Components:
   S: yes
   M: laboratory supplies worth 1,000 gp
   F: yes
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/clone)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Absorbing Touch
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: no
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/a/absorbing-touch)"
 ---

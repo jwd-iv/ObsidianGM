@@ -1,35 +1,20 @@
 ---
 File: Seek Thoughts
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { alchemist: 3, bard: 3, inquisitor: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, witch: 3, occultist: 3, psychic: 2, mesmerist: 3, spiritualist: 3, medium: 2 }
 CastTime: standard action
 Range: 40 ft.
 Area: 40-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: concentration, up to 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
   S: yes
   M: a handful of copper coins
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Thought: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/seek-thoughts)"
 ---

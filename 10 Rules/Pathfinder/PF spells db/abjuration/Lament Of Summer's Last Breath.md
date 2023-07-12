@@ -1,35 +1,17 @@
 ---
 File: Lament Of Summer's Last Breath
 School: abjuration
-Subschool: 
 Aspects: [ fire, good ]
 ClassList: { bard: 2, ranger: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 30-ft. radius spread centered on a creature, object, or point in space
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

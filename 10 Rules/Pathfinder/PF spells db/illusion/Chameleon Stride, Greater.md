@@ -2,34 +2,16 @@
 File: Chameleon Stride, Greater
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { ranger: 3 }
 CastTime: standard action
 Range: 5 ft.
 Area: allies in a 10-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 minute/level (see text)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

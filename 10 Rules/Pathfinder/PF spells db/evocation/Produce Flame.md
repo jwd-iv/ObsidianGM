@@ -1,35 +1,20 @@
 ---
 File: Produce Flame
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 1, shaman: 1 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: flame in your palm
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Fire: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/produce-flame)"
 ---

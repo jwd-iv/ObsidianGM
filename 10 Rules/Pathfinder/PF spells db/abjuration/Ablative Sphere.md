@@ -1,35 +1,19 @@
 ---
 File: Ablative Sphere
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute per level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a crystalline sphere worth 10 gp
-  F: 
-  DF: 
 Deity: Garundi
 SLALevel: 3
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Humans Of Golarion"
 ---

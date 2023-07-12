@@ -1,35 +1,20 @@
 ---
 File: Enter Image
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, occultist: 2, psychic: 3, mesmerist: 2, medium: 3 }
 CastTime: standard action
 Range: 50 ft./level
-Area: 
 Effect: transfer consciousness to any object bearing your likeness
-Targets: 
 Duration: concentration
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of paint and a ball of clay
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Aristocracy: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/enter-image)"
 ---

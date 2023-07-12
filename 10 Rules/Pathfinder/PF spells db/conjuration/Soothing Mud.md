@@ -7,29 +7,15 @@ ClassList: { druid: 3, ranger: 3, shaman: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: dust, earth, sand, or water in one 5-ft. square/level
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

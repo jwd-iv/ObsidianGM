@@ -2,34 +2,20 @@
 File: Scrying
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { bard: 3, cleric: 5, oracle: 5, druid: 4, sorcerer: 4, wizard: 4, witch: 4, shaman: 4, occultist: 4, psychic: 4, mesmerist: 3, spiritualist: 5, medium: 3 }
 CastTime: 1 hour
 Range: see text
-Area: 
 Effect: magical sensor
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pool of water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/scrying)"
 ---

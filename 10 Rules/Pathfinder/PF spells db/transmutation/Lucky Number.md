@@ -1,35 +1,17 @@
 ---
 File: Lucky Number
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, druid: 1, inquisitor: 1, paladin: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one willing creature
 Duration: 24 hours or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Mysteries"
 ---

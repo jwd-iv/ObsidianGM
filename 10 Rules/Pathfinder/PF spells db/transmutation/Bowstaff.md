@@ -1,35 +1,17 @@
 ---
 File: Bowstaff
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 1, paladin: 1, ranger: 1, occultist: 2 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: one weapon (bow)
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/b/bowstaff)"
 ---

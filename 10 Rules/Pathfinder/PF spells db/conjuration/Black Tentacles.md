@@ -2,32 +2,22 @@
 File: Black Tentacles
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, witch: 4, summoner: 3, magus: 4, bloodrager: 4, psychic: 4, spiritualist: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: octopus or squid tentacle
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
 Bloodline: { Aberrant (Sorcerer): 9, Aberrant (BloodRager): 16 }
 Patron: { Occult: 8 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/black-tentacles)"
 ---

@@ -2,34 +2,20 @@
 File: Neutralize Poison
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { bard: 4, cleric: 4, oracle: 4, druid: 3, paladin: 4, ranger: 3, alchemist: 4, witch: 4, inquisitor: 4, shaman: 4, spiritualist: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object of up to 1 cu. ft./level touched
 Duration: instantaneous or 10 min./level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: charcoal
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Restoration: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/n/neutralize-poison)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Guardian Monument, Lesser
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, inquisitor: 3, magus: 3, occultist: 3, paladin: 3, psychic: 3, shaman: 4, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: full-round action
 Range: touch
 Area: 40-ft. radius from touched object or 60-ft. radius from touched object; see text
-Effect: 
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

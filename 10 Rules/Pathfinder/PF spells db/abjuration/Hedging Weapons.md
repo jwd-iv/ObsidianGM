@@ -1,35 +1,18 @@
 ---
 File: Hedging Weapons
 School: abjuration
-Subschool: 
 Aspects: [ force ]
 ClassList: { antipaladin: 1, cleric: 1, oracle: 1, inquisitor: 1, paladin: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

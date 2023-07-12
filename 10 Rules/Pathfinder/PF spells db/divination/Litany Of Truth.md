@@ -1,35 +1,19 @@
 ---
 File: Litany Of Truth
 School: divination
-Subschool: 
 Aspects: [ language-dependent ]
 ClassList: { inquisitor: 6, paladin: 4 }
 CastTime: swift action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Qadira Jewel Of The East"
 ---

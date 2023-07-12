@@ -1,35 +1,15 @@
 ---
 File: Unspoken Name
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 140"
 ---

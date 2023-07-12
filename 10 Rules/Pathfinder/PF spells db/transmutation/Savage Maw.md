@@ -1,35 +1,16 @@
 ---
 File: Savage Maw
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, cleric: 2, oracle: 2, druid: 2, inquisitor: 2, magus: 2, ranger: 1, psychic: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level, special (see below)
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

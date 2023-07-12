@@ -1,35 +1,21 @@
 ---
 File: Dark-Light
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { cleric: 3, oracle: 3, druid: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius burst
-Effect: 
 Targets: living creatures without light sensitivity
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of Darklands earth
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Kobolds Of Golarion"
 ---

@@ -2,34 +2,17 @@
 File: Remove Radioactivity
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { bard: 4, cleric: 4, oracle: 4, druid: 4, inquisitor: 4, paladin: 4, ranger: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

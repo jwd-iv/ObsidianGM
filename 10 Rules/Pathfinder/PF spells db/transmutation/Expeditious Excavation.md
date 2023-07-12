@@ -1,35 +1,20 @@
 ---
 File: Expeditious Excavation
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { druid: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: dirt in a 5-ft. cube
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
   M: tiny shovel
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
 Bloodline: { Deep Earth: 3 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/expeditious-excavation)"
 ---

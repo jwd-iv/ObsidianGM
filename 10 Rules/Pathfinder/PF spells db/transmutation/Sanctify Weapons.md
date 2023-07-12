@@ -1,35 +1,18 @@
 ---
 File: Sanctify Weapons
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, paladin: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Chronicle Of The Righteous"
 ---

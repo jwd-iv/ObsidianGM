@@ -1,35 +1,19 @@
 ---
 File: Blood In The Water
 School: necromancy
-Subschool: 
 Aspects: [ emotion ]
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, psychic: 2, mesmerist: 2 }
 CastTime: standard action
 Range: 20 ft.
 Area: 20-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

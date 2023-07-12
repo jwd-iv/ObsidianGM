@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 8, wizard: 8, witch: 8, psychic: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature with 150 hp or less
 Duration: See text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { War: 8 }
-GPCost: 
 Bloodline: { Arcane: 17, Infernal: 17 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/power-word-stun)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Siphon Might
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, magus: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, witch: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Giant Hunters Handbook"
 ---

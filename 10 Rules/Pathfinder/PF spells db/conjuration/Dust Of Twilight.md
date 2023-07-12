@@ -1,33 +1,21 @@
 ---
 File: Dust Of Twilight
 School: conjuration
-Subschool: 
 Aspects: [ darkness ]
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, bloodrager: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: creatures and objects in a 10-ft. spread
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (fatigue only)
 SR: no
 Components:
   V: yes
   S: yes
   M: coal dust
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Stars: 4 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/dust-of-twilight)"
 ---

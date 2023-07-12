@@ -1,35 +1,18 @@
 ---
 File: Dust Ward
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one magic item
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a pinch of pumice
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

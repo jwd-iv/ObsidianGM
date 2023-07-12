@@ -1,35 +1,17 @@
 ---
 File: Charge Object
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { medium: 1, mesmerist: 1, occultist: 1, psychic: 1, spiritualist: 1 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

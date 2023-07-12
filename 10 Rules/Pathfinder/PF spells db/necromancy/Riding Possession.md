@@ -1,35 +1,18 @@
 ---
 File: Riding Possession
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { medium: 2, mesmerist: 4, occultist: 3, psychic: 4, sorcerer: 4, wizard: 4, spiritualist: 3, summoner: 4, unchained summoner: 4, witch: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 hour/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

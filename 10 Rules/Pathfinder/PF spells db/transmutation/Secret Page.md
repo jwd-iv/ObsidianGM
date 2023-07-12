@@ -1,35 +1,19 @@
 ---
 File: Secret Page
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, occultist: 3, mesmerist: 3 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: page touched, up to 3 sq. ft. in size
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: powdered herring scales and a vial of will-o'-wisp essence
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Rune: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/secret-page)"
 ---

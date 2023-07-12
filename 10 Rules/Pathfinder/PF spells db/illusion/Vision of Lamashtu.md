@@ -6,30 +6,14 @@ Aspects: [ mind-affecting, evil ]
 ClassList: { cleric: 7, oracle: 7, inquisitor: 6, witch: 7 }
 CastTime: 10 minutes (see text)
 Range: unlimited
-Area: 
-Effect: 
 Targets: one living creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/v/vision-of-lamashtu)"
 ---

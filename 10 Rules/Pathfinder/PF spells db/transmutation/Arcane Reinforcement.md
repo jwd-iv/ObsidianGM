@@ -1,35 +1,15 @@
 ---
 File: Arcane Reinforcement
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: concentration (up to 8 hours)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faction Guide"
 ---

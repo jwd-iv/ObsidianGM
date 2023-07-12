@@ -1,35 +1,18 @@
 ---
 File: Zone of Foul Flames
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a sliver of tree bark from a burnt tree from the Uskwood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

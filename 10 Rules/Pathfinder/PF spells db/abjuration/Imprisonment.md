@@ -1,35 +1,18 @@
 ---
 File: Imprisonment
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
 Bloodline: { Kobold Sorcerer: 19 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/imprisonment)"
 ---

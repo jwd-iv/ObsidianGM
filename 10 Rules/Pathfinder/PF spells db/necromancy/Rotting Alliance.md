@@ -1,35 +1,18 @@
 ---
 File: Rotting Alliance
 School: necromancy
-Subschool: 
 Aspects: [ curseUM, diseaseUM ]
 ClassList: { cleric: 8, oracle: 8, druid: 8, inquisitor: 6, occultist: 6, witch: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature/level, no two of which can be more than 60 feet apart
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

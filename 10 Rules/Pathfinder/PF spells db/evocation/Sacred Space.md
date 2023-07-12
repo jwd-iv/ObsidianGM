@@ -1,35 +1,19 @@
 ---
 File: Sacred Space
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 2, oracle: 2, paladin: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: 2 hours/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a vial of ambrosia
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

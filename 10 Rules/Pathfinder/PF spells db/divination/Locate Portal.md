@@ -1,35 +1,15 @@
 ---
 File: Locate Portal
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, druid: 2, psychic: 2, ranger: 1, shaman: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, witch: 2 }
 CastTime: standard action
 Range: 1 mile/level
 Area: circle, centered on you, with a radius of 1 mile/level
-Effect: 
-Targets: 
 Duration: concentration, up to 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "The First World Realm Of The Fey"
 ---

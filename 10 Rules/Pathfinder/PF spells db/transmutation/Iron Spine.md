@@ -1,35 +1,19 @@
 ---
 File: Iron Spine
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, magus: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: no
 SR: yes
 Components:
   V: yes
   S: yes
   M: cold iron ingot
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of The First World"
 ---

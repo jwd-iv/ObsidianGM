@@ -7,8 +7,6 @@ ClassList: { bard: 3, cleric: 3, oracle: 3, inquisitor: 3, magus: 3, psychic: 3,
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 day/level
 Dismissible: yes
 Shapeable: yes
@@ -18,17 +16,7 @@ Components:
   V: yes
   S: yes
   M: a live spider
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 25 (to hear a distant cry of fright, or see a horrified ghostly face appear over a victim's face)  hp 2 hp/level; Trigger proximity; Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

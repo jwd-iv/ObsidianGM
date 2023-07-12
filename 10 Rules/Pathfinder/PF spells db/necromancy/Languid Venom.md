@@ -1,35 +1,21 @@
 ---
 File: Languid Venom
 School: necromancy
-Subschool: 
 Aspects: [ poison ]
 ClassList: { alchemist: 2, shaman: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one dose of poison or one venomous creature
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: herbs used in antitoxins worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

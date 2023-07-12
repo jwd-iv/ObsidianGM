@@ -1,35 +1,19 @@
 ---
 File: Trial By Fire
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { antipaladin: 3, cleric: 3, oracle: 3, inquisitor: 3, paladin: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: None
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Spymaster's Handbook"
 ---

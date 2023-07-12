@@ -1,35 +1,20 @@
 ---
 File: Twilight Knife
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 3, wizard: 3, witch: 3, bloodrager: 3, occultist: 3, psychic: 3, spiritualist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: floating knife of force
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Occult: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/t/twilight-knife)"
 ---

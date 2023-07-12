@@ -1,35 +1,19 @@
 ---
 File: Arrow of Law
 School: evocation
-Subschool: 
 Aspects: [ lawful ]
 ClassList: { cleric: 2, oracle: 2, paladin: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: arrow-shaped projectile of lawful energy
-Targets: 
 Duration: instantaneous (1 round); see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/a/arrow-of-law)"
 ---

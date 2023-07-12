@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 9, wizard: 9, witch: 9, psychic: 9 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one or more creatures, no two of which can be more than 30 ft. apart
 Duration: 10 minutes /level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/h/heroic-invocation)"
 ---

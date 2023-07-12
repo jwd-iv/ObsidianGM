@@ -2,34 +2,18 @@
 File: Arrow Eruption
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { ranger: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 30-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: arrow or crossbow bolt
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/a/arrow-eruption)"
 ---

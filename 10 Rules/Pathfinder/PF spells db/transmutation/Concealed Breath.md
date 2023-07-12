@@ -1,35 +1,18 @@
 ---
 File: Concealed Breath
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, cleric: 4, oracle: 4, druid: 4, shaman: 4, sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creatures touched
 Duration: 1 hour/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
-  V: 
   S: yes
   M: a palm-sized stone
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

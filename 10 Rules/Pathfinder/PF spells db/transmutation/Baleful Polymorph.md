@@ -2,32 +2,18 @@
 File: Baleful Polymorph
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { druid: 5, sorcerer: 5, wizard: 5, summoner: 4, witch: 5, magus: 5, shaman: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates, Will partial, see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/baleful-polymorph)"
 ---

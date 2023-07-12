@@ -2,34 +2,20 @@
 File: Polymorph
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, alchemist: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 min/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a piece of the creature whose form you choose
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Agility: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/polymorph)"
 ---

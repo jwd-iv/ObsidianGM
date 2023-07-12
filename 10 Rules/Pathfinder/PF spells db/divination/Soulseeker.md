@@ -1,35 +1,19 @@
 ---
 File: Soulseeker
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, medium: 4, occultist: 6, shaman: 8, spiritualist: 6, witch: 8 }
 CastTime: 1 hour
 Range: unlimited
-Area: 
-Effect: 
 Targets: one soul
 Duration: instantaneous or 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: incense worth 250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

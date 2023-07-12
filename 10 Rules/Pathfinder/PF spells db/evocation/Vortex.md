@@ -1,35 +1,22 @@
 ---
 File: Vortex
 School: evocation
-Subschool: 
 Aspects: [ water ]
 ClassList: { druid: 7, sorcerer: 7, wizard: 7, shaman: 7 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: whirlpool 50 ft. deep, 30 ft. wide at top, and 5 ft. wide at base
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates, see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a stirring spoon
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Elements: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/v/vortex)"
 ---

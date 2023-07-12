@@ -1,35 +1,16 @@
 ---
 File: Temporary Graft
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, bloodrager: 3, magus: 4, occultist: 3, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Unwilling Shield
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, inquisitor: 5, sorcerer: 6, wizard: 6, witch: 6, occultist: 5, psychic: 6, mesmerist: 5, spiritualist: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: ruby dust worth 250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/u/unwilling-shield)"
 ---

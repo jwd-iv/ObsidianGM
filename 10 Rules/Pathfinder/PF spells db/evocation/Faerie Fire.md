@@ -1,33 +1,23 @@
 ---
 File: Faerie Fire
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { druid: 1, mesmerist: 1 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: creatures and objects within a 5-ft.-radius burst
-Effect: 
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Light: 1, Moon: 1 }
-GPCost: 
-Bloodline: 
 Patron: { Stars: 2 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/faerie-fire)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Stricken Heart
 School: necromancy
-Subschool: 
 Aspects: [ death ]
 ClassList: { inquisitor: 2, shaman: 3, sorcerer: 2, wizard: 2, witch: 2, psychic: 2, mesmerist: 2, spiritualist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

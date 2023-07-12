@@ -1,34 +1,20 @@
 ---
 File: Animate Objects
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 6, cleric: 6, oracle: 6, witch: 6, occultist: 6, psychic: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one Small object per caster level; see text
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Chaos: 6, Flotsam: 6 }
-GPCost: 
 Bloodline: { Impossible: 13 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/animate-objects)"
 ---

@@ -2,34 +2,17 @@
 File: Illusory Maze
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Monster Codex"
 ---

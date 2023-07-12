@@ -2,33 +2,18 @@
 File: Maze
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, summoner: 6, unchained summoner: 6, witch: 8, psychic: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/maze)"
 ---

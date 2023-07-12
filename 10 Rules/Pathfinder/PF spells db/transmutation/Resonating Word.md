@@ -1,34 +1,18 @@
 ---
 File: Resonating Word
 School: transmutation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 5, sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 3 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/r/resonating-word)"
 ---

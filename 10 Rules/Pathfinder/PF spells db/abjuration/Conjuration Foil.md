@@ -1,35 +1,16 @@
 ---
 File: Conjuration Foil
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, magus: 3, medium: 4, occultist: 4, psychic: 4, sorcerer: 4, wizard: 4, spiritualist: 4, summoner: 3, unchained summoner: 3, witch: 4 }
 CastTime: immediate action
 Range: medium (100 + 10 ft./level)
 Area: 20-foot radius spread
-Effect: 
-Targets: 
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (see text)
 SR: yes (object)
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

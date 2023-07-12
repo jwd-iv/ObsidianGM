@@ -1,35 +1,17 @@
 ---
 File: Scoop
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 0, wizard: 0 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 6 inch diameter container of force Duration concentration
-Targets: 
-Duration: 
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Paizo Blog"
 ---

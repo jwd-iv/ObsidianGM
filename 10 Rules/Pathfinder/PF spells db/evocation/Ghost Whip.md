@@ -1,35 +1,19 @@
 ---
 File: Ghost Whip
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, magus: 2, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2, spiritualist: 2, witch: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: whip of flexible ectoplasm
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
 Bloodline: { Ectoplasm: 5 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

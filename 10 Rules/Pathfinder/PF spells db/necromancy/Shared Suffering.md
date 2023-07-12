@@ -1,35 +1,18 @@
 ---
 File: Shared Suffering
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 2, inquisitor: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Champions Of Corruption"
 ---

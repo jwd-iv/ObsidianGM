@@ -1,34 +1,18 @@
 ---
 File: Flames Of The Faithful
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { inquisitor: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: weapon touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object, harmless)
 SR: yes (object, harmless)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "APG"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Detect Scrying
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, witch: 4, inquisitor: 4, shaman: 4, occultist: 4, psychic: 4, mesmerist: 4, spiritualist: 4, medium: 3 }
 CastTime: standard action
 Range: 40 ft.
 Area: 40-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a piece of mirror and a miniature brass hearing trumpet
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Solitude: 4 }
-GPCost: 
 Bloodline: { Rakshasa: 9 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/detect-scrying)"
 ---

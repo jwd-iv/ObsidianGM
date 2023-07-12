@@ -1,35 +1,19 @@
 ---
 File: Commune
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, inquisitor: 5, shaman: 5, occultist: 5 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: holy or unholy water and incense worth 500 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 500
-Bloodline: 
 Patron: { Ancestors: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/commune)"
 ---

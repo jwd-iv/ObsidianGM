@@ -1,35 +1,20 @@
 ---
 File: Last Azlanti's Defending Sword
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { magus: 6, occultist: 6, psychic: 7, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one sword
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

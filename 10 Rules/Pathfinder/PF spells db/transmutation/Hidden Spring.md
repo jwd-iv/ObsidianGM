@@ -1,35 +1,18 @@
 ---
 File: Hidden Spring
 School: transmutation
-Subschool: 
 Aspects: [ water ]
 ClassList: { cleric: 1, oracle: 1, druid: 1, ranger: 1, shaman: 1, witch: 1 }
 CastTime: 1 hour
 Range: touch
-Area: 
 Effect: a spring of fresh water
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

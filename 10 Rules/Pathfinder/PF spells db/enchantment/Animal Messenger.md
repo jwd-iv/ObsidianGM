@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 2, druid: 2, ranger: 1, shaman: 2, psychic: 2, mesmerist: 2 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Tiny animal
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a morsel of food the animal likes
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/animal-messenger)"
 ---

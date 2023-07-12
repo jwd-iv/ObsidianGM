@@ -2,34 +2,17 @@
 File: Opportunistic Loyalty
 School: enchantment
 Subschool: compulsion
-Aspects: 
 ClassList: { antipaladin: 1, cleric: 1, oracle: 1, inquisitor: 1, mesmerist: 1, psychic: 1, witch: 1 }
 CastTime: immediate action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 115"
 ---

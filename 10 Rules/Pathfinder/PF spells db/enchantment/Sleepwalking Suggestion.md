@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 4, medium: 3, mesmerist: 4, psychic: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates or none (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: two doses of oil of taggit worth 180 gp total
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 180
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

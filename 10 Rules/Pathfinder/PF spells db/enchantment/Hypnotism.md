@@ -7,29 +7,15 @@ ClassList: { bard: 1, sorcerer: 1, wizard: 1, witch: 1, occultist: 1, psychic: 1
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
 Area: several living creatures, no two of which may be more than 30 ft. apart
-Effect: 
-Targets: 
 Duration: 2d4 rounds
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
 Bloodline: { Serpentine: 3 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hypnotism)"
 ---

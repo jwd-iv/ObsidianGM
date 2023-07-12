@@ -1,35 +1,14 @@
 ---
 File: Raven's Flight
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, druid: 3, inquisitor: 3, magus: 2, ranger: 2, shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Wild"
 ---

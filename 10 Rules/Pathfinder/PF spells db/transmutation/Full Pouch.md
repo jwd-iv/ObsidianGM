@@ -1,35 +1,19 @@
 ---
 File: Full Pouch
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, bard: 2, druid: 2, inquisitor: 3, occultist: 3, ranger: 3, sorcerer: 2, wizard: 2 }
 CastTime: swift action
 Range: touch
-Area: 
-Effect: 
 Targets: 1 object touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: no
 Components:
   V: yes
   S: yes
   M: alchemical reagents or herbs worth 1 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 1
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Huntmaster's Spear
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, bloodrager: 2, druid: 2, inquisitor: 2, magus: 2, occultist: 2, paladin: 1, ranger: 1, shaman: 2 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: nonmagical spear touched
 Duration: 24 hours or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: see text
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Hunter's Handbook"
 ---

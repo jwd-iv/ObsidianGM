@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 4, wizard: 4, witch: 4, occultist: 3, mesmerist: 3 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

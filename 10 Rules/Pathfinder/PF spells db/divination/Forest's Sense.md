@@ -2,34 +2,18 @@
 File: Forest's Sense
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { druid: 4, ranger: 3, shaman: 4 }
 CastTime: standard action
 Range: 1 mile/level
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 minute/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

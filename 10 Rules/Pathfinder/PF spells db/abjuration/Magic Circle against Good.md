@@ -1,35 +1,21 @@
 ---
 File: Magic Circle against Good
 School: abjuration
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3, inquisitor: 3, antipaladin: 3, shaman: 3, occultist: 3, spiritualist: 3, medium: 3 }
 CastTime: standard action
 Range: touch
 Area: 10-ft.-radius emanation from touched creature
-Effect: 
-Targets: 
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no; see text
 Components:
   V: yes
   S: yes
   M: a 3-ft.-diameter circle of powdered silver
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Evil: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-circle-against-good)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Unerring Weapon
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 1, magus: 1, sorcerer: 1, wizard: 1, witch: 1, bloodrager: 1, occultist: 2, psychic: 1, medium: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one weapon or 20 projectiles, all of which must be together at the time of casting
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/u/unerring-weapon)"
 ---

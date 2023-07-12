@@ -1,35 +1,15 @@
 ---
 File: Signs Of The Land
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 3, shaman: 3 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

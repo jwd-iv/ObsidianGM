@@ -2,34 +2,16 @@
 File: Frightful Aspect
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, druid: 8, sorcerer: 8, wizard: 8, witch: 8, psychic: 8 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: the skin of a toad
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/f/frightful-aspect)"
 ---

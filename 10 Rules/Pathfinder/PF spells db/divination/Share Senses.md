@@ -2,34 +2,19 @@
 File: Share Senses
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, witch: 3, psychic: 3, medium: 3 }
 CastTime: full-round action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: your familiar
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a hair, scale, or feather from your familiar
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/share-senses)"
 ---

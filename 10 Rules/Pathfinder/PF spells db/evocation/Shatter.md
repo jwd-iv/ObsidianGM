@@ -1,34 +1,23 @@
 ---
 File: Shatter
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 2, cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, magus: 2, bloodrager: 2, occultist: 2, psychic: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 5-ft.-radius spread; or one solid object or one crystalline creature
-Effect: 
 Targets: 5-ft.-radius spread; or one solid object or one crystalline creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object); Will negates (object) or Fortitude half; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a chip of mica
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Destruction: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shatter)"
 ---

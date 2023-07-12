@@ -1,35 +1,19 @@
 ---
 File: Spore Burst
 School: conjuration
-Subschool: 
 Aspects: [ poisonUM ]
 ClassList: { druid: 2, ranger: 3, shaman: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one plant creature; see text
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: special; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a tiny puffball mushroom
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Cohorts & Companions"
 ---

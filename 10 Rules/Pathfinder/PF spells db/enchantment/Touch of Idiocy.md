@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 2, wizard: 2, witch: 2, bloodrager: 2, psychic: 2, mesmerist: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Lust: 2, Madness: 2 }
-GPCost: 
 Bloodline: { Accursed: 5, Daemon: 5, Div: 5 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy)"
 ---

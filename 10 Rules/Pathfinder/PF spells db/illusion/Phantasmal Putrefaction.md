@@ -6,30 +6,15 @@ Aspects: [ fear, mind-affecting ]
 ClassList: { medium: 4, mesmerist: 5, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief, then Fortitude partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

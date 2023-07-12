@@ -1,34 +1,20 @@
 ---
 File: Chaos Hammer
 School: evocation
-Subschool: 
 Aspects: [ chaotic ]
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous (1d6 rounds); see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Chaos: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/chaos-hammer)"
 ---

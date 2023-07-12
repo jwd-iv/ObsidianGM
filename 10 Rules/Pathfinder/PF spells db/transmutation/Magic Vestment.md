@@ -1,33 +1,21 @@
 ---
 File: Magic Vestment
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, shaman: 3, occultist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: armor or shield touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Nobility: 3, Strength: 3, War: 3 }
-GPCost: 
-Bloodline: 
 Patron: { Devotion: 6, Wisdom: 6 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-vestment)"
 ---

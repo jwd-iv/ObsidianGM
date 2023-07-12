@@ -1,34 +1,19 @@
 ---
 File: Entropic Shield
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, psychic: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Entropy: 1 }
-GPCost: 
 Bloodline: { Protean: 3 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/entropic-shield)"
 ---

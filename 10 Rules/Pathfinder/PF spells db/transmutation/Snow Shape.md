@@ -1,35 +1,21 @@
 ---
 File: Snow Shape
 School: transmutation
-Subschool: 
 Aspects: [ water ]
 ClassList: { cleric: 2, oracle: 2, druid: 1, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: snow or snow-sculpted object touched, up to 5 cubic ft.  + 1 cubic ft./level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a miniature shovel
-  F: 
   DF: yes
 Deity: Ulfen
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Humans Of Golarion"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Thorny Entanglement
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 3, shaman: 3, witch: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: plants in a 40-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Thorns: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

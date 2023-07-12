@@ -6,30 +6,15 @@ Aspects: [ draconic, evil, mind-affecting ]
 ClassList: { mesmerist: 5, occultist: 5, shaman: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a dried drop of blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of Dragons"
 ---

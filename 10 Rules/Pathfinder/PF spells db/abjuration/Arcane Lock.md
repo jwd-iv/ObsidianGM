@@ -1,35 +1,20 @@
 ---
 File: Arcane Lock
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: door, chest, or portal touched, up to 30 sq. ft./level in size
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: gold dust worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Wards: 1 }
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/arcane-lock)"
 ---

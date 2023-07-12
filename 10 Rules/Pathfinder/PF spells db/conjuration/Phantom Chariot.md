@@ -2,34 +2,18 @@
 File: Phantom Chariot
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, summoner: 3, unchained summoner: 3, occultist: 4, spiritualist: 4 }
 CastTime: 10 minutes
 Range: 0 ft.
-Area: 
 Effect: one quasi-real chariot and draft team
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/p/phantom-chariot)"
 ---

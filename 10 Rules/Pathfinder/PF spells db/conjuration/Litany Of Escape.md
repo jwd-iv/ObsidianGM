@@ -6,30 +6,15 @@ Aspects: [ language-dependent ]
 ClassList: { antipaladin: 3, inquisitor: 4, paladin: 3 }
 CastTime: swift action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing creature that is grappled
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: no
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/l/litany-of-escape)"
 ---

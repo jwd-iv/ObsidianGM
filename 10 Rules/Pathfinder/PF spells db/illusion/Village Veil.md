@@ -7,29 +7,13 @@ ClassList: { bard: 5, cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, witch: 5, ps
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: one 10-ft. cube per level
-Effect: 
-Targets: 
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

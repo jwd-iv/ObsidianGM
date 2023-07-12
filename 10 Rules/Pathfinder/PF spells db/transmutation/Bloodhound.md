@@ -1,35 +1,16 @@
 ---
 File: Bloodhound
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, inquisitor: 2, ranger: 2, occultist: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a drop of blood and a pinch of cinnamon
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/bloodhound)"
 ---

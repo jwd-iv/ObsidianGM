@@ -2,34 +2,20 @@
 File: Elemental Body IV
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: the element you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Air: 7, Earth: 7, Fire: 7, Water: 7 }
-GPCost: 
 Bloodline: { Elemental: 15 }
 Patron: { Water: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/elemental-body-i#TOC-Elemental-Body-IV)"
 ---

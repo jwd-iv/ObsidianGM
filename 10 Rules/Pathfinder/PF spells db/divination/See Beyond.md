@@ -1,35 +1,17 @@
 ---
 File: See Beyond
 School: divination
-Subschool: 
 Aspects: [ meditative ]
 ClassList: { cleric: 3, oracle: 3, shaman: 3, witch: 3, wizard: 3 }
 CastTime: 1 hour
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
   M: soothing incense worth 300 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 300
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Divine Anthology"
 ---

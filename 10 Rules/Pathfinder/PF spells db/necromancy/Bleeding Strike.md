@@ -1,35 +1,18 @@
 ---
 File: Bleeding Strike
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, cleric: 1, oracle: 1, ranger: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: one slashing melee weapon touched
-Targets: 
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Baphomet
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 77"
 ---

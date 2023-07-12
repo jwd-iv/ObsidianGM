@@ -1,35 +1,22 @@
 ---
 File: Astral Projection
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9, witch: 9, psychic: 9 }
 CastTime: 30 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: you plus one additional willing creature touched per two caster levels
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: 1,000 gp jacinth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Travel: 9 }
 GPCost: 1000
 Bloodline: { Dreamspun: 19 }
 Patron: { Stars: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/astral-projection)"
 ---

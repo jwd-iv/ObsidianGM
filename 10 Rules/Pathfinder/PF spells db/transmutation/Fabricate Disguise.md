@@ -1,35 +1,14 @@
 ---
 File: Fabricate Disguise
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, antipaladin: 1, bard: 1, inquisitor: 1, psychic: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

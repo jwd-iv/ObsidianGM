@@ -1,33 +1,17 @@
 ---
 File: Surmount Affliction
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, spiritualist: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: personal
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
 Bloodline: { Martyred: 5 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/surmount-affliction)"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Air Walk
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { cleric: 4, oracle: 4, druid: 4, alchemist: 4, occultist: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature (Gargantuan or smaller) touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Air: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/air-walk)"
 ---

@@ -2,32 +2,19 @@
 File: Heal
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, druid: 7, alchemist: 6, witch: 7, inquisitor: 6, shaman: 7, occultist: 6, spiritualist: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Healing: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/heal)"
 ---

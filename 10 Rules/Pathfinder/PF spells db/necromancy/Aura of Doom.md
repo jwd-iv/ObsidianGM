@@ -1,35 +1,20 @@
 ---
 File: Aura of Doom
 School: necromancy
-Subschool: 
 Aspects: [ emotion, fear, mind-affecting ]
 ClassList: { cleric: 4, oracle: 4, psychic: 4, spiritualist: 4 }
 CastTime: standard action
 Range: personal
 Area: 20-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 10 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: powdered bone
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/a/aura-of-doom)"
 ---

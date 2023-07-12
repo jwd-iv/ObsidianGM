@@ -1,35 +1,20 @@
 ---
 File: Eyebite
 School: necromancy
-Subschool: 
 Aspects: [ emotion, pain ]
 ClassList: { bard: 6, sorcerer: 6, wizard: 6, alchemist: 6, witch: 6, mesmerist: 6, spiritualist: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Curse: 6, Scalykind: 6 }
-GPCost: 
 Bloodline: { Accursed: 13, Pestilence: 13 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/eyebite)"
 ---

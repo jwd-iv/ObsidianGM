@@ -1,35 +1,16 @@
 ---
 File: Crimson Breath
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, cleric: 4, oracle: 4, druid: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: no
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

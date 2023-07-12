@@ -7,29 +7,14 @@ ClassList: { bard: 4, mesmerist: 4, occultist: 4, psychic: 4, sorcerer: 4, wizar
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
 Area: several living creatures, no two of which may be more than 30 ft. apart
-Effect: 
-Targets: 
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Beast"
 ---

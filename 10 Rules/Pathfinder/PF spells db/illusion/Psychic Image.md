@@ -2,34 +2,17 @@
 File: Psychic Image
 School: illusion
 Subschool: shadow
-Aspects: 
 ClassList: { psychic: 9 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: one shadow duplicate
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

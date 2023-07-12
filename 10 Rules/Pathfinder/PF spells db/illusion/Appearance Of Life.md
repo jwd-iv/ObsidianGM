@@ -6,30 +6,16 @@ Aspects: [ evil ]
 ClassList: { cleric: 3, oracle: 3, medium: 2, mesmerist: 3, psychic: 3, sorcerer: 3, wizard: 3, spiritualist: 3, witch: 3 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one or more undead creatures
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief or Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: one Tiny or larger living creature
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

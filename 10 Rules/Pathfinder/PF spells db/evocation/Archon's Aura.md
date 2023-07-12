@@ -1,35 +1,18 @@
 ---
 File: Archon's Aura
 School: evocation
-Subschool: 
 Aspects: [ good, lawful ]
 ClassList: { cleric: 3, oracle: 3, paladin: 3 }
 CastTime: standard action
 Range: 20 ft.
 Area: 20-ft. radius centered on you
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/a/archon-s-aura)"
 ---

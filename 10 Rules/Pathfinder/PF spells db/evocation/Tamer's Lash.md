@@ -1,35 +1,19 @@
 ---
 File: Tamer's Lash
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 1, bloodrager: 1, magus: 1, ranger: 1 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: a whip of magical sound
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

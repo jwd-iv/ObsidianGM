@@ -2,34 +2,18 @@
 File: Phantom Driver
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, occultist: 3, spiritualist: 3 }
 CastTime: 10 minutes
 Range: 10 ft.
-Area: 
 Effect: one quasi-real, humanlike creature
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/p/phantom-driver)"
 ---

@@ -2,34 +2,19 @@
 File: Hanspur's Flotsam Vessel
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 2, ranger: 1, summoner: 1, unchained summoner: 1 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: raft large enough for caster and one passenger/2 levels
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: driftwood branch or river rat's tail
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The River"
 ---

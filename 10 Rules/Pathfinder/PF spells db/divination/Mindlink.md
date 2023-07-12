@@ -1,35 +1,18 @@
 ---
 File: Mindlink
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { medium: 1, mesmerist: 1, occultist: 1, psychic: 1, shaman: 1, sorcerer: 1, wizard: 1, spiritualist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Mind: 2 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

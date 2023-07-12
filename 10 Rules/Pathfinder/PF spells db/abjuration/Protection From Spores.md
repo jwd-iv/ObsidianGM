@@ -1,35 +1,17 @@
 ---
 File: Protection From Spores
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, cleric: 2, oracle: 2, druid: 2, ranger: 1, shaman: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 113"
 ---

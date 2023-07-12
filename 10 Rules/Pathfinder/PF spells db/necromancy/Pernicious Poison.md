@@ -1,33 +1,21 @@
 ---
 File: Pernicious Poison
 School: necromancy
-Subschool: 
 Aspects: [ poison ]
 ClassList: { antipaladin: 2, druid: 2, sorcerer: 2, wizard: 2, witch: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Venom: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/p/pernicious-poison)"
 ---

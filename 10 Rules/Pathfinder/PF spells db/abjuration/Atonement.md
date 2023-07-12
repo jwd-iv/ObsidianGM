@@ -1,35 +1,21 @@
 ---
 File: Atonement
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, druid: 5, inquisitor: 5 }
 CastTime: 1 hour
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: burning incense
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Purity: 5, Redemption: 5 }
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/atonement)"
 ---

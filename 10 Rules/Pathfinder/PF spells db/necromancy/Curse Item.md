@@ -1,35 +1,20 @@
 ---
 File: Curse Item
 School: necromancy
-Subschool: 
 Aspects: [ curse ]
 ClassList: { cleric: 2, oracle: 2 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Groetus
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 64"
 ---

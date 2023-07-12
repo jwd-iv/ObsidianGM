@@ -1,35 +1,18 @@
 ---
 File: Green Caress
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, ranger: 4, shaman: 6, witch: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 7 days (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: pinch of moss or a kudzu leaf
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

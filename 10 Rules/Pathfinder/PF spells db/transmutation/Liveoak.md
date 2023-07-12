@@ -1,35 +1,18 @@
 ---
 File: Liveoak
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, shaman: 7 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: tree touched
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/l/liveoak)"
 ---

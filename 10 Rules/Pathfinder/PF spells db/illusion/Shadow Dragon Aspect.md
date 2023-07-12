@@ -6,30 +6,13 @@ Aspects: [ shadow ]
 ClassList: { bard: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with), see text
 SR: yes, see text;
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Kobolds Of Golarion"
 ---

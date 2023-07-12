@@ -1,33 +1,19 @@
 ---
 File: Disfiguring Touch
 School: transmutation
-Subschool: 
 Aspects: [ curse ]
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2, bloodrager: 2, occultist: 2, psychic: 2, mesmerist: 2, spiritualist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/d/disfiguring-touch)"
 ---

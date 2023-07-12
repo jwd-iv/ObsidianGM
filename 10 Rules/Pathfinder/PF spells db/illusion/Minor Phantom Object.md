@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 4, wizard: 4, psychic: 4, mesmerist: 4 }
 CastTime: 1 minute
 Range: 0 ft.
-Area: 
 Effect: illusory, unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
-Targets: 
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

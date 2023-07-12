@@ -1,35 +1,23 @@
 ---
 File: Holy Aura
 School: abjuration
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 8, oracle: 8 }
 CastTime: standard action
 Range: 20 ft.
-Area: 
-Effect: 
 Targets: one creature/level in a 20-ft.-radius burst centered on you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Glory: 8, Good: 8 }
 GPCost: 500
-Bloodline: 
 Patron: { Devotion: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/holy-aura)"
 ---

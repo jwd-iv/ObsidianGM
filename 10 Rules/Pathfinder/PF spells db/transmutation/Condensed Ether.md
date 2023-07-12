@@ -1,35 +1,19 @@
 ---
 File: Condensed Ether
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { psychic: 4, sorcerer: 5, wizard: 5, spiritualist: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: 20-ft.-radius spread
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: crushed amber
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Ethereal: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

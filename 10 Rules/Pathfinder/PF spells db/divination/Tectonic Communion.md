@@ -1,35 +1,16 @@
 ---
 File: Tectonic Communion
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { druid: 7 }
 CastTime: 1 hour
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: Instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faiths & Philosophies"
 ---

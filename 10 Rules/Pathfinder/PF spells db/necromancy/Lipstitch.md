@@ -1,35 +1,17 @@
 ---
 File: Lipstitch
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
-  V: 
   S: yes
   M: a bone needle and sinew thread
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pathfinder Society Field Guide"
 ---

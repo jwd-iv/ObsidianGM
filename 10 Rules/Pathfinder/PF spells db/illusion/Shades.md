@@ -6,30 +6,17 @@ Aspects: [ shadow ]
 ClassList: { sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: see text
-Area: 
 Effect: see text
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with); varies; see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Darkness: 9 }
-GPCost: 
 Bloodline: { Shadow: 19 }
 Patron: { Shadow: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shades)"
 ---

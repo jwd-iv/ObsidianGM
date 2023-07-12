@@ -1,35 +1,19 @@
 ---
 File: Dimensional Lock
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, summoner: 6, unchained summoner: 6, psychic: 8 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius emanation centered on a point in space
-Effect: 
-Targets: 
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
 Bloodline: { Accursed: 17 }
 Patron: { Boundaries: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/dimensional-lock)"
 ---

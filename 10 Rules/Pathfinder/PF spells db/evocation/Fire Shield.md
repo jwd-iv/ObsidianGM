@@ -1,34 +1,20 @@
 ---
 File: Fire Shield
 School: evocation
-Subschool: 
 Aspects: [ fire or cold ]
 ClassList: { sorcerer: 4, wizard: 4, alchemist: 4, summoner: 3, magus: 4, bloodrager: 4, occultist: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: phosphorus for the warm shield; a firefly or glowworm for the chill shield
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Fire: 5, Sun: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/fire-shield)"
 ---

@@ -1,35 +1,21 @@
 ---
 File: Flesh Puppet
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 2, cleric: 3, oracle: 3, occultist: 3, shaman: 3, sorcerer: 4, wizard: 4, spiritualist: 3, witch: 4 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: one corpse touched
 Duration: permanent
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: an onyx worth 25 gp and a silken string
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

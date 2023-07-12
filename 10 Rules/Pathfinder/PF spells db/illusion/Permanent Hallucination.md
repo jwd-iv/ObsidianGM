@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { psychic: 7, sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: permanent
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

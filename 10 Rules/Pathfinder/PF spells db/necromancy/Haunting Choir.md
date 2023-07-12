@@ -1,35 +1,18 @@
 ---
 File: Haunting Choir
 School: necromancy
-Subschool: 
 Aspects: [ mind-affecting, pain ]
 ClassList: { bard: 3, mesmerist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 30-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: concentration + 2 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/h/haunting-choir)"
 ---

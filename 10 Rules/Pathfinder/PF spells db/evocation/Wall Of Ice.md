@@ -1,33 +1,22 @@
 ---
 File: Wall Of Ice
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { sorcerer: 4, wizard: 4, summoner: 3, magus: 4, bloodrager: 4, occultist: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: anchored plane of ice, up to one 10-ft. square/level, or hemisphere of ice with a radius of up to 3 ft. + 1 ft./level
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of quartz or rock crystal
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
 Bloodline: { Boreal: 9, Marid: 9 }
 Patron: { Elements: 8, Winter: 8 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-ice)"
 ---

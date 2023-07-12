@@ -1,35 +1,20 @@
 ---
 File: Spell Turning
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, summoner: 5, psychic: 7, unchained summoner: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: until expended or 10 min./level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a small silver mirror
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
 Domains: { Luck: 7, Magic: 7 }
-GPCost: 
 Bloodline: { Destined: 15 }
 Patron: { Wisdom: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/spell-turning)"
 ---

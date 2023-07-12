@@ -2,15 +2,11 @@
 File: Impossible Angles
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { medium: 3, mesmerist: 4, occultist: 4, psychic: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: contiguous area up to one 5-foot cube/caster level
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
 Shapeable: yes
 SavingThrow: Will negates
 SR: yes
@@ -18,18 +14,7 @@ Components:
   V: yes
   S: yes
   M: a melted prism
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

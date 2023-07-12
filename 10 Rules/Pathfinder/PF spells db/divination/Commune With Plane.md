@@ -1,35 +1,13 @@
 ---
 File: Commune With Plane
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, psychic: 5, ranger: 4, summoner: 5, witch: 5 }
 CastTime: 10 minutes
-Range: 
-Area: 
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

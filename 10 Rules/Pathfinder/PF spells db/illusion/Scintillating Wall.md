@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 4, psychic: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: wall with an area of up to one 10-ft. square/level
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a handful of crushed d'ziriak chitin
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Distant Realms"
 ---

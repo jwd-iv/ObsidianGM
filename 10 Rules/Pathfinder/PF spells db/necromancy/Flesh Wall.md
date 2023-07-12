@@ -1,14 +1,12 @@
 ---
 File: Flesh Wall
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 6, oracle: 6, shaman: 6, sorcerer: 6, wizard: 6, spiritualist: 5, summoner: 5, unchained summoner: 5, witch: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: up to one 5-ft. square/level
 Effect: a wall of corpses
-Targets: 
 Duration: concentration + 1 round/level
 Dismissible: yes
 Shapeable: yes
@@ -18,18 +16,8 @@ Components:
   V: yes
   S: yes
   M: one corpse for every 5-ft. square of the wall
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

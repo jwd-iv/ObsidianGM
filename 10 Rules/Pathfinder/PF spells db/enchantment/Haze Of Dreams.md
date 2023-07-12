@@ -6,30 +6,15 @@ Aspects: [ emotion, mind-affecting ]
 ClassList: { bard: 1, cleric: 1, oracle: 1, inquisitor: 1, paladin: 1, witch: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
   M: pinch of sand
-  F: 
-  DF: 
 Deity: Desna
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

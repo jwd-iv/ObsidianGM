@@ -1,35 +1,16 @@
 ---
 File: Ancestral Communion
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Dwarves of Golarion](http://www.d20pfsrd.com/magic/all-spells/a/a/ancestral-communion)"
 ---

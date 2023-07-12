@@ -1,35 +1,18 @@
 ---
 File: Recorporeal Incarnation
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, witch: 7 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one willing living creature and one humanoid corpse
 Duration: 1 week/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

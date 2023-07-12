@@ -2,34 +2,18 @@
 File: Hostile Juxtaposition
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, summoner: 4, witch: 5, psychic: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature of your size or smaller
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a coin
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/h/hostile-juxtaposition)"
 ---

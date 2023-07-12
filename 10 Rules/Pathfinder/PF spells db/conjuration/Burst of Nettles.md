@@ -1,35 +1,18 @@
 ---
 File: Burst of Nettles
 School: conjuration
-Subschool: 
 Aspects: [ acid ]
 ClassList: { druid: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 10-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/b/burst-of-nettles)"
 ---

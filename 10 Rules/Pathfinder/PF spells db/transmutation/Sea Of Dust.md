@@ -1,35 +1,19 @@
 ---
 File: Sea Of Dust
 School: transmutation
-Subschool: 
 Aspects: [ water ]
 ClassList: { druid: 9 }
 CastTime: 1 hour
 Range: 0 ft.
 Area: 2-mile-radius emanation
-Effect: 
-Targets: 
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

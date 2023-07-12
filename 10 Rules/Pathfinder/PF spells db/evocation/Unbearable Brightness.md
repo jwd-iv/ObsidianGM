@@ -1,35 +1,18 @@
 ---
 File: Unbearable Brightness
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { alchemist: 4, sorcerer: 4, wizard: 4, witch: 4, occultist: 4, psychic: 4 }
 CastTime: standard action
 Range: personal and 30 ft. (see text)
 Area: 30-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none and Reflex partial (see text)
 SR: no and yes (see text)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Curse Of Unexpected Death
 School: necromancy
-Subschool: 
 Aspects: [ curse, death ]
 ClassList: { cleric: 4, oracle: 4, shaman: 5, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 minute/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 89"
 ---

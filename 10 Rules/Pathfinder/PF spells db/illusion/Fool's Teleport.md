@@ -2,34 +2,16 @@
 File: Fool's Teleport
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { mesmerist: 3, psychic: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: personal and touch
-Area: 
-Effect: 
 Targets: you and other touched willing creatures
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless); see text
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

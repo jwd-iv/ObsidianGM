@@ -6,30 +6,15 @@ Aspects: [ evil, lawful ]
 ClassList: { bard: 5, cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5, witch: 5 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 1d4+1 lesser host devils or 1 greater host devil
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Rival Guide"
 ---

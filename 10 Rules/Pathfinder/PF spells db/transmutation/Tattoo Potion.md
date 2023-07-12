@@ -1,35 +1,19 @@
 ---
 File: Tattoo Potion
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, bard: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: 1 minute
 Range: one potion
-Area: 
 Effect: one spell tattoo
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a potion to be tattooed, special inks worth 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

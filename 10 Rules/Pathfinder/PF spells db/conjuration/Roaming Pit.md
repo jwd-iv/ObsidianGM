@@ -2,34 +2,19 @@
 File: Roaming Pit
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, druid: 6, psychic: 6, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: mobile 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
   M: powered diamond dust worth 10 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

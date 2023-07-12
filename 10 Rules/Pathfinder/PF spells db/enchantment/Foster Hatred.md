@@ -6,30 +6,14 @@ Aspects: [ emotion ]
 ClassList: { antipaladin: 4, inquisitor: 5, mesmerist: 5, psychic: 6, spiritualist: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: any number of living creatures, no two of which can be more than 30 ft. apart
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

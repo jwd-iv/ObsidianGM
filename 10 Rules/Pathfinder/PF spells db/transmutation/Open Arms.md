@@ -1,35 +1,17 @@
 ---
 File: Open Arms
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5 }
 CastTime: immediate action
 Range: touch
-Area: 
-Effect: 
 Targets: melee weapon touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

@@ -2,34 +2,18 @@
 File: Muffle Sound
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, inquisitor: 2, psychic: 2, mesmerist: 2 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 ally/level
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

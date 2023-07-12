@@ -2,34 +2,17 @@
 File: Illusion Of Treachery, Greater
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { antipaladin: 4, magus: 6, mesmerist: 4, occultist: 5, psychic: 5, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you and one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Swarm Skin
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, witch: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a crushed insect hive
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Vermin: 5 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/swarm-skin)"
 ---

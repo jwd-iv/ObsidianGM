@@ -1,35 +1,20 @@
 ---
 File: Frosty Aura
 School: transmutation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { bloodrager: 4, cleric: 4, oracle: 4, magus: 4, shaman: 4, sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4, witch: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you (see text)
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none (harmless, see text)
 SR: no (harmless, see text)
 Components:
   V: yes
   S: yes
   M: a chunk of ice or a few drops of water melted from glacier ice
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 91"
 ---

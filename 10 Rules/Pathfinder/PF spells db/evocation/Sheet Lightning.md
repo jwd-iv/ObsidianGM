@@ -1,35 +1,18 @@
 ---
 File: Sheet Lightning
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { druid: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: 20-ft.-radius spread
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Rival Guide"
 ---

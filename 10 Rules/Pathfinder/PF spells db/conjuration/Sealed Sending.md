@@ -6,30 +6,14 @@ Aspects: [ language-dependent ]
 ClassList: { sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: unlimited
-Area: 
 Effect: one nonmagical parchment with a written message
-Targets: 
 Duration: 1 hour/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none (harmless)
 SR: no (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

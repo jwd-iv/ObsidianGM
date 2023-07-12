@@ -1,35 +1,18 @@
 ---
 File: Alter Winds
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 1, sorcerer: 1, wizard: 1, occultist: 1, spiritualist: 1 }
 CastTime: 1 minute
 Range: touch
 Area: immobile 10-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/a/alter-winds)"
 ---

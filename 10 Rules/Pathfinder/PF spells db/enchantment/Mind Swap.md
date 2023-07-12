@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { medium: 3, mesmerist: 5, occultist: 4, psychic: 5, sorcerer: 6, wizard: 6, spiritualist: 4, summoner: 5, unchained summoner: 5, witch: 6 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

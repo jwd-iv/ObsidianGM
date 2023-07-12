@@ -1,35 +1,18 @@
 ---
 File: Keen Edge
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, inquisitor: 3, magus: 3, bloodrager: 3, occultist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one weapon or 50 projectiles, all of which must be together at the time of casting
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Murder: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/k/keen-edge)"
 ---

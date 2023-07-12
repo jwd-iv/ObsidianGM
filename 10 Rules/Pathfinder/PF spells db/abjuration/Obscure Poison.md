@@ -1,35 +1,18 @@
 ---
 File: Obscure Poison
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, antipaladin: 1, bard: 1, cleric: 1, oracle: 1, druid: 1, mesmerist: 1, shaman: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one dose of poison or one venomous creature touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
-  V: 
   S: yes
   M: herbs used in antitoxins worth 10 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

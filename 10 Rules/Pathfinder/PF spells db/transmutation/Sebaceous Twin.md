@@ -1,35 +1,17 @@
 ---
 File: Sebaceous Twin
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 round/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 119"
 ---

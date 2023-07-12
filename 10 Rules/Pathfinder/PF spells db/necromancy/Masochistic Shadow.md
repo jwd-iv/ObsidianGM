@@ -1,35 +1,19 @@
 ---
 File: Masochistic Shadow
 School: necromancy
-Subschool: 
 Aspects: [ evil, shadowUM ]
 ClassList: { antipaladin: 4, bloodrager: 4, magus: 4, occultist: 4, shaman: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates, then Reflex partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

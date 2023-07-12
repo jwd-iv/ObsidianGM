@@ -2,34 +2,19 @@
 File: Web Shelter
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 2, ranger: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, witch: 2, shaman: 2 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 5 ft.-10 ft. diameter web sphere or 5 ft.-20 ft. hemisphere
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/w/web-shelter)"
 ---

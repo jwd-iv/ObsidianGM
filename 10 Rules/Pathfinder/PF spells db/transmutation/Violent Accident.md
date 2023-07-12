@@ -1,35 +1,18 @@
 ---
 File: Violent Accident
 School: transmutation
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { cleric: 2, oracle: 2, mesmerist: 2, occultist: 2, witch: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 day or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

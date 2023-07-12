@@ -1,35 +1,21 @@
 ---
 File: Call Lightning Storm
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { druid: 5, shaman: 5, occultist: 5 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: one or more 30-ft.-long vertical lines of lightning
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Storms: 5 }
-GPCost: 
 Bloodline: { Starsoul: 9 }
 Patron: { Storms: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/call-lightning-storm)"
 ---

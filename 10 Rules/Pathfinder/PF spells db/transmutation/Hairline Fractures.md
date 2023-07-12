@@ -1,35 +1,20 @@
 ---
 File: Hairline Fractures
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { cleric: 1, oracle: 1, druid: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: 5-foot-square section of stone or a creature with the  earth subtype
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a broken twig
-  F: 
-  DF: 
 Deity: Torag
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

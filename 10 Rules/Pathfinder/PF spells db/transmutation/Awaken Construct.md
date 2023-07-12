@@ -1,35 +1,20 @@
 ---
 File: Awaken Construct
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, occultist: 5, psychic: 6, shaman: 6, sorcerer: 7, wizard: 7 }
 CastTime: 24 hours
 Range: touch
-Area: 
-Effect: 
 Targets: mindless construct touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
   S: yes
   M: herbs and oils worth 2,000 gp per HD of target
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 2000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

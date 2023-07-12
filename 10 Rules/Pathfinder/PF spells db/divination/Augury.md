@@ -1,35 +1,20 @@
 ---
 File: Augury
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, witch: 2, shaman: 2, occultist: 2, psychic: 2, spiritualist: 2, medium: 2 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: incense worth at least 25 gp
   F: yes
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Fate: 2 }
 GPCost: 25
 Bloodline: { Dreamspun: 5, Harrow: 5 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/augury)"
 ---

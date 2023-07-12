@@ -1,35 +1,18 @@
 ---
 File: Prehensile Pilfer
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, bard: 3, magus: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Symbol of Sealing
 School: abjuration
-Subschool: 
 Aspects: [ force ]
 ClassList: { cleric: 6, oracle: 6, sorcerer: 6, wizard: 6, witch: 6, occultist: 4 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: mercury and phosphorous, plus powdered diamond and opal worth a total of 5,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-sealing)"
 ---

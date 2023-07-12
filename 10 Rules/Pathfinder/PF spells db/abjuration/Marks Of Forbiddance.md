@@ -1,35 +1,18 @@
 ---
 File: Marks Of Forbiddance
 School: abjuration
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { paladin: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one enemy and one ally
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/m/marks-of-forbiddance)"
 ---

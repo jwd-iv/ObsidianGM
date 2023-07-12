@@ -1,35 +1,18 @@
 ---
 File: Ferment
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, bard: 1, cleric: 1, oracle: 1, druid: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a drop of ale, mead, or wine
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

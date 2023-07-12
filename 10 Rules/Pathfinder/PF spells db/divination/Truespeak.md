@@ -1,35 +1,14 @@
 ---
 File: Truespeak
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, cleric: 6, oracle: 6, sorcerer: 5, wizard: 5, witch: 5, psychic: 5, mesmerist: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

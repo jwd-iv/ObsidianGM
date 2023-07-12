@@ -1,34 +1,22 @@
 ---
 File: Stoneskin
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, sorcerer: 4, wizard: 4, alchemist: 4, summoner: 3, inquisitor: 4, magus: 4, bloodrager: 4, shaman: 5, occultist: 4, psychic: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 min./level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: granite and diamond dust worth 250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Earth: 6, Strength: 6 }
 GPCost: 250
 Bloodline: { Abyssal: 9, Deep Earth: 9, Shaitan: 9 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/stoneskin)"
 ---

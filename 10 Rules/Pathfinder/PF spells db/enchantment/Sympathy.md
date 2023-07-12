@@ -6,30 +6,17 @@ Aspects: [ mind-affecting, emotion ]
 ClassList: { druid: 9, sorcerer: 8, wizard: 8, summoner: 6, unchained summoner: 6, witch: 8, occultist: 6, psychic: 8 }
 CastTime: 1 hour
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one location (up to a 10-ft. cube/level) or one object
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of honey and crushed pearls worth 1,500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 1500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sympathy)"
 ---

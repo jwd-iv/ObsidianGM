@@ -1,35 +1,19 @@
 ---
 File: Dimensional Anchor
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, sorcerer: 4, wizard: 4, summoner: 3, inquisitor: 3, occultist: 4, psychic: 4, spiritualist: 4, unchained summoner: 4, medium: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: ray
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Wards: 4 }
-GPCost: 
-Bloodline: 
 Patron: { Boundaries: 8, Dimensions: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/dimensional-anchor)"
 ---

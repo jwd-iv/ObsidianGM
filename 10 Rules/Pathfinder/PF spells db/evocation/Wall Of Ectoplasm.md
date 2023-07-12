@@ -1,35 +1,19 @@
 ---
 File: Wall Of Ectoplasm
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, psychic: 5, sorcerer: 5, wizard: 5, spiritualist: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: opaque sheet of ectoplasm up to 10 ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none, and Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: small bit of gauze
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Ectoplasm: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

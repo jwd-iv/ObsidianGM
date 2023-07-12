@@ -1,35 +1,18 @@
 ---
 File: Hobble
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, bloodrager: 1, inquisitor: 1, magus: 1, mesmerist: 1, ranger: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 20 feet apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of glue
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Cosmic Ray
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { magus: 5, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: ray
-Targets: 
 Duration: instantaneous and 1 round/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of meteorite
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The Stars"
 ---

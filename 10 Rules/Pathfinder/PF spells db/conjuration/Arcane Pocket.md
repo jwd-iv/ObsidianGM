@@ -2,34 +2,16 @@
 File: Arcane Pocket
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: extradimensional space up to 1 cu. ft./level
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Wilderness Soldiers
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, ranger: 2 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft.-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/w/wilderness-soldiers)"
 ---

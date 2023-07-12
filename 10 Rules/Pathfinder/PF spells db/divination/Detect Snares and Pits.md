@@ -1,35 +1,18 @@
 ---
 File: Detect Snares and Pits
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, ranger: 1, occultist: 1 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: concentration, up to 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/detect-snares-and-pits)"
 ---

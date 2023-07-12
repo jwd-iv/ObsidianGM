@@ -1,35 +1,16 @@
 ---
 File: Coin Shot
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, antipaladin: 1, bard: 1, bloodrager: 1, magus: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: up to three coins touched
 Duration: 10 minutes or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless, object)
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Streets"
 ---

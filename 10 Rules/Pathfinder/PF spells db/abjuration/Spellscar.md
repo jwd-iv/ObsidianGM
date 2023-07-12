@@ -1,35 +1,18 @@
 ---
 File: Spellscar
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: two 10-ft. cubes per level
-Effect: 
-Targets: 
 Duration: 10 minutes/level
 Dismissible: yes
 Shapeable: yes
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a pinch of sand from the Spellscar Desert
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

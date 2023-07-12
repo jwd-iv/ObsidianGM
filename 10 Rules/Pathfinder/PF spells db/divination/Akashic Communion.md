@@ -1,35 +1,17 @@
 ---
 File: Akashic Communion
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, medium: 3, mesmerist: 4, occultist: 3, psychic: 3, shaman: 3, sorcerer: 4, wizard: 4, spiritualist: 4, witch: 3 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a square of reflective silver worth 100 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

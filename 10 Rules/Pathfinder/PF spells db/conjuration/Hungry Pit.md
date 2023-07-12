@@ -2,34 +2,19 @@
 File: Hungry Pit
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels
-Targets: 
 Duration: 1 round + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates; Reflex half; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Caves: 6 }
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/h/hungry-pit)"
 ---

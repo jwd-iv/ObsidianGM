@@ -2,34 +2,20 @@
 File: Instant Summons
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, witch: 7, psychic: 7 }
 CastTime: standard action
 Range: see text
-Area: 
-Effect: 
 Targets: one object weighing 10 lbs. or less whose longest dimension is 6 ft. or less
 Duration: permanent until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: sapphire worth 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Rune: 7 }
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/instant-summons)"
 ---

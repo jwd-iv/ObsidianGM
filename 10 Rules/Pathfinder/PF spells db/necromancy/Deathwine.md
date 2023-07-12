@@ -1,35 +1,17 @@
 ---
 File: Deathwine
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, cleric: 2, oracle: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: 1 potion touched/level
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none (object)
 SR: no (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "RotRL-AE-Appendix"
 ---

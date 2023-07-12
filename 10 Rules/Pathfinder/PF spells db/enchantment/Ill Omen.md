@@ -6,28 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { witch: 1, psychic: 1, mesmerist: 1, medium: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: hair from a black cat
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
 Bloodline: { Harrow: 3 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/i/ill-omen)"
 ---

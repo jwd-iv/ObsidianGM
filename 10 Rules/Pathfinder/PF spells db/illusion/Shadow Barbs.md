@@ -6,30 +6,15 @@ Aspects: [ darkness ]
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: spiked chain-like shadowy weapon
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a single link from a spiked chain
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

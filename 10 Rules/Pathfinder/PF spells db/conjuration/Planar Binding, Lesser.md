@@ -6,30 +6,16 @@ Aspects: [ see text ]
 ClassList: { sorcerer: 5, wizard: 5, summoner: 4, occultist: 5, psychic: 5, unchained summoner: 5, medium: 4 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels); see text
-Area: 
-Effect: 
 Targets: one elemental or outsider with 6 HD or less
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: no and yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Rune: 5, Void: 4 }
-GPCost: 
-Bloodline: 
 Patron: { Dimensions: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/planar-binding)"
 ---

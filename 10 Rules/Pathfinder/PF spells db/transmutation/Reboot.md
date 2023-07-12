@@ -1,35 +1,19 @@
 ---
 File: Reboot
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, summoner: 4, unchained summoner: 4, witch: 5 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one destroyed construct of up to 2 HD/level
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The Stars"
 ---

@@ -2,34 +2,19 @@
 File: Soul Transfer
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, psychic: 7, shaman: 7, sorcerer: 7, wizard: 7, spiritualist: 6, witch: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one petitioner, incorporeal soul, or similar creature
 Duration: permanent; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes (see text)
 Components:
   V: yes
   S: yes
   M: a gem worth 1,000 gp per HD of the targeted creature or soul
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

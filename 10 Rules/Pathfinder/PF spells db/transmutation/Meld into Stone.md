@@ -1,35 +1,18 @@
 ---
 File: Meld into Stone
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { cleric: 3, oracle: 3, druid: 3, psychic: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Ruins: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/meld-into-stone)"
 ---

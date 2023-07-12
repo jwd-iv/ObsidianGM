@@ -6,30 +6,15 @@ Aspects: [ good ]
 ClassList: { druid: 6, summoner: 6, unchained summoner: 6 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: summoned eagles
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/e/eagle-aerie)"
 ---

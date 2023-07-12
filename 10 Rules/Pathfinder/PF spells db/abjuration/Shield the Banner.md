@@ -1,35 +1,18 @@
 ---
 File: Shield the Banner
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { adept: 1, cleric: 1, oracle: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: standard touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Orcs of Golarion"
 ---

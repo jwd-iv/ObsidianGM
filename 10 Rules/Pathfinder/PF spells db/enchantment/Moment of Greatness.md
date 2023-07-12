@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 1, cleric: 1, oracle: 1, sorcerer: 1, wizard: 1, psychic: 1 }
 CastTime: standard action
 Range: 50 ft.
-Area: 
-Effect: 
 Targets: The caster and allies within a 50-ft. burst centered on the caster
 Duration: 1 minute/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: rabbit fur
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
 Bloodline: { Imperious: 3 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/m/moment-of-greatness)"
 ---

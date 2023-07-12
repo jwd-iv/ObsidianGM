@@ -1,35 +1,18 @@
 ---
 File: Contagious Flame
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { sorcerer: 6, wizard: 6, magus: 6, occultist: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: three or more rays
 Duration: 3 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/contagious-flame)"
 ---

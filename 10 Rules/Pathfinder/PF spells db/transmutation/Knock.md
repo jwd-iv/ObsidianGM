@@ -1,35 +1,16 @@
 ---
 File: Knock
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, inquisitor: 2, occultist: 2, psychic: 2, mesmerist: 2, medium: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one door, box, or chest with an area of up to 10 sq. ft./level
 Duration: instantaneous; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/k/knock)"
 ---

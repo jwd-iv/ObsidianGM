@@ -1,35 +1,16 @@
 ---
 File: Warding Weapon
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { magus: 1, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, bloodrager: 1, occultist: 1, psychic: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Duels: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/w/warding-weapon)"
 ---

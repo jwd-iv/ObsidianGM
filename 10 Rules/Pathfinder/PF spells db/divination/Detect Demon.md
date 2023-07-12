@@ -1,35 +1,19 @@
 ---
 File: Detect Demon
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1, paladin: 1 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: concentration, up to 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Demon Hunter's Handbook"
 ---

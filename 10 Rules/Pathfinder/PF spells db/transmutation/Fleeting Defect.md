@@ -1,35 +1,18 @@
 ---
 File: Fleeting Defect
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, bloodrager: 2, magus: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one solid object that does not have the broken condition, or one construct
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (harmless, object); see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

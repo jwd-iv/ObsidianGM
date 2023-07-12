@@ -1,35 +1,18 @@
 ---
 File: Spectral Hand
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, witch: 2, occultist: 2, psychic: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one spectral hand
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/spectral-hand)"
 ---

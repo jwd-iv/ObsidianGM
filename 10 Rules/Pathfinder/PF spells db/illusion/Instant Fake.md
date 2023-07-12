@@ -2,34 +2,18 @@
 File: Instant Fake
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 3, inquisitor: 3, magus: 4, mesmerist: 3, occultist: 3, ranger: 3, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: 1 object touched
-Area: 
-Effect: 
 Targets: one object weighing no more than 1 lb./level
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: no
 Components:
   V: yes
   S: yes
   M: a piece of costume jewelry
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

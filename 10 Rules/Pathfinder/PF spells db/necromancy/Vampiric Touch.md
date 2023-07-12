@@ -1,34 +1,20 @@
 ---
 File: Vampiric Touch
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, witch: 3, antipaladin: 3, magus: 3, bloodrager: 3, psychic: 3, mesmerist: 3, spiritualist: 3, medium: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous/1 hour; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Blood: 3, Daemon: 3 }
-GPCost: 
 Bloodline: { Undead: 7, Daemon: 7, Ghoul: 7 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/v/vampiric-touch)"
 ---

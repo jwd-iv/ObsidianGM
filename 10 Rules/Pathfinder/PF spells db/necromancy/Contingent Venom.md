@@ -1,35 +1,21 @@
 ---
 File: Contingent Venom
 School: necromancy
-Subschool: 
 Aspects: [ poisonUM ]
 ClassList: { shaman: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one dose of poison or one venomous creature
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: herbs used in antitoxins worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

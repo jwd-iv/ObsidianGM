@@ -1,8 +1,6 @@
 ---
 File: Wish
 School: universal
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: see text
@@ -10,26 +8,15 @@ Area: see text
 Effect: see text
 Targets: see text
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: diamond worth 25,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 25000
 Bloodline: { Arcane: 19, Djinni: 19, Draconic: 19, Efreeti: 19, Marid: 19, Shaitan: 19, Div: 19, Impossible: 19 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wish)"
 ---

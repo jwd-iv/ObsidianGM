@@ -1,35 +1,18 @@
 ---
 File: Object Possession, Lesser
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { medium: 2, mesmerist: 3, occultist: 2, psychic: 3, sorcerer: 4, wizard: 4, spiritualist: 3, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: unattended Tiny or Small object
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: None
 SR: No
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

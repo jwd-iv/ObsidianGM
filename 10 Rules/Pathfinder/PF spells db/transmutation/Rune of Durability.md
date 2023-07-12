@@ -1,35 +1,18 @@
 ---
 File: Rune of Durability
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: weapon touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: iron filings
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Dwarves of Golarion](http://www.d20pfsrd.com/magic/all-spells/r/r/rune-of-durability)"
 ---

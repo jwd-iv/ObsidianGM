@@ -1,35 +1,17 @@
 ---
 File: Decapitate
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 5, magus: 6, psychic: 6, sorcerer: 6, wizard: 6 }
 CastTime: immediate action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature (see text)
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

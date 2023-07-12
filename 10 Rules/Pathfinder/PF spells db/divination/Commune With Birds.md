@@ -1,35 +1,15 @@
 ---
 File: Commune With Birds
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, druid: 1, ranger: 1, sorcerer: 2, wizard: 2, witch: 2, shaman: 2, psychic: 2, mesmerist: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes; see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

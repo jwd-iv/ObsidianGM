@@ -1,35 +1,19 @@
 ---
 File: Advanced Scurvy
 School: necromancy
-Subschool: 
 Aspects: [ disease, evil ]
 ClassList: { cleric: 1, oracle: 1, druid: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Besmara
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 55"
 ---

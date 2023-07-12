@@ -6,30 +6,15 @@ Aspects: [ force ]
 ClassList: { inquisitor: 2, magus: 2, sorcerer: 3, wizard: 3, summoner: 2, unchained summoner: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one anchor of force
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a twisted nail
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Undead Slayer's Handbook"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Whispering Wind
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, inquisitor: 2, psychic: 2, mesmerist: 2, medium: 2 }
 CastTime: standard action
 Range: 1 mile/level
 Area: 10-ft.-radius spread
-Effect: 
-Targets: 
 Duration: no more than 1 hour/level or until discharged (destination is reached)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Wind: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/whispering-wind)"
 ---

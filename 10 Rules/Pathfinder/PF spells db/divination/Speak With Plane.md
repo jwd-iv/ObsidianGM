@@ -1,35 +1,18 @@
 ---
 File: Speak With Plane
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, medium: 3, shaman: 4, sorcerer: 4, wizard: 4, summoner: 3, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one plane with a sentient structure
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

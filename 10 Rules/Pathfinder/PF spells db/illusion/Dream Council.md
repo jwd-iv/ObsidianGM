@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 6, medium: 4, mesmerist: 5, psychic: 6, sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: unlimited
-Area: 
-Effect: 
 Targets: one or more living creatures
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

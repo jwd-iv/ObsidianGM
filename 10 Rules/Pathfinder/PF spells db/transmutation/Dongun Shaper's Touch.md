@@ -1,35 +1,17 @@
 ---
 File: Dongun Shaper's Touch
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, occultist: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: concentration, up to 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

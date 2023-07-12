@@ -6,30 +6,18 @@ Aspects: [ mind-affecting, emotion ]
 ClassList: { druid: 9, sorcerer: 8, wizard: 8, witch: 8, summoner: 6, unchained summoner: 6, occultist: 6, psychic: 8 }
 CastTime: 1 hour
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one location (up to a 10-ft. cube/level) or one object
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: a lump of alum soaked in vinegar
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Peace: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/antipathy)"
 ---

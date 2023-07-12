@@ -2,34 +2,21 @@
 File: Obscuring Mist
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, druid: 1, sorcerer: 1, wizard: 1, witch: 1, magus: 1, shaman: 1, mesmerist: 1, spiritualist: 1, unchained summoner: 1 }
 CastTime: standard action
 Range: 20 ft.
-Area: 
 Effect: cloud spreads in 20-ft. radius from you, 20 ft. high
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Air: 1, Darkness: 1, Water: 1, Weather: 1 }
-GPCost: 
 Bloodline: { Marid: 3, Ectoplasm: 3 }
 Patron: { Storms: 2 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/o/obscuring-mist)"
 ---

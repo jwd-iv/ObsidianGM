@@ -2,34 +2,18 @@
 File: Fleshy Facade
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 2, bard: 2, inquisitor: 2, sorcerer: 2, wizard: 2, witch: 2, psychic: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: corporeal undead creature touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: yes (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Fool's Gold
 School: illusion
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, medium: 1, mesmerist: 1, psychic: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: objects touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Will disbelief (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a copper piece or silver piece
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

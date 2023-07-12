@@ -1,35 +1,19 @@
 ---
 File: Arcane Concordance
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3 }
 CastTime: standard action
 Range: personal
 Area: 10-ft.-radius emanation centered on you
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a spent wand
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/a/arcane-concordance)"
 ---

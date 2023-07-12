@@ -2,34 +2,18 @@
 File: Rejuvenate Eidolon
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: eidolon touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of your blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/r/rejuvenate-eidolon)"
 ---

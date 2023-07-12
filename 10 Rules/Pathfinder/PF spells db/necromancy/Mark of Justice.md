@@ -1,35 +1,20 @@
 ---
 File: Mark of Justice
 School: necromancy
-Subschool: 
 Aspects: [ curse ]
 ClassList: { cleric: 5, oracle: 5, paladin: 4, witch: 5, inquisitor: 5 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Judgment: 5 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mark-of-justice)"
 ---

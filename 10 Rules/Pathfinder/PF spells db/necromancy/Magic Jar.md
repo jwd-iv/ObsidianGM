@@ -1,35 +1,19 @@
 ---
 File: Magic Jar
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, alchemist: 5, summoner: 4, witch: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 hour/level or until you return to your body
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-jar)"
 ---

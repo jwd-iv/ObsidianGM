@@ -1,35 +1,16 @@
 ---
 File: Read Magic
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 0, cleric: 0, oracle: 0, druid: 0, paladin: 1, ranger: 1, sorcerer: 0, wizard: 0, summoner: 0, unchained summoner: 0, witch: 0, inquisitor: 0, magus: 0, shaman: 0, occultist: 0, psychic: 0, mesmerist: 0, spiritualist: 0, medium: 0 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/read-magic)"
 ---

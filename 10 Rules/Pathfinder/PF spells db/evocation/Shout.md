@@ -1,34 +1,21 @@
 ---
 File: Shout
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, magus: 4, bloodrager: 4, occultist: 4, psychic: 4 }
 CastTime: standard action
 Range: 30 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial or Reflex negates (object); see text
 SR: yes (object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Destruction: 5 }
-GPCost: 
 Bloodline: { Maestro: 9, Stormborn: 9 }
 Patron: { Vengeance: 8 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shout)"
 ---

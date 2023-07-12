@@ -1,35 +1,19 @@
 ---
 File: Blood Sentinel
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one animal sculpture
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no (harmless)
 Components:
   V: yes
   S: yes
   M: a life-sized animal sculpture of a familiar made of clay, cloth, stone, or wood, plus mandrake root worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

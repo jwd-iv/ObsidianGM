@@ -1,35 +1,18 @@
 ---
 File: Helping Hand
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, psychic: 3, spiritualist: 3, medium: 2 }
 CastTime: standard action
 Range: 5 miles
-Area: 
 Effect: ghostly hand
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/helping-hand)"
 ---

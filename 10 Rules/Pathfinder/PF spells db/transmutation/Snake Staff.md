@@ -1,35 +1,19 @@
 ---
 File: Snake Staff
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, druid: 5, shaman: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: 1 or more pieces of wood, no two of which can be more than 30 ft. apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a knife suitable for whittling
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Occult: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/snake-staff)"
 ---

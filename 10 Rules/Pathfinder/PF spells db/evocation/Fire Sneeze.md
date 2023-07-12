@@ -1,35 +1,19 @@
 ---
 File: Fire Sneeze
 School: evocation
-Subschool: 
 Aspects: [ air, fire ]
 ClassList: { alchemist: 2, druid: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round + 1 round/2 levels
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: hot pepper soaked in oil
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Goblins Of Golarion"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Explosion Of Rot
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { druid: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 10-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a rotting flower
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

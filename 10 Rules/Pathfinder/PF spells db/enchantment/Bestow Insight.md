@@ -2,34 +2,17 @@
 File: Bestow Insight
 School: enchantment
 Subschool: compulsion
-Aspects: 
 ClassList: { bard: 2, cleric: 3, oracle: 3, inquisitor: 2, sorcerer: 2, wizard: 2, witch: 2, psychic: 2, mesmerist: 2, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

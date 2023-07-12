@@ -1,35 +1,19 @@
 ---
 File: Animal Growth
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, ranger: 4, sorcerer: 5, wizard: 5, shaman: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one animal (Gargantuan or smaller)
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Scalykind: 5 }
-GPCost: 
-Bloodline: 
 Patron: { Animals: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/animal-growth)"
 ---

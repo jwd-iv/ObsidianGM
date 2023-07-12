@@ -2,34 +2,18 @@
 File: Healing Token
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 2, inquisitor: 2, paladin: 2, ranger: 2, shaman: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched holy symbol per 3 caster levels
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Healer's Handbook"
 ---

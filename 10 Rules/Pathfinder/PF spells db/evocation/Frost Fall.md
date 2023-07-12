@@ -1,35 +1,18 @@
 ---
 File: Frost Fall
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { druid: 2, sorcerer: 2, wizard: 2, witch: 2, occultist: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 5-foot radius burst
-Effect: 
-Targets: 
 Duration: 1 round/2 levels
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/f/frost-fall)"
 ---

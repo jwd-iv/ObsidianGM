@@ -1,35 +1,18 @@
 ---
 File: Fiery Runes
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { alchemist: 2, bloodrager: 2, druid: 2, magus: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: melee weapon touched
 Duration: 1 minute/level or until discharged (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (see text)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Melee Tactics Toolbox"
 ---

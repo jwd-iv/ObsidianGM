@@ -1,35 +1,19 @@
 ---
 File: Named Bullet, Greater
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 6, ranger: 4, sorcerer: 6, wizard: 6, witch: 6, psychic: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one piece of ammunition or one thrown weapon
 Duration: 10 minutes/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: an item from the selected creature or creature type
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/n/named-bullet#TOC-Named-Bullet-Greater)"
 ---

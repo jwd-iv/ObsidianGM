@@ -1,35 +1,19 @@
 ---
 File: Snapdragon Fireworks
 School: transmutation
-Subschool: 
 Aspects: [ fire, light ]
 ClassList: { bard: 2, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: dragon-shaped fireworks
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a bundle of sulfur wrapped in cloth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/snapdragon-fireworks)"
 ---

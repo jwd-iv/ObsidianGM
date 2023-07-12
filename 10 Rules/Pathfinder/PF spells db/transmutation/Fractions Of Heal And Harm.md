@@ -1,35 +1,16 @@
 ---
 File: Fractions Of Heal And Harm
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3, sorcerer: 3, wizard: 3 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Nethys
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

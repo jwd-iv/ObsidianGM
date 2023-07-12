@@ -1,35 +1,19 @@
 ---
 File: Symbol Of Dispelling
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: pure grain alcohol and powdered diamond worth 5,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

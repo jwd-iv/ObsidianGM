@@ -1,35 +1,19 @@
 ---
 File: Ethereal Jaunt
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, sorcerer: 7, wizard: 7, psychic: 6, summoner: 5, unchained summoner: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Thievery: 7 }
-GPCost: 
 Bloodline: { Ectoplasm: 13 }
 Patron: { Agility: 14, Boundaries: 14, Spirits: 14, Ethereal: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/ethereal-jaunt)"
 ---

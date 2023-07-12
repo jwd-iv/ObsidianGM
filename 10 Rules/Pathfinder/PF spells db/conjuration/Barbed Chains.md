@@ -6,30 +6,15 @@ Aspects: [ emotionUM, fear, mind-affecting ]
 ClassList: { antipaladin: 1, bloodrager: 1, cleric: 1, oracle: 1, inquisitor: 1, occultist: 1, shaman: 1, summoner: 1, unchained summoner: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: a chain sharpened at one end
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a length of chain doused with fresh blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

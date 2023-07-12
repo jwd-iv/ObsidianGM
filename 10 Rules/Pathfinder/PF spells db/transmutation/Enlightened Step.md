@@ -1,35 +1,17 @@
 ---
 File: Enlightened Step
 School: transmutation
-Subschool: 
 Aspects: [ air, meditative ]
 ClassList: { cleric: 6, oracle: 6, druid: 6, shaman: 6 }
 CastTime: 1 hour
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
   M: soothing incense worth 600 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 600
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Divine Anthology"
 ---

@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, psychic: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one cylinder (10-ft. radius, 40-ft. high)/3 levels
-Targets: 
 Duration: concentration +1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a sprinkle of ground glass
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Distant Realms"
 ---

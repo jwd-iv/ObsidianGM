@@ -1,35 +1,21 @@
 ---
 File: Locate Object
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 3, oracle: 3, sorcerer: 2, wizard: 2, witch: 3, inquisitor: 3, occultist: 2, psychic: 2, mesmerist: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: circle, centered on you, with a radius of 400 ft. + 40 ft./level
-Effect: 
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Thievery: 3, Travel: 2 }
-GPCost: 
-Bloodline: 
 Patron: { Portents: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/l/locate-object)"
 ---

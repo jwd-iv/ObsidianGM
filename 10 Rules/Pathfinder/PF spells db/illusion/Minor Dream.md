@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { alchemist: 2, bard: 3, sorcerer: 3, wizard: 3, witch: 2, psychic: 3, mesmerist: 3, medium: 2 }
 CastTime: 1 minute
 Range: unlimited
-Area: 
-Effect: 
 Targets: you or one gnome touched
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

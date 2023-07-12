@@ -1,35 +1,19 @@
 ---
 File: Plague Storm
 School: necromancy
-Subschool: 
 Aspects: [ disease, evil ]
 ClassList: { cleric: 6, oracle: 6, druid: 6, sorcerer: 7, wizard: 7, witch: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: cloud spreads in 20-ft. radius, 20 ft. high
-Targets: 
 Duration: 1 minute/level and instantaneous (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Plague: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/p/plague-storm)"
 ---

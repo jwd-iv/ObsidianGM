@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, cleric: 3, oracle: 3, inquisitor: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: permanent; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: emerald dust worth 100 gp
-  F: 
-  DF: 
 Deity: Norgorber
 SLALevel: 3
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

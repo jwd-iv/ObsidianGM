@@ -2,34 +2,18 @@
 File: Bard's Escape
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { bard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: you and up to 1 willing creature/2 caster levels, no two of which can be more than 30 ft. apart
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: pieces of a smashed fiddle
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/bard-s-escape)"
 ---

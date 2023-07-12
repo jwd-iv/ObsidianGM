@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { druid: 3, shaman: 3, psychic: 4, mesmerist: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one animal
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Animal: 3 }
-GPCost: 
-Bloodline: 
 Patron: { Animals: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/dominate-animal)"
 ---

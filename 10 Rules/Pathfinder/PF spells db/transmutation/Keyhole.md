@@ -1,35 +1,17 @@
 ---
 File: Keyhole
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: one touched door or portal
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: special (see text)
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 143"
 ---

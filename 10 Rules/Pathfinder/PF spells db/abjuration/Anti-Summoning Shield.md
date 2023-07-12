@@ -1,35 +1,17 @@
 ---
 File: Anti-Summoning Shield
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, inquisitor: 3, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 50-ft.-radius
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Demon Hunter's Handbook"
 ---

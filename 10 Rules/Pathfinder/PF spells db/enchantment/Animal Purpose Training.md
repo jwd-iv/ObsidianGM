@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { antipaladin: 1, bard: 2, druid: 2, inquisitor: 1, paladin: 1, ranger: 1, shaman: 2, witch: 1, psychic: 1 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one indifferent or friendly animal
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a swatch of black cloth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

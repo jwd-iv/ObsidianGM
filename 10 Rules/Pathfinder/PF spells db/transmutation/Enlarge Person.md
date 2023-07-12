@@ -1,34 +1,22 @@
 ---
 File: Enlarge Person
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1, alchemist: 1, summoner: 1, unchained summoner: 1, witch: 1, magus: 1, bloodrager: 1, occultist: 1, psychic: 1, medium: 1 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one humanoid creature
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: powdered iron
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Growth: 1, Strength: 1 }
-GPCost: 
 Bloodline: { Aberrant (Sorcerer): 3, Boreal: 3, Efreeti: 3, Aberrant (BloodRager): 7 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/enlarge-person)"
 ---

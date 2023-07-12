@@ -1,35 +1,20 @@
 ---
 File: Rope Trick
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, occultist: 2, psychic: 2, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched piece of rope from 5 ft. to 30 ft. long
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: powdered corn and a twisted loop of parchment
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Dimensions: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/rope-trick)"
 ---

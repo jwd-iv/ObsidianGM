@@ -1,35 +1,19 @@
 ---
 File: Create Treasure Map
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, druid: 3, ranger: 2, sorcerer: 2, wizard: 2, occultist: 2, psychic: 2, medium: 2 }
 CastTime: 1 hour
 Range: touch
-Area: 
-Effect: 
 Targets: one dead creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: powdered metal and rare inks worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/create-treasure-map)"
 ---

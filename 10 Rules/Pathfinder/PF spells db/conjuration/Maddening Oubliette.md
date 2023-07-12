@@ -2,34 +2,19 @@
 File: Maddening Oubliette
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, sorcerer: 7, wizard: 7, witch: 7 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: special; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: the powdered bones of a creature that died in prison
-  F: 
-  DF: 
 Deity: Zon-Kuthon
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

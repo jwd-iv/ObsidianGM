@@ -1,35 +1,17 @@
 ---
 File: Cleanse
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, inquisitor: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Divine: 5 }
-GPCost: 
-Bloodline: 
 Patron: { Healing: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/cleanse)"
 ---

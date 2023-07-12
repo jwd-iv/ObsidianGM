@@ -2,34 +2,18 @@
 File: Claim Identity
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 3, antipaladin: 3, bard: 3, druid: 4, inquisitor: 3, shaman: 4, sorcerer: 4, wizard: 4, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: humanoid creature touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a needle and thread
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Spymaster's Handbook"
 ---

@@ -1,35 +1,21 @@
 ---
 File: Detect Undead
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, paladin: 1, sorcerer: 1, wizard: 1, alchemist: 1, inquisitor: 1, shaman: 1, psychic: 1, mesmerist: 1, spiritualist: 1, medium: 1 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: concentration, up to 1 minute/ level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: earth from a grave
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Occult: 2, Plague: 2, Ethereal: 2 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/detect-undead)"
 ---

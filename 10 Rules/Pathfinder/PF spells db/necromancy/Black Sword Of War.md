@@ -1,35 +1,19 @@
 ---
 File: Black Sword Of War
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 3, cleric: 3, oracle: 3, ranger: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: piercing or slashing manufactured weapon touched
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Szuriel
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 71"
 ---

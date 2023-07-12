@@ -1,33 +1,22 @@
 ---
 File: Gaseous Form
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, alchemist: 3, magus: 3, occultist: 3, psychic: 3, spiritualist: 3, medium: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: willing corporeal creature touched
 Duration: 2 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
-  V: 
   S: yes
   M: a bit of gauze and a wisp of smoke
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Air: 3 }
-GPCost: 
 Bloodline: { Marid: 7, Nanite: 7, Protean: 7 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/gaseous-form)"
 ---

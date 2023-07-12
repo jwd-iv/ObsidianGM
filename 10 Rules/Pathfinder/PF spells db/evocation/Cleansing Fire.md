@@ -1,35 +1,19 @@
 ---
 File: Cleansing Fire
 School: evocation
-Subschool: 
 Aspects: [ good, fire ]
 ClassList: { cleric: 5, oracle: 5, inquisitor: 4, paladin: 4 }
 CastTime: standard action
 Range: touch
 Area: 30-ft. radius emanating from the touched point
-Effect: 
-Targets: 
 Duration: concentration, up to 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

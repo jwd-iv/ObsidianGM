@@ -1,35 +1,17 @@
 ---
 File: Outbreak
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 2, bloodrager: 3, cleric: 2, oracle: 2, druid: 2, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft. burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

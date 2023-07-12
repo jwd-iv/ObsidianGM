@@ -1,35 +1,15 @@
 ---
 File: Planar Orientation
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, druid: 1, inquisitor: 1, psychic: 1, ranger: 1, shaman: 1, summoner: 1, unchained summoner: 1, witch: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "The First World Realm Of The Fey"
 ---

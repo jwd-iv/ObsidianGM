@@ -2,34 +2,19 @@
 File: Pocketful Of Vipers
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { druid: 3, occultist: 3, ranger: 3, shaman: 3, witch: 3 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 1 hour/level or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: no
 Components:
   V: yes
   S: yes
   M: a snake scale and fang
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

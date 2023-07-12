@@ -1,35 +1,17 @@
 ---
 File: Silk To Steel
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, witch: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one scarf
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Magic"
 ---

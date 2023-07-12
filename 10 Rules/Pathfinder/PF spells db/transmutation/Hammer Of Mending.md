@@ -1,35 +1,19 @@
 ---
 File: Hammer Of Mending
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5 }
 CastTime: standard action
-Range: 
 Area: 30-ft.-radius burst centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Torag
 SLALevel: 5
-Domains: 
 GPCost: 300
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Quench
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: one 20-ft. cube/level
-Effect: 
 Targets: one fire-based magic item
 Duration: instantaneous
-Dismissible: 
 Shapeable: yes
 SavingThrow: none or Will negates (object)
 SR: no or yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/q/quench)"
 ---

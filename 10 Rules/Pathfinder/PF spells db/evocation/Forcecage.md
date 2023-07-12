@@ -1,35 +1,22 @@
 ---
 File: Forcecage
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: barred cage (20-ft. cube) or windowless cell (10-ft. cube)
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
   M: ruby dust worth 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
 Patron: { Peace: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/forcecage)"
 ---

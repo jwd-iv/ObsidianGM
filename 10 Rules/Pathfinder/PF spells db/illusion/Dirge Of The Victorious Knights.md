@@ -2,34 +2,18 @@
 File: Dirge Of The Victorious Knights
 School: illusion
 Subschool: shadow
-Aspects: 
 ClassList: { bard: 6 }
 CastTime: 1 round
 Range: 120 ft.
-Area: 
 Effect: 120-ft. line, 10 ft. wide
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

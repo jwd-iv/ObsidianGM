@@ -1,35 +1,18 @@
 ---
 File: Coward's Cowl
 School: enchantment
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { alchemist: 1, bard: 1, cleric: 1, oracle: 1, mesmerist: 1, psychic: 1, shaman: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

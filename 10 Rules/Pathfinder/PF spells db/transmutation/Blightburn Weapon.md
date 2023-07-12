@@ -1,35 +1,19 @@
 ---
 File: Blightburn Weapon
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, inquisitor: 4, magus: 4, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one weapon
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Kobolds Of Golarion"
 ---

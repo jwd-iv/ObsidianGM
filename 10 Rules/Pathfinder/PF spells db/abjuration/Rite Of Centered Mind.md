@@ -1,35 +1,17 @@
 ---
 File: Rite Of Centered Mind
 School: abjuration
-Subschool: 
 Aspects: [ meditative ]
 ClassList: { cleric: 1, oracle: 1, druid: 1, shaman: 1, wizard: 1 }
 CastTime: 1 hour
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
   M: soothing incense worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Divine Anthology"
 ---

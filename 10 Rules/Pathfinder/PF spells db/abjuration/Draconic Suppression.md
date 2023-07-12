@@ -1,35 +1,18 @@
 ---
 File: Draconic Suppression
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one dragon
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dragonslayer's Handbook"
 ---

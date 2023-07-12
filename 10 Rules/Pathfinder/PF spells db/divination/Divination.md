@@ -1,35 +1,20 @@
 ---
 File: Divination
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, witch: 4, inquisitor: 4, shaman: 4, psychic: 4, spiritualist: 4, medium: 3 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: incense and an appropriate offering worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Knowledge: 4 }
 GPCost: 25
 Bloodline: { Dreamspun: 9 }
 Patron: { Portents: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/divination)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Twisted Futures
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 2, oracle: 2, druid: 1, shaman: 1, sorcerer: 2, wizard: 2, witch: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a small die with the faces scratched off
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Giant Hunters Handbook"
 ---

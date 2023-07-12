@@ -6,30 +6,14 @@ Aspects: [ shadowUM ]
 ClassList: { bard: 5, mesmerist: 5, shaman: 5, sorcerer: 6, wizard: 6, spiritualist: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 1 hour/level until discharged, then 1 minute/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with); varies; see text
 SR: see text
 Components:
   V: yes
   S: yes
   M: a fetchling's tooth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

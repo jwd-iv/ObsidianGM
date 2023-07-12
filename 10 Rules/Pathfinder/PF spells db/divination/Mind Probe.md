@@ -1,35 +1,19 @@
 ---
 File: Mind Probe
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { medium: 3, mesmerist: 4, occultist: 4, psychic: 4, sorcerer: 5, wizard: 5 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

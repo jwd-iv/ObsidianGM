@@ -1,35 +1,18 @@
 ---
 File: Banshee Blast
 School: necromancy
-Subschool: 
 Aspects: [ death, fear, mind-affecting, sonic ]
 ClassList: { sorcerer: 6, wizard: 6, witch: 6, spiritualist: 6 }
 CastTime: standard action
 Range: 30 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous and 1 round/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half and Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Distracting Cacophony
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 2, sorcerer: 3, wizard: 3, psychic: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft. spread
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Insanity: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/d/distracting-cacophony)"
 ---

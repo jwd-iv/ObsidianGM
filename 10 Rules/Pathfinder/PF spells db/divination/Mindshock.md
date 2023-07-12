@@ -1,35 +1,17 @@
 ---
 File: Mindshock
 School: divination
-Subschool: 
 Aspects: [ mind-affecting, painUM ]
 ClassList: { antipaladin: 2, bloodrager: 2, inquisitor: 2, medium: 2, occultist: 2, psychic: 2, shaman: 2, spiritualist: 2, witch: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

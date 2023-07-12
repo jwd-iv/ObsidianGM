@@ -1,35 +1,20 @@
 ---
 File: Certain Grip
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, druid: 2, sorcerer: 2, wizard: 2, bloodrager: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a tiny ball of tar
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/c/certain-grip)"
 ---

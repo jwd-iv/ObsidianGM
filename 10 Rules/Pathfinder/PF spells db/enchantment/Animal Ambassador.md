@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 4, druid: 4, ranger: 3, shaman: 4 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Medium or smaller animal
 Duration: 1 day/level or until message is delivered
-Dismissible: 
-Shapeable: 
 SavingThrow: none (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a morsel of food the animal likes
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

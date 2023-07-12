@@ -1,35 +1,18 @@
 ---
 File: Allfood
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { ranger: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched, weighing up to 5 lbs./level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a pinch of salt and pepper
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/a/allfood)"
 ---

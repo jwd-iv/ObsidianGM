@@ -1,35 +1,20 @@
 ---
 File: Infuse Decay
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: 10 minutes
 Range: touch
 Area: corporeal undead touched; see text
-Effect: 
-Targets: 
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Curse Of The Crimson Throne Chapter Appendix"
 ---

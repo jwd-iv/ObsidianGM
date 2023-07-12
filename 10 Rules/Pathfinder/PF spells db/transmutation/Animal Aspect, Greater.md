@@ -2,34 +2,21 @@
 File: Animal Aspect, Greater
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 3, magus: 3, druid: 3, ranger: 3, sorcerer: 4, wizard: 4, bloodrager: 3, psychic: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a part of the animal
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Competition: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/a/animal-aspect#TOC-Animal-Aspect-Greater)"
 ---

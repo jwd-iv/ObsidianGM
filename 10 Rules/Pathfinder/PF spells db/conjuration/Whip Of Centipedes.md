@@ -2,34 +2,19 @@
 File: Whip Of Centipedes
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 5, druid: 5, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5, witch: 5 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: whiplike swarm
-Targets: 
 Duration: 1 round/level (D (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a square of red cloth
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

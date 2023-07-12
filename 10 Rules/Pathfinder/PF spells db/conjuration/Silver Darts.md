@@ -2,34 +2,18 @@
 File: Silver Darts
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bloodrager: 3, magus: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: 15 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a silver needle
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Night Blindness
 School: necromancy
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { antipaladin: 1, bard: 1, bloodrager: 1, cleric: 2, oracle: 2, mesmerist: 1, psychic: 1, shaman: 2, sorcerer: 1, wizard: 1, spiritualist: 2, witch: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

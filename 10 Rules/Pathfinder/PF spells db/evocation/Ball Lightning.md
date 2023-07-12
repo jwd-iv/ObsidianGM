@@ -1,35 +1,20 @@
 ---
 File: Ball Lightning
 School: evocation
-Subschool: 
 Aspects: [ air, electricity ]
 ClassList: { druid: 4, sorcerer: 4, wizard: 4, magus: 4, bloodrager: 4, shaman: 4, occultist: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: two or more 5-ft.-diameter spheres
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a small iron ring
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/ball-lightning)"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Reincarnate
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, witch: 5, shaman: 4, medium: 4 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: oils worth 1,000 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/reincarnate)"
 ---

@@ -1,33 +1,21 @@
 ---
 File: Draconic Reservoir
 School: evocation
-Subschool: 
 Aspects: [ acid, cold, electricity, or fire ]
 ClassList: { alchemist: 3, sorcerer: 3, wizard: 3, bloodrager: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level or until discharged; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a scale from dragon that produces the energy you seek to absorb
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Dragon: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/draconic-reservoir)"
 ---

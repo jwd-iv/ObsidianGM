@@ -6,30 +6,18 @@ Aspects: [ fire, water ]
 ClassList: { druid: 4, sorcerer: 5, wizard: 5, magus: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: spout of boiling water filling a 5 ft. square and spraying upward 10 ft./2 levels
-Targets: 
 Duration: concentration + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial (see below)
 SR: no
 Components:
   V: yes
   S: yes
   M: a piece of lava rock
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Aquatic: 9 }
 Patron: { Water: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/g/geyser)"
 ---

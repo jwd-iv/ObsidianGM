@@ -1,35 +1,15 @@
 ---
 File: Energy Hack
 School: transmutation
-Subschool: 
 Aspects: [ acid, cold, electricity, or fire; see below ]
 ClassList: { sorcerer: 4, wizard: 4 }
 CastTime: immediate action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level (see below)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Origins"
 ---

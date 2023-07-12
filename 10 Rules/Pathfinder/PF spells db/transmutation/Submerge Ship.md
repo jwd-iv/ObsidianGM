@@ -1,35 +1,19 @@
 ---
 File: Submerge Ship
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, sorcerer: 7, wizard: 7 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: 1 sailing vessel
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a glass marble or piece of soap
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 56"
 ---

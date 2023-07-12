@@ -7,29 +7,12 @@ ClassList: { bard: 4, inquisitor: 4, psychic: 5, mesmerist: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 30-ft.-radius burst
-Effect: 
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/denounce)"
 ---

@@ -1,35 +1,16 @@
 ---
 File: Hidden Knowledge
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, medium: 2, mesmerist: 2, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: up to 1 day/level (see text)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a drop of ink
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

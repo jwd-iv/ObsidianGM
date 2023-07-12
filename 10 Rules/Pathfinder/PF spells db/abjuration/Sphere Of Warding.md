@@ -1,35 +1,18 @@
 ---
 File: Sphere Of Warding
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, inquisitor: 4, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: 10-ft.-radius sphere emanating from point touched
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Undead Slayer's Handbook"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Shield Of Shards
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 1, cleric: 2, oracle: 2, inquisitor: 2, magus: 2, medium: 2, paladin: 1, shaman: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: one shield you wield
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Armor Masters Handbook"
 ---

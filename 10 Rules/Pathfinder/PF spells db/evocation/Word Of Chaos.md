@@ -1,34 +1,19 @@
 ---
 File: Word Of Chaos
 School: evocation
-Subschool: 
 Aspects: [ chaotic, sonic ]
 ClassList: { cleric: 7, oracle: 7, inquisitor: 6 }
 CastTime: standard action
 Range: 40 ft.
 Area: nonchaotic creatures in a 40-ft.-radius spread centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Will negates; see text
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Chaos: 7 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/word-of-chaos)"
 ---

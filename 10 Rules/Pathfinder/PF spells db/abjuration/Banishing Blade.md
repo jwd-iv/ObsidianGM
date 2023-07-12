@@ -1,35 +1,17 @@
 ---
 File: Banishing Blade
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 4, bloodrager: 4, inquisitor: 5, magus: 5, medium: 4, paladin: 4, shaman: 5, sorcerer: 5, wizard: 5, spiritualist: 5, summoner: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one melee weapon
-Targets: 
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none and Will partial (see text)
 SR: yes (see text)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

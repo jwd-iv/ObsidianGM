@@ -1,35 +1,19 @@
 ---
 File: Rune Trace
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, occultist: 1, psychic: 1, sorcerer: 1, wizard: 1 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: rune touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: pinch of powdered gemstones worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

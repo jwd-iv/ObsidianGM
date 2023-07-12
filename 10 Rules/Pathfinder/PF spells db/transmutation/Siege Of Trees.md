@@ -1,35 +1,19 @@
 ---
 File: Siege Of Trees
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 7 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Large plant per three caster levels
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/s/siege-of-trees)"
 ---

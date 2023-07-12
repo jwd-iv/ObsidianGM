@@ -1,35 +1,21 @@
 ---
 File: Speak with Dead
 School: necromancy
-Subschool: 
 Aspects: [ language-dependent ]
 ClassList: { cleric: 3, oracle: 3, witch: 3, inquisitor: 3, shaman: 3, psychic: 3, spiritualist: 3, medium: 2 }
 CastTime: 10 minutes
 Range: 10 ft.
-Area: 
-Effect: 
 Targets: one dead creature
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Knowledge: 3, Repose: 3 }
-GPCost: 
-Bloodline: 
 Patron: { Death: 6, Spirits: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/speak-with-dead)"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Statue
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, alchemist: 6, occultist: 6 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: lime, sand, and a drop of water stirred by an iron spike
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Artifice: 8, Ruins: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/statue)"
 ---

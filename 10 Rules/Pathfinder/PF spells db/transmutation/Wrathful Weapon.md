@@ -1,35 +1,19 @@
 ---
 File: Wrathful Weapon
 School: transmutation
-Subschool: 
 Aspects: [ see text ]
 ClassList: { cleric: 4, oracle: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: melee weapon touched (see text)
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will (harmless, object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Origins"
 ---

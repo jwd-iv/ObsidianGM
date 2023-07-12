@@ -1,35 +1,21 @@
 ---
 File: Antilife Shell
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, druid: 6, shaman: 6, psychic: 6 }
 CastTime: 1 round
 Range: 10 ft.
 Area: 10-ft.-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Animal: 6, Souls: 6 }
-GPCost: 
-Bloodline: 
 Patron: { Animals: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/antilife-shell)"
 ---

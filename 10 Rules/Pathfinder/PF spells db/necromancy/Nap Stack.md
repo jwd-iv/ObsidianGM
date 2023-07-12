@@ -1,35 +1,19 @@
 ---
 File: Nap Stack
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3 }
 CastTime: 1 minute
 Range: 30 ft.
 Area: 30-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: 8 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a little silk pillow worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/n/nap-stack)"
 ---

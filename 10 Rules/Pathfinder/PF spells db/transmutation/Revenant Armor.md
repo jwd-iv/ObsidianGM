@@ -1,35 +1,17 @@
 ---
 File: Revenant Armor
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 3, cleric: 4, oracle: 4, magus: 4, medium: 4, occultist: 4, paladin: 3, shaman: 3, sorcerer: 4, wizard: 4, spiritualist: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one suit of armor
 Duration: 1 day/level or 1 hour/level; see below
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Armor Masters Handbook"
 ---

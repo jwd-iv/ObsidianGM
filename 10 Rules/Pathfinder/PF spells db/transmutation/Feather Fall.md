@@ -1,33 +1,18 @@
 ---
 File: Feather Fall
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, magus: 1, bloodrager: 1, occultist: 1, psychic: 1, spiritualist: 1 }
 CastTime: immediate action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart
 Duration: until landing or 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless) or Will negates (object)
 SR: yes (object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Feather: 2, Void: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/feather-fall)"
 ---

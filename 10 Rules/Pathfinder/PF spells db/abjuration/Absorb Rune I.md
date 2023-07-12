@@ -1,35 +1,19 @@
 ---
 File: Absorb Rune I
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, cleric: 4, oracle: 4, magus: 4, occultist: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one spell effect
 Duration: instantaneous plus 1 minute/ level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a white silk glove worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

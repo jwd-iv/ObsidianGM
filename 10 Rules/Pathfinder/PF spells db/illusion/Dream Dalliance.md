@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { mesmerist: 3, psychic: 4, sorcerer: 4, wizard: 4 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief, then Will partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

@@ -2,34 +2,21 @@
 File: Mage's Magnificent Mansion
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: extradimensional mansion, up to three 10-ft. cubes/level (S)
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Industry: 7 }
 GPCost: 5
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mage-s-magnificent-mansion)"
 ---

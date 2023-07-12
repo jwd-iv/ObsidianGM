@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { psychic: 9 }
 CastTime: 1 minute
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature of your same race
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: diamonds worth 10,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 10000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

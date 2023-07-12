@@ -1,35 +1,21 @@
 ---
 File: Crushing Hand
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft. hand
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Strength: 9 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/crushing-hand)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Forest Friend
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, ranger: 2 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing living creature per three levels, no two of which may be more than 30 ft. apart.
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a pinch of manure
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/f/forest-friend)"
 ---

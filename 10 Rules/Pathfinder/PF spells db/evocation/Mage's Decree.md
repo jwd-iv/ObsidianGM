@@ -1,35 +1,17 @@
 ---
 File: Mage's Decree
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, cleric: 6, oracle: 6, inquisitor: 5, mesmerist: 5, psychic: 6, sorcerer: 6, wizard: 6, summoner: 5, unchained summoner: 5, witch: 6 }
 CastTime: standard action
 Range: up to 1 mile/level; see text
-Area: 
-Effect: 
 Targets: see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

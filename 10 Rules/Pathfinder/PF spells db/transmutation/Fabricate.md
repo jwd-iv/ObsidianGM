@@ -1,35 +1,20 @@
 ---
 File: Fabricate
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, occultist: 5, psychic: 5 }
 CastTime: see text
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to 10 cu. ft./level; see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: the original material, which costs the same amount as the raw materials required to craft the item to be created
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Artifice: 5 }
-GPCost: 
 Bloodline: { Impossible: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/fabricate)"
 ---

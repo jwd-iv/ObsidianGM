@@ -1,35 +1,20 @@
 ---
 File: Righteous Blood
 School: abjuration
-Subschool: 
 Aspects: [ good ]
 ClassList: { inquisitor: 2, paladin: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature of good alignment
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Demon Hunter's Handbook"
 ---

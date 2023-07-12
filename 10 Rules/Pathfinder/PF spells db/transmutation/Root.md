@@ -1,35 +1,20 @@
 ---
 File: Root
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { sorcerer: 0, wizard: 0 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of dirt
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Paizo Blog"
 ---

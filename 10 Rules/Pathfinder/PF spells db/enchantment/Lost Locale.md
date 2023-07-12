@@ -7,29 +7,14 @@ ClassList: { psychic: 9, sorcerer: 9, wizard: 9 }
 CastTime: 24 hours
 Range: 1 mile/level
 Area: one 1-mile cube/level
-Effect: 
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

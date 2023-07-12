@@ -6,30 +6,15 @@ Aspects: [ curseUM, mind-affecting ]
 ClassList: { bard: 5, cleric: 7, oracle: 7, mesmerist: 5, psychic: 7, sorcerer: 7, wizard: 7, spiritualist: 5, witch: 7 }
 CastTime: 8 hours
 Range: see text
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates, then Will partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a physical connection to the target; see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

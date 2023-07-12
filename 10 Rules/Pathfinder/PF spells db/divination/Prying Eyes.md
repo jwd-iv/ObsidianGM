@@ -1,35 +1,20 @@
 ---
 File: Prying Eyes
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, witch: 5, occultist: 5, psychic: 5, mesmerist: 5, spiritualist: 5 }
 CastTime: 1 minute
 Range: 1 mile
-Area: 
 Effect: 10 or more levitating eyes
-Targets: 
 Duration: 1 hour/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a handful of crystal marbles
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Rakshasa: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/prying-eyes)"
 ---

@@ -1,35 +1,21 @@
 ---
 File: Spiritual Ally
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { cleric: 4, oracle: 4, spiritualist: 4, medium: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: spiritual ally of force
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Spirits: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/spiritual-ally)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Tactical Insight
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 6, inquisitor: 6 }
 CastTime: standard action
 Range: 1 hex
-Area: 
-Effect: 
 Targets: one army
 Duration: 1 battle
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Quests and Campaigns"
 ---

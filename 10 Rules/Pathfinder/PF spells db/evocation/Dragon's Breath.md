@@ -1,34 +1,22 @@
 ---
 File: Dragon's Breath
 School: evocation
-Subschool: 
 Aspects: [ acid, cold, electricity, or fire ]
 ClassList: { alchemist: 4, sorcerer: 4, wizard: 4, bloodrager: 4 }
 CastTime: standard action
 Range: 30 ft. or 60 ft.
 Area: cone-shaped burst or line
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a dragon scale
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Dragon: 4 }
-GPCost: 
 Bloodline: { Kobold Sorcerer: 9, Kobold: 9 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath)"
 ---

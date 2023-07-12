@@ -1,35 +1,19 @@
 ---
 File: Magic Circle Against Technology
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: touch
 Area: 10-ft.-radius emanation from touched creature
-Effect: 
-Targets: 
 Duration: 10 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless), see text
 SR: no; see text
 Components:
   V: yes
   S: yes
   M: a 3-ft.-diameter circle of powdered copper
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

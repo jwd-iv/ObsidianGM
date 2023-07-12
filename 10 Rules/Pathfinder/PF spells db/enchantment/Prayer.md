@@ -7,28 +7,17 @@ ClassList: { cleric: 3, oracle: 3, paladin: 3, inquisitor: 3 }
 CastTime: standard action
 Range: 40 ft.
 Area: all allies and foes within a 40-ft.-radius burst centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Archon: 3, Community: 3, Leadership: 3 }
-GPCost: 
-Bloodline: 
 Patron: { Ancestors: 6 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/prayer)"
 ---

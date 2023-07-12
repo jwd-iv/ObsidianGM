@@ -1,35 +1,18 @@
 ---
 File: Empower Holy Water
 School: transmutation
-Subschool: 
 Aspects: [ good ]
 ClassList: { alchemist: 2, bard: 2, paladin: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one or more vials of holy water
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none (object)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Undead Slayer's Handbook"
 ---

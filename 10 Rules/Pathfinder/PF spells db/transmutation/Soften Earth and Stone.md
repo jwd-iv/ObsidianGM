@@ -1,35 +1,20 @@
 ---
 File: Soften Earth and Stone
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { druid: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 10-ft. square/level; see text
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Earth: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/soften-earth-and-stone)"
 ---

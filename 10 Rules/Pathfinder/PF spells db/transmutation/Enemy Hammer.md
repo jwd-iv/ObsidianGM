@@ -1,35 +1,19 @@
 ---
 File: Enemy Hammer
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, occultist: 6, psychic: 6, spiritualist: 6 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: puppet strings
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/enemy-hammer)"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Protection From Outsiders
 School: abjuration
-Subschool: 
 Aspects: [ see text ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, paladin: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Demon Hunter's Handbook"
 ---

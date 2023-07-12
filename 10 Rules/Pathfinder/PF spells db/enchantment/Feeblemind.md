@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 5, wizard: 5, witch: 5, psychic: 5, mesmerist: 5, spiritualist: 5, medium: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a handful of clay, crystal, or glass spheres
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Aberrant (Sorcerer): 11, Accursed: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/feeblemind)"
 ---

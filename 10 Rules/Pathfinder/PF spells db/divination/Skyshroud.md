@@ -2,34 +2,17 @@
 File: Skyshroud
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3, skald: 3, sorcerer: 3, wizard: 3 }
 CastTime: 1 minute
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: hemisphere that cannot extend beyond four 10-ft. cubes + one 10-ft. cube/level (S)
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

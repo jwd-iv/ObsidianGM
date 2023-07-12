@@ -2,34 +2,18 @@
 File: Transport via Plants
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { druid: 6, shaman: 7 }
 CastTime: standard action
 Range: unlimited
-Area: 
-Effect: 
 Targets: you and touched objects or other touched willing creatures
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
 Bloodline: { Verdant: 13 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/transport-via-plants)"
 ---

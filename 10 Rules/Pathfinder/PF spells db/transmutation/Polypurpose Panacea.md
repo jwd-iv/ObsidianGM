@@ -1,35 +1,14 @@
 ---
 File: Polypurpose Panacea
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, sorcerer: 1, wizard: 1, psychic: 1, mesmerist: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: see below
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/p/polypurpose-panacea)"
 ---

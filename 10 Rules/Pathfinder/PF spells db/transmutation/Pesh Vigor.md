@@ -1,35 +1,19 @@
 ---
 File: Pesh Vigor
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, antipaladin: 1, bloodrager: 1, cleric: 1, oracle: 1, druid: 1, magus: 1, medium: 1, psychic: 1, shaman: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a dose of pesh worth 15 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
 GPCost: 15
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

@@ -2,34 +2,17 @@
 File: Vacuous Vessel
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 0, sorcerer: 0, wizard: 0 }
 CastTime: swift action
 Range: touch
-Area: 
-Effect: 
 Targets: container touched
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes; see text
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

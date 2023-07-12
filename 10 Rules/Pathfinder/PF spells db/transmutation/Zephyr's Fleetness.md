@@ -1,35 +1,18 @@
 ---
 File: Zephyr's Fleetness
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { ranger: 3 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature/2 levels
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

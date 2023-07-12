@@ -1,35 +1,17 @@
 ---
 File: Swallow Your Fear
 School: enchantment
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature plus one additional creature per four levels, no two of which can be more than 30 ft. apart
 Duration: 10 minutes; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 35"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Discern Location
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, summoner: 6, unchained summoner: 6, witch: 8, shaman: 8, psychic: 8 }
 CastTime: 10 minutes
 Range: unlimited
-Area: 
-Effect: 
 Targets: one creature or object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Knowledge: 8 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/discern-location)"
 ---

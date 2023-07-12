@@ -2,34 +2,17 @@
 File: Secret Vault
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: 10 minutes
 Range: see text
-Area: 
-Effect: 
 Targets: one chamber and up to 10 cu. ft. of goods/caster level
 Duration: 60 days or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

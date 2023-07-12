@@ -1,35 +1,20 @@
 ---
 File: Treasure Stitching
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, occultist: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: all objects on cloth
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a piece of embroidered cloth no larger than 10-ft. square worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/t/treasure-stitching)"
 ---

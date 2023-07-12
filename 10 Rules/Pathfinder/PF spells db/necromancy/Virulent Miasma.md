@@ -1,35 +1,18 @@
 ---
 File: Virulent Miasma
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 2, bloodrager: 3, druid: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: cloud spreads in 20-ft. radius, 20 ft. high
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (see text)
 SR: see text
 Components:
   V: yes
   S: yes
   M: a dried scab from a diseased creature
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

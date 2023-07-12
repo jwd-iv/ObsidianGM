@@ -1,35 +1,17 @@
 ---
 File: Wither Limb
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, inquisitor: 6, shaman: 6, sorcerer: 6, wizard: 6, spiritualist: 5, witch: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

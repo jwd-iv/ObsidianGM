@@ -2,34 +2,18 @@
 File: Shroud Of Innocuity
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 3, medium: 3, mesmerist: 3, psychic: 3, shaman: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing creature plus one/2 caster levels, no two of which can be more than 30 ft. apart
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (harmless); see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The High Court"
 ---

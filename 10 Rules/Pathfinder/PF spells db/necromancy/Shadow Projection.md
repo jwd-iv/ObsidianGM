@@ -1,35 +1,16 @@
 ---
 File: Shadow Projection
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { sorcerer: 4, wizard: 4 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/shadow-projection)"
 ---

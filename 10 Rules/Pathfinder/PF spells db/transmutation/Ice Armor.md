@@ -1,35 +1,19 @@
 ---
 File: Ice Armor
 School: transmutation
-Subschool: 
 Aspects: [ cold, water ]
 ClassList: { cleric: 1, oracle: 1, druid: 1 }
 CastTime: 1 minute
 Range: 0 ft. (see text)
-Area: 
 Effect: a suit of armor made of ice
-Targets: 
 Duration: 1 hour/level or until destroyed
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Gozreh
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Rumormonger
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, inquisitor: 2, medium: 1, mesmerist: 2, psychic: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: 1 rumor
-Targets: 
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

@@ -1,6 +1,5 @@
 ---
 File: Geas, Lesser
-aliases:
 - geas
 School: enchantment
 Subschool: compulsion
@@ -8,30 +7,14 @@ Aspects: [ language-dependent, mind-affecting, curse ]
 ClassList: { bard: 3, sorcerer: 4, wizard: 4, witch: 4, inquisitor: 4, psychic: 4, mesmerist: 3 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature with 7 HD or less
 Duration: 1 day/level or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/geas-quest)"
 ---

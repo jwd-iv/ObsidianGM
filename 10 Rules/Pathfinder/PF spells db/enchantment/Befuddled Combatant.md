@@ -6,30 +6,15 @@ Aspects: [ curse, mind-affecting ]
 ClassList: { bard: 5, mesmerist: 5, psychic: 5, shaman: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: cooked noodles
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Healer's Handbook"
 ---

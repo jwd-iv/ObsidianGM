@@ -6,30 +6,15 @@ Aspects: [ mind-affecting, see text ]
 ClassList: { cleric: 5, oracle: 5, inquisitor: 4, paladin: 4 }
 CastTime: standard action
 Range: 20 ft.
-Area: 
-Effect: 
 Targets: allies within a 20-ft.-radius burst centered on you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

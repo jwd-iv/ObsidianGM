@@ -1,35 +1,17 @@
 ---
 File: Detect Psychic Significance
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { medium: 0, mesmerist: 0, occultist: 0, psychic: 0, spiritualist: 0 }
 CastTime: standard action
 Range: 40 ft.
 Area: 40-ft.-radius burst, centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

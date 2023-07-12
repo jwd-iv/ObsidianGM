@@ -1,35 +1,16 @@
 ---
 File: Contact Other Plane
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, witch: 5, summoner: 4, alchemist: 5, occultist: 4, psychic: 5, spiritualist: 5, unchained summoner: 5 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: concentration
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Harrow: 11 }
 Patron: { Portents: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/contact-other-plane)"
 ---

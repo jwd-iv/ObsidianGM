@@ -2,34 +2,19 @@
 File: Whip Of Spiders
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 2, druid: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, witch: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: whiplike swarm
-Targets: 
 Duration: 1 round/level (D (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a square of red cloth
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,15 @@
 ---
 File: Call Weapon
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, magus: 1, ranger: 1 }
 CastTime: swift action
 Range: 30 ft.
-Area: 
-Effect: 
 Targets: one melee weapon wielded by an ally
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

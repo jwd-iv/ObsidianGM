@@ -2,34 +2,18 @@
 File: Tree Stride
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { druid: 5, ranger: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level or until expended; see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Fey: 11 }
 Patron: { Plant: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/tree-stride)"
 ---

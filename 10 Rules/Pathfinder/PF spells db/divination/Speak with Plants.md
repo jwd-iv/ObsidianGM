@@ -1,35 +1,16 @@
 ---
 File: Speak with Plants
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, druid: 3, ranger: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
 Bloodline: { Verdant: 7 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants)"
 ---

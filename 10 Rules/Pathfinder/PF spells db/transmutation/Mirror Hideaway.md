@@ -1,35 +1,19 @@
 ---
 File: Mirror Hideaway
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, witch: 2, occultist: 2, psychic: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one mirror
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a glass or metal marble and a twisted loop of parchment
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

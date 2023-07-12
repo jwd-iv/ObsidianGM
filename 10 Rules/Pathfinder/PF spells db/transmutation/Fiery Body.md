@@ -1,35 +1,17 @@
 ---
 File: Fiery Body
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Ash: 9 }
-GPCost: 
-Bloodline: 
 Patron: { Light: 18, Summer: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/f/fiery-body)"
 ---

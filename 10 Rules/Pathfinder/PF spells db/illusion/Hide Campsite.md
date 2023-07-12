@@ -2,34 +2,19 @@
 File: Hide Campsite
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { druid: 3, ranger: 2 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
 Area: one 20-ft. cube
-Effect: 
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: no
 Components:
   V: yes
   S: yes
   M: a sprig of mistletoe, and a vial of quicksilver
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/h/hide-campsite)"
 ---

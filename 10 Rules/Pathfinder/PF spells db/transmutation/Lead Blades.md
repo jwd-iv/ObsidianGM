@@ -1,35 +1,16 @@
 ---
 File: Lead Blades
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { ranger: 1, occultist: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: touch
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/l/lead-blades)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Saddle Surge
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { paladin: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you and your mount
 Duration: 1 round/level; see text
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/saddle-surge)"
 ---

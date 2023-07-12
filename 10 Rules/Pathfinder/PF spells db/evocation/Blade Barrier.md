@@ -1,33 +1,22 @@
 ---
 File: Blade Barrier
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { cleric: 6, oracle: 6, inquisitor: 6, occultist: 6, psychic: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: wall of whirling blades up to 20 ft. long/level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form is 20 ft. high
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex half or Reflex negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Good: 6, War: 6 }
-GPCost: 
-Bloodline: 
 Patron: { Thorns: 12 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/blade-barrier)"
 ---

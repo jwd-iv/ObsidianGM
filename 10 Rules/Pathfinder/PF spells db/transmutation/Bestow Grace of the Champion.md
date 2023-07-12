@@ -1,35 +1,20 @@
 ---
 File: Bestow Grace of the Champion
 School: transmutation
-Subschool: 
 Aspects: [ good, law ]
 ClassList: { cleric: 7, oracle: 7, paladin: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: lawful good creature touched
 Duration: 1 round/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: yes (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Devotion: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/b/bestow-grace-of-the-champion)"
 ---

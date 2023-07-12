@@ -1,35 +1,18 @@
 ---
 File: Invoke Deity
 School: transmutation
-Subschool: 
 Aspects: [ see text ]
 ClassList: { antipaladin: 4, cleric: 6, oracle: 6, inquisitor: 6, medium: 4, occultist: 6, paladin: 4, ranger: 4, witch: 6 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: incense worth 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

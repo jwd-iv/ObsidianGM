@@ -1,35 +1,20 @@
 ---
 File: Tongues
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 4, oracle: 4, sorcerer: 3, wizard: 3, alchemist: 3, summoner: 3, unchained summoner: 3, witch: 3, inquisitor: 2, shaman: 4, psychic: 3, mesmerist: 2, spiritualist: 3, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
-  S: 
   M: a clay model of a ziggurat
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Agathion: 3, Language: 3 }
-GPCost: 
 Bloodline: { Aberrant (Sorcerer): 7 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/tongues)"
 ---

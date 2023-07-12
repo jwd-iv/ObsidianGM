@@ -1,35 +1,19 @@
 ---
 File: Blast Barrier
 School: transmutation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { druid: 4, ranger: 3, sorcerer: 3, wizard: 3, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 1-ft.-thick wall up to 10 ft. high by 20 ft. wide
-Targets: 
 Duration: concentration, up to 1 round/2 levels
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half (see below)
 SR: yes (see below)
 Components:
   V: yes
   S: yes
   M: handful of snow, earth, or gravel
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

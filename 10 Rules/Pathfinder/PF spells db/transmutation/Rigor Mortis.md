@@ -1,35 +1,20 @@
 ---
 File: Rigor Mortis
 School: transmutation
-Subschool: 
 Aspects: [ painUM ]
 ClassList: { cleric: 4, oracle: 4, magus: 4, occultist: 4, psychic: 4, shaman: 4, sorcerer: 4, wizard: 4, spiritualist: 3, witch: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: instantaneous; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a knucklebone
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

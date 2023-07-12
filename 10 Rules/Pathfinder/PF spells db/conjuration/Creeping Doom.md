@@ -2,34 +2,19 @@
 File: Creeping Doom
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { druid: 7, summoner: 5, shaman: 7, unchained summoner: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels) or 100 ft.; see text
-Area: 
 Effect: four swarms of insects
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Scalykind: 7, Vermin: 7 }
-GPCost: 
 Bloodline: { Pestilence: 15 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/creeping-doom)"
 ---

@@ -1,35 +1,22 @@
 ---
 File: Freedom of Movement
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, cleric: 4, oracle: 4, druid: 4, ranger: 4, alchemist: 4, inquisitor: 4, alchemist: 4, occultist: 4, psychic: 4, mesmerist: 4, spiritualist: 4, medium: 4 }
 CastTime: standard action
 Range: personal or touch
-Area: 
-Effect: 
 Targets: you or creature touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a leather strip bound to the target
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Liberation: 4, Luck: 4, Flowing: 4 }
-GPCost: 
 Bloodline: { Destined: 9 }
 Patron: { Agility: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/freedom-of-movement)"
 ---

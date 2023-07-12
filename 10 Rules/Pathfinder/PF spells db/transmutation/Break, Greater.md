@@ -1,35 +1,19 @@
 ---
 File: Break, Greater
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 4, occultist: 6, psychic: 6, sorcerer: 6, wizard: 6 }
 CastTime: 1 round
 Range: 30 ft.
-Area: 
-Effect: 
 Targets: all Medium or smaller objects in a 30-ft. burst centered on you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: an unbroken platinum tuning fork worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

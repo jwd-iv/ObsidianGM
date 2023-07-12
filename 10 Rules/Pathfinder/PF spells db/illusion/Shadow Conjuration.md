@@ -6,30 +6,17 @@ Aspects: [ shadow ]
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, mesmerist: 4, spiritualist: 4 }
 CastTime: standard action
 Range: see text
-Area: 
 Effect: see text
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with); varies; see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Darkness: 4 }
-GPCost: 
 Bloodline: { Shadow: 9, Harrow: 9 }
 Patron: { Shadow: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shadow-conjuration)"
 ---

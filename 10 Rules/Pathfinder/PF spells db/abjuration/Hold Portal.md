@@ -1,34 +1,20 @@
 ---
 File: Hold Portal
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1, occultist: 1, psychic: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one portal, up to 20 sq. ft./level
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Fortifications: 1 }
-GPCost: 
-Bloodline: 
 Patron: { Dimensions: 2 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hold-portal)"
 ---

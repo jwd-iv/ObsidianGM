@@ -1,35 +1,18 @@
 ---
 File: Epidemic
 School: necromancy
-Subschool: 
 Aspects: [ disease, evil ]
 ClassList: { cleric: 6, oracle: 6, druid: 6, sorcerer: 7, wizard: 7, witch: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: living creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/e/epidemic)"
 ---

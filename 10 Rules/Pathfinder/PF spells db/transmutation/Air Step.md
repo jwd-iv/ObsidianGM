@@ -1,35 +1,17 @@
 ---
 File: Air Step
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { alchemist: 2, bard: 2, cleric: 2, oracle: 2, druid: 2, ranger: 2, sorcerer: 2, wizard: 2, witch: 2, occultist: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a goose feather
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

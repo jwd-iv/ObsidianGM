@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 4, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (and see below)
 SR: yes
 Components:
-  V: 
   S: yes
   M: an item from the hoard, see below
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dragonslayer's Handbook"
 ---

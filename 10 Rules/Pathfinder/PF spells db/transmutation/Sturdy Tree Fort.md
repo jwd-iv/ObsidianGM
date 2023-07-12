@@ -1,35 +1,18 @@
 ---
 File: Sturdy Tree Fort
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, ranger: 4 }
 CastTime: 1 minute
 Range: touch
-Area: 
 Effect: one large tree and a sturdy wooden house
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

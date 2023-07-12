@@ -2,34 +2,18 @@
 File: Calistria's Guardian Wasps
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { druid: 3, psychic: 3, ranger: 3, sorcerer: 3, wizard: 3 }
 CastTime: 10 minutes; see text
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: swarm of wasps that builds a nest; see text
-Targets: 
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a glob of spiced honey
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

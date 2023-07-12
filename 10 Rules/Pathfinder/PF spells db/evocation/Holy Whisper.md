@@ -1,35 +1,18 @@
 ---
 File: Holy Whisper
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { paladin: 3 }
 CastTime: standard action
 Range: 30 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/h/holy-whisper)"
 ---

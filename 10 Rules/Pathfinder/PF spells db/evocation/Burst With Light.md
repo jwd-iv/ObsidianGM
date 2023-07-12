@@ -1,35 +1,18 @@
 ---
 File: Burst With Light
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { cleric: 4, oracle: 4, paladin: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/4 levels
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Demon Hunter's Handbook"
 ---

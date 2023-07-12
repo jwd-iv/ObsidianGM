@@ -1,35 +1,19 @@
 ---
 File: Litany Of Vengeance
 School: transmutation
-Subschool: 
 Aspects: [ language-dependent ]
 ClassList: { antipaladin: 4, inquisitor: 5, paladin: 4 }
 CastTime: swift action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: no
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/l/litany-of-vengeance)"
 ---

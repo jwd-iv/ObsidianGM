@@ -1,33 +1,20 @@
 ---
 File: Named Bullet
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 4, ranger: 3, sorcerer: 4, wizard: 4, witch: 4, psychic: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one piece of ammunition or one thrown weapon
 Duration: 10 minutes/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: an item from the selected creature or creature type
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/n/named-bullet)"
 ---

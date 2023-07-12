@@ -1,35 +1,19 @@
 ---
 File: Steal Size
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 2, druid: 3, magus: 3, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one humanoid creature larger than you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of iron shaped like a scale tray
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Giant Hunters Handbook"
 ---

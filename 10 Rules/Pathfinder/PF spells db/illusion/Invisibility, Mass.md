@@ -2,34 +2,20 @@
 File: Invisibility, Mass
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, summoner: 5, psychic: 7, mesmerist: 6, unchained summoner: 6 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: any number of creatures, no two of which can be more than 180 ft. apart
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Trickery: 8 }
-GPCost: 
-Bloodline: 
 Patron: { Deception: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/invisibility)"
 ---

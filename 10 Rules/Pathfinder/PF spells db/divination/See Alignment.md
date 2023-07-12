@@ -1,35 +1,16 @@
 ---
 File: See Alignment
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, bard: 1, sorcerer: 1, wizard: 1, psychic: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1/round per level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: eye of newt
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/s/see-alignment)"
 ---

@@ -1,35 +1,15 @@
 ---
 File: Revelation
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 3, oracle: 3, sorcerer: 3, wizard: 3 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level; see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Seekers of Secrets"
 ---

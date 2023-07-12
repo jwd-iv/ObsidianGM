@@ -2,34 +2,20 @@
 File: Freedom's Toast
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { bard: 5, cleric: 5, oracle: 5, inquisitor: 5, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a small amount of ale in a flagon
-  F: 
   DF: yes
 Deity: Cayden Cailean
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

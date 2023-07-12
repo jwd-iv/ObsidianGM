@@ -1,35 +1,22 @@
 ---
 File: World Wave
 School: transmutation
-Subschool: 
 Aspects: [ earth, water ]
 ClassList: { druid: 9, sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: see text
-Area: 
 Effect: see text
-Targets: 
 Duration: 1 round/level or 1 hour/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 9
 Domains: { Exploration: 9 }
-GPCost: 
 Bloodline: { Aquatic: 19 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/w/world-wave)"
 ---

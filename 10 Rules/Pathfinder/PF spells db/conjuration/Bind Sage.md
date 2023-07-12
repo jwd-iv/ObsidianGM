@@ -2,34 +2,17 @@
 File: Bind Sage
 School: conjuration
 Subschool: calling
-Aspects: 
 ClassList: { occultist: 5, psychic: 5, shaman: 5, sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4, witch: 5 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels); see text
-Area: 
-Effect: 
 Targets: one caulborn (Pathfinder RPG Bestiary 3 48)
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: no and yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

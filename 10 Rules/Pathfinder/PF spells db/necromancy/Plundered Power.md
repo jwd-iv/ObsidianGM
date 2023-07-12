@@ -1,35 +1,20 @@
 ---
 File: Plundered Power
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 7, oracle: 7, druid: 7, occultist: 6, shaman: 7, sorcerer: 7, wizard: 7, summoner: 6, unchained summoner: 6, witch: 7 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
   S: yes
   M: crushed rubies worth 2,500 gp and a major organ from the sacrificed target, see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 2500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

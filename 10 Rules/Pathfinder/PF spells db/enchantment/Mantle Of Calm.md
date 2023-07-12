@@ -6,30 +6,16 @@ Aspects: [ emotion, mind-affecting ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, paladin: 3, shaman: 3, psychic: 3, mesmerist: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none and Will negates (see text)
 SR: no and yes (see text)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

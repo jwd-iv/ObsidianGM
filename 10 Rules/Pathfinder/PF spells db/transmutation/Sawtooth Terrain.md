@@ -1,35 +1,19 @@
 ---
 File: Sawtooth Terrain
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { cleric: 5, oracle: 5, druid: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one 10-foot square of difficult and damaging terrain
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

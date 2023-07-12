@@ -1,35 +1,16 @@
 ---
 File: Aura Sight
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, cleric: 3, oracle: 3, inquisitor: 4, shaman: 3, sorcerer: 3, wizard: 3, witch: 3, psychic: 3, mesmerist: 3, spiritualist: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

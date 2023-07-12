@@ -6,30 +6,16 @@ Aspects: [ water ]
 ClassList: { druid: 4, magus: 4, ranger: 3, shaman: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: wall up to 10 ft./level long and 5 ft./level high (S)
-Targets: 
 Duration: concentration + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a bit of coral
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

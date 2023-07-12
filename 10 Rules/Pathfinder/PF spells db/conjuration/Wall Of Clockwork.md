@@ -2,34 +2,19 @@
 File: Wall Of Clockwork
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: up to one 5-ft.-square/level
 Effect: wall of bronze clockworks
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
 Shapeable: yes
 SavingThrow: Reflex half or Reflex negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Streets"
 ---

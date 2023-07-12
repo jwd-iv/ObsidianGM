@@ -1,35 +1,17 @@
 ---
 File: Akashic Form
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { psychic: 9 }
 CastTime: 1 hour
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: no
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

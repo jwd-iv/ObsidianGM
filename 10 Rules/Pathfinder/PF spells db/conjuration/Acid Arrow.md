@@ -6,12 +6,8 @@ Aspects: [ acid ]
 ClassList: { sorcerer: 2, wizard: 2, magus: 2, bloodrager: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: one arrow of acid
-Targets: 
 Duration: 1 round + 1 round per three levels
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
@@ -19,17 +15,7 @@ Components:
   S: yes
   M: rhubarb leaf and an adder's stomach
   F: yes
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/acid-arrow)"
 ---

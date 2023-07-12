@@ -1,35 +1,20 @@
 ---
 File: Transmute Blood To Acid
 School: transmutation
-Subschool: 
 Aspects: [ acid, pain ]
 ClassList: { sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: concentration (maximum 1 round/5 levels)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a wax doll and a vial of acid worth 10 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/t/transmute-blood-to-acid)"
 ---

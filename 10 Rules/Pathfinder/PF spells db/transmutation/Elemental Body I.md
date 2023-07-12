@@ -2,34 +2,18 @@
 File: Elemental Body I
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, alchemist: 4, magus: 4, bloodrager: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: the element you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
 Bloodline: { Elemental: 9 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/elemental-body-i)"
 ---

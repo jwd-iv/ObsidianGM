@@ -1,35 +1,20 @@
 ---
 File: Accelerate Poison
 School: transmutation
-Subschool: 
 Aspects: [ poison ]
 ClassList: { druid: 2, ranger: 2, sorcerer: 2, wizard: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a thorn
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Plant: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/a/accelerate-poison)"
 ---

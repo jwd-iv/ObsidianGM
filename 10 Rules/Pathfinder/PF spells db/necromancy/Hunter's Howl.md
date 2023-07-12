@@ -1,35 +1,18 @@
 ---
 File: Hunter's Howl
 School: necromancy
-Subschool: 
 Aspects: [ fear, mind-affecting, emotion ]
 ClassList: { ranger: 1 }
 CastTime: standard action
 Range: 20 ft.
 Area: 20-ft.-radius burst
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: none
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/h/hunter-s-howl)"
 ---

@@ -1,14 +1,11 @@
 ---
 File: Control Water
 School: transmutation
-Subschool: 
 Aspects: [ water ]
 ClassList: { cleric: 4, oracle: 4, druid: 4, sorcerer: 6, wizard: 6, shaman: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: water in a volume of 10 ft./level by 10 ft./level by 2 ft./level
-Effect: 
-Targets: 
 Duration: 10 min./level
 Dismissible: yes
 Shapeable: yes
@@ -18,18 +15,11 @@ Components:
   V: yes
   S: yes
   M: a pinch of dust for lower water or a drop of water for raise water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Water: 4 }
-GPCost: 
 Bloodline: { Aquatic: 11 }
 Patron: { Moon: 12, Water: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/control-water)"
 ---

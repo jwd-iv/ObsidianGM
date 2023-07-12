@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 4, sorcerer: 5, wizard: 5, witch: 5, shaman: 5, occultist: 5, psychic: 5, mesmerist: 4, spiritualist: 5 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one humanoid
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Slavery: 5 }
-GPCost: 
 Bloodline: { Infernal: 11, Maestro: 11 }
 Patron: { Enchantment: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/dominate-person)"
 ---

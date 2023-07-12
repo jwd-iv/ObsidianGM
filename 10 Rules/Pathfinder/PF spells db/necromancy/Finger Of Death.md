@@ -1,34 +1,21 @@
 ---
 File: Finger Of Death
 School: necromancy
-Subschool: 
 Aspects: [ death ]
 ClassList: { druid: 8, sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
 Bloodline: { Undead: 15 }
 Patron: { Death: 14 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/finger-of-death)"
 ---

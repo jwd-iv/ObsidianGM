@@ -1,35 +1,19 @@
 ---
 File: Ride The Waves
 School: transmutation
-Subschool: 
 Aspects: [ water ]
 ClassList: { cleric: 4, oracle: 4, druid: 4, sorcerer: 4, wizard: 4, witch: 4, bloodrager: 4, shaman: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/r/ride-the-waves)"
 ---

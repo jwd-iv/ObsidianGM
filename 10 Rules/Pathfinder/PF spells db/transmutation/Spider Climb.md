@@ -1,34 +1,19 @@
 ---
 File: Spider Climb
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, sorcerer: 2, wizard: 2, alchemist: 2, summoner: 2, unchained summoner: 2, magus: 2, bloodrager: 2, occultist: 2, psychic: 2, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a live spider
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/spider-climb)"
 ---

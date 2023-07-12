@@ -2,34 +2,18 @@
 File: Remove Paralysis
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, paladin: 2, inquisitor: 2, shaman: 2, spiritualist: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to four creatures, no two of which can be more than 30 ft. apart
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Liberation: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/remove-paralysis)"
 ---

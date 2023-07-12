@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 2, mesmerist: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: two living creatures
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial, see text
 SR: yes
 Components:
-  V: 
   S: yes
   M: a rose petal
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

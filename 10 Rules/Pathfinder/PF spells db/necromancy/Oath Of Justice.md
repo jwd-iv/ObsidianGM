@@ -1,35 +1,19 @@
 ---
 File: Oath Of Justice
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, paladin: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: two creatures touched
 Duration: permanent (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Kols
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dwarves of Golarion"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Soul Bind
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9, witch: 9, shaman: 9, psychic: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: corpse
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 0
 Bloodline: { Daemon: 19 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/soul-bind)"
 ---

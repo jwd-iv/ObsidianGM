@@ -1,35 +1,19 @@
 ---
 File: Runic Overload
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bloodrager: 3, magus: 4, sorcerer: 5, wizard: 5, witch: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: see text
 Components:
   V: yes
   S: yes
   M: a small rune carved from stone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Giant Hunters Handbook"
 ---

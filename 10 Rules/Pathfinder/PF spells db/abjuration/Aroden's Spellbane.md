@@ -1,34 +1,20 @@
 ---
 File: Aroden's Spellbane
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: 10 ft.
 Area: 10-ft.-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

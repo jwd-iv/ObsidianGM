@@ -1,35 +1,20 @@
 ---
 File: Penumbra
 School: evocation
-Subschool: 
 Aspects: [ darkness ]
 ClassList: { sorcerer: 0, wizard: 0 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a bit of soot
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Paizo Blog"
 ---

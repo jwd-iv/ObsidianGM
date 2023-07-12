@@ -1,35 +1,18 @@
 ---
 File: Determine Depth
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, druid: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: solid surface touched
 Duration: concentration, up to 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dungeoneers Handbook"
 ---

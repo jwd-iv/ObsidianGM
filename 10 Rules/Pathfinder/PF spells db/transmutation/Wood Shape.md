@@ -1,35 +1,19 @@
 ---
 File: Wood Shape
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, shaman: 2, occultist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched piece of wood no larger than 10 cu. ft. + 1 cu. ft./level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Artifice: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wood-shape)"
 ---

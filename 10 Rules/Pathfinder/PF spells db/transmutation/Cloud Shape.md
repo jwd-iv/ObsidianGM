@@ -1,35 +1,20 @@
 ---
 File: Cloud Shape
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 4, ranger: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
-  V: 
   S: yes
   M: a bit of gauze and a wisp of smoke
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

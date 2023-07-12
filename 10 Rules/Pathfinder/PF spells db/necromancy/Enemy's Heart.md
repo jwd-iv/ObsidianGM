@@ -1,35 +1,20 @@
 ---
 File: Enemy's Heart
 School: necromancy
-Subschool: 
 Aspects: [ death, evil ]
 ClassList: { adept: 2, antipaladin: 2, cleric: 2, oracle: 2, witch: 2 }
 CastTime: full-round action, special see below
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: concentration/1 minute per HD of the subject; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: target creature's heart
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Cannibalism: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

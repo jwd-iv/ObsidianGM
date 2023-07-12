@@ -1,35 +1,19 @@
 ---
 File: Endothermic Touch
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, shaman: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one living creature that has the dragon type or the reptilian subtype
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fort negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a small bit of snakeskin
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

@@ -1,35 +1,16 @@
 ---
 File: Dweomer Retaliation
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3 }
 CastTime: immediate action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature you counterspelled since your last turn
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Cheliax Empire Of Devils](http://www.d20pfsrd.com/magic/all-spells/d/dweomer-retaliation)"
 ---

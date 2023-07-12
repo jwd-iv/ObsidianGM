@@ -2,34 +2,19 @@
 File: Summon Laborers
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, shaman: 6, summoner: 6, unchained summoner: 6, witch: 6 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one summoned petitioner/caster level
-Targets: 
 Duration: 8 hours
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Summoner's Handbook"
 ---

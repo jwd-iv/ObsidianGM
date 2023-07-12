@@ -1,33 +1,21 @@
 ---
 File: Fire Snake
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 5, sorcerer: 5, wizard: 5, magus: 5, occultist: 5 }
 CastTime: standard action
 Range: 60 ft.
 Area: see text
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a snake scale
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Light: 10 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/f/fire-snake)"
 ---

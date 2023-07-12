@@ -1,35 +1,17 @@
 ---
 File: Splinter Spell Resistance
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 2, magus: 2, occultist: 2, psychic: 2, shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: melee or thrown weapon or up to 50 pieces of ammunition touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

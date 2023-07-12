@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, cleric: 3, oracle: 3, mesmerist: 3 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: two creatures
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes (see text)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Deathwatch
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, spiritualist: 1, medium: 1 }
 CastTime: standard action
 Range: 30 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Repose: 1 }
-GPCost: 
-Bloodline: 
 Patron: { Death: 2 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/deathwatch)"
 ---

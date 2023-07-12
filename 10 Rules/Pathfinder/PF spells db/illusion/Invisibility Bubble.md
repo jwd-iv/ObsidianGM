@@ -2,34 +2,19 @@
 File: Invisibility Bubble
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { alchemist: 2, antipaladin: 2, bard: 2, inquisitor: 2, magus: 2, medium: 2, mesmerist: 2, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2, spiritualist: 2, summoner: 2, unchained summoner: 2 }
 CastTime: standard action
 Range: touch
 Area: touched creature's space, up to one 5-foot-cube
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a needle from a sea urchin
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Aquatic Adventures"
 ---

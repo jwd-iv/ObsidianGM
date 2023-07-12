@@ -2,34 +2,18 @@
 File: Callback
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: your familiar or spirit animal
 Duration: 10 minutes/level or until expended (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a crushed grasshopper
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

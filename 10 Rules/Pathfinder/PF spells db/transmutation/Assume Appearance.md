@@ -2,34 +2,16 @@
 File: Assume Appearance
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 3, bard: 3, medium: 3, mesmerist: 3, occultist: 3, psychic: 3, shaman: 3, sorcerer: 3, wizard: 3, spiritualist: 3, summoner: 3, unchained summoner: 3, witch: 3 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

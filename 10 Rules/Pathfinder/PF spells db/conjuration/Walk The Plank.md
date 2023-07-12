@@ -2,34 +2,18 @@
 File: Walk The Plank
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 20-ft.-by-20-ft. hole, 10 ft. deep/4 levels
-Targets: 
 Duration: 1 round plus 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a shark tooth and a splinter of a ship's hull
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

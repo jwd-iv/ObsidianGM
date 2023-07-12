@@ -1,33 +1,17 @@
 ---
 File: Time Stop
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1d4+1 rounds (apparent time); see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Trickery: 9 }
-GPCost: 
-Bloodline: 
 Patron: { Deception: 18, Time: 18, Trickery: 18 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/time-stop)"
 ---

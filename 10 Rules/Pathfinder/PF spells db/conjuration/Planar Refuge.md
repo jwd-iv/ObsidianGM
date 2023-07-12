@@ -2,34 +2,19 @@
 File: Planar Refuge
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, druid: 7, sorcerer: 7, wizard: 7, shaman: 7, summoner: 6, unchained summoner: 6, witch: 7 }
 CastTime: 1 hour
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 50-ft.-radius area of safe environment
-Targets: 
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: precious stones worth 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Wild"
 ---

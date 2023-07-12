@@ -1,35 +1,17 @@
 ---
 File: Final Sacrifice
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 3, bloodrager: 2, cleric: 3, oracle: 3, shaman: 3, sorcerer: 3, wizard: 3, summoner: 2, unchained summoner: 2, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one summoned creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates, then Reflex half (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Summoner's Handbook"
 ---

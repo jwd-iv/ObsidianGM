@@ -1,35 +1,18 @@
 ---
 File: Heretic's Tongue
 School: enchantment
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { cleric: 5, oracle: 5, inquisitor: 5, mesmerist: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: living creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 107"
 ---

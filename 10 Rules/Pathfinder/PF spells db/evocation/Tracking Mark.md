@@ -1,35 +1,19 @@
 ---
 File: Tracking Mark
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, cleric: 1, oracle: 1, paladin: 1, ranger: 1 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Erastil
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

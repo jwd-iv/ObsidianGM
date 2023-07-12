@@ -1,35 +1,19 @@
 ---
 File: Psychic Surgery
 School: enchantment
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { mesmerist: 5, psychic: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one willing and living creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
   M: diamond dust worth 250 gp
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
 GPCost: 250
-Bloodline: 
 Patron: { Mind: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

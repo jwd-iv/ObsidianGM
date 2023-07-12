@@ -1,35 +1,18 @@
 ---
 File: Blood Tentacles
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 4, cleric: 5, oracle: 5, shaman: 5, sorcerer: 5, wizard: 5, summoner: 4, unchained summoner: 4, witch: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a fresh handful of the caster's blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

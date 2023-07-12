@@ -1,35 +1,18 @@
 ---
 File: Brittle Portal
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 2, cleric: 2, oracle: 2, druid: 2, inquisitor: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 5-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Rovagug
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

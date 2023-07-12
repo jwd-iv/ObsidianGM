@@ -1,35 +1,18 @@
 ---
 File: Fear The Sun
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, bloodrager: 1, cleric: 2, oracle: 2, druid: 2, inquisitor: 2, occultist: 2, psychic: 2, shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: up to one creature/level, no two of which can be more than 30 ft. apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drow eyelash
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

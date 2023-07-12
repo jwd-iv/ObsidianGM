@@ -1,16 +1,11 @@
 ---
 File: Teleport Trap
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: 10 minutes
 Range: medium (100 + 10 ft./level)
 Area: one 40-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 day/level
-Dismissible: 
 Shapeable: yes
 SavingThrow: Will negates
 SR: yes
@@ -18,18 +13,9 @@ Components:
   V: yes
   S: yes
   M: powdered lodestone and silver worth 100 gp per 40-ft. cube
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Trap: 7 }
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/t/teleport-trap)"
 ---

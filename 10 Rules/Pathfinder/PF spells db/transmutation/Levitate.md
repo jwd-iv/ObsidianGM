@@ -1,35 +1,20 @@
 ---
 File: Levitate
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, alchemist: 2, summoner: 2, unchained summoner: 2, witch: 2, magus: 2, shaman: 2, occultist: 2, psychic: 2, mesmerist: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: personal or close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you or one willing creature or one object (total weight up to 100 lbs./level)
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Void: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/l/levitate)"
 ---

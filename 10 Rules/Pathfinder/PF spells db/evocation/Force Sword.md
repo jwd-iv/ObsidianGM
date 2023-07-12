@@ -1,35 +1,18 @@
 ---
 File: Force Sword
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { bloodrager: 2, magus: 2, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2, spiritualist: 2, witch: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: one sword-shaped weapon of force
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

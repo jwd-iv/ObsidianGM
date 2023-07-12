@@ -2,34 +2,18 @@
 File: Stumble Gap
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: see text
-Targets: 
 Duration: 1 round + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/stumble-gap)"
 ---

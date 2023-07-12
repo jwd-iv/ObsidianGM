@@ -1,35 +1,19 @@
 ---
 File: Rusting Grasp
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, occultist: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one nonmagical ferrous object (or the volume of the object within 3 ft. of the touched point) or one ferrous creature
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Ruins: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/rusting-grasp)"
 ---

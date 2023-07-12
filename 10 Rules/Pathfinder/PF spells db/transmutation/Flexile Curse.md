@@ -1,35 +1,18 @@
 ---
 File: Flexile Curse
 School: transmutation
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { bard: 3, cleric: 5, oracle: 5, inquisitor: 3, psychic: 5, sorcerer: 5, wizard: 5, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

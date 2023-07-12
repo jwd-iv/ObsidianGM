@@ -1,35 +1,18 @@
 ---
 File: Touch of the Sea
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, druid: 1, sorcerer: 1, wizard: 1, bloodrager: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a fish scale
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-the-sea)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Ward the Faithful
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 3 }
 CastTime: standard action
 Range: touch
 Area: 10-ft.-radius emanation from touched creature
-Effect: 
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/w/ward-the-faithful)"
 ---

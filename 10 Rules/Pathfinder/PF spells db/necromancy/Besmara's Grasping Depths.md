@@ -7,10 +7,7 @@ ClassList: { cleric: 5, oracle: 5, inquisitor: 6, shaman: 6, spiritualist: 5, wi
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. cube/level
-Effect: 
-Targets: 
 Duration: see text
-Dismissible: 
 Shapeable: yes
 SavingThrow: Will partial; see text
 SR: yes
@@ -18,17 +15,8 @@ Components:
   V: yes
   S: yes
   M: a vial of sea water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 30 (to detect the smell of brine)  hp 5 hp/level; Trigger proximity; Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

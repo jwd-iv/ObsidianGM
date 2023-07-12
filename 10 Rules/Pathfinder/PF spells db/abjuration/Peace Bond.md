@@ -1,35 +1,19 @@
 ---
 File: Peace Bond
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 1, oracle: 1, druid: 1, inquisitor: 1, paladin: 1, shaman: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one or more 5-ft. cubes, no two of which can be more than 30 ft. apart
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a glass cube
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Streets"
 ---

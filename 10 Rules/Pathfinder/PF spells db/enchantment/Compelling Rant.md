@@ -2,34 +2,19 @@
 File: Compelling Rant
 School: enchantment
 Subschool: charm
-Aspects: 
 ClassList: { bard: 5, cleric: 5, oracle: 5, inquisitor: 5, mesmerist: 5, psychic: 5, sorcerer: 5, wizard: 5 }
 CastTime: 1 minute
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: any number of creatures
 Duration: concentration plus 1 round/level, up to 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a handwritten sheet of notes
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

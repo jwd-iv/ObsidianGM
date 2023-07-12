@@ -2,34 +2,18 @@
 File: Geomessage
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 3, medium: 3, occultist: 3, ranger: 3, sorcerer: 4, wizard: 4 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: surface touched
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a scrap of vellum
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

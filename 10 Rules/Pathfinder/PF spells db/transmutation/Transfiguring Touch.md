@@ -1,35 +1,19 @@
 ---
 File: Transfiguring Touch
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 5, occultist: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: object touched, up to 1 cubic foot per level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: alchemical reagents worth 1 gp or the value of the created material, whichever is more
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 1
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

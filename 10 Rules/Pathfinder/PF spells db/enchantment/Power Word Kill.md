@@ -6,28 +6,17 @@ Aspects: [ death, mind-affecting ]
 ClassList: { sorcerer: 9, wizard: 9, witch: 9, psychic: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature with 100 hp or less
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { War: 9 }
-GPCost: 
 Bloodline: { Pestilence: 19 }
 Patron: { Death: 18 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/power-word-kill)"
 ---

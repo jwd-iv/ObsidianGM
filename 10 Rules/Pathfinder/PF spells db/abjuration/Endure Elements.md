@@ -1,34 +1,21 @@
 ---
 File: Endure Elements
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, druid: 1, paladin: 1, ranger: 1, sorcerer: 1, wizard: 1, alchemist: 1, summoner: 1, unchained summoner: 1, bloodrager: 1, shaman: 1, psychic: 1, spiritualist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Sun: 1 }
-GPCost: 
 Bloodline: { Martyred: 3 }
 Patron: { Endurance: 2 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/endure-elements)"
 ---

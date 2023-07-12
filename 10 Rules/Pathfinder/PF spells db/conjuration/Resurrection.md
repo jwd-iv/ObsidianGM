@@ -2,34 +2,21 @@
 File: Resurrection
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, witch: 8, shaman: 8 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: diamond worth 10,000 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
 Domains: { Divine: 7, Resurrection: 7 }
 GPCost: 10000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/resurrection)"
 ---

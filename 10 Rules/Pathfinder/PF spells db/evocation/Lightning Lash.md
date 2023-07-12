@@ -1,35 +1,19 @@
 ---
 File: Lightning Lash
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, ranger: 2, witch: 3 }
 CastTime: standard action
 Range: personal
 Area: 20-foot-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 74"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Spear Of Purity
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 2, oracle: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: spear-shaped projectile of good energy
-Targets: 
 Duration: instantaneous (1 round)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/spear-of-purity)"
 ---

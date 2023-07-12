@@ -1,33 +1,19 @@
 ---
 File: Sanctify Armor
 School: abjuration
-Subschool: 
 Aspects: [ good ]
 ClassList: { inquisitor: 4, paladin: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: armor touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/sanctify-armor)"
 ---

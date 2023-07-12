@@ -1,35 +1,18 @@
 ---
 File: Disrupt Silence
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 3, oracle: 3, inquisitor: 3, psychic: 3 }
 CastTime: standard action
 Range: touch
 Area: 10-ft.-radius emanation centered on a creature, object, or point in space
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
-  V: 
   S: yes
   M: tiny silver bell, chime, or gong
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

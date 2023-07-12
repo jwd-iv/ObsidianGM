@@ -1,35 +1,18 @@
 ---
 File: Haunting Reminder
 School: enchantment
-Subschool: 
 Aspects: [ fear, mind-affecting ]
 ClassList: { antipaladin: 1, bard: 2, inquisitor: 2, mesmerist: 2, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 12 hours + 2 hours/level or until triggered, then 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

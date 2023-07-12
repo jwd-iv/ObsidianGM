@@ -1,35 +1,18 @@
 ---
 File: Coordinated Effort
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, inquisitor: 3, psychic: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you plus one willing creature per 3 levels, no two of which can be more than 30 ft. part
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Cooperation: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/coordinated-effort)"
 ---

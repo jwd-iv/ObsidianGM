@@ -1,35 +1,19 @@
 ---
 File: Pyrotechnics
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, magus: 2, bloodrager: 2, psychic: 2, mesmerist: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one fire source, up to a 20-ft. cube
 Duration: 1d4+1 rounds, or 1d4+1 rounds after creatures leave the smoke cloud; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates or Fortitude negates; see text
 SR: yes or no; see text
 Components:
   V: yes
   S: yes
   M: one fire source
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Smoke: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/pyrotechnics)"
 ---

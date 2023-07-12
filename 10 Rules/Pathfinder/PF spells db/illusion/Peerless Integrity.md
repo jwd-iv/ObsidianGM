@@ -2,34 +2,18 @@
 File: Peerless Integrity
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { antipaladin: 2, bard: 2, mesmerist: 2, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: personal
 Area: 10-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Will negates; see text
 SR: none
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

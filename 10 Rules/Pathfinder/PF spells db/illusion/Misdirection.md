@@ -2,34 +2,17 @@
 File: Misdirection
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, occultist: 2, psychic: 2, mesmerist: 2, spiritualist: 2, medium: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or object, up to a 10-ft. cube in size
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Will negates; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/misdirection)"
 ---

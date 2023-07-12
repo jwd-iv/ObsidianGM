@@ -6,30 +6,15 @@ Aspects: [ water ]
 ClassList: { magus: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: whip of water
-Targets: 
 Duration: 1 minute/level or until discharged (see text)
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

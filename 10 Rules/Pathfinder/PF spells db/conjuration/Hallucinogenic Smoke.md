@@ -1,35 +1,18 @@
 ---
 File: Hallucinogenic Smoke
 School: conjuration
-Subschool: 
 Aspects: [ poison ]
 ClassList: { cleric: 4, oracle: 4, witch: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 3 rounds/level or until discharged; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
-  V: 
   S: yes
   M: tobacco leaves, ingested
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faiths & Philosophies"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Object Reading
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { medium: 1, mesmerist: 2, occultist: 1, psychic: 2, spiritualist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object
 Duration: concentration, up to 1 round per level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

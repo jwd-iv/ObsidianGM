@@ -1,35 +1,17 @@
 ---
 File: Mending
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 0, cleric: 0, oracle: 0, druid: 0, sorcerer: 0, wizard: 0, summoner: 0, unchained summoner: 0, witch: 0, shaman: 0, occultist: 0, psychic: 0, spiritualist: 0 }
 CastTime: 10 minutes
 Range: 10 ft.
-Area: 
-Effect: 
 Targets: one object of up to 1 lb./level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mending)"
 ---

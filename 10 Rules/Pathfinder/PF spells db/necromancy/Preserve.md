@@ -1,35 +1,19 @@
 ---
 File: Preserve
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { adept: 1, cleric: 1, oracle: 1, medium: 1, occultist: 1, ranger: 1, shaman: 1, sorcerer: 1, wizard: 1, spiritualist: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one or more objects touched, up to 1 lb./level
 Duration: 1 week
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a pinch of salt
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

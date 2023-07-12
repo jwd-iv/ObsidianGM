@@ -1,35 +1,16 @@
 ---
 File: Grasp
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 0, cleric: 0, oracle: 0, druid: 0, magus: 0, psychic: 0, skald: 0, sorcerer: 0, wizard: 0, witch: 0 }
 CastTime: immediate action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

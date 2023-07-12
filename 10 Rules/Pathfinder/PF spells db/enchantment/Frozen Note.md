@@ -5,31 +5,14 @@ Subschool: compulsion
 Aspects: [ mind-affecting, sonic ]
 ClassList: { bard: 5 }
 CastTime: standard action
-Range: 
 Area: 30-ft.-radius emanation centered on you
-Effect: 
 Targets: any number of creatures within area
 Duration: concentration (up to 1 round/level); see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial; see text
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/f/frozen-note)"
 ---

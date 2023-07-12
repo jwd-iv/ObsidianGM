@@ -1,35 +1,19 @@
 ---
 File: Sympathetic Vibration
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one freestanding structure
 Duration: up to 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sympathetic-vibration)"
 ---

@@ -2,34 +2,18 @@
 File: Master's Escape
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, druid: 4, sorcerer: 4, wizard: 4, summoner: 3, unchained summoner: 3, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you and one summoned creature you control
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Summoner's Handbook"
 ---

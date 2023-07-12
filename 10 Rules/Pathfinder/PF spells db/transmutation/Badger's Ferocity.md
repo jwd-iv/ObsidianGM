@@ -1,35 +1,17 @@
 ---
 File: Badger's Ferocity
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, ranger: 2, sorcerer: 2, wizard: 2, occultist: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one weapon/3 levels
 Duration: concentration
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/b/badger-s-ferocity)"
 ---

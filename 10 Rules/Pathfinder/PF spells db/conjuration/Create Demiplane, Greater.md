@@ -2,34 +2,19 @@
 File: Create Demiplane, Greater
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9, witch: 9, psychic: 9 }
 CastTime: 6 hours
 Range: 0 ft.
-Area: 
 Effect: extradimensional demiplane, up to 20 10-ft. cubes/level (S)
-Targets: 
 Duration: 1 day/level or instantaneous (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Solitude: 9 }
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/c/create-demiplane)"
 ---

@@ -1,35 +1,16 @@
 ---
 File: Quintessence Mastery
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: 1 round or 4 hours; see text
 Range: personal or up to 10 10-ft. cubes/level (S)
-Area: 
 Effect: control over a plane's terrain and traits
-Targets: 
 Duration: 1 hour/level or 1 day/level; see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 2500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

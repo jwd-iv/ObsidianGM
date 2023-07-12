@@ -6,30 +6,16 @@ Aspects: [ curse, mind-affecting ]
 ClassList: { bard: 2, bloodrager: 2, magus: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of pepper
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Advanced Class Origins"
 ---

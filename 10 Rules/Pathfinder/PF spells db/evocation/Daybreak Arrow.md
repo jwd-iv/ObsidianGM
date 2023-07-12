@@ -1,34 +1,19 @@
 ---
 File: Daybreak Arrow
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, paladin: 3, occultist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: up to 50 pieces of ammunition, all of which must be together at the time of casting
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/d/daybreak-arrow)"
 ---

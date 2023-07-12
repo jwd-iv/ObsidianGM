@@ -2,34 +2,20 @@
 File: Insect Plague
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, druid: 5, summoner: 4, shaman: 5, unchained summoner: 5 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: one swarm of wasps per three levels, each of which must be adjacent to at least one other swarm
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
 Domains: { Vermin: 4 }
-GPCost: 
 Bloodline: { Pestilence: 11, Div: 15 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/insect-plague)"
 ---

@@ -1,33 +1,19 @@
 ---
 File: Firestream
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { magus: 3, sorcerer: 3, wizard: 3, bloodrager: 3 }
 CastTime: standard action
 Range: 20 ft.
 Area: 20-ft. line
-Effect: 
-Targets: 
 Duration: concentration, up to 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Holy Sword
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { paladin: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: melee weapon touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Glory: 7 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/holy-sword)"
 ---

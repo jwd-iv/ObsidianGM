@@ -1,35 +1,19 @@
 ---
 File: Ray of Exhaustion
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, witch: 3, magus: 3, bloodrager: 3, mesmerist: 3, spiritualist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: ray
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of sweat
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
 Bloodline: { Accursed: 7 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/ray-of-exhaustion)"
 ---

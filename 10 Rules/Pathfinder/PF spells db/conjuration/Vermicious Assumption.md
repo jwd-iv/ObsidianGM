@@ -6,30 +6,15 @@ Aspects: [ chaotic, evil ]
 ClassList: { cleric: 6, oracle: 6, summoner: 6, unchained summoner: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one Medium humanoid corpse
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a handful of worms
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 74"
 ---

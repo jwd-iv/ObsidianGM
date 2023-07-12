@@ -2,34 +2,18 @@
 File: Summon Instrument
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 0 }
 CastTime: 1 round
 Range: 0 ft.
-Area: 
 Effect: one summoned handheld musical instrument
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/summon-instrument)"
 ---

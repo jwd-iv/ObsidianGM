@@ -1,35 +1,17 @@
 ---
 File: Resounding Blow
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { antipaladin: 4, inquisitor: 5, paladin: 4 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial; see text
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/r/resounding-blow)"
 ---

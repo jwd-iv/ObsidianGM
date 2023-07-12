@@ -1,35 +1,17 @@
 ---
 File: Node Of Blasting
 School: abjuration
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { medium: 3, mesmerist: 3, occultist: 2, psychic: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object weighing no more than 10 lbs.
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will partial; see text
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

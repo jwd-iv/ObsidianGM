@@ -6,30 +6,18 @@ Aspects: [ shadow ]
 ClassList: { bard: 6, sorcerer: 7, wizard: 7, occultist: 6, psychic: 7, mesmerist: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one shadow duplicate
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: no
 Components:
   V: yes
   S: yes
   M: a small replica of you worth 5 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Deception: 7 }
 GPCost: 5
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/project-image)"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Hasten Judgment
 School: necromancy
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { antipaladin: 4, cleric: 5, oracle: 5, druid: 5, inquisitor: 4, sorcerer: 6, wizard: 6, spiritualist: 4, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one living or corporeal undead creature
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: 2 silver pieces
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

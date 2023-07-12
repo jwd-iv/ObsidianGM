@@ -1,35 +1,21 @@
 ---
 File: Sentry Skull
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 1, cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: 1 hour
 Range: touch
-Area: 
-Effect: 
 Targets: severed head touched
 Duration: permanent; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: an onyx gem worth at least 10 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

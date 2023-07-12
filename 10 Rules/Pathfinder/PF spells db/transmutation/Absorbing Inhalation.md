@@ -1,35 +1,18 @@
 ---
 File: Absorbing Inhalation
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { alchemist: 4, druid: 4, sorcerer: 4, wizard: 4, bloodrager: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one cloud-like effect, up to one 10-ft. cube/level
 Duration: 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

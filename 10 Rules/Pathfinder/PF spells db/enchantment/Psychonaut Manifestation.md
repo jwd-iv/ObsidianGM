@@ -6,30 +6,15 @@ Aspects: [ emotionUM, mind-affecting ]
 ClassList: { psychic: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
-SR: 
 Components:
   V: yes
   S: yes
   M: a small piece of psychoactive cactus
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

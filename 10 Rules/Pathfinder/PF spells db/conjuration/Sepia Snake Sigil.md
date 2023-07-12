@@ -6,30 +6,16 @@ Aspects: [ force ]
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, witch: 3, occultist: 3 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one touched book or written work
 Duration: permanent or until discharged; until released or 1d4 days + 1 day/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
   M: powdered amber worth 500 gp and a snake scale
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sepia-snake-sigil)"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Impart Mind
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, magus: 5, sorcerer: 6, wizard: 6 }
 CastTime: 2 rounds
 Range: touch
-Area: 
-Effect: 
 Targets: permanent nonintelligent magic item touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: diamond dust worth at least 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

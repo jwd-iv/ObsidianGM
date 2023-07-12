@@ -2,34 +2,19 @@
 File: Simulacrum
 School: illusion
 Subschool: shadow
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, summoner: 5, unchained summoner: 5, psychic: 7 }
 CastTime: 12 hours
 Range: 0 ft.
-Area: 
 Effect: one duplicate creature
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: ice sculpture of the target plus powdered rubies worth 500 gp per HD of the simulacrum
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/simulacrum)"
 ---

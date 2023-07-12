@@ -1,35 +1,17 @@
 ---
 File: Shock Shield
 School: abjuration
-Subschool: 
 Aspects: [ electricity, force ]
 ClassList: { alchemist: 1, magus: 1, sorcerer: 1, wizard: 1, bloodrager: 1, occultist: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minutes/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/s/shock-shield)"
 ---

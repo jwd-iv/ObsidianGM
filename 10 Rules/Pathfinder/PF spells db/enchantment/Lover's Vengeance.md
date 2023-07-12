@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: up to 1 day/level or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: Yes (harmless)
 Components:
   V: yes
-  S: 
   M: a piece of jewelry worth at least 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/l/lover-s-vengeance)"
 ---

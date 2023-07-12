@@ -1,35 +1,16 @@
 ---
 File: Spirit Call
 School: enchantment
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, shaman: 1 }
 CastTime: full-round action
 Range: 100 ft.
-Area: 
 Effect: 100-ft.-radius spread centered on you
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Origins"
 ---

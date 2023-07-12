@@ -1,35 +1,18 @@
 ---
 File: Flashfire
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 3, shaman: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: one 5-ft. square/2 levels
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates (object) and Fortitude negates
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

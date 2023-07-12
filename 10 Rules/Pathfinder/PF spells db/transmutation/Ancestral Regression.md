@@ -2,34 +2,18 @@
 File: Ancestral Regression
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 2, antipaladin: 3, cleric: 2, oracle: 2, sorcerer: 3, wizard: 3, witch: 2, psychic: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: willing drow touched
 Duration: 24 hours
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Project Weakness
 School: necromancy
-Subschool: 
 Aspects: [ curse, evil ]
 ClassList: { cleric: 3, oracle: 3, sorcerer: 4, wizard: 4, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Night"
 ---

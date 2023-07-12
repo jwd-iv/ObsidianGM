@@ -5,31 +5,13 @@ Subschool: healing
 Aspects: [ good, mind-affecting ]
 ClassList: { paladin: 4 }
 CastTime: standard action or immediate action; see text
-Range: 
 Area: 30-ft.-radius burst centered on you
-Effect: 
-Targets: 
 Duration: instantaneous and 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/blaze-of-glory)"
 ---

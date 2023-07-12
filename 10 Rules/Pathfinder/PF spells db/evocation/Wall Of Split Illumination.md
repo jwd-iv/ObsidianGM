@@ -1,35 +1,19 @@
 ---
 File: Wall Of Split Illumination
 School: evocation
-Subschool: 
 Aspects: [ darkness, light ]
 ClassList: { bard: 3, cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, inquisitor: 3, magus: 3, occultist: 3, shaman: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft.-high vertical sheet of illumination up to 5 ft. long/level
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

@@ -2,34 +2,18 @@
 File: Witness
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { bard: 3, inquisitor: 3, witch: 3, occultist: 3, psychic: 3, mesmerist: 3, medium: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/w/witness)"
 ---

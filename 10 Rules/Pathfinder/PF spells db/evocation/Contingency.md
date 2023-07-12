@@ -1,33 +1,19 @@
 ---
 File: Contingency
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, occultist: 6, psychic: 6 }
 CastTime: at least 10 minutes; see text
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 day/level or until discharged
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: quicksilver and an eyelash of a spell-using creature
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 1500
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/contingency)"
 ---

@@ -2,34 +2,16 @@
 File: Ethereal Envelope
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { psychic: 5, spiritualist: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
   M: empty crystal box
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Ethereal: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

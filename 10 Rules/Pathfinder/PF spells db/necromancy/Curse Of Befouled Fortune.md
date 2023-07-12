@@ -1,35 +1,18 @@
 ---
 File: Curse Of Befouled Fortune
 School: necromancy
-Subschool: 
 Aspects: [ curse ]
 ClassList: { antipaladin: 3, bloodrager: 4, cleric: 3, oracle: 3, shaman: 3, sorcerer: 4, wizard: 4, spiritualist: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Beast"
 ---

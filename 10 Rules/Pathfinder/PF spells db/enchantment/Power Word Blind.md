@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 7, wizard: 7, witch: 7, psychic: 7, mesmerist: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature with 200 hp or less
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Darkness: 7, War: 7 }
-GPCost: 
 Bloodline: { Maestro: 15, Shadow: 15 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/power-word-blind)"
 ---

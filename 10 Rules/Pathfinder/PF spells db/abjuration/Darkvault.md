@@ -1,35 +1,18 @@
 ---
 File: Darkvault
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, cleric: 5, oracle: 5, druid: 5, psychic: 5, shaman: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 30-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a stone that has never seen sunlight
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

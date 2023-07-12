@@ -1,35 +1,16 @@
 ---
 File: Harrowing, Greater
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one creature, plus one additional creature for every 3  caster levels
 Duration: 1 day/level or until fulfilled
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
 Bloodline: { Harrow: 15 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "The HarrowHandbook"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Ghoul Hunger
 School: necromancy
-Subschool: 
 Aspects: [ evil, mind-affecting ]
 ClassList: { antipaladin: 2, cleric: 2, oracle: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one humanoid creature
 Duration: 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Urgathoa
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Boneshaker
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, cleric: 2, oracle: 2, inquisitor: 2, sorcerer: 2, wizard: 2, spiritualist: 2, witch: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one living creature or undead creature with a skeleton
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial or negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

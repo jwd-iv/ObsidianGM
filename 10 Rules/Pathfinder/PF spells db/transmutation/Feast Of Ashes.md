@@ -1,34 +1,21 @@
 ---
 File: Feast Of Ashes
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, witch: 2, occultist: 2, psychic: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 2 days/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of ash
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
 Bloodline: { Ghoul: 5 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/f/feast-of-ashes)"
 ---

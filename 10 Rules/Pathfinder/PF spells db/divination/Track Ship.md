@@ -6,30 +6,14 @@ Aspects: [ travel ]
 ClassList: { bard: 2, cleric: 2, oracle: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: see text
-Area: 
 Effect: magical icon
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pirates Of The Inner Sea"
 ---

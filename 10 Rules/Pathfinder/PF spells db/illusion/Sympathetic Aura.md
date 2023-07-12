@@ -2,34 +2,18 @@
 File: Sympathetic Aura
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 2, mesmerist: 2, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object weighing up to 5 lbs./level
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

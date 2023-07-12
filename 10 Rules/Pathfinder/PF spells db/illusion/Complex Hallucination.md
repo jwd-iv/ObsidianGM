@@ -6,30 +6,13 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 4, magus: 4, medium: 3, mesmerist: 4, occultist: 4, psychic: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: concentration + 3 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

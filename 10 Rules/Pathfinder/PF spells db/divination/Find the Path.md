@@ -1,35 +1,19 @@
 ---
 File: Find the Path
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 6, cleric: 6, oracle: 6, druid: 6, witch: 6, inquisitor: 6, shaman: 6, occultist: 6, psychic: 6, spiritualist: 6 }
 CastTime: 3 rounds
 Range: personal or touch
-Area: 
-Effect: 
 Targets: you or creature touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Will negates (harmless)
 SR: no or yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Knowledge: 6, Travel: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/find-the-path)"
 ---

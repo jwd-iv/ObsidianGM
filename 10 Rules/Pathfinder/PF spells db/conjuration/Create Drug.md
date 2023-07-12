@@ -2,34 +2,17 @@
 File: Create Drug
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { alchemist: 3, cleric: 4, oracle: 4, druid: 3, occultist: 3 }
 CastTime: 1 round
 Range: 0 ft.
-Area: 
 Effect: 1 dose of a drug/3 levels
-Targets: 
 Duration: 1 minute
-Dismissible: 
-Shapeable: 
 SavingThrow: none (see below)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

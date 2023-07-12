@@ -1,14 +1,10 @@
 ---
 File: Reverse Gravity
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 8, sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: up to one 10-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
 Shapeable: yes
@@ -18,16 +14,12 @@ Components:
   V: yes
   S: yes
   M: lodestone and iron filings
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
 Domains: { Void: 7 }
-GPCost: 
 Bloodline: { Starsoul: 15 }
 Patron: { Trickery: 14 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/reverse-gravity)"
 ---

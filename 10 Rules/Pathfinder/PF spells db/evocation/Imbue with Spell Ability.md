@@ -1,35 +1,20 @@
 ---
 File: Imbue with Spell Ability
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, shaman: 4, spiritualist: 4 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched; see text
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Community: 4, Magic: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/imbue-with-spell-ability)"
 ---

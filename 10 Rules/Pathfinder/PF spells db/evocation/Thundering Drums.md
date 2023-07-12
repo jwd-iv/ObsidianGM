@@ -1,35 +1,18 @@
 ---
 File: Thundering Drums
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 3 }
 CastTime: standard action
 Range: 15 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/t/thundering-drums)"
 ---

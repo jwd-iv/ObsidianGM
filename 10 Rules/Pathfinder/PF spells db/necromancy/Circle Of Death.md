@@ -1,33 +1,23 @@
 ---
 File: Circle Of Death
 School: necromancy
-Subschool: 
 Aspects: [ death ]
 ClassList: { sorcerer: 6, wizard: 6, inquisitor: 6, spiritualist: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: several living creatures within a 40-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a crushed black pearl worth 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 500
 Bloodline: { Daemon: 13 }
 Patron: { Death: 12 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/circle-of-death)"
 ---

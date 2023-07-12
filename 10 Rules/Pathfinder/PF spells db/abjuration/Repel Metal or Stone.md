@@ -1,35 +1,21 @@
 ---
 File: Repel Metal or Stone
 School: abjuration
-Subschool: 
 Aspects: [ earth ]
 ClassList: { druid: 8 }
 CastTime: standard action
 Range: 60 ft.
 Area: 60-ft. line from you
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
 Bloodline: { Deep Earth: 15 }
 Patron: { Mountain: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/repel-metal-or-stone)"
 ---

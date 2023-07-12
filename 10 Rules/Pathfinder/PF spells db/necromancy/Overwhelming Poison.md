@@ -1,35 +1,19 @@
 ---
 File: Overwhelming Poison
 School: necromancy
-Subschool: 
 Aspects: [ poison ]
 ClassList: { antipaladin: 4, cleric: 6, oracle: 6, druid: 6, ranger: 4, shaman: 6, witch: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature or one dose of poison; see text
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: an adder's fang
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

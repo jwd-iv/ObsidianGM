@@ -7,29 +7,12 @@ ClassList: { bard: 6 }
 CastTime: standard action
 Range: 90 ft.
 Area: 90-ft.-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: concentration + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial; see text
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/p/pied-piping)"
 ---

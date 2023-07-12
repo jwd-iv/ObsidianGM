@@ -1,35 +1,18 @@
 ---
 File: Mnemonic Enhancer
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { wizard: 4 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of string, and ink consisting of squid secretion mixed with black dragon's blood
   F: yes
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mnemonic-enhancer)"
 ---

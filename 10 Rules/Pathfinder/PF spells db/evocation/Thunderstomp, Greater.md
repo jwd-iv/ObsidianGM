@@ -1,35 +1,18 @@
 ---
 File: Thunderstomp, Greater
 School: evocation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { bloodrager: 3, druid: 3, magus: 3, ranger: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: 60 ft.
 Area: 60-ft. line
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

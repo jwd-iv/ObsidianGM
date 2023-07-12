@@ -1,35 +1,17 @@
 ---
 File: Forced Quiet
 School: transmutation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 1, inquisitor: 1, sorcerer: 1, wizard: 1, witch: 1, psychic: 1, mesmerist: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/f/forced-quiet)"
 ---

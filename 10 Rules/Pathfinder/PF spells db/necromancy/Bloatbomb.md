@@ -1,35 +1,18 @@
 ---
 File: Bloatbomb
 School: necromancy
-Subschool: 
 Aspects: [ acid, death ]
 ClassList: { antipaladin: 4, cleric: 4, oracle: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous and 1 minute/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates or Reflex half (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

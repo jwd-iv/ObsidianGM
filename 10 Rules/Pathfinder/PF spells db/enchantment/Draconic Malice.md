@@ -1,35 +1,19 @@
 ---
 File: Draconic Malice
 School: enchantment
-Subschool: 
 Aspects: [ draconic ]
 ClassList: { antipaladin: 3, bard: 3, bloodrager: 3, cleric: 3, oracle: 3, inquisitor: 3, mesmerist: 3, psychic: 3, shaman: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: personal
-Area: 
 Effect: 10-foot aura centered on you
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of Dragons"
 ---

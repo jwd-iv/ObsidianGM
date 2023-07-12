@@ -1,35 +1,18 @@
 ---
 File: Shield
 School: abjuration
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 1, wizard: 1, alchemist: 1, summoner: 1, unchained summoner: 1, magus: 1, bloodrager: 1, occultist: 1, psychic: 1, spiritualist: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Defense: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shield)"
 ---

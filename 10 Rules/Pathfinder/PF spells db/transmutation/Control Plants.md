@@ -1,35 +1,20 @@
 ---
 File: Control Plants
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Plant: 8 }
-GPCost: 
-Bloodline: 
 Patron: { Plant: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/control-plants)"
 ---

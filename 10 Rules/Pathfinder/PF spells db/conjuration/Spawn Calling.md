@@ -6,29 +6,17 @@ Aspects: [ chaotic, evil ]
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9, witch: 9 }
 CastTime: 1 week
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: bull's blood, tallow, one or more humanoid victims totaling at least 15 Hit Dice
-  F: 
   DF: yes
 Deity: Rovagug
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Wandering Trail
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6 }
 CastTime: standard action
 Range: 1 mile/level
-Area: 
-Effect: 
 Targets: up to one creature/level within 180 feet
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Intrigue"
 ---

@@ -1,35 +1,22 @@
 ---
 File: Wind Walk
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { cleric: 6, oracle: 6, druid: 7, alchemist: 6, shaman: 7 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: you and one touched creature per three levels
 Duration: 1 hour/level ; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: none and Will negates (harmless)
 SR: no and yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Wind: 6 }
-GPCost: 
-Bloodline: 
 Patron: { Storms: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wind-walk)"
 ---

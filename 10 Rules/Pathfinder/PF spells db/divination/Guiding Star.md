@@ -1,35 +1,18 @@
 ---
 File: Guiding Star
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, ranger: 2, witch: 3, shaman: 2, psychic: 3 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a spool of thread or string
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Stars: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/g/guiding-star)"
 ---

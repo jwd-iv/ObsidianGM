@@ -1,35 +1,19 @@
 ---
 File: Firefall
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { sorcerer: 4, wizard: 4, magus: 4, bloodrager: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one fire source, up to a 20-foot cube
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates and Reflex negates; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: one fire source
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/f/firefall)"
 ---

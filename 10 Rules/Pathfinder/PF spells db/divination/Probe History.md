@@ -1,35 +1,18 @@
 ---
 File: Probe History
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, cleric: 4, oracle: 4, inquisitor: 4, medium: 2, mesmerist: 3, occultist: 3, sorcerer: 4, wizard: 4 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Antitech Field
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: 10 ft.
-Area: 
-Effect: 
 Targets: 10-ft.-radius emanation centered on you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: pinch of rust
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

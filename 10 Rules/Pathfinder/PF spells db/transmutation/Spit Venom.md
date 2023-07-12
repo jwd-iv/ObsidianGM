@@ -1,35 +1,17 @@
 ---
 File: Spit Venom
 School: transmutation
-Subschool: 
 Aspects: [ poison ]
 ClassList: { cleric: 4, oracle: 4, druid: 3, witch: 3, shaman: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one stream of venom
-Targets: 
 Duration: instantaneous; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/spit-venom)"
 ---

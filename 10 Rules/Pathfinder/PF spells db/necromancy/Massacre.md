@@ -1,35 +1,18 @@
 ---
 File: Massacre
 School: necromancy
-Subschool: 
 Aspects: [ death ]
 ClassList: { cleric: 9, oracle: 9, psychic: 9, shaman: 9, sorcerer: 9, wizard: 9, witch: 9 }
 CastTime: standard action
-Range: 
 Area: 60-ft. line
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a flask of ectoplasmic residue
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

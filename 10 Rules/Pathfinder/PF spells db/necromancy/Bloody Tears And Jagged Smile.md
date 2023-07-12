@@ -1,35 +1,18 @@
 ---
 File: Bloody Tears And Jagged Smile
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: personal and see text
-Area: 
-Effect: 
 Targets: you and see text
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Szuriel
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 71"
 ---

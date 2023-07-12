@@ -2,34 +2,17 @@
 File: Implant False Reading
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { mesmerist: 2, occultist: 2, psychic: 2 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

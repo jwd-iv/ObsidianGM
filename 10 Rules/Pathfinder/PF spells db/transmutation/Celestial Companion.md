@@ -1,35 +1,20 @@
 ---
 File: Celestial Companion
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, paladin: 1, ranger: 2, shaman: 2, sorcerer: 2, wizard: 2, summoner: 1, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: animal companion, eidolon, familiar, or mount
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: V, S, DF/M
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

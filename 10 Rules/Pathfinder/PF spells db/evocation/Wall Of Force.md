@@ -1,34 +1,22 @@
 ---
 File: Wall Of Force
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 5, wizard: 5, magus: 5, occultist: 5, psychic: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: wall whose area is up to one 10-ft. square/level
-Targets: 
 Duration: 1 round /level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: powdered quartz
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Isolation: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-force)"
 ---

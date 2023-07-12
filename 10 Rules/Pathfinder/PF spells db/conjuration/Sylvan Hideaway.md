@@ -2,34 +2,19 @@
 File: Sylvan Hideaway
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { druid: 3, ranger: 3, shaman: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one 5-foot square of touched earth
 Duration: 2 hours/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: one pound of unworked stone or wood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 116"
 ---

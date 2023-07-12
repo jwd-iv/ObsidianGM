@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { antipaladin: 2, druid: 3, ranger: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: immediate action
 Range: touch
-Area: 
-Effect: 
 Targets: your animal companion, familiar, or fiendish servant
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

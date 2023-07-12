@@ -1,35 +1,20 @@
 ---
 File: Rebuke
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { inquisitor: 4 }
 CastTime: standard action
 Range: 20 ft.
 Area: 20-ft.-radius burst centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Judgment: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/r/rebuke)"
 ---

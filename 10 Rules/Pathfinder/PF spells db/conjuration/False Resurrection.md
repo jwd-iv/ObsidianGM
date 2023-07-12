@@ -6,30 +6,17 @@ Aspects: [ chaotic, evil, ruse ]
 ClassList: { cleric: 7, oracle: 7, shaman: 8, witch: 8 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: dead creature touched
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: diamond worth 10,000 gp
-  F: 
   DF: yes
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 10000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

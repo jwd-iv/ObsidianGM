@@ -1,35 +1,18 @@
 ---
 File: Fickle Winds
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { cleric: 5, oracle: 5, druid: 5, ranger: 3, sorcerer: 5, wizard: 5, spiritualist: 5 }
 CastTime: standard action
-Range: 
-Area: 
-Effect: 
 Targets: one or more Medium creatures/level, no two of which can be more than 30 ft. apart
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/f/fickle-winds)"
 ---

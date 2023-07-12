@@ -1,35 +1,19 @@
 ---
 File: Message
 School: transmutation
-Subschool: 
 Aspects: [ language-dependent ]
 ClassList: { bard: 0, sorcerer: 0, wizard: 0, summoner: 0, unchained summoner: 0, witch: 0, occultist: 0, psychic: 0, mesmerist: 0, spiritualist: 0, medium: 0 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature/level
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/message)"
 ---

@@ -2,34 +2,18 @@
 File: Teleport Structure
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6 }
 CastTime: 8 hours
 Range: touch
-Area: 
-Effect: 
 Targets: one building
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
-  S: 
   M: gold dust worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Quests and Campaigns"
 ---

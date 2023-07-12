@@ -2,34 +2,19 @@
 File: Symbol of Healing
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, paladin: 4, witch: 4, occultist: 3 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half (harmless) (see text)
 SR: yes (harmless) (see text)
 Components:
   V: yes
   S: yes
   M: mercury and phosphorous, plus powdered diamond and opal worth a total of 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-healing)"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Spellstaff
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: wooden quarterstaff touched
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/spellstaff)"
 ---

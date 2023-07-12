@@ -1,35 +1,20 @@
 ---
 File: Symbol Of Exsanguination
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { bloodrager: 2, cleric: 3, oracle: 3, occultist: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: powdered garnet and bloodstone worth a total of 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

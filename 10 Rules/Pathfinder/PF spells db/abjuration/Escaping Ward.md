@@ -1,35 +1,15 @@
 ---
 File: Escaping Ward
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, inquisitor: 2, magus: 2, ranger: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

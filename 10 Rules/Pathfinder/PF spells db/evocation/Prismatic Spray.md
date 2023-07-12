@@ -1,35 +1,17 @@
 ---
 File: Prismatic Spray
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/prismatic-spray)"
 ---

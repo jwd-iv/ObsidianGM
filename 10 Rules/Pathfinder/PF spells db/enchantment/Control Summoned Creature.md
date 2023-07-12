@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, cleric: 4, oracle: 4, sorcerer: 4, wizard: 4, summoner: 3, unchained summoner: 3, occultist: 3, psychic: 4, mesmerist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one summoned creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Boundaries: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/c/control-summoned-creature)"
 ---

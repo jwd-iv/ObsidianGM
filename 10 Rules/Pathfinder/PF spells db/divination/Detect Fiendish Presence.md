@@ -1,35 +1,18 @@
 ---
 File: Detect Fiendish Presence
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 0, cleric: 0, oracle: 0, magus: 0, sorcerer: 0, wizard: 0, witch: 0 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: concentration, up to 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

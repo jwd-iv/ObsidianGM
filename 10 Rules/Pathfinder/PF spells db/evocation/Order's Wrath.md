@@ -1,34 +1,20 @@
 ---
 File: Order's Wrath
 School: evocation
-Subschool: 
 Aspects: [ lawful ]
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: nonlawful creatures within a burst that fills a 30-ft. cube
-Effect: 
-Targets: 
 Duration: instantaneous (1 round); see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Law: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/o/order-s-wrath)"
 ---

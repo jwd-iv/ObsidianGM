@@ -1,34 +1,22 @@
 ---
 File: Polar Ray
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: ray
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Ice: 9 }
-GPCost: 
 Bloodline: { Boreal: 17, Marid: 17 }
 Patron: { Winter: 16 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/polar-ray)"
 ---

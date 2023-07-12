@@ -1,16 +1,11 @@
 ---
 File: Forbiddance
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, inquisitor: 6, occultist: 6 }
 CastTime: 6 rounds
 Range: medium (100 + 10 ft./level)
 Area: 60-ft. cube/level
-Effect: 
-Targets: 
 Duration: permanent
-Dismissible: 
 Shapeable: yes
 SavingThrow: see text
 SR: yes
@@ -18,18 +13,9 @@ Components:
   V: yes
   S: yes
   M: holy water and incense worth 1,500 gp, plus 1,500 gp per 60-foot cube
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 1500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/forbiddance)"
 ---

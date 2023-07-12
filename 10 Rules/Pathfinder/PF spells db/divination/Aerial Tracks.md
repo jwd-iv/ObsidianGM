@@ -1,35 +1,18 @@
 ---
 File: Aerial Tracks
 School: divination
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 4, inquisitor: 4, ranger: 3, shaman: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: circle centered on you, with a radius of 100 feet + 10 feet per level
-Effect: 
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

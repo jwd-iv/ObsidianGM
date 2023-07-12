@@ -1,35 +1,17 @@
 ---
 File: Ice Body
 School: transmutation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { sorcerer: 7, wizard: 7, witch: 7, shaman: 7 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/i/ice-body)"
 ---

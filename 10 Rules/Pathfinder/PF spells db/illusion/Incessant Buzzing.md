@@ -2,34 +2,19 @@
 File: Incessant Buzzing
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { antipaladin: 1, bard: 1, psychic: 1, shaman: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft.-diameter sphere
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: insect wing
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

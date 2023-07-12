@@ -1,35 +1,19 @@
 ---
 File: Dancing Darkness
 School: evocation
-Subschool: 
 Aspects: [ darkness, shadowUM ]
 ClassList: { antipaladin: 1, bard: 1, magus: 1, shaman: 1, psychic: 1, sorcerer: 1, wizard: 1, spiritualist: 1, witch: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: Up to four spheres, all within a 10-ft.-radius area
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

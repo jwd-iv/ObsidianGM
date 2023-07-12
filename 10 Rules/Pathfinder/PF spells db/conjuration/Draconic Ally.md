@@ -6,30 +6,17 @@ Aspects: [ draconic ]
 ClassList: { antipaladin: 3, bloodrager: 3, paladin: 3, psychic: 3, occultist: 3, sorcerer: 3, wizard: 3, spiritualist: 3, summoner: 3, unchained summoner: 3 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one intelligent draconic servant
-Targets: 
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a scale from a dragon and 250 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 250
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of Dragons"
 ---

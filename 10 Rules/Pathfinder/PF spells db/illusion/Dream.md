@@ -6,29 +6,18 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 5, sorcerer: 5, wizard: 5, alchemist: 5, psychic: 4, mesmerist: 4, spiritualist: 5, medium: 3 }
 CastTime: 1 minute
 Range: unlimited
-Area: 
-Effect: 
 Targets: one living creature touched
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Moon: 6, Imagination: 5 }
-GPCost: 
 Bloodline: { Dreamspun: 11 }
 Patron: { Stars: 10, Wisdom: 10 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/dream)"
 ---

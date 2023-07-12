@@ -1,35 +1,18 @@
 ---
 File: Awaken The Devoured
 School: divination
-Subschool: 
 Aspects: [ pain ]
 ClassList: { cleric: 5, oracle: 5, inquisitor: 4, psychic: 5, shaman: 5, sorcerer: 5, wizard: 5, spiritualist: 5, witch: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one daemon per 4 caster levels
 Duration: instantaneous and 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

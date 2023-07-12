@@ -1,35 +1,18 @@
 ---
 File: Crimson Confession
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, witch: 2, occultist: 2, psychic: 2 }
 CastTime: 10 minutes
 Range: touch
 Area: object touched or up to 1 sq. ft.
-Effect: 
 Targets: object touched or up to 1 sq. ft.
 Duration: permanent and 1 hour/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

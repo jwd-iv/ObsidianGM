@@ -2,34 +2,17 @@
 File: Dazzling Blade
 School: illusion
 Subschool: pattern
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1 }
 CastTime: swift action
 Range: touch
-Area: 
-Effect: 
 Targets: one metal weapon
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Rival Guide"
 ---

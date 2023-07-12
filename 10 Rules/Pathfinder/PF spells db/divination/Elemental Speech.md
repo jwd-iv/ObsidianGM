@@ -1,35 +1,17 @@
 ---
 File: Elemental Speech
 School: divination
-Subschool: 
 Aspects: [ air, earth, fire, or water ]
 ClassList: { bard: 3, cleric: 3, oracle: 3, druid: 2, sorcerer: 2, wizard: 2, mesmerist: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: iron filings
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/elemental-speech)"
 ---

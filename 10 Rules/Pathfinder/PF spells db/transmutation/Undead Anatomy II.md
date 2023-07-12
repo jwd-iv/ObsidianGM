@@ -2,34 +2,17 @@
 File: Undead Anatomy II
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 5, magus: 5, sorcerer: 5, wizard: 5, spiritualist: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of the creature whose form you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/u/undead-anatomy-i#TOC-Undead-Anatomy-II)"
 ---

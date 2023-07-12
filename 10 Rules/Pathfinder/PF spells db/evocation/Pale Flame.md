@@ -1,35 +1,20 @@
 ---
 File: Pale Flame
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 2, shaman: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: flame in your palm
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: caphorite shard
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

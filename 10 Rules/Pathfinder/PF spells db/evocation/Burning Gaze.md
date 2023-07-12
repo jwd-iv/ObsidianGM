@@ -1,33 +1,22 @@
 ---
 File: Burning Gaze
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 2, sorcerer: 2, wizard: 2, witch: 2, magus: 2, bloodrager: 2, shaman: 2, occultist: 2, mesmerist: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: eye of a mundane salamander
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Vengeance: 4 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/burning-gaze)"
 ---

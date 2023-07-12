@@ -2,34 +2,17 @@
 File: Flash Forward
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { alchemist: 4, antipaladin: 4, bard: 4, bloodrager: 4, inquisitor: 4, magus: 4, medium: 4, occultist: 4, paladin: 4, psychic: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

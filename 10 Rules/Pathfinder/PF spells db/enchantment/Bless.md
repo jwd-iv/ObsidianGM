@@ -7,28 +7,18 @@ ClassList: { cleric: 1, oracle: 1, paladin: 1, inquisitor: 1, shaman: 1 }
 CastTime: standard action
 Range: 50 ft.
 Area: The caster and all allies within a 50-ft. burst, centered on the caster
-Effect: 
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Community: 1, Leadership: 1, Resolve: 1 }
-GPCost: 
 Bloodline: { Celestial: 3 }
 Patron: { Ancestors: 2 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/bless)"
 ---

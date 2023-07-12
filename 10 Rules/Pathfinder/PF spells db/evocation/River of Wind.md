@@ -1,35 +1,18 @@
 ---
 File: River of Wind
 School: evocation
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 4, sorcerer: 4, wizard: 4, magus: 4, bloodrager: 4, occultist: 4 }
 CastTime: standard action
 Range: 120 ft.
 Area: 120-ft. line
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/r/river-of-wind)"
 ---

@@ -1,34 +1,19 @@
 ---
 File: Mage's Disjunction
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: all magical effects and magic items within a 40-ft.-radius burst, or one magic item (see text)
-Effect: 
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Magic: 9 }
-GPCost: 
-Bloodline: 
 Patron: { Wisdom: 18 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mage-s-disjunction)"
 ---

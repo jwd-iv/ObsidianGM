@@ -1,35 +1,18 @@
 ---
 File: Invisibility Alarm
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, bard: 1, inquisitor: 1, ranger: 1, sorcerer: 1, wizard: 1, psychic: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft.-radius emanation centered on a point in space
-Effect: 
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

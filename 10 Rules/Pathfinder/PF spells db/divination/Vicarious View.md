@@ -2,34 +2,18 @@
 File: Vicarious View
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { bard: 4, medium: 3, mesmerist: 4, occultist: 4, psychic: 4, shaman: 4, sorcerer: 4, wizard: 4, spiritualist: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: magical sensor
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

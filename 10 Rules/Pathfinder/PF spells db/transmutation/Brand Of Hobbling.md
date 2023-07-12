@@ -1,35 +1,19 @@
 ---
 File: Brand Of Hobbling
 School: transmutation
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { inquisitor: 2 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 day/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

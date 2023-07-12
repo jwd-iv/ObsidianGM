@@ -1,35 +1,16 @@
 ---
 File: Burst Bonds
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one object or creature restraining you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half (object)
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/burst-bonds)"
 ---

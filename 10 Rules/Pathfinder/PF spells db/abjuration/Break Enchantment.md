@@ -1,33 +1,20 @@
 ---
 File: Break Enchantment
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, cleric: 5, oracle: 5, paladin: 4, sorcerer: 5, wizard: 5, witch: 5, inquisitor: 5, shaman: 5, occultist: 4, psychic: 4, mesmerist: 4, spiritualist: 5, medium: 4 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to one creature per level, all within 30 ft. of each other
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Liberation: 5, Luck: 5, Restoration: 5 }
-GPCost: 
 Bloodline: { Destined: 11 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/break-enchantment)"
 ---

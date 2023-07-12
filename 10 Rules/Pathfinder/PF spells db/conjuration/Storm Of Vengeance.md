@@ -2,32 +2,22 @@
 File: Storm Of Vengeance
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, druid: 9, witch: 9, shaman: 9 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: 360-ft.-radius storm cloud
-Targets: 
 Duration: concentration (maximum 10 rounds)
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Cloud: 9, Nobility: 9, Weather: 9 }
-GPCost: 
 Bloodline: { Stormborn: 19 }
 Patron: { Storms: 18 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/storm-of-vengeance)"
 ---

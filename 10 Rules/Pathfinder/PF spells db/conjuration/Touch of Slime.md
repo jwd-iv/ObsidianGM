@@ -6,30 +6,15 @@ Aspects: [ disease ]
 ClassList: { alchemist: 4, druid: 4, sorcerer: 4, wizard: 4, witch: 4, bloodrager: 4, psychic: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of acid and a black glass sphere
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/t/touch-of-slime)"
 ---

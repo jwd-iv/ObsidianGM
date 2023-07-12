@@ -2,34 +2,18 @@
 File: Ja Noi Aspect
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 3, bloodrager: 3, druid: 3, magus: 3, ranger: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level (D; see below)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 115"
 ---

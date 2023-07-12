@@ -6,30 +6,12 @@ Aspects: [ shadow ]
 ClassList: { antipaladin: 3, bard: 4, sorcerer: 4, wizard: 4, spiritualist: 4, summoner: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous and 1 round; see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

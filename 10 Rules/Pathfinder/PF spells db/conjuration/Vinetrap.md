@@ -1,35 +1,19 @@
 ---
 File: Vinetrap
 School: conjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, druid: 8 }
 CastTime: 10 minutes
 Range: long (400 + 40 ft./level)
 Area: radius spread of up to 10 ft./level, 90 ft. high
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Chronicle Of The Righteous"
 ---

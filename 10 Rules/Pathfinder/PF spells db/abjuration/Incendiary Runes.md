@@ -1,35 +1,19 @@
 ---
 File: Incendiary Runes
 School: abjuration
-Subschool: 
 Aspects: [ fire ]
 ClassList: { occultist: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object weighing no more than 10 lbs.
 Duration: permanent until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

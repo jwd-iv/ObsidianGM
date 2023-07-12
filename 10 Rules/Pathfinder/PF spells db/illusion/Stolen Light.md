@@ -2,34 +2,18 @@
 File: Stolen Light
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3 }
 CastTime: full-round action
 Range: touch
-Area: 
-Effect: 
 Targets: transparent gem touched
 Duration: permanent or 1 minute/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Pathfinder Society Field Guide"
 ---

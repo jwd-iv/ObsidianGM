@@ -2,34 +2,19 @@
 File: Obscured Script
 School: illusion
 Subschool: phantasm
-Aspects: 
 ClassList: { bard: 2, mesmerist: 2, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched page, scroll, inscription, book, or other document no more than 3 feet in any dimension
 Duration: 24 hours
 Dismissible: yes
-Shapeable: 
 SavingThrow: none; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a scrap of paper bearing a simple sentence written in at least five languages
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

@@ -6,12 +6,9 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, psychic: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: colorful lights with a 20-ft.-radius spread
-Targets: 
 Duration: Concentration +1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
@@ -19,17 +16,8 @@ Components:
   S: yes
   M: a piece of phosphor
   F: yes
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Light: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/rainbow-pattern)"
 ---

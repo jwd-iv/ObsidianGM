@@ -6,30 +6,16 @@ Aspects: [ emotionUM, mind-affecting ]
 ClassList: { bard: 2, cleric: 3, oracle: 3, inquisitor: 3, mesmerist: 2, paladin: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see below)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a scrap of paper inscribed with the Sihedron rune
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

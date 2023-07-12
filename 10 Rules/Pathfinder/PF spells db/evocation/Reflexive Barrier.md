@@ -1,35 +1,18 @@
 ---
 File: Reflexive Barrier
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { magus: 3, psychic: 3 }
 CastTime: immediate action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none (harmless)
 SR: no (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Psychic Anthology"
 ---

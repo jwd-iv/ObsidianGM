@@ -1,35 +1,19 @@
 ---
 File: Liquefy
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, bard: 3, druid: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 object weighing up to 1 pound/level
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: no
 Components:
   V: yes
   S: yes
   M: a specially prepared glass bottle
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

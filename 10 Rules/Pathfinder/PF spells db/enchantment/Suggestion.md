@@ -6,29 +6,17 @@ Aspects: [ language-dependent, mind-affecting ]
 ClassList: { bard: 2, sorcerer: 3, wizard: 3, witch: 3, occultist: 3, psychic: 2, mesmerist: 2, medium: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 hour/level or until completed
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
-  S: 
   M: a snake's tongue and a honeycomb
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Charm: 3, Devil: 3, Corruption: 2, Innuendo: 3 }
-GPCost: 
 Bloodline: { Infernal: 7, Maestro: 7, Rakshasa: 7 }
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/suggestion)"
 ---

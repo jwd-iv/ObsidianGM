@@ -1,35 +1,17 @@
 ---
 File: Stone Throwing
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 1, cleric: 2, oracle: 2, druid: 2, magus: 2, ranger: 1, sorcerer: 2, wizard: 2 }
 CastTime: standard action
-Range: 
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: powdered stone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Giant Hunters Handbook"
 ---

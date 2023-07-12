@@ -1,34 +1,20 @@
 ---
 File: Animate Plants
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 7, shaman: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Large plant per three caster levels or all plants within  range; see text
 Duration: 1 round/level or 1 hour/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Plant: 7 }
-GPCost: 
 Bloodline: { Verdant: 17 }
 Patron: { Plant: 14 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/animate-plants)"
 ---

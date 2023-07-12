@@ -1,35 +1,20 @@
 ---
 File: Canopic Conversion
 School: necromancy
-Subschool: 
 Aspects: [ death, evil ]
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living humanoid
 Duration: instantaneous and see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half
 SR: yes
 Components:
   V: yes
   S: yes
   M: black onyx worth 100 gp per hit die of the target
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faction Guide"
 ---

@@ -6,30 +6,15 @@ Aspects: [ death ]
 ClassList: { cleric: 6, oracle: 6, inquisitor: 6, occultist: 6, shaman: 6, spiritualist: 6, witch: 6 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature and another single living or undead creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half; see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Healer's Handbook"
 ---

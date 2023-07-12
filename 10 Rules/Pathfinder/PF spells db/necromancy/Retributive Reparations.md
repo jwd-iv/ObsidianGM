@@ -1,35 +1,17 @@
 ---
 File: Retributive Reparations
 School: necromancy
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { antipaladin: 3, inquisitor: 3, occultist: 3, spiritualist: 3, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one object
 Duration: 1 day/level or until triggered, and permanent; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object) and Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

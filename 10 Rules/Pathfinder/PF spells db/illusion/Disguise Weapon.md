@@ -2,34 +2,18 @@
 File: Disguise Weapon
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 1, magus: 1, sorcerer: 1, wizard: 1, witch: 1, psychic: 1, mesmerist: 1, medium: 1 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: manufactured weapon touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

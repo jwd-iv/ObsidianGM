@@ -1,35 +1,18 @@
 ---
 File: Spark
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { bard: 0, cleric: 0, oracle: 0, druid: 0, sorcerer: 0, wizard: 0, witch: 0, magus: 0, occultist: 0 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Fine object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/spark)"
 ---

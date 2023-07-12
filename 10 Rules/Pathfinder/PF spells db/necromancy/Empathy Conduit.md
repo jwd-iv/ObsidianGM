@@ -1,35 +1,17 @@
 ---
 File: Empathy Conduit
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { shaman: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: an animal companion, familiar, or other bonded creature and its master (which may be no more than 30 ft. apart)
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Familiar Folio"
 ---

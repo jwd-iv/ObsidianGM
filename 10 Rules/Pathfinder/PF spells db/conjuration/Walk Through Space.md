@@ -2,34 +2,16 @@
 File: Walk Through Space
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { alchemist: 6, magus: 6, sorcerer: 7, wizard: 7, summoner: 6, unchained summoner: 6, witch: 7, psychic: 7 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a wren's egg
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/w/walk-through-space)"
 ---

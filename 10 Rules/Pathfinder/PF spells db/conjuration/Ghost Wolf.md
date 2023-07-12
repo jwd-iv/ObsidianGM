@@ -2,34 +2,18 @@
 File: Ghost Wolf
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, summoner: 2, unchained summoner: 2, bloodrager: 4, psychic: 4 }
 CastTime: 10 minutes
 Range: 0 ft.
-Area: 
-Effect: 
 Targets: one quasi-real wolflike creature
 Duration: 1 hour/level or 1 round/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (see description)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

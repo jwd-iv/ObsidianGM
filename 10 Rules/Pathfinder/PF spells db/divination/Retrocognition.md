@@ -1,35 +1,15 @@
 ---
 File: Retrocognition
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { medium: 3, occultist: 3, psychic: 5, sorcerer: 7, wizard: 7 }
 CastTime: 1 minute
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: concentration, up to 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Magic Stone
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, druid: 1, shaman: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: up to three pebbles touched
 Duration: 30 minutes or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Earth: 1, Ruins: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-stone)"
 ---

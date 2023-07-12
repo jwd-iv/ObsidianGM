@@ -1,35 +1,21 @@
 ---
 File: Shroud Of Darkness
 School: evocation
-Subschool: 
 Aspects: [ darkness ]
 ClassList: { antipaladin: 4, bard: 5, cleric: 5, oracle: 5, inquisitor: 5, mesmerist: 4, shaman: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature/3 levels, no two of which can be more than 30 ft. apart
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of black sand
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

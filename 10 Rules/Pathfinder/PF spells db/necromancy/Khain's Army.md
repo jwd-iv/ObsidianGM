@@ -1,35 +1,20 @@
 ---
 File: Khain's Army
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: 5 ft.
-Area: 
 Effect: 1d4+1 ghouls and 1 ghast
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude half (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a handful of ghoul's teeth
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

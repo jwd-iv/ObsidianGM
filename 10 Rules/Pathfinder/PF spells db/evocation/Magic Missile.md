@@ -1,33 +1,19 @@
 ---
 File: Magic Missile
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 1, wizard: 1, magus: 1, bloodrager: 1, psychic: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: up to five creatures, no two of which can be more than 15 ft. apart
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-missile)"
 ---

@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { cleric: 4, oracle: 4, sorcerer: 4, wizard: 4 }
 CastTime: 1 minute
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one summoned elemental or outsider (see text)
 Duration: instantaneous, 1 hour, or 1 day (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

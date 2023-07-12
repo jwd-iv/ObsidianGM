@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { psychic: 9 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one or more creatures
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
 Bloodline: { Psychic: 19 }
 Patron: { Mind: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

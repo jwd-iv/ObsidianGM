@@ -1,35 +1,16 @@
 ---
 File: Withdraw Affliction
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { psychic: 6, shaman: 6, spiritualist: 5, witch: 7 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one afflicted creature
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

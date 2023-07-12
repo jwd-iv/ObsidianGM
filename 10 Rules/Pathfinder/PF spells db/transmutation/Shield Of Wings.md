@@ -1,35 +1,19 @@
 ---
 File: Shield Of Wings
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, paladin: 3, ranger: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level (see below)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Paths Of The Righteous"
 ---

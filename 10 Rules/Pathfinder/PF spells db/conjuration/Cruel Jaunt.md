@@ -6,30 +6,17 @@ Aspects: [ evil, fear, mind-affecting ]
 ClassList: { antipaladin: 4, cleric: 6, oracle: 6, inquisitor: 6, magus: 6, psychic: 6, shaman: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a dilated human eyeball
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

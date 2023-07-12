@@ -1,35 +1,19 @@
 ---
 File: Thirsting Entanglement
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, ranger: 4, shaman: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: plants in a 40-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of The First World"
 ---

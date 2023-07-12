@@ -1,35 +1,17 @@
 ---
 File: Arcane Mark
 School: universal
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 0, wizard: 0, summoner: 0, unchained summoner: 0, magus: 0, shaman: 0, psychic: 0 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: one personal rune or mark, all of which must fit within 1 sq. ft.
-Targets: 
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 0
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/a/arcane-mark)"
 ---

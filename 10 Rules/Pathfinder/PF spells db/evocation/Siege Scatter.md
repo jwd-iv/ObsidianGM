@@ -1,35 +1,18 @@
 ---
 File: Siege Scatter
 School: evocation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { druid: 5, ranger: 4, shaman: 5 }
 CastTime: 1 round
 Range: long (400 + 40 ft./level)
 Area: 50-ft.-radius spread
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial (see text)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

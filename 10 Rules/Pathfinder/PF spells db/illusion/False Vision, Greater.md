@@ -2,34 +2,20 @@
 File: False Vision, Greater
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 6, mesmerist: 6, psychic: 7, sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: see text
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: no
 Components:
   V: yes
   S: yes
   M: a jade sphere worth 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

@@ -2,34 +2,18 @@
 File: Summon Stampede
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, druid: 6, summoner: 4, unchained summoner: 4 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 20-ft.-radius herd of animals
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex halves (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: piece of fur from a herd animal
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Chronicle Of The Righteous"
 ---

@@ -2,34 +2,19 @@
 File: Grease, Greater
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 5, magus: 5, sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one object/2 levels or 1 10-ft. square/2 levels; see text
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
   M: butter
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Globe Of Tranquil Water
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, druid: 4, shaman: 4, sorcerer: 5, wizard: 5, witch: 4 }
 CastTime: standard action
 Range: 20 ft.
 Area: 20-ft.-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a glass globe
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Wild"
 ---

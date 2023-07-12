@@ -1,35 +1,18 @@
 ---
 File: Shield Of Darkness
 School: evocation
-Subschool: 
 Aspects: [ darkness, shadowUM ]
 ClassList: { antipaladin: 3, cleric: 3, oracle: 3, inquisitor: 3, shaman: 3, spiritualist: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

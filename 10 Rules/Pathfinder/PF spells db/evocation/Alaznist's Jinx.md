@@ -1,35 +1,18 @@
 ---
 File: Alaznist's Jinx
 School: evocation
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { antipaladin: 4, bard: 4, cleric: 6, oracle: 6, inquisitor: 5, occultist: 5, psychic: 6, shaman: 5, sorcerer: 6, wizard: 6, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

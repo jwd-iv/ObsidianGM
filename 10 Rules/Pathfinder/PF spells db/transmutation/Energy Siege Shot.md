@@ -1,35 +1,19 @@
 ---
 File: Energy Siege Shot
 School: transmutation
-Subschool: 
 Aspects: [ variable ]
 ClassList: { sorcerer: 5, wizard: 5, summoner: 5, unchained summoner: 5, occultist: 5 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Large siege engine
 Duration: 10 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless, object)
 SR: yes (harmless/object)
 Components:
   V: yes
   S: yes
   M: a ball of pitch
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/e/energy-siege-shot)"
 ---

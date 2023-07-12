@@ -6,30 +6,14 @@ Aspects: [ chaotic, evil ]
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: 5-ft.-wide, 60-ft.-deep extradimensional hole, up to 5 ft. long per level (S)
-Targets: 
 Duration: 1 round/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Book of the Damned"
 ---

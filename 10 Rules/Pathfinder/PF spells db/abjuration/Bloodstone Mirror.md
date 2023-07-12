@@ -1,35 +1,17 @@
 ---
 File: Bloodstone Mirror
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, occultist: 5, witch: 7 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a red bloodstone worth 500 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 140"
 ---

@@ -1,35 +1,16 @@
 ---
 File: Animus Mine, Greater
 School: abjuration
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { mesmerist: 4, psychic: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 1 hour/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

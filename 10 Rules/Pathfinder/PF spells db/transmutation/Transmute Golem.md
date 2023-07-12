@@ -2,34 +2,18 @@
 File: Transmute Golem
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 6, sorcerer: 9, wizard: 9 }
 CastTime: 8 hours
 Range: touch
-Area: 
-Effect: 
 Targets: golem touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: powdered metals with a variable cost, see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

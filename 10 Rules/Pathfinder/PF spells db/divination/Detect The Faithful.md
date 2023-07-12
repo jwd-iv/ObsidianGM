@@ -1,35 +1,19 @@
 ---
 File: Detect The Faithful
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 1, cleric: 1, oracle: 1, druid: 1, inquisitor: 1, paladin: 1, ranger: 1, shaman: 1 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped emanation
-Effect: 
-Targets: 
 Duration: concentration, up to 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

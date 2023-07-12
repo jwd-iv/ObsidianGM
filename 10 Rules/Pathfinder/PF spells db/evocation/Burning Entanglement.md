@@ -1,35 +1,18 @@
 ---
 File: Burning Entanglement
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 3, shaman: 3, witch: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 40-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates or partial (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

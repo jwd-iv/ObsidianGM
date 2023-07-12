@@ -1,35 +1,16 @@
 ---
 File: Thoughtsense
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { medium: 4, mesmerist: 4, psychic: 4, sorcerer: 5, wizard: 5, spiritualist: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
   M: a bit of dried brain tissue
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

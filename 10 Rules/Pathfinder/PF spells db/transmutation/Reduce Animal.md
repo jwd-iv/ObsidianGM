@@ -1,35 +1,18 @@
 ---
 File: Reduce Animal
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, ranger: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one willing animal of Small, Medium, Large, or Huge size
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/reduce-animal)"
 ---

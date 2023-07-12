@@ -1,35 +1,21 @@
 ---
 File: Sword To Snake
 School: transmutation
-Subschool: 
 Aspects: [ poisonUM ]
 ClassList: { cleric: 4, oracle: 4, druid: 4, shaman: 4, sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one Medium or smaller item
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a hair from a spider
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

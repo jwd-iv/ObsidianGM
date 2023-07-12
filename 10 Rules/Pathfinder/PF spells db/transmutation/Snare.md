@@ -1,35 +1,19 @@
 ---
 File: Snare
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 3, ranger: 2 }
 CastTime: 3 rounds
 Range: touch
-Area: 
-Effect: 
 Targets: touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft./level
 Duration: Until triggered or broken
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Trap: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/snare)"
 ---

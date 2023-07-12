@@ -1,35 +1,19 @@
 ---
 File: Kiss of the First World
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, druid: 4 }
 CastTime: standard action
 Range: touch
 Area: living or undead creature touched
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: diamond dust worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

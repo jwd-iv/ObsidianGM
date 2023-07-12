@@ -1,35 +1,19 @@
 ---
 File: Aura of Greater Courage
 School: abjuration
-Subschool: 
 Aspects: [ emotion ]
 ClassList: { paladin: 2 }
 CastTime: standard action
 Range: personal
 Area: 10-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 10/minutes per level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/a/aura-of-greater-courage)"
 ---

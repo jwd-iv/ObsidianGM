@@ -1,35 +1,19 @@
 ---
 File: Overstimulate
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, bard: 2, bloodrager: 2, cleric: 2, oracle: 2, druid: 2, psychic: 2, ranger: 2, shaman: 2, summoner: 2, unchained summoner: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: smelling salts
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Temples"
 ---

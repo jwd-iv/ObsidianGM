@@ -1,35 +1,21 @@
 ---
 File: Water Walk
 School: transmutation
-Subschool: 
 Aspects: [ water ]
 ClassList: { cleric: 3, oracle: 3, ranger: 3, witch: 3, shaman: 3, psychic: 3, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched creature/level
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Oceans: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/water-walk)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Snowball
 School: evocation
-Subschool: 
 Aspects: [ cold, water ]
 ClassList: { bloodrager: 1, druid: 1, magus: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, witch: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one ball of ice and snow
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

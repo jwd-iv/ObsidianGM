@@ -1,35 +1,17 @@
 ---
 File: Hellmouth Lash
 School: transmutation
-Subschool: 
 Aspects: [ acid, electricity, or fire ]
 ClassList: { sorcerer: 4, wizard: 4, witch: 4, bloodrager: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Battlemind Link
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { inquisitor: 4, sorcerer: 6, wizard: 6, occultist: 5, psychic: 6, mesmerist: 4, medium: 4 }
 CastTime: standard action
 Range: personal or close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you and 1 ally
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Education: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/b/battlemind-link)"
 ---

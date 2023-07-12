@@ -1,33 +1,22 @@
 ---
 File: Consecrate
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 20-ft.-radius emanation
-Effect: 
-Targets: 
 Duration: 2 hours/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a vial of holy water and 25 gp worth of silver dust
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/consecrate)"
 ---

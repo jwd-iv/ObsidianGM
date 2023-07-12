@@ -2,33 +2,21 @@
 File: Animal Aspect
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { alchemist: 2, magus: 2, druid: 2, ranger: 2, sorcerer: 2, wizard: 2, bloodrager: 2, psychic: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a part of the animal
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/a/animal-aspect)"
 ---

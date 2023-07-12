@@ -2,34 +2,19 @@
 File: Instant Summons, Greater
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { psychic: 8, sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: standard action
 Range: see text
-Area: 
-Effect: 
 Targets: up to one object per 3 caster levels, each weighing 10 lbs. or less whose longest dimension is 6 ft. or less
 Duration: permanent or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: sapphires worth 1,000 gp each
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

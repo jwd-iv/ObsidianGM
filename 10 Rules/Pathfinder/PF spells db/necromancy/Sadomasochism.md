@@ -1,35 +1,19 @@
 ---
 File: Sadomasochism
 School: necromancy
-Subschool: 
 Aspects: [ pain ]
 ClassList: { antipaladin: 3, cleric: 3, oracle: 3, inquisitor: 3, magus: 4, sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates, see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Curse Of The Crimson Throne Chapter Appendix"
 ---

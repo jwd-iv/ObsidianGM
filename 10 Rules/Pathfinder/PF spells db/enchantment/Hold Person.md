@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 2, cleric: 2, oracle: 2, sorcerer: 3, wizard: 3, witch: 2, inquisitor: 2, antipaladin: 2, bloodrager: 3, shaman: 2, occultist: 3, psychic: 2, mesmerist: 2, medium: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one humanoid creature
 Duration: 1 round/level ; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hold-person)"
 ---

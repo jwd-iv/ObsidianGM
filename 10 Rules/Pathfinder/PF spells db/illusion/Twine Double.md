@@ -2,34 +2,19 @@
 File: Twine Double
 School: illusion
 Subschool: shadow
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3 }
 CastTime: 10 minutes
 Range: 0 ft.
-Area: 
 Effect: One duplicate creature
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: None
 SR: No
 Components:
   V: yes
   S: yes
   M: cloth and twine
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Cheliax Empire Of Devils](http://www.d20pfsrd.com/magic/all-spells/t/t/twine-double)"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Aura Alteration
 School: illusion
-Subschool: 
-Aspects: 
 ClassList: { medium: 3, mesmerist: 3, occultist: 3, psychic: 4, spiritualist: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one object or willing creature
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

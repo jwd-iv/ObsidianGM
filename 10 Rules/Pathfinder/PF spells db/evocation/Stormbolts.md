@@ -1,35 +1,20 @@
 ---
 File: Stormbolts
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { cleric: 8, oracle: 8, druid: 8, sorcerer: 8, wizard: 8, witch: 8, shaman: 8 }
 CastTime: standard action
 Range: 30 ft.
 Area: a 30-ft.-radius spread, centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: a copper rod
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/stormbolts)"
 ---

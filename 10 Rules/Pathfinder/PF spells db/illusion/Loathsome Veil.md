@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 3, wizard: 3, witch: 3, psychic: 3, mesmerist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: transparent pattern 40 ft. long, 20 ft. high
-Targets: 
 Duration: concentration + 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a tangle of multicolored threads
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/l/loathsome-veil)"
 ---

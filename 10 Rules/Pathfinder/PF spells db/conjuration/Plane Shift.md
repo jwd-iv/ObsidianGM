@@ -2,32 +2,20 @@
 File: Plane Shift
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, sorcerer: 7, wizard: 7, summoner: 5, witch: 7, shaman: 7, psychic: 5, spiritualist: 5, unchained summoner: 6, medium: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched, or up to eight willing creatures joining hands
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Freedom: 5 }
-GPCost: 
 Bloodline: { Aberrant (Sorcerer): 15, Djinni: 15, Efreeti: 15, Marid: 15, Shaitan: 15 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/plane-shift)"
 ---

@@ -2,34 +2,20 @@
 File: False Future
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 3, cleric: 4, oracle: 4, medium: 3, mesmerist: 3, psychic: 4, shaman: 4, sorcerer: 5, wizard: 5, spiritualist: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates or Will disbelief (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: crushed jade worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

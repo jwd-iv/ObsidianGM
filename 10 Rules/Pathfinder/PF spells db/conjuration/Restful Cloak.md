@@ -2,34 +2,17 @@
 File: Restful Cloak
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 2, occultist: 2, paladin: 2, ranger: 2, shaman: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Armory 2"
 ---

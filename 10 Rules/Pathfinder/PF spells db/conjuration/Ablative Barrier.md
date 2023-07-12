@@ -6,29 +6,16 @@ Aspects: [ force ]
 ClassList: { alchemist: 2, magus: 2, sorcerer: 3, wizard: 3, summoner: 2, bloodrager: 2, occultist: 2, psychic: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 hour/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a piece of metal cut from a shield
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/a/ablative-barrier)"
 ---

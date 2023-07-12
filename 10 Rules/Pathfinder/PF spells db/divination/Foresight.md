@@ -1,34 +1,23 @@
 ---
 File: Foresight
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { druid: 9, sorcerer: 9, wizard: 9, witch: 9, shaman: 9, psychic: 9 }
 CastTime: standard action
 Range: personal or touch
-Area: 
-Effect: 
 Targets: see text
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Will negates (harmless)
 SR: no or yes (harmless)
 Components:
   V: yes
   S: yes
   M: a hummingbird's feather
-  F: 
   DF: yes
-Deity: 
 SLALevel: 9
 Domains: { Knowledge: 9 }
-GPCost: 
 Bloodline: { Destined: 19 }
 Patron: { Portents: 18 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/foresight)"
 ---

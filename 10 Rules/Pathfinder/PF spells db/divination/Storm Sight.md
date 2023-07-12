@@ -2,34 +2,18 @@
 File: Storm Sight
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 2, shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: 1 round
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

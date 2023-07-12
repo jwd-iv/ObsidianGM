@@ -6,30 +6,17 @@ Aspects: [ mind-affecting, emotion ]
 ClassList: { druid: 4, sorcerer: 4, wizard: 4, witch: 4, bloodrager: 4, psychic: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one humanoid creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of powdered moonstone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Insanity: 4, Rage: 6, Moon: 4 }
-GPCost: 
-Bloodline: 
 Patron: { Moon: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/m/moonstruck)"
 ---

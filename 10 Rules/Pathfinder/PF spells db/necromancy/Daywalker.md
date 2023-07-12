@@ -1,35 +1,19 @@
 ---
 File: Daywalker
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 4, cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: undead creature touched
 Duration: 24 hours
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a black glass vial containing unholy water
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Cohorts & Companions"
 ---

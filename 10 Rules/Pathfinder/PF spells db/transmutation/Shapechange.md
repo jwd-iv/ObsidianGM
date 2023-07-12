@@ -2,34 +2,21 @@
 File: Shapechange
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { druid: 9, sorcerer: 9, wizard: 9, shaman: 9 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Animal: 9, Scalykind: 9 }
 GPCost: 1500
 Bloodline: { Aberrant: 19, Fey: 19, Nanite: 19, Protean: 19 }
 Patron: { Agility: 18, Strength: 18, Transformation: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shapechange)"
 ---

@@ -1,35 +1,20 @@
 ---
 File: Grand Curse
 School: necromancy
-Subschool: 
 Aspects: [ curse ]
 ClassList: { cleric: 8, oracle: 8, sorcerer: 9, wizard: 9 }
 CastTime: standard action (see text)
 Range: close (25 + 5 ft./2 levels)
 Area: see below
-Effect: 
 Targets: see below
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Rappan Athuk"
 ---

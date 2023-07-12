@@ -1,35 +1,18 @@
 ---
 File: Path Of The Winds
 School: evocation
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: 100 ft.
-Area: 
 Effect: 40-ft.-high downdraft of wind in a 100-foot line
-Targets: 
 Duration: concentration + 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

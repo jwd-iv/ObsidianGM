@@ -2,34 +2,20 @@
 File: Create Pit
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels
-Targets: 
 Duration: 1 round + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Caves: 2 }
 GPCost: 10
 Bloodline: { Kobold Sorcerer: 5, Kobold: 5 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/create-pit)"
 ---

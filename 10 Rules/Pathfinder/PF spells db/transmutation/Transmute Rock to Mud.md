@@ -1,16 +1,12 @@
 ---
 File: Transmute Rock to Mud
 School: transmutation
-Subschool: 
 Aspects: [ earth ]
 ClassList: { druid: 5, sorcerer: 5, wizard: 5, occultist: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: up to two 10-ft. cubes/level
-Effect: 
-Targets: 
 Duration: permanent; see text
-Dismissible: 
 Shapeable: yes
 SavingThrow: see text
 SR: no
@@ -18,18 +14,9 @@ Components:
   V: yes
   S: yes
   M: clay and water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Kobold Sorcerer: 11, Kobold: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/transmute-rock-to-mud)"
 ---

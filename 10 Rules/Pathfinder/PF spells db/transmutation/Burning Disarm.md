@@ -1,35 +1,18 @@
 ---
 File: Burning Disarm
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { cleric: 1, oracle: 1, druid: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: Held metal item of one creature or 15 lbs. of unattended metal
 Duration: Instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates (object, see text)
 SR: Yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Cheliax Empire Of Devils](http://www.d20pfsrd.com/magic/all-spells/b/b/burning-disarm)"
 ---

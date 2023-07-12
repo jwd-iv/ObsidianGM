@@ -1,35 +1,16 @@
 ---
 File: Underbrush Decoy
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, ranger: 1, shaman: 1 }
 CastTime: swift action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one non-creature plant of size Tiny, Small, or Medium
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

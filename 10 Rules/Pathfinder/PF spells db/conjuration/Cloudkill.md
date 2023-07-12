@@ -2,32 +2,20 @@
 File: Cloudkill
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, witch: 5, magus: 5, spiritualist: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: cloud spreads in 20-ft. radius, 20 ft. high
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Venom: 6 }
-GPCost: 
 Bloodline: { Orc: 11 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/cloudkill)"
 ---

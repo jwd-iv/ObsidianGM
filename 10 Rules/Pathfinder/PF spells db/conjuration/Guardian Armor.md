@@ -2,34 +2,17 @@
 File: Guardian Armor
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { antipaladin: 1, bloodrager: 1, cleric: 1, oracle: 1, inquisitor: 1, magus: 1, occultist: 1, paladin: 1, sorcerer: 1, wizard: 1 }
 CastTime: immediate action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing creature; see below
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Armor Masters Handbook"
 ---

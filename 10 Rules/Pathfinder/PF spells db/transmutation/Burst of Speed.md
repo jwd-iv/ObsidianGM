@@ -1,35 +1,14 @@
 ---
 File: Burst of Speed
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 3, antipaladin: 3, magus: 3, inquisitor: 3, paladin: 3, ranger: 3, bloodrager: 3, psychic: 3, medium: 3 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/b/burst-of-speed)"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Speak With Soul
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { antipaladin: 4, cleric: 6, oracle: 6, medium: 4, paladin: 4, shaman: 6, spiritualist: 6 }
 CastTime: 1 minute
 Range: 10 ft.
-Area: 
-Effect: 
 Targets: see text
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of candle wax
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

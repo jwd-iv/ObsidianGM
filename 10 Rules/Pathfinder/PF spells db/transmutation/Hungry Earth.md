@@ -1,35 +1,18 @@
 ---
 File: Hungry Earth
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-foot-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
 Bloodline: { Ghoul: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Ectoplasmic Eruption
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { psychic: 7, spiritualist: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 30-ft.-radius burst
-Effect: 
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half and Will partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
 Bloodline: { Ectoplasm: 15 }
 Patron: { Ethereal: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

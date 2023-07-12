@@ -1,35 +1,17 @@
 ---
 File: Repair Undead
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one undead creature touched (see text)
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

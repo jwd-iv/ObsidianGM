@@ -1,35 +1,20 @@
 ---
 File: Blood Biography
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 3, oracle: 3, inquisitor: 3, sorcerer: 3, wizard: 3, bloodrager: 3, occultist: 2, psychic: 3, medium: 2 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: one creature's blood or one bloodstain
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a scrap of parchment
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Portents: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/blood-biography)"
 ---

@@ -5,31 +5,16 @@ Subschool: compulsion
 Aspects: [ mind-affecting ]
 ClassList: { cleric: 5, oracle: 5, inquisitor: 4, paladin: 4 }
 CastTime: standard action
-Range: 
 Area: 10-ft.-radius burst, centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level (D; see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Iomedae
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

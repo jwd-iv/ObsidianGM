@@ -1,35 +1,20 @@
 ---
 File: Shifting Shadows
 School: evocation
-Subschool: 
 Aspects: [ darkness ]
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 20-ft.-radius emanation centered on a point in space
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none, see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of ink
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

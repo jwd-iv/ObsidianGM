@@ -1,35 +1,17 @@
 ---
 File: Heart Of The Mammoth
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 8, oracle: 8, druid: 8, sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dragonslayer's Handbook"
 ---

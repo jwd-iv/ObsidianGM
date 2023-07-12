@@ -1,35 +1,19 @@
 ---
 File: Recharge
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 3, oracle: 3, magus: 3, sorcerer: 3, wizard: 3 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: 500 gp of diamond dust
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Technology Guide"
 ---

@@ -2,34 +2,16 @@
 File: Display Aversion
 School: illusion
 Subschool: shadow
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, inquisitor: 2, sorcerer: 3, wizard: 3, witch: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: concentration + 1d4 rounds
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a drop of holy water
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Night"
 ---

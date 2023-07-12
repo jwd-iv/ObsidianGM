@@ -1,35 +1,18 @@
 ---
 File: Aura Of Distraction
 School: enchantment
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { psychic: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
-Range: 
 Area: 20-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Psychic Anthology"
 ---

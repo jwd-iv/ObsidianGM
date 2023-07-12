@@ -1,35 +1,18 @@
 ---
 File: Banish Seeming
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 3, witch: 5, psychic: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature or object
 Duration: instantaneous and 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a cold iron nail
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
 Domains: { Revelation: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/banish-seeming)"
 ---

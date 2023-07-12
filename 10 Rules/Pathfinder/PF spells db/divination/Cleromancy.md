@@ -1,35 +1,18 @@
 ---
 File: Cleromancy
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 3, inquisitor: 3, sorcerer: 3, wizard: 3 }
 CastTime: full-round action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/caster level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Mysteries"
 ---

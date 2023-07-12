@@ -1,35 +1,20 @@
 ---
 File: Elemental Touch
 School: evocation
-Subschool: 
 Aspects: [ acid, cold, electricity, or fire ]
 ClassList: { alchemist: 2, sorcerer: 2, wizard: 2, magus: 2, bloodrager: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a bit of the chosen element
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/elemental-touch)"
 ---

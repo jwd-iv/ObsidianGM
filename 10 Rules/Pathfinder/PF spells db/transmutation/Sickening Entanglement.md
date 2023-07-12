@@ -1,35 +1,20 @@
 ---
 File: Sickening Entanglement
 School: transmutation
-Subschool: 
 Aspects: [ poison ]
 ClassList: { druid: 2, ranger: 2, shaman: 2 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: plants in a 40-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial and Fortitude negates (see  text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

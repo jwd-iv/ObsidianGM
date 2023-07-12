@@ -1,35 +1,20 @@
 ---
 File: Dead Eye's Arrow
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 1, druid: 1, magus: 1, paladin: 1, ranger: 1 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level); see text
-Area: 
 Effect: arrow of electricity
-Targets: 
 Duration: instantaneous or 1 round (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: one arrow
-  F: 
-  DF: 
 Deity: Erastil
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

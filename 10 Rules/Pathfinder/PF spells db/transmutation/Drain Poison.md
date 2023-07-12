@@ -1,35 +1,20 @@
 ---
 File: Drain Poison
 School: transmutation
-Subschool: 
 Aspects: [ poisonUM ]
 ClassList: { alchemist: 3, antipaladin: 3, cleric: 3, oracle: 3, druid: 3, ranger: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one weapon or a single piece of ammunition
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: the fang of a poisonous creature
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

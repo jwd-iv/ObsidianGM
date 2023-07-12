@@ -7,29 +7,16 @@ ClassList: { sorcerer: 8, wizard: 8, summoner: 6, unchained summoner: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: cloud spreads in 20-ft. radius, 20 ft. high
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Fire: 8 }
-GPCost: 
-Bloodline: 
 Patron: { Vengeance: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/incendiary-cloud)"
 ---

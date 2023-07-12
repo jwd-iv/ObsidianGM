@@ -6,30 +6,15 @@ Aspects: [ mind-affecting, ruse ]
 ClassList: { bard: 3, bloodrager: 4, inquisitor: 4, medium: 3, psychic: 4, sorcerer: 4, wizard: 4, spiritualist: 4, summoner: 4, unchained summoner: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

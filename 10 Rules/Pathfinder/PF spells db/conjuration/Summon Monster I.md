@@ -6,30 +6,17 @@ Aspects: [ see text ]
 ClassList: { bard: 1, cleric: 1, oracle: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, witch: 1, antipaladin: 1, psychic: 1, spiritualist: 1, medium: 1 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one summoned creature
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/summon-monster-i)"
 ---

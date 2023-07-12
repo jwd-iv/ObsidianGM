@@ -2,34 +2,20 @@
 File: Neutralize Poison, Greater
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { alchemist: 6, bard: 6, cleric: 6, oracle: 6, druid: 5, inquisitor: 6, witch: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object of up to 1 cu. ft./level touched
 Duration: instantaneous or 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: a lump of charcoal
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

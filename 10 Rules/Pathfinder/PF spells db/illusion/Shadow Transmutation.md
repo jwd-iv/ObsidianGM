@@ -6,30 +6,14 @@ Aspects: [ shadowUM ]
 ClassList: { bard: 6, medium: 6, shaman: 6, sorcerer: 6, wizard: 6, spiritualist: 6, summoner: 6, unchained summoner: 6, witch: 6 }
 CastTime: standard action
 Range: see text
-Area: 
-Effect: 
 Targets: see text
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with); varies; see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of Shadows"
 ---

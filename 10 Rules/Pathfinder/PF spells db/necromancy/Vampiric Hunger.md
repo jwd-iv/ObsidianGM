@@ -6,30 +6,15 @@ Aspects: [ evil ]
 ClassList: { antipaladin: 3, cleric: 3, oracle: 3, druid: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Urgathoa
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faiths Of Corruption"
 ---

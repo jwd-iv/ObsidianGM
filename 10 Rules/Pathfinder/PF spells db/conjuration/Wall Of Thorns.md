@@ -2,32 +2,22 @@
 File: Wall Of Thorns
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { druid: 5, shaman: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: wall of thorny brush, up to one 10-ft. cube/level (S)
-Targets: 
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Blood: 5, Plant: 5 }
-GPCost: 
 Bloodline: { Verdant: 11 }
 Patron: { Thorns: 10 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/wall-of-thorns)"
 ---

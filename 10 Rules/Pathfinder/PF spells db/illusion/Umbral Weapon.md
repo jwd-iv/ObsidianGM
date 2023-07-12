@@ -1,35 +1,19 @@
 ---
 File: Umbral Weapon
 School: illusion
-Subschool: 
 Aspects: [ cold, shadow ]
 ClassList: { antipaladin: 2, bard: 2, magus: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: melee weapon touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pair of miniature swords
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Melee Tactics Toolbox"
 ---

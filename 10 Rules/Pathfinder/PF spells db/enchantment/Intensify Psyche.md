@@ -1,35 +1,18 @@
 ---
 File: Intensify Psyche
 School: enchantment
-Subschool: 
 Aspects: [ emotion, mind-affecting ]
 ClassList: { bard: 1, cleric: 2, oracle: 2, medium: 2, mesmerist: 1, psychic: 2, sorcerer: 2, wizard: 2, spiritualist: 2, witch: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one creature
-Targets: 
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Darklands"
 ---

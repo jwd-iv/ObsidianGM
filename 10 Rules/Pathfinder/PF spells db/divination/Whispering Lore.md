@@ -1,35 +1,18 @@
 ---
 File: Whispering Lore
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, druid: 1, ranger: 1, witch: 1, psychic: 1, medium: 1 }
 CastTime: full-round action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: an owl's beak
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

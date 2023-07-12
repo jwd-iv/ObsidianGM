@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 1, witch: 1, psychic: 1, mesmerist: 1 }
 CastTime: standard action
 Range: 5 ft.
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/beguiling-gift)"
 ---

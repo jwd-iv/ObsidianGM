@@ -1,35 +1,19 @@
 ---
 File: Imbue Hex
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { shaman: 5, witch: 5 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched; see text
 Duration: permanent or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a hag's whisker
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Origins"
 ---

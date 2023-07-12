@@ -1,35 +1,19 @@
 ---
 File: Source Severance
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, druid: 6, witch: 6 }
 CastTime: standard action
 Range: 5 ft.
 Area: 5-ft.-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: see text
 Components:
   V: yes
   S: yes
   M: an unworked lodestone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Faiths & Philosophies"
 ---

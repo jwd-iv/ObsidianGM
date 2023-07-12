@@ -1,34 +1,19 @@
 ---
 File: Discordant Blast
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 4 }
 CastTime: standard action
 Range: 10 ft. or 30 ft.
 Area: see text
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/discordant-blast)"
 ---

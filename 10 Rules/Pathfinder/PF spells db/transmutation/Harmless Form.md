@@ -2,34 +2,18 @@
 File: Harmless Form
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { druid: 2, ranger: 2, shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one willing animal companion, familiar, or spirit animal
 Duration: 8 hours
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fort negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Streets"
 ---

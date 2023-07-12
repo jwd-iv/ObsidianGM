@@ -1,35 +1,20 @@
 ---
 File: Devil Snare
 School: abjuration
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 4, oracle: 4, sorcerer: 5, wizard: 5 }
 CastTime: full-round action
 Range: touch
-Area: 
 Effect: 10-ft.-radius circle
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
   M: a pouch of silvered powder worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

@@ -7,29 +7,16 @@ ClassList: { bard: 2, inquisitor: 2, magus: 2, paladin: 1, sorcerer: 2, wizard: 
 CastTime: standard action
 Range: 30 ft.
 Area: The caster and all allies within a 30-ft.-radius burst, centered on the caster
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a small piece of a map
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/t/tactical-acumen)"
 ---

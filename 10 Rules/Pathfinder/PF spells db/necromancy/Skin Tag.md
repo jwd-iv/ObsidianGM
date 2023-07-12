@@ -6,29 +6,17 @@ Aspects: [ emotionUM, fear, mind-affecting ]
 ClassList: { alchemist: 1, medium: 1, occultist: 1, shaman: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: 1 minute
 Range: touch (object); 1 mile (remote effects)
-Area: 
-Effect: 
 Targets: 1 beverage or piece of food touched
 Duration: 1 day plus 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (object), Fortitude negates; see text
 SR: no (object), yes (creature)
 Components:
   V: yes
   S: yes
   M: beverage or food item, plus special reagents worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 20 (to taste a hint of rot) or DC 25 (if the affected creature is wearing armor or heavy clothing)  hp 5 hp; Trigger conditional (using the item or the spell's remote effect); Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

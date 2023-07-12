@@ -1,35 +1,22 @@
 ---
 File: Mage's Sword
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one sword
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 250
-Bloodline: 
 Patron: { Thorns: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mage-s-sword)"
 ---

@@ -2,34 +2,17 @@
 File: Darting Duplicate
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { antipaladin: 1, bard: 1, magus: 1, shaman: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: swift action
 Range: 5 ft.
-Area: 
 Effect: visual figment of the caster
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Melee Tactics Toolbox"
 ---

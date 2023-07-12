@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { adept: 3, bard: 2, cleric: 3, oracle: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing living creature per 2 levels, no two of which may be more than 30 ft. apart
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a drop of blood from each creature to be affected
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Orcs of Golarion"
 ---

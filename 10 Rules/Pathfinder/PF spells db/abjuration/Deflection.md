@@ -1,35 +1,18 @@
 ---
 File: Deflection
 School: abjuration
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 7, wizard: 7, psychic: 7 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a piece of rubber dipped in glue
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
 Domains: { Defense: 7 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/d/deflection)"
 ---

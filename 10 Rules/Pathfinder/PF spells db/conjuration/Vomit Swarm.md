@@ -2,34 +2,15 @@
 File: Vomit Swarm
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { alchemist: 2, witch: 2 }
 CastTime: standard action
 Range: personal
-Area: 
 Effect: one swarm of spiders
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Vermin: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/v/vomit-swarm)"
 ---

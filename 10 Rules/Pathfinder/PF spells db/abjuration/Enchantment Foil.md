@@ -1,35 +1,15 @@
 ---
 File: Enchantment Foil
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, cleric: 4, oracle: 4, inquisitor: 4, sorcerer: 4, wizard: 4, witch: 4, occultist: 4, psychic: 4, mesmerist: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 hour/level (see text)
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Fabricate Bullets
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: 1 pound of soft metal
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: 1 pound of lead or other soft metal worth 2 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
 GPCost: 2
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/f/fabricate-bullets)"
 ---

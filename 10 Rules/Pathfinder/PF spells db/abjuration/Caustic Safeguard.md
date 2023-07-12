@@ -1,35 +1,20 @@
 ---
 File: Caustic Safeguard
 School: abjuration
-Subschool: 
 Aspects: [ acid ]
 ClassList: { alchemist: 3, bloodrager: 3, magus: 3, sorcerer: 4, wizard: 4 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: object touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex half (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a thin metal wire and a vial of acid
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

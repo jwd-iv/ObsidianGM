@@ -2,34 +2,18 @@
 File: Fins To Feet
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { druid: 3, sorcerer: 3, wizard: 3, witch: 3, shaman: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: willing creature touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

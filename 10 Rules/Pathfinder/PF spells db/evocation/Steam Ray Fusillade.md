@@ -1,35 +1,17 @@
 ---
 File: Steam Ray Fusillade
 School: evocation
-Subschool: 
 Aspects: [ fire, water ]
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a scraping from a hydrothermal vent
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Aquatic Adventures"
 ---

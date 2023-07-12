@@ -1,35 +1,18 @@
 ---
 File: Serren's Swift Girding
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 1, paladin: 1, sorcerer: 1, wizard: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing creature/level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: the armor to be worn
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Knights Of The Inner Sea"
 ---

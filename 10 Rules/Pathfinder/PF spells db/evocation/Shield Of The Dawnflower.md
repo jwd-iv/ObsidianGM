@@ -1,34 +1,20 @@
 ---
 File: Shield Of The Dawnflower
 School: evocation
-Subschool: 
 Aspects: [ fire, good, light ]
 ClassList: { bard: 4, cleric: 4, oracle: 4, magus: 4, paladin: 4, ranger: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Inner Sea World Guide](http://www.d20pfsrd.com/magic/all-spells/s/shield-of-the-dawnflower)"
 ---

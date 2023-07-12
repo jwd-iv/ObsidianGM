@@ -1,35 +1,19 @@
 ---
 File: Out Of Sight
 School: enchantment
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { medium: 3, mesmerist: 3, psychic: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
   M: a strip of black cloth
-  F: 
-  DF: 
-Deity: 
-SLALevel: 
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

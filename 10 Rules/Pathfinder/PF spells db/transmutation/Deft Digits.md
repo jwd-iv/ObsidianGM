@@ -1,35 +1,17 @@
 ---
 File: Deft Digits
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, medium: 3, occultist: 3, psychic: 3, sorcerer: 3, wizard: 3, spiritualist: 3, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: 1 unattended gauntlet or glove
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: None (harmless, object)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

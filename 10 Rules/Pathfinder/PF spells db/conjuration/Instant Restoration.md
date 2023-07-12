@@ -2,34 +2,19 @@
 File: Instant Restoration
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, druid: 4, shaman: 4, summoner: 4, unchained summoner: 4, witch: 4 }
 CastTime: immediate action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one summoned creature you control
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Summoner's Handbook"
 ---

@@ -2,32 +2,19 @@
 File: Breath Of Life
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, shaman: 5, spiritualist: 5 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless) or Will half, see text
 SR: yes (harmless) or yes, see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Healing: 5 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/breath-of-life)"
 ---

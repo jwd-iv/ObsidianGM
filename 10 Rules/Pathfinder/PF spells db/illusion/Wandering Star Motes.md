@@ -6,30 +6,16 @@ Aspects: [ light, mind-affecting ]
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, witch: 4, shaman: 4, occultist: 4, psychic: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature and special; see text
 Duration: 1/round per level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a sprinkle of flash powder
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Stars: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/w/wandering-star-motes)"
 ---

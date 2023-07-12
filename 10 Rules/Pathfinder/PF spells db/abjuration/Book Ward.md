@@ -1,35 +1,19 @@
 ---
 File: Book Ward
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object of up to 10 pounds/level
 Duration: 1 day/level or until discharged (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: Yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: a drop of clear oil
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Seekers of Secrets"
 ---

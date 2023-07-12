@@ -1,35 +1,18 @@
 ---
 File: Sensory Amplifier
 School: divination
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { druid: 4, medium: 2, mesmerist: 3, psychic: 3, witch: 3 }
 CastTime: standard action
 Range: personal
 Area: 10-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Origins"
 ---

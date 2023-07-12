@@ -1,35 +1,16 @@
 ---
 File: Peacebond, Greater
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { inquisitor: 4, occultist: 4, psychic: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: up to one weapon/level, no two of which can be more than 30 ft. apart
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Secret Speech
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, cleric: 2, oracle: 2, inquisitor: 1, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
 Deity: Calistria
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

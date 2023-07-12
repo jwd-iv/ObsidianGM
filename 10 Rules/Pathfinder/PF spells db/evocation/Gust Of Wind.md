@@ -1,33 +1,21 @@
 ---
 File: Gust Of Wind
 School: evocation
-Subschool: 
 Aspects: [ air ]
 ClassList: { druid: 2, sorcerer: 2, wizard: 2, magus: 2, bloodrager: 2, occultist: 2 }
 CastTime: standard action
 Range: 60 ft.
-Area: 
 Effect: line-shaped gust of severe wind emanating out from you to the extreme of the range
-Targets: 
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Catastrophe: 2 }
-GPCost: 
 Bloodline: { Stormborn: 5 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/gust-of-wind)"
 ---

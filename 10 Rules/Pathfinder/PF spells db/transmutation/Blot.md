@@ -1,35 +1,18 @@
 ---
 File: Blot
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3, sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 10 ft.-radius burst
-Effect: 
-Targets: 
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: a bit of cloth made wet with saliva
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Goblins Of Golarion"
 ---

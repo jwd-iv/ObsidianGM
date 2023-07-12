@@ -2,34 +2,17 @@
 File: Shackle
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, inquisitor: 2, ranger: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: one set of restraints; see text
-Targets: 
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

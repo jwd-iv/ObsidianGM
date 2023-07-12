@@ -1,34 +1,19 @@
 ---
 File: Divine Favor
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, paladin: 1, inquisitor: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Archon: 1, Nobility: 1 }
-GPCost: 
-Bloodline: 
 Patron: { Devotion: 2, Strength: 2 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/divine-favor)"
 ---

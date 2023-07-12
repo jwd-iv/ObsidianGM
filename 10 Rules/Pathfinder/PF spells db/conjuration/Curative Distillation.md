@@ -2,34 +2,19 @@
 File: Curative Distillation
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { alchemist: 2, cleric: 3, oracle: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one living creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: healing herb, alchemical remedy, or potion of a healing spell worth at least 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Healer's Handbook"
 ---

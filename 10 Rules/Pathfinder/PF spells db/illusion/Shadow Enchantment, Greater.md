@@ -6,30 +6,14 @@ Aspects: [ shadowUM ]
 ClassList: { bard: 6, mesmerist: 6, psychic: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: see text
-Area: 
 Effect: see text
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Realms"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Conditional Curse
 School: necromancy
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { antipaladin: 4, cleric: 4, oracle: 4, inquisitor: 4, medium: 3, mesmerist: 3, occultist: 4, psychic: 5, shaman: 4, sorcerer: 5, wizard: 5, spiritualist: 5, witch: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: permanent (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

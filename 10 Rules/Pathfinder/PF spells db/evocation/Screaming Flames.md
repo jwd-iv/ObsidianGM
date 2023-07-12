@@ -1,35 +1,20 @@
 ---
 File: Screaming Flames
 School: evocation
-Subschool: 
 Aspects: [ evil, fire, mind-affecting ]
 ClassList: { antipaladin: 3, cleric: 3, oracle: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: a sheet of flame up to 15 ft. long and 10 ft. high that moves 15 ft. in a straight line.
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half and Will negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a charred animal or humanoid skull fragment
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

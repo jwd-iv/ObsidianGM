@@ -1,35 +1,18 @@
 ---
 File: Moonrise Arrow
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, magus: 3, occultist: 3, paladin: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: up to 50 pieces of ammunition, all of which must be together at the time of casting
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 134"
 ---

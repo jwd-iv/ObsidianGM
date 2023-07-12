@@ -1,35 +1,19 @@
 ---
 File: Cursed Treasure
 School: necromancy
-Subschool: 
 Aspects: [ curse ]
 ClassList: { antipaladin: 3, bloodrager: 4, cleric: 3, oracle: 3, shaman: 3, sorcerer: 4, wizard: 4, spiritualist: 3, witch: 3 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: unattended object touched
 Duration: permanent until discharged, then permanent (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object), then Will negates (see text)
 SR: yes (object), then yes (see text)
 Components:
   V: yes
   S: yes
   M: a platinum piece
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

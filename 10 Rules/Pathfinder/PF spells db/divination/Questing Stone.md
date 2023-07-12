@@ -1,35 +1,18 @@
 ---
 File: Questing Stone
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, sorcerer: 4, wizard: 4 }
 CastTime: 10 minutes
 Range: touch and unlimited
-Area: 
-Effect: 
 Targets: one ioun stone touched
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Seekers of Secrets"
 ---

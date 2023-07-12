@@ -1,35 +1,19 @@
 ---
 File: Reaper's Coterie
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 2, bloodrager: 2, cleric: 3, oracle: 3, inquisitor: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: weapon touched
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Melee Tactics Toolbox"
 ---

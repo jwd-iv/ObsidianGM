@@ -1,33 +1,19 @@
 ---
 File: Enervation
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, witch: 4, bloodrager: 4, mesmerist: 4, spiritualist: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: ray of negative energy
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Loss: 5, Undead: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/enervation)"
 ---

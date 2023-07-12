@@ -1,35 +1,19 @@
 ---
 File: Alleviate Corruption
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, psychic: 6, shaman: 6, spiritualist: 6, witch: 6 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: one creature other than yourself
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: rare herbs, incense, and jewels worth 500 gp/the target's character level or HD
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

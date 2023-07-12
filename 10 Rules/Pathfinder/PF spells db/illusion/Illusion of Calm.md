@@ -2,34 +2,17 @@
 File: Illusion of Calm
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { alchemist: 1, magus: 1, sorcerer: 1, wizard: 1, occultist: 1, psychic: 1, mesmerist: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelieve (on hit; see below)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/i/illusion-of-calm)"
 ---

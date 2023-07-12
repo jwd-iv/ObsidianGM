@@ -1,35 +1,21 @@
 ---
 File: Flesh Puppet Horde
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 3, cleric: 4, oracle: 4, occultist: 4, shaman: 4, sorcerer: 5, wizard: 5, spiritualist: 4, witch: 5 }
 CastTime: 10 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: one or more corpses touched
 Duration: permanent
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: an onyx worth 50 gp for each zombie and a silken string
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

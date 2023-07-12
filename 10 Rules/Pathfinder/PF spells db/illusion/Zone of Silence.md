@@ -2,34 +2,17 @@
 File: Zone of Silence
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 4, mesmerist: 4 }
 CastTime: 1 round
 Range: personal
 Area: 5-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Espionage: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/z/zone-of-silence)"
 ---

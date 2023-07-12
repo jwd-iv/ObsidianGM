@@ -1,35 +1,15 @@
 ---
 File: Borrow Fortune
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { oracle: 3, psychic: 3, medium: 3 }
 CastTime: immediate action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous; see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Fate: 3 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/b/borrow-fortune)"
 ---

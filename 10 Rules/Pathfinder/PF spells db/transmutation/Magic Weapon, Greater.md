@@ -1,33 +1,22 @@
 ---
 File: Magic Weapon, Greater
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, paladin: 3, sorcerer: 3, wizard: 3, inquisitor: 3, antipaladin: 3, magus: 3, bloodrager: 3, shaman: 4, occultist: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one weapon or 50 projectiles (all of which must be together at the time of casting)
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: powdered lime and carbon
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
 Bloodline: { Shaitan: 7 }
 Patron: { Devotion: 8, Strength: 6 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-weapon)"
 ---

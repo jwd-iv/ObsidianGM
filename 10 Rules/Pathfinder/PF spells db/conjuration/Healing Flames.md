@@ -5,31 +5,15 @@ Subschool: healing
 Aspects: [ fire, good ]
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4, paladin: 4 }
 CastTime: standard action
-Range: 
 Area: 10-ft.-radius burst, centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Healer's Handbook"
 ---

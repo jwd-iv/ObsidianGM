@@ -1,35 +1,19 @@
 ---
 File: Ice Spears
 School: conjuration
-Subschool: 
 Aspects: [ cold ]
 ClassList: { druid: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 1 ice spear/4 levels
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half and see below
 SR: no
 Components:
   V: yes
   S: yes
   M: a small stalagmite-shaped crystal
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 67"
 ---

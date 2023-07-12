@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 2, medium: 2, mesmerist: 2, occultist: 2, sorcerer: 2, wizard: 2, psychic: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to one creature/level, no two of which can be more than 30 ft. apart
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: small piece of black cloth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

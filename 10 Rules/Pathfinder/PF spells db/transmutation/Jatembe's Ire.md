@@ -1,35 +1,20 @@
 ---
 File: Jatembe's Ire
 School: transmutation
-Subschool: 
 Aspects: [ good ]
 ClassList: { druid: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: 120-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: octopus or squid tentacle
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

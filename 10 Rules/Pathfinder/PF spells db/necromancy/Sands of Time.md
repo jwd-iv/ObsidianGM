@@ -1,35 +1,17 @@
 ---
 File: Sands of Time
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, sorcerer: 3, wizard: 3, witch: 3, shaman: 4, occultist: 3, psychic: 3, spiritualist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: touched creature or object
 Duration: 10 minutes/level or instantaneous (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/sands-of-time)"
 ---

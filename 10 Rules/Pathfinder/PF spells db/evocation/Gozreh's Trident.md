@@ -1,35 +1,21 @@
 ---
 File: Gozreh's Trident
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { cleric: 2, oracle: 2, druid: 2, witch: 2 }
 CastTime: standard action
 Range: 0 ft.
-Area: 
 Effect: trident-like bolt of electricity
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Gozreh
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

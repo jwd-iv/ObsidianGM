@@ -1,35 +1,18 @@
 ---
 File: Furious Fire Barrage
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { bloodrager: 4, magus: 5, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 1 round/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
   M: two balls of guano
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Agents Of Evil"
 ---

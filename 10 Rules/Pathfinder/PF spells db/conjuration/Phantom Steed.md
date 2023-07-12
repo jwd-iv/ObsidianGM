@@ -2,32 +2,19 @@
 File: Phantom Steed
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, summoner: 2, unchained summoner: 2, magus: 3, bloodrager: 3, occultist: 3, spiritualist: 2 }
 CastTime: 10 minutes
 Range: 0 ft.
-Area: 
 Effect: one quasi-real, horselike creature
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/phantom-steed)"
 ---

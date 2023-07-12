@@ -1,14 +1,10 @@
 ---
 File: Guards and Wards
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: 30 minutes
 Range: anywhere within the area to be warded
 Area: up to 200 sq. ft./level
-Effect: 
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
 Shapeable: yes
@@ -19,17 +15,9 @@ Components:
   S: yes
   M: burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood
   F: yes
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Home: 7, Wards: 6, Greed: 6 }
-GPCost: 
 Bloodline: { Kobold Sorcerer: 13, Kobold: 13 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/g/guards-and-wards)"
 ---

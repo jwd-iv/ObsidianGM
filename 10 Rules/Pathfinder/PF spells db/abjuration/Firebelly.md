@@ -1,35 +1,19 @@
 ---
 File: Firebelly
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 1, cleric: 1, oracle: 1, druid: 1, paladin: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half; see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Torag
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Preserve Grace
 School: divination
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 1, paladin: 1 }
 CastTime: 1 minute
 Range: touch
-Area: 
-Effect: 
 Targets: one good-aligned creature
 Duration: 1 day
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

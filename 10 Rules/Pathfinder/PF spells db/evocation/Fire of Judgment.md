@@ -1,35 +1,17 @@
 ---
 File: Fire of Judgment
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { paladin: 3 }
 CastTime: swift action
 Range: special; see text
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/f/fire-of-judgment)"
 ---

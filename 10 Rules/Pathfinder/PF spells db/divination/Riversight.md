@@ -2,34 +2,20 @@
 File: Riversight
 School: divination
 Subschool: scrying
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 2, inquisitor: 3, ranger: 2, witch: 3 }
 CastTime: 1 minute
 Range: see text
-Area: 
 Effect: magical sensor
 Targets: nonmagical freshwater waterway
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The River"
 ---

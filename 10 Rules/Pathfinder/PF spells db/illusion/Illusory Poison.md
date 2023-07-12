@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 3, wizard: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: weapon touched
 Duration: 1 minute/level or until discharged (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief, then Fortitude (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Gnomes Of Golarion](http://www.d20pfsrd.com/magic/all-spells/i/i/illusory-poison)"
 ---

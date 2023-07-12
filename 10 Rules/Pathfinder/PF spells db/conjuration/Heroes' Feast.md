@@ -2,34 +2,19 @@
 File: Heroes' Feast
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bard: 6, cleric: 6, oracle: 6, inquisitor: 6 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: feast for one creature/level
-Targets: 
 Duration: 1 hour plus 12 hours; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
 Domains: { Community: 6, Resolve: 6, Revelry: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/heroes-feast)"
 ---

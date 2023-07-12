@@ -2,34 +2,19 @@
 File: Elemental Body II
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, alchemist: 5, magus: 5 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 min/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: the element you plan to assume
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Rivers: 5 }
-GPCost: 
 Bloodline: { Elemental: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/e/elemental-body-i#TOC-Elemental-Body-II)"
 ---

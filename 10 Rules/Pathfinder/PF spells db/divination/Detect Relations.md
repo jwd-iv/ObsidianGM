@@ -1,35 +1,18 @@
 ---
 File: Detect Relations
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, inquisitor: 2, witch: 2 }
 CastTime: standard action
-Range: 
-Area: 
-Effect: 
 Targets: one creature per level, no two of which can be more than 30 ft. apart
 Duration: concentration, up to 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Quests and Campaigns"
 ---

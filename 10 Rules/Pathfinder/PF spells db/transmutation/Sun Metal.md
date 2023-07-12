@@ -1,34 +1,19 @@
 ---
 File: Sun Metal
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { cleric: 1, oracle: 1, paladin: 1, ranger: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one melee weapon
 Duration: 1 round/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/s/sun-metal)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Shrink Item
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, occultist: 3, psychic: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object of up to 2 cu. ft./level
 Duration: 1 day/level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
 Bloodline: { Impossible: 7 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shrink-item)"
 ---

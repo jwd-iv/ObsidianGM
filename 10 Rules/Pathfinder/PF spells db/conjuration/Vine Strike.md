@@ -2,34 +2,18 @@
 File: Vine Strike
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { alchemist: 2, antipaladin: 2, bloodrager: 2, druid: 2, ranger: 2, shaman: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates (see text)
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

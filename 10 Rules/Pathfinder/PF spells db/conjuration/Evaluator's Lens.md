@@ -2,34 +2,14 @@
 File: Evaluator's Lens
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { inquisitor: 2, occultist: 3, sorcerer: 3, wizard: 3, summoner: 2, unchained summoner: 2, witch: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
-Targets: 
 Duration: 1 minute/level or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

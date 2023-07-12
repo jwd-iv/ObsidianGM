@@ -2,34 +2,17 @@
 File: Retrieve Item
 School: conjuration
 Subschool: calling
-Aspects: 
 ClassList: { bard: 2, sorcerer: 2, wizard: 2 }
 CastTime: full-round action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: an unattended object weighing 1 lb. or less whose longest dimension is 6 inches or less
 Duration: permanent until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Classic Treasures"
 ---

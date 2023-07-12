@@ -1,35 +1,19 @@
 ---
 File: Particulate Form
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, occultist: 5, psychic: 7, sorcerer: 7, wizard: 7, witch: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 creature/level, no two of which can be more than 30 feet apart
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a pinch of fine sand
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

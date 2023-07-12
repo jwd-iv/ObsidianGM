@@ -2,34 +2,17 @@
 File: Planetarium
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 2, cleric: 2, oracle: 2, druid: 2, sorcerer: 2, wizard: 2, summoner: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 15-ft.-radius spherical projection of night sky
-Targets: 
 Duration: concentration + 3 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (harmless)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The Stars"
 ---

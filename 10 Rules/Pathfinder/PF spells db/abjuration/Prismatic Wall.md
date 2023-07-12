@@ -1,35 +1,19 @@
 ---
 File: Prismatic Wall
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, psychic: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: wall 4 ft./level wide, 2 ft./level high
-Targets: 
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: see text
 SR: see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Fortifications: 9, Isolation: 8 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/prismatic-wall)"
 ---

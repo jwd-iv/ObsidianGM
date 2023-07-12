@@ -1,35 +1,22 @@
 ---
 File: Rest Eternal
 School: necromancy
-Subschool: 
 Aspects: [ curse ]
 ClassList: { cleric: 4, oracle: 4, druid: 5, witch: 5, shaman: 5 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: one dead creature touched
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: ashes and a vial of holy or unholy water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { Ancestors: 4 }
-GPCost: 
-Bloodline: 
 Patron: { Death: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/r/rest-eternal)"
 ---

@@ -1,35 +1,19 @@
 ---
 File: Serren's Armor Lock
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 2, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one armored creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex partial; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of rust
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Knights Of The Inner Sea"
 ---

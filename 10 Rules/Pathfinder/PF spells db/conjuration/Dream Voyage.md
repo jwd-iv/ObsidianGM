@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { psychic: 9 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: you and one creature/level
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

@@ -1,35 +1,16 @@
 ---
 File: Sundering Shards
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 1, magus: 1, sorcerer: 1, wizard: 1, witch: 1, occultist: 1, psychic: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: melee weapon touched
 Duration: 1 hour/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates (see text)
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

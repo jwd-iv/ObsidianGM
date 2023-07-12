@@ -1,35 +1,18 @@
 ---
 File: Steal Breath
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { bard: 2, druid: 2, sorcerer: 2, wizard: 2, witch: 2, bloodrager: 2, psychic: 2, mesmerist: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

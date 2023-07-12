@@ -1,35 +1,19 @@
 ---
 File: Channel The Gift
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3, druid: 3, ranger: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: ally spellcaster touched
 Duration: 1 round or see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless) or none
 SR: yes (harmless) or no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Nethys
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { inquisitor: 4, witch: 4, psychic: 4, mesmerist: 4 }
 CastTime: 1 round
 Range: touch
-Area: 
-Effect: 
 Targets: unconscious creature touched
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a sprig of belladonna worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/sleepwalk)"
 ---

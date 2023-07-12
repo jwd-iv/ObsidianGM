@@ -1,35 +1,19 @@
 ---
 File: Conversing Wind
 School: transmutation
-Subschool: 
 Aspects: [ air ]
 ClassList: { bard: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: 1 mile/level
 Area: 10-ft.-radius spread
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ranged Tactics Toolbox"
 ---

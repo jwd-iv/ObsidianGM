@@ -2,34 +2,18 @@
 File: Mage's Faithful Hound
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, summoner: 4, spiritualist: 5, unchained summoner: 5 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: phantom watchdog
-Targets: 
 Duration: 1 hour/caster level or until discharged, then 1 round/caster level; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a tiny silver whistle, a piece of bone, and a thread
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mage-s-faithful-hound)"
 ---

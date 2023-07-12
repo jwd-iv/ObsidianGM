@@ -7,8 +7,6 @@ ClassList: { bard: 2, druid: 2, medium: 1, mesmerist: 2, occultist: 2, psychic: 
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 day/level
 Dismissible: yes
 Shapeable: yes
@@ -18,17 +16,7 @@ Components:
   V: yes
   S: yes
   M: a broken tool
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 20 (to hear faint, sinister laughter)  hp 2 hp/level; Trigger skill check or spell (see text); Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

@@ -7,8 +7,6 @@ ClassList: { cleric: 4, oracle: 4, druid: 4, ranger: 3, shaman: 4, sorcerer: 4, 
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
 Shapeable: yes
@@ -18,17 +16,8 @@ Components:
   V: yes
   S: yes
   M: a bloody icicle
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 25 (to feel a biting chill as if through the touch of a frozen hand)  hp 2 hp/level; Trigger proximity; Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

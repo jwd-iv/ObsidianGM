@@ -1,35 +1,20 @@
 ---
 File: Defoliate
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, ranger: 1, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: see text
-Effect: 
 Targets: see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a locust
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Radiation: 8 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Sargava](http://www.d20pfsrd.com/magic/all-spells/d/defoliate)"
 ---

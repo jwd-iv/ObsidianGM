@@ -1,35 +1,19 @@
 ---
 File: Locate Creature
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, summoner: 3, witch: 4, occultist: 4, psychic: 4, mesmerist: 4, spiritualist: 4, unchained summoner: 4, medium: 3 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: circle, centered on you, with a radius of 400 ft. + 40 ft./level
-Effect: 
-Targets: 
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: fur from a bloodhound
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
 Domains: { Exploration: 4 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/l/locate-creature)"
 ---

@@ -6,30 +6,14 @@ Aspects: [ language-dependent, mind-affecting ]
 ClassList: { bard: 2, shaman: 3, sorcerer: 3, wizard: 3, witch: 3, psychic: 3, mesmerist: 2, spiritualist: 3 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one willing living creature
 Duration: permanent until discharged (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

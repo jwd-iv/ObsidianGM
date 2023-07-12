@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 6, magus: 6, mesmerist: 6, occultist: 6, psychic: 6, sorcerer: 6, wizard: 6 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: permanent until triggered, then 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief
 SR: yes
 Components:
   V: yes
   S: yes
   M: jade dust worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 25
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

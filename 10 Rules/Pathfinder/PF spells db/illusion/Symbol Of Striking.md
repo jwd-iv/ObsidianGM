@@ -2,34 +2,19 @@
 File: Symbol Of Striking
 School: illusion
 Subschool: shadow
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, magus: 5, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half, see text
 SR: yes, see text
 Components:
   V: yes
   S: yes
   M: a masterwork melee weapon costing at least 300 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 300
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-striking)"
 ---

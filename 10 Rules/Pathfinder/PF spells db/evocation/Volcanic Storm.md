@@ -1,35 +1,21 @@
 ---
 File: Volcanic Storm
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { druid: 4, sorcerer: 4, wizard: 4, witch: 4, bloodrager: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: cylinder (20-ft. radius, 40 ft. high)
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: obsidian and ash
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/v/volcanic-storm)"
 ---

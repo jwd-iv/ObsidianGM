@@ -1,35 +1,22 @@
 ---
 File: Symbol of Death
 School: necromancy
-Subschool: 
 Aspects: [ death ]
 ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8, witch: 8, occultist: 6 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: mercury and phosphorus, plus powdered diamond and opal worth 5,000 gp each
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Rune: 8 }
 GPCost: 5000
-Bloodline: 
 Patron: { Death: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-death)"
 ---

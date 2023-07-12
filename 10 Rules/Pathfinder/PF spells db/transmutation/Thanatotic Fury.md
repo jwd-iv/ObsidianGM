@@ -1,35 +1,16 @@
 ---
 File: Thanatotic Fury
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 4, wizard: 4, witch: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you (see text)
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: shavings from a holy symbol
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 91"
 ---

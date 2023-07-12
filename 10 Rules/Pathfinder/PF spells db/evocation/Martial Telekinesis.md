@@ -1,35 +1,17 @@
 ---
 File: Martial Telekinesis
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { magus: 4, occultist: 4, psychic: 3, sorcerer: 4, wizard: 4, spiritualist: 4 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will none; see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

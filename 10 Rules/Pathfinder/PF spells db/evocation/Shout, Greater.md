@@ -1,35 +1,20 @@
 ---
 File: Shout, Greater
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { bard: 6, sorcerer: 8, wizard: 8, psychic: 8 }
 CastTime: standard action
 Range: 60 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude partial or Reflex negates (object); see text
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
 Bloodline: { Maestro: 17 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/shout)"
 ---

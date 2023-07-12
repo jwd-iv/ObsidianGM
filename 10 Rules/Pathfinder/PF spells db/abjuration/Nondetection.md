@@ -1,35 +1,20 @@
 ---
 File: Nondetection
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { ranger: 4, sorcerer: 3, wizard: 3, alchemist: 3, summoner: 3, unchained summoner: 3, inquisitor: 3, antipaladin: 3, occultist: 3, psychic: 3, mesmerist: 3, spiritualist: 3, medium: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature or object touched
 Duration: 1 hour/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: diamond dust worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Trickery: 3 }
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/n/nondetection)"
 ---

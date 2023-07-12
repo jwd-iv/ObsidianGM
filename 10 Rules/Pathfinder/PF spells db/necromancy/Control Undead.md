@@ -1,35 +1,20 @@
 ---
 File: Control Undead
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: up to 2 HD/level of undead creatures, no two of which can be more than 30 ft. apart
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of bone and a piece of raw meat
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
 Bloodline: { Ghoul: 15 }
 Patron: { Plague: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/control-undead)"
 ---

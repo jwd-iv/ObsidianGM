@@ -2,34 +2,18 @@
 File: Waves Of Blood
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { bloodrager: 3, magus: 3, psychic: 3, sorcerer: 3, wizard: 3, spiritualist: 3, witch: 3 }
 CastTime: standard action
 Range: 30 ft.
 Area: cone-shaped burst
-Effect: 
-Targets: 
 Duration: instantaneous and 1 round; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates, Fortitude negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of the caster's blood
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

@@ -7,8 +7,6 @@ ClassList: { antipaladin: 2, cleric: 2, oracle: 2, inquisitor: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
 Shapeable: yes
@@ -17,18 +15,8 @@ SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 20 (to see a pale light briefly in the area)  hp 2 hp/level; Trigger proximity; Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

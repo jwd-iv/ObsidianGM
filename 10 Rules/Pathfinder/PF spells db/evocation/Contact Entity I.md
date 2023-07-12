@@ -1,35 +1,18 @@
 ---
 File: Contact Entity I
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 2, oracle: 2, medium: 1, occultist: 2, psychic: 2, shaman: 2, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, witch: 2 }
 CastTime: 1 minute
 Range: 100 miles
-Area: 
-Effect: 
 Targets: up to 20 entities of 6 HD or fewer; see text
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

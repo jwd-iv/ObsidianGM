@@ -2,34 +2,18 @@
 File: Delay Disease
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { alchemist: 2, cleric: 2, oracle: 2, druid: 2, inquisitor: 2, paladin: 2, ranger: 2, witch: 1, mesmerist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 day
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

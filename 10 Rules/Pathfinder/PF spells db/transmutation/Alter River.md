@@ -1,35 +1,20 @@
 ---
 File: Alter River
 School: transmutation
-Subschool: 
 Aspects: [ water ]
 ClassList: { cleric: 4, oracle: 4, druid: 4, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: area of river up to 5 ft. wide/2 levels and 10 ft. long/level
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: silt from a dry riverbed
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "People Of The River"
 ---

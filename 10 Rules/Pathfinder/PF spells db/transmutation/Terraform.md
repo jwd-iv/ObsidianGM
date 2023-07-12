@@ -1,35 +1,20 @@
 ---
 File: Terraform
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 7, oracle: 7, druid: 6, sorcerer: 7, wizard: 7, witch: 7, psychic: 7 }
 CastTime: 1 hour
 Range: 100 ft.
 Area: 100-foot-radius emanation, centered on you
-Effect: 
-Targets: 
 Duration: 1 day/level (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: 10,000 gp worth of precious minerals, see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 10000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Mythic Adventures"
 ---

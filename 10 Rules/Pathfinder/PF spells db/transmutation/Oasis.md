@@ -1,35 +1,19 @@
 ---
 File: Oasis
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, druid: 5, sorcerer: 6, wizard: 6 }
 CastTime: 30 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: water source similar to a natural spring
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: 1 gallon of water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Heroes Of The Wild"
 ---

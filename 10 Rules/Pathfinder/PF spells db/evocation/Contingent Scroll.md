@@ -1,35 +1,20 @@
 ---
 File: Contingent Scroll
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, sorcerer: 4, wizard: 4, occultist: 4, psychic: 4 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level or until discharged
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: the scroll to be triggered; see text
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,17 @@
 ---
 File: Firewalker's Meditation
 School: abjuration
-Subschool: 
 Aspects: [ meditative ]
 ClassList: { cleric: 4, oracle: 4, druid: 4, paladin: 3, shaman: 4, wizard: 4 }
 CastTime: 1 hour
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 24 hours or until discharged
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
   M: soothing incense worth 400 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 400
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Divine Anthology"
 ---

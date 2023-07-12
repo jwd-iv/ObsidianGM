@@ -1,35 +1,18 @@
 ---
 File: Venomous Promise
 School: transmutation
-Subschool: 
 Aspects: [ language-dependent, poisonUM ]
 ClassList: { antipaladin: 3, bard: 3, mesmerist: 3, shaman: 3, witch: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one creature
 Duration: permanent or until triggered
-Dismissible: 
-Shapeable: 
 SavingThrow: yes
 SR: yes
 Components:
-  V: 
   S: yes
   M: a vial of poison
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Black Markets"
 ---

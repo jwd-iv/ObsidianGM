@@ -1,34 +1,20 @@
 ---
 File: Blinding Ray
 School: evocation
-Subschool: 
 Aspects: [ good, light ]
 ClassList: { cleric: 2, oracle: 2, inquisitor: 3, paladin: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one or more rays of light
-Targets: 
 Duration: instantaneous (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

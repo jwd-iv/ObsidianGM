@@ -1,35 +1,19 @@
 ---
 File: Blood Blaze
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { alchemist: 2, antipaladin: 1, cleric: 2, oracle: 2, magus: 2, sorcerer: 2, wizard: 2, witch: 2, bloodrager: 2, psychic: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

@@ -1,35 +1,17 @@
 ---
 File: What Grows Within
 School: necromancy
-Subschool: 
 Aspects: [ evil ]
 ClassList: { bard: 6, cleric: 6, oracle: 6, druid: 6, mesmerist: 6, psychic: 6, sorcerer: 6, wizard: 6, witch: 6 }
 CastTime: swift action
 Range: personal
-Area: 
 Effect: you
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: no
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 113"
 ---

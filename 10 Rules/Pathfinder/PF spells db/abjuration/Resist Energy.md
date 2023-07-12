@@ -1,34 +1,21 @@
 ---
 File: Resist Energy
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 2, cleric: 2, oracle: 2, druid: 2, inquisitor: 2, paladin: 2, ranger: 1, sorcerer: 2, wizard: 2, summoner: 2, unchained summoner: 2, bloodrager: 2, shaman: 2, occultist: 2, psychic: 2, spiritualist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
 Bloodline: { Celestial: 5, Draconic: 5 }
 Patron: { Winter: 4 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/resist-energy)"
 ---

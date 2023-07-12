@@ -2,34 +2,17 @@
 File: Word of Recall
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, druid: 8, psychic: 7 }
 CastTime: standard action
 Range: unlimited
-Area: 
-Effect: 
 Targets: you and touched objects or other willing creatures
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Will negates (harmless, object)
 SR: no or yes (harmless, object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
 Patron: { Peace: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/w/word-of-recall)"
 ---

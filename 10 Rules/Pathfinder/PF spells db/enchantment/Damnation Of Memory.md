@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 6, mesmerist: 6, psychic: 9 }
 CastTime: 1 hour
 Range: long (400 + 40 ft./level)
-Area: 
-Effect: 
 Targets: all living creatures within range
 Duration: permanent
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

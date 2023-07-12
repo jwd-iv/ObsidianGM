@@ -1,35 +1,21 @@
 ---
 File: Protection from Energy
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, ranger: 2, sorcerer: 3, wizard: 3, alchemist: 3, summoner: 3, unchained summoner: 3, inquisitor: 3, bloodrager: 3, shaman: 3, occultist: 3, psychic: 3, spiritualist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 min./level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
 Domains: { Luck: 3, Protection: 3 }
-GPCost: 
 Bloodline: { Destined: 7, Elemental: 7 }
 Patron: { Endurance: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/protection-from-energy)"
 ---

@@ -2,34 +2,19 @@
 File: Spiked Pit
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels
-Targets: 
 Duration: 1 round + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Caves: 3 }
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/spiked-pit)"
 ---

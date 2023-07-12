@@ -6,30 +6,16 @@ Aspects: [ acid ]
 ClassList: { sorcerer: 4, wizard: 4, summoner: 4, unchained summoner: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft.-by-10-ft. hole, 10 ft. deep/2 levels
-Targets: 
 Duration: 1 round + 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: drop of acid
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 10
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/a/acid-pit)"
 ---

@@ -6,30 +6,18 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 9, wizard: 9, witch: 9, psychic: 9 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one or more creatures, no two of which can be more than 30 ft. apart
 Duration: 1 round/level ; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: one hard metal bar or rod, which can be as small as a three-penny nail
-  F: 
   DF: yes
-Deity: 
 SLALevel: 9
 Domains: { Legislation: 9 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hold-monster)"
 ---

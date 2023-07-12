@@ -1,35 +1,20 @@
 ---
 File: Poisoned Egg
 School: transmutation
-Subschool: 
 Aspects: [ poison ]
 ClassList: { bard: 1, cleric: 1, oracle: 1, inquisitor: 1, magus: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one egg
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none (object)
 SR: no (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Norgorber
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

@@ -2,34 +2,20 @@
 File: Programmed Image
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 6, sorcerer: 6, wizard: 6, psychic: 6, mesmerist: 6 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)
-Targets: 
 Duration: permanent until triggered, then 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: no
 Components:
   V: yes
   S: yes
   M: fleece and jade dust worth 25 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
 GPCost: 25
-Bloodline: 
 Patron: { Deception: 12 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/programmed-image)"
 ---

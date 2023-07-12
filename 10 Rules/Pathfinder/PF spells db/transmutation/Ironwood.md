@@ -1,35 +1,19 @@
 ---
 File: Ironwood
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6, occultist: 6 }
 CastTime: 1 minute/lb. created
 Range: 0 ft.
-Area: 
 Effect: an ironwood object weighing up to 5 lbs./level
-Targets: 
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/ironwood)"
 ---

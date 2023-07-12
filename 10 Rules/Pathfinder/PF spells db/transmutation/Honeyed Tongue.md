@@ -1,35 +1,16 @@
 ---
 File: Honeyed Tongue
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, inquisitor: 2, paladin: 1, mesmerist: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
-  S: 
   M: a drop of honey
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/h/honeyed-tongue)"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Thunder Fire
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 loaded firearm
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object), see text
 SR: yes (object), see text
 Components:
   V: yes
   S: yes
   M: a piece of spent thunderstone
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/t/thunder-fire)"
 ---

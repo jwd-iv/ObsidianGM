@@ -1,35 +1,18 @@
 ---
 File: Sand Table
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, medium: 3, ranger: 3, sorcerer: 4, wizard: 4 }
 CastTime: 10 minutes
 Range: see text
-Area: 
-Effect: 
-Targets: 
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: handful of sand
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

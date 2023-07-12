@@ -1,35 +1,19 @@
 ---
 File: Beacon Of Luck
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3, inquisitor: 4, paladin: 4 }
 CastTime: standard action
 Range: personal; see text
-Area: 
-Effect: 
 Targets: you
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a tuft of rabbit fur
-  F: 
   DF: yes
 Deity: Desna
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

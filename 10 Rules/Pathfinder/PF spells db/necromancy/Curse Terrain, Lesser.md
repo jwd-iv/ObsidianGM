@@ -1,35 +1,21 @@
 ---
 File: Curse Terrain, Lesser
 School: necromancy
-Subschool: 
 Aspects: [ curseUM, evil ]
 ClassList: { cleric: 2, oracle: 2, druid: 2, shaman: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: 10 minutes
 Range: touch
 Area: 300-ft. radius emanating from the touched point
-Effect: 
-Targets: 
 Duration: 1 day
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: the heart of a creature that dwelled in the area and powdered onyx worth 350 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 350
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

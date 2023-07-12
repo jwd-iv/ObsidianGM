@@ -1,35 +1,19 @@
 ---
 File: Sending
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, sorcerer: 5, wizard: 5, alchemist: 5, summoner: 4, inquisitor: 4, shaman: 4, occultist: 4, psychic: 4, mesmerist: 3, spiritualist: 5, unchained summoner: 5, medium: 3 }
 CastTime: 10 minutes
 Range: see text
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: fine copper wire
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sending)"
 ---

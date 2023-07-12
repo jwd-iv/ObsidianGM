@@ -2,34 +2,19 @@
 File: Summon Ancestral Guardian
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { bard: 3, cleric: 3, oracle: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: two summoned ancestor spirits
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Dwarves of Golarion](http://www.d20pfsrd.com/magic/all-spells/s/s/summon-ancestral-guardian)"
 ---

@@ -1,33 +1,20 @@
 ---
 File: Fly
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, alchemist: 3, summoner: 3, unchained summoner: 3, witch: 3, magus: 3, bloodrager: 3, shaman: 3, occultist: 3, psychic: 3, spiritualist: 3, medium: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Azata: 3, Feather: 3, Travel: 3, Void: 3 }
-GPCost: 
 Bloodline: { Djinni: 7, Draconic: 7, Oni: 7 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/fly)"
 ---

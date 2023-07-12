@@ -1,35 +1,19 @@
 ---
 File: Rune Of Jandelay
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 9, wizard: 9, witch: 9 }
 CastTime: 3 rounds
 Range: 0 ft. (see text)
 Area: one rune
-Effect: 
-Targets: 
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
 SavingThrow: see below
 SR: no
 Components:
   V: yes
   S: yes
   M: cold iron, powdered diamond, and ground adamantine worth a total of 5,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
-Domains: 
 GPCost: 5000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 77"
 ---

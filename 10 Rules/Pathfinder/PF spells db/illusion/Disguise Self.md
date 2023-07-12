@@ -2,34 +2,18 @@
 File: Disguise Self
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 1, sorcerer: 1, wizard: 1, alchemist: 1, inquisitor: 1, antipaladin: 1, occultist: 1, psychic: 1, mesmerist: 1, medium: 1 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Trickery: 1 }
-GPCost: 
 Bloodline: { Div: 3, Nanite: 3 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/disguise-self)"
 ---

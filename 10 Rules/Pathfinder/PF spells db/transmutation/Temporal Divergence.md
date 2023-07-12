@@ -1,35 +1,17 @@
 ---
 File: Temporal Divergence
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { psychic: 7, sorcerer: 7, wizard: 7, witch: 7 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: mithral wishbone worth 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of The First World"
 ---

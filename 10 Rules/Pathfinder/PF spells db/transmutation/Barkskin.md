@@ -1,33 +1,21 @@
 ---
 File: Barkskin
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, ranger: 2, summoner: 2, unchained summoner: 2, alchemist: 2, shaman: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 10 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Defense: 2, Plant: 2 }
-GPCost: 
 Bloodline: { Verdant: 5 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/b/barkskin)"
 ---

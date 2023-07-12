@@ -1,35 +1,18 @@
 ---
 File: Jury-Rig
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 1, magus: 1, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1, witch: 1, occultist: 1, psychic: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one broken object of up to 2 lbs./level
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless, object)
 SR: yes (harmless, object)
 Components:
   V: yes
   S: yes
   M: a pinch of tree resin
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/j/jury-rig)"
 ---

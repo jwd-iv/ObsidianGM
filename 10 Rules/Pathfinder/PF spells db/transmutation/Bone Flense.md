@@ -1,35 +1,17 @@
 ---
 File: Bone Flense
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 2, cleric: 3, oracle: 3, druid: 3, inquisitor: 3, magus: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one living creature
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
-  S: 
   M: a jagged shard of bone from a humanoid creature
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

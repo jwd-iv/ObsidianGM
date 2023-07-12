@@ -1,35 +1,20 @@
 ---
 File: Aggressive Thundercloud
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { druid: 2, magus: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 5-ft.-diameter sphere
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a piece of a tree struck by lightning
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

@@ -1,35 +1,16 @@
 ---
 File: Tower Of Iron Will IV
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { psychic: 8 }
 CastTime: immediate action
 Range: 10 ft.
 Area: 10-ft.-radius emanation centered on you
-Effect: 
-Targets: 
 Duration: 4 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

@@ -6,30 +6,13 @@ Aspects: [ ruse ]
 ClassList: { magus: 6, occultist: 6, psychic: 6, sorcerer: 6, wizard: 6, spiritualist: 6, summoner: 6, unchained summoner: 6, witch: 6 }
 CastTime: standard action
 Range: personal and touch
-Area: 
-Effect: 
 Targets: you and touched objects or other touched willing creatures
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none and Will negates (object)
 SR: no and yes (object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

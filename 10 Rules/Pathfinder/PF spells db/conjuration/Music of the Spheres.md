@@ -7,29 +7,14 @@ ClassList: { bard: 5, cleric: 6, oracle: 6 }
 CastTime: standard action
 Range: 20 ft.
 Area: 20-ft.-radius spherical emanation, centered on you
-Effect: 
-Targets: 
 Duration: concentration, up to 1 round per level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: a stick of incense treated with special balms
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Magic"
 ---

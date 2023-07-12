@@ -1,35 +1,19 @@
 ---
 File: Rune Of Ruin
 School: transmutation
-Subschool: 
 Aspects: [ curseUM ]
 ClassList: { alchemist: 4, bard: 4, inquisitor: 4, sorcerer: 5, wizard: 5, witch: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: 1 object
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object)
 SR: no
 Components:
   V: yes
   S: yes
   M: a self-portrait on a thin sheet of paper
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

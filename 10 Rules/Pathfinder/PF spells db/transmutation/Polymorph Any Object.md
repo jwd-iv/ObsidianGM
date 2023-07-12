@@ -2,34 +2,21 @@
 File: Polymorph Any Object
 School: transmutation
 Subschool: polymorph
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature, or one nonmagical object of up to 100 cu. ft./level
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (object); see text
 SR: yes (object)
 Components:
   V: yes
   S: yes
   M: mercury, gum arabic, and smoke
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Construct: 8 }
-GPCost: 
 Bloodline: { Impossible: 17, Protean: 17 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/p/polymorph-any-object)"
 ---

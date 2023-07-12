@@ -6,30 +6,14 @@ Aspects: [ mind-affecting ]
 ClassList: { medium: 2, mesmerist: 2, psychic: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will disbelief (harmless)
 SR: Yes (harmless)
 Components:
   V: yes
-  S: 
   M: a sugar cube
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

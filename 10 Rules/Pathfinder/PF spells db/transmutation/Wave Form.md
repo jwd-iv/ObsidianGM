@@ -1,35 +1,17 @@
 ---
 File: Wave Form
 School: transmutation
-Subschool: 
 Aspects: [ water ]
 ClassList: { bloodrager: 4, cleric: 4, oracle: 4, druid: 4, shaman: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Aquatic Adventures"
 ---

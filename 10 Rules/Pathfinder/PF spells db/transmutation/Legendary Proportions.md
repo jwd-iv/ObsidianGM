@@ -1,35 +1,19 @@
 ---
 File: Legendary Proportions
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 6, druid: 7, shaman: 7, sorcerer: 7, wizard: 7, witch: 7 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 creature (see text)
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a dinosaur bone and powdered amber worth at least 200 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 200
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

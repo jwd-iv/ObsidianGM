@@ -1,35 +1,21 @@
 ---
 File: Dousing Rain
 School: evocation
-Subschool: 
 Aspects: [ water ]
 ClassList: { bard: 2, druid: 2, shaman: 2, witch: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
 Area: cylinder (10-ft. radius, 40 ft. high)
-Effect: 
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a drop of water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Villain Codex"
 ---

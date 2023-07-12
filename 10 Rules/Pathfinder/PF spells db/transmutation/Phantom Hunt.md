@@ -1,35 +1,17 @@
 ---
 File: Phantom Hunt
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 4, ranger: 4 }
 CastTime: standard action
 Range: personal (see text)
-Area: 
-Effect: 
 Targets: you and one animal companion within 30 ft.
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Origins"
 ---

@@ -2,34 +2,19 @@
 File: Symbol of Mirroring
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, witch: 2, occultist: 2, mesmerist: 2 }
 CastTime: 10 minutes
 Range: 0 ft. (see text)
-Area: 
 Effect: one symbol
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial (harmless)
 SR: yes
 Components:
   V: yes
   S: yes
   M: mercury and phosphorous, plus powdered diamond and opal worth a total of 100 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 100
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/symbol-of-mirroring)"
 ---

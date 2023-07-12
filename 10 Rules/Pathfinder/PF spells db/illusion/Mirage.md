@@ -2,13 +2,10 @@
 File: Mirage
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 3, druid: 3, mesmerist: 3, occultist: 3, psychic: 3, ranger: 3 }
 CastTime: 10 minutes
 Range: long (400 + 40 ft./level)
 Area: one 40-ft. cube/level
-Effect: 
-Targets: 
 Duration: 2 hours/level
 Dismissible: yes
 Shapeable: yes
@@ -18,18 +15,7 @@ Components:
   V: yes
   S: yes
   M: a pinch of sand and a drop of water
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Wilderness"
 ---

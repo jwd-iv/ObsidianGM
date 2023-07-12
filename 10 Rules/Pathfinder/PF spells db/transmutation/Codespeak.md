@@ -1,35 +1,19 @@
 ---
 File: Codespeak
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 2, medium: 2, mesmerist: 2, occultist: 2, psychic: 2, sorcerer: 2, wizard: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you plus one willing creature per 2 levels, no two of which can be more than 30 ft. apart
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a complex rune inscribed on a slip of paper that is then placed under your tongue
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

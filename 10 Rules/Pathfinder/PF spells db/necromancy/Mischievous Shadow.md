@@ -7,8 +7,6 @@ ClassList: { bard: 4, magus: 4, medium: 3, shaman: 4, sorcerer: 4, wizard: 4, sp
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: one 5-ft. cube/level
-Effect: 
-Targets: 
 Duration: 1 day/level
 Dismissible: yes
 Shapeable: yes
@@ -18,17 +16,7 @@ Components:
   V: yes
   S: yes
   M: a black candle
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
 Haunt: Notice Perception DC 25 (to see a target's shadow act incongruously with its physical motions)  hp 2 hp/level; Trigger proximity; Reset none
 Copyright:
   Content: "Haunted Heroes Handbook"

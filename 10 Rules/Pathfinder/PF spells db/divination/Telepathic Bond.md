@@ -1,35 +1,20 @@
 ---
 File: Telepathic Bond
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, witch: 5, inquisitor: 5, psychic: 4, mesmerist: 4, spiritualist: 5, medium: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you plus one willing creature per three levels, no two of which can be more than 30 ft. apart
 Duration: 10 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: two eggshells from two different creatures
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Community: 5, Language: 5, Thought: 5, Friendship: 5, Aeon: 5 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/telepathic-bond)"
 ---

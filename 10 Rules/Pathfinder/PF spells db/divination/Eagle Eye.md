@@ -1,35 +1,19 @@
 ---
 File: Eagle Eye
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { druid: 2, ranger: 2, shaman: 2, psychic: 2 }
 CastTime: 1 minute
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: magical sensor
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/e/eagle-eye)"
 ---

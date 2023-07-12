@@ -1,33 +1,19 @@
 ---
 File: Hydraulic Torrent
 School: evocation
-Subschool: 
 Aspects: [ water ]
 ClassList: { druid: 3, sorcerer: 3, wizard: 3, magus: 3, bloodrager: 3 }
 CastTime: standard action
 Range: 60 ft.
 Area: 60-ft. line
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/h/hydraulic-torrent)"
 ---

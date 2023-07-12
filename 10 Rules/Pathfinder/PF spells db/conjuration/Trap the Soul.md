@@ -2,34 +2,22 @@
 File: Trap the Soul
 School: conjuration
 Subschool: summoning
-Aspects: 
 ClassList: { sorcerer: 8, wizard: 8, witch: 8, psychic: 8 }
 CastTime: standard action (see text)
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature
 Duration: permanent; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
   M: gem worth 1,000 gp per HD of the trapped creature
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
 Domains: { Souls: 9, Psychopomp: 8 }
 GPCost: 1000
 Bloodline: { Oni: 17 }
 Patron: { Occult: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/t/trap-the-soul)"
 ---

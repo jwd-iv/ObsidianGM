@@ -6,29 +6,17 @@ Aspects: [ fire ]
 ClassList: { druid: 6, shaman: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: up to four acorns or up to eight holly berries
 Duration: 10 min./level or until used
-Dismissible: 
-Shapeable: 
 SavingThrow: none or Reflex half; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: acorns or holly berries
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Fire: 6, Sun: 6 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/f/fire-seeds)"
 ---

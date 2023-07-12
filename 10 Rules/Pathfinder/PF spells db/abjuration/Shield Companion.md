@@ -1,35 +1,18 @@
 ---
 File: Shield Companion
 School: abjuration
-Subschool: 
-Aspects: 
 ClassList: { paladin: 2, ranger: 2, shaman: 2, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: your companion creature
 Duration: 1 hour/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

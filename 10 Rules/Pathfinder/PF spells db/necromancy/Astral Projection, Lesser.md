@@ -1,35 +1,19 @@
 ---
 File: Astral Projection, Lesser
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, sorcerer: 5, wizard: 5, psychic: 5 }
 CastTime: 30 minutes
 Range: touch
-Area: 
-Effect: 
 Targets: you plus one additional willing creature touched per two caster levels
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: 1,000 gp jacinth
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/a/astral-projection)"
 ---

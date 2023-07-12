@@ -2,34 +2,19 @@
 File: Remove Disease
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, druid: 3, ranger: 3, alchemist: 3, witch: 3, inquisitor: 3, alchemist: 3, witch: 3, spiritualist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Restoration: 2 }
-GPCost: 
-Bloodline: 
 Patron: { Healing: 6 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/remove-disease)"
 ---

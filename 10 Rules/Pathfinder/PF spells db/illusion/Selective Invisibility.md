@@ -2,34 +2,20 @@
 File: Selective Invisibility
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { alchemist: 3, antipaladin: 3, bard: 3, inquisitor: 3, magus: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: you and one other creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: three translucent pebbles
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Dirty Tactics Toolbox"
 ---

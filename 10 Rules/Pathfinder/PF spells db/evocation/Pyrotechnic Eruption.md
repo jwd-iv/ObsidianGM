@@ -1,35 +1,19 @@
 ---
 File: Pyrotechnic Eruption
 School: evocation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { bloodrager: 3, magus: 4, occultist: 4, sorcerer: 4, wizard: 4 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half (see text)
 SR: yes
 Components:
   V: yes
   S: yes
   M: a pinch of coal
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

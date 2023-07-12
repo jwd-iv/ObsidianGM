@@ -6,30 +6,16 @@ Aspects: [ poison ]
 ClassList: { druid: 2, magus: 2, sorcerer: 2, wizard: 2, witch: 2, psychic: 2, mesmerist: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: fog spreads in 20-ft. radius, 20 ft. high
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: rare mushrooms worth 5 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
 GPCost: 5
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

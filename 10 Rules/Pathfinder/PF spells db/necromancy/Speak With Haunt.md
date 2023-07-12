@@ -1,35 +1,19 @@
 ---
 File: Speak With Haunt
 School: necromancy
-Subschool: 
 Aspects: [ language-dependent ]
 ClassList: { cleric: 4, oracle: 4, shaman: 3, witch: 4, psychic: 4, spiritualist: 4, medium: 2 }
 CastTime: 10 minutes
 Range: 10 ft. (see text)
-Area: 
-Effect: 
 Targets: one haunt
 Duration: 1 minute/level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

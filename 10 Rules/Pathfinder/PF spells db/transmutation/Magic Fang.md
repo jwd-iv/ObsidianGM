@@ -1,34 +1,20 @@
 ---
 File: Magic Fang
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 1, ranger: 1, summoner: 1, unchained summoner: 1, spiritualist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: living creature touched
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
 Domains: { Fur: 1, Scalykind: 1, Cannibalism: 1 }
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/magic-fang)"
 ---

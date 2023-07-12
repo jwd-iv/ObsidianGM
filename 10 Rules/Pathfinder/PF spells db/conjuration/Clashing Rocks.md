@@ -6,30 +6,17 @@ Aspects: [ earth ]
 ClassList: { druid: 9, sorcerer: 9, wizard: 9 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
-Area: 
 Effect: see text
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial, see text
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Ruins: 9 }
-GPCost: 
 Bloodline: { Deep Earth: 19 }
 Patron: { Mountain: 18 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/c/clashing-rocks)"
 ---

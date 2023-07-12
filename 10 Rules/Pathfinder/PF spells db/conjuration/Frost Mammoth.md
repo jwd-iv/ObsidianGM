@@ -6,30 +6,16 @@ Aspects: [ cold ]
 ClassList: { cleric: 7, oracle: 7, druid: 7, shaman: 7, sorcerer: 7, wizard: 7, summoner: 6, unchained summoner: 6 }
 CastTime: 1 round
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: one frost mammoth
-Targets: 
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a fragment of mammoth tusk
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Adventurer's Guide"
 ---

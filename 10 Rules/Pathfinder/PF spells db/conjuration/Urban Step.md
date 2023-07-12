@@ -2,34 +2,16 @@
 File: Urban Step
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { bard: 2, magus: 3, occultist: 3, sorcerer: 3, wizard: 3, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: two doors or other portals in range
 Duration: 1 round
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: scrap of cobweb
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

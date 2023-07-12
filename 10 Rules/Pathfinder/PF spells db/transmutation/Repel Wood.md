@@ -1,33 +1,21 @@
 ---
 File: Repel Wood
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { druid: 6 }
 CastTime: standard action
 Range: 60 ft.
 Area: 60-ft. line-shaped emanation from you
-Effect: 
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
 Domains: { Plant: 6 }
-GPCost: 
-Bloodline: 
 Patron: { Plant: 12 }
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/repel-wood)"
 ---

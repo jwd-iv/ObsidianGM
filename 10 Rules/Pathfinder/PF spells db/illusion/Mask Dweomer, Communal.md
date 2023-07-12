@@ -2,34 +2,19 @@
 File: Mask Dweomer, Communal
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { witch: 2, occultist: 2, psychic: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creatures or objects touched
 Duration: 1 day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: a piece of gauze
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/m/mask-dweomer#TOC-Mask-Dweomer-Communal)"
 ---

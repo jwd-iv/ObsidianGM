@@ -2,34 +2,15 @@
 File: Minor Reversion
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 3, oracle: 3, psychic: 2, sorcerer: 3, wizard: 3 }
 CastTime: 10 minutes
 Range: personal
-Area: 
-Effect: 
 Targets: self
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

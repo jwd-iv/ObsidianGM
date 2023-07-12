@@ -7,29 +7,14 @@ ClassList: { cleric: 8, oracle: 8, sorcerer: 8, wizard: 8 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 5-foot-radius spread
-Effect: 
-Targets: 
 Duration: concentration (maximum 1 round/level)
-Dismissible: 
-Shapeable: 
 SavingThrow: see text
 SR: yes; see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "AP 74"
 ---

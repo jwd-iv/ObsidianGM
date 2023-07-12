@@ -1,34 +1,21 @@
 ---
 File: Call Lightning
 School: evocation
-Subschool: 
 Aspects: [ electricity ]
 ClassList: { druid: 3, shaman: 3, occultist: 3 }
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: one or more 30-ft.-long vertical lines of lightning
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
 Domains: { Catastrophe: 3, Weather: 3 }
-GPCost: 
-Bloodline: 
 Patron: { Storms: 6 }
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/c/call-lightning)"
 ---

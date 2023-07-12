@@ -6,30 +6,15 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 6, cleric: 5, oracle: 5, druid: 5, psychic: 6, shaman: 5, sorcerer: 5, wizard: 5, witch: 6 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: nonhostile creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a bit of seaweed
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Magic Tactics Toolbox"
 ---

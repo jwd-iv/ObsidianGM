@@ -1,35 +1,19 @@
 ---
 File: Renovation
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bard: 5, sorcerer: 4, wizard: 4 }
 CastTime: 8 hours
 Range: touch
-Area: 
-Effect: 
 Targets: one unoccupied structure
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none (object; see text)
 SR: no
 Components:
   V: yes
   S: yes
   M: silver dust worth 1,000 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
 GPCost: 1000
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Quests and Campaigns"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Veil of Positive Energy
 School: abjuration
-Subschool: 
 Aspects: [ good ]
 ClassList: { paladin: 1 }
 CastTime: standard action
 Range: personal or 5 ft.; see text
-Area: 
-Effect: 
 Targets: you or all creatures within 5 ft.; see text
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/v/veil-of-positive-energy)"
 ---

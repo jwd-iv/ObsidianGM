@@ -1,35 +1,19 @@
 ---
 File: Damnation
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 3, oracle: 3, inquisitor: 3, paladin: 3 }
 CastTime: standard action
-Range: 
 Area: 30-ft.-radius burst centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will half
 SR: yes
 Components:
   V: yes
   S: yes
   M: a drop of holy water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

@@ -6,30 +6,15 @@ Aspects: [ earth ]
 ClassList: { cleric: 1, oracle: 1, druid: 1, magus: 2, sorcerer: 1, wizard: 1, summoner: 1, unchained summoner: 1 }
 CastTime: immediate action
 Range: 0 ft.
-Area: 
 Effect: stone wall whose area is one 5-ft. square
-Targets: 
 Duration: 1 round
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

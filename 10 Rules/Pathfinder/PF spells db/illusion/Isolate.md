@@ -2,34 +2,18 @@
 File: Isolate
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { antipaladin: 3, bard: 3, inquisitor: 3, sorcerer: 3, wizard: 3, witch: 3, psychic: 3, mesmerist: 3 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

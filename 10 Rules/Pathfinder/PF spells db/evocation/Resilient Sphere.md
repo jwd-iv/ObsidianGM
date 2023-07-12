@@ -1,35 +1,20 @@
 ---
 File: Resilient Sphere
 School: evocation
-Subschool: 
 Aspects: [ force ]
 ClassList: { sorcerer: 4, wizard: 4, occultist: 4, psychic: 4 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: 1-ft.-diameter/level sphere, centered around a creature
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
   F: yes
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/r/resilient-sphere)"
 ---

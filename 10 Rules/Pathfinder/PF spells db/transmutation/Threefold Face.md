@@ -1,35 +1,17 @@
 ---
 File: Threefold Face
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { medium: 3, sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 9 minutes
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a three-pointed knot
-  F: 
   DF: yes
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of The First World"
 ---

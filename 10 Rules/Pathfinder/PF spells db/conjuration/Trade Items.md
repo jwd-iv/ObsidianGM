@@ -2,34 +2,17 @@
 File: Trade Items
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { bard: 3, mesmerist: 3, sorcerer: 4, wizard: 4, summoner: 3, unchained summoner: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one object weighing no more than 5 lbs./level
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object)
 SR: yes (object)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Ultimate Intrigue"
 ---

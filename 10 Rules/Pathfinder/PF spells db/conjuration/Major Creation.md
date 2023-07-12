@@ -2,34 +2,20 @@
 File: Major Creation
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { sorcerer: 5, wizard: 5, summoner: 4, unchained summoner: 4, witch: 5, occultist: 4, psychic: 5 }
 CastTime: 10 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
 Effect: unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
-Targets: 
 Duration: see text
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a tiny piece of matter of the same sort of item you plan to create with minor creation
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Artifice: 6, Flotsam: 5 }
-GPCost: 
 Bloodline: { Protean: 11 }
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/major-creation)"
 ---

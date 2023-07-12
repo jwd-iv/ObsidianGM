@@ -1,35 +1,19 @@
 ---
 File: Burn Corruption
 School: evocation
-Subschool: 
 Aspects: [ fire, good ]
 ClassList: { bloodrager: 4, magus: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: 10-ft. cube/level
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
 Shapeable: yes
 SavingThrow: Reflex half
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Races"
 ---

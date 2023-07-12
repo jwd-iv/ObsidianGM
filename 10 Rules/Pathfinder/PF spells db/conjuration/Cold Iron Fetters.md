@@ -2,34 +2,20 @@
 File: Cold Iron Fetters
 School: conjuration
 Subschool: creation
-Aspects: 
 ClassList: { cleric: 5, oracle: 5, inquisitor: 4, occultist: 5, ranger: 3, shaman: 5, sorcerer: 5, wizard: 5, summoner: 4, unchained summoner: 4, witch: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates
 SR: no
 Components:
   V: yes
   S: yes
   M: miniature cold iron shackle
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of The First World"
 ---

@@ -1,35 +1,18 @@
 ---
 File: Ice Slick
 School: evocation
-Subschool: 
 Aspects: [ cold ]
 ClassList: { druid: 2, magus: 2, ranger: 2, sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 5-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex partial (see text)
 SR: see text
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Monster Codex"
 ---

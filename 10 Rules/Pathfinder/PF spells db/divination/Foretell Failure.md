@@ -1,35 +1,15 @@
 ---
 File: Foretell Failure
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { bard: 4, occultist: 5, oracle: 4, psychic: 4, sorcerer: 5, wizard: 5, witch: 4 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Arcane Anthology"
 ---

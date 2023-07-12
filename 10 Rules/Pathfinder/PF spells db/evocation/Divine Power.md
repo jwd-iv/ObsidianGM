@@ -1,35 +1,18 @@
 ---
 File: Divine Power
 School: evocation
-Subschool: 
-Aspects: 
 ClassList: { cleric: 4, oracle: 4, inquisitor: 4, shaman: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
-Deity: 
 SLALevel: 4
 Domains: { War: 4 }
-GPCost: 
-Bloodline: 
 Patron: { Strength: 8 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/divine-power)"
 ---

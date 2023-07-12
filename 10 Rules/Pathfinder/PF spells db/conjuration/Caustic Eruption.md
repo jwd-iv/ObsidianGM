@@ -7,29 +7,13 @@ ClassList: { sorcerer: 7, wizard: 7 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous and 2 rounds; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Reflex half (see text)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/c/caustic-eruption)"
 ---

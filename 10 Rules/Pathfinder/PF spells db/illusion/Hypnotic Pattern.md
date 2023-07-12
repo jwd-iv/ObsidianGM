@@ -6,30 +6,16 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, psychic: 2, mesmerist: 2 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: colorful lights in a 10-ft.-radius spread
-Targets: 
 Duration: Concentration + 2 rounds
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: a stick of incense or a crystal rod
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
 Domains: { Stars: 2 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/h/hypnotic-pattern)"
 ---

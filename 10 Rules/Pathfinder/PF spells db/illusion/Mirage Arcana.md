@@ -2,13 +2,10 @@
 File: Mirage Arcana
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 5, sorcerer: 5, wizard: 5, psychic: 5, mesmerist: 5 }
 CastTime: standard action
 Range: long (400 + 40 ft./level)
 Area: one 20-ft. cube/level
-Effect: 
-Targets: 
 Duration: concentration +1 hour/ level
 Dismissible: yes
 Shapeable: yes
@@ -17,19 +14,9 @@ SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 5
 Domains: { Solitude: 5 }
-GPCost: 
-Bloodline: 
 Patron: { Trickery: 10 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/m/mirage-arcana)"
 ---

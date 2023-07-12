@@ -1,35 +1,18 @@
 ---
 File: Sculpt Corpse
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 1, wizard: 1, occultist: 1 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one dead creature touched
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial; see text
 SR: no
 Components:
   V: yes
   S: yes
   M: lump of wax
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/sculpt-corpse)"
 ---

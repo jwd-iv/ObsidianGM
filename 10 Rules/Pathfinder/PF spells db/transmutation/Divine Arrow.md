@@ -1,35 +1,18 @@
 ---
 File: Divine Arrow
 School: transmutation
-Subschool: 
 Aspects: [ good ]
 ClassList: { paladin: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: one projectile
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/d/divine-arrow)"
 ---

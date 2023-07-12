@@ -2,34 +2,17 @@
 File: Interplanetary Teleport
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { cleric: 9, oracle: 9, sorcerer: 9, wizard: 9, psychic: 9 }
 CastTime: standard action
 Range: personal and touch
-Area: 
-Effect: 
 Targets: you and touched objects or other touched willing creatures
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: none and Will negates (object)
 SR: no and yes (object)
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 9
 Domains: { Void: 9 }
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/i/interplanetary-teleport)"
 ---

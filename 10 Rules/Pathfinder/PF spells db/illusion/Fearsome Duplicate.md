@@ -2,34 +2,18 @@
 File: Fearsome Duplicate
 School: illusion
 Subschool: figment
-Aspects: 
 ClassList: { bard: 3, inquisitor: 3, sorcerer: 3, wizard: 3, witch: 3, psychic: 3, mesmerist: 3 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: monstrously distorted duplicate of you
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will disbelief (if interacted with)
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

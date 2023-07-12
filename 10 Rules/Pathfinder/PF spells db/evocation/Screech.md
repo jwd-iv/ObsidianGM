@@ -1,35 +1,17 @@
 ---
 File: Screech
 School: evocation
-Subschool: 
 Aspects: [ sonic ]
 ClassList: { witch: 3 }
 CastTime: standard action
 Range: 30 ft.
 Area: 30-ft.-radius spread centered on you
-Effect: 
-Targets: 
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates
 SR: yes
 Components:
   V: yes
-  S: 
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/screech)"
 ---

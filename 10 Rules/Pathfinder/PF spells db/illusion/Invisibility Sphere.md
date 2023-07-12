@@ -2,34 +2,18 @@
 File: Invisibility Sphere
 School: illusion
 Subschool: glamer
-Aspects: 
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, occultist: 3, psychic: 3, mesmerist: 3, unchained summoner: 3 }
 CastTime: standard action
-Range: 
 Area: 10-ft.-radius emanation around the creature
-Effect: 
-Targets: 
 Duration: 1 min./level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
   M: V, S, M
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/invisibility-sphere)"
 ---

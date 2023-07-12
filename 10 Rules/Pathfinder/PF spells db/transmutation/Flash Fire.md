@@ -1,35 +1,18 @@
 ---
 File: Flash Fire
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 3, wizard: 3, witch: 3 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: 1 firearm
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates (object); see text
 SR: yes (object); see text
 Components:
   V: yes
   S: yes
   M: a pinch of powdered fool's gold
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Combat](http://www.d20pfsrd.com/magic/all-spells/f/flash-fire)"
 ---

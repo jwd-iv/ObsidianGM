@@ -1,35 +1,18 @@
 ---
 File: Batrachian Surge
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { bloodrager: 1, druid: 1, inquisitor: 1, ranger: 1, summoner: 1, unchained summoner: 1 }
 CastTime: swift action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round + 1 round/3 levels
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Blood Of The Beast"
 ---

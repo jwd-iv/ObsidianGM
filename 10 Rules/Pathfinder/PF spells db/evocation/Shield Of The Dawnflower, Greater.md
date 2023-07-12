@@ -1,35 +1,18 @@
 ---
 File: Shield Of The Dawnflower, Greater
 School: evocation
-Subschool: 
 Aspects: [ fire, good, light ]
 ClassList: { bard: 6, cleric: 6, oracle: 6, magus: 6 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
   DF: yes
 Deity: Sarenrae
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Inner Sea Gods"
 ---

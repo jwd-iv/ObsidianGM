@@ -1,35 +1,15 @@
 ---
 File: Blood Money
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { magus: 1, sorcerer: 1, wizard: 1, witch: 1 }
 CastTime: swift action
 Range: 0 ft.
-Area: 
 Effect: 1 material component
-Targets: 
 Duration: Instantaneous
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "RotRL-AE-Appendix"
 ---

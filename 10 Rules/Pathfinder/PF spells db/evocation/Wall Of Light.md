@@ -1,35 +1,21 @@
 ---
 File: Wall Of Light
 School: evocation
-Subschool: 
 Aspects: [ light ]
 ClassList: { druid: 5, sorcerer: 5, wizard: 5 }
 CastTime: standard action
 Range: medium (100 + 10 ft./level)
-Area: 
 Effect: 10-ft.-high vertical sheet of light up to 5 ft. long/level
-Targets: 
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Fortitude partial, see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: a chip of mica
-  F: 
   DF: yes
-Deity: 
 SLALevel: 5
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "The Dragon's Demand"
 ---

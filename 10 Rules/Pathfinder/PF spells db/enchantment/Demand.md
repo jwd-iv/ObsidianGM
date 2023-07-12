@@ -6,30 +6,18 @@ Aspects: [ mind-affecting ]
 ClassList: { sorcerer: 8, wizard: 8, witch: 8, psychic: 8, mesmerist: 6 }
 CastTime: 10 minutes
 Range: see text
-Area: 
-Effect: 
 Targets: one creature
 Duration: 1 round; see text
-Dismissible: 
-Shapeable: 
 SavingThrow: Will partial
 SR: yes
 Components:
   V: yes
   S: yes
   M: fine copper wire
-  F: 
   DF: yes
-Deity: 
 SLALevel: 8
 Domains: { Charm: 8, Nobility: 8, Torture: 8 }
-GPCost: 
-Bloodline: 
 Patron: { Enchantment: 16 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/d/demand)"
 ---

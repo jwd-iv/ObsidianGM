@@ -1,35 +1,20 @@
 ---
 File: Vision
 School: divination
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 7, wizard: 7, witch: 7, shaman: 7, psychic: 7 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: see text
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: incense worth 250 gp
   F: yes
-  DF: 
-Deity: 
 SLALevel: 7
-Domains: 
 GPCost: 250
 Bloodline: { Dreamspun: 15 }
 Patron: { Portents: 14 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/v/vision)"
 ---

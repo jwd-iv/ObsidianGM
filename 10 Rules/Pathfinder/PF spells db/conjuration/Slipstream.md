@@ -6,30 +6,20 @@ Aspects: [ water ]
 ClassList: { druid: 2, ranger: 2, sorcerer: 2, wizard: 2, bloodrager: 2 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Reflex negates (harmless)
 SR: no
 Components:
   V: yes
   S: yes
   M: a few drops of oil and water
-  F: 
   DF: yes
-Deity: 
 SLALevel: 2
 Domains: { Oceans: 2, Rivers: 2 }
-GPCost: 
 Bloodline: { Aquatic: 5 }
 Patron: { Water: 4 }
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/s/slipstream)"
 ---

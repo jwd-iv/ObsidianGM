@@ -1,35 +1,17 @@
 ---
 File: Positive Pulse
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1, paladin: 1, shaman: 1, sorcerer: 1, wizard: 1, spiritualist: 1, summoner: 1, witch: 1 }
 CastTime: standard action
 Range: close (25 + 5 ft./2 levels)
 Area: 5-ft.-radius burst
-Effect: 
-Targets: 
 Duration: instantaneous plus 1 round (see text)
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates or Will negates (harmless); see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Planar Adventures"
 ---

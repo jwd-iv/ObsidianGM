@@ -1,35 +1,18 @@
 ---
 File: Fire Trail
 School: transmutation
-Subschool: 
 Aspects: [ fire ]
 ClassList: { alchemist: 3, magus: 3, sorcerer: 3, wizard: 3, bloodrager: 3 }
 CastTime: standard action
 Range: personal
-Area: 
 Effect: trail of flame that follows the caster's movements; see text
-Targets: 
 Duration: 1 round/level
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

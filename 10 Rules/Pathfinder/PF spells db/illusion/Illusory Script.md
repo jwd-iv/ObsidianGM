@@ -6,30 +6,17 @@ Aspects: [ mind-affecting ]
 ClassList: { bard: 3, sorcerer: 3, wizard: 3, occultist: 3, psychic: 3, mesmerist: 3 }
 CastTime: 1 minute/page
 Range: touch
-Area: 
-Effect: 
 Targets: one touched object weighing no more than 10 lbs.
 Duration: one day/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
   M: lead-based ink worth 50 gp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
 GPCost: 50
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/i/illusory-script)"
 ---

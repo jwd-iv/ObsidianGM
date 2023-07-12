@@ -1,35 +1,20 @@
 ---
 File: Sanctify Corpse
 School: evocation
-Subschool: 
 Aspects: [ good ]
 ClassList: { cleric: 1, oracle: 1, inquisitor: 1, paladin: 1, witch: 1, spiritualist: 1 }
 CastTime: standard action
 Range: touch
 Area: corpse touched
-Effect: 
-Targets: 
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a pinch of silver dust
-  F: 
   DF: yes
-Deity: 
 SLALevel: 1
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[Ultimate Magic](http://www.d20pfsrd.com/magic/all-spells/s/sanctify-corpse)"
 ---

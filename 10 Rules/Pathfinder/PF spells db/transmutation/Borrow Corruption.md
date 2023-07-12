@@ -1,35 +1,20 @@
 ---
 File: Borrow Corruption
 School: transmutation
-Subschool: 
 Aspects: [ evil ]
 ClassList: { antipaladin: 2, cleric: 4, oracle: 4, druid: 4, medium: 2, occultist: 3, psychic: 4, shaman: 4, witch: 4 }
 CastTime: standard action
 Range: touch
-Area: 
-Effect: 
 Targets: creature touched
 Duration: 1 minute/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
   M: a dirty scrap of a good priest's raiment
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Horror Adventures"
 ---

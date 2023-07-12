@@ -6,29 +6,16 @@ Aspects: [ shadow ]
 ClassList: { bard: 2, sorcerer: 2, wizard: 2, witch: 2, psychic: 2, mesmerist: 2 }
 CastTime: standard action
 Range: touch
-Area: 
 Effect: a shadowy shadow tether
 Targets: creature touched
 Duration: 1 round/level; see text
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
-  V: 
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-Augment: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "Advanced Race Guide"
 ---

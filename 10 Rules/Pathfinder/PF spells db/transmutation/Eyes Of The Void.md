@@ -1,35 +1,16 @@
 ---
 File: Eyes Of The Void
 School: transmutation
-Subschool: 
-Aspects: 
 ClassList: { alchemist: 4, antipaladin: 4, sorcerer: 4, wizard: 4, psychic: 4 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
   M: a pinch of dried carrot or an agate
-  F: 
-  DF: 
-Deity: 
 SLALevel: 4
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Advanced Class Guide"
 ---

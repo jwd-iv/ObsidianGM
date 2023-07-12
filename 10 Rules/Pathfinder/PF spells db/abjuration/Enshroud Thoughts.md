@@ -1,35 +1,19 @@
 ---
 File: Enshroud Thoughts
 School: abjuration
-Subschool: 
 Aspects: [ mind-affecting ]
 ClassList: { alchemist: 2, bard: 2, inquisitor: 2, medium: 2, mesmerist: 2, psychic: 2, ranger: 3, shaman: 2, witch: 2 }
 CastTime: standard action
 Range: personal
-Area: 
-Effect: 
 Targets: you
 Duration: 10 minutes/level
 Dismissible: yes
-Shapeable: 
 SavingThrow: Will negates (harmless)
 SR: yes (harmless)
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Occult Adventures"
 ---

@@ -2,34 +2,17 @@
 File: Temporal Regression
 School: conjuration
 Subschool: teleportation
-Aspects: 
 ClassList: { druid: 9, psychic: 8, sorcerer: 8, wizard: 8, witch: 8 }
 CastTime: standard action
 Range: personal and close (25 ft. + 5 ft./2 levels; see below)
-Area: 
-Effect: 
-Targets: 
 Duration: 1 round/level or until discharged
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: no
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 8
-Domains: 
 GPCost: 1500
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Legacy Of The First World"
 ---

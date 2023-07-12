@@ -1,35 +1,18 @@
 ---
 File: Limp Lash
 School: necromancy
-Subschool: 
-Aspects: 
 ClassList: { sorcerer: 2, wizard: 2, witch: 2 }
 CastTime: standard action
 Range: 20 ft.
-Area: 
-Effect: 
 Targets: 1 creature
 Duration: special (see below)
-Dismissible: 
-Shapeable: 
 SavingThrow: none
 SR: yes
 Components:
   V: yes
   S: yes
   M: a dead wasp
-  F: 
-  DF: 
-Deity: 
 SLALevel: 2
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Goblins Of Golarion"
 ---

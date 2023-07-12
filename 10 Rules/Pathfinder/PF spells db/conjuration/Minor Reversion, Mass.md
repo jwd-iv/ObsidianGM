@@ -2,34 +2,15 @@
 File: Minor Reversion, Mass
 School: conjuration
 Subschool: healing
-Aspects: 
 ClassList: { cleric: 6, oracle: 6, psychic: 5, sorcerer: 6, wizard: 6 }
 CastTime: 30 minutes
 Range: close (25 + 5 ft./2 levels)
-Area: 
-Effect: 
 Targets: one creature/level, no two of which can be more than 30 ft. apart
 Duration: 24 hours
-Dismissible: 
-Shapeable: 
-SavingThrow: 
-SR: 
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 6
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "Plane-Hopper's Handbook"
 ---

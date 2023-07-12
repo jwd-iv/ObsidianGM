@@ -1,35 +1,18 @@
 ---
 File: Venomous Bolt
 School: necromancy
-Subschool: 
 Aspects: [ poison ]
 ClassList: { ranger: 3 }
 CastTime: swift action
 Range: 0 ft.
-Area: 
-Effect: 
 Targets: one arrow or bolt
 Duration: instantaneous
-Dismissible: 
-Shapeable: 
 SavingThrow: Fortitude negates; see text
 SR: yes
 Components:
   V: yes
   S: yes
-  M: 
-  F: 
-  DF: 
-Deity: 
 SLALevel: 3
-Domains: 
-GPCost: 
-Bloodline: 
-Patron: 
-MythicDescription: 
-Augment: 
-Mythic: 
-Haunt: 
 Copyright:
   Content: "[APG](http://www.d20pfsrd.com/magic/all-spells/v/venomous-bolt)"
 ---

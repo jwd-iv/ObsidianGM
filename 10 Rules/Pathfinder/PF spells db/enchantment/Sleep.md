@@ -7,27 +7,17 @@ ClassList: { bard: 1, sorcerer: 1, wizard: 1, witch: 1, shaman: 1, occultist: 1,
 CastTime: 1 round
 Range: medium (100 + 10 ft./level)
 Area: one or more living creatures within a 10-ft.-radius burst
-Effect: 
-Targets: 
 Duration: 1 min./level
-Dismissible: 
-Shapeable: 
 SavingThrow: Will negates
 SR: yes
 Components:
   V: yes
   S: yes
   M: fine sand, rose petals, or a live cricket
-  F: 
-  DF: 
-Deity: 
 SLALevel: 1
 Domains: { Night: 1 }
-GPCost: 
 Bloodline: { Dreamspun: 3 }
-Patron: 
 Mythic: yes
-Haunt: 
 Copyright:
   Content: "[PFRPG Core](http://www.d20pfsrd.com/magic/all-spells/s/sleep)"
 ---
