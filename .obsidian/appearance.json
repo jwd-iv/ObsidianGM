@@ -2,5 +2,8 @@
   "accentColor": "#4a2fa2",
   "theme": "system",
   "cssTheme": "ITS Theme",
-  "baseFontSize": 14
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "ITS Custom Theme"
+  ]
 }
