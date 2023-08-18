@@ -1,7 +1,7 @@
 {
   "accentColor": "#4a2fa2",
-  "theme": "system",
-  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "cssTheme": "Ukiyo",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "ITS Custom Theme"
