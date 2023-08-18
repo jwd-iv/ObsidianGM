@@ -1,8 +1,8 @@
 {
   "ITS@@slrvb-g": false,
   "ITS@@select": "none",
-  "ITS@@t-d": true,
-  "ITS@@s-d": true,
+  "ITS@@t-d": false,
+  "ITS@@s-d": false,
   "ITS@@slrvb-b": false,
   "ITS@@drwn": false,
   "ITS@@nord": false,

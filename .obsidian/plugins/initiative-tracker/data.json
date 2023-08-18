@@ -95,7 +95,7 @@
   "initiative": "1d20 + %mod%",
   "modifier": null,
   "sync": false,
-  "leafletIntegration": false,
+  "leafletIntegration": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -106,7 +106,7 @@
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
