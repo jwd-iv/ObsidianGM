@@ -75,7 +75,7 @@
   "initiative": "1d20 + %mod%",
   "modifier": null,
   "sync": false,
-  "leafletIntegration": false,
+  "leafletIntegration": true,
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
@@ -85,7 +85,7 @@
     "round": 1,
     "logFile": ""
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
